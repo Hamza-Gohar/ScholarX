@@ -1,295 +1,272 @@
-<div align="center">
+# ScholarX
 
-# 🎓 ScholarX
+Autonomous multi-agent scholarship intelligence and admissions counseling system.
 
-### Autonomous Multi-Agent Scholarship Intelligence & Counseling System
-
-[![Next.js](https://img.shields.io/badge/Frontend-Next.js%2015-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-FF4F00?style=for-the-badge)](https://langchain-ai.github.io/langgraph/)
-[![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![SQLite](https://img.shields.io/badge/Storage-SQLite%20WAL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
-<p align="center">
-  <b>A state-of-the-art dual-engine counseling platform engineered for Pakistani and international students to discover, evaluate, stress-test, and win fully-funded global scholarships.</b>
-</p>
-
-[Quickstart](#-quickstart-in-3-minutes) •
-[Key Features](#-key-features) •
-[Architecture](#-system-architecture) •
-[Environment Setup](#-configuration--environment-variables) •
-[Developer Commands](#-developer-cheat-sheet) •
-[FAQ](#-frequently-asked-questions)
+ScholarX pairs deterministic validation logic with a multi-agent backend to evaluate applicants against 310 curated scholarship programs worldwide. It is built specifically with Pakistani academic credentials (BISE Matric/FSc, Cambridge O/A-Levels, IBCC equivalence, and HEC-recognized university tiers) and realistic Pakistani Rupee (PKR) living expense modeling.
 
 ---
 
-</div>
+## Table of Contents
 
-## 🌟 Overview
-
-Winning a fully-funded international scholarship transforms lives, yet millions of qualified students—particularly from Pakistan and developing nations—are eliminated every year due to fragmented information, opaque eligibility requirements, hidden testing hurdles, and complex currency conversion math.
-
-**ScholarX** solves this with an **autonomous multi-agent system** and **deterministic calculation engine**:
-1. **Zero-Hallucination Logic**: Hard criteria (GPA minimums, age limits, testing deadlines, and Pakistani Rupee living expense benchmarks) are calculated deterministically in Python—never guessed by LLMs.
-2. **Multi-Agent Intelligence**: 4 specialized AI agents collaborate across a 10-node LangGraph pipeline to match, audit, red-team, and roadmap your admissions journey.
-3. **Command Theatre UI**: A futuristic Obsidian glassmorphism interface with an interactive D3-Geo world projection, real-time Server-Sent Events (SSE) telemetry, tactile audio, and instant PDF dossier generation.
-
----
-
-## ✨ Key Features
-
-### 🎯 1. Deterministic Matching & Pakistan Localization
-* **Authentic Academic Standards**: First-class support for **BISE Matric/FSc**, **Cambridge O/A-Levels**, **IBCC equivalence** calculations, and **HEC recognized degrees** (Tiers 1-4).
-* **True PKR Cost Modeling**: Computes realistic flight, visa, living, and insurance costs in Pakistani Rupees (PKR) alongside official scholarship stipends using localized cost data (`data/pakistan_costs.json`).
-* **Provincial & Quota Awareness**: Accounts for regional and provincial quota considerations (Punjab, Sindh, KPK, Balochistan, AJK, GB).
-
-### 🤖 2. The 4-Agent LangGraph Crew
-* **🔍 Scout Agent**: Rapidly queries 310+ deep dossiers and live search APIs to surface high-probability programs tailored to the candidate's degree, target country, and financial need.
-* **📋 Evaluator Agent**: Performs an unforgiving line-by-line audit of minimum eligibility criteria (GPA, IELTS/TOEFL/GRE requirements, research publications, and field restrictions).
-* **🛡️ Skeptic Agent**: Plays adversarial devil's advocate to stress-test application weaknesses, visa risks, and hidden competitive hurdles before submission.
-* **🗺️ Roadmap Architect**: Synthesizes findings into an actionable, chronologically ordered milestone strategy complete with deadline runway alerts.
-
-### ⚡ 3. Command Theatre Frontend
-* **Obsidian Dark Glassmorphism**: Clean, accessibility-compliant aesthetic (contrast ratio ≥ 7:1) built with Next.js 15, React 19, and Tailwind CSS.
-* **Interactive D3-Geo World Stage**: Visualizes global scholarship destination clusters with real-time fly-to transitions and regional metrics.
-* **Real-time SSE Stream**: Watch agents analyze, debate, and score dossiers live via structured Server-Sent Events.
-* **One-Click Dossier PDF**: Instant generation of executive-grade scholarship analysis dossiers ready to print or share.
-
-### 📚 4. Exhaustive 310+ Curated Dossiers
-Pre-seeded database covering premier opportunities across 5 continents:
-* **Americas (65)**: Fulbright Foreign Student Program, Knight-Hennessy, rotary fellowships, OAS.
-* **Europe (101)**: Erasmus Mundus Joint Masters, DAAD (Germany), Chevening & Commonwealth (UK), Eiffel Excellence (France), Stipendium Hungaricum.
-* **Asia (81)**: MEXT (Japan), Chinese Government Scholarship (CSC / Silk Road), Global Korea Scholarship (GKS), Singapore SINGA, Taiwan ICDF.
-* **Middle East & North Africa (43)**: King Fahd University (KFUPM), KAUST Fellowship, Qatar University, Turkiye Burslari.
-* **Oceania (20)**: Australia Awards, Melbourne Research Scholarships, New Zealand Manaaki.
+- [Core Design](#core-design)
+- [Multi-Agent Architecture](#multi-agent-architecture)
+- [Quickstart](#quickstart)
+- [Configuration and Environment Variables](#configuration-and-environment-variables)
+- [Developer Commands](#developer-commands)
+- [Repository Structure](#repository-structure)
+- [Database and Offline Execution](#database-and-offline-execution)
+- [Troubleshooting](#troubleshooting)
+- [License](#license)
 
 ---
 
-## 🚀 Quickstart in 3 Minutes
+## Core Design
 
-Follow these 4 simple steps to run ScholarX locally.
+ScholarX avoids common LLM pitfalls by separating math and rules from language generation:
+
+1. **Deterministic logic for rules and finances**: Hard eligibility checks (minimum GPA, degree requirements, language score cutoffs, and testing deadlines) and cost calculations (stipends vs. local PKR visa, flight, and living expenses) run as pure Python code in `backend/workflows/`. LLMs are never asked to calculate numbers or make up policy rules.
+2. **LLMs for qualitative analysis**: Agent calls in `backend/agents/` handle qualitative tasks: parsing resumes and student background, summarizing selection criteria, red-teaming profile weaknesses, and drafting personalized preparation roadmaps.
+3. **Pakistan localization**: Includes Pakistani credential conversions (such as Cambridge grades to IBCC percentage equivalents) and localized cost projections in Pakistani Rupees using `data/pakistan_costs.json` and `data/pakistan_education.json`.
+4. **Command Theatre frontend**: A Next.js 15 interface built with Tailwind CSS and Zustand, featuring an interactive D3-Geo world projection map, live Server-Sent Events (SSE) telemetry, and PDF dossier generation.
+
+---
+
+## Multi-Agent Architecture
+
+ScholarX routes each applicant profile through a 10-node LangGraph pipeline with four primary agents:
+
+```text
+                    Candidate Profile / Resume
+                               │
+                               ▼
+                   ┌───────────────────────┐
+                   │ Deterministic Intake  │ Validates GPA, degree type,
+                   │  & Benchmark Engine   │ and Pakistan equivalence
+                   └───────────┬───────────┘
+                               │
+                               ▼
+                 ┌───────────────────────────┐
+                 │  10-Node LangGraph Graph  │
+                 └─────────────┬─────────────┘
+                               │
+       ┌───────────────────────┼──────────────────────┐
+       ▼                       ▼                      ▼
+┌──────────────┐       ┌───────────────┐      ┌───────────────┐
+│ Scout Agent  │       │Evaluator Agent│      │ Skeptic Agent │
+│ Matches 310+ │──────►│ Audits hard   │─────►│ Red-teams     │
+│ scholarship  │       │ requirements  │      │ risks, flaws, │
+│ dossiers     │       │ and criteria  │      │ and gaps      │
+└──────────────┘       └───────────────┘      └───────┬───────┘
+                                                      │
+                                                      ▼
+                                             ┌─────────────────┐
+                                             │  Roadmap Agent  │
+                                             │ Sets milestones │
+                                             │ and checklist   │
+                                             └────────┬────────┘
+                                                      │
+                                                      ▼
+                                             ┌─────────────────┐
+                                             │ Command Theatre │
+                                             │ Live SSE stream │
+                                             │ & PDF dossiers  │
+                                             └─────────────────┘
+```
+
+- **Scout Agent**: Filters 310 deep scholarship dossiers and web search APIs to find high-fit programs based on field of study, destination, and financial requirements.
+- **Evaluator Agent**: Verifies candidate qualifications against program requirements (GPA, IELTS/TOEFL, publications, and eligibility windows).
+- **Skeptic Agent**: Identifies application risks, unstated competition factors, visa hurdles, and profile gaps before submission.
+- **Roadmap Agent**: Compiles findings into chronological milestones with deadline tracking.
+
+---
+
+## Quickstart
+
+Follow these steps to run ScholarX locally.
 
 ### Prerequisites
-* **Node.js**: v18.0.0 or later (v20+ recommended) — `node -v`
-* **Python**: v3.11 or v3.12 — `python3 -v`
-* **Git**: `git -v`
 
----
+- **Node.js**: v18.0.0 or later (v20+ recommended)
+- **Python**: v3.11 or v3.12
+- **Git**
 
-### Step 1: Clone the Repository
+### 1. Clone the repository
+
 ```bash
 git clone https://github.com/Hamza-Gohar/ScholarX.git
 cd ScholarX
 ```
 
-### Step 2: Install Dependencies
+### 2. Install dependencies
 
-#### Frontend (Next.js):
+Install frontend dependencies:
+
 ```bash
 cd frontend
 npm install
 cd ..
 ```
 
-#### Backend (Python Virtual Environment):
+Create a Python virtual environment and install backend packages:
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate       # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### Step 3: Configure Environment Variables
-Copy the template to `.env`:
+### 3. Configure environment variables
+
+Copy the sample environment file:
+
 ```bash
 cp .env.example .env
 ```
-Open `.env` and add at least one **Gemini API Key** or **Groq API Key**:
-```env
-GEMINI_API_KEY_1=your_gemini_api_key_here
-# or
-GROQ_API_KEY_1=your_groq_api_key_here
-```
-*(Tip: ScholarX includes multi-key rotation! You can supply up to 13 Groq keys and 3 Gemini keys for automatic round-robin load distribution).*
 
-### Step 4: Launch ScholarX
-Run the entire stack (FastAPI backend + Next.js frontend) with a single command:
+Open `.env` and add at least one API key for Gemini or Groq:
+
+```env
+GEMINI_API_KEY_1=your_gemini_key_here
+# or
+GROQ_API_KEY_1=your_groq_key_here
+```
+
+ScholarX supports round-robin key rotation across up to 13 Groq keys and 3 Gemini keys to prevent rate limit bottlenecks.
+
+### 4. Start the application
+
+Run both the FastAPI backend and Next.js frontend with one command:
+
 ```bash
 npm run dev
 # or
 make dev
 ```
 
-That's it! 🎉
-* **🌐 Web Application**: [http://localhost:3000](http://localhost:3000)
-* **📑 Interactive API Docs (Swagger)**: [http://localhost:8000/docs](http://localhost:8000/docs)
-* **🏥 Backend Health Endpoint**: [http://localhost:8000/api/health](http://localhost:8000/api/health)
+The application runs on:
+
+- **Frontend interface**: http://localhost:3000
+- **Interactive API documentation (Swagger)**: http://localhost:8000/docs
+- **Health check endpoint**: http://localhost:8000/api/health
 
 ---
 
-## ⚙️ Configuration & Environment Variables
+## Configuration and Environment Variables
 
-ScholarX manages rotating API key pools to ensure 100% uptime without hitting rate limits.
-
-| Variable | Description | Default / Example | Required? |
+| Variable | Description | Example | Required |
 | :--- | :--- | :--- | :---: |
-| `GEMINI_API_KEY_1..3` | Google Gemini API keys for deep reasoning | `AIzaSy...` | Optional* |
+| `GEMINI_API_KEY_1..3` | Google Gemini keys for deep analysis | `AIzaSy...` | Optional* |
 | `GEMINI_PRIMARY_MODEL` | Primary Gemini model identifier | `gemini-2.5-flash` | No |
-| `GROQ_API_KEY_1..13` | Groq high-speed inference API keys | `gsk_...` | Optional* |
+| `GROQ_API_KEY_1..13` | Groq keys for low-latency reasoning | `gsk_...` | Optional* |
 | `GROQ_MODEL` | Default Groq model | `llama-3.3-70b-versatile` | No |
-| `TAVILY_API_KEY_1..7` | Tavily search keys for live deadline scrapers | `tvly-...` | No (Cached) |
-| `FIRECRAWL_API_KEY_1..6` | Firecrawl API keys for deep page crawling | `fc-...` | No (Cached) |
-| `SESSION_DB_PATH` | Path to persistent SQLite database | `./data/scholarx_sessions.db`| No |
+| `TAVILY_API_KEY_1..7` | Tavily keys for live web search | `tvly-...` | No (Cached) |
+| `FIRECRAWL_API_KEY_1..6` | Firecrawl keys for deep URL scraping | `fc-...` | No (Cached) |
+| `SESSION_DB_PATH` | Path to the local SQLite database | `./data/scholarx_sessions.db` | No |
 
-*\*At least one LLM key (either Gemini or Groq) is required for conversational counseling and deep analysis.*
-
----
-
-## 🛠️ Developer Cheat Sheet
-
-ScholarX comes with full `Makefile` and `npm` scripts:
-
-| Task | Command | Description |
-| :--- | :--- | :--- |
-| **Start Full Stack** | `make dev` or `npm run dev` | Runs FastAPI (:8000) & Next.js (:3000) concurrently |
-| **Backend Only** | `make backend` | Starts FastAPI with hot-reload |
-| **Frontend Only** | `make frontend` | Starts Next.js frontend on port 3000 |
-| **System Diagnostics** | `make doctor` or `npm run doctor` | Runs the 48-point environment and DB health check |
-| **Run Fast Tests** | `make test-fast` | Runs schema validation and API key pool tests (<0.5s) |
-| **Run Full Test Suite** | `make test` | Executes all backend pytest suites |
-| **Seed Database** | `make seed` | Re-seeds 310 scholarships and benchmark student profiles |
-| **System Primer** | `make primer` | Prints high-density architectural primer (~1,500 tokens) |
+\*At least one working LLM API key (Gemini or Groq) is required to run live multi-agent counseling.
 
 ---
 
-## 📁 Repository Tour
+## Developer Commands
+
+The project root provides shortcuts via `Makefile` and `npm`:
+
+| Command | Action |
+| :--- | :--- |
+| `make dev` or `npm run dev` | Starts FastAPI (port 8000) and Next.js (port 3000) concurrently |
+| `make backend` | Starts the FastAPI backend with hot-reload enabled |
+| `make frontend` | Starts the Next.js development server |
+| `make doctor` or `npm run doctor` | Runs the 48-point environment and database diagnostic suite |
+| `make test-fast` | Runs unit tests for schemas and API key rotation (<0.5s) |
+| `make test` | Runs the full pytest test suite |
+| `make seed` | Seeds SQLite with 310 scholarships and benchmark student profiles |
+| `make primer` | Prints a high-density architectural overview (~1,500 tokens) |
+
+---
+
+## Repository Structure
 
 ```text
 SCHOLARX/
 ├── backend/
-│   ├── agents/            # Scout, Evaluator, Skeptic, and Roadmap LLM agents
+│   ├── agents/            # Scout, Evaluator, Skeptic, and Roadmap agent implementations
 │   ├── api/               # FastAPI route definitions (sessions, scholarships, students)
-│   ├── db/                # SQLite database models, aiosqlite handlers, and seed scripts
+│   ├── db/                # SQLite database models, connection handlers, and seed logic
 │   ├── events/            # Server-Sent Events (SSE) streaming engine
 │   ├── graph/             # 10-node LangGraph StateGraph orchestration
-│   ├── schemas/           # Pydantic v2 domain schemas & validation models
+│   ├── schemas/           # Pydantic v2 schemas and validation contracts
 │   ├── tests/             # Pytest test suites (security, schema, workflows)
-│   ├── tools/             # Search tools, scrapers, and document parsers
-│   └── workflows/         # Deterministic scoring, checklist math & ranking algorithms
+│   ├── tools/             # Search clients, scrapers, and document parsers
+│   └── workflows/         # Deterministic scoring, checklist logic, and ranking algorithms
 ├── frontend/
-│   ├── app/               # Next.js 15 App Router pages & API routes
-│   ├── components/        # Obsidian glassmorphism UI components (Command Theatre, Stage)
-│   ├── hooks/             # Custom React hooks (useSSE, useScholarships)
+│   ├── app/               # Next.js 15 App Router pages and API routes
+│   ├── components/        # UI components (Command Theatre, Stage, D3 projection)
+│   ├── hooks/             # React hooks (useSSE, useScholarships)
 │   ├── lib/               # Utility functions, sound effects, and API client
-│   └── store/             # Zustand v5 global state stores
+│   └── store/             # Zustand v5 state stores
 ├── data/
-│   ├── scholarships/      # 310 JSON scholarship dossiers organized by continent
-│   ├── pakistan_costs.json       # Localized PKR cost benchmarks (visas, flights, living)
+│   ├── scholarships/      # 310 scholarship JSON dossiers grouped by region
+│   ├── pakistan_costs.json       # Pakistan cost benchmarks (visas, flights, living)
 │   └── pakistan_education.json   # BISE / IBCC / HEC conversion tables
-├── docs/                  # Architecture Decision Records (ADRs) and design guides
-├── exhibition_slides/     # Korean Minimalist interactive pitch deck & PDF builder
-├── scripts/               # System doctor, context engine, and database curators
-├── package.json           # Root package script runner
-├── Makefile               # CLI shortcut targets
+├── docs/                  # Architecture Decision Records (ADRs) and reference notes
+├── exhibition_slides/     # Presentation deck and PDF builder
+├── scripts/               # Diagnostics (doctor.py), context engine, and database curators
+├── Makefile               # Task runner shortcuts
+├── package.json           # Node scripts and runner configuration
+├── requirements.txt       # Root Python dependency specification
 └── README.md              # Project documentation
 ```
 
 ---
 
-## 🧠 System Architecture
+## Database and Offline Execution
 
-```text
-                      Candidate Profile / Resume
-                                 │
-                                 ▼
-                     ┌───────────────────────┐
-                     │ Deterministic Intake  │ ◄── Validates GPA, Degree,
-                     │  & Benchmark Engine   │     Field & Pakistan Equivalence
-                     └──────────┬────────────┘
-                                │
-                                ▼
-                   ┌───────────────────────────┐
-                   │  10-Node LangGraph Graph  │
-                   └─────────────┬─────────────┘
-                                 │
-         ┌───────────────────────┼──────────────────────┐
-         ▼                       ▼                      ▼
-┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   Scout Agent   │    │ Evaluator Agent  │    │  Skeptic Agent  │
-│ Surfaces top    │    │ Rigorous hard    │    │ Stress-tests    │
-│ matches from    │───►│ eligibility and  │───►│ profile flaws,  │
-│ 310+ dossiers   │    │ criteria audit   │    │ risks & hurdles │
-└─────────────────┘    └──────────────────┘    └────────┬────────┘
-                                                        │
-                                                        ▼
-                                              ┌──────────────────┐
-                                              │ Roadmap Agent    │
-                                              │ Milestones &     │
-                                              │ Action Checklist │
-                                              └────────┬─────────┘
-                                                        │
-                                                        ▼
-                                              ┌──────────────────┐
-                                              │ Command Theatre  │
-                                              │ Real-Time SSE    │
-                                              │ UI & PDF Dossier │
-                                              └──────────────────┘
+ScholarX uses a local, single-file SQLite database with Write-Ahead Logging (WAL) enabled (`data/scholarx_sessions.db`).
+
+The deterministic matching engine, Pakistan equivalence conversions, offline scholarship catalog (310 dossiers), and database viewer work without third-party services or network calls. External network calls occur only when requesting live web scraping or when invoking LLM agents for conversational counseling.
+
+To test the system offline:
+
+```bash
+# Verify the scholarship catalog
+python3 scratch/query_scholarships.py
+
+# Launch the offline database viewer in your browser
+xdg-open scholarships_database_viewer.html
 ```
 
 ---
 
-## ❓ Frequently Asked Questions
+## Troubleshooting
 
-<details>
-<summary><b>1. Can I run ScholarX completely offline without API keys?</b></summary>
-<br>
-Yes! The deterministic matching engine, 310 seeded scholarships, database viewer, and Pakistan equivalence calculators run locally on SQLite without needing an active internet connection or LLM API keys. You only need API keys when invoking real-time conversational counseling or live agent debates.
-</details>
+### Port 8000 or 3000 is already in use
 
-<details>
-<summary><b>2. Port 8000 or Port 3000 is already in use. How do I change them?</b></summary>
-<br>
-To change the backend port, run:
+If port 8000 is busy, start FastAPI on another port:
+
 ```bash
 PYTHONPATH=backend .venv/bin/python -m uvicorn main:app --port 8080 --reload
 ```
-To change the frontend port:
+
+If port 3000 is busy, tell Next.js to use port 3001:
+
 ```bash
 cd frontend && npm run dev -- -p 3001
 ```
-</details>
 
-<details>
-<summary><b>3. How do I run the system health check?</b></summary>
-<br>
-ScholarX includes a built-in diagnostic tool that tests 48 environment invariants:
+### Running the environment doctor
+
+Run `doctor.py` to identify missing packages, missing files, or port conflicts:
+
 ```bash
-make doctor
-# or
 .venv/bin/python scripts/doctor.py
 ```
-</details>
 
-<details>
-<summary><b>4. How do I build the Exhibition Slide Deck?</b></summary>
-<br>
-ScholarX includes an editorial Korean Minimalist presentation engine:
-```bash
-cd exhibition_slides
-python3 build_deck.py
-```
-This builds an interactive HTML web deck, high-resolution PDF, and native PowerPoint presentation.
-</details>
+### Python packages not detected
+
+Make sure you run scripts using the virtual environment interpreter (`.venv/bin/python`) rather than your global system Python.
 
 ---
 
-## 📄 License & Credits
+## License
 
-Built with pride by **Hamza Gohar** & the ScholarX team for students worldwide.  
 Released under the [MIT License](LICENSE).
-
-<div align="center">
-  <sub>ScholarX — Empowering the next generation of global scholars. 🎓🇵🇰</sub>
-</div>
