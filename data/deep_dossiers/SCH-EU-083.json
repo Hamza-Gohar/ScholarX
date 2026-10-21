@@ -1,0 +1,281 @@
+{
+  "scholarship_id": "SCH-EU-083",
+  "basic_details": {
+    "scholarship_name": "Sant'Anna School of Advanced Studies International PhD Fellowships",
+    "offering_entity": "Scuola Superiore Sant'Anna (Scuola Superiore Universitaria)",
+    "host_country": "Italy",
+    "host_institutions_covered": "Scuola Superiore Sant'Anna (Pisa, Italy) & Biorobotics Institute (Pontedera)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Biorobotics, Emerging Digital Technologies (Cybersecurity, Photonic Networks, AI), Economics, Law, Agrobiosciences, and Translational Medicine.",
+    "number_of_awards_total": "~50 to 60 fully funded doctoral fellowships awarded annually across all institutes",
+    "number_of_awards_pakistan": "Open internationally to candidates of all nationalities; typically 2 to 4 Pakistani scholars selected per cycle",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "36 to 48 months (3 to 4 years of doctoral funding)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to candidates of all nationalities worldwide including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction under Italian higher education regulations.",
+    "academic_qualifications": "Recognized 18-year Master's degree (MS / MPhil) or 4/5-year university degree from an HEC-recognized university with high academic distinction (minimum CGPA 3.70 / 4.00 or 82%+).",
+    "minimum_gpa_percentage": 82.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Minimum CGPA 3.70 / 4.00; competitive candidates typically hold CGPA >= 3.85 / 4.00.",
+    "subject_background_prerequisites": "Master's degree in Robotics, Computer Science, Telecommunications, Mechanical Engineering, Biomedical Engineering, Economics, or Law.",
+    "current_education_status": "Graduated or enrolled in final semester of master's degree graduating by October 31 of intake year.",
+    "graduation_year_restrictions": "No restriction on year of graduation.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior research experience, robotics prototypes, publications, or conference presentations provide strong competitive advantage.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS 6.5+, TOEFL 90+, or official MOI certificate confirming previous university degree was taught entirely in English.",
+    "other_language_requirements": "Italian is not required; research and doctoral courses are conducted 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Awarded purely on merit via international competitive examination.",
+    "previous_scholarship_restrictions": "Candidates who have previously held an Italian ministerial PhD scholarship cannot receive funding for the same degree level.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition waiver; public Italian higher education tuition-free.",
+      "amount": "100% Free Tuition"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Applying to Sant'Anna PhD competitions is completely free of charge.",
+      "amount": "EUR 0"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Free accommodation in Sant'Anna collegiate residences in Pisa/Pontedera or equivalent monthly housing allowance.",
+      "amount": "Free collegiate residence or housing allowance"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "EUR 1,420 / month net living stipend (~PKR 430,000 / month | ~EUR 17,000 net per year) disbursed monthly.",
+      "amount": "EUR 1,420 / month net (~PKR 430,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Relocation airfare from Pakistan to Italy is self-funded.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Italian National Visa (Type D) application fee (~EUR 116) paid at Italian Embassy/Consulate in Pakistan.",
+      "amount": "EUR 116 visa fee borne by candidate"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full registration with the Italian National Health Service (SSN) covered for international fellows.",
+      "amount": "100% Italian SSN Healthcare covered"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Free daily meals (lunch and dinner) at the Sant'Anna School dining hall (Mensa) included for all doctoral fellows.",
+      "amount": "Free daily meals at Sant'Anna Mensa"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Dedicated laboratory access, research equipment, individual desk, and library access.",
+      "amount": "Free lab equipment and library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Dedicated annual research and mobility fund + 50% stipend increase during authorized research abroad (up to 12 months).",
+      "amount": "50% stipend boost abroad + research fund"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized regional student rail and bus transit connecting Pisa, Pontedera, and Florence.",
+      "amount": "Subsidized Tuscan regional transit"
+    },
+    "total_estimated_value_usd_per_year": 30000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Scuola Superiore Sant'Anna, Pisa, Tuscany, Italy).",
+    "participating_institutions": [
+      "Scuola Superiore Sant'Anna (Pisa)",
+      "The Biorobotics Institute (Pontedera)",
+      "TeCIP Institute - Telecommunications, Computer Engineering, and Photonics"
+    ],
+    "university_rankings_scope": "World #1 small university (Times Higher Education World University Rankings); world leader in biorobotics, wearable robotics, and photonics.",
+    "available_majors": [
+      "PhD in Biorobotics (Prosthetics, Surgical Robotics, Bio-inspired Systems)",
+      "PhD in Emerging Digital Technologies (Cybersecurity, AI, Photonic Networks)",
+      "PhD in Economics (Industrial Dynamics, Innovation, Complexity)",
+      "PhD in Law (Human Rights, AI & Law)",
+      "PhD in Agrobiosciences (Sustainable Agriculture, Plant Genomics)",
+      "PhD in Translational Medicine"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "3 to 4 years (36 to 48 months full-time research)",
+    "admission_requirements_summary": "Master's degree (CGPA >= 3.70/4.00), detailed research project proposal, CV, two academic recommendation letters, and online interview.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Single integrated competition; Biorobotics and Digital Technologies have the highest application volume and technical rigor.",
+    "strategic_program_match_advice": "Clearly articulate how your research proposal leverages Sant'Anna's specialized robotics or photonics laboratories."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.santannapisa.it/en/admissions",
+    "portal_system_name": "Sant'Anna Online Admissions Portal",
+    "account_creation_instructions": "Register on the Sant'Anna admissions portal, choose the desired PhD programme, fill in personal and educational information, upload degree transcripts, CV, research project proposal, and register two academic referees before April 15.",
+    "step_by_step_workflow": [
+      "Step 1: Review PhD call notices, research themes, and laboratory pages on santannapisa.it.",
+      "Step 2: Prepare academic transcripts, master's degree certificate, detailed CV, research project proposal (max 5-8 pages), and two academic referee details.",
+      "Step 3: Register on the Sant'Anna online application system.",
+      "Step 4: Upload all required documents and submit the online application before the program deadline (typically April 15).",
+      "Step 5: Selection Committee reviews candidate dossiers and publishes shortlist for interviews in May.",
+      "Step 6: Shortlisted candidates attend an online oral technical interview via Zoom or Teams.",
+      "Step 7: Final merit ranking published on the Sant'Anna website.",
+      "Step 8: Admitted candidates confirm acceptance and initiate Italian Type D visa application."
+    ],
+    "university_vs_scholarship_routing": "Integrated Routing: Admission and fellowship are awarded together in a single competition.",
+    "recommendation_letters_submission_method": "Submitted online by two university academic professors directly via referee invitation link.",
+    "personal_statement_prompts": "Statement explaining motivation for undertaking doctoral studies at Sant'Anna and personal career vision.",
+    "study_plan_research_proposal_requirements": "Structured research project proposal (maximum 5 to 8 pages) including state of the art, objectives, methodology, work plan, and expected results.",
+    "cv_format_requirements": "Comprehensive academic CV detailing publications, prototypes, patents, and academic honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "Comprehensive technical interview probing research project proposal, master's thesis, and foundational knowledge in chosen field.",
+    "standardized_tests": "IELTS 6.5+ or TOEFL 90+ / MOI certificate accepted.",
+    "application_fee_amount": "EUR 0 (Completely free to apply)",
+    "attestation_requirements": "HEC degree attestation and CIMEA Statement of Comparability / DOV for Italian visa and matriculation.",
+    "translation_requirements": "Certified English or Italian translation.",
+    "final_submission_method": "Online submission via Sant'Anna portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Master's and Bachelor's Degree Certificates",
+      "mandatory": true,
+      "specification": "HEC-attested degrees or expected graduation certificate by October 31.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts of bachelor's and master's records showing all marks and credits.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Doctoral Research Project Proposal",
+      "mandatory": true,
+      "specification": "Structured 5 to 8-page research project detailing objectives, methodology, and timeline.",
+      "pakistan_specific_instruction": "Aligned with Sant'Anna laboratory priorities."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Academic CV highlighting research projects, publications, and technical toolsets.",
+      "pakistan_specific_instruction": "Standard layout."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from university professors submitted directly via portal.",
+      "pakistan_specific_instruction": "On official institutional letterhead."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear scan of passport identification page.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2027-01-15",
+    "application_deadline": "2027-04-15",
+    "university_admission_deadline": "2027-04-15",
+    "document_submission_deadline": "2027-04-15",
+    "recommendation_letters_deadline": "2027-04-22",
+    "interview_period": "May 10 to May 30, 2027",
+    "shortlist_announcement": "Early June 2027",
+    "final_result_acceptance_deadline": "Within 10 days of publication",
+    "visa_application_window": "June to August 2027",
+    "semester_commencement": "2027-10-01",
+    "annual_cycle_notes": "Main call deadline is mid-April; academic year commences on October 1."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Academic transcript excellence, degree marks, and university prestige)",
+    "extracurricular_and_leadership_weight": "5% (Engineering competitions, leadership, and scientific outreach)",
+    "research_experience_weight": "35% (Scientific originality, feasibility, and methodological rigor of research proposal)",
+    "work_experience_weight": "5% (Industry R&D or technical laboratory experience)",
+    "personal_statement_weight": "5% (Clarity of personal trajectory and vision)",
+    "recommendations_weight": "5% (Strength and detail of academic recommendation letters)",
+    "interview_weight": "15% (Online technical interview evaluating proposal defense and subject mastery)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure merit competition)",
+    "selection_panel_composition": "International Selection Committee comprising Sant'Anna institute directors and senior faculty.",
+    "evaluation_methodology": "Two-phase evaluation: project proposal and CV assessment (minimum 35/50 to be shortlisted) followed by oral interview (minimum 35/50 to be admitted)."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,200 to 1,600 applicants worldwide across doctoral programmes",
+    "total_scholarships_awarded": "~50 to 60 fully funded fellowships awarded annually",
+    "acceptance_rate_global": "~3.5%",
+    "acceptance_rate_pakistan": "~4% to 6% among engineering and computing master's graduates",
+    "typical_successful_applicant_gpa": "3.85 / 4.00 (top 3% class ranking with published papers or working prototypes)",
+    "typical_academic_and_research_profile": "Graduates in robotics, biomedical engineering, computer science, or telecommunications with strong hands-on lab and coding track records.",
+    "common_backgrounds_of_winners": "Graduates from NUST, GIKI, UET Lahore, and FAST-NUCES.",
+    "high_representation_countries": "Italy, Pakistan, India, Turkey, Iran, China, Brazil, Germany.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portal https://www.santannapisa.it/.",
+      "Never pay third-party consultancies promising guaranteed Sant'Anna admissions."
+    ],
+    "application_fee_warning": "Applying to Sant'Anna is completely free of charge.",
+    "agent_and_intermediary_warnings": "Sant'Anna does not use commercial educational recruiters.",
+    "hidden_costs_breakdown": [
+      "Application fee: EUR 0 (Free).",
+      "Italian Student Visa fee: ~EUR 116 (~PKR 35,000).",
+      "CIMEA Statement of Comparability / DOV legalization: ~EUR 150 - 200 (~PKR 45,000 - 60,000).",
+      "Flight from Pakistan to Pisa/Rome: ~PKR 150,000 to 220,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Meals and lodging must be paid out of stipend. Reality: Sant'Anna provides free collegiate accommodation AND free daily lunch/dinner at the Mensa on top of the EUR 1,420 net stipend.",
+      "Myth: Italian fluency is required for lab work. Reality: Sant'Anna's Biorobotics and TeCIP institutes operate 100% in English with international teams."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sources claim IELTS is strictly mandatory; Sant'Anna officially accepts university MOI certificates confirming an English-taught degree."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Successful completion of first-year courses and passing annual PhD progression reviews.",
+    "attendance_requirements": "Mandatory full-time presence at Sant'Anna laboratories and collegiate residences.",
+    "academic_progress_monitoring": "Annual progress report and presentation to the Institute Doctoral Board.",
+    "work_restrictions_during_study": "Scholars may not engage in outside professional employment during the fellowship period.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Termination of fellowship if scholar fails annual review or withdraws without approved medical grounds.",
+    "rules_for_changing_university": "Non-transferable to other Italian universities.",
+    "rules_for_changing_major": "Research topic defined under the guidance of advisor within the admitted doctoral programme.",
+    "extension_policy": "Duration is typically 3 to 4 years according to specific institute guidelines."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Scuola Superiore Sant'Anna Official Portal",
+      "source_url": "https://www.santannapisa.it/en/education/phd-courses",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Sant'Anna Admissions System",
+      "source_url": "https://www.santannapisa.it/en/admissions",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

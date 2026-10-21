@@ -1,0 +1,287 @@
+{
+  "scholarship_id": "SCH-EU-077",
+  "basic_details": {
+    "scholarship_name": "Imperial College London President's PhD Scholarships",
+    "offering_entity": "Imperial College London",
+    "host_country": "United Kingdom",
+    "host_institutions_covered": "Imperial College London (South Kensington, White City, and Silwood Park Campuses)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "All PhD research programmes across Imperial faculties: Computing, AI, Bioengineering, Electrical & Electronic Engineering, Mechanical Engineering, Physics, Chemistry, Mathematics, Medicine, and Life Sciences.",
+    "number_of_awards_total": "Up to 50 prestigious PhD scholarships awarded across Imperial College London annually",
+    "number_of_awards_pakistan": "Open globally to outstanding international researchers; typically 1 to 3 Pakistani candidates selected per cycle",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "42 months (3.5 years of fully funded doctoral research)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to high-performing researchers of all nationalities including Pakistan (home, EU, and international)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age limit under Imperial College London regulations.",
+    "academic_qualifications": "Must hold or be on track to achieve a First Class Honours undergraduate degree (minimum CGPA 3.80 / 4.00 or 85%+) or a Master's degree with Distinction from an HEC-recognized university.",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.8,
+    "grading_conversion_notes": "Minimum CGPA 3.80 / 4.00 or First Class with Distinction; successful candidates almost universally hold CGPA >= 3.90 / 4.00 with top-tier research publications.",
+    "subject_background_prerequisites": "Advanced academic foundation in computing, engineering, physical sciences, mathematical sciences, or biomedical sciences.",
+    "current_education_status": "Master's graduate, final-year master's student, or exceptional 4-year bachelor's graduate with proven research track record.",
+    "graduation_year_restrictions": "No restriction on graduation year.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Peer-reviewed publications in top conferences (e.g. NeurIPS, CVPR, ICML, IEEE) or international journals provide decisive advantage.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 100,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 7.0 overall (minimum 6.5 in all subscores) or TOEFL iBT minimum 100 (minimum 22 in all subscores). MOI is not accepted.",
+    "other_language_requirements": "Instruction is 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must secure endorsement and supervisor support from an Imperial College London academic faculty member prior to application.",
+    "previous_scholarship_restrictions": "Cannot hold another full PhD studentship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full international tuition fees waived for 3.5 years (worth up to GBP 40,000+ per year in engineering/computing).",
+      "amount": "100% Full International Tuition Waiver (~GBP 140,000 value)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Standard postgraduate application fee of GBP 80 (waived for certain PhD programmes or upon faculty nomination).",
+      "amount": "GBP 80 (or fee waiver)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Covered comfortably from the monthly living stipend; Imperial Graduate School provides housing guidance and London apartment support.",
+      "amount": "Fully funded via living stipend"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "GBP 2,095 / month tax-free living stipend (GBP 25,150 per year | ~PKR 780,000 / month) for 42 months.",
+      "amount": "GBP 2,095 / month (~PKR 780,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Initial relocation travel between Pakistan and London is self-funded.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "UK Student Visa fee (~GBP 490) and Immigration Health Surcharge (IHS ~GBP 776/year) covered by student or department top-up.",
+      "amount": "UK Visa & IHS fees borne by candidate"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive access to the UK National Health Service (NHS) for the duration of the doctoral studies.",
+      "amount": "Full UK National Health Service (NHS) access"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly GBP 2,095 living stipend plus access to Imperial campus dining facilities.",
+      "amount": "Fully funded via living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to Imperial College London libraries, IEEE, ACM, Springer, and Nature journal archives.",
+      "amount": "Full digital and archival library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "GBP 2,000 per year dedicated consumables and conference travel fund (total GBP 7,000 over 3.5 years).",
+      "amount": "GBP 2,000 / year consumables fund"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized Transport for London (TfL) Student Oyster card providing 30% discount on tube, bus, and rail.",
+      "amount": "Subsidized 30% TfL Student Oyster discount"
+    },
+    "total_estimated_value_usd_per_year": 58000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Imperial College London, London, UK).",
+    "participating_institutions": [
+      "Imperial College London"
+    ],
+    "university_rankings_scope": "World #2 university (QS World University Rankings 2025); global leader in science, engineering, computing, and medicine.",
+    "available_majors": [
+      "PhD in Computing & Artificial Intelligence",
+      "PhD in Bioengineering & Neurotechnology",
+      "PhD in Electrical & Electronic Engineering",
+      "PhD in Mechanical Engineering & Robotics",
+      "PhD in Physics & Quantum Technologies",
+      "PhD in Chemical Engineering & Sustainable Materials",
+      "PhD in Mathematics & Data Science"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "3.5 years (42 months full-time research)",
+    "admission_requirements_summary": "First Class degree (CGPA >= 3.80/4.00), prior agreement from prospective Imperial doctoral supervisor, detailed research proposal, CV, two academic references, and IELTS 7.0+.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Securing supervisor backing is crucial; prospective supervisor must agree to nominate the applicant for the President's PhD Scheme.",
+    "strategic_program_match_advice": "Contact prospective Imperial professors 3 to 6 months in advance with a tailored research concept note and CV highlighting novel computational methods."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.imperial.ac.uk/study/apply/postgraduate-doctoral/",
+    "portal_system_name": "Imperial College London Postgraduate Application System",
+    "account_creation_instructions": "Step 1: Contact potential supervisor in chosen department and gain their agreement to nominate you. Step 2: Submit formal PhD application online and select 'President's PhD Scholarships' funding option before the scheme deadline (Round 1: Nov, Round 2: Jan 8, Round 3: Mar).",
+    "step_by_step_workflow": [
+      "Step 1: Identify and contact prospective PhD supervisors at Imperial College London whose research aligns with your interests.",
+      "Step 2: Obtain written confirmation that the supervisor agrees to support your application for the President's PhD Scholarship.",
+      "Step 3: Complete Imperial online postgraduate application before the deadline (January 8 for main round).",
+      "Step 4: Select the President's PhD Scholarship scheme in the funding section of the application.",
+      "Step 5: Upload your research proposal (maximum 2 pages), academic transcripts, CV, and details of two academic referees.",
+      "Step 6: Departmental review committee evaluates candidates and forwards shortlisted nominees to the Central Selection Panel.",
+      "Step 7: Shortlisted candidates undergo departmental interviews with faculty members.",
+      "Step 8: Final scholarship decisions announced within 6 to 8 weeks following the round deadline."
+    ],
+    "university_vs_scholarship_routing": "Integrated Routing: Candidates apply for PhD admission and tick the President's PhD Scholarship option within the single application system, with mandatory supervisor support.",
+    "recommendation_letters_submission_method": "Submitted online by two university academic professors directly via referee invitation link.",
+    "personal_statement_prompts": "Combined motivation and research vision statement explaining academic background, research accomplishments, and doctoral ambitions.",
+    "study_plan_research_proposal_requirements": "Rigorous 2-page research proposal outlining the research problem, methodology, novelty, expected impact, and feasibility within 3.5 years.",
+    "cv_format_requirements": "Academic CV highlighting publications, preprints, code repositories, academic awards, and degree rankings.",
+    "interviews_conducted": true,
+    "interview_format_details": "Rigorous academic interview conducted by departmental faculty and prospective supervisor probing technical expertise and research depth.",
+    "standardized_tests": "IELTS Academic 7.0+ (min 6.5 each) or TOEFL iBT 100+ (min 22 each).",
+    "application_fee_amount": "GBP 80 (standard postgraduate application fee)",
+    "attestation_requirements": "HEC degree attestation required for Pakistani applicants.",
+    "translation_requirements": "Certified English translation for all official records.",
+    "final_submission_method": "Online submission via Imperial College London Postgraduate Application System."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor and Master Degree Certificates",
+      "mandatory": true,
+      "specification": "HEC-attested degrees with First Class Honours / Distinction (minimum CGPA 3.80 / 4.00).",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts of undergraduate and postgraduate records showing all course marks and rankings.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Doctoral Research Proposal",
+      "mandatory": true,
+      "specification": "Concise 2-page research proposal detailing objectives, state-of-the-art, methodology, and project timeline.",
+      "pakistan_specific_instruction": "Refined in consultation with Imperial supervisor."
+    },
+    {
+      "document_name": "Prospective Supervisor Endorsement",
+      "mandatory": true,
+      "specification": "Confirmation of supervisor support from an Imperial College London faculty member.",
+      "pakistan_specific_instruction": "Written supervisor support agreement."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Comprehensive academic CV detailing publications, GitHub repositories, and research experience.",
+      "pakistan_specific_instruction": "Include DOIs for all publications."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from university professors assessing research capability and ranking.",
+      "pakistan_specific_instruction": "From undergraduate/master's thesis supervisors."
+    },
+    {
+      "document_name": "English Language Test Scorecard",
+      "mandatory": true,
+      "specification": "Official IELTS (min 7.0) or TOEFL iBT (min 100) certificate.",
+      "pakistan_specific_instruction": "Valid test score."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-09-01",
+    "application_deadline": "2027-01-08",
+    "university_admission_deadline": "2027-01-08",
+    "document_submission_deadline": "2027-01-08",
+    "recommendation_letters_deadline": "2027-01-15",
+    "interview_period": "January to February 2027",
+    "shortlist_announcement": "Late February 2027",
+    "final_result_acceptance_deadline": "Within 3 weeks of award letter",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "2027-10-01",
+    "annual_cycle_notes": "Imperial operates three review rounds per year; Round 2 (deadline January 8) is the primary intake for international applicants."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (First Class Honours undergraduate and postgraduate transcripts, degree rank)",
+    "extracurricular_and_leadership_weight": "5% (Scientific community involvement, open source software leadership)",
+    "research_experience_weight": "35% (Research proposal quality, peer-reviewed publications, and methodological innovation)",
+    "work_experience_weight": "5% (Industry R&D experience in tech or engineering)",
+    "personal_statement_weight": "5% (Clarity of vision and alignment with Imperial's research strengths)",
+    "recommendations_weight": "5% (Strength and detail of academic reference letters)",
+    "interview_weight": "5% (Departmental technical interview and supervisor recommendation)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure academic excellence evaluation)",
+    "selection_panel_composition": "Faculty Deans, Departmental Research Directors, and Central Imperial President's Scholarship Committee.",
+    "evaluation_methodology": "Two-tier review: departmental shortlisting followed by competitive college-wide committee assessment."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,000 highly qualified doctoral applicants nominated across Imperial",
+    "total_scholarships_awarded": "Up to 50 scholarships awarded college-wide",
+    "acceptance_rate_global": "~2.5%",
+    "acceptance_rate_pakistan": "~2% to 3% among applicants with First Class degrees and publications",
+    "typical_successful_applicant_gpa": "3.92 / 4.00 (First Class Honours with Distinction and multiple conference papers)",
+    "typical_academic_and_research_profile": "Researchers in computing, quantum physics, AI, or bioengineering with outstanding publications in top venues.",
+    "common_backgrounds_of_winners": "Graduates from NUST, LUMS, GIKI, and Cambridge/Oxford/Imperial alumni.",
+    "high_representation_countries": "United Kingdom, China, Pakistan, India, Italy, Germany, United States, Canada.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply via the official Imperial College London portal https://www.imperial.ac.uk/.",
+      "Beware of consultancies offering to 'arrange' Imperial PhD supervision for a fee."
+    ],
+    "application_fee_warning": "Imperial charges a standard GBP 80 application fee.",
+    "agent_and_intermediary_warnings": "Imperial College London does not accept applications through commercial recruitment agencies for doctoral studies.",
+    "hidden_costs_breakdown": [
+      "Application fee: GBP 80 (~PKR 30,000).",
+      "UK Student Visa application fee: ~GBP 490 (~PKR 180,000).",
+      "Immigration Health Surcharge (IHS): ~GBP 776 per year (~PKR 290,000/yr).",
+      "Initial London rental deposit: ~GBP 1,200 - 1,800 (~PKR 450,000 - 670,000).",
+      "Flight from Pakistan to London Heathrow: ~PKR 150,000 to 220,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You can apply without contacting a supervisor. Reality: Applications submitted without prior supervisor agreement are practically never shortlisted for the President's PhD Scheme.",
+      "Myth: The scholarship is only for UK/EU students. Reality: International students of all nationalities are fully eligible with full international fee coverage."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial websites suggest that IELTS requirements can be waived with a professor's letter; Imperial College London strictly requires official IELTS or TOEFL score reports."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Successful progression through doctoral milestone reviews (Early Stage Assessment at 9 months, Late Stage Review at 18-24 months).",
+    "attendance_requirements": "Full-time research attendance at Imperial College London laboratories; active participation in departmental seminars.",
+    "academic_progress_monitoring": "Annual progress reviews conducted by the Departmental Postgraduate Research Committee.",
+    "work_restrictions_during_study": "Scholars may undertake paid graduate teaching assistantship (GTA) duties up to 6 hours per week, but full focus on doctoral thesis is required.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Termination of funding if doctoral milestone assessments are failed or if candidate withdraws.",
+    "rules_for_changing_university": "Non-transferable to other UK institutions.",
+    "rules_for_changing_major": "Research topic modifications permitted within the same department with supervisor and Graduate School approval.",
+    "extension_policy": "Funding is strictly capped at 42 months (3.5 years); writing-up year (Year 4) carries zero tuition fee status."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Imperial College London President's PhD Scholarships",
+      "source_url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-and-scholarships/presidents-phd-scholarships/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Imperial College London Postgraduate Admissions",
+      "source_url": "https://www.imperial.ac.uk/study/apply/postgraduate-doctoral/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

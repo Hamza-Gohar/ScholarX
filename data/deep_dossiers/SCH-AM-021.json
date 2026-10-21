@@ -1,0 +1,283 @@
+{
+  "scholarship_id": "SCH-AM-021",
+  "basic_details": {
+    "scholarship_name": "University of Waterloo Cheriton School of CS Doctoral Fellowship",
+    "offering_entity": "David R. Cheriton School of Computer Science, University of Waterloo (Waterloo, Ontario, Canada)",
+    "host_country": "Canada",
+    "host_institutions_covered": "University of Waterloo (David R. Cheriton School of Computer Science, Waterloo, Ontario, Canada)",
+    "degree_levels": [
+      "Doctoral / PhD"
+    ],
+    "major_restrictions": "Doctor of Philosophy (Ph.D.) in Computer Science: Algorithms & Complexity, Artificial Intelligence, Bioinformatics, Computer Systems, Cryptography & Security, Database Systems, Formal Methods, Quantum Computing, and Software Engineering.",
+    "number_of_awards_total": "~100% of admitted PhD students receive guaranteed multi-year funding (~40 to 55 new fully funded PhD students admitted annually)",
+    "number_of_awards_pakistan": "Open international competition; Pakistani graduates in computing and software engineering compete actively (typically 3 to 6 awardees/yr)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Full 4 years of guaranteed PhD funding (minimum CAD $32,000 to $38,000/year, including tuition offsets, GRA, and TA support)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international and domestic applicants of all nationalities"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction.",
+    "academic_qualifications": "Completed Master's degree (18 years education) in Computer Science, Computer Engineering, Mathematics, or related field with at least an 80% overall standing (A- / 3.70+ CGPA; outstanding direct-entry 4-year Bachelor's degree holders with 85%+ also considered from top Pakistani universities like FAST-NUCES, NUST, LUMS, GIKI, UET, QAU).",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Minimum 80% (A- equivalent) in postgraduate coursework; 85%+ recommended for competitive Cheriton Graduate Scholarship consideration.",
+    "subject_background_prerequisites": "Advanced computer science coursework including theoretical computer science, algorithms, operating systems, and computer systems.",
+    "current_education_status": "Graduated or currently in final semester of degree graduating prior to the commencement term.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Peer-reviewed research publications in premier ACM/IEEE conferences or journals provide a substantial competitive advantage.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 7.5,
+      "toefl_minimum": 100,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "TOEFL iBT min 100 (Writing 26, Speaking 26) or IELTS Academic min 7.5 (Writing 7.0, Speaking 7.0). Strong speaking score required for Teaching Assistantships."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Elite doctoral researchers in computer science, cryptography, and quantum computing.",
+    "previous_scholarship_restrictions": "Can be combined with David R. Cheriton Graduate Scholarships (CAD $10,000 top-up) and external fellowships.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Waterloo International Doctoral Student Award (IDSA) offsets international tuition down to domestic rate (~CAD $14,000/yr value); remaining tuition covered through departmental research studentships.",
+      "amount": "100% covered (~CAD $24,000 / year value; ~PKR 4,950,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "University of Waterloo graduate application fee (CAD $125) paid by applicant via OUAC portal.",
+      "amount": "CAD $125 (~PKR 26,000)"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Paid out of living stipend; on-campus Columbia Lake Village graduate residences or private housing in Waterloo (~CAD $700 to $1,050/month).",
+      "amount": "Paid from monthly living stipend"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Minimum guaranteed funding package: CAD $32,000 to $38,000 / year (~CAD $2,650 to $3,150 / month; ~PKR 550,000 to 650,000 / month) via Graduate Research Studentships (GRS) and Teaching Assistantships (TA).",
+      "amount": "CAD $32,000 to $38,000 / year (~PKR 6,600,000 to 7,850,000 / year)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Travel expenses to Canada are self-funded.",
+      "amount": "Self-funded (~PKR 250,000 to 350,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Canadian Study Permit application fee (CAD $150) and biometrics fee (CAD $85) paid to IRCC.",
+      "amount": "CAD $235 (~PKR 48,500)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "University Health Insurance Plan (UHIP) provides full medical coverage (deducted directly from term funding package; ~CAD $756/year).",
+      "amount": "CAD $756 / year value (~PKR 156,000)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Living expenses covered by monthly stipend (~CAD $350 to $500/month).",
+      "amount": "Included in monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "PROVIDED_BY_FACULTY",
+      "details": "Cheriton School provides high-performance computing clusters, lab workstations, and software.",
+      "amount": "Provided by department"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Graduate Studies conference travel grants and faculty supervisor research grants cover travel and lodging for presenting at top conferences.",
+      "amount": "Up to CAD $2,500 per conference"
+    },
+    "travel_transit_allowance": {
+      "status": "100% COVERED",
+      "details": "Grand River Transit (GRT) bus and ION light rail pass throughout Waterloo Region is included in the universal student incidental fee.",
+      "amount": "Included in student incidental fees"
+    },
+    "total_estimated_value_usd_per_year": 52000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution (University of Waterloo, Canada - Global Top 25 in Computer Science, QS World Rank #112)",
+    "participating_institutions": [
+      "University of Waterloo (David R. Cheriton School of Computer Science, William G. Davis Centre)"
+    ],
+    "university_rankings_scope": "QS World Rank #22 in Computer Science; Canada's largest academic computer science concentration; birthplace of BlackBerry and major global tech startups.",
+    "available_majors": [
+      "Algorithms and Complexity",
+      "Artificial Intelligence and Machine Learning",
+      "Bioinformatics and Computational Biology",
+      "Computer Systems, Distributed Systems and Networks",
+      "Cryptography, Security and Privacy (CrySP)",
+      "Database Systems and Data Engineering",
+      "Formal Methods and Automated Verification",
+      "Quantum Computing (Institute for Quantum Computing - IQC)",
+      "Software Engineering and Programming Languages",
+      "Scientific Computation"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Doctor of Philosophy (Ph.D.): 4 years.",
+    "admission_requirements_summary": "Master's degree with 80%+ standing, strong research background, Statement of Purpose, 3 academic references, and English test scores (TOEFL 100+ or IELTS 7.5+).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "100% of admitted PhD students receive guaranteed funding; securing support requires finding a prospective Cheriton School faculty member willing to supervise your thesis.",
+    "strategic_program_match_advice": "Prospective applicants MUST review the Cheriton School faculty research directory before applying. Email 2-3 potential supervisors with your CV, published papers, and a concise research concept note to secure initial supervisor interest."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://cs.uwaterloo.ca/future-graduate-students/applying-computer-science",
+    "portal_system_name": "Ontario Universities' Application Centre (OUAC) & Waterloo Quest Portal",
+    "account_creation_instructions": "Submit initial application via OUAC, receive Waterloo Quest portal login credentials within 2-3 business days, and upload all required documents.",
+    "step_by_step_workflow": [
+      "Step 1: Contact potential supervisors in the Cheriton School of CS to explore research synergy.",
+      "Step 2: Submit an application via the OUAC graduate application portal and pay the CAD $125 fee.",
+      "Step 3: Receive Waterloo Quest credentials and log in to upload academic documents.",
+      "Step 4: Upload unofficial transcripts from all post-secondary institutions attended.",
+      "Step 5: Upload your Supplementary Information Form (SIF) outlining research background, specific interests, and faculty matches.",
+      "Step 6: Register 3 academic referees who will submit confidential recommendation letters online.",
+      "Step 7: Upload your academic CV and research paper preprints/publications.",
+      "Step 8: Submit official English proficiency scores (TOEFL code 0997 or IELTS).",
+      "Step 9: Cheriton School admissions committee and prospective supervisors evaluate applications in January/February.",
+      "Step 10: Receive official offer letter (including 4-year guaranteed funding package) in March; accept on Quest and apply for Canadian Study Permit."
+    ],
+    "university_vs_scholarship_routing": "100% integrated: admission to the CS PhD automatically includes the guaranteed minimum funding package and IDSA tuition offset.",
+    "recommendation_letters_submission_method": "Three confidential reference letters submitted online by referees via the Quest electronic referee portal.",
+    "personal_statement_prompts": "Supplementary Information Form (SIF): Explain research achievements, proposed doctoral research questions, and specific Cheriton School faculty you wish to work with.",
+    "study_plan_research_proposal_requirements": "Integrated into SIF; describe research focus, methodologies, and technical questions.",
+    "cv_format_requirements": "Academic CV detailing publications, presentations, software projects, awards, and technical skill proficiencies.",
+    "interviews_conducted": true,
+    "interview_format_details": "Technical interview (30-45 minutes via Zoom/Teams) conducted by prospective supervisor and research group members.",
+    "standardized_tests": "GRE General is NOT required. TOEFL iBT (min 100, writing 26, speaking 26) or IELTS Academic (min 7.5, writing 7.0, speaking 7.0).",
+    "application_fee_amount": "CAD $125 (OUAC application fee)",
+    "attestation_requirements": "Scanned unofficial transcripts uploaded on Quest; official HEC-attested documents required upon arrival.",
+    "translation_requirements": "Certified English translations for all non-English documents.",
+    "final_submission_method": "Online via OUAC and Waterloo Quest portals."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport identification page.",
+      "pakistan_specific_instruction": "Ensure name format matches educational documents."
+    },
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificate",
+      "mandatory": true,
+      "specification": "Complete transcripts of Bachelor's and Master's degrees showing all semester courses, credits, and grades.",
+      "pakistan_specific_instruction": "Higher Education Commission (HEC) Pakistan attested documents."
+    },
+    {
+      "document_name": "Supplementary Information Form (SIF) / SOP",
+      "mandatory": true,
+      "specification": "Statement detailing research accomplishments, technical goals, and alignment with Cheriton School faculty.",
+      "pakistan_specific_instruction": "Mention 2-3 specific Waterloo CS professors and their recent papers."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Academic CV detailing publications, presentations, software projects, and awards.",
+      "pakistan_specific_instruction": "Highlight papers published in Scopus/WoS or IEEE/ACM venues."
+    },
+    {
+      "document_name": "Three Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential letters from research mentors or senior professors.",
+      "pakistan_specific_instruction": "Referees should submit from official university email addresses."
+    },
+    {
+      "document_name": "English Language Proficiency Score Report",
+      "mandatory": true,
+      "specification": "Official TOEFL iBT (100+) or IELTS Academic (7.5+) report sent to institution code 0997.",
+      "pakistan_specific_instruction": "Ensure writing and speaking minimums (TOEFL 26, IELTS 7.0) are met."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "1 September",
+    "application_deadline": "15 December (Strict priority deadline for Fall admission)",
+    "university_admission_deadline": "15 December",
+    "document_submission_deadline": "15 December",
+    "recommendation_letters_deadline": "22 December",
+    "interview_period": "January - February (Faculty video interviews)",
+    "shortlist_announcement": "Late February - March",
+    "final_result_acceptance_deadline": "Within 21 days of offer",
+    "visa_application_window": "April - July (Canadian Study Permit processing via IRCC)",
+    "semester_commencement": "1 September (Fall term)",
+    "annual_cycle_notes": "Main intake starts in September (Fall term). Winter and Spring intakes exist for select research groups with available supervisor funding."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Undergraduate and Master's coursework grades in computer science and mathematics)",
+    "extracurricular_and_leadership_weight": "5% (Scientific outreach, mentoring)",
+    "research_experience_weight": "35% (Track record of independent research, publications, and technical innovation)",
+    "work_experience_weight": "5% (Industry software engineering or R&D experience)",
+    "personal_statement_weight": "10% (Clarity, depth, and originality of Supplementary Information Form)",
+    "recommendations_weight": "10% (Strong, credible endorsements from established research mentors)",
+    "interview_weight": "Decisive during advisor review for candidate selection",
+    "test_scores_weight": "Threshold requirement (TOEFL/IELTS compliance; GRE not required)",
+    "financial_need_weight": "0% (Completely need-blind merit evaluation)",
+    "selection_panel_composition": "Cheriton School Graduate Admissions Committee and individual faculty lab supervisors.",
+    "evaluation_methodology": "Two-stage evaluation: The admissions committee verifies academic qualifications and minimum thresholds, then prospective faculty supervisors review files to select doctoral researchers. All admitted PhD students receive a guaranteed 4-year funding package."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,000 to 2,500 elite international applicants compete for Cheriton School PhD seats",
+    "total_scholarships_awarded": "~40 to 55 fully funded PhD offers made annually",
+    "acceptance_rate_global": "~5% to 7% (Extremely selective)",
+    "acceptance_rate_pakistan": "~4% to 5% (Strong for top graduates from FAST, NUST, LUMS, GIKI with published research)",
+    "typical_successful_applicant_gpa": "3.80+ / 4.00 CGPA (82%+ aggregate) with at least 1 published conference paper or preprint",
+    "typical_academic_and_research_profile": "Graduates of leading institutions with substantial research contributions in algorithms, systems, AI, or cryptography, and strong recommendation letters.",
+    "common_backgrounds_of_winners": "Graduates in Computer Science, Computer Engineering, Electrical Engineering, and Applied Mathematics.",
+    "high_representation_countries": "Canada, China, India, Pakistan, USA, Iran, South Korea.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Scam agencies claiming they can guarantee admission to Waterloo CS. Admissions decisions are made solely by Waterloo faculty committees."
+    ],
+    "application_fee_warning": "OUAC application fee is CAD $125. Never pay external agencies.",
+    "agent_and_intermediary_warnings": "Do not hire agents. Writing your own Statement of Purpose is essential for conveying your research vision.",
+    "hidden_costs_breakdown": [
+      "Canadian Study Permit fee (CAD $150) and biometrics fee (CAD $85).",
+      "Flight tickets between Pakistan and Toronto Pearson (YYZ, ~PKR 250,000 - 350,000).",
+      "Winter clothing for Ontario winters (~CAD $400 - $600).",
+      "Initial apartment security deposit (~CAD $800 - $1,200) prior to first stipend deposit."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: GRE scores are required. (FACT: Waterloo CS does NOT require GRE scores).",
+      "CLAIM: You must secure funding separately after admission. (FACT: All admitted PhD students receive a 4-year full funding guarantee automatically)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently quote outdated stipend rates; current Waterloo CS guaranteed funding packages range from CAD $32,000 to $38,000/year."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative average of 75% in all graduate courses and pass comprehensive examination milestones.",
+    "attendance_requirements": "Full-time physical research and teaching residency on the Waterloo campus.",
+    "academic_progress_monitoring": "Annual progress reviews evaluated by the doctoral advisory committee.",
+    "work_restrictions_during_study": "International students holding a valid study permit may work on campus with no hourly limit, or off campus up to 24 hours/week during academic terms.",
+    "home_country_return_obligation": "None. International graduates from eligible Canadian degree programs can apply for a 3-year Post-Graduation Work Permit (PGWP).",
+    "service_obligations_or_bonds": "None; scholars fulfill standard graduate research or teaching assistantship duties (typically 1-2 TA units per year).",
+    "repayment_clawback_conditions": "Funding terminates upon withdrawal; no clawback of past disbursed stipend or tuition.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Requires approval from the Graduate Officer.",
+    "extension_policy": "Funding is guaranteed for 4 years; extensions into Year 5 are commonly funded through supervisor research grants."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Waterloo David R. Cheriton School of CS - Funding and Awards Portal",
+      "source_url": "https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Departmental quota distribution for David R. Cheriton top-up fellowships.",
+        "Exact ratio between Graduate Research Studentships (GRS) vs Teaching Assistantships (TA) across academic terms.",
+        "Country-specific application and matriculation statistics."
+      ]
+    }
+  ]
+}

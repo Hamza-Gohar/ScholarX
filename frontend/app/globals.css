@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Outfit:wght@400;500;600;700;800;900&family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-display: 'Outfit', 'Plus Jakarta Sans', sans-serif;
+  --font-serif: 'Newsreader', 'Lora', Georgia, serif;
+  --font-mono: 'JetBrains Mono', 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", monospace;
+  --background: #05070A;
+  --foreground: #F8FAFC;
+  --sx-black: #05070A;
+  --sx-deep: #080C10;
+  --sx-panel: #0B1117;
+  --sx-glass: rgba(12, 18, 24, 0.58);
+  --sx-glass-strong: rgba(12, 18, 24, 0.78);
+  --sx-glass-subtle: rgba(12, 18, 24, 0.32);
+  --sx-border: rgba(180, 210, 225, 0.14);
+  --sx-border-subtle: rgba(180, 210, 225, 0.08);
+  --sx-border-active: rgba(110, 225, 255, 0.32);
+  --sx-command: #D4AF37;
+  --sx-flow: #38BDF8;
+  --sx-verified: #10B981;
+  --sx-warning: #F59E0B;
+  --sx-challenge: #EF4444;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Reusable Glass Surface Styling */
+.sx-glass-surface {
+  background: var(--sx-glass);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--sx-border);
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.7), inset 0 1px 0 0 rgba(255, 255, 255, 0.06);
+}
+
+.sx-glass-strong {
+  background: var(--sx-glass-strong);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid var(--sx-border);
+  box-shadow: 0 30px 60px -20px rgba(0, 0, 0, 0.85), inset 0 1px 0 0 rgba(255, 255, 255, 0.08);
+}
+
+.sx-glass-inset {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  box-shadow: inset 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+/* Exhibition Minimal Scrollbar */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(5, 7, 10, 0.6);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.2);
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.35);
+}
+
+/* High-Contrast Visible Scrollbar for White/Stone Dossier Surfaces */
+.dossier-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(71, 85, 105, 0.45) rgba(241, 245, 249, 0.8);
+  -webkit-overflow-scrolling: touch;
+}
+
+.dossier-scroll::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+.dossier-scroll::-webkit-scrollbar-track {
+  background: rgba(241, 245, 249, 0.9);
+  border-radius: 4px;
+}
+
+.dossier-scroll::-webkit-scrollbar-thumb {
+  background: rgba(71, 85, 105, 0.45);
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+.dossier-scroll::-webkit-scrollbar-thumb:hover {
+  background: rgba(15, 23, 42, 0.7);
+}
+
+/* Mobile Performance, Touch Momentum & Zero-Lag Enhancements */
+@media (max-width: 768px) {
+  /* Replace expensive deep backdrop-blur with lightweight solid obsidian surface to prevent GPU lag */
+  .sx-glass-surface {
+    background: rgba(11, 17, 23, 0.95);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+  }
+
+  .sx-glass-strong {
+    background: rgba(8, 12, 16, 0.97);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
+
+  /* Optimize touch target sizes and interaction */
+  button, a, input, select {
+    touch-action: manipulation;
+  }
+}
+
+/* Touch Momentum Scrolling & Overflow Helpers */
+.touch-scroll {
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-y: contain;
+}
+
+/* Hide scrollbar for clean horizontal tab bars */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Minimal Mobile Touch Target */
+.touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Reduced Motion Mode for lag-free performance and accessibility */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Universal Print Page Isolation & Colors */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 12mm 12mm 12mm 12mm;
+  }
+
+  *, *::before, *::after {
+    box-shadow: none !important;
+    text-shadow: none !important;
+    animation: none !important;
+    transition: none !important;
+  }
+
+  html, body {
+    background-color: #ffffff !important;
+    background: #ffffff !important;
+    color: #1c1917 !important;
+    overflow: visible !important;
+    height: auto !important;
+    min-height: auto !important;
+    font-size: 10pt !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Suppress all dark Command Theatre UI, stars, radars, backdrops, and control bars */
+  #theatre-root,
+  #scholarx-theatre-viewport,
+  #scholarx-theatre-stage,
+  .theatre-viewport,
+  .atmospheric-bg,
+  canvas,
+  .star-field,
+  .scout-radar,
+  .judge-control-bar,
+  .telemetry-bar,
+  .no-print-backdrop,
+  nav,
+  header.no-print,
+  footer.no-print,
+  button,
+  [data-print-hide="true"],
+  .no-print,
+  .no-print * {
+    display: none !important;
+  }
+
+  /* Reset all ancestor wrappers and modal containers so they don't clip multi-page documents */
+  body,
+  #__next,
+  main,
+  .dossier-modal-backdrop,
+  .dossier-modal-window,
+  .dossier-scroll,
+  div:has(#scholarx-dossier-print-container) {
+    position: static !important;
+    display: block !important;
+    overflow: visible !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: auto !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    background: transparent !important;
+    transform: none !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+
+  #scholarx-dossier-print-container {
+    position: static !important;
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: #ffffff !important;
+    color: #1c1917 !important;
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+    overflow: visible !important;
+    height: auto !important;
+    max-height: none !important;
+  }
+
+  #scholarx-dossier-print-container main {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Table stability in print */
+  #scholarx-dossier-print-container table {
+    width: 100% !important;
+    table-layout: fixed !important;
+    border-collapse: collapse !important;
+  }
+
+  #scholarx-dossier-print-container img {
+    max-width: 100% !important;
+    display: inline-block !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  #scholarx-dossier-print-container th,
+  #scholarx-dossier-print-container td {
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+    hyphens: auto !important;
+  }
+
+  .page-break-before {
+    page-break-before: always !important;
+    break-before: page !important;
+  }
+
+  .page-break-avoid,
+  .sc-card,
+  article,
+  section,
+  tr {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  /* Crisp borders and backgrounds preservation */
+  .badge,
+  .tag,
+  .doc-item,
+  .metric-box,
+  .deadline-badge {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}

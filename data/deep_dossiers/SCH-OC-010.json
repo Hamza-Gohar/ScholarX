@@ -1,0 +1,294 @@
+{
+  "scholarship_id": "SCH-OC-010",
+  "basic_details": {
+    "scholarship_name": "UTS International Research Scholarship (IRS) & Australian Government RTP",
+    "offering_entity": "University of Technology Sydney (UTS) & Australian Commonwealth Government (Department of Education - Research Training Program)",
+    "host_country": "Australia",
+    "host_institutions_covered": "University of Technology Sydney (City Campus - Broadway / Ultimo, Sydney, NSW, Australia)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)",
+      "Master of Science by Research (MSc Research)"
+    ],
+    "major_restrictions": "Open to all research disciplines across Faculty of Engineering and Information Technology (FEIT: Computer Science, Artificial Intelligence, Quantum Software, Cybersecurity, Data Science, Biomedical Engineering, Robotics) and Faculty of Science.",
+    "number_of_awards_total": "Approximately 100 to 150 competitive international doctoral scholarships (IRS & UTS President's Scholarship) awarded annually",
+    "number_of_awards_pakistan": "Open international competition; Pakistani graduates in computer science, software engineering, and telecommunications compete actively (typically 6 to 12 awardees/yr)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 3.5 years for PhD candidates; up to 2 years for Master by Research candidates, with potential 6-month extension for PhD under extraordinary research circumstances"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International applicants who do not hold Australian or New Zealand citizenship or Australian permanent residency"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restrictions.",
+    "academic_qualifications": "Completed 4-year Bachelor's with First Class Honours (H1 equivalent, 82%+ or 3.70+ / 4.00 CGPA) or completed Master of Science by Research / MS with substantial research thesis (minimum 25% research component) from an HEC-recognized university in Pakistan (e.g. NUST, FAST-NUCES, GIKI, UET, LUMS, COMSATS, PIEAS).",
+    "minimum_gpa_percentage": 82.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Must equate to Australian First Class Honours (Honours 1 / H1) standard with strong thesis grade.",
+    "subject_background_prerequisites": "BSc / MS in Computer Science, Software Engineering, Electrical Engineering, Mathematics, Data Science, or related computational disciplines.",
+    "current_education_status": "Completed degree or in final semester of research Master's.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory. Industry research, patent applications, or software architecture experience can be submitted as evidence of research potential.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 79,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic overall 6.5 with min 6.0 in writing; TOEFL iBT min 79 with min 21 in writing; or PTE Academic min 58 with min 50 in writing. Medium of Instruction certificates are not accepted."
+    },
+    "other_language_requirements": "None; all coursework, seminars, and doctoral dissertations are in English.",
+    "gender_specific_requirements": "None; female researchers in engineering and computer science are actively encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Higher Degree by Research (HDR) candidates demonstrating superior research capacity.",
+    "previous_scholarship_restrictions": "Cannot hold another major Commonwealth-funded scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full international tuition fee offset (AUD 42,000 to 48,000 / year waived completely for up to 3.5 years).",
+      "amount": "100% covered (~AUD 45,000 / year value; ~PKR 8,325,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "100% WAIVED",
+      "details": "UTS application fee (AUD 100) is waived for candidates applying for research degrees with pre-approved supervisory support.",
+      "amount": "AUD 100 waived value (~PKR 18,500)"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Paid from living stipend; student can rent private Sydney accommodation or UTS on-campus student housing (Yura Mudang, Gumal Ngurang) at ~AUD 320 to 450/week.",
+      "amount": "Paid from living stipend (~AUD 1,400 to 1,800 / month)"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Fortnightly tax-free living allowance: AUD 37,000 per annum index-linked (~AUD 3,083 / month; ~PKR 570,000/month). Top-up scholarships from faculties (AUD 5,000 to 10,000/yr) frequently awarded to top CS/AI applicants.",
+      "amount": "AUD 37,000 / year tax-free (~PKR 6,845,000 / year)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Relocation allowance of up to AUD 1,520 provided to assist international scholars traveling from overseas to Sydney.",
+      "amount": "Up to AUD 1,520 relocation subsidy (~PKR 280,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Australian Subclass 500 Student Visa application fee (AUD 1,600 as of 2024 revised fee schedule) paid directly to Australian Department of Home Affairs.",
+      "amount": "AUD 1,600 (~PKR 296,000)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Full standard Overseas Student Health Cover (OSHC) single policy paid directly by UTS for the entire duration of the student visa.",
+      "amount": "AUD 2,400 to 3,200 total value (~PKR 445,000 to 590,000)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Living expenses covered through the generous fortnightly stipend.",
+      "amount": "Included in monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "PROVIDED_BY_FACULTY",
+      "details": "Computing equipment, high-performance GPU cluster access (UTS AI Institute), and lab workstations funded by Faculty of Engineering and IT.",
+      "amount": "Provided by faculty and research center"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "FEIT Vice-Chancellor conference travel grant and departmental funding provide up to AUD 3,000 to 5,000 per year for presenting at top international conferences (CORE A*/A).",
+      "amount": "Up to AUD 5,000 per year"
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Sydney Opal card public transport is self-funded (international HDR students receive concession Opal cards in NSW).",
+      "amount": "Self-funded (~AUD 120 / month; ~PKR 22,000 / mo)"
+    },
+    "total_estimated_value_usd_per_year": 55000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single leading Australian technology university: University of Technology Sydney (Sydney, NSW, Australia)",
+    "participating_institutions": [
+      "University of Technology Sydney - Broadway / Ultimo City Campus (Sydney, NSW)",
+      "Australian Artificial Intelligence Institute (AAII - UTS)",
+      "Centre for Quantum Software and Information (QSI - UTS)"
+    ],
+    "university_rankings_scope": "Ranked #88 globally in QS World University Rankings 2024/2025; ranked #1 young university in Australia. AI research at UTS AAII ranked among top 10 globally.",
+    "available_majors": [
+      "School of Computer Science: Artificial Intelligence, Machine Learning, Computer Vision, Data Science",
+      "Centre for Quantum Software and Information: Quantum Algorithms, Quantum Information Theory",
+      "School of Electrical and Data Engineering: Cybersecurity, Telecommunications, IoT, Signal Processing",
+      "School of Biomedical Engineering: Neural Interfaces, Health Informatics, Computational Biology",
+      "School of Civil and Environmental Engineering & Mechanical and Mechatronic Engineering"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "PhD: 3.5 years full-time; Master by Research: 2 years full-time.",
+    "admission_requirements_summary": "BSc H1 / Master by Research with 3.7+ GPA, confirmed prospective supervisor, detailed research proposal (3-5 pages), 2 academic referee reports, and IELTS 6.5.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "AAII (Artificial Intelligence Institute) and Quantum Software are exceptionally competitive; Data Engineering and Mechatronics offer slightly broader supervisory availability.",
+    "strategic_program_match_advice": "Prospective candidates MUST contact potential supervisors at UTS FEIT or AAII well in advance (May-June for the August scholarship round). Securing a supervisor who commits to supporting your scholarship ranking is a strict prerequisite before lodging your formal application."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.uts.edu.au/study/international/essential-information/applying-study-uts",
+    "portal_system_name": "UTS International Graduate Research Application Portal",
+    "account_creation_instructions": "Find a supervisor via UTS Find a Supervisor portal, obtain their written endorsement, then create an account on the UTS HDR online application system and submit for both admission and scholarship.",
+    "step_by_step_workflow": [
+      "Step 1 (April - June): Search UTS Find a Supervisor portal; contact prospective faculty members with CV, academic transcripts, and draft research proposal.",
+      "Step 2 (June - July): Interview with prospective supervisor; obtain their formal agreement to supervise and written Pre-Assessment / Supervisor Support Letter.",
+      "Step 3 (July - August): Prepare full application dossier: refined 3-5 page research proposal, 2 academic referee reports, IELTS test report, and attested transcripts.",
+      "Step 4 (By 31 August): Submit formal online application via UTS portal, ticking the box for 'UTS International Research Scholarship / RTP'.",
+      "Step 5 (September - October): Faculty Higher Degree Committee reviews and scores applications on H1 equivalence and research output.",
+      "Step 6 (November - December): UTS Graduate Research School releases scholarship outcomes and issues unconditional offers and Confirmation of Enrolment (CoE).",
+      "Step 7 (December - January): Apply for Australian Subclass 500 Student Visa via ImmiAccount; complete biometrics and medical exam in Pakistan.",
+      "Step 8 (February - March): Travel to Sydney, attend UTS HDR orientation, and commence research candidature."
+    ],
+    "university_vs_scholarship_routing": "Single unified application: The admissions application automatically assesses the candidate for all centrally funded UTS scholarships (IRS, RTP, UTP).",
+    "recommendation_letters_submission_method": "Two academic referee reports completed on the official UTS HDR Referee Report Template and submitted directly by referees.",
+    "personal_statement_prompts": "Statement of Research Intent: Detail academic preparation, research motivations, alignment with UTS faculty strategic research areas, and career goals.",
+    "study_plan_research_proposal_requirements": "Comprehensive 3 to 5 page research proposal covering title, background, research questions, methodology, literature review, and required laboratory resources.",
+    "cv_format_requirements": "Academic CV detailing peer-reviewed publications (with DOIs, citation counts, and CORE ranking), research awards, and coding/engineering projects.",
+    "interviews_conducted": true,
+    "interview_format_details": "Informal to formal technical video interviews conducted by prospective supervisor and co-supervisor via Zoom evaluating research capability and cultural fit.",
+    "standardized_tests": "IELTS 6.5 (6.0 writing) or TOEFL iBT 79 (21 writing) or PTE 58. GRE is NOT required.",
+    "application_fee_amount": "AUD 100 (Waived for HDR candidates with supervisor support)",
+    "attestation_requirements": "HEC Pakistan attestation required for all degrees and transcripts, accompanied by certified color copies.",
+    "translation_requirements": "Official certified English translations required for any non-English documentation.",
+    "final_submission_method": "100% digital submission via the UTS Graduate Research Online Portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color scan of passport bio-data page valid for at least two years.",
+      "pakistan_specific_instruction": "Ensure clear color scan of Pakistani machine-readable passport."
+    },
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Certified transcripts showing all semesters, grades, grading scale, and degree completion certificates.",
+      "pakistan_specific_instruction": "Higher Education Commission (HEC) Pakistan attested documents."
+    },
+    {
+      "document_name": "UTS Supervisor Pre-Assessment / Agreement Letter",
+      "mandatory": true,
+      "specification": "Written email or formal confirmation from a UTS faculty member agreeing to supervise.",
+      "pakistan_specific_instruction": "Crucial prerequisite before formal portal lodgement."
+    },
+    {
+      "document_name": "Detailed Research Proposal (3-5 pages)",
+      "mandatory": true,
+      "specification": "Structured proposal developed in consultation with prospective UTS supervisor.",
+      "pakistan_specific_instruction": "Cite prospective supervisor's recent CORE A*/A publications."
+    },
+    {
+      "document_name": "Academic Referee Reports (Two)",
+      "mandatory": true,
+      "specification": "Completed on official UTS HDR Referee Report forms by former academic advisors.",
+      "pakistan_specific_instruction": "Must be submitted directly by referees from official university email accounts."
+    },
+    {
+      "document_name": "English Language Proficiency Test Scorecard",
+      "mandatory": true,
+      "specification": "Official IELTS Academic, TOEFL iBT, or PTE Academic scorecard dated within 2 years.",
+      "pakistan_specific_instruction": "Direct electronic score dispatch through testing agency portal."
+    },
+    {
+      "document_name": "Evidence of Research Output / Publications",
+      "mandatory": false,
+      "specification": "PDF copies of published conference papers or journal articles with publication metrics.",
+      "pakistan_specific_instruction": "Scopus, IEEE Xplore, or WoS indexed papers heavily weighted in H1 equivalence scoring."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "1 June 2027",
+    "application_deadline": "31 August 2027 (for Spring / Autumn 2028 intake)",
+    "university_admission_deadline": "31 August 2027",
+    "document_submission_deadline": "31 August 2027",
+    "recommendation_letters_deadline": "7 September 2027",
+    "interview_period": "July to August 2027 (Pre-application interviews)",
+    "shortlist_announcement": "Mid-November 2027",
+    "final_result_acceptance_deadline": "15 December 2027",
+    "visa_application_window": "December 2027 to February 2028",
+    "semester_commencement": "Late February / Early March 2028 (or Mid-July for Spring)",
+    "annual_cycle_notes": "Main international scholarship round closes 31 August for commencement in the following year."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Honours 1 equivalence, CGPA in Bachelor/Master coursework, and university pedigree)",
+    "extracurricular_and_leadership_weight": "0% (Not considered for HDR scholarships)",
+    "research_experience_weight": "40% (Peer-reviewed publications, master thesis quality, patents, and research proposal caliber)",
+    "work_experience_weight": "5% (Professional R&D or technical engineering experience)",
+    "personal_statement_weight": "5% (Statement of research alignment)",
+    "recommendations_weight": "10% (Rigor and conviction of academic referee appraisals)",
+    "interview_weight": "0% (Official scoring is dossier-based; supervisor interview establishes candidacy)",
+    "test_scores_weight": "Threshold requirement (IELTS 6.5 / TOEFL 79 compliance)",
+    "financial_need_weight": "0% (Purely merit and research performance based)",
+    "selection_panel_composition": "UTS Faculty Research Committee, Associate Dean Research, and UTS Graduate Research School Board.",
+    "evaluation_methodology": "Rigorous competitive ranking: Applications are scored on a standardized matrix measuring Academic Merit (0-50 pts) and Research Experience / Track Record (0-50 pts). Applicants with 1+ first-author IEEE/ACM publications and H1 equivalence rank in the top quartile and are awarded IRS and stipend packages."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,200 international applicants across all research areas for ~120 scholarships",
+    "total_scholarships_awarded": "~100 to 150 fully funded international research scholarships (IRS + RTP)",
+    "acceptance_rate_global": "~6.5%",
+    "acceptance_rate_pakistan": "~7.2% (Pakistani CS and EE graduates with solid publication records compete effectively)",
+    "typical_successful_applicant_gpa": "3.75+ / 4.00 CGPA (85%+ aggregate, top 5% class rank)",
+    "typical_academic_and_research_profile": "First Class Honours or MS with 1-2 CORE A/B conference or Q1/Q2 journal publications, strong coding/math foundations, and strong supervisor backing.",
+    "common_backgrounds_of_winners": "BS/MS graduates in Computer Science, Software Engineering, and Telecommunications from NUST, FAST-NUCES, GIKI, UET, LUMS, and COMSATS.",
+    "high_representation_countries": "China, India, Pakistan, Iran, Vietnam, Bangladesh, Indonesia",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unauthorized migration agents claiming guaranteed UTS scholarship placement. UTS scholarships are awarded solely by the University Graduate Research Board through merit ranking."
+    ],
+    "application_fee_warning": "HDR applications are free when endorsed by a supervisor. Never pay placement fees to private intermediaries.",
+    "agent_and_intermediary_warnings": "UTS requires direct intellectual engagement between applicant and prospective supervisor; agent-prepared proposals are detected and rejected.",
+    "hidden_costs_breakdown": [
+      "Australian Student Visa (Subclass 500) application fee (AUD 1,600; ~PKR 296,000).",
+      "Biometrics and visa medical examination in Pakistan (~PKR 35,000 - 50,000).",
+      "Initial housing deposit and temporary accommodation in Sydney before first stipend disbursement (~AUD 2,000; ~PKR 370,000)."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: English Medium of Instruction (MOI) certificates are accepted. (FACT: Official IELTS, TOEFL, or PTE test report is strictly mandatory for Australian HDR admission).",
+      "CLAIM: High GPA alone guarantees a scholarship. (FACT: Publications and research track record carry equal weight to GPA in the scoring matrix)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party portals list the stipend as AUD 30,000; the official 2024/2025 UTS rate has increased to AUD 37,000 per annum tax-free."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory research progress and pass annual milestones: Confirmation of Candidature (Month 12) and Progress Reviews (Months 24 and 36).",
+    "attendance_requirements": "Full-time on-campus research residency in Sydney, with regular physical attendance in laboratories and research seminars.",
+    "academic_progress_monitoring": "Annual Review of Progress (ARP) submitted to the Graduate Research School and approved by supervisory panel.",
+    "work_restrictions_during_study": "Full-time HDR candidates are permitted to work up to a maximum of 8-10 hours per week during normal business hours (e.g. as sessional teaching assistants or lab demonstrators), provided it does not impede doctoral progress.",
+    "home_country_return_obligation": "None. Graduates are eligible to apply for the Australian Temporary Graduate Visa (Subclass 485 - Post-Study Work stream, granting 3-4 years work rights in Australia).",
+    "service_obligations_or_bonds": "Zero service bonds or repayment conditions.",
+    "repayment_clawback_conditions": "Scholarship terminates upon academic dismissal, failure of candidature confirmation, or unauthorized withdrawal; past funds are not clawed back.",
+    "rules_for_changing_university": "Scholarship is non-transferable to other Australian universities.",
+    "rules_for_changing_major": "Topic or lab adjustments must remain within the scope of faculty research and receive formal Graduate Research Board approval.",
+    "extension_policy": "PhD candidates may apply for a single 6-month extension beyond 3.5 years under exceptional circumstances beyond the candidate's control."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "UTS Future Research Students Scholarships Official Portal",
+      "source_url": "https://www.uts.edu.au/research-and-teaching/research-degrees/future-research-students/scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Specific faculty-level quota allocations between engineering and other divisions.",
+        "Exact numerical cutoff scores on the 100-point HDR merit scoring matrix for the current round.",
+        "Nationality-specific applicant and awardee statistics."
+      ]
+    },
+    {
+      "source_name": "Australian Government Department of Education Research Training Program (RTP)",
+      "source_url": "https://www.education.gov.au/research-block-grants/research-training-program",
+      "source_type": "GOVERNMENT_MINISTRY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Annual Commonwealth block grant distribution formulas across non-Group of Eight institutions.",
+        "International candidate reserve reallocation rates."
+      ]
+    }
+  ]
+}

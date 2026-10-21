@@ -1,0 +1,296 @@
+{
+  "scholarship_id": "SCH-OC-008",
+  "basic_details": {
+    "scholarship_name": "University of Western Australia (UWA) Forrest Research Foundation PhD Scholarship & Australian Government RTP",
+    "offering_entity": "Forrest Research Foundation (endowed by Andrew and Nicola Forrest / Minderoo Foundation) & University of Western Australia (Perth, WA) & Australian Government Department of Education (RTP)",
+    "host_country": "Australia",
+    "host_institutions_covered": "University of Western Australia (Crawley Campus, Perth, Western Australia - Group of Eight)",
+    "degree_levels": [
+      "Doctoral / PhD"
+    ],
+    "major_restrictions": "All academic disciplines across UWA, with strong emphasis on transformative and visionary research: Oceans Institute & Marine Biology, Computer Science, AI & Autonomous Systems, Energy & Mineral Engineering, Biomedical & Life Sciences (Marshall Centre for Infectious Diseases, Perkins Institute), Agricultural Sciences, Astrophysics & Gravitational Waves (OzGrav), and Law & Humanities.",
+    "number_of_awards_total": "Highly exclusive: ~10 to 12 Forrest Scholars selected across Western Australian universities annually (~5 to 8 based at UWA)",
+    "number_of_awards_pakistan": "Open global competition; typically 1 to 2 Pakistani scholars win this elite fellowship every 1-2 years based on outstanding academic brilliance and research vision",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 3.5 years for PhD (plus up to 6 months extension subject to academic progress)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to outstanding domestic and international applicants of all nationalities"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction.",
+    "academic_qualifications": "First Class Honours (H1) or equivalent from a recognized university: 4-year Bachelor's degree (16 years education) or Master's degree (18 years education) with exceptional academic record (minimum 85%+ or 3.80+ / 4.00 CGPA) and demonstrated research outputs.",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.8,
+    "grading_conversion_notes": "Equivalence of First Class Honours (H1) with distinction (85%+ aggregate or 3.80+ / 4.00 CGPA from Pakistani institutions like NUST, FAST, LUMS, QAU, AKU, UET).",
+    "subject_background_prerequisites": "Outstanding track record in discipline directly related to the proposed PhD project.",
+    "current_education_status": "Graduated or in final semester of degree graduating before course commencement.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "High-impact research publications, patents, or significant laboratory/technical innovations strongly expected.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 82,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic 6.5 (all bands 6.0+) or TOEFL iBT 82 (Reading 18, Listening 20, Speaking 20, Writing 22)."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Elite doctoral researchers capable of delivering transformative, world-changing research and showing leadership character.",
+    "previous_scholarship_restrictions": "Must not be concurrently holding another major research scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full tuition fee scholarship covers 100% of international tuition fees for up to 4 years.",
+      "amount": "100% covered (~AUD $44,000 to $52,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "100% WAIVED",
+      "details": "No application fee for UWA PhD and Forrest Research Foundation scholarship applications.",
+      "amount": "AUD $0 (Waived)"
+    },
+    "accommodation": {
+      "status": "100% COVERED",
+      "details": "Forrest Scholars are provided with an accommodation allowance of up to AUD $24,198 per year at Forrest Hall, a state-of-the-art luxury residential facility on the Swan River overlooking UWA campus.",
+      "amount": "AUD $24,198 / year accommodation package"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Base RTP living stipend indexed at approx AUD $35,013 to $37,000 / year tax-free PLUS a Forrest Research Foundation top-up stipend of AUD $13,500 / year tax-free. Total living stipend is ~AUD $48,500 to $50,500 / year tax-free (~AUD $4,040 to $4,200 / month).",
+      "amount": "AUD $48,500 to $50,500 / year (~PKR 8,900,000 to 9,300,000 / year)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Relocation allowance provided by UWA up to AUD $1,800 to $2,000 for travel to Perth.",
+      "amount": "AUD $2,000 (~PKR 370,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Australian Subclass 500 Student Visa fee paid by candidate.",
+      "amount": "AUD $1,600 (~PKR 295,000)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Single Overseas Student Health Cover (OSHC) for primary applicant paid for full visa duration.",
+      "amount": "AUD $3,200 to $4,000 value (100% covered)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Covered via the combined AUD $50,000+ annual living stipend.",
+      "amount": "Included in monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Forrest Scholars receive a research and travel allowance of up to AUD $12,000 across their PhD candidature.",
+      "amount": "Up to AUD $12,000 research & travel fund"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Dedicated Forrest research grant of up to AUD $12,000 plus faculty research travel allowances for international symposiums.",
+      "amount": "AUD $12,000 over candidature"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Included in the relocation and travel funds.",
+      "amount": "AUD $2,000 relocation allowance"
+    },
+    "total_estimated_value_usd_per_year": 68000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single primary host (University of Western Australia, Perth - Group of Eight, QS World Rank #77; affiliated with Curtin, Murdoch, ECU)",
+    "participating_institutions": [
+      "University of Western Australia (Crawley Campus, Perth)"
+    ],
+    "university_rankings_scope": "Global Top 80 (QS #77 globally; Member of Australian Group of Eight - Go8; World Top 25 in Mineral & Mining Engineering, Agriculture, and Marine Science)",
+    "available_majors": [
+      "Computer Science & Artificial Intelligence",
+      "Data Science & Quantum Computing",
+      "Oceans, Marine Ecology & Blue Economy",
+      "Mineral, Energy & Chemical Engineering",
+      "Biomedical Sciences & Genetics",
+      "Infectious Diseases & Microbiology",
+      "Agricultural Science & Plant Biology",
+      "Astrophysics, Gravitational Waves & Astronomy",
+      "Environmental Science & Climate Systems",
+      "Law, Governance & Public Policy",
+      "Humanities & Social Sciences"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Doctor of Philosophy (PhD): 3.5 to 4 years.",
+    "admission_requirements_summary": "Exceptional first-class academic trajectory (H1 with distinction), pre-arranged supervision agreement with a UWA professor, 2-page transformative research concept, evidence of leadership and societal commitment, and top referee reports.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "This is one of the most elite and generous PhD fellowships in the Southern Hemisphere; selection is fiercely competitive across all scientific disciplines.",
+    "strategic_program_match_advice": "Prospective candidates must initiate contact with an eminent UWA professor 4-6 months before the deadline. Frame the research proposal around 'transformative impact'—how the project solves a critical global challenge (e.g. climate resilience, clean energy transition, incurable disease, scalable AI safety). Both the UWA supervisor and head of school must enthusiastically sponsor the Forrest nomination."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.forrestresearch.org.au/scholarships/",
+    "portal_system_name": "Forrest Research Foundation Application System & UWA Postgraduate Admissions Portal",
+    "account_creation_instructions": "Two-step process: Lodge admission application with UWA Graduate Research School and submit Forrest Foundation application via the Forrest online portal.",
+    "step_by_step_workflow": [
+      "Step 1: Contact potential UWA supervisors whose research aligns with your proposal and secure formal supervisor support.",
+      "Step 2: Submit a formal application for PhD candidature at UWA Graduate Research School, indicating intention to apply for Forrest Scholarship.",
+      "Step 3: Access the Forrest Research Foundation online application portal and register an account.",
+      "Step 4: Prepare the Forrest Application Dossier: 2-page project outline emphasizing transformative impact, leadership & community engagement essay, academic CV, transcripts, and 3 referee nominations.",
+      "Step 5: Submit the Forrest application prior to the annual closing date (typically late October).",
+      "Step 6: Referees submit independent appraisal reports directly into the Forrest portal.",
+      "Step 7: The Forrest Academic Board reviews applications and shortlists 20-25 semi-finalists for formal interviews.",
+      "Step 8: Attend high-stakes panel interview (in-person or video link via Zoom) with the Forrest Foundation Selection Committee.",
+      "Step 9: Receive final offer of Forrest Research Foundation Scholarship and UWA PhD admission.",
+      "Step 10: Accept offer, receive Confirmation of Enrolment (CoE), apply for Australian Student Visa (Subclass 500), and book residence at Forrest Hall."
+    ],
+    "university_vs_scholarship_routing": "Dual pathway: Applicant must apply to UWA for PhD admission AND submit a dedicated application directly to the Forrest Research Foundation.",
+    "recommendation_letters_submission_method": "Three confidential referee reports submitted directly via the Forrest online system.",
+    "personal_statement_prompts": "Statement explaining why you wish to be a Forrest Scholar, how your research has transformative potential for Western Australia and the world, and evidence of your leadership and character outside the lab.",
+    "study_plan_research_proposal_requirements": "Project description (maximum 2 pages) outlining: Research background, hypothesis, transformative scientific/technological breakthrough potential, methodology, and real-world impact.",
+    "cv_format_requirements": "Academic curriculum vitae highlighting publications, patents, conference presentations, awards, and leadership/community service.",
+    "interviews_conducted": true,
+    "interview_format_details": "Rigorous 30-minute panel interview conducted via Zoom with the Forrest Foundation Selection Committee (comprising distinguished academics, industry leaders, and Minderoo Foundation representatives). Focuses on scientific vision, critical thinking, and leadership.",
+    "standardized_tests": "IELTS Academic (6.5+, 6.0 all bands) or TOEFL iBT (82+). GRE not required.",
+    "application_fee_amount": "AUD $0 (No application fee)",
+    "attestation_requirements": "Verified original scanned academic transcripts and degree certificates.",
+    "translation_requirements": "Certified English translations required for all non-English documents.",
+    "final_submission_method": "Online submission via Forrest Research Foundation application portal and UWA admissions portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Passport Biographical Page",
+      "mandatory": true,
+      "specification": "Clear color copy of valid international passport with at least 12 months validity.",
+      "pakistan_specific_instruction": "Name spelling must exactly match educational certificates and CNIC."
+    },
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Full certified transcripts and degrees for 4-year Bachelor's and 2-year Master's showing grades and thesis results.",
+      "pakistan_specific_instruction": "Attestation by the Higher Education Commission (HEC) Pakistan required."
+    },
+    {
+      "document_name": "Formal UWA Supervisor Support Endorsement Letter",
+      "mandatory": true,
+      "specification": "Formal written endorsement from prospective UWA supervisor and Head of School committing resources and supervision.",
+      "pakistan_specific_instruction": "Must confirm that supervisor will mentor candidate through Forrest candidature."
+    },
+    {
+      "document_name": "Two-page Research Proposal detailing Transformative Impact",
+      "mandatory": true,
+      "specification": "Max 2-page research proposal detailing project background, methodology, innovation, and global societal impact.",
+      "pakistan_specific_instruction": "Highlight transformative scientific potential and practical applicability."
+    },
+    {
+      "document_name": "Leadership and Vision Statement (Forrest Scholar Essay)",
+      "mandatory": true,
+      "specification": "Essay explaining leadership achievements, broader community contributions, and alignment with Forrest values.",
+      "pakistan_specific_instruction": "Showcase leadership in student societies, scientific advocacy, or community initiatives in Pakistan."
+    },
+    {
+      "document_name": "Comprehensive Academic Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Detailed CV listing publications, patents, awards, academic background, and relevant technical capabilities.",
+      "pakistan_specific_instruction": "Highlight first-author publications and Q1/Q2 indexing."
+    },
+    {
+      "document_name": "English Language Proficiency Certificate",
+      "mandatory": true,
+      "specification": "Official IELTS Academic (overall 6.5, min 6.0 in all bands) or TOEFL iBT (82+) test report.",
+      "pakistan_specific_instruction": "Test must be valid at time of course commencement."
+    },
+    {
+      "document_name": "Three Confidential Referee Reports",
+      "mandatory": true,
+      "specification": "Three confidential appraisal reports from academic and professional referees submitted directly to Forrest portal.",
+      "pakistan_specific_instruction": "Referees should include Master's thesis supervisor and internationally recognized academics who know your work."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Annual round opens: 1 July / 1 August",
+    "application_deadline": "Annual closing deadline: 31 October",
+    "university_admission_deadline": "Must apply for UWA PhD admission concurrently by 31 October",
+    "document_submission_deadline": "31 October",
+    "recommendation_letters_deadline": "Within 7 days of application close",
+    "interview_period": "Mid-November to early December",
+    "shortlist_announcement": "Mid-December",
+    "final_result_acceptance_deadline": "Within 14 days of offer",
+    "visa_application_window": "December - February",
+    "semester_commencement": "Commence PhD studies in Semester 1 (February/March) or Semester 2 (July/August)",
+    "annual_cycle_notes": "One prestigious annual round closing at the end of October each year."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Stellar undergraduate and master's academic transcripts, H1 equivalence, GPA)",
+    "extracurricular_and_leadership_weight": "15% (Demonstrated leadership, communication skills, and commitment to wider societal good)",
+    "research_experience_weight": "30% (Track record of high-impact research, publications, and conceptual depth)",
+    "work_experience_weight": "5% (Relevant industry, laboratory, or technical research experience)",
+    "personal_statement_weight": "5% (Compelling leadership essay and alignment with Forrest values)",
+    "recommendations_weight": "5% (Exceptional referee ratings on originality, resilience, and intellectual drive)",
+    "interview_weight": "Significant decisive factor for shortlisted candidates (evaluates presence, scientific passion, and critical thinking)",
+    "test_scores_weight": "Eligibility prerequisite",
+    "financial_need_weight": "0% (Purely merit, impact, and excellence based)",
+    "selection_panel_composition": "Forrest Foundation Selection Committee, chaired by the Director of the Forrest Research Foundation and featuring eminent scholars from UWA and partner institutions.",
+    "evaluation_methodology": "Multi-stage assessment: First-stage technical review filters for H1 excellence and supervisor support. The Academic Board shortlists top ~20 international candidates for rigorous interviews. Final awards are granted to individuals demonstrating both academic brilliance and transformative leadership potential."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~800 to 1,200 elite international applicants compete for Forrest awards across all WA universities",
+    "total_scholarships_awarded": "~10 to 12 Forrest PhD Scholarships awarded annually (with ~5 to 8 based at UWA)",
+    "acceptance_rate_global": "~1.0% to 1.5% (Extremely selective)",
+    "acceptance_rate_pakistan": "~1% (Only the most accomplished Pakistani scholars win)",
+    "typical_successful_applicant_gpa": "3.85+ / 4.00 CGPA (85%+ aggregate) with multiple first-author publications",
+    "typical_academic_and_research_profile": "Top 1-2% graduate from leading university (NUST, FAST, LUMS, QAU) with multiple Q1 journal publications, prestigious medals/awards, and exceptional research vision.",
+    "common_backgrounds_of_winners": "Exceptional researchers in artificial intelligence, marine science, biomedical engineering, astrophysics, and clean energy.",
+    "high_representation_countries": "Global: Australia, UK, Pakistan, India, USA, Canada, Germany, China.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unscrupulous agents claiming they have 'quotas' for Forrest Scholarships. The selection is run independently by the Forrest Academic Board."
+    ],
+    "application_fee_warning": "Neither UWA nor the Forrest Research Foundation charges any application fee.",
+    "agent_and_intermediary_warnings": "Do not hire agents. Applications must be prepared personally by the candidate in close collaboration with the prospective UWA supervisor.",
+    "hidden_costs_breakdown": [
+      "Australian Student Visa (Subclass 500) application fee (AUD $1,600).",
+      "Medical examination, chest X-ray, and biometrics in Pakistan (~PKR 45,000 - 55,000).",
+      "Dependent health cover and visas (family members are not covered by single OSHC).",
+      "Initial personal expenses prior to first monthly stipend deposit."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: You can win Forrest Scholarship without a UWA supervisor. (FACT: Applications without strong, committed supervisor endorsement are immediately eliminated).",
+      "CLAIM: The scholarship covers coursework master's degrees. (FACT: Exclusively for PhD / Doctor of Philosophy research)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Outdated blogs report old Forrest stipend amounts ($30,000); the current combined package includes an RTP base plus $13,500 top-up plus $24,198 Forrest Hall accommodation package."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain outstanding progress in annual PhD milestones and participate actively in the Forrest Hall collegiate community.",
+    "attendance_requirements": "Full-time on-campus residency in Perth and active residence at Forrest Hall (or approved local accommodation).",
+    "academic_progress_monitoring": "Annual progress reviews evaluated jointly by the UWA Graduate Research School and the Forrest Academic Director.",
+    "work_restrictions_during_study": "Scholars are discouraged from undertaking paid employment exceeding 8 hours/week during business hours to preserve research velocity.",
+    "home_country_return_obligation": "None. Forrest Scholars are eligible for the Australian Subclass 485 Temporary Graduate Visa and Global Talent visas.",
+    "service_obligations_or_bonds": "None; scholars are expected to participate in Forrest Foundation public lectures, mentoring, and academic community events.",
+    "repayment_clawback_conditions": "Scholarship terminates upon academic failure or voluntary abandonment; clawbacks apply only in cases of academic fraud.",
+    "rules_for_changing_university": "Restricted to participating Western Australian universities with Board approval.",
+    "rules_for_changing_major": "Requires approval from UWA supervisory committee and Forrest Foundation Director.",
+    "extension_policy": "Up to 6-month extension can be approved on academic merit."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Forrest Research Foundation Official Portal",
+      "source_url": "https://www.forrestresearch.org.au/scholarships/",
+      "source_type": "OFFICIAL_COMMISSION",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact numeric score sheet used by interview panel to grade candidates during interviews.",
+        "Specific annual quota allocated between participating universities (UWA vs Curtin vs Murdoch vs ECU).",
+        "Internal ranking formula weighting between published citations vs interview performance."
+      ]
+    }
+  ]
+}

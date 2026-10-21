@@ -1,0 +1,287 @@
+{
+  "scholarship_id": "SCH-EU-070",
+  "basic_details": {
+    "scholarship_name": "TU Delft Justus & Louise van Effen Excellence Scholarship",
+    "offering_entity": "Delft University of Technology (TU Delft) & Justus & Louise van Effen Fund",
+    "host_country": "Netherlands",
+    "host_institutions_covered": "Delft University of Technology (TU Delft - all 8 faculties)",
+    "degree_levels": [
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "MSc Computer Science, Artificial Intelligence, Aerospace Engineering, Electrical Engineering, Mechanical Engineering, Embedded Systems, Civil Engineering, Applied Physics.",
+    "number_of_awards_total": "~2 to 3 prestigious scholarships awarded per faculty (~16 to 24 total across TU Delft annually)",
+    "number_of_awards_pakistan": "Open globally; typically 1 to 2 exceptional Pakistani scholars selected per academic year across engineering and computing",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "24 months (2 full academic years for standard MSc degree)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to excellent international students from all non-EEA countries including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction under TU Delft regulations.",
+    "academic_qualifications": "Internationally recognized Bachelor of Science (BS / BSc 16-year) in relevant STEM field with cumulative grade point average of 80% or higher (minimum CGPA 3.60 / 4.00, equivalent to Dutch 8.0+).",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.6,
+    "grading_conversion_notes": "Minimum CGPA 3.60 / 4.00 or 80%; selected scholarship recipients typically possess CGPA >= 3.85 / 4.00 (top 5% class rank).",
+    "subject_background_prerequisites": "Rigorous undergraduate curriculum with high grades in calculus, linear algebra, algorithms, programming, and core discipline fundamentals.",
+    "current_education_status": "Graduated or enrolled in final undergraduate year graduating before September 1 intake.",
+    "graduation_year_restrictions": "No restriction on year of graduation.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Research publications, competitive engineering hackathons, or tech internships strongly enhance competitive ranking.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 100,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic overall minimum 7.0 (with at least 6.5 in each section) or TOEFL iBT minimum 100 (with at least 22 in each section). MOI certificate is not accepted by TU Delft.",
+    "other_language_requirements": "Dutch language proficiency is not required; all TU Delft MSc engineering degrees are 100% in English.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Awarded purely on extraordinary academic excellence and scholarship motivation essay quality.",
+    "previous_scholarship_restrictions": "Cannot hold another full Dutch government or university scholarship simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full institutional tuition fee waiver for the standard 2-year MSc program (EUR 21,500 / year value).",
+      "amount": "EUR 43,000 (100% 2-Year Full Tuition Waiver)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "International MSc application fee of EUR 100 payable during online application submission via Studielink and Osiaan.",
+      "amount": "EUR 100 non-refundable application fee"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Covered from the EUR 1,250 / month living allowance; TU Delft housing service prioritizes van Effen scholars for DUWO student housing.",
+      "amount": "Fully funded via living stipend"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "EUR 1,250 / month living stipend disbursed monthly (~PKR 380,000 / month) for 24 months.",
+      "amount": "EUR 1,250 / month (~PKR 380,000/mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "One-off arrival and relocation grant of EUR 1,000 disbursed upon arrival in Delft.",
+      "amount": "EUR 1,000 relocation grant"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Dutch student entry visa (MVV) and residence permit (VVR) legal fees (~EUR 228) handled and covered by TU Delft International Office.",
+      "amount": "Covered by TU Delft International Office"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full Dutch health and liability insurance package (Aon Student Insurance) covered for the entire 2-year duration.",
+      "amount": "100% Comprehensive Dutch health insurance covered"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly EUR 1,250 living allowance plus subsidized campus dining facilities.",
+      "amount": "Fully funded via living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full digital access to TU Delft Library and high-performance computing clusters (DelftBlue).",
+      "amount": "Full university library and supercomputing access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Funded thesis research, access to specialized laboratories, and Justus & Louise van Effen Club professional development seminars.",
+      "amount": "Van Effen Excellence Club membership & lab access"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized Dutch public transportation via personalized OV-chipkaart.",
+      "amount": "Subsidized Dutch rail & transit access"
+    },
+    "total_estimated_value_usd_per_year": 38000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Delft University of Technology - TU Delft, Delft, Netherlands).",
+    "participating_institutions": [
+      "Delft University of Technology (TU Delft)"
+    ],
+    "university_rankings_scope": "World Top 10 in Engineering and Technology (QS World University Rankings by Subject); #1 in the Netherlands.",
+    "available_majors": [
+      "MSc in Computer Science (Data Science, Software Technology, AI)",
+      "MSc in Artificial Intelligence Technology",
+      "MSc in Aerospace Engineering",
+      "MSc in Electrical Engineering (Microelectronics, Signals & Systems)",
+      "MSc in Embedded Systems",
+      "MSc in Mechanical Engineering",
+      "MSc in Robotics",
+      "MSc in Applied Physics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (120 ECTS credits)",
+    "admission_requirements_summary": "Bachelor degree in engineering or computing with CGPA >= 3.60 / 4.00, IELTS 7.0+ (min 6.5 each) or TOEFL 100+ (min 22 each), GRE for selected programs, CV, motivation letter, two recommendation letters, and van Effen Scholarship Essay.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Single integrated application submitted before the early December 1 scholarship deadline.",
+    "strategic_program_match_advice": "Upload a stellar Scholarship Essay articulating how your academic profile and prospective thesis connect to global technological challenges and Dutch innovation."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma",
+    "portal_system_name": "Studielink Netherlands & TU Delft Osiaan Application System",
+    "account_creation_instructions": "Step 1: Register your MSc application on Studielink.nl before December 1. Step 2: Receive login details for TU Delft's Osiaan portal. Step 3: Complete application, upload all documents, and submit the Justus & Louise van Effen Scholarship Essay.",
+    "step_by_step_workflow": [
+      "Step 1: Verify academic degree compatibility and specific MSc prerequisites on the TU Delft faculty website.",
+      "Step 2: Create a Studielink account and register chosen MSc program at TU Delft before December 1.",
+      "Step 3: Receive access to TU Delft Osiaan portal and upload transcripts, degree certificate, CV, and English test scores.",
+      "Step 4: Upload the dedicated Justus & Louise van Effen Scholarship Essay answering the prescribed essay prompts.",
+      "Step 5: Upload two reference letters and thesis summary / portfolio if required by faculty.",
+      "Step 6: Pay the EUR 100 application fee and submit the completed application before December 1, 23:59 CET.",
+      "Step 7: Faculty Admissions Committee and Central Scholarship Committee assess applications and rank top candidates.",
+      "Step 8: Scholarship award decisions officially announced via email by late March; admitted scholars receive formal contract."
+    ],
+    "university_vs_scholarship_routing": "Integrated Routing: Candidate applies for MSc admission and includes the dedicated scholarship essay in Osiaan before December 1.",
+    "recommendation_letters_submission_method": "Uploaded directly by applicant in Osiaan or submitted by university referees using official institutional email addresses.",
+    "personal_statement_prompts": "Dedicated 2 to 3-page Scholarship Essay explaining academic achievements, proposed MSc thesis area, and societal impact.",
+    "study_plan_research_proposal_requirements": "Summary of undergraduate thesis and preliminary outline of MSc research focus.",
+    "cv_format_requirements": "Comprehensive academic CV detailing publications, programming toolsets, engineering contests, and honors.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interviews; decisions are made exclusively on the academic portfolio, GPA, and scholarship essay.",
+    "standardized_tests": "IELTS 7.0+ (min 6.5 each) or TOEFL iBT 100+ (min 22 each); GRE General Test required for MSc Computer Science and Aerospace.",
+    "application_fee_amount": "EUR 100 (non-refundable institutional evaluation fee)",
+    "attestation_requirements": "HEC degree attestation required for Pakistani applicants.",
+    "translation_requirements": "Certified English translation for all official records.",
+    "final_submission_method": "Online submission via TU Delft Osiaan portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor Degree Certificate",
+      "mandatory": true,
+      "specification": "HEC-attested undergraduate degree in Engineering, Computer Science, or Applied Sciences.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Official transcripts indicating cumulative GPA of at least 80% (minimum CGPA 3.60 / 4.00) and course grading scale.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Justus & Louise van Effen Scholarship Essay",
+      "mandatory": true,
+      "specification": "Original 2 to 3-page essay answering TU Delft's specific scholarship questions on career goals and societal impact.",
+      "pakistan_specific_instruction": "Answer all official TU Delft essay prompts thoroughly."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Detailed CV highlighting academic awards, research projects, technical skills, and publications.",
+      "pakistan_specific_instruction": "Clear professional formatting."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Two academic recommendation letters signed by university professors evaluating intellectual capacity and ranking.",
+      "pakistan_specific_instruction": "On official university letterhead with stamps."
+    },
+    {
+      "document_name": "English Language Test Scorecard",
+      "mandatory": true,
+      "specification": "Official IELTS (min 7.0 overall, 6.5 subscores) or TOEFL iBT (min 100 overall, 22 subscores).",
+      "pakistan_specific_instruction": "Must meet TU Delft strict minimum scores."
+    },
+    {
+      "document_name": "GRE Score Report",
+      "mandatory": false,
+      "specification": "Mandatory for MSc Computer Science, Aerospace Engineering, and Robotics (GRE Quantitative min 163).",
+      "pakistan_specific_instruction": "Official ETS scorecard."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-01",
+    "application_deadline": "2026-12-01",
+    "university_admission_deadline": "2026-12-01",
+    "document_submission_deadline": "2026-12-01",
+    "recommendation_letters_deadline": "2026-12-01",
+    "interview_period": "None (No interviews conducted)",
+    "shortlist_announcement": "Late February 2027",
+    "final_result_acceptance_deadline": "2027-04-15",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "2027-09-01",
+    "annual_cycle_notes": "December 1 (23:59 CET) is the absolute deadline for both MSc admission and the Justus & Louise van Effen Scholarship application."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "55% (Undergraduate CGPA, transcript rigor, and GRE quantitative scores)",
+    "extracurricular_and_leadership_weight": "5% (Extracurricular innovation, robotics contests, hackathons)",
+    "research_experience_weight": "20% (Quality of final year project, research publications, or patent applications)",
+    "work_experience_weight": "5% (Engineering or tech industry internships)",
+    "personal_statement_weight": "15% (Quality and depth of Justus & Louise van Effen Scholarship Essay)",
+    "recommendations_weight": "0% (Used as verification of academic ranking)",
+    "interview_weight": "0% (No interview conducted)",
+    "test_scores_weight": "0% (Strict prerequisite requirement)",
+    "financial_need_weight": "0% (Pure academic excellence evaluation)",
+    "selection_panel_composition": "Faculty Deans, Departmental Admissions Committees, and TU Delft Central Scholarship Selection Board.",
+    "evaluation_methodology": "Faculty rankings evaluate academic excellence, prior degree relevance, and scholarship essay impact."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,500 to 5,000 international MSc applicants across TU Delft faculties",
+    "total_scholarships_awarded": "~16 to 24 scholarships awarded annually university-wide",
+    "acceptance_rate_global": "~3.0%",
+    "acceptance_rate_pakistan": "~2% to 4% among top-percentile engineering graduates",
+    "typical_successful_applicant_gpa": "3.90 / 4.00 (top 2% class ranking with GRE Quantitative 165+)",
+    "typical_academic_and_research_profile": "Graduates in computing, aerospace, or electrical engineering with near-perfect GPAs, top GRE scores, and published papers.",
+    "common_backgrounds_of_winners": "Graduates from NUST, GIKI, LUMS, and UET Lahore.",
+    "high_representation_countries": "Pakistan, India, China, Turkey, Brazil, Indonesia, Greece, Italy.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portals Studielink.nl and tudelft.nl.",
+      "Never trust third-party education consultants guaranteeing TU Delft scholarship awards."
+    ],
+    "application_fee_warning": "TU Delft charges a standard non-refundable application fee of EUR 100.",
+    "agent_and_intermediary_warnings": "TU Delft does not work with commercial student recruitment agencies for scholarship selection.",
+    "hidden_costs_breakdown": [
+      "Application fee: EUR 100 (~PKR 30,500).",
+      "GRE exam registration fee: ~$220 (~PKR 62,000).",
+      "IELTS / TOEFL exam registration fee: ~PKR 60,000.",
+      "One-way flight from Pakistan to Amsterdam: ~PKR 160,000 to 220,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Applications can be completed in January. Reality: The scholarship deadline is strictly December 1; applications submitted after December 1 are considered for admission only, not scholarships.",
+      "Myth: Lower English test scores can be compensated by high GPA. Reality: TU Delft strictly rejects applications that do not meet the 7.0 IELTS or 100 TOEFL subscore minimums."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sources claim MOI certificates are accepted; TU Delft strictly requires valid IELTS or TOEFL score reports directly from testing agencies."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain strong academic progress and earn at least 50 ECTS in year 1 to receive second-year scholarship renewal.",
+    "attendance_requirements": "Mandatory full-time presence and active participation in Justus & Louise van Effen Club activities.",
+    "academic_progress_monitoring": "Annual formal review by Faculty Board and Central Scholarship Office.",
+    "work_restrictions_during_study": "Part-time work permitted under Dutch student visa regulations (up to 16 hours/week), but full focus on studies is expected.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Termination of scholarship if student ceases enrollment or fails minimum credit requirements.",
+    "rules_for_changing_university": "Non-transferable to other Dutch universities.",
+    "rules_for_changing_major": "Changing MSc programme requires written authorization from both faculty deans and the scholarship board.",
+    "extension_policy": "Strictly capped at 24 months (no extension beyond 2 years)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "TU Delft Justus & Louise van Effen Scholarships Portal",
+      "source_url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/scholarships/justus-louise-van-effen-excellence-scholarships",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "TU Delft International MSc Admissions",
+      "source_url": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

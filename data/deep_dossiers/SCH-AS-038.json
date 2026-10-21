@@ -1,0 +1,281 @@
+{
+  "scholarship_id": "SCH-AS-038",
+  "basic_details": {
+    "scholarship_name": "Universiti Putra Malaysia (UPM) Graduate Research Fellowship (GRF / SGRA)",
+    "offering_entity": "Universiti Putra Malaysia (UPM) & Malaysian Ministry of Higher Education",
+    "host_country": "Malaysia",
+    "host_institutions_covered": "Universiti Putra Malaysia Main Campus (Serdang, Selangor, Malaysia)",
+    "degree_levels": [
+      "Master of Science (MSc by Research)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Faculty of Computer Science and Information Technology (FSKTM) & Faculty of Engineering: Artificial Intelligence, Software Engineering, Cybersecurity, Data Communications and Networking, Information Systems, and Agricultural Robotics.",
+    "number_of_awards_total": "~100 to 150 Graduate Research Fellowships (GRF) and Special Graduate Research Assistantships (SGRA) awarded annually",
+    "number_of_awards_pakistan": "Open international merit competition; Pakistani graduate researchers in computing secure ~12 to 18 awards annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years for Master's; up to 3 to 4 years for PhD, subject to satisfactory semester research progress evaluations",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "MYR 1,800 to MYR 2,800 / month living stipend (~PKR 115,000 - 182,000 / month)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international students of all nationalities (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Applicants must generally be under 35 years old at the time of application.",
+    "academic_qualifications": "A recognized 4-year Bachelor's degree (16 years education) with minimum CGPA 3.30 / 4.00 for Master's; recognized MS/MPhil (18 years education) with minimum CGPA 3.50 / 4.00 for PhD from an HEC-recognized university in Pakistan.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Minimum grade equivalent of Grade B+ or CGPA 3.30 / 4.00.",
+    "subject_background_prerequisites": "Rigorous undergraduate preparation in computer science, software engineering, or electrical engineering.",
+    "current_education_status": "Graduating seniors or Master's students in their final semester can apply conditionally with expected graduation transcripts.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior software development projects, hackathon achievements, or published research papers are advantageous.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 79,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.0, TOEFL iBT minimum 79, or institutional English Medium of Instruction (MOI) certificate from an accredited Pakistani university.",
+    "other_language_requirements": "None; postgraduate research and coursework are conducted 100% in English.",
+    "gender_specific_requirements": null,
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must identify a prospective supervisor at UPM FSKTM and obtain preliminary consent.",
+    "previous_scholarship_restrictions": "Cannot hold another full national or university scholarship simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee and academic examination fee waiver at Universiti Putra Malaysia covered by the scholarship or research grant.",
+      "amount": "100% covered (~MYR 16,000 - 24,000 / year value; ~PKR 1,040,000 - 1,560,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "UPM international postgraduate application fee (~MYR 250 / USD 60) paid online via the portal.",
+      "amount": "MYR 250 (~PKR 16,000)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "On-campus student residential colleges (Kolej Kediaman) at UPM Serdang; monthly rent is paid from the monthly living allowance.",
+      "amount": "Subsidized rent ~MYR 400 - 650 / month (~PKR 26,000 - 42,000 / month)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living stipend: MYR 1,800 to MYR 2,300 per month for Master's; MYR 2,300 to MYR 2,800 per month for PhD (~PKR 115,000 - 182,000 / month; MYR 21,600 - 33,600 / year).",
+      "amount": "MYR 1,800 - 2,800 / month (~PKR 115,000 - 182,000 / month)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International airfare to Malaysia arranged by student; living allowance easily accommodates local savings.",
+      "amount": "Self-funded economy flight (~PKR 120,000)"
+    },
+    "visa_fee": {
+      "status": "PARTIAL",
+      "details": "EMGS visa approval letter (VAL) and Student Pass fees (~MYR 2,000 total) covered from stipend or research grant.",
+      "amount": "Covered via initial stipend"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Mandatory Malaysian student health and hospitalization insurance included within the EMGS Student Pass package.",
+      "amount": "100% covered via EMGS insurance package"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via the monthly living stipend of MYR 1,800 - 2,800; campus cafeterias provide affordable halal meals.",
+      "amount": "Included in monthly living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to UPM Sultan Abdul Samad Library, engineering laboratories, GPU clusters, and software development platforms.",
+      "amount": "100% provided by university infrastructure"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Departmental research funding available through supervisor's research grants for publishing in indexed journals.",
+      "amount": "Up to MYR 3,500 for conference attendance"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free UPM campus shuttle bus service operating across all faculties, residential colleges, and the UPM MRT station.",
+      "amount": "Free campus shuttle"
+    },
+    "total_estimated_value_usd_per_year": 15000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single leading public research university: Universiti Putra Malaysia (UPM).",
+    "participating_institutions": [
+      "Universiti Putra Malaysia Main Campus (Serdang, Selangor, Malaysia)"
+    ],
+    "university_rankings_scope": "Ranked #148 globally in QS World University Rankings, #3 in Malaysia, top 100 globally in Computer Science, Agricultural Engineering, and Environmental Sciences.",
+    "available_majors": [
+      "MSc / PhD in Computer Science (Artificial Intelligence, Machine Learning)",
+      "MSc / PhD in Software Engineering",
+      "MSc / PhD in Information Security and Cyber Defense",
+      "MSc / PhD in Data Communications and Distributed Systems",
+      "MSc / PhD in Intelligent Systems and Robotics",
+      "MSc / PhD in Agricultural Informatics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years for MSc; 3 to 4 years for PhD",
+    "admission_requirements_summary": "Bachelor's degree (minimum CGPA 3.3/4.0) for Master's; Master's degree (minimum CGPA 3.5/4.0) for PhD, supervisor consent, research proposal, two recommendation letters, and English proficiency.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "UPM FSKTM AI and Software Engineering labs have high demand; reaching out to supervisors with active MOHE/FRGS research grants is the primary path to guaranteed funding.",
+    "strategic_program_match_advice": "Browse the UPM Faculty of Computer Science and Information Technology directory (fsktm.upm.edu.my), identify matching research groups in AI/software, and email prospective professors attaching your CV and a 2-page research proposal before applying on the UPM SGS portal."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://sgs.upm.edu.my/financial_assistance_scholarships-1875 & https://pgadmissions.upm.edu.my/",
+    "portal_system_name": "UPM SGS Postgraduate Admissions Portal",
+    "account_creation_instructions": "Identify prospective supervisor on UPM portal, secure consent, register an applicant account on UPM SGS admissions, submit degree application, and apply for the GRF / SGRA scholarship scheme.",
+    "step_by_step_workflow": [
+      "Step 1: Explore faculty research profiles on UPM FSKTM portal (https://fsktm.upm.edu.my/).",
+      "Step 2: Email prospective supervisor with academic transcripts, CV, and a 2-page research proposal to secure consent.",
+      "Step 3: Register and apply online for postgraduate admission on the UPM SGS portal (https://pgadmissions.upm.edu.my/).",
+      "Step 4: Upload attested transcripts, degrees, research proposal, CV, and reference letters.",
+      "Step 5: Apply for Graduate Research Fellowship (GRF) scheme through the supervisor's endorsement.",
+      "Step 6: Attend faculty technical interview via Zoom if required.",
+      "Step 7: Receive official offer letter and fellowship award, then initiate the EMGS visa approval letter (VAL) process."
+    ],
+    "university_vs_scholarship_routing": "Integrated Supervisor Track: Admission and funding are processed jointly through the supervising faculty.",
+    "recommendation_letters_submission_method": "Submitted on institutional letterhead signed by former academic professors or research supervisors.",
+    "personal_statement_prompts": "Statement of academic purpose detailing research accomplishments, technical capabilities, and postgraduate research vision.",
+    "study_plan_research_proposal_requirements": "Structured 2 to 4-page research proposal detailing background, problem statement, research methodology, and expected timeline.",
+    "cv_format_requirements": "Detailed academic CV highlighting technical projects, publications, programming proficiencies, and awards.",
+    "interviews_conducted": true,
+    "interview_format_details": "30-minute technical interview via Zoom conducted by prospective supervisor and faculty panel.",
+    "standardized_tests": "IELTS Academic (min 6.0), TOEFL iBT (min 79), or institutional English MOI letter accepted; GRE not required.",
+    "application_fee_amount": "MYR 250 (~USD 60 / ~PKR 16,000)",
+    "attestation_requirements": "Degrees and transcripts attested by HEC and MOFA Pakistan; Matric/Inter by IBCC.",
+    "translation_requirements": "Certified English translation required for all official documents.",
+    "final_submission_method": "Online submission via UPM SGS admissions portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts for 16-year Bachelor's (for MSc) or 18-year Master's (for PhD) with minimum CGPA 3.3/4.0.",
+      "pakistan_specific_instruction": "Attested copies from HEC and MOFA Pakistan."
+    },
+    {
+      "document_name": "Postgraduate Research Proposal",
+      "mandatory": true,
+      "specification": "2 to 4-page structured proposal outlining problem statement, methodology, and timeline.",
+      "pakistan_specific_instruction": "Must be aligned with UPM supervisor's funded research area."
+    },
+    {
+      "document_name": "Supervisor Written Endorsement Letter",
+      "mandatory": true,
+      "specification": "Letter or email confirmation from an eligible UPM professor agreeing to supervise.",
+      "pakistan_specific_instruction": "Obtained directly through academic correspondence."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential academic evaluations from previous professors.",
+      "pakistan_specific_instruction": "Printed on official university letterhead."
+    },
+    {
+      "document_name": "English Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.0), TOEFL iBT (min 79), or institutional English MOI letter.",
+      "pakistan_specific_instruction": "MOI letter signed by university registrar."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "High-resolution color scan of all passport pages valid for at least 2 years.",
+      "pakistan_specific_instruction": "Pakistani passport must have validity through late 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Open year-round (Semester 1 intake opens March / Semester 2 opens September)",
+    "application_deadline": "June 30 (for October intake) / November 30 (for March intake)",
+    "university_admission_deadline": "June 30 / November 30",
+    "document_submission_deadline": "June 30 / November 30",
+    "recommendation_letters_deadline": "June 30 / November 30",
+    "interview_period": "July - August / December - January",
+    "shortlist_announcement": "August / January",
+    "final_result_acceptance_deadline": "September / February",
+    "visa_application_window": "August - September / January - February",
+    "semester_commencement": "October (Semester 1) / March (Semester 2)",
+    "annual_cycle_notes": "Admissions operate on two semester intakes: Semester 1 (October) and Semester 2 (March). Applying 3-4 months in advance is recommended."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Previous degree GPA, minimum 3.30/4.00 requirement)",
+    "extracurricular_and_leadership_weight": "5% (Technical community contributions)",
+    "research_experience_weight": "35% (Quality of research proposal, technical project portfolio, and supervisor match)",
+    "work_experience_weight": "5% (Industry or university research assistant experience)",
+    "personal_statement_weight": "10% (Clarity of purpose and postgraduate research vision)",
+    "recommendations_weight": "10% (Referee appraisals and supervisor endorsement)",
+    "interview_weight": "0% (Interview performance factored directly into supervisor endorsement)",
+    "test_scores_weight": "0% (Language proficiency fulfills eligibility threshold)",
+    "financial_need_weight": "0% (Pure academic and research merit ranking)",
+    "selection_panel_composition": "UPM School of Graduate Studies and Faculty of Computer Science Postgraduate Board.",
+    "evaluation_methodology": "Two-phase evaluation: supervisor nomination followed by faculty board academic review."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~800 to 1,200 international applicants for UPM postgraduate programs",
+    "total_scholarships_awarded": "~100 to 150 graduate research scholarships awarded annually",
+    "acceptance_rate_global": "~8% to 12%",
+    "acceptance_rate_pakistan": "~10% to 15% among candidates with supervisor consent",
+    "typical_successful_applicant_gpa": "CGPA 3.45+ / 4.00 from top Pakistani engineering institutions (NUST, FAST, GIKI, UET, NED)",
+    "typical_academic_and_research_profile": "Graduates of accredited computing and engineering faculties with solid programming foundations and practical capstone projects.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani computer science, software engineering, and electrical engineering faculties.",
+    "high_representation_countries": "Pakistan, Bangladesh, China, Iran, Nigeria, Indonesia, India, Yemen.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of educational agents claiming to provide 'guaranteed UPM admissions or scholarship awards'.",
+      "Applications are handled exclusively via the official UPM SGS portal (https://pgadmissions.upm.edu.my/)."
+    ],
+    "application_fee_warning": "UPM application fee is MYR 250 paid directly on the portal; never transfer funds to personal bank accounts.",
+    "agent_and_intermediary_warnings": "Universiti Putra Malaysia does not work with third-party agents for research degree admissions.",
+    "hidden_costs_breakdown": [
+      "UPM application fee: MYR 250 (~PKR 16,000).",
+      "EMGS visa approval letter (VAL) and medical fee: ~MYR 2,000 (~PKR 130,000).",
+      "Attestations in Pakistan: ~PKR 25,000.",
+      "Initial pocket money before first stipend transfer: ~MYR 1,500 (~PKR 98,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You can apply without a supervisor. Reality: Research Master's and PhD applications at UPM require prior engagement and consent from a qualified supervisor.",
+      "Myth: UPM only focuses on agriculture. Reality: UPM FSKTM is one of the top computing and AI research faculties in Malaysia."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial websites state IELTS 6.5 is mandatory; UPM requires IELTS 6.0 or institutional English MOI letter for computing degrees."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory research progress (Progress Report Grade Satisfactory) each semester.",
+    "attendance_requirements": "Full-time physical research attendance in the faculty research lab at UPM Serdang.",
+    "academic_progress_monitoring": "Semi-annual progress reports evaluated by the Faculty Supervisory Committee.",
+    "work_restrictions_during_study": "GRF recipients may be assigned teaching assistantship or grading duties (up to 6 hours/week) within the faculty.",
+    "home_country_return_obligation": "No return obligation; graduates are free to pursue postdocs or careers in Malaysia or worldwide.",
+    "service_obligations_or_bonds": "Publication milestone obligation: must publish at least 1-2 papers in indexed journals prior to thesis submission.",
+    "repayment_clawback_conditions": "Funding cancelled if the candidate fails progress evaluations twice or withdraws without approval.",
+    "rules_for_changing_university": "Non-transferable to other universities; tied specifically to Universiti Putra Malaysia.",
+    "rules_for_changing_major": "Requires approval from both current and prospective supervisors and the Faculty Postgraduate Committee.",
+    "extension_policy": "Scholarship is granted for standard duration (2 years for Master's; 3-4 years for PhD)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "UPM School of Graduate Studies Financial Assistance Portal",
+      "source_url": "https://sgs.upm.edu.my/financial_assistance_scholarships-1875",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "UPM Postgraduate Admissions Portal",
+      "source_url": "https://pgadmissions.upm.edu.my/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

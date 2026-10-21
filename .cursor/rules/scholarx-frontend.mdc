@@ -1,0 +1,14 @@
+---
+description: Frontend guidelines for Next.js 15, Command Theatre, Zustand, and Tailwind
+globs: frontend/**
+alwaysApply: false
+---
+# ScholarX Frontend Rules
+
+- Framework: Next.js 15.1.0 (App Router), React 19, Tailwind CSS, Zustand v5.
+- Core Canvas: Command Theatre on virtual 1920×1080 stage with D3-geo continental scout beacons.
+- Streaming: Server-Sent Events via native `EventSource` with dynamic burst coalescing in `presentation-queue.ts`.
+- Control Surface: Consolidated `JudgeControlBar.tsx` (ADR-009) is the sole bottom controller.
+- Typography: 6-scale semantic typography (ADR-012) with a strict minimum floor of 10px monospace (`text-[10px] font-mono`). Sub-10px fonts are strictly prohibited.
+- Theme: Obsidian dark glassmorphism (`bg-[#0a0f1a]`, glass borders `border-cyan-500/20`).
+- Documentation: Read `.context/03_FRONTEND_THEATRE.md`.

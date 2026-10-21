@@ -1,0 +1,289 @@
+{
+  "scholarship_id": "SCH-AM-056",
+  "basic_details": {
+    "scholarship_name": "Princeton University Doctoral Fellowship & First-Year Centennial Awards",
+    "offering_entity": "The Graduate School, Princeton University",
+    "host_country": "United States",
+    "host_institutions_covered": "Princeton University (Princeton, New Jersey, USA)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Computer Science, Electrical and Computer Engineering, Mechanical and Aerospace Engineering, Chemical and Biological Engineering, Operations Research and Financial Engineering (ORFE), Physics, Mathematics, and Molecular Biology.",
+    "number_of_awards_total": "~100% of admitted PhD students receive full multi-year fellowship and stipend guarantees (~500 to 600 doctoral fellowships campus-wide annually)",
+    "number_of_awards_pakistan": "Open globally on merit; Pakistani scholars in computing, engineering, and theoretical physics regularly win full Princeton doctoral fellowships (~3 to 7 awards annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Full 5 years of doctoral study guaranteed",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "$49,000 to $53,000 / year (approx. $4,080 to $4,410 / month; ~PKR 1,130,000 to 1,225,000 / month) 12-month living stipend plus 100% full tuition waiver and comprehensive health coverage"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international students worldwide including Pakistan as well as U.S. citizens/PR"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction; selection based strictly on academic excellence and research potential.",
+    "academic_qualifications": "Recognized 16-year Bachelor's or 18-year Master's degree with exceptional academic standing (equivalent to minimum GPA 3.85+ / 4.00 or top 2% of graduating class) from an HEC-recognized university.",
+    "minimum_gpa_percentage": 88.0,
+    "minimum_gpa_scale": 3.85,
+    "grading_conversion_notes": "Minimum undergraduate/graduate GPA of 3.85 / 4.0; admitted Princeton doctoral candidates are evaluated on research impact.",
+    "subject_background_prerequisites": "Computer science, electrical engineering, mechanical engineering, physics, mathematics, or related quantitative field.",
+    "current_education_status": "Graduated or final-year undergraduate/master's students completing degree before September.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Peer-reviewed research publications, mathematical competition awards, or research laboratory contributions strongly advantageous.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 100,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "TOEFL iBT minimum 100 or IELTS Academic minimum 7.0 mandatory for Princeton Graduate School.",
+    "other_language_requirements": "GRE General / Subject tests optional or department-specific.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must be admitted to a Princeton University PhD program.",
+    "previous_scholarship_restrictions": "Coordinated with Princeton standard multi-year doctoral funding guarantee.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full Princeton doctoral tuition and required student fees paid for all 5 years of study.",
+      "amount": "100% covered (~$62,400 / year value; ~PKR 17,300,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Princeton graduate application fee of $75; fee waivers available upon demonstration of financial need.",
+      "amount": "$75 (~PKR 21,000) application fee (fee waiver available)"
+    },
+    "accommodation": {
+      "status": "NOT_COVERED",
+      "details": "Princeton University graduate housing (Graduate College, Lakeside Apartments, Lawrence Apartments) funded comfortably via monthly stipend.",
+      "amount": "Funded from stipend (~$1,100 to $1,600 / month rent)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Guaranteed 12-month living stipend of $49,000 to $53,000 / year ($4,080 to $4,410 / month; ~PKR 1,130,000 to 1,225,000 / month) disbursed semimonthly.",
+      "amount": "$49,000 to $53,000 / year (~$4,250 / month living stipend)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Relocation flights to New Jersey/New York are self-funded or subsidized by departmental relocation allowances.",
+      "amount": "Not covered in standard package"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "U.S. F-1 Student Visa application fee (~$185) and SEVIS I-901 fee (~$350) paid to U.S. government.",
+      "amount": "Approx. $535 borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Princeton University Student Health Plan (SHP) 100% covered, including medical, prescription, and mental health coverage.",
+      "amount": "100% covered comprehensive healthcare (~$3,500 / year value)"
+    },
+    "food_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Dining and groceries covered through monthly living allowance.",
+      "amount": "Covered via stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Princeton University Library system (Firestone Library), high-performance computing clusters (Tiger, Della), and laboratory infrastructure included.",
+      "amount": "100% covered research computing access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Dean's Fund for Graduate Student Research and departmental travel awards provide up to $2,500 to $4,000 per year for presenting research papers at conferences.",
+      "amount": "Up to $4,000 / year travel funds"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "TigerTransit campus bus network is completely free of charge throughout Princeton and surrounding areas.",
+      "amount": "100% free TigerTransit campus bus network"
+    },
+    "total_estimated_value_usd_per_year": 118000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single world-leading Ivy League research institution (Princeton University).",
+    "participating_institutions": [
+      "Princeton University (Princeton, New Jersey, USA)"
+    ],
+    "university_rankings_scope": "U.S. News & World Report #1 National University for 13 consecutive years; QS World University Rankings #22; world leader in theoretical physics, mathematics, and computer science.",
+    "available_majors": [
+      "PhD in Computer Science (Systems, Theory, AI, Security)",
+      "PhD in Electrical and Computer Engineering",
+      "PhD in Mechanical and Aerospace Engineering",
+      "PhD in Operations Research and Financial Engineering (ORFE)",
+      "PhD in Chemical and Biological Engineering",
+      "PhD in Physics (High Energy, Condensed Matter, Quantum)",
+      "PhD in Mathematics",
+      "PhD in Molecular Biology"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "5 years of full-time doctoral study and research",
+    "admission_requirements_summary": "Bachelor's / Master's degree with 3.85+ GPA, verified transcripts, TOEFL 100+ or IELTS 7.0+, three academic letters of recommendation, CV detailing research outputs, and statement of academic purpose.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Princeton Computer Science and Physics are among the most selective doctoral programs in the world (acceptance rate ~4%); showing deep theoretical foundation and publications is essential.",
+    "strategic_program_match_advice": "Articulate clear research synergy with specific Princeton faculty research groups and centers (e.g., Center for Statistics and Machine Learning, Princeton Quantum Initiative)."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://gradschool.princeton.edu/admission/applying",
+    "portal_system_name": "Princeton Graduate School Online Application Portal",
+    "account_creation_instructions": "Register on the Princeton Graduate School application portal, choose target PhD department, upload academic transcripts, statement of academic purpose, CV, test scores, and register 3 referees.",
+    "step_by_step_workflow": [
+      "Step 1: Explore Princeton faculty profiles and published papers in your field of interest.",
+      "Step 2: Obtain valid TOEFL iBT (100+) or IELTS Academic (7.0+) score report.",
+      "Step 3: Submit PhD application on Princeton Graduate School portal by December 1 / December 15 deadline.",
+      "Step 4: Upload official academic transcripts, statement of purpose, and curriculum vitae.",
+      "Step 5: Three academic referees submit letters directly into the Princeton system.",
+      "Step 6: Departmental faculty admissions committee reviews applications and selects doctoral candidates.",
+      "Step 7: Successful applicants receive formal admission offer with full 5-year guaranteed funding package in February.",
+      "Step 8: Accept offer by April 15, receive I-20, and apply for U.S. F-1 Student Visa."
+    ],
+    "university_vs_scholarship_routing": "Integrated Universal Doctoral Funding: 100% of admitted Princeton PhD students receive full multi-year funding guarantees without separate financial aid application.",
+    "recommendation_letters_submission_method": "Submitted online by referees via automated secure electronic appraisal forms.",
+    "personal_statement_prompts": "Statement of academic purpose (approx. 1,000 words) describing research background, scholarly interests, and reasons for pursuing doctoral study at Princeton.",
+    "study_plan_research_proposal_requirements": "Incorporated into statement of academic purpose; writing sample / research paper required by many departments.",
+    "cv_format_requirements": "Standard academic research CV detailing education, publications, conference presentations, awards, and technical competencies.",
+    "interviews_conducted": true,
+    "interview_format_details": "Virtual technical interviews via Zoom with prospective faculty advisors evaluating research depth and theoretical foundation.",
+    "standardized_tests": "TOEFL iBT 100+ or IELTS 7.0+ mandatory; GRE optional/department-specific.",
+    "application_fee_amount": "$75 (approx. PKR 21,000; fee waiver available upon request)",
+    "attestation_requirements": "Official HEC verified transcripts required upon final matriculation.",
+    "translation_requirements": "Certified English translation of all non-English transcripts.",
+    "final_submission_method": "100% online submission via Princeton Graduate School portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Bachelor's / Master's degree with minimum GPA 3.85 / 4.0 from an accredited university.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official English Proficiency Score Report",
+      "mandatory": true,
+      "specification": "TOEFL iBT minimum 100 or IELTS Academic minimum 7.0.",
+      "pakistan_specific_instruction": "Official electronic score report submitted to Princeton University code 2672."
+    },
+    {
+      "document_name": "Three Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential referee appraisals from research mentors assessing originality and scientific capability.",
+      "pakistan_specific_instruction": "Submitted via institutional email links."
+    },
+    {
+      "document_name": "Statement of Academic Purpose",
+      "mandatory": true,
+      "specification": "Articulating research passions, theoretical challenges, and proposed faculty collaborators at Princeton.",
+      "pakistan_specific_instruction": "Tailored to Princeton research groups."
+    },
+    {
+      "document_name": "Detailed Academic Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Listing all academic history, research projects, publications, and technical skills.",
+      "pakistan_specific_instruction": "Highlighting research experience."
+    },
+    {
+      "document_name": "Sample of Written Work / Research Publications",
+      "mandatory": false,
+      "specification": "Published peer-reviewed paper or thesis chapter demonstrating rigorous research capability.",
+      "pakistan_specific_instruction": "Scholarly research paper."
+    },
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for minimum 1 year.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "September 1",
+    "application_deadline": "December 1 (Computer Science, ECE) / December 15 (Physics, Math, ORFE)",
+    "university_admission_deadline": "December 15",
+    "document_submission_deadline": "December 15",
+    "recommendation_letters_deadline": "December 20",
+    "interview_period": "January - February",
+    "shortlist_announcement": "February - early March",
+    "final_result_acceptance_deadline": "April 15 (National CGS deadline)",
+    "visa_application_window": "May - July",
+    "semester_commencement": "Early September (Fall intake)",
+    "annual_cycle_notes": "Single annual admission cycle for Fall entry; applications strictly due in early December."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "25% (Academic GPA, transcript rigor, foundational mathematics/physics grades)",
+    "extracurricular_and_leadership_weight": "5% (Scientific outreach, academic community leadership)",
+    "research_experience_weight": "50% (Demonstrated research originality, peer-reviewed publications, technical problem solving)",
+    "work_experience_weight": "5% (Industry R&D lab experience or software engineering)",
+    "personal_statement_weight": "5% (Clarity of scientific objectives and focus)",
+    "recommendations_weight": "5% (Referee appraisals of research independence)",
+    "interview_weight": "5% (Performance in faculty technical discussions)",
+    "test_scores_weight": "0% (English proficiency is a mandatory threshold)",
+    "financial_need_weight": "0% (Pure academic excellence and research capability)",
+    "selection_panel_composition": "Departmental Faculty Admissions Committees and Princeton Graduate School.",
+    "evaluation_methodology": "Holistic review prioritizing research depth, originality, peer-reviewed outputs, and scientific match with Princeton research laboratories."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~4,000 to 5,500 doctoral applicants across relevant departments",
+    "total_scholarships_awarded": "~100% of admitted PhD students receive full multi-year funding guarantees",
+    "acceptance_rate_global": "~3.5% to 5.0% across departments",
+    "acceptance_rate_pakistan": "~2.0% to 3.5% for extraordinary applicants with peer-reviewed publications and near-perfect GPAs",
+    "typical_successful_applicant_gpa": "Undergraduate GPA >= 3.90 / 4.00, typically with 1 to 3 peer-reviewed publications in top IEEE, ACM, or Nature-indexed venues",
+    "typical_academic_and_research_profile": "Scholars holding bachelor's or research master's degrees with exceptional quantitative skills, peer-reviewed publications, and compelling research visions.",
+    "common_backgrounds_of_winners": "Graduates from premier Pakistani universities (NUST, LUMS, FAST-NUCES, GIKI, PIEAS, UET) and international graduate programs.",
+    "high_representation_countries": "USA, China, India, Canada, Pakistan, South Korea, Germany, Singapore, Turkey.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official Princeton website at gradschool.princeton.edu.",
+      "Princeton never works with commercial recruiting agencies."
+    ],
+    "application_fee_warning": "Application fee of $75 is paid directly through the secure portal; fee waivers are available for eligible applicants.",
+    "agent_and_intermediary_warnings": "Commercial agencies cannot influence Princeton admissions; fraudulent applications result in permanent bans.",
+    "hidden_costs_breakdown": [
+      "Application fee: $75 (waiver available).",
+      "U.S. Visa & SEVIS fees: ~$535 (~PKR 148,000).",
+      "IELTS or TOEFL test fees: ~PKR 55,000 to 65,000.",
+      "Relocation flight to New Jersey/New York: ~PKR 250,000 to 350,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Princeton doctoral students must pay tuition. Reality: 100% of admitted Princeton doctoral students receive full tuition coverage, health insurance, and a generous 12-month living stipend ($49k-$53k/yr).",
+      "Myth: You need a master's degree to apply. Reality: Students holding a 4-year Bachelor's degree are directly eligible to apply to Princeton PhD programs."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently quote outdated stipend values; current verified Princeton 12-month doctoral stipend is $49,000 to $53,000."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic progress and minimum B+ (3.3/4.0) average in graduate coursework.",
+    "attendance_requirements": "Full-time resident study in Princeton and active contribution to research laboratory projects.",
+    "academic_progress_monitoring": "Annual progress reviews and doctoral general examination (Generals) administered by the department.",
+    "work_restrictions_during_study": "Assistantships in Instruction (AI) or Assistantships in Research (AR) are integrated into doctoral training; outside employment is restricted.",
+    "home_country_return_obligation": "None; graduates are eligible for 3-year U.S. STEM OPT work authorization.",
+    "service_obligations_or_bonds": "Obligation to fulfill designated departmental research or teaching duties.",
+    "repayment_clawback_conditions": "Funding terminated if student withdraws or fails academic milestones.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Requires approval from graduate program committee and faculty supervisor.",
+    "extension_policy": "Full guaranteed funding for 5 years; Dean's Completion Fellowships available for year 6."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Princeton University Graduate School Financial Support",
+      "source_url": "https://gradschool.princeton.edu/financial-support",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Princeton Computer Science Graduate Admissions and Financial Support",
+      "source_url": "https://www.cs.princeton.edu/grad/admission",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

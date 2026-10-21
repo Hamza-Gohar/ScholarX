@@ -1,0 +1,275 @@
+{
+  "scholarship_id": "SCH-EU-051",
+  "basic_details": {
+    "scholarship_name": "Tampere University International Master's Scholarship & Finland Scholarship",
+    "offering_entity": "Tampere University (Tampereen yliopisto) & Finnish Ministry of Education and Culture",
+    "host_country": "Finland",
+    "host_institutions_covered": "Tampere University City Centre & Hervanta Campuses (Tampere, Pirkanmaa, Finland)",
+    "degree_levels": [
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "Faculty of Information Technology and Communication Sciences (ITC) & Faculty of Engineering and Natural Sciences: Computing Sciences (Data Science, Artificial Intelligence, Software Engineering, Human-Technology Interaction), Wireless Communications, Robotics and Autonomous Systems, and Electrical Engineering.",
+    "number_of_awards_total": "~120 to 180 tuition waivers and Finland Scholarships awarded annually across international Master's programmes",
+    "number_of_awards_pakistan": "Open international merit competition; Pakistani computing and engineering graduates secure ~12 to 18 awards annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "2 years (full standard duration of 120 ECTS Master of Science program), renewal in year 2 contingent on completing minimum 55 ECTS in year 1",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "€5,000 one-time Finland Scholarship relocation grant (~PKR 1,500,000) + campus research assistant earnings"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International non-EU/EEA students liable for tuition fees in Finland (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction; candidates evaluated on previous academic excellence and prerequisite coursework.",
+    "academic_qualifications": "A recognized 4-year Bachelor of Science / Engineering in Computer Science, Software Engineering, Electrical Engineering, or related technical field (16 years education) with minimum CGPA 3.30 / 4.00 (or 75%+ marks) from an HEC-recognized university in Pakistan.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Minimum ECTS grade equivalent of Grade B+ or Finnish grade 3.5 / 5.0 in major technical subjects.",
+    "subject_background_prerequisites": "Rigorous undergraduate coursework in programming languages (Python, Java, C++), algorithms, data structures, discrete mathematics, and computer systems.",
+    "current_education_status": "Graduating seniors in their final semester can apply conditionally with official provisional transcripts.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; technical internships, open-source software contributions, or robotics projects strengthen application.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 92,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 overall (minimum 5.5 in writing) or TOEFL iBT minimum 92 (minimum 20 in writing). Standardized English score report is mandatory under Finnish university admissions criteria.",
+    "other_language_requirements": "None; international Master's programmes are taught and examined 100% in English.",
+    "gender_specific_requirements": null,
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants apply for the scholarship directly on Studyinfo.fi at the same time they apply for degree admission in January.",
+    "previous_scholarship_restrictions": "Cannot hold another full Finnish state or university tuition scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver (worth €12,000 / year; €24,000 total) covering the entire 2-year duration of the Master of Science program.",
+      "amount": "100% covered (~€12,000 / year; ~PKR 3,600,000 / year value)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Online application via the official Finnish national portal Studyinfo.fi is completely free of charge.",
+      "amount": "€0"
+    },
+    "accommodation": {
+      "status": "PARTIAL",
+      "details": "Subsidized student apartments arranged via Tampere Student Housing Foundation (TOAS - Tampereen seudun opiskelija-asuntosäätiö); monthly rent €280 - €420 including heating, water, electricity, and high-speed internet.",
+      "amount": "Subsidized TOAS apartment ~€320 / month"
+    },
+    "monthly_stipend": {
+      "status": "PARTIAL",
+      "details": "Finland Scholarship recipients receive an immediate €5,000 relocation grant disbursed into their Finnish bank account upon arrival. Departmental student research assistantships pay €12 - €16/hour for up to 20 hours/week.",
+      "amount": "€5,000 one-time grant (~PKR 1,500,000) + part-time research assistant wages"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International airfare to Helsinki/Tampere arranged by student; covered by the €5,000 arrival grant.",
+      "amount": "Self-funded via arrival grant (~PKR 200,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Finnish Immigration Service (Migri) student residence permit electronic application fee (€350).",
+      "amount": "€350 (~PKR 105,000)"
+    },
+    "health_insurance": {
+      "status": "PARTIAL",
+      "details": "Private insurance policy (Swisscare/SIP ~€250/year) required for Migri residence permit; on campus, Finnish Student Health Service (FSHS / YTHS) provides full health care for ~€74/year.",
+      "amount": "Private insurance ~€250/year; campus care via FSHS"
+    },
+    "food_allowance": {
+      "status": "PARTIAL",
+      "details": "State-subsidized Kela student lunches available across campus cafeterias (Juvenes / Sodexo) for €2.95 per meal.",
+      "amount": "Subsidized Kela meals (€2.95 per meal)"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full borrowing privileges at Tampere University Library, Hervanta engineering laboratories, and supercomputing clusters.",
+      "amount": "100% covered by university resources"
+    },
+    "research_funding_conference_grant": {
+      "status": "PARTIAL",
+      "details": "Faculty travel grants available for Master's students co-authoring scientific publications presented at European research conferences.",
+      "amount": "Up to €1,200 per year"
+    },
+    "travel_transit_allowance": {
+      "status": "PARTIAL",
+      "details": "Nysse (Tampere Regional Transport) offers 50% student discounts on monthly tram and bus travel passes (~€38 / month).",
+      "amount": "50% student discount on local transit"
+    },
+    "total_estimated_value_usd_per_year": 18000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single world-class multidisciplinary technical institution: Tampere University (formed from merger of Tampere University of Technology and University of Tampere).",
+    "participating_institutions": [
+      "Tampere University (Hervanta Campus & City Centre Campus, Tampere, Finland)"
+    ],
+    "university_rankings_scope": "Consistently ranked top 350 globally in QS/THE World Rankings; globally recognized for research in Wireless Communications, Human-Technology Interaction, AI, and Robotics.",
+    "available_majors": [
+      "Computing Sciences (Data Science)",
+      "Computing Sciences (Artificial Intelligence)",
+      "Computing Sciences (Software Engineering)",
+      "Computing Sciences (Human-Technology Interaction)",
+      "Wireless Communications and RF Systems",
+      "Robotics and Autonomous Systems",
+      "Electrical Engineering (Smart Grids)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (4 semesters, 120 ECTS)",
+    "admission_requirements_summary": "Bachelor's degree in relevant discipline, certified academic transcripts, motivation letter, CV, and standardized English test score (IELTS 6.5 or TOEFL 92).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Data Science and Artificial Intelligence tracks at Hervanta campus receive extreme international application volumes; strong programming and calculus foundations yield highest ranking scores.",
+    "strategic_program_match_advice": "When completing your Studyinfo.fi application in January, check the box requesting the 'Tampere University Tuition Fee Scholarship / Finland Scholarship'—no separate scholarship portal is needed."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://opintopolku.fi/konfo/en/ & https://www.tuni.fi/en/study-with-us/how-to-apply/scholarships",
+    "portal_system_name": "Studyinfo.fi (Finnish National Application System)",
+    "account_creation_instructions": "Submit application on Studyinfo.fi during the annual January joint application window, select Tampere University degree programmes, opt-in for the scholarship, and upload digital document scans.",
+    "step_by_step_workflow": [
+      "Step 1: Check prerequisite courses and prepare IELTS (min 6.5) or TOEFL (min 92) test scores.",
+      "Step 2: Submit application on Studyinfo.fi during the joint application period (early to mid-January).",
+      "Step 3: Select the checkbox requesting the Tampere University Scholarship and Finland Scholarship.",
+      "Step 4: Upload attested transcripts, degree certificates, CV, and motivational letter before the document deadline.",
+      "Step 5: Admissions committee reviews academic files and announces admission and scholarship results by late March or early April.",
+      "Step 6: Confirm acceptance of the study place and scholarship offer via Studyinfo.fi before the national deadline in July.",
+      "Step 7: Apply for Finnish residence permit for studies via Enter Finland (Migri) and book biometric appointment at VFS Global Islamabad."
+    ],
+    "university_vs_scholarship_routing": "Integrated Track: Single application via Studyinfo.fi covers both degree admission and scholarship allocation.",
+    "recommendation_letters_submission_method": "Not required for general admission; only uploaded if specifically requested for interdisciplinary tracks.",
+    "personal_statement_prompts": "Integrated motivation questions embedded within the online application addressing academic background, motivation, and career plans.",
+    "study_plan_research_proposal_requirements": "Summary of proposed Master's thesis focus in AI, data science, or robotics.",
+    "cv_format_requirements": "Standard academic CV (Europass format preferred) detailing education, technical competencies, and software projects.",
+    "interviews_conducted": false,
+    "interview_format_details": "Evaluation is conducted based on documented academic credentials and motivation essay.",
+    "standardized_tests": "IELTS Academic (min 6.5, writing 5.5) or TOEFL iBT (min 92, writing 20); GRE not required.",
+    "application_fee_amount": "€0 (Free on Studyinfo.fi)",
+    "attestation_requirements": "Bachelor's degree and transcripts must be attested by HEC and MOFA Pakistan; Matric/Inter by IBCC.",
+    "translation_requirements": "Certified English translation of all non-English documents.",
+    "final_submission_method": "Online upload via Studyinfo.fi."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Bachelor's Degree Certificate and Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts for 4-year Bachelor's in CS/SE/EE with minimum CGPA 3.30/4.00.",
+      "pakistan_specific_instruction": "Attested copies from HEC and MOFA Pakistan."
+    },
+    {
+      "document_name": "Official English Proficiency Score Report",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5 overall, 5.5 writing) or TOEFL iBT (min 92, 20 writing).",
+      "pakistan_specific_instruction": "Send electronic score report directly to Tampere University via testing agency."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Detailed CV listing education, programming abilities, projects, and work experience.",
+      "pakistan_specific_instruction": "Include links to GitHub and technical portfolios."
+    },
+    {
+      "document_name": "Motivation Letter / Statement of Purpose",
+      "mandatory": true,
+      "specification": "Structured motivation essay answering specific prompt questions on Studyinfo.",
+      "pakistan_specific_instruction": "Emphasize alignment with Tampere's AI, wireless, or robotics research labs."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "High-resolution color scan of passport bio page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Pakistani passport must be valid through late 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "January 3",
+    "application_deadline": "January 17",
+    "university_admission_deadline": "January 17",
+    "document_submission_deadline": "January 24",
+    "recommendation_letters_deadline": "Not applicable",
+    "interview_period": "Not applicable",
+    "shortlist_announcement": "Late March - Early April",
+    "final_result_acceptance_deadline": "Mid-July",
+    "visa_application_window": "April - June",
+    "semester_commencement": "Late August / Early September",
+    "annual_cycle_notes": "Finland conducts a unified nationwide Joint Application period in January. Missing the mid-January deadline means waiting an entire year."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "60% (Undergraduate GPA and performance in core mathematical and computing courses)",
+    "extracurricular_and_leadership_weight": "5% (Extracurricular achievements and innovation contests)",
+    "research_experience_weight": "15% (Undergraduate capstone project, publications, and technical depth)",
+    "work_experience_weight": "5% (Industry internships or engineering experience)",
+    "personal_statement_weight": "15% (Motivation letter quality and career goal clarity)",
+    "recommendations_weight": "0% (Not factored into composite score)",
+    "interview_weight": "0% (Document-based merit ranking)",
+    "test_scores_weight": "0% (Language proficiency fulfills qualification threshold)",
+    "financial_need_weight": "0% (Pure academic merit ranking)",
+    "selection_panel_composition": "Faculty of ITC Academic Admissions Board at Tampere University.",
+    "evaluation_methodology": "Point-based scoring rubric evaluating degree relevance, GPA percentile, and motivation letter quality."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,800 to 2,600 international applicants across Computing Sciences programs",
+    "total_scholarships_awarded": "~120 to 180 full/partial tuition waivers and Finland Scholarships",
+    "acceptance_rate_global": "~7% to 10% for admission; ~4% to 6% for 100% full scholarship",
+    "acceptance_rate_pakistan": "~6% to 9% among applicants with strong CGPA (3.4+) in computing and software",
+    "typical_successful_applicant_gpa": "CGPA 3.45+ / 4.00 from top Pakistani engineering institutions (NUST, FAST, GIKI, UET, NED)",
+    "typical_academic_and_research_profile": "Graduates of accredited computing and engineering faculties with solid programming foundations and practical capstone projects.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani computer science, software engineering, and electronics departments.",
+    "high_representation_countries": "Pakistan, India, Bangladesh, Iran, China, Vietnam, Nigeria, Turkey.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of fraudulent consultancy firms claiming to guarantee Finnish student visas or scholarships.",
+      "Applications must be filed exclusively through opintopolku.fi (Studyinfo.fi)."
+    ],
+    "application_fee_warning": "Studyinfo.fi and Tampere University do NOT charge application fees for degree programs.",
+    "agent_and_intermediary_warnings": "Tampere University does not authorize agents to make admissions or scholarship decisions.",
+    "hidden_costs_breakdown": [
+      "Finnish Migri residence permit electronic fee: €350 (~PKR 105,000).",
+      "VFS Global Islamabad biometrics appointment: ~PKR 12,000.",
+      "Mandatory health insurance (Swisscare): ~€250 (~PKR 75,000).",
+      "IELTS/TOEFL exam fee: ~PKR 60,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You need to pay the first year tuition before getting the scholarship. Reality: The Finland Scholarship / Tampere waiver is awarded directly in the admission letter and credited upfront.",
+      "Myth: You cannot work in Finland during studies. Reality: International students in Finland have the legal right to work up to 30 hours per week during term time."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial agencies suggest spring application deadlines; the actual Finnish Joint Application window closes strictly in mid-January."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must complete at least 55 ECTS credits during the first academic year to renew the tuition fee waiver for the second year.",
+    "attendance_requirements": "Full-time campus study and registration in Tampere, Finland.",
+    "academic_progress_monitoring": "Annual transcript audit by the university registrar at the conclusion of spring semester.",
+    "work_restrictions_during_study": "Permitted to work up to 30 hours per week under Finnish immigration law.",
+    "home_country_return_obligation": "No return obligation; Finland grants a 2-year post-study job seeker residence permit upon graduation.",
+    "service_obligations_or_bonds": "Zero service bonds or repayment clauses.",
+    "repayment_clawback_conditions": "Scholarship is withdrawn if student drops out or fails to meet the ECTS progress threshold.",
+    "rules_for_changing_university": "Non-transferable to other Finnish universities.",
+    "rules_for_changing_major": "Changing major requires a new application in the subsequent joint application round.",
+    "extension_policy": "Scholarship covers standard 2-year duration; third-year studies incur regular tuition fees unless special waiver granted."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Tampere University Official Scholarships Portal",
+      "source_url": "https://www.tuni.fi/en/study-with-us/how-to-apply/scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Studyinfo.fi Finnish National Higher Education Portal",
+      "source_url": "https://opintopolku.fi/konfo/en/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "scholarship_id": "SCH-AM-009",
+  "basic_details": {
+    "scholarship_name": "Knight-Hennessy Scholars at Stanford University",
+    "offering_entity": "Stanford University (Knight-Hennessy Scholars Program)",
+    "host_country": "United States",
+    "host_institutions_covered": "Stanford University (All 7 Schools: Engineering, Humanities & Sciences, Medicine, Law, Business, Education, Doerr School of Sustainability)",
+    "degree_levels": [
+      "Master's",
+      "PhD"
+    ],
+    "major_restrictions": "Open to ALL full-time graduate degree programs at Stanford: DMA, JD, MA, MBA, MD, MFA, MPP, MS, and PhD programs. Dual- and joint-degrees are fully supported.",
+    "number_of_awards_total": "Up to 100 high-achieving scholars selected globally each cohort (~85 to 90 enrolled)",
+    "number_of_awards_pakistan": "Open competition across all countries; Pakistani scholars are regularly selected for Knight-Hennessy cohorts",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 3 years of full graduate funding at Stanford (additional years for PhD funded via department assistantships)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to citizens of all countries worldwide (Pakistani citizens fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limit; however, applicants must have earned their first undergraduate degree within the prior 7 years (e.g. earned in 2018 or later for 2025/2026 intake).",
+    "academic_qualifications": "Equivalent of a U.S. bachelor's degree from a college or university of recognized standing (typically 16-year BS / 4-year degree from Pakistan).",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "No minimum GPA set by Knight-Hennessy, but Stanford departmental admissions require stellar academic performance (competitive average 3.8+ / 4.00 CGPA).",
+    "subject_background_prerequisites": "Prerequisites set by the specific Stanford graduate degree program.",
+    "current_education_status": "Graduated within the past 7 years or in final undergraduate year graduating prior to Stanford matriculation.",
+    "graduation_year_restrictions": "First bachelor's degree must have been earned in January 2018 or later.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; leadership, impact, and purposeful initiative are paramount.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 100,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "Must satisfy the English requirements of the Stanford graduate program (Stanford typically requires TOEFL iBT 100+ for PhD/MS).",
+    "other_language_requirements": "None.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "DUAL APPLICATION MANDATORY: You must apply separately to Knight-Hennessy Scholars AND apply separately to the specific Stanford graduate degree program by its respective deadline.",
+    "previous_scholarship_restrictions": "None.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full tuition fees and associated departmental fees paid directly for up to 3 years at Stanford."
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Knight-Hennessy application is free; Stanford department application fee waivers available for eligible international applicants."
+    },
+    "accommodation": {
+      "status": "MONTHLY ALLOWANCE",
+      "details": "Covered via comprehensive living stipend sufficient for on-campus graduate housing at Stanford."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Annual living stipend paid quarterly to cover living expenses in Palo Alto / Silicon Valley.",
+      "amount": "$45,000 to $52,000 / year (~$3,800 to $4,300 / month or ~PKR 1,050,000 to 1,200,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Annual round-trip economy airfare to and from Stanford University (one flight per year)."
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Reimbursement for F-1 or J-1 visa fees and SEVIS fee upon enrollment."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Cardinal Care health insurance coverage at Stanford fully paid."
+    },
+    "food_allowance": {
+      "status": "INCLUDED IN STIPEND",
+      "details": "Covered within living stipend."
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Annual academic and instructional materials stipend included (~$2,000/year).",
+      "amount": "~$2,000 / year"
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Access to King Global Leadership Program (KGLP) enrichment funds and conference travel grants."
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "One-time relocation / settling-in stipend upon initial arrival at Stanford (~$1,000).",
+      "amount": "$1,000 one-off"
+    },
+    "total_estimated_value_usd_per_year": 95000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single University: Stanford University (Stanford, California).",
+    "participating_institutions": [
+      "Stanford University (School of Engineering, School of Humanities & Sciences, Stanford Medicine, Stanford Law, Stanford GSB, Stanford Doerr)"
+    ],
+    "university_rankings_scope": "World #2 (QS World Rankings / Times Higher Education).",
+    "available_majors": [
+      "All Stanford graduate programs (Computer Science, Artificial Intelligence, Bioengineering, Electrical Engineering, Medicine, Law, Public Policy, Energy Science)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 1-2 years; PhD: 3-5 years (KHS covers first 3 years, department covers years 4-5)",
+    "admission_requirements_summary": "Undergraduate degree transcripts, GRE/GMAT/MCAT/LSAT (as required by department), 3 recommendation letters, KHS essays, video statement.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "KHS does NOT admit you to Stanford; you must be independently admitted by the Stanford graduate department. If the department rejects you, KHS cannot fund you.",
+    "strategic_program_match_advice": "Demonstrate the three KHS pillars in every essay: Independence of Thought (intellectual curiosity, contrarian thinking), Purposeful Leadership (initiative, ambition), Civic Mindset (humility, collaboration, service)."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://knight-hennessy.stanford.edu/",
+    "portal_system_name": "Knight-Hennessy Online Application Portal (Slate)",
+    "account_creation_instructions": "Register on the KHS online application system in June/July; submit KHS application by early October deadline.",
+    "step_by_step_workflow": [
+      "1. Register on KHS online application portal (opens June 1).",
+      "2. Complete profile, upload transcripts, resume, and input 2 reference contacts.",
+      "3. Write two short essays: 1) What matters most to you, and why? 2) How will your Stanford degree enable you to impact the world?",
+      "4. Submit KHS online application before early October deadline (e.g., October 8, 2026 at 1:00 PM PDT).",
+      "5. Submit video statement (record 2-minute video response via portal within designated window).",
+      "6. Submit separate graduate application to your intended Stanford degree program by its specific departmental deadline (October - December).",
+      "7. KHS Selection Committee reviews dossiers and selects ~150-170 finalists in January.",
+      "8. Finalists attend 'Immersion Weekend' at Stanford University (expenses paid) in March for interviews and leadership challenges.",
+      "9. Final cohort of ~85-90 Knight-Hennessy Scholars announced in late March / early April.",
+      "10. Matriculate at Stanford University in September."
+    ],
+    "university_vs_scholarship_routing": "Dual Application: Apply to KHS in early October; apply to Stanford department by its departmental deadline.",
+    "recommendation_letters_submission_method": "Submitted online by 2 referees directly via confidential portal links.",
+    "personal_statement_prompts": "Two essays: 1) Connect the dots: Tell us about the experiences that have shaped you and what drives your ambition (up to 600 words). 2) How will your Stanford education help you fulfill your goals (up to 400 words)?",
+    "study_plan_research_proposal_requirements": "Department-specific research statement submitted with the Stanford graduate application.",
+    "cv_format_requirements": "Strict 1-page resume detailing academic, leadership, and public service achievements.",
+    "interviews_conducted": true,
+    "interview_format_details": "Immersion Weekend at Stanford: In-person group leadership challenges, individual interviews with Stanford faculty and global leaders, and community discussions.",
+    "standardized_tests": "Standardized tests determined by Stanford department (GRE, GMAT, etc.); not mandated by KHS itself.",
+    "application_fee_amount": "$0.00 for KHS application (Stanford department fees apply unless fee waiver granted).",
+    "attestation_requirements": "HEC degree attestation required for international credential evaluation upon enrollment.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "100% online portal submission."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Knight-Hennessy Online Application Form",
+      "mandatory": true,
+      "specification": "Completed via Slate portal",
+      "pakistan_specific_instruction": "Ensure all dates match bachelor's degree conferral"
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Scanned transcripts from all post-secondary institutions attended",
+      "pakistan_specific_instruction": "Must demonstrate exceptional CGPA (3.7+)"
+    },
+    {
+      "document_name": "One-Page Professional Resume",
+      "mandatory": true,
+      "specification": "Strictly 1 page maximum summarizing leadership, projects, and impact",
+      "pakistan_specific_instruction": "Highlight entrepreneurial, research, and civic leadership"
+    },
+    {
+      "document_name": "Two Recommendation Letters",
+      "mandatory": true,
+      "specification": "Submitted directly by recommenders answering specific KHS character prompts",
+      "pakistan_specific_instruction": "Referees must assess intellectual vitality and civic mindset"
+    },
+    {
+      "document_name": "Two Knight-Hennessy Essays",
+      "mandatory": true,
+      "specification": "Connecting the dots (600 words) and Stanford impact (400 words)",
+      "pakistan_specific_instruction": "Authenticity and vulnerability are prized over superficial boasting"
+    },
+    {
+      "document_name": "Two-Minute Video Statement",
+      "mandatory": true,
+      "specification": "Recorded directly on the portal after submitting the application",
+      "pakistan_specific_instruction": "Unedited spontaneous video response to prompt"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "June 1 annually (e.g., 2026-06-01)",
+    "application_deadline": "Early October annually (e.g., 2026-10-08 at 13:00 PDT)",
+    "university_admission_deadline": "Varies by Stanford department (typically November - December)",
+    "document_submission_deadline": "Coincides with October KHS deadline",
+    "recommendation_letters_deadline": "Coincides with October KHS deadline",
+    "interview_period": "Late February / Early March (Immersion Weekend at Stanford)",
+    "shortlist_announcement": "Mid-January (Finalists invited to Immersion Weekend)",
+    "final_result_acceptance_deadline": "Mid-April annually",
+    "visa_application_window": "May - July (F-1 / J-1 Student Visa)",
+    "semester_commencement": "Late September (Autumn Quarter at Stanford)",
+    "annual_cycle_notes": "Stanford degree application deadlines must be strictly observed; missing department deadline voids KHS application."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Independence of thought, original insight, intellectual audacity)",
+    "extracurricular_and_leadership_weight": "35% (Purposeful leadership, driving change against adversity)",
+    "research_experience_weight": "15% (Academic innovation in chosen field)",
+    "work_experience_weight": "5% (Initiative in ventures or institutions)",
+    "personal_statement_weight": "10% (Authenticity, ethical clarity, self-awareness)",
+    "recommendations_weight": "5% (Insightful peer and mentor testimonies)",
+    "interview_weight": "Immersion Weekend determines final cohort selection among finalists",
+    "test_scores_weight": "Evaluated by department for admission",
+    "financial_need_weight": "0% (Pure talent, leadership, and character)",
+    "selection_panel_composition": "Stanford faculty deans, former university presidents, prominent alumni, and global thought leaders.",
+    "evaluation_methodology": "Holistic review evaluating the three pillars: Independence of Thought, Purposeful Leadership, and Civic Mindset."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~8,000 to 10,000 elite applicants worldwide",
+    "total_scholarships_awarded": "~85 to 90 scholars enrolled annually",
+    "acceptance_rate_global": "~1.0%",
+    "acceptance_rate_pakistan": "~0.8% to 1.2% (World Top-Tier Selectivity)",
+    "typical_successful_applicant_gpa": "3.80 to 4.00 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Breakthrough research contributor, tech entrepreneur, social justice advocate, or policy innovator.",
+    "common_backgrounds_of_winners": "Graduates of Stanford, Harvard, MIT, Oxford, LUMS, AKU, NUST, and top international academies.",
+    "high_representation_countries": "Global diversity spanning 40+ nationalities per cohort.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Scam consultants promising 'guaranteed Stanford admission'. Stanford and Knight-Hennessy admissions operate under strict independent integrity codes."
+    ],
+    "application_fee_warning": "Knight-Hennessy application is 100% FREE.",
+    "agent_and_intermediary_warnings": "Any consultant involvement or ghost-written essays will lead to immediate disqualification.",
+    "hidden_costs_breakdown": [
+      "Stanford graduate department application fee ($125 to $175) unless fee waiver is obtained.",
+      "Standardized test fees (GRE, TOEFL).",
+      "US visa appointment fees."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: Knight-Hennessy admits you to Stanford. (Fact: You must be independently admitted by the Stanford graduate department; KHS cannot overrule a departmental rejection).",
+      "MYTH: You cannot apply if you graduated 5 years ago. (Fact: Anyone who earned their bachelor's within the past 7 years is fully eligible)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some websites confuse the KHS deadline with the Stanford department deadline. The KHS deadline is in early October, while department deadlines are in November/December."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain good academic standing and satisfy Stanford degree milestones.",
+    "attendance_requirements": "Full physical enrollment and active participation in the King Global Leadership Program (KGLP) at Denning House.",
+    "academic_progress_monitoring": "Termly progress reviews with KHS academic advisors.",
+    "work_restrictions_during_study": "Scholars may take on university teaching/research assistantships consistent with Stanford policy and visa rules.",
+    "home_country_return_obligation": "No mandatory home residency rule; scholars are free to pursue careers globally or in the US (F-1 OPT/STEM OPT eligible).",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Expulsion from Stanford for honor code violations terminates scholarship.",
+    "rules_for_changing_university": "Non-transferable (tenable exclusively at Stanford).",
+    "rules_for_changing_major": "Requires approval from both departments and KHS leadership.",
+    "extension_policy": "Maximum 3 years of KHS funding; subsequent years of PhD are covered by the academic department."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Stanford University - Knight-Hennessy Scholars Official Portal",
+      "source_url": "https://knight-hennessy.stanford.edu/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact applicant numbers by specific nationality",
+        "Immersion Weekend scoring matrix"
+      ]
+    }
+  ]
+}

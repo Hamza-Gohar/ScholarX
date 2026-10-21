@@ -1,0 +1,82 @@
+{
+  "student_id": "std-pk-pro-005",
+  "session_id": "sess-demo-005",
+  "personal": {
+    "name": "Engr. Usman Khan",
+    "nationality": "PK",
+    "country_of_residence": "PK",
+    "city": "Peshawar",
+    "province": "KPK",
+    "age": 27,
+    "date_of_birth": "1999-11-23",
+    "gender": "Male",
+    "cnic": "17301-4433221-5",
+    "passport_number": "IJ5566778",
+    "passport_valid_until": "2030-05-18"
+  },
+  "academic": {
+    "current_level": "Bachelor's / BS / BE / BBA",
+    "education_system": "Pakistani",
+    "years_of_education": 16,
+    "field_of_study": "Software Engineering",
+    "board_university": "University of Engineering and Technology (UET), Peshawar",
+    "gpa_percentage": 79.0,
+    "gpa_4_scale": 3.5,
+    "uk_classification": "First Class Honours (1st)",
+    "institution": "UET Peshawar Department of Computer Systems",
+    "graduation_year": 2022,
+    "subjects": ["Distributed Systems", "Software Architecture", "Database Systems", "Embedded AI"],
+    "relevant_courses": ["High Performance Computing", "Cloud Infrastructure"],
+    "gap_years": 0,
+    "hec_attestation_done": true,
+    "ibcc_equivalence_done": false
+  },
+  "language": {
+    "english_proficiency_test": "IELTS",
+    "ielts_overall": 6.5,
+    "ielts_subbands": { "L": 7.0, "R": 6.5, "W": 6.5, "S": 6.0 },
+    "toefl_score": null,
+    "duolingo_score": null,
+    "medium_of_instruction_english": true,
+    "moi_certificate_available": true,
+    "native_languages": ["Pashto", "Urdu"],
+    "has_english_test": true
+  },
+  "standardized_tests": {
+    "hec_hat": 76.0,
+    "hec_usat": null,
+    "gre": null,
+    "sat": null,
+    "gat_general": 80.0,
+    "gat_subject": 78.0,
+    "nts_nat": null
+  },
+  "preferences": {
+    "target_degree_level": "Master's",
+    "target_fields": ["Computer Science", "Information Technology", "Renewable Energy Informatics"],
+    "funding_requirement": "FULL",
+    "budget_tier": "MODERATE",
+    "max_out_of_pocket_pkr": 250000,
+    "willing_to_relocate": true,
+    "preferred_regions": ["Europe", "Oceania", "Asia"],
+    "excluded_regions": [],
+    "constraints": ["Must accept 3+ years professional software engineering industry experience"]
+  },
+  "documents": {
+    "transcript": { "uploaded": true, "quality": "EXCELLENT", "confidence": 0.99, "filename": "UET_Transcript_Attested.pdf" },
+    "cv": { "uploaded": true, "quality": "EXCELLENT", "confidence": 0.98, "filename": "Usman_Khan_Engineering_CV.pdf" },
+    "passport": { "uploaded": true, "quality": "EXCELLENT", "confidence": 0.99, "filename": "Passport_Usman.pdf" },
+    "ielts_certificate": { "uploaded": true, "quality": "GOOD", "confidence": 0.98, "filename": "IELTS_Report.pdf" },
+    "motivation_letter": { "uploaded": true, "quality": "GOOD", "confidence": 0.95, "filename": "DAAD_Motivation_Letter.pdf" },
+    "recommendation_letters_count": 2,
+    "financial_documents": { "uploaded": false },
+    "police_clearance": { "uploaded": false },
+    "medical_certificate": { "uploaded": false },
+    "hec_attestation": { "uploaded": true, "quality": "EXCELLENT", "confidence": 0.99 },
+    "ibcc_equivalence": { "uploaded": false }
+  },
+  "profile_completeness": 92,
+  "missing_required": [],
+  "missing_optional": [],
+  "extraction_warnings": []
+}

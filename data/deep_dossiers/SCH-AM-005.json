@@ -1,0 +1,265 @@
+{
+  "scholarship_id": "SCH-AM-005",
+  "basic_details": {
+    "scholarship_name": "University of Waterloo International Doctoral Award (IDSA)",
+    "offering_entity": "University of Waterloo (Graduate Studies and Postdoctoral Affairs - GSPA)",
+    "host_country": "Canada",
+    "host_institutions_covered": "University of Waterloo (Waterloo, Ontario, Canada)",
+    "degree_levels": [
+      "Doctoral / PhD"
+    ],
+    "major_restrictions": "Open to full-time doctoral students across all faculties: Mathematics & Computer Science (Cheriton School of CS), Engineering, Science (Physics, Chemistry, Quantum Information), Environment, Health, and Arts.",
+    "number_of_awards_total": "~500 to 600 active international PhD students supported concurrently",
+    "number_of_awards_pakistan": "Open international competition; awarded automatically to all eligible full-time international doctoral candidates",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 4 years (12 full-time academic terms)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International students holding a valid Canadian study permit"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction.",
+    "academic_qualifications": "Completed Master's degree (18 years education) or direct-entry Bachelor's degree with first-class honors (minimum 80% or 3.70+ / 4.00 CGPA).",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Minimum overall first-class standing (at least 80% or A- grade equivalent in Canadian university grading scale).",
+    "subject_background_prerequisites": "Rigorous background in computer science, mathematics, engineering, or physics corresponding to target department.",
+    "current_education_status": "Admitted to full-time PhD degree at University of Waterloo.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Research publications, open-source repositories, and thesis research heavily prioritized.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 7.0,
+      "toefl_minimum": 90,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic minimum 7.0 overall (writing 6.5, speaking 6.5) or TOEFL iBT min 90 (writing 25, speaking 25)."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Full-time international PhD candidature.",
+    "previous_scholarship_restrictions": "Must not be self-funded or sponsored by an external agency covering full international tuition.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "PARTIALLY_COVERED",
+      "details": "IDSA provides CAD $4,740 per term (CAD $14,220 per year) directly offsetting international tuition differential, bundled with departmental Graduate Research Studentship (GRS) to cover 100% of tuition and minimum guaranteed living stipend.",
+      "amount": "CAD $14,220 / year IDSA offset"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "University of Waterloo graduate application fee (CAD $125) paid by applicant.",
+      "amount": "CAD $125"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Paid out of guaranteed doctoral funding package (~CAD $27,000–$35,000/yr); on-campus graduate residences (Columbia Lake Village) or off-campus housing in Waterloo.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Guaranteed minimum doctoral funding package across all STEM departments is at least CAD $27,000 to $32,000/year (typically CAD $2,250 to $2,700/month / ~PKR 460,000 to 550,000/month).",
+      "amount": "CAD $27,000 to $35,000 / year total package"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Travel costs borne by student; select research supervisors provide initial travel subsidies.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Canadian Study Permit fee (CAD $150) and biometric fee (CAD $85) paid by applicant.",
+      "amount": "CAD $235"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "University Health Insurance Plan (UHIP) for international students covered under graduate student benefits package.",
+      "amount": "CAD $756 / year"
+    },
+    "food_allowance": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered via monthly doctoral research stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Departmental laboratory computing infrastructure, cloud compute credits, and research desks provided.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Faculty of Mathematics / Engineering Graduate Student Conference Travel Grants (up to CAD $1,500/yr).",
+      "amount": "Up to CAD $1,500 / year"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Grand River Transit (GRT) universal bus pass included in student ancillary fees.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 32000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: University of Waterloo (Waterloo, Ontario, Canada).",
+    "participating_institutions": [
+      "University of Waterloo"
+    ],
+    "university_rankings_scope": "#115 QS World University Rankings 2025; Top 25 globally in Computer Science; #1 in Canada for tech innovation.",
+    "available_majors": [
+      "Computer Science (Cheriton School of CS), Quantum Information (IQC), Electrical & Computer Engineering, Mechanical & Mechatronics Engineering, Combinatorics & Optimization, Pure Mathematics, Statistics & Actuarial Science, Chemical Engineering, Physics & Astronomy"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "48 months (4 years / 12 terms)",
+    "admission_requirements_summary": "Master's degree in CS, Engineering, or Math with minimum 80% average; research supervisor agreement strongly recommended.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Securing a faculty advisor at Cheriton School of CS or Institute for Quantum Computing (IQC) before application significantly boosts admission chances.",
+    "strategic_program_match_advice": "Check faculty member publication pages and email professors 2-3 months before the December/January deadline with a focused research summary."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/international-doctoral-student-award-idsa",
+    "portal_system_name": "University of Waterloo Quest Graduate Admissions Portal / OUAC",
+    "account_creation_instructions": "Step 1: Submit online application through Ontario Universities' Application Centre (OUAC). Step 2: Upload documents into Waterloo Quest system.",
+    "step_by_step_workflow": [
+      "1. Identify potential research supervisors in your field (September-November).",
+      "2. Apply via OUAC online application system.",
+      "3. Receive Quest credentials and upload transcripts, CV, and statement of research interest.",
+      "4. Nominate 3 academic referees who submit online reference forms.",
+      "5. Departmental admissions committee reviews applications and makes admission offer with guaranteed funding.",
+      "6. IDSA is automatically credited to the student's tuition account each term.",
+      "7. Apply for Canadian Study Permit via IRCC portal."
+    ],
+    "university_vs_scholarship_routing": "Integrated automatic assessment with full-time doctoral admission.",
+    "recommendation_letters_submission_method": "Submitted online by 3 academic referees via Quest electronic portal.",
+    "personal_statement_prompts": "Supplementary Information Form (SIF) outlining research interests, prior publications, and reasons for choosing University of Waterloo.",
+    "study_plan_research_proposal_requirements": "Summary of research interests and proposed dissertation topic (1–2 pages).",
+    "cv_format_requirements": "Academic CV detailing publications, GitHub projects, awards, and research experience.",
+    "interviews_conducted": true,
+    "interview_format_details": "Supervisors conduct 30-45 minute technical interviews via Zoom or Microsoft Teams.",
+    "standardized_tests": "GRE General test is optional but recommended for Cheriton School of CS international applicants.",
+    "application_fee_amount": "CAD $125 application fee.",
+    "attestation_requirements": "Official university transcripts verified by home institution registrar; HEC attestation required.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "100% online through Waterloo Quest portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Passport Data Page",
+      "mandatory": true,
+      "specification": "Scanned copy of valid passport",
+      "pakistan_specific_instruction": "Pakistani passport copy"
+    },
+    {
+      "document_name": "Bachelor's and Master's Official Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts for 16-year and 18-year education with grading scale",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "Three Academic Reference Letters",
+      "mandatory": true,
+      "specification": "Confidential academic letters from previous professors or thesis supervisors",
+      "pakistan_specific_instruction": "Submitted via Quest referee portal"
+    },
+    {
+      "document_name": "Supplementary Information Form (SIF) / Statement of Research",
+      "mandatory": true,
+      "specification": "Written statement outlining research background and prospective Waterloo research goals",
+      "pakistan_specific_instruction": "Highlight alignment with Waterloo lab"
+    },
+    {
+      "document_name": "English Language Test Report",
+      "mandatory": true,
+      "specification": "Official IELTS Academic (7.0+) or TOEFL iBT (90+)",
+      "pakistan_specific_instruction": "Official test report sent to Waterloo code 0998"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-09-01",
+    "application_deadline": "2026-12-15",
+    "university_admission_deadline": "2026-12-15",
+    "document_submission_deadline": "2027-01-15",
+    "recommendation_letters_deadline": "2027-01-15",
+    "interview_period": "January to February 2027",
+    "shortlist_announcement": "March 2027",
+    "final_result_acceptance_deadline": "2027-04-15",
+    "visa_application_window": "April to July 2027",
+    "semester_commencement": "2027-09-01",
+    "annual_cycle_notes": "Main intake is Fall (September). Winter (January) and Spring (May) intakes have earlier deadlines."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Master's and Bachelor's GPA, class standing)",
+    "extracurricular_and_leadership_weight": "5% (Extracurricular and student leadership)",
+    "research_experience_weight": "40% (Refereed publications, master's thesis, and research projects)",
+    "work_experience_weight": "5% (Industry lab or software engineering experience)",
+    "personal_statement_weight": "5% (Quality of SIF research goals)",
+    "recommendations_weight": "10% (Evaluations from academic referees)",
+    "interview_weight": "Decisive for professor endorsement",
+    "test_scores_weight": "Language test passing threshold",
+    "financial_need_weight": "0% (Purely research and academic merit)",
+    "selection_panel_composition": "Departmental Graduate Admissions Committee and individual faculty research supervisors.",
+    "evaluation_methodology": "Faculty supervisor review and nomination -> Departmental graduate committee ranking -> Formal admission and GSPA award ratification."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~4,000 international applicants across doctoral departments",
+    "total_scholarships_awarded": "~500 to 600 active doctoral scholars funded",
+    "acceptance_rate_global": "~6%",
+    "acceptance_rate_pakistan": "~3% to 4% (Very Competitive)",
+    "typical_successful_applicant_gpa": "3.80+ / 4.00 CGPA (or 85%+ marks)",
+    "typical_academic_and_research_profile": "Graduates from NUST, FAST, LUMS, GIKI, UET with first-author conference or journal papers in top CS/engineering venues (NeurIPS, ICML, IEEE, ACM).",
+    "common_backgrounds_of_winners": "Strong Pakistani representation in Cheriton School of CS, Electrical & Computer Engineering, and Quantum Information.",
+    "high_representation_countries": "China, India, Iran, Pakistan, United States, South Korea, Turkey.",
+    "competitiveness_tier": "VERY HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unauthorized immigration sites: uwaterloo-canada-scholarships.org, studyinwaterloo-visas.com."
+    ],
+    "application_fee_warning": "Application fee of CAD $125 is paid solely through OUAC / Quest portal. IDSA itself requires no separate application or fee.",
+    "agent_and_intermediary_warnings": "University of Waterloo does not work with third-party agents who claim to guarantee doctoral admission.",
+    "itemized_hidden_out_of_pocket_costs": [
+      "Canadian Study Permit application and biometric fee (CAD $235 / ~PKR 48,000)",
+      "University application fee (CAD $125 / ~PKR 25,000)",
+      "Airfare Pakistan to Toronto Pearson (~PKR 220,000 to 320,000)",
+      "Initial housing deposit in Waterloo (~CAD $1,000 to $1,500)"
+    ],
+    "debunked_myths_and_misconceptions": [
+      "MYTH: IDSA is a separate competitive application. (Truth: IDSA is automatically awarded to all eligible full-time international PhD students who are admitted with funding).",
+      "MYTH: You cannot work in Canada while on this fellowship. (Truth: PhD students hold full on-campus work rights and off-campus work authorization under Canadian study permit regulations)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Commercial blogs confuse the IDSA tuition credit with external scholarships; IDSA is an institutional tuition differential offset funded directly by Waterloo."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain satisfactory academic standing (minimum 75% average in graduate courses) and pass PhD Comprehensive Examination by term 4 or 5.",
+    "attendance_requirements": "Full-time physical research residence at Waterloo campus.",
+    "academic_progress_monitoring": "Annual PhD student progress evaluation submitted by supervisory committee.",
+    "work_restrictions_during_study": "Graduate Teaching Assistantships (GTA) limited to 10 hours per week (average of 140 hours per term) to prevent thesis progress delays.",
+    "home_country_return_obligation": "None; international PhD graduates from Ontario universities qualify for the Ontario Immigrant Nominee Program (OINP) PhD Graduate Stream and 3-year Post-Graduation Work Permit (PGWP).",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Award is discontinued if the student switches to part-time status, withdraws, or fails comprehensive examinations.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Requires approval from old and new faculty supervisors and graduate officer.",
+    "extension_policy": "IDSA is granted for up to 12 academic terms (4 years); beyond term 12, funding is subject to supervisor research grant availability."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Waterloo - International Doctoral Student Award (IDSA) Official Portal",
+      "source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/international-doctoral-student-award-idsa",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Departmental breakdown of top-up funding above the guaranteed minimum across different engineering schools.",
+        "Exact percentage of admitted international PhD students holding direct-entry bachelor's vs master's degrees.",
+        "Internal waitlist conversion rates across admissions cycles."
+      ]
+    }
+  ]
+}

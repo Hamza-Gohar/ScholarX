@@ -1,0 +1,284 @@
+{
+  "scholarship_id": "SCH-AS-080",
+  "basic_details": {
+    "scholarship_name": "Universiti Putra Malaysia (UPM) Graduate Research Fellowship (GRF) & Special Scholarship Scheme",
+    "offering_entity": "Universiti Putra Malaysia (UPM) School of Graduate Studies (SGS)",
+    "host_country": "Malaysia",
+    "host_institutions_covered": "Universiti Putra Malaysia Main Campus (Serdang, Selangor, Malaysia)",
+    "degree_levels": [
+      "Master of Science (by Research)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Faculty of Engineering, Faculty of Science, Faculty of Computer Science and Information Technology, Faculty of Agriculture, Faculty of Biotechnology and Biomolecular Sciences, and Institute of Bioscience.",
+    "number_of_awards_total": "~100 to 150 Graduate Research Fellowships awarded annually across faculties",
+    "number_of_awards_pakistan": "Open internationally; typically 15 to 25 Pakistani agriculture, biotechnology, and computing researchers appointed annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 24 months for Master's by research; up to 36 months for PhD",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "Monthly research stipend: RM 1,800 to RM 2,300 / month for PhD (~PKR 117,000 to 149,500 / month); RM 1,300 to RM 1,600 / month for Master's (~PKR 84,500 to 104,000 / month) plus up to 100% full tuition fee waiver"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to Malaysian citizens and international candidates of all nationalities (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "Maximum 35 years for Master's; maximum 40 years for PhD candidates at the time of appointment.",
+    "academic_qualifications": "Recognized Bachelor's degree with minimum CGPA 3.00/4.00 for Master's; recognized Master's degree with minimum CGPA 3.00/4.00 for PhD from an HEC-recognized university.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum CGPA 3.00 / 4.00; competitive applicants typically hold CGPA >= 3.40 / 4.00 with laboratory, computing, or agricultural research experience.",
+    "subject_background_prerequisites": "Agriculture, biotechnology, food science, environmental sciences, chemical engineering, mechanical engineering, computer science, or bioinformatics.",
+    "current_education_status": "Graduated or final-semester students expecting degree completion before semester commencement.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior scientific publications in Scopus/WoS indexed journals or agricultural/biotech laboratory experience advantageous.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.0, TOEFL iBT minimum 80, MUET Band 4.0, or recognized English Medium of Instruction (MOI) certificate from an accredited degree-granting institution.",
+    "other_language_requirements": "Malay language proficiency is not required.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must secure endorsement and laboratory placement from an active UPM principal investigator holding research grant funding.",
+    "previous_scholarship_restrictions": "Cannot hold any concurrent national scholarship, industrial sponsorship, or full-time paid employment.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full or partial tuition fee waiver covered under the UPM Graduate Research Fellowship scheme.",
+      "amount": "100% covered (~RM 12,000 to 18,000 / year value; ~PKR 780,000 to 1,170,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "UPM international postgraduate application fee of RM 250 paid during online portal submission.",
+      "amount": "RM 250 (~PKR 16,250)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "On-campus international graduate residential colleges at Serdang campus (approx. RM 250 to 450 / month), paid easily from living stipend.",
+      "amount": "Subsidized campus residence hall housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly research assistantship stipend: RM 1,800 to RM 2,300 / month for PhD (~PKR 117,000 to 149,500 / month); RM 1,300 to RM 1,600 / month for Master's (~PKR 84,500 to 104,000 / month).",
+      "amount": "RM 1,300 to RM 2,300 / month"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel between Pakistan and Kuala Lumpur is self-funded.",
+      "amount": "Not covered in central scheme"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "EMGS visa processing and Malaysian Student Pass fees paid by candidate.",
+      "amount": "Approx. RM 2,000 to 2,500 borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive Malaysian student medical and hospitalization insurance provided via EMGS student pass package.",
+      "amount": "100% covered student medical insurance"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Campus cafeterias across Serdang campus provide affordable dining; daily meals cost approximately RM 15 to 25.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Access to UPM Sultan Abdul Samad Library, experimental farm stations, advanced analytical genomics labs, and greenhouses.",
+      "amount": "100% covered agricultural and biotech research access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Conference attendance and publication charges (APC) for high-impact Scopus/WoS indexed journals funded directly from host supervisor grant.",
+      "amount": "Grant-funded conference travel and APC charges"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free UPM campus shuttle bus network serving all residential colleges, academic faculties, and Serdang MRT/KTM stations.",
+      "amount": "Free campus shuttle network"
+    },
+    "total_estimated_value_usd_per_year": 12500
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single Malaysia premier research university in agriculture and life sciences (Universiti Putra Malaysia - UPM).",
+    "participating_institutions": [
+      "Universiti Putra Malaysia Main Campus (Serdang, Selangor, Malaysia)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #148 globally, Top 30 in Asia, World Top 50 in Agriculture & Forestry; Malaysia's premier research university in life sciences and biotechnology.",
+    "available_majors": [
+      "Master of Science / PhD in Biotechnology",
+      "Master of Science / PhD in Agricultural Sciences",
+      "Master of Science / PhD in Food Science and Technology",
+      "Master of Science / PhD in Computer Science",
+      "Master of Science / PhD in Chemical Engineering",
+      "Master of Science / PhD in Environmental Studies",
+      "Master of Science / PhD in Biomedical Sciences"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's by Research: 1.5 to 2 years; PhD: 3 to 4 years",
+    "admission_requirements_summary": "Bachelor's / Master's degree in relevant discipline with CGPA 3.00+, academic transcripts, research proposal, supervisor endorsement form, two reference letters, and IELTS 6.0 / TOEFL 80 or MOI certificate.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Faculty of Biotechnology and Faculty of Agriculture are premier centers; establishing prior supervisor connection is essential.",
+    "strategic_program_match_advice": "Focus research proposals on plant genomics, food security, smart agriculture (IoT/AI in farming), or bioprocess engineering where UPM holds massive government funding."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://sgs.upm.edu.my/financial_assistance_scholarships-1884 & http://sgsportal.upm.edu.my:8080/sgsportal/",
+    "portal_system_name": "UPM School of Graduate Studies (SGS) Portal",
+    "account_creation_instructions": "Contact prospective supervisor, obtain acceptance form, register on UPM postgraduate portal, submit application, upload credentials, and pay RM 250 fee.",
+    "step_by_step_workflow": [
+      "Step 1: Explore UPM faculty expertise directory and email prospective supervisors with CV and research draft.",
+      "Step 2: Obtain signed UPM Supervisor Acceptance and GRF Recommendation Form.",
+      "Step 3: Register on UPM SGS portal and submit online postgraduate application.",
+      "Step 4: Upload attested academic transcripts, research proposal, passport copy, and English proof.",
+      "Step 5: Faculty Graduate Committee reviews technical proposal and conducts online interview.",
+      "Step 6: SGS issues official Letter of Offer and GRF Fellowship Award Letter.",
+      "Step 7: Apply for EMGS Visa Approval Letter (VAL) and Single Entry Visa at Malaysian High Commission in Islamabad.",
+      "Step 8: Travel to Serdang, complete medical screening, and matriculate."
+    ],
+    "university_vs_scholarship_routing": "Integrated departmental route: Application for admission and GRF award are reviewed together upon faculty recommendation.",
+    "recommendation_letters_submission_method": "Uploaded directly by candidate as signed PDF recommendation letters on official university letterheads.",
+    "personal_statement_prompts": "Statement of research intent detailing technical competencies, research goals, and synergy with host supervisor's funded research project.",
+    "study_plan_research_proposal_requirements": "5 to 8 page structured research proposal covering problem statement, literature review, methodology, equipment needs, and milestone schedule.",
+    "cv_format_requirements": "Academic CV detailing qualifications, laboratory/field experience, software proficiencies, and publications list.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview via Google Meet or MS Teams conducted by prospective supervisor and departmental postgraduate coordinator.",
+    "standardized_tests": "IELTS 6.0+, TOEFL 80+, MUET Band 4.0, or English Medium of Instruction (MOI) certificate accepted.",
+    "application_fee_amount": "RM 250 (approx. USD 58 / ~PKR 16,250)",
+    "attestation_requirements": "Notarized copies of degrees and transcripts; HEC and MoFA attestations required for Pakistani credentials during EMGS processing.",
+    "translation_requirements": "Certified English translations for all non-English documents.",
+    "final_submission_method": "Online submission via UPM School of Graduate Studies portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Official Bachelor's / Master's degree certificates and complete semester transcripts with CGPA >= 3.00.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Technical Research Proposal",
+      "mandatory": true,
+      "specification": "Structured research proposal (5-8 pages) aligned with supervisor's research grant objectives.",
+      "pakistan_specific_instruction": "Scholarly proposal formatted with standard citations."
+    },
+    {
+      "document_name": "Supervisor Acceptance & GRF Recommendation Form",
+      "mandatory": true,
+      "specification": "Official UPM form signed by prospective supervisor confirming laboratory placement and willingness to supervise.",
+      "pakistan_specific_instruction": "Obtained directly from UPM faculty supervisor."
+    },
+    {
+      "document_name": "Two Academic Reference Letters",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from previous university professors or department heads.",
+      "pakistan_specific_instruction": "On institutional letterhead with official stamps."
+    },
+    {
+      "document_name": "English Language Proficiency Proof",
+      "mandatory": true,
+      "specification": "IELTS 6.0+, TOEFL iBT 80+, MUET Band 4.0, or official English Medium of Instruction (MOI) certificate.",
+      "pakistan_specific_instruction": "MOI certificate from previous university accepted."
+    },
+    {
+      "document_name": "International Passport Bio-data Page",
+      "mandatory": true,
+      "specification": "Full clear color scan of passport bio-data page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "March 1 (Semester I) / October 1 (Semester II)",
+    "application_deadline": "June 30 (Semester I - October) / November 30 (Semester II - March)",
+    "university_admission_deadline": "June 30 / November 30",
+    "document_submission_deadline": "June 30 / November 30",
+    "recommendation_letters_deadline": "June 30 / November 30",
+    "interview_period": "July - August / December - January",
+    "shortlist_announcement": "Late August / Mid January",
+    "final_result_acceptance_deadline": "Within 2 weeks of offer issuance",
+    "visa_application_window": "August / January via EMGS",
+    "semester_commencement": "October (Semester I) / March (Semester II)",
+    "annual_cycle_notes": "Bi-annual intake cycles: Semester I in October and Semester II in March."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Prior CGPA, academic performance, and foundational coursework)",
+    "extracurricular_and_leadership_weight": "5% (Teamwork, communication, and environmental leadership)",
+    "research_experience_weight": "35% (Prior publications, technical proposal rigor, and supervisor grant synergy)",
+    "work_experience_weight": "5% (Laboratory technical or field research experience)",
+    "personal_statement_weight": "5% (Clarity of purpose and dedication to research)",
+    "recommendations_weight": "5% (Academic referee evaluation)",
+    "interview_weight": "10% (Technical interview performance with prospective supervisor and faculty panel)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Purely merit and research capability based)",
+    "selection_panel_composition": "Faculty Postgraduate Committee, Dean of School of Graduate Studies, and Host Research Project PI.",
+    "evaluation_methodology": "Two-stage evaluation: departmental technical vetting followed by central SGS award confirmation."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,300 to 1,700 applicants across both semesters",
+    "total_scholarships_awarded": "~100 to 150 GRF awards annually",
+    "acceptance_rate_global": "~9.0% to 11.0%",
+    "acceptance_rate_pakistan": "~15.0% to 19.0% for applicants with pre-secured supervisor endorsement and CGPA >= 3.30",
+    "typical_successful_applicant_gpa": "Undergraduate/Master's CGPA >= 3.30 / 4.00, coupled with prior lab project experience or publications",
+    "typical_academic_and_research_profile": "Graduates in biotechnology, agriculture, engineering, or computing with clear research plan and supervisor endorsement.",
+    "common_backgrounds_of_winners": "Graduates from Pakistani institutions (University of Agriculture Faisalabad, NUST, Quaid-i-Azam, COMSATS, UET Lahore, PMAS Arid Agriculture).",
+    "high_representation_countries": "Malaysia, Pakistan, Indonesia, Nigeria, Iran, Bangladesh, Egypt.",
+    "competitiveness_tier": "MODERATE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portal sgs.upm.edu.my.",
+      "Do not pay money to educational agents promising guaranteed fellowships; awards depend entirely on faculty supervisor endorsement."
+    ],
+    "application_fee_warning": "University application fee is RM 250 paid directly to UPM via secure online payment.",
+    "agent_and_intermediary_warnings": "Commercial agent proposals are flagged and rejected; applicants must write their own technical research proposal.",
+    "hidden_costs_breakdown": [
+      "UPM application fee: RM 250 (~PKR 16,250).",
+      "EMGS visa approval and student pass fees: ~RM 2,200 to 2,500 (~PKR 143,000 to 162,500).",
+      "HEC and MoFA document attestations in Pakistan: ~PKR 15,000 to 25,000.",
+      "One-way flight to Kuala Lumpur: ~PKR 90,000 to 130,000.",
+      "Initial living deposit before first stipend cycle: ~RM 1,000 (~PKR 65,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Scheme covers international flights. Reality: International travel and EMGS visa fees are self-funded.",
+      "Myth: You can apply without contacting a supervisor. Reality: Supervisor endorsement is effectively mandatory for GRF approval."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim scheme is purely a fee discount; in reality, GRF includes both full tuition waiver and monthly living stipend."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain minimum CGPA 3.00 and Satisfactory (TM) research progress evaluation every semester.",
+    "attendance_requirements": "Full-time physical research presence at UPM Serdang campus; scholars may be assigned up to 6 hours/week of laboratory or tutorial teaching assistance.",
+    "academic_progress_monitoring": "Semi-annual progress report evaluated by supervisor and presented to Faculty Postgraduate Committee.",
+    "work_restrictions_during_study": "Recipients are barred from taking full-time outside employment; internal paid tutoring or research assistance is permitted within university limits.",
+    "home_country_return_obligation": "None; scholars are free to seek international careers, postdoc opportunities, or industrial employment in Malaysia or abroad upon graduation.",
+    "service_obligations_or_bonds": "Zero national service bond; recipients must meet graduation publication requirements (minimum 1-2 Scopus/WoS indexed papers) affiliated with UPM.",
+    "repayment_clawback_conditions": "Termination of monthly stipend and withdrawal of fee waiver if research progress is evaluated as Unsatisfactory across consecutive reviews.",
+    "rules_for_changing_university": "Non-transferable; scheme is funded internally by UPM.",
+    "rules_for_changing_major": "Field of research cannot be changed without written permission from faculty dean and SGS.",
+    "extension_policy": "Extensions beyond maximum tenure (24 months Master's, 36 months PhD) require special approval and are generally self-funded."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "UPM School of Graduate Studies Financial Assistance",
+      "source_url": "https://sgs.upm.edu.my/financial_assistance_scholarships-1884",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Universiti Putra Malaysia Official Portal",
+      "source_url": "https://www.upm.edu.my/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

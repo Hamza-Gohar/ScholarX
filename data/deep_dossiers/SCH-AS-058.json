@@ -1,0 +1,287 @@
+{
+  "scholarship_id": "SCH-AS-058",
+  "basic_details": {
+    "scholarship_name": "Yenching Academy of Peking University Master's Fellowship in China Studies",
+    "offering_entity": "Yenching Academy of Peking University (PKU)",
+    "host_country": "China",
+    "host_institutions_covered": "Peking University (Haidian Campus, Beijing, China)",
+    "degree_levels": [
+      "Master of Arts (in China Studies)"
+    ],
+    "major_restrictions": "Interdisciplinary China Studies with concentrations in: Economics and Management, History and Archaeology, Philosophy and Religion, Politics and International Relations, Law and Society, or Literature and Culture.",
+    "number_of_awards_total": "~115 to 125 Yenching Scholars selected annually from over 40 countries",
+    "number_of_awards_pakistan": "Extremely competitive global cohort; typically 1 to 3 outstanding Pakistani scholars selected per annual intake",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "1 to 2 years (Full residential scholarship for Year 1; thesis writing & living stipend for Year 2 in Beijing)",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "CNY 3,500 to 5,000 / month living stipend (~PKR 136,500 to 195,000 / month), plus 100% full tuition waiver, single-room accommodation in Yenching Academy House, round-trip international airfare, and comprehensive medical insurance"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international applicants, PRC citizens, and Hong Kong/Macau/Taiwan applicants (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 28,
+    "age_limit_notes": "Preference is given to candidates 25 years old or younger on August 31 of enrollment year; maximum age rarely exceeds 28.",
+    "academic_qualifications": "Minimum of a recognized Bachelor's degree in any discipline with outstanding academic achievement (typically top 5% class standing or CGPA >= 3.70/4.00) from an accredited university.",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Minimum CGPA 3.50 / 4.00 to apply; selected scholars average CGPA >= 3.80 / 4.00 or First Class Honours.",
+    "subject_background_prerequisites": "Open to all academic backgrounds (humanities, social sciences, natural sciences, engineering, law, economics, and business).",
+    "current_education_status": "Graduated or final-year undergraduate students graduating by August 31 of enrollment year.",
+    "graduation_year_restrictions": "None, though candidates are typically recent university graduates or young professionals.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Demonstrated leadership record, extracurricular engagement, public service, and global outlook are critical evaluation pillars.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 100,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 7.0 (overall), TOEFL iBT minimum 100, Cambridge C1/C2, or native/medium of instruction (if undergraduate degree was conducted entirely in English).",
+    "other_language_requirements": "Chinese proficiency is NOT required for admission, but Chinese language courses are a mandatory component of the Yenching curriculum.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates from Partner Universities must be nominated by their institution's fellowship office; candidates from non-Partner universities apply via direct Open Application.",
+    "previous_scholarship_restrictions": "Cannot hold concurrent external funding covering identical costs.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for the complete Master of Arts in China Studies degree at Peking University.",
+      "amount": "100% covered (~CNY 180,000 value; ~PKR 7,020,000)"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "No application fee charged to candidates applying to Yenching Academy.",
+      "amount": "100% waived / free application"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Free single-room accommodation provided at Yenching Academy House on the Peking University main campus in Haidian, Beijing.",
+      "amount": "100% covered private room accommodation"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Generous monthly living allowance of CNY 3,500 to 5,000 / month (~PKR 136,500 to 195,000 / month) disbursed directly to scholar's bank account.",
+      "amount": "CNY 3,500 to 5,000 / month"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "One round-trip economy class international flight ticket between home country and Beijing provided by the fellowship.",
+      "amount": "100% covered round-trip international flight"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Chinese X1 Student Visa application fees paid directly to Chinese Visa Application Service Center in Pakistan.",
+      "amount": "Approx. PKR 18,000 borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive Medical Insurance for Foreign Students in China 100% covered by Yenching Academy.",
+      "amount": "100% covered comprehensive healthcare"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Peking University student cafeterias provide affordable dining; monthly stipend more than covers all living and meal expenses.",
+      "amount": "Covered via monthly living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to Peking University Library (one of Asia's largest academic libraries), Yenching Academy reading rooms, and research databases.",
+      "amount": "100% covered academic resources"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Fellowship provides dedicated research field study funding, including fully funded academic study trips across China.",
+      "amount": "100% funded China field study trips & thesis grants"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized Beijing public transit smart card (Yikatong) with student discounts.",
+      "amount": "Subsidized metropolitan transit"
+    },
+    "total_estimated_value_usd_per_year": 38000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single China #1 elite C9 institution (Peking University, Beijing).",
+    "participating_institutions": [
+      "Yenching Academy of Peking University (Haidian District, Beijing, China)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #14 globally, #1 in Mainland China; Peking University is China's oldest national university and premier humanities & social sciences powerhouse.",
+    "available_majors": [
+      "Master of Arts in China Studies (Economics & Management)",
+      "Master of Arts in China Studies (History & Archaeology)",
+      "Master of Arts in China Studies (Philosophy & Religion)",
+      "Master of Arts in China Studies (Politics & International Relations)",
+      "Master of Arts in China Studies (Law & Society)",
+      "Master of Arts in China Studies (Literature & Culture)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (Year 1 residential in Beijing; Year 2 thesis completion)",
+    "admission_requirements_summary": "Bachelor's degree with top 5-10% standing (CGPA 3.7+), academic transcripts, two letters of recommendation from professors, statement of purpose, research proposal, CV, and English proficiency certificate (IELTS 7.0+ / TOEFL 100+).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Extremely competitive global fellowship on par with Rhodes, Schwarzman, and Gates Cambridge; requires compelling personal narrative, proven intellectual curiosity, and cross-cultural leadership.",
+    "strategic_program_match_advice": "Develop a research proposal that clearly links your primary undergraduate field (e.g. economics, public policy, or computer technology) to contemporary or historical China."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://yenchingacademy.pku.edu.cn/",
+    "portal_system_name": "Yenching Academy Online Application Portal",
+    "account_creation_instructions": "Register on the Yenching Academy admissions portal, choose your research concentration, upload personal statement, research proposal, transcripts, and register academic referees.",
+    "step_by_step_workflow": [
+      "Step 1: Check whether your home university is a Yenching Partner Institution (if yes, seek internal nomination; if no, apply via Open Application).",
+      "Step 2: Draft personal statement (maximum 750 words) and China-focused research proposal (maximum 1,500 words).",
+      "Step 3: Secure two academic letters of recommendation from professors who know your work intimately.",
+      "Step 4: Submit complete online application before the strict early-December deadline.",
+      "Step 5: International Admissions Committee conducts preliminary dossier screening.",
+      "Step 6: Shortlisted candidates invited for a 25-30 minute virtual panel interview in January/February.",
+      "Step 7: Final offer notifications sent out in late March / early April.",
+      "Step 8: Complete Peking University international student enrollment, obtain JW202/visa, and arrive in Beijing in late August."
+    ],
+    "university_vs_scholarship_routing": "Integrated global fellowship program: Admission to Peking University and the Yenching Fellowship are awarded together as a single package.",
+    "recommendation_letters_submission_method": "Submitted electronically by referees via confidential links sent from the Yenching portal.",
+    "personal_statement_prompts": "Personal statement (maximum 750 words) outlining background, life experiences, leadership journey, and why you wish to join the Yenching Academy community.",
+    "study_plan_research_proposal_requirements": "Research proposal (maximum 1,500 words excluding bibliography) detailing a proposed China-focused academic inquiry within your chosen research track.",
+    "cv_format_requirements": "Professional 1 to 2 page CV detailing academic background, leadership roles, publications, honors, and language skills.",
+    "interviews_conducted": true,
+    "interview_format_details": "Highly rigorous 25 to 30 minute video interview conducted by a multidisciplinary panel of Peking University professors and international scholars.",
+    "standardized_tests": "IELTS 7.0+, TOEFL 100+, or official proof of English-medium undergraduate instruction accepted.",
+    "application_fee_amount": "CNY 0 (No application fee)",
+    "attestation_requirements": "Certified transcripts and degree certificates; HEC and MoFA attestations required upon formal matriculation.",
+    "translation_requirements": "Official certified English translation for all non-English academic documents.",
+    "final_submission_method": "Online submission via Yenching Academy admissions portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificate",
+      "mandatory": true,
+      "specification": "Complete university transcripts showing course grades, grading scale, and degree conferral.",
+      "pakistan_specific_instruction": "Certified true copies with HEC attestation recommended."
+    },
+    {
+      "document_name": "Personal Statement (Max 750 Words)",
+      "mandatory": true,
+      "specification": "Reflective narrative addressing intellectual path, leadership, and reasons for joining Yenching Academy.",
+      "pakistan_specific_instruction": "Structured essay formatted in English."
+    },
+    {
+      "document_name": "China Studies Research Proposal (Max 1,500 Words)",
+      "mandatory": true,
+      "specification": "Original academic research proposal demonstrating critical inquiry and scholarly rigor in China Studies.",
+      "pakistan_specific_instruction": "Scholarly proposal with proper citations."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from university professors or academic instructors submitted directly online.",
+      "pakistan_specific_instruction": "On institutional letterhead."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "1-2 page comprehensive resume highlighting education, leadership, honors, and activities.",
+      "pakistan_specific_instruction": "Professional academic CV."
+    },
+    {
+      "document_name": "Certificate of English Language Proficiency",
+      "mandatory": true,
+      "specification": "IELTS Academic 7.0+, TOEFL iBT 100+, or official English Medium of Instruction proof.",
+      "pakistan_specific_instruction": "Official test score report or MOI letter."
+    },
+    {
+      "document_name": "International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport identification page valid beyond August 2026.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "August 15",
+    "application_deadline": "December 1 (Strict annual deadline for international applicants)",
+    "university_admission_deadline": "December 1",
+    "document_submission_deadline": "December 1",
+    "recommendation_letters_deadline": "December 10",
+    "interview_period": "January - February",
+    "shortlist_announcement": "Mid March - Early April",
+    "final_result_acceptance_deadline": "Late April",
+    "visa_application_window": "June - July",
+    "semester_commencement": "Late August (Fall intake)",
+    "annual_cycle_notes": "Single annual admission cycle for autumn entry; application window runs August to early December."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Undergraduate GPA, academic honors, intellectual depth)",
+    "extracurricular_and_leadership_weight": "25% (Demonstrated leadership track record, community service, global engagement)",
+    "research_experience_weight": "20% (Originality, methodology, and scholarly strength of China research proposal)",
+    "work_experience_weight": "5% (Internships, professional trajectory, or relevant initiatives)",
+    "personal_statement_weight": "10% (Authenticity, self-reflection, and vision articulated in personal statement)",
+    "recommendations_weight": "5% (Depth of professor evaluation and intellectual character endorsements)",
+    "interview_weight": "5% (Poise, critical thinking, and intellectual agility during panel interview)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Need-blind merit evaluation)",
+    "selection_panel_composition": "Yenching Academy Executive Admissions Board, Peking University faculty deans, and distinguished international scholars.",
+    "evaluation_methodology": "Holistic review assessing intellectual capability, leadership potential, cross-cultural empathy, and research feasibility."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,500 to 4,500 global applicants from over 100 countries",
+    "total_scholarships_awarded": "~115 to 125 Yenching Scholars selected annually",
+    "acceptance_rate_global": "~2.8% to 3.5%",
+    "acceptance_rate_pakistan": "~2.0% to 3.0% (elite nationwide competition)",
+    "typical_successful_applicant_gpa": "Undergraduate CGPA >= 3.80 / 4.00, combined with prominent leadership and cross-cultural initiatives",
+    "typical_academic_and_research_profile": "Graduates with exceptional academic records, proven leadership, intellectual maturity, and a compelling research vision connecting their background with China.",
+    "common_backgrounds_of_winners": "Graduates from premier institutions worldwide (Harvard, Oxford, PKU, Cambridge, Princeton, NUS) and top Pakistani universities (LUMS, NUST, Quaid-i-Azam).",
+    "high_representation_countries": "United States, China, United Kingdom, Pakistan, Germany, India, Singapore, Canada, Australia.",
+    "competitiveness_tier": "MOST_COMPETITIVE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply directly through yenchingacademy.pku.edu.cn.",
+      "Yenching Academy never charges application fees or endorses educational consultants; beware of fraudulent commercial agents."
+    ],
+    "application_fee_warning": "Applying to Yenching Academy is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Commercial agency written essays or research proposals are immediately detected and permanently blacklisted.",
+    "hidden_costs_breakdown": [
+      "Application fee: CNY 0 (Free).",
+      "Chinese X1 Visa fee in Pakistan: ~PKR 18,000.",
+      "Medical checkup & attestation costs: ~PKR 25,000 to 35,000.",
+      "Personal incidentals before first stipend disbursement: ~CNY 2,000 (~PKR 78,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You must major in Chinese or East Asian studies. Reality: Candidates from all fields including STEM, law, and economics are enthusiastically welcomed.",
+      "Myth: Prior Chinese language fluency is required. Reality: Chinese proficiency is not required for admission."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial forums suggest second-year students must self-fund; in reality, students maintaining good academic standing receive full Year 2 tuition waiver and stipend."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain good academic standing in coursework (minimum grade B or equivalent) throughout Year 1 and Year 2.",
+    "attendance_requirements": "Full-time residential attendance in Beijing during Year 1; participation in academic seminars, field trips, and Yenching Global Symposium.",
+    "academic_progress_monitoring": "Term-by-term evaluation of coursework credits, China field study completion, and master's thesis milestones.",
+    "work_restrictions_during_study": "Scholars are expected to devote full time to their studies; part-time internships require formal prior approval.",
+    "home_country_return_obligation": "None; scholars are free to pursue international doctorates, join multilateral organizations, or work globally.",
+    "service_obligations_or_bonds": "Zero service bond or financial repayment obligation.",
+    "repayment_clawback_conditions": "Fellowship is revoked if a scholar is expelled for academic dishonesty, plagiarism, code of conduct violations, or criminal acts.",
+    "rules_for_changing_university": "Non-transferable; exclusive to Peking University.",
+    "rules_for_changing_major": "Scholars select one of the six approved China Studies research tracks and must adhere to faculty guidelines.",
+    "extension_policy": "Degree must be completed within the standard 2-year tenure."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Yenching Academy of Peking University Official Admissions Portal",
+      "source_url": "https://yenchingacademy.pku.edu.cn/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Peking University International Students Division",
+      "source_url": "https://www.isd.pku.edu.cn/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

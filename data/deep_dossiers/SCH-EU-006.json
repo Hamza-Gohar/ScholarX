@@ -1,0 +1,284 @@
+{
+  "scholarship_id": "SCH-EU-006",
+  "basic_details": {
+    "scholarship_name": "Chevening Scholarships",
+    "offering_entity": "Foreign, Commonwealth and Development Office (FCDO) & Partner Organisations",
+    "host_country": "United Kingdom",
+    "host_institutions_covered": "Any UK Higher Education Institution (Russell Group, Oxford, Cambridge, LSE, Imperial, UCL, Edinburgh, Manchester, etc.)",
+    "degree_levels": [
+      "Master's"
+    ],
+    "major_restrictions": "Eligible for any one-year taught master's degree program. Distance learning, part-time courses, and courses longer than 12 months are strictly ineligible.",
+    "number_of_awards_total": "~1,500 scholars selected globally each year",
+    "number_of_awards_pakistan": "~50 to 70 Chevening scholars and fellows from Pakistan annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "12 months (standard UK 1-year taught master's degree)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizen of a Chevening-eligible country or territory (Pakistan is fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No upper age limit. Applicants range from recent graduates (with work hours) to senior mid-career leaders.",
+    "academic_qualifications": "Undergraduate degree that enables entry onto a postgraduate programme at a UK university (equivalent to an upper second-class 2:1 honours degree in the UK; typically 16 years education in Pakistan).",
+    "minimum_gpa_percentage": 65.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Equivalent to UK 2:1 honours; for Pakistan, 3.0/4.0 CGPA or 65%+ marks in semester system.",
+    "subject_background_prerequisites": "Any academic field; high-impact fields aligned with UK-Pakistan development priorities (governance, public health, climate, education, human rights, technology) receive strong interest.",
+    "current_education_status": "Completed undergraduate degree by the time of Chevening application submission in November.",
+    "graduation_year_restrictions": "No graduation year restrictions.",
+    "work_experience_required": true,
+    "work_experience_minimum_years": 2.0,
+    "work_experience_notes": "Mandatory minimum of 2 years work experience (strictly calculated as at least 2,800 hours). Eligible experience includes full-time, part-time, voluntary work, and paid/unpaid internships.",
+    "english_test_required": false,
+    "ielts_minimum": null,
+    "toefl_minimum": null,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "Chevening removed its central English language requirement in 2020. However, applicants must meet the individual English language requirements of their chosen UK universities (typically IELTS 6.5-7.0 or university waiver).",
+    "other_language_requirements": "None.",
+    "gender_specific_requirements": "None; equal opportunity.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "British citizens or dual British nationals are ineligible. Employees or former employees of His Majesty's Government (or relatives) within the past 2 years are ineligible.",
+    "previous_scholarship_restrictions": "Applicants who have previously studied in the UK with funding from a UK government-funded scholarship are ineligible.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full university tuition fees paid directly to the university. Note: MBA programs have a fee cap of £22,000 (applicant must pay remainder)."
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "UK university application fees (e.g. Oxford/Cambridge application fees £75-£85) are paid by applicant unless university waives them."
+    },
+    "accommodation": {
+      "status": "MONTHLY ALLOWANCE",
+      "details": "Provided within the monthly living allowance; students arrange private or university accommodation."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Tax-free monthly living stipend.",
+      "amount": "£1,347 / month outside London; £1,652 / month inside London (~PKR 490,000 to 600,000)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Economy class return flights from Pakistan to the UK booked directly via Chevening travel partner (Diversity Travel)."
+    },
+    "visa_fee": {
+      "status": "REIMBURSED",
+      "details": "The cost of one Student Route visa application fee is reimbursed."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Immigration Health Surcharge (IHS) is covered/exempt for Chevening scholars, giving access to the UK National Health Service (NHS)."
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Included within the monthly living stipend."
+    },
+    "books_and_materials_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Expected to be covered from the living stipend."
+    },
+    "research_funding_conference_grant": {
+      "status": "NOT_COVERED",
+      "details": "Chevening covers taught master's courses; dissertation research grants depend on host university departments."
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Arrival allowance (£710–£850) upon initial landing and departure allowance upon returning home.",
+      "amount": "~£800 one-off arrival allowance"
+    },
+    "total_estimated_value_usd_per_year": 52000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Must apply to three different eligible UK university courses (either at 3 different universities or 2 different universities).",
+    "participating_institutions": [
+      "All accredited UK universities (Oxford, Cambridge, LSE, Imperial, King's College London, Edinburgh, Manchester, Warwick, Bristol, Leeds, etc.)"
+    ],
+    "university_rankings_scope": "UK Top 1 to Top 50 universities.",
+    "available_majors": [
+      "Public Policy",
+      "International Relations",
+      "Economics",
+      "Law",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Renewable Energy",
+      "Public Health",
+      "Journalism",
+      "Engineering"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "12 months (full-time taught postgraduate)",
+    "admission_requirements_summary": "Undergraduate degree transcripts, references, personal statement, and fulfillment of university-specific entry criteria.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Applicants do NOT need offers when applying in November. However, having 1 reach school (e.g. Oxford/LSE) and 2 strong match schools (e.g. Sheffield, Sussex, Leeds) prevents being stranded without an unconditional offer by July.",
+    "strategic_program_match_advice": "Ensure the three selected courses share an interconnected academic theme so your Chevening essays effectively justify all three choices."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.chevening.org/scholarships/",
+    "portal_system_name": "Chevening Online Application System (OAS)",
+    "account_creation_instructions": "Register on Chevening OAS in August using primary email address; select Pakistan as application country.",
+    "step_by_step_workflow": [
+      "1. Register on Chevening OAS (opens early August).",
+      "2. Complete eligibility pre-screening questionnaire.",
+      "3. Write 4 mandatory 500-word essays: Leadership & Influence, Networking, Study in the UK, Career Plan.",
+      "4. Select 3 eligible UK master's courses.",
+      "5. Submit online application before early November deadline.",
+      "6. Independent reading committee sifts applications (November - January).",
+      "7. Shortlisted candidates invited for interview (mid-February).",
+      "8. Upload 2 reference letters and education documents to OAS (February - March).",
+      "9. Attend in-person panel interview at British High Commission Islamabad or Deputy High Commission Karachi (March - May).",
+      "10. Conditional selection results announced in June.",
+      "11. Secure at least one unconditional university offer and submit by mid-July deadline.",
+      "12. Final award letter issued, Student visa processed, pre-departure briefing (August).",
+      "13. Depart to UK (September)."
+    ],
+    "university_vs_scholarship_routing": "Completely separate: Apply for Chevening via OAS; apply to the 3 UK universities directly through their respective university admissions portals.",
+    "recommendation_letters_submission_method": "Uploaded directly by candidate or referee to the Chevening OAS upon invitation to interview in February.",
+    "personal_statement_prompts": "Four distinct essays (max 500 words each): 1) Leadership and Influence, 2) Relationship Building and Networking, 3) Studying in the UK (justifying course choices), 4) Career Plan (immediate, 5-year, and 10-year goals in Pakistan).",
+    "study_plan_research_proposal_requirements": "Not applicable (taught degree); covered under Essay 3 explaining how selected courses bridge applicant's skill gaps.",
+    "cv_format_requirements": "Standard professional CV detailing chronological employment hours.",
+    "interviews_conducted": true,
+    "interview_format_details": "Strict 30-40 minute in-person panel interview at British High Commission Islamabad/Karachi conducted entirely in English with British diplomats and Chevening alumni.",
+    "standardized_tests": "No standardized tests required by Chevening; IELTS/TOEFL required by individual UK universities.",
+    "application_fee_amount": "£0.00 (Chevening application is 100% FREE).",
+    "attestation_requirements": "HEC degree attestation required by UK universities for unconditional offers.",
+    "translation_requirements": "Certified English translations of all academic transcripts.",
+    "final_submission_method": "100% online portal submission (OAS)."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Valid Pakistani Passport",
+      "mandatory": true,
+      "specification": "Machine-readable or e-passport valid through proposed study period",
+      "pakistan_specific_instruction": "Required for identity and visa processing"
+    },
+    {
+      "document_name": "Undergraduate Degree & Transcript",
+      "mandatory": true,
+      "specification": "Official university degree certificate and final transcript",
+      "pakistan_specific_instruction": "Must be 16-year BS/MA/MSc equivalent"
+    },
+    {
+      "document_name": "Three UK University Applications / Offers",
+      "mandatory": true,
+      "specification": "Proof of application or conditional/unconditional offers",
+      "pakistan_specific_instruction": "Must secure 1 unconditional offer by July deadline"
+    },
+    {
+      "document_name": "Two Professional / Academic References",
+      "mandatory": true,
+      "specification": "Signed reference letters on institutional letterhead",
+      "pakistan_specific_instruction": "Required when invited for interview in February"
+    },
+    {
+      "document_name": "Four Chevening Essays (500 words each)",
+      "mandatory": true,
+      "specification": "Leadership, Networking, Study in UK, and Career Plan",
+      "pakistan_specific_instruction": "Plagiarism is strictly checked with zero tolerance"
+    },
+    {
+      "document_name": "Proof of Work Experience (2,800 hours)",
+      "mandatory": true,
+      "specification": "Chronological entry of employment or volunteer hours",
+      "pakistan_specific_instruction": "May require employment letters or contracts upon verification"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Early August annually (e.g., 2026-08-04)",
+    "application_deadline": "Early November annually (e.g., 2026-11-03 at 12:00 GMT)",
+    "university_admission_deadline": "Individual UK university deadlines (typically Dec - March)",
+    "document_submission_deadline": "Mid-February for shortlisted references",
+    "recommendation_letters_deadline": "Mid-February to early March",
+    "interview_period": "March - May annually in Islamabad & Karachi",
+    "shortlist_announcement": "June annually (Conditional Selection notified)",
+    "final_result_acceptance_deadline": "Mid-July (Mandatory deadline to upload unconditional university offer)",
+    "visa_application_window": "July - August",
+    "semester_commencement": "September / October of departure year",
+    "annual_cycle_notes": "Strict 1-year timeline; missing the mid-July unconditional offer deadline results in forfeiture of award."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "15% (Academic background satisfying university entry)",
+    "extracurricular_and_leadership_weight": "35% (Leadership track record, initiative, and social impact)",
+    "research_experience_weight": "5% (Secondary for taught masters)",
+    "work_experience_weight": "20% (Substantive 2,800+ hours with quantifiable outcomes)",
+    "personal_statement_weight": "15% (Clarity of vision in essays)",
+    "recommendations_weight": "5% (Corroboration of leadership character)",
+    "interview_weight": "25% (Final selection is heavily dictated by interview performance)",
+    "test_scores_weight": "0% (Chevening does not evaluate test scores)",
+    "financial_need_weight": "0% (Not a need-based scholarship)",
+    "selection_panel_composition": "British diplomats, Chevening secretariat officers, and prominent Pakistani civil society leaders.",
+    "evaluation_methodology": "Two-tier sift: Global reading committee grades essays against leadership rubrics; top scorers called for high-stakes panel interview."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~65,000 to 70,000 applicants globally",
+    "total_scholarships_awarded": "~1,500 globally (~55 in Pakistan)",
+    "acceptance_rate_global": "~2.2%",
+    "acceptance_rate_pakistan": "~1.5% to 2.0% (Extremely Competitive)",
+    "typical_successful_applicant_gpa": "3.30 to 3.80 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Demonstrated record of taking initiative, driving organizational or community change, public speaking, or social enterprise.",
+    "common_backgrounds_of_winners": "Mid-career professionals from civil society, public sector/civil servants, journalists, legal practitioners, and tech entrepreneurs.",
+    "high_representation_countries": "Pakistan is consistently among the top 5 recipient countries globally.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Fraudulent sites claiming to 'fast-track' Chevening selection for a fee.",
+      "WhatsApp groups offering to sell 'winning Chevening essays' (automatic plagiarism disqualification)."
+    ],
+    "application_fee_warning": "Chevening application is 100% FREE. Never pay any fee for Chevening application or interview.",
+    "agent_and_intermediary_warnings": "Chevening does NOT work with education agencies or consultants.",
+    "hidden_costs_breakdown": [
+      "UK university application fees (e.g. £75 to £100 for Oxford, Cambridge, Imperial, LSE).",
+      "IELTS / PTE Academic examination fee (~PKR 55,000 to 65,000) to meet unconditional offer criteria.",
+      "TB (Tuberculosis) screening test at IOM clinics in Pakistan (approx PKR 15,000 to 20,000).",
+      "Initial pocket money buffer before first stipend release in the UK."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You cannot apply if you don't have IELTS yet. (Fact: You do not need IELTS when applying to Chevening in November; only needed by your chosen university by July).",
+      "MYTH: You can stay in the UK on the Graduate Route (PSW visa). (Fact: Chevening scholars are strictly prohibited from switching to the 2-year UK Graduate Visa; must return to Pakistan for 2 years)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently cite old pre-2020 rules claiming Chevening requires IELTS 6.5 directly. This is outdated."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass all master's degree coursework modules and dissertation with a passing grade (50%+ pass, 60%+ merit).",
+    "attendance_requirements": "Full-time physical attendance in the UK; unexcused absences reported by university result in visa cancellation and scholarship termination.",
+    "academic_progress_monitoring": "Host universities submit regular engagement and grade reports to the Chevening Secretariat.",
+    "work_restrictions_during_study": "Scholars are permitted to work up to 20 hours/week during term-time under UK Student Route visa rules, but Chevening strongly discourages heavy outside employment due to rigorous 1-year master's workload.",
+    "home_country_return_obligation": "MANDATORY 2-Year Return: Scholars must return to their country of citizenship for a minimum period of two years following the completion of their scholarship.",
+    "service_obligations_or_bonds": "Contractual agreement with FCDO; ineligible to apply for UK work visas or settlement until the 2-year return requirement is satisfied.",
+    "repayment_clawback_conditions": "Scholars who fail their degree, commit misconduct, or refuse to return home must repay all tuition fees, stipend payments, and airfare in full.",
+    "rules_for_changing_university": "Once an award is confirmed in July, changing universities or courses is strictly prohibited except under exceptional university course cancellation.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "Scholarship extensions beyond the 12-month grant period are strictly impossible under FCDO policy."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Chevening Official Secretariat Portal - Foreign, Commonwealth and Development Office (FCDO)",
+      "source_url": "https://www.chevening.org/scholarships/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact statistical breakdown of Pakistan interview-to-selection conversion ratio (embassy considers this confidential)",
+        "Internal numerical grading rubric for each of the four essays"
+      ]
+    },
+    {
+      "source_name": "Chevening Guidance for Applicants - Work Experience & Eligibility",
+      "source_url": "https://www.chevening.org/scholarships/guidance/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Specific country quota allocations per academic cycle"
+      ]
+    }
+  ]
+}

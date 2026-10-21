@@ -1,0 +1,257 @@
+{
+  "scholarship_id": "SCH-AM-010",
+  "basic_details": {
+    "scholarship_name": "McCall MacBain Scholarships at McGill University",
+    "offering_entity": "McCall MacBain Foundation & McGill University",
+    "host_country": "Canada",
+    "host_institutions_covered": "McGill University (Montreal, Quebec, Canada)",
+    "degree_levels": [
+      "Master's",
+      "Professional Undergraduate (Law, Medicine)"
+    ],
+    "major_restrictions": "Open to all master's degree programs (MA, MSc, MEng, MBA, MPP, LLM) or second-entry professional undergraduate degrees (BCL/JD Law, MDCM Medicine) across McGill faculties.",
+    "number_of_awards_total": "~30 full scholarships + ~100 regional/finalist awards annually",
+    "number_of_awards_pakistan": "Open globally; ~10 full scholarships reserved for international students, with numerous CAD $10,000-$20,000 finalist awards",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Full normal duration of the master's or professional degree (typically 1 to 2 years)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to citizens of all countries including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "Open to recent graduates or professionals who earned their first undergraduate degree within the last five years, or any age if pursuing second-entry degree.",
+    "academic_qualifications": "16 years of education (4-year Bachelor's degree) satisfying McGill graduate admissions standards.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum 3.0 / 4.00 CGPA or equivalent; competitive candidates generally present 3.50+ CGPA alongside high extracurricular impact.",
+    "subject_background_prerequisites": "Undergraduate degree relevant to intended McGill graduate program.",
+    "current_education_status": "Graduated with bachelor's degree or in final year of undergraduate study.",
+    "graduation_year_restrictions": "Undergraduate degree completed within past 5 years (e.g., 2021 or later) or currently enrolled.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Community engagement, volunteering, resilience, and leadership initiative prioritized over raw corporate tenure.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 86,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "Must satisfy McGill departmental language requirements (IELTS 6.5 overall, TOEFL 86-100 depending on faculty)."
+    },
+    "other_language_requirements": "English; French knowledge is an asset in Montreal but not required for admission.",
+    "gender_specific_requirements": "Equal opportunity; diverse candidates welcome.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must demonstrate exceptional character, leadership, intellectual curiosity, and commitment to service.",
+    "previous_scholarship_restrictions": "Must not have already completed a master's degree.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition and mandatory student fees covered for the full duration of the degree at McGill University.",
+      "amount": "CAD $25,000 to $45,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "McGill University graduate admission application fee (~CAD $130) paid by candidate.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Living expenses covered by monthly living stipend.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "CAD $2,000 per month living stipend during academic terms.",
+      "amount": "CAD $2,000 / month (~PKR 415,000 / month or CAD $24,000 / year)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "One-time relocation grant provided upon initial arrival in Montreal.",
+      "amount": "CAD $2,000 relocation grant (~PKR 415,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Canadian study permit and Quebec CAQ fees paid by candidate.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "McGill International Health Insurance plan covered under mandatory fee benefits.",
+      "amount": "CAD $1,100 / year"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Covered via living allowance.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Summer leadership, research, and internship funding up to CAD $5,000 available upon application.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Included in relocation grant.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 45000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: McGill University (Montreal, Canada - World Top 30).",
+    "participating_institutions": [
+      "McGill University"
+    ],
+    "university_rankings_scope": "Consistently ranked among Canada's top 2 universities and Top 35 globally.",
+    "available_majors": [
+      "Computer Science, Electrical & Computer Engineering, Mechanical Engineering, Civil Engineering, Experimental Medicine, Pharmacology, Epidemiology, Public Policy, Law (BCL/JD), Economics, Management, Biology, Physics, Architecture"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 to 2 academic years depending on the master's degree",
+    "admission_requirements_summary": "Must apply separately for admission to an eligible full-time McGill master's or second-entry program by McGill's departmental deadline.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "High-volume programs in Computer Science and Epidemiology have rigorous departmental cutoffs; apply to McGill early in the fall.",
+    "strategic_program_match_advice": "Scholarship emphasizes character, purposeful leadership, and willingness to take risks to improve community welfare."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://mccallmacbainscholars.org/",
+    "portal_system_name": "McCall MacBain Scholarship Online Application Portal",
+    "account_creation_instructions": "Register on the portal, provide undergraduate university details, and designate two reference providers.",
+    "step_by_step_workflow": [
+      "1. Submit McCall MacBain online application by late August (International applicant deadline).",
+      "2. Provide comprehensive essays detailing personal character, service, and leadership philosophy.",
+      "3. Ensure two reference letters (one academic, one leadership/community) are submitted by deadline.",
+      "4. Regional interviews conducted virtually in October/November for shortlisted candidates.",
+      "5. Finalists invited to Montreal for all-expenses-paid final interview round in March.",
+      "6. Submit separate admission application to McGill University by respective program deadline."
+    ],
+    "university_vs_scholarship_routing": "Concurrent: Apply to McCall MacBain in August; apply for McGill graduate admission in October-December.",
+    "recommendation_letters_submission_method": "Submitted online by referees via unique secure link.",
+    "personal_statement_prompts": "Demonstrate your character, moral courage, leadership experiences, meaningful service to others, and intellectual engagement.",
+    "study_plan_research_proposal_requirements": "Summary of proposed master's program and alignment with future public service or impact goals.",
+    "cv_format_requirements": "Concise 2-page CV highlighting volunteerism, extracurricular leadership, jobs, and awards.",
+    "interviews_conducted": true,
+    "interview_format_details": "Two rounds: 30-minute virtual regional interview, followed by intensive in-person final interviews in Montreal (flights and accommodation fully paid).",
+    "standardized_tests": "None for McCall MacBain; check McGill departmental requirements (e.g. GRE/GMAT).",
+    "application_fee_amount": "$0 for McCall MacBain scholarship application; McGill admission fee applies.",
+    "attestation_requirements": "Official university transcripts certified by Pakistani degree institution.",
+    "translation_requirements": "Official English or French certified translations.",
+    "final_submission_method": "100% Online via McCall MacBain portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Undergraduate University Transcripts",
+      "mandatory": true,
+      "specification": "Official transcripts covering all completed semesters",
+      "pakistan_specific_instruction": "Issued and stamped by university examination controller"
+    },
+    {
+      "document_name": "Personal Leadership Essays",
+      "mandatory": true,
+      "specification": "Detailed essay answers to prompts exploring character, initiatives, and failure",
+      "pakistan_specific_instruction": "Narratives focusing on authentic leadership and social impact in Pakistan"
+    },
+    {
+      "document_name": "Two Letters of Reference",
+      "mandatory": true,
+      "specification": "One academic reference and one community/leadership reference",
+      "pakistan_specific_instruction": "Uploaded by referees via secure portal link"
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Chronological 2-page resume emphasizing extracurricular impact",
+      "pakistan_specific_instruction": "Detail volunteer initiatives, school leadership, and extracurricular achievements"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-06-01",
+    "application_deadline": "2026-08-25",
+    "university_admission_deadline": "2026-12-15",
+    "document_submission_deadline": "2026-08-25",
+    "recommendation_letters_deadline": "2026-09-05",
+    "interview_period": "October to November 2026 (Regional) & March 2027 (Finals in Montreal)",
+    "shortlist_announcement": "December 2026",
+    "final_result_acceptance_deadline": "April 2027",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "September 2027",
+    "annual_cycle_notes": "International application deadline is always in late August (earlier than North American deadline in September)."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "25% (Academic strength, intellectual curiosity, and depth)",
+    "extracurricular_and_leadership_weight": "35% (Exceptional character, leadership, community contribution, and empathy)",
+    "research_experience_weight": "10% (Analytical ability and problem-solving)",
+    "work_experience_weight": "10% (Work ethic, resilience, initiative)",
+    "personal_statement_weight": "10% (Self-reflection and authenticity)",
+    "recommendations_weight": "10% (Substantiation of character and integrity)",
+    "interview_weight": "Decisive in regional and final rounds",
+    "test_scores_weight": "0%",
+    "financial_need_weight": "0% (Purely merit and character based)",
+    "selection_panel_composition": "Diverse panels of Canadian and international leaders, educators, McGill deans, and philanthropists.",
+    "evaluation_methodology": "Holistic review identifying individuals who are driven to make a difference and exhibit humility, curiosity, and persistence."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,500 international candidates from 100+ countries",
+    "total_scholarships_awarded": "~10 full international scholarships + ~25 international finalist awards ($10,000-$20,000)",
+    "acceptance_rate_global": "~0.4% for full scholarship",
+    "acceptance_rate_pakistan": "~0.5% (Very Selective)",
+    "typical_successful_applicant_gpa": "3.50 to 3.95 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "High academic performers who have founded charities, represented national debate teams, or built civic tech solutions.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani universities (LUMS, NUST, AKU, IBA) with exceptional public service records.",
+    "high_representation_countries": "Global representation across Americas, Europe, Asia, and Africa.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Websites claiming to offer internal interview questions or coaching for McCall MacBain."
+    ],
+    "application_fee_warning": "McCall MacBain application is 100% free of charge; McGill admission application fee applies.",
+    "agent_and_intermediary_warnings": "Never use agents; applications written by third parties are easily detected in live interviews.",
+    "hidden_costs_breakdown": [
+      "McGill graduate admission application fee (~CAD $130).",
+      "Quebec CAQ immigration certificate and Canadian study permit fees (~CAD $275).",
+      "English language test fees (IELTS/TOEFL) if required by McGill department."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You must be accepted by McGill before applying for McCall MacBain. (Fact: You apply to McCall MacBain in August first; then apply for McGill admission in the autumn).",
+      "MYTH: If you do not win the full scholarship, you get nothing. (Fact: Finalists and regional candidates receive significant awards of CAD $10,000 to $20,000)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Social media blogs state this is only for Canadian citizens; international candidates have been fully eligible since 2022."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain good academic standing in McGill graduate program (CGPA 3.0+).",
+    "attendance_requirements": "Full-time physical residence in Montreal, Quebec and participation in the McCall MacBain Leadership Development Program.",
+    "academic_progress_monitoring": "Term-by-term review with the scholarship dean and program mentor.",
+    "work_restrictions_during_study": "Permitted to work per Canadian study permit guidelines, but extensive outside work is discouraged.",
+    "home_country_return_obligation": "None; scholars are eligible for Canadian Post-Graduation Work Permits (PGWP).",
+    "service_obligations_or_bonds": "Active engagement in leadership seminars, mentorship, and cohort retreats.",
+    "repayment_clawback_conditions": "Withdrawal from McGill or academic failure results in termination of remaining funding.",
+    "rules_for_changing_university": "Award is non-transferable outside McGill.",
+    "rules_for_changing_major": "Changing degree programs requires prior approval from the McCall MacBain scholarship office.",
+    "extension_policy": "Funding is provided for normal program length (max 2 years); beyond that requires departmental funding."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "McCall MacBain Scholars Official Foundation Portal",
+      "source_url": "https://mccallmacbainscholars.org/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact interview evaluation rubric scoring sheet",
+        "Specific country-level quota allotments among international finalists"
+      ]
+    }
+  ]
+}

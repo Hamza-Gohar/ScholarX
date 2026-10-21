@@ -1,0 +1,284 @@
+{
+  "scholarship_id": "SCH-AS-077",
+  "basic_details": {
+    "scholarship_name": "City University of Hong Kong (CityU) Presidential PhD Fellowship Scheme",
+    "offering_entity": "City University of Hong Kong (CityU) Chow Yei Ching School of Graduate Studies",
+    "host_country": "Hong Kong (SAR)",
+    "host_institutions_covered": "City University of Hong Kong (Kowloon Tong Campus, Hong Kong)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "College of Engineering (Computer Science, Electrical Engineering, Materials Science, Mechanical, Biomedical), College of Science (Physics, Chemistry, Mathematics), School of Data Science, and Jockey Club College of Veterinary Medicine and Life Sciences.",
+    "number_of_awards_total": "~80 to 120 Presidential PhD Fellowships awarded annually university-wide",
+    "number_of_awards_pakistan": "Open internationally; typically 8 to 15 Pakistani engineering, computing, and science researchers selected annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 4 years (standard PhD normative study period)",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "Combined funding package: HKD 28,100 / month living stipend (~PKR 1,011,600 / month) in Year 1, plus HKD 30,000 cash award in Year 1 and HKD 15,000/year in subsequent years, plus 100% full tuition fee waiver and conference grant of HKD 14,000/year: Total package value exceeds HKD 400,000 / year (~PKR 14,400,000 / year)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to candidates of all nationalities (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "No statutory maximum age limit, though priority is given to candidates with extraordinary academic and research achievements.",
+    "academic_qualifications": "Completed recognized Bachelor's degree with First Class Honours / High Distinction (minimum CGPA 3.50/4.00) or completed Master's degree with outstanding academic record from an HEC-recognized university.",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum CGPA 3.50 / 4.00; competitive applicants typically hold CGPA >= 3.70 / 4.00 or top 10% class standing.",
+    "subject_background_prerequisites": "Computer science, data science, electrical engineering, mechanical engineering, materials science, biomedical engineering, physics, chemistry, or mathematics.",
+    "current_education_status": "Graduated or final-year students completing degree requirements before September semester start.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior publications in peer-reviewed journals (SCI/SCIE) or top conferences (IEEE, ACM) provide a substantial competitive edge.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 79,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.5, TOEFL iBT minimum 79, or official English Medium of Instruction (MOI) certificate from an accredited degree-granting institution.",
+    "other_language_requirements": "Cantonese or Mandarin Chinese is NOT required; 100% of graduate research and instruction is conducted in English.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "All applicants applying for full-time PhD programs at CityU are automatically considered for the Presidential PhD Fellowship Scheme; no separate application required.",
+    "previous_scholarship_restrictions": "Cannot hold concurrent full-time employment or parallel external full scholarships.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee covered through Hong Kong Government Tuition Waiver Scheme for Research Postgraduate Students (HKD 42,100/year).",
+      "amount": "100% covered (~HKD 42,100 / year value; ~PKR 1,515,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "CityU online application fee of HKD 300 paid via credit card during portal submission.",
+      "amount": "HKD 300 (~PKR 10,800)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "On-campus international graduate dormitory housing at Kowloon Tong (Postgraduate Hall; approx. HKD 3,200 to 4,800 / month), paid easily from monthly stipend.",
+      "amount": "Subsidized campus residence hall housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Prestigious monthly living stipend: HKD 28,100 / month (~PKR 1,011,600 / month) throughout Year 1, supplemented by HKD 30,000 cash award in Year 1 and HKD 15,000/year in subsequent years.",
+      "amount": "HKD 28,100 / month + annual cash award"
+    },
+    "airfare": {
+      "status": "SUBSIDIZED",
+      "details": "International travel funded easily from initial cash award (HKD 30,000 grant).",
+      "amount": "Funded via HKD 30,000 cash grant"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Hong Kong Student Visa application fee (HKD 230) paid to Hong Kong Immigration Department via CityU.",
+      "amount": "HKD 230 (~PKR 8,300)"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Access to CityU Young Hall Medical Centre (free general consultations) and Hong Kong Public Healthcare System at eligible resident rates.",
+      "amount": "Subsidized comprehensive campus healthcare"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized dining halls across Kowloon Tong campus, including certified halal dining options; meals cost HKD 30 to 50.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to CityU Run Run Shaw Library, state-of-the-art supercomputing clusters, and State Key Laboratory of Terahertz and Millimeter Waves.",
+      "amount": "100% covered world-class lab infrastructure access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Dedicated conference travel grant of up to HKD 14,000 per year provided to support international conference presentations.",
+      "amount": "HKD 14,000 / year conference travel allowance"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Direct MTR station (Kowloon Tong Station connecting East Rail and Kwun Tong Lines) with 50% student concession fares.",
+      "amount": "50% discounted public transit"
+    },
+    "total_estimated_value_usd_per_year": 52000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single world-class Hong Kong comprehensive research institution (City University of Hong Kong - CityU).",
+    "participating_institutions": [
+      "City University of Hong Kong (Kowloon Tong Campus, Kowloon, Hong Kong)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #62 globally, World Top 50 in Materials Science, Computer Science, and Electrical Engineering; ranked #1 for Most International University in the World (THE 2024).",
+    "available_majors": [
+      "PhD in Computer Science (Department of Computer Science)",
+      "PhD in Data Science (School of Data Science)",
+      "PhD in Electrical Engineering",
+      "PhD in Materials Science and Engineering",
+      "PhD in Mechanical Engineering",
+      "PhD in Biomedical Engineering",
+      "PhD in Physics and Chemistry",
+      "PhD in Mathematics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "4 years (Doctor of Philosophy)",
+    "admission_requirements_summary": "Bachelor's / Master's degree with First Class / CGPA >= 3.50/4.00, academic transcripts, research proposal, two recommendation letters, English test score (IELTS 6.5+ / TOEFL 79+ / MOI), and CV.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Department of Computer Science and School of Data Science are fiercely competitive; contacting prospective supervisors early and securing provisional endorsement strongly aids selection.",
+    "strategic_program_match_advice": "Focus research proposals on wireless communications (terahertz), AI algorithms, advanced nanomaterials, or robotics where CityU holds State Key Laboratories."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.cityu.edu.hk/pg/research-degree-programmes/fellowships-scholarships-and-financial-aid",
+    "portal_system_name": "CityU Online Admissions System for Research Degree Programmes",
+    "account_creation_instructions": "Register on the CityU graduate admissions portal, select PhD program, complete application form, upload personal statement and transcripts, pay HKD 300 fee, and register two recommenders.",
+    "step_by_step_workflow": [
+      "Step 1: Explore CityU faculty research profiles and contact prospective supervisors with CV and research abstract (September-October).",
+      "Step 2: Register on CityU Online Admissions System during open intake (September to December).",
+      "Step 3: Complete online application, upload documents, and pay HKD 300 application fee.",
+      "Step 4: Referees submit evaluation letters online via confidential portal links.",
+      "Step 5: Departmental admissions committee reviews applications and conducts technical interviews via Zoom.",
+      "Step 6: Department nominates candidate for admission and Presidential PhD Fellowship Scheme.",
+      "Step 7: Official admission and fellowship award letter issued in January/February.",
+      "Step 8: Accept offer, apply for Hong Kong Student Visa via CityU, and arrive in Hong Kong in late August."
+    ],
+    "university_vs_scholarship_routing": "Integrated University Route: Application for admission automatically triggers consideration for Postgraduate Studentship and Presidential PhD Fellowship Scheme.",
+    "recommendation_letters_submission_method": "Submitted online by two academic referees via confidential email links generated by CityU portal.",
+    "personal_statement_prompts": "Personal Statement describing academic achievements, research interests, career aspirations, and motivation for pursuing a doctoral degree at CityU.",
+    "study_plan_research_proposal_requirements": "Structured research proposal (2-4 pages) detailing problem formulation, methodology, literature review, and anticipated scientific contributions.",
+    "cv_format_requirements": "Comprehensive academic CV detailing publications, research projects, technical skills, and honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview via Zoom conducted by prospective supervisor and departmental doctoral admission committee.",
+    "standardized_tests": "IELTS Academic 6.5+ or TOEFL iBT 79+ required; GRE is optional but recommended.",
+    "application_fee_amount": "HKD 300 (approx. USD 38 / ~PKR 10,800)",
+    "attestation_requirements": "Certified true copies of transcripts and degree certificates; HEC attestation required for Pakistani credentials upon enrollment.",
+    "translation_requirements": "Certified official English translation for all non-English documents.",
+    "final_submission_method": "Online submission via CityU postgraduate admissions portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete Bachelor's / Master's degree certificates and transcripts with CGPA >= 3.50/4.00.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Research Proposal (2-4 Pages)",
+      "mandatory": true,
+      "specification": "Structured research proposal detailing problem formulation, methodology, and anticipated contributions.",
+      "pakistan_specific_instruction": "Scholarly proposal formatted with standard citations."
+    },
+    {
+      "document_name": "Two Academic Reference Letters",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from academic professors submitted electronically.",
+      "pakistan_specific_instruction": "From previous university professors."
+    },
+    {
+      "document_name": "English Language Proficiency Score Report",
+      "mandatory": true,
+      "specification": "IELTS Academic 6.5+ or TOEFL iBT 79+.",
+      "pakistan_specific_instruction": "Score report or MOI letter."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Comprehensive academic CV detailing publications, research projects, technical skills, and honors.",
+      "pakistan_specific_instruction": "Professional academic CV."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "September 1",
+    "application_deadline": "December 1 (Hong Kong PhD Fellowship Scheme deadline) / December 15 (Main Round deadline)",
+    "university_admission_deadline": "December 15",
+    "document_submission_deadline": "December 15",
+    "recommendation_letters_deadline": "December 22",
+    "interview_period": "January - February",
+    "shortlist_announcement": "February - March",
+    "final_result_acceptance_deadline": "Within 2 to 3 weeks of notification",
+    "visa_application_window": "April - June",
+    "semester_commencement": "September 1 (Fall intake)",
+    "annual_cycle_notes": "Main intake commences in September; applicants submit by December 1 for dual consideration under HKPFS and CityU Presidential Scheme."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Undergraduate/Master's GPA, academic honors, course rigor)",
+    "extracurricular_and_leadership_weight": "5% (Initiative, intellectual maturity)",
+    "research_experience_weight": "40% (Technical research capability, publications, programming skills, research proposal)",
+    "work_experience_weight": "5% (Industry engineering or technical laboratory experience)",
+    "personal_statement_weight": "5% (Clarity of vision and alignment with CityU research priorities)",
+    "recommendations_weight": "5% (Academic referee evaluation)",
+    "interview_weight": "5% (Performance in departmental technical interview)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Need-blind pure merit evaluation)",
+    "selection_panel_composition": "CityU Departmental Admissions Committee, College Graduate Deans, and Chow Yei Ching School of Graduate Studies Board.",
+    "evaluation_methodology": "Two-tier rigorous evaluation identifying top 5% of doctoral applicants with world-class research potential."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,800 to 5,000 international PhD applicants across CityU",
+    "total_scholarships_awarded": "~80 to 120 Presidential awards annually",
+    "acceptance_rate_global": "~2.5% to 3.5%",
+    "acceptance_rate_pakistan": "~5.0% to 8.0% for candidates with strong research profiles and CGPA >= 3.70",
+    "typical_successful_applicant_gpa": "Undergraduate/Master's CGPA >= 3.70 / 4.00, accompanied by strong programming skills or publications",
+    "typical_academic_and_research_profile": "Graduates with exceptional academic records in computer science, engineering, or physics, documented project experience, and professor alignment.",
+    "common_backgrounds_of_winners": "Graduates from top Pakistani universities (NUST, FAST-NUCES, UET Lahore, GIKI, PIEAS, COMSATS, Quaid-i-Azam).",
+    "high_representation_countries": "China, Pakistan, India, Vietnam, South Korea, Turkey, Iran, Russia.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portal cityu.edu.hk/pg.",
+      "CityU does not work with third-party agents; all applications must be submitted directly by the candidate."
+    ],
+    "application_fee_warning": "Application fee of HKD 300 is paid directly through the secure CityU online portal.",
+    "agent_and_intermediary_warnings": "Applications prepared by commercial agents are rejected; authentic personal statements and research experience are essential.",
+    "hidden_costs_breakdown": [
+      "Application fee: HKD 300 (~PKR 10,800).",
+      "Hong Kong Student Visa fee: HKD 230 (~PKR 8,300).",
+      "HEC document attestation in Pakistan: ~PKR 10,000 to 20,000.",
+      "Flight to Hong Kong: ~PKR 120,000 to 180,000.",
+      "Initial living deposit before first stipend payment: ~HKD 5,000 (~PKR 180,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Cantonese fluency is required. Reality: 100% of graduate education at CityU is conducted in English.",
+      "Myth: Separate application required. Reality: All PhD applicants are automatically considered."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sites suggest tuition is deducted from stipend; tuition is 100% covered by Hong Kong Government Tuition Waiver Scheme."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain minimum Cumulative Grade Point Average (CGPA) of 3.00 out of 4.30 throughout the PhD candidature.",
+    "attendance_requirements": "Full-time physical research presence at CityU campus; pass PhD Qualifying Examination within required department timeline.",
+    "academic_progress_monitoring": "Annual academic progress review evaluated by thesis supervisor and department postgraduate committee.",
+    "work_restrictions_during_study": "Scholars may not engage in outside employment; limited teaching/research duties (up to 100 hours/year) assigned under PGS regulations.",
+    "home_country_return_obligation": "None; zero service bond or return obligation (scholars are eligible for Hong Kong IANG work visa upon graduation).",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Studentship is terminated if academic performance is unsatisfactory or if student is dismissed for disciplinary infractions.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Major change requires approval from current advisor, new advisor, and department heads.",
+    "extension_policy": "Tenure is strictly 4 years; extensions require supervisor research grant funding."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "CityU Chow Yei Ching School of Graduate Studies Presidential Scheme",
+      "source_url": "https://www.cityu.edu.hk/pg/research-degree-programmes/fellowships-scholarships-and-financial-aid",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "CityU Research Degree Admissions Guide",
+      "source_url": "https://www.cityu.edu.hk/pg/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

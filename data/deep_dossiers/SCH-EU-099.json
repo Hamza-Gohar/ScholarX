@@ -1,0 +1,292 @@
+{
+  "scholarship_id": "SCH-EU-099",
+  "basic_details": {
+    "scholarship_name": "EMBL International PhD Programme in Molecular Life Sciences",
+    "offering_entity": "European Molecular Biology Laboratory (EMBL International PhD Programme)",
+    "host_country": "Germany",
+    "host_institutions_covered": "European Molecular Biology Laboratory (EMBL Heidelberg, with nodes in Barcelona, Grenoble, Hamburg, Hinxton EMBL-EBI, and Rome)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Molecular Biology, Cell Biology, Structural Biology, Computational Biology, Bioinformatics, Biophysics, Genetics, Developmental Biology, Genome Biology, and Developmental Neurobiology.",
+    "number_of_awards_total": "~50 to 60 fully funded PhD positions offered internationally each annual recruitment cycle",
+    "number_of_awards_pakistan": "Open global competition without fixed geographic quotas; outstanding Pakistani life sciences and computational biology graduates compete equally (typically 1 to 3 selected per cohort)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "3.5 to 4 years (full-time doctoral contract with comprehensive social security)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to talented international candidates of all nationalities worldwide, including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "No formal statutory age ceiling, but targeted at early-stage researchers holding a recent Master's or 4-year Bachelor's degree.",
+    "academic_qualifications": "Recognized university degree in natural sciences, mathematics, computer science, or engineering equivalent to a Master's degree (or 4-year BS / BSc Honours / 16-18 years of education) with outstanding grades (minimum CGPA 3.30 / 4.00 or 75%+).",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Minimum CGPA 3.30 / 4.00; competitive candidates typically possess CGPA >= 3.60 / 4.00 with demonstrated bench or computational research experience.",
+    "subject_background_prerequisites": "Degree in biological sciences, biochemistry, chemistry, physics, mathematics, computational biology, or related quantitative sciences. Research thesis or publication is strongly advantageous.",
+    "current_education_status": "Graduated or enrolled in final semester of Master's / 4-year BS scheduled to receive degree before commencing doctoral studies in October.",
+    "graduation_year_restrictions": "Degree obtained within the preceding 2-3 years preferred, though non-standard career trajectories are evaluated individually.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior laboratory research experience, wet-lab bench rotations, or computational pipeline development is crucial during interview evaluation.",
+    "english_test_required": false,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "Working language at EMBL is English. Formal test certificates (IELTS/TOEFL) are optional if English proficiency is demonstrated through prior degree Medium of Instruction (MOI) or interview.",
+    "other_language_requirements": "No German or local host language proficiency required; institute operates entirely in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must anticipate receiving an accredited doctoral degree awarded in collaboration with a partner university (e.g., Heidelberg University).",
+    "previous_scholarship_restrictions": "Cannot hold another full-time salary or fellowship covering the same doctoral research work.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition waiver across EMBL and its partner academic degree-granting universities.",
+      "amount": "100% Tuition Waived"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Online application to the EMBL International PhD Programme is completely free of charge.",
+      "amount": "€0 (Free application)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Initial temporary accommodation arranged at EMBL Heidelberg guesthouses / apartments; housing office assists with local flat rentals.",
+      "amount": "Subsidized guesthouse priority & housing assistance"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Full doctoral employment contract with net monthly salary of approximately €2,100 to €2,400 per month (~PKR 650,000 / month), adjusted for local purchasing power across EMBL sites.",
+      "amount": "€2,100 - €2,400 / month net (~PKR 650,000/mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Travel costs to Heidelberg for interview rounds (if in person) and initial relocation travel allowance reimbursed upon joining.",
+      "amount": "100% Relocation travel allowance covered"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "EMBL Human Resources provides official host site hosting agreements (Aufnahmevereinbarung) covering German scientific visa costs and administrative support.",
+      "amount": "German scientific visa sponsorship & fees covered"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive German social security and health insurance plan (health, nursing care, pension, and accident insurance) included under the employment contract.",
+      "amount": "100% Comprehensive Statutory Health & Social Insurance"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized meals and dining at EMBL campus staff canteens in Heidelberg.",
+      "amount": "Subsidized campus staff dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Fully funded computing hardware (laptop/workstation), software licenses, lab consumables, and digital library access.",
+      "amount": "100% Lab consumables, computing, and library coverage"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Generous individual travel and conference training budget of up to €2,000 per year to present research at international symposiums.",
+      "amount": "Up to €2,000 / year conference & training allowance"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized local public transit JobTicket (VRN / Deutschlandticket) for transit in Heidelberg and the Rhine-Neckar region.",
+      "amount": "Subsidized public transit JobTicket"
+    },
+    "total_estimated_value_usd_per_year": 42000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single research institution (EMBL) with degrees jointly awarded by prominent partner universities such as Heidelberg University.",
+    "participating_institutions": [
+      "European Molecular Biology Laboratory (EMBL Heidelberg)",
+      "Heidelberg University (Joint Degree Partner)",
+      "EMBL Barcelona",
+      "EMBL Grenoble",
+      "EMBL Hamburg",
+      "EMBL-EBI Hinxton (UK)",
+      "EMBL Rome"
+    ],
+    "university_rankings_scope": "World's flagship laboratory for basic research in molecular biology; globally premier life sciences institute alongside MRC LMB and Max Planck.",
+    "available_majors": [
+      "Cell Biology and Biophysics",
+      "Developmental Biology",
+      "Genome Biology",
+      "Structural and Computational Biology",
+      "Bioinformatics and Data Sciences",
+      "Epigenetics and Neurobiology",
+      "Tissue Biology and Disease Modelling"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "3.5 to 4 years (full-time doctoral program)",
+    "admission_requirements_summary": "Master's or 4-year BS degree in life sciences/quantitative fields (CGPA >= 3.30/4.00), strong research orientation, two online references, and successful performance in EMBL Initial Assessment and Interview Days.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Admission to the PhD programme automatically confers full funding and salary. Competition is intense across all EMBL research units.",
+    "strategic_program_match_advice": "Familiarize yourself thoroughly with the recent publications of 2 to 3 EMBL Group Leaders whose research closely aligns with your background; mention them specifically in your motivation statement."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.embl.org/about/info/embl-international-phd-programme/",
+    "portal_system_name": "EMBL PhD Online Application System",
+    "account_creation_instructions": "Register on the EMBL recruitment portal, provide biographical and degree info, select up to 3 preferred research units/Group Leaders, input referee email addresses, and upload CV and academic transcripts before the deadline.",
+    "step_by_step_workflow": [
+      "Step 1: Check eligibility criteria and review current research projects and Group Leaders at EMBL.",
+      "Step 2: Create an account on the EMBL PhD recruitment portal.",
+      "Step 3: Complete academic history, research experience summary, and choice of research units.",
+      "Step 4: Register two academic referees who will receive automated requests to upload letters before the referee deadline.",
+      "Step 5: Submit the online application by mid-April (Summer call) or mid-October (Winter call).",
+      "Step 6: EMBL Faculty panel conducts initial screening and reviews shortlisted candidates.",
+      "Step 7: Selected candidates undergo online video interviews and are invited to EMBL Interview Days.",
+      "Step 8: Final offers extended and doctoral employment contract finalized for autumn matriculation."
+    ],
+    "university_vs_scholarship_routing": "Integrated Single Application: Application to the EMBL International PhD Programme constitutes direct application for the fully funded doctoral fellowship.",
+    "recommendation_letters_submission_method": "Submitted electronically by referees via confidential portal upload links sent automatically upon candidate registration.",
+    "personal_statement_prompts": "Outline research experience, scientific motivations, why EMBL is the ideal environment for your doctoral work, and which research groups you wish to join and why.",
+    "study_plan_research_proposal_requirements": "Summary of previous research project/thesis (up to 2,000 characters) and outline of scientific areas of interest at EMBL.",
+    "cv_format_requirements": "Standard academic CV highlighting experimental techniques, computing tools, publications, poster presentations, and academic awards.",
+    "interviews_conducted": true,
+    "interview_format_details": "Comprehensive EMBL Interview Days: Panel interviews with Group Leaders testing experimental rationale, analytical thinking, and scientific creativity.",
+    "standardized_tests": "None mandatory; GRE is not required.",
+    "application_fee_amount": "€0 (Completely free)",
+    "attestation_requirements": "HEC and MOFA degree attestation required for Pakistani candidates upon final admission offer.",
+    "translation_requirements": "Certified English translation for all degrees and transcripts not originally in English.",
+    "final_submission_method": "Online submission through the EMBL PhD portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Master's / 4-Year Bachelor's Degree Certificate",
+      "mandatory": true,
+      "specification": "Official degree certificate in biological sciences, physics, chemistry, computer science, or mathematics.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan upon final selection."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts showing course grades, credits, and cumulative GPA (minimum 3.30 / 4.00).",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Curriculum Vitae (Academic CV)",
+      "mandatory": true,
+      "specification": "Detailed CV listing laboratory skills, computational proficiencies, research projects, and any publications.",
+      "pakistan_specific_instruction": "Highlight experimental techniques and research dissertations."
+    },
+    {
+      "document_name": "Summary of Research Experience",
+      "mandatory": true,
+      "specification": "Structured summary of prior Master's/undergraduate thesis, experimental methods, and scientific findings.",
+      "pakistan_specific_instruction": "Emphasize hands-on laboratory or bioinformatics contributions."
+    },
+    {
+      "document_name": "Motivation Letter / Statement of Purpose",
+      "mandatory": true,
+      "specification": "Statement detailing intellectual motivations, scientific aspirations, and specific EMBL labs of interest.",
+      "pakistan_specific_instruction": "Demonstrate understanding of target Group Leaders' recent literature."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential referee appraisals submitted directly by academic supervisors who know your research capacity.",
+      "pakistan_specific_instruction": "From undergraduate/Master's thesis advisors or lab directors."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Scanned copy of passport identification page valid for at least 12 months.",
+      "pakistan_specific_instruction": "Standard Pakistani international passport scan."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-01",
+    "application_deadline": "2027-04-15",
+    "university_admission_deadline": "2027-04-15",
+    "document_submission_deadline": "2027-04-15",
+    "recommendation_letters_deadline": "2027-04-17",
+    "interview_period": "May to June 2027",
+    "shortlist_announcement": "Mid May 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of offer receipt",
+    "visa_application_window": "June to August 2027",
+    "semester_commencement": "2027-10-01",
+    "annual_cycle_notes": "Main summer recruitment deadline mid-April; secondary winter call opens September with mid-October deadline."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Undergraduate and Master's coursework, grades, and intellectual foundations)",
+    "extracurricular_and_leadership_weight": "5% (Science communication, mentoring, and collaborative team skills)",
+    "research_experience_weight": "35% (Prior experimental and computational research rigor, thesis quality, and technical aptitude)",
+    "work_experience_weight": "5% (Relevant research assistantships or biotechnology industry internships)",
+    "personal_statement_weight": "15% (Scientific drive, curiosity, problem-solving mindset, and fit with EMBL missions)",
+    "recommendations_weight": "10% (Quality of confidential evaluations from previous research supervisors)",
+    "interview_weight": "0% (Interviews are the decisive final stage after initial scoring determines invitations)",
+    "test_scores_weight": "0% (Standardized tests are not required)",
+    "financial_need_weight": "0% (Pure academic and research excellence; all selected candidates receive full funding)",
+    "selection_panel_composition": "EMBL International PhD Programme Faculty Committee and participating Group Leaders.",
+    "evaluation_methodology": "Two-phase review: initial committee shortlisting based on transcripts, references, and research summary, followed by rigorous multi-round interview days."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,000 highly qualified life science graduates apply annually worldwide",
+    "total_scholarships_awarded": "~50 to 60 fully funded doctoral positions awarded across all EMBL units",
+    "acceptance_rate_global": "~3.0%",
+    "acceptance_rate_pakistan": "~4% to 6% among applicants with solid wet-lab or bioinformatics backgrounds",
+    "typical_successful_applicant_gpa": "3.70 / 4.00 with dedicated thesis research and exceptional reference letters",
+    "typical_academic_and_research_profile": "Graduates in biotechnology, biochemistry, genetics, or computer science with demonstrated independent research or publication record.",
+    "common_backgrounds_of_winners": "Graduates from NUST, Quaid-i-Azam University, LUMS, Aga Khan University, and University of the Punjab.",
+    "high_representation_countries": "Germany, Italy, France, Spain, Pakistan, India, United Kingdom, Greece, Turkey.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply via the official EMBL portal at https://www.embl.org/.",
+      "EMBL never asks for application fees or uses third-party educational recruiting agents."
+    ],
+    "application_fee_warning": "Applying to EMBL is 100% free of charge at all stages.",
+    "agent_and_intermediary_warnings": "Do not engage any consultants or agents; applications must be submitted personally by the candidate.",
+    "hidden_costs_breakdown": [
+      "Application fee: €0 (Free).",
+      "HEC / MOFA attestation fees in Pakistan: ~PKR 15,000 - 25,000.",
+      "Initial travel before reimbursement: Reimbursed upon joining.",
+      "Living expenses fully covered by net salary of €2,100 - €2,400/month."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You need a German language certificate to apply to EMBL Heidelberg. Reality: EMBL is an intergovernmental European organisation operating 100% in English.",
+      "Myth: You must already hold a first-author paper to be considered. Reality: While helpful, substantial hands-on research commitment and deep understanding of your thesis project are the decisive factors."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial websites frequently confuse EMBL with standard German DAAD stipends; EMBL researchers are formally employed staff with full social security and pension rights."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Successful annual thesis advisory committee (TAC) progress reports and PhD thesis milestone completion.",
+    "attendance_requirements": "Full-time presence and research commitment at the assigned EMBL laboratory.",
+    "academic_progress_monitoring": "Annual Thesis Advisory Committee (TAC) meetings evaluating doctoral research progression.",
+    "work_restrictions_during_study": "Doctoral researchers are full-time EMBL employees and cannot take external commercial employment.",
+    "home_country_return_obligation": "None; zero service bond or mandatory return obligation.",
+    "service_obligations_or_bonds": "None; full international mobility post-PhD.",
+    "repayment_clawback_conditions": "Termination of contract only in case of gross scientific misconduct or failure to meet academic requirements after review.",
+    "rules_for_changing_university": "Enrolled in collaboration with chosen partner university; change subject to faculty approval.",
+    "rules_for_changing_major": "Research focus can be adapted within the scope of the thesis project and supervisor agreement.",
+    "extension_policy": "Standard contract is 3.5 years, extensible to 4.0 years upon Thesis Advisory Committee recommendation."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "EMBL International PhD Programme Official Portal",
+      "source_url": "https://www.embl.org/about/info/embl-international-phd-programme/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "EMBL Graduate Training & Partner Universities",
+      "source_url": "https://www.embl.org/about/info/embl-international-phd-programme/application-and-eligibility/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "scholarship_id": "SCH-ME-040",
+  "basic_details": {
+    "scholarship_name": "Kuwait University Graduate Studies Scholarship for Non-Kuwaitis",
+    "offering_entity": "Kuwait University College of Graduate Studies (CGS) & Kuwait Ministry of Higher Education",
+    "host_country": "Kuwait",
+    "host_institutions_covered": "Kuwait University (Sabah Al-Salem University City, Shadadiya / Khaldiya Campuses, Kuwait City)",
+    "degree_levels": [
+      "Master of Science (MSc / MEng)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Postgraduate degree programs offered by the College of Graduate Studies: Computer Science, Computer Engineering, Civil Engineering, Electrical Engineering, Chemical Engineering, Mechanical Engineering, Petroleum Engineering, Molecular Biology, Mathematics, and Statistics.",
+    "number_of_awards_total": "Approximately 60 to 80 fully funded graduate scholarships awarded annually to distinguished non-Kuwaiti international applicants across all faculties",
+    "number_of_awards_pakistan": "Competitive international quota; typically 6 to 10 Pakistani graduate scholars selected annually across engineering and sciences",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Standard program duration: 24 months (2 academic years) for Master's degrees; up to 48 months (4 academic years) for PhD degrees"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International non-Kuwaiti citizens from all countries worldwide, including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Applicants must generally be under 30 years of age for Master's programs and under 35 years of age for PhD programs at the time of admission.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (16-year BS/BSc/BE) for Master's track or 18-year MS/MPhil for PhD track from an HEC-recognized university with high academic standing (minimum CGPA 3.33 / 4.00 or 78%+ equivalent to 'Very Good' / 'Jayyid Jiddan' grade rating under Kuwait University CGS grading regulations).",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.33,
+    "grading_conversion_notes": "Kuwait University College of Graduate Studies strictly enforces a minimum cumulative GPA of 3.33 / 4.00 ('Very Good') or equivalent for scholarship eligibility.",
+    "subject_background_prerequisites": "Relevant undergraduate degree in engineering, computing, or natural sciences directly matching the chosen graduate department; strong foundation in advanced mathematics and core discipline coursework.",
+    "current_education_status": "Graduated with official degree certificate or enrolled in final undergraduate semester graduating prior to August preceding the Fall intake.",
+    "graduation_year_restrictions": "Degrees must have been earned within the past 4 academic years.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Research publications, software repositories, or academic teaching assistantship experience strongly enhance applicant ranking.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 75,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "Official IELTS Academic minimum 6.0 (no band below 5.5) or TOEFL iBT minimum 75. English test must be valid at the time of application submission. MOI certificates are strictly not accepted.",
+    "other_language_requirements": "All science, engineering, and computing graduate degree programs are conducted 100% in English. Arabic language proficiency is not required for STEM degrees.",
+    "gender_specific_requirements": "Open equally to male and female applicants (separate modern student residential halls provided on campus).",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Distinguished international scholarship pool funded under Kuwait state university graduate support quotas.",
+    "previous_scholarship_restrictions": "Cannot hold dual scholarships or simultaneous employment during the scholarship tenure.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full waiver of all tuition fees, credit registration fees, and laboratory access charges across the entire graduate degree program.",
+      "amount": "100% Tuition Waived (~KWD 3,000 - 4,500/year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Non-refundable application processing fee of KWD 10 (~PKR 9,000) payable via K-Net or international credit card upon online portal submission.",
+      "amount": "KWD 10 (~PKR 9,000)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Free furnished student hostel accommodation in Kuwait University student residence halls at Sabah Al-Salem University City campus (including utilities, Wi-Fi, air conditioning, and laundry).",
+      "amount": "100% Free furnished university housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living stipend of KWD 250 / month (~PKR 225,000 / month | KWD 3,000 per year) paid directly to student local bank account.",
+      "amount": "KWD 250 / month (~PKR 225,000/mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Annual round-trip economy class flight ticket between Pakistan and Kuwait International Airport provided at the beginning and end of each academic year.",
+      "amount": "100% Annual round-trip flight ticket"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Kuwait University sponsors and processes Student Residence Permit (Civil ID, Iqama) and entry visa with fees fully covered/waived.",
+      "amount": "100% Kuwait Student Iqama & Visa Covered"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive medical and emergency healthcare coverage at Kuwait Ministry of Health public clinics and Farwaniya/Mubarak Al-Kabeer hospitals.",
+      "amount": "100% Kuwait public healthcare access"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Subsidized and provided daily meals at Kuwait University campus dining halls, complemented by the monthly living stipend.",
+      "amount": "Free/subsidized university cafeteria meals"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Textbook allowance provided per semester, plus complete free access to Kuwait University Central Library and digital databases (IEEE, Springer, ScienceDirect).",
+      "amount": "Semester textbook allowance + digital library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Graduate research thesis grants available through Kuwait University Research Sector (RS) for lab consumables, high-performance computing, and conference attendance.",
+      "amount": "Funded research sector project grants"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free scheduled Kuwait University shuttle bus transportation connecting student residence halls with campus faculties across Shadadiya.",
+      "amount": "Free campus shuttle transportation"
+    },
+    "total_estimated_value_usd_per_year": 24000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host institution (Kuwait University, Kuwait).",
+    "participating_institutions": [
+      "Kuwait University - College of Graduate Studies (Sabah Al-Salem University City, Shadadiya, Kuwait)"
+    ],
+    "university_rankings_scope": "Ranked in top 800 globally (QS World University Rankings 2025); Kuwait's premier public flagship research institution founded in 1966.",
+    "available_majors": [
+      "Master of Science in Computer Science",
+      "Master of Science in Computer Engineering",
+      "Master of Science in Civil Engineering",
+      "Master of Science in Electrical Engineering",
+      "Master of Science in Chemical Engineering",
+      "Master of Science in Mechanical Engineering",
+      "Master of Science in Petroleum Engineering",
+      "Master of Science in Molecular Biology",
+      "Master of Science in Mathematics",
+      "Doctor of Philosophy (PhD) in Engineering & Science disciplines"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years (4 semesters); PhD: 3-4 years (6-8 semesters)",
+    "admission_requirements_summary": "Relevant Bachelor/Master degree with CGPA >= 3.33/4.00, valid IELTS (min 6.0) or TOEFL (min 75), GRE General score (for engineering departments, typically min 150 Quant), statement of purpose, two academic references, and Kuwait University online application.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Unified graduate application via College of Graduate Studies; Computer Engineering, Petroleum Engineering, and Molecular Biology have the highest GPA cut-offs.",
+    "strategic_program_match_advice": "Align thesis proposal with Kuwait University strategic research themes: energy transition, water desalination, environmental biotechnology, cyber-physical systems, and data analytics."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "http://portal.ku.edu.kw/",
+    "portal_system_name": "Kuwait University Student Information System (SIS) & College of Graduate Studies Online Portal",
+    "account_creation_instructions": "Visit portal.ku.edu.kw, create graduate applicant account, select 'College of Graduate Studies - Non-Kuwaiti Scholarship Track', complete bio-data, academic qualifications, and upload required documents before March 31.",
+    "step_by_step_workflow": [
+      "Step 1: Review graduate program specifications, department prerequisites, and scholarship terms on the College of Graduate Studies portal (graduate.edu.kw).",
+      "Step 2: Prepare HEC/MoFA-attested academic transcripts, degree certificates, valid IELTS/TOEFL scorecard, and GRE score report.",
+      "Step 3: Register an account on Kuwait University Student Information System (portal.ku.edu.kw) during the annual application window (mid-January to late March).",
+      "Step 4: Select preferred graduate degree program and indicate application for the Non-Kuwaiti Graduate Scholarship.",
+      "Step 5: Upload all required academic credentials, statement of purpose, CV, and passport scans, and pay the KWD 10 application fee online.",
+      "Step 6: Register two academic referees who will submit letters of recommendation directly into the university system.",
+      "Step 7: Department Graduate Studies Committees review files and conduct virtual interviews for shortlisted candidates between April and May.",
+      "Step 8: College of Graduate Studies issues official admission and scholarship nomination letters in June/July; Kuwait University handles security clearance and student visa issuance."
+    ],
+    "university_vs_scholarship_routing": "Integrated Routing: Single consolidated graduate application through the Kuwait University CGS portal automatically considers eligible international applicants for the full scholarship.",
+    "recommendation_letters_submission_method": "Submitted online by two university academic professors directly via Kuwait University graduate portal referee links.",
+    "personal_statement_prompts": "Statement of purpose (500-800 words) detailing academic background, specific research interests, reason for choosing Kuwait University, and career aspirations.",
+    "study_plan_research_proposal_requirements": "2-page research proposal for Master's thesis applicants (mandatory 4-page detailed proposal for PhD candidates outlining problem statement, methodology, and literature review).",
+    "cv_format_requirements": "Academic curriculum vitae highlighting educational milestones, technical competencies, programming proficiencies, and publications.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online video interview via Microsoft Teams/Zoom conducted by departmental graduate admissions panel testing technical background and research motivation.",
+    "standardized_tests": "IELTS Academic 6.0+ or TOEFL iBT 75+; GRE General Test recommended or required by College of Engineering (quantitative score >= 150).",
+    "application_fee_amount": "KWD 10 (~PKR 9,000 / ~$33 USD) non-refundable online application fee.",
+    "attestation_requirements": "Pakistani degrees and transcripts must be attested by HEC Pakistan, Ministry of Foreign Affairs (MoFA) Pakistan, and Embassy of the State of Kuwait in Islamabad.",
+    "translation_requirements": "Certified English translation required for any documents not originally issued in English or Arabic.",
+    "final_submission_method": "Online submission via Kuwait University Student Information System (portal.ku.edu.kw)."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor / Master Degree Certificate",
+      "mandatory": true,
+      "specification": "HEC-attested degree certificate with minimum CGPA 3.33 / 4.00 ('Very Good' grade).",
+      "pakistan_specific_instruction": "Attested by HEC, MoFA, and Embassy of Kuwait in Islamabad."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Detailed official semester-by-semester grade transcripts and grading scale.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "English Proficiency Test Scorecard",
+      "mandatory": true,
+      "specification": "Official IELTS Academic (minimum 6.0) or TOEFL iBT (minimum 75) certificate.",
+      "pakistan_specific_instruction": "Valid electronic score report."
+    },
+    {
+      "document_name": "Statement of Purpose & Research Outline",
+      "mandatory": true,
+      "specification": "Comprehensive statement detailing academic focus, research goals, and alignment with department.",
+      "pakistan_specific_instruction": "Highlight technical skills and thesis intent."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential appraisals from university professors evaluating scholarly caliber and research promise.",
+      "pakistan_specific_instruction": "On official institutional letterhead with verified email."
+    },
+    {
+      "document_name": "GRE General Score Report",
+      "mandatory": false,
+      "specification": "Official GRE General test scores for engineering and computing applicants.",
+      "pakistan_specific_instruction": "Sent via ETS institutional code for Kuwait University."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Full color copy of passport identification page valid for at least two full academic years.",
+      "pakistan_specific_instruction": "Passport validity must exceed 24 months."
+    },
+    {
+      "document_name": "Police Clearance Certificate",
+      "mandatory": true,
+      "specification": "Character certificate / police clearance from home district for Kuwait visa clearance.",
+      "pakistan_specific_instruction": "Attested by MoFA Pakistan."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2027-01-10",
+    "application_deadline": "2027-03-31",
+    "university_admission_deadline": "2027-03-31",
+    "document_submission_deadline": "2027-03-31",
+    "recommendation_letters_deadline": "2027-04-10",
+    "interview_period": "April to May 2027",
+    "shortlist_announcement": "Late June 2027",
+    "final_result_acceptance_deadline": "Within 15 days of award notification",
+    "visa_application_window": "July to August 2027",
+    "semester_commencement": "2027-09-12",
+    "annual_cycle_notes": "Applications open once annually in January for the subsequent Fall semester; spring intake is generally restricted to local admissions without full scholarship packages."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "45% (Undergraduate/Master GPA, transcript rigor, and class rank)",
+    "extracurricular_and_leadership_weight": "5% (Student leadership, scientific competitions, professional societies)",
+    "research_experience_weight": "20% (Prior research, final year project quality, published papers, or conference presentations)",
+    "work_experience_weight": "5% (Relevant industry engineering or teaching experience)",
+    "personal_statement_weight": "10% (Clarity of purpose, research proposal quality, and alignment with faculty)",
+    "recommendations_weight": "5% (Evaluation of scholarly competence and intellectual dedication by referees)",
+    "interview_weight": "10% (Departmental interview performance and technical problem-solving ability)",
+    "test_scores_weight": "0% (English test and GRE are qualifying prerequisites)",
+    "financial_need_weight": "0% (Pure academic excellence and research merit evaluation)",
+    "selection_panel_composition": "College of Graduate Studies Admissions Committee and Departmental Graduate Faculty Panels.",
+    "evaluation_methodology": "Comprehensive composite evaluation combining GPA, GRE/test metrics, research potential, and interview scores."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,000 to 3,000 international applicants across all graduate faculties",
+    "total_scholarships_awarded": "~60 to 80 fully funded graduate scholarships per cohort",
+    "acceptance_rate_global": "~2.5% to 3.0%",
+    "acceptance_rate_pakistan": "~3.5% to 5.0% among applicants with CGPA >= 3.50 and strong quantitative scores",
+    "typical_successful_applicant_gpa": "3.65 / 4.00 (with top marks in core engineering/science subjects)",
+    "typical_academic_and_research_profile": "Engineers and scientists with strong mathematical foundations, distinguished final year projects, and demonstrated coding or lab capabilities.",
+    "common_backgrounds_of_winners": "Graduates from NUST, UET Lahore, NED UET Karachi, FAST-NUCES, COMSATS, and Quaid-i-Azam University.",
+    "high_representation_countries": "Pakistan, Egypt, Jordan, India, Sudan, Tunisia, Syria, Yemen.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply via official Kuwait University domains (portal.ku.edu.kw and graduate.edu.kw).",
+      "Beware of commercial agents in Lahore/Karachi demanding recruitment fees or guaranteeing Kuwait University scholarships."
+    ],
+    "application_fee_warning": "Only the official KWD 10 (~$33 USD) university fee is charged; any third party requesting visa or placement fees is fraudulent.",
+    "agent_and_intermediary_warnings": "Kuwait University does not authorize private recruitment agencies; third-party submissions are disqualified.",
+    "hidden_costs_breakdown": [
+      "KU application fee: KWD 10 (~PKR 9,000).",
+      "HEC, MoFA, and Kuwait Embassy document attestation charges in Islamabad: ~PKR 25,000 - 45,000.",
+      "Pre-departure medical examination (GAMCA approved medical center for GCC visa): ~PKR 18,000 - 25,000.",
+      "Initial cash reserve before first monthly stipend disbursement: ~KWD 100 (~PKR 90,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Knowledge of Arabic is mandatory for studying engineering at Kuwait University. Reality: All STEM graduate courses, exams, and theses are conducted exclusively in English.",
+      "Myth: Scholars must pay for on-campus housing. Reality: Full scholarship recipients receive 100% free furnished housing and utilities."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial forums claim IELTS can be waived with an English Medium of Instruction letter; CGS Kuwait University strictly enforces official IELTS 6.0 or TOEFL 75 scorecard submissions."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.00 / 4.00 throughout every semester of graduate enrollment.",
+    "attendance_requirements": "Mandatory full-time student status; attendance in all registered lectures, seminars, and laboratory sessions.",
+    "academic_progress_monitoring": "Semester-end academic progress review by the College of Graduate Studies; failing below 3.00 places student on academic warning.",
+    "work_restrictions_during_study": "Strictly prohibited from holding outside commercial employment in Kuwait; may only perform departmental Graduate Teaching Assistantship (GTA) or Research Assistantship (GRA) duties.",
+    "home_country_return_obligation": "No mandatory return bond; graduates may pursue employment opportunities in Kuwait under standard private sector transfer rules or pursue overseas PhD/postdocs.",
+    "service_obligations_or_bonds": "Scholars may be required to deliver up to 6-8 hours per week of teaching or laboratory assistance within their department.",
+    "repayment_clawback_conditions": "Revocation of scholarship, forfeiture of stipend, and loss of student visa status in case of academic failure, disciplinary breach, or voluntary withdrawal without approved excuse.",
+    "rules_for_changing_university": "Non-transferable to other institutions in Kuwait or abroad.",
+    "rules_for_changing_major": "Changing graduate major is not permitted once scholarship award is executed.",
+    "extension_policy": "Funding is granted for standard duration (4 semesters for MS, 8 semesters for PhD); a one-semester extension may be approved by CGS upon supervisor justification."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Kuwait University College of Graduate Studies (CGS) Official Portal",
+      "source_url": "http://www.graduate.edu.kw/Default.aspx?pageId=129",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Kuwait University Student Information System (SIS)",
+      "source_url": "http://portal.ku.edu.kw/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

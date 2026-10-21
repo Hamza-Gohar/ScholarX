@@ -1,0 +1,291 @@
+{
+  "scholarship_id": "SCH-OC-018",
+  "basic_details": {
+    "scholarship_name": "University of Auckland International Student Excellence Scholarship",
+    "offering_entity": "University of Auckland (Auckland, New Zealand)",
+    "host_country": "New Zealand",
+    "host_institutions_covered": "University of Auckland Campuses: City Campus, Grafton Campus, and Newmarket Campus (Auckland, New Zealand)",
+    "degree_levels": [
+      "Bachelor of Science / Engineering (BS / BE)",
+      "Master of Science / Engineering (MS / ME)",
+      "Postgraduate Diploma (PGDip)"
+    ],
+    "major_restrictions": "Open to high-achieving international students enrolling in full-time undergraduate or postgraduate taught/research programs: Faculty of Science (Computer Science, Data Science, Artificial Intelligence), Faculty of Engineering (Software Engineering, Electrical and Electronic Engineering, Civil Engineering), Faculty of Medical and Health Sciences, and Auckland Business School.",
+    "number_of_awards_total": "Up to 50 prestigious International Student Excellence Scholarships awarded annually (across two biannual rounds)",
+    "number_of_awards_pakistan": "Open international competition; high-performing Pakistani students in computer science, software engineering, and business analytics represent an active cohort (typically 3 to 6 awardees/yr)",
+    "funding_classification": "PARTIALLY_FUNDED",
+    "duration_of_scholarship": "One-year tuition fee credit of up to NZD 10,000 paid towards compulsory international tuition fees in the first year of study"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International students who are not citizens, permanent residents, or resident visa holders of New Zealand or Australia"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restrictions.",
+    "academic_qualifications": "For Undergraduate: Completed Pakistani Higher Secondary School Certificate (HSSC / Intermediate) with minimum 85% marks or Cambridge A-Levels with minimum AAA/AAB (or equivalent 12 years education with high distinction). For Postgraduate: Completed 4-year Bachelor's degree (16 years education) with minimum 3.60 / 4.00 CGPA (or GPE of 6.00 / 9.00 on Auckland scale) from an HEC-recognized university in Pakistan.",
+    "minimum_gpa_percentage": 82.0,
+    "minimum_gpa_scale": 3.6,
+    "grading_conversion_notes": "Evaluated against University of Auckland Grade Point Equivalent (GPE) scale: minimum GPE of 6.00 out of 9.00 (equivalent to B+ to A- average) required for scholarship consideration.",
+    "subject_background_prerequisites": "Strong background in Mathematics, Computing, Physics, or relevant discipline for engineering and science faculties.",
+    "current_education_status": "Must have received an unconditional offer of admission or conditional offer of admission to the University of Auckland.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not required; selection is primarily academic merit and personal statement based.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 90,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic overall min 6.5 (all bands 6.0+); TOEFL iBT min 90 (writing 21); or PTE Academic min 58 (50 in skills). English Medium of Instruction certificates are not accepted."
+    },
+    "other_language_requirements": "None; all coursework and examinations are in English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "New international students commencing full-time undergraduate or postgraduate study.",
+    "previous_scholarship_restrictions": "Cannot combine with another University of Auckland tuition fee scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "PARTIALLY_COVERED",
+      "details": "Tuition fee credit of up to NZD 10,000 (~PKR 1,700,000) applied directly towards compulsory first-year international tuition fees (annual tuition is ~NZD 42,000 to 50,000).",
+      "amount": "Up to NZD 10,000 tuition reduction (~PKR 1,700,000 value)"
+    },
+    "admission_application_fee": {
+      "status": "100% WAIVED",
+      "details": "University of Auckland charges no application fee for international direct online applications.",
+      "amount": "NZD 0 (Free application)"
+    },
+    "accommodation": {
+      "status": "NOT_COVERED",
+      "details": "Accommodation is self-funded; guaranteed place in university student residences (Carlaw Park Student Village, O'Rorke Hall, Grafton Hall) costing ~NZD 280 to 450/week (~PKR 48,000 to 76,000/wk).",
+      "amount": "Self-funded (~NZD 14,000 to 18,000 / year)"
+    },
+    "monthly_stipend": {
+      "status": "NOT_COVERED",
+      "details": "Scholarship does not provide a monthly living stipend; living expenses are self-funded by student (students can work part-time up to 20 hrs/week on student visa).",
+      "amount": "NZD 0 (Self-funded living)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Round-trip airfare between Pakistan and Auckland International Airport (AKL) is self-funded by student.",
+      "amount": "Self-funded (~PKR 250,000 to 380,000 round-trip value)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "New Zealand Student Visa application fee (NZD 430) paid to Immigration New Zealand.",
+      "amount": "NZD 430 (~PKR 73,000)"
+    },
+    "health_insurance": {
+      "status": "SUBSIDIZED",
+      "details": "Comprehensive Studentsafe-University international student health and travel insurance required (~NZD 750/year; ~PKR 127,500/year).",
+      "amount": "Self-funded (~NZD 750 / year)"
+    },
+    "food_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Self-funded; student groceries and campus dining average NZD 120 to 180 per week (~PKR 20,000 to 30,000/wk).",
+      "amount": "Self-funded"
+    },
+    "books_and_materials_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Textbooks and personal computer equipment are self-funded.",
+      "amount": "Self-funded (~NZD 1,000 / year)"
+    },
+    "research_funding_conference_grant": {
+      "status": "NOT_APPLICABLE",
+      "details": "For coursework/undergraduate students; postgraduate research students may access faculty conference travel grants.",
+      "amount": "Not included in scholarship package"
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Auckland AT HOP transport card transit is self-funded (tertiary student discount available on buses, trains, and ferries).",
+      "amount": "Self-funded (~NZD 100 / month; ~PKR 17,000 / mo)"
+    },
+    "total_estimated_value_usd_per_year": 8000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single top-ranked national institution: University of Auckland (Auckland, New Zealand)",
+    "participating_institutions": [
+      "University of Auckland - City Campus (Auckland Central)",
+      "University of Auckland - Grafton Campus (Medical and Health Sciences)",
+      "University of Auckland - Newmarket Campus (Engineering and Science Research)"
+    ],
+    "university_rankings_scope": "Ranked #65 globally in QS World University Rankings 2024/2025; ranked #1 university in New Zealand. Outstanding global reputation for computer science, software engineering, and data science.",
+    "available_majors": [
+      "Faculty of Science: Computer Science, Data Science, Information Systems, Mathematics, Statistics",
+      "Faculty of Engineering: Software Engineering, Computer Systems Engineering, Electrical and Electronic Engineering",
+      "Auckland Business School: Master of Business Analytics, Master of Information Technology, Master of Commerce",
+      "Faculty of Medical and Health Sciences: Biomedical Science, Pharmacology, Public Health",
+      "Faculty of Science: Environmental Science, Biological Sciences, Chemistry"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Undergraduate (BS/BE): 3 to 4 years; Master (Taught/Research): 1 to 2 years; PGDip: 1 year.",
+    "admission_requirements_summary": "Intermediate 85%+ or Bachelor's with 3.6+ CGPA (GPE 6.0+), unconditional/conditional admission offer to Auckland, 500-word personal statement, 1 referee letter, and IELTS 6.5.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Master of Information Technology and Master of Business Analytics have very high application numbers; Faculty of Science MSc programs offer competitive scholarship selection margins.",
+    "strategic_program_match_advice": "Applicants MUST apply for university admission first and obtain an Auckland Student ID number before applying for the scholarship. The scholarship application requires a compelling 500-word statement explaining how studying at Auckland will impact your career and home country."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.auckland.ac.nz/en/study/applications-and-admissions.html",
+    "portal_system_name": "University of Auckland Online Admissions Portal & Scholarships Application System",
+    "account_creation_instructions": "Submit direct online application for degree admission via Auckland portal, receive Auckland Student ID Number and Offer of Admission, then apply for the scholarship via the dedicated Scholarships Portal.",
+    "step_by_step_workflow": [
+      "Step 1 (August - October): Submit online application for admission to preferred undergraduate or postgraduate degree program at University of Auckland.",
+      "Step 2 (September - October): Receive conditional or unconditional Offer of Admission and official 9-digit Auckland Student ID number.",
+      "Step 3 (10 October): Scholarship application portal opens; log in to the Scholarships Application Portal using Auckland Student ID credentials.",
+      "Step 4 (October - November): Complete scholarship form, write 500-word personal statement, provide academic referee contact details, and upload transcripts.",
+      "Step 5 (By 21 November): Submit scholarship application before official closing date.",
+      "Step 6 (December): University of Auckland Scholarships Selection Committee assesses applications based on academic GPA and personal statement.",
+      "Step 7 (Mid-January): Scholarship award notifications issued via email; recipients accept offer within 14 days.",
+      "Step 8 (January): Apply for New Zealand Student Visa via Immigration New Zealand (INZ) online portal; book flights to Auckland.",
+      "Step 9 (Late February): Travel to Auckland, attend international student orientation, check into university accommodation, and begin Semester 1."
+    ],
+    "university_vs_scholarship_routing": "Two-stage sequential application: Admission application must be lodged first to generate Student ID; scholarship application is submitted through separate scholarships portal.",
+    "recommendation_letters_submission_method": "One academic referee contact provided in portal; referee receives automated link to upload recommendation.",
+    "personal_statement_prompts": "Personal Statement (500 words): Outline your academic goals, why you chose the University of Auckland, how this scholarship will assist your studies, and your future career plans.",
+    "study_plan_research_proposal_requirements": "Not required for undergraduate or taught master's applicants; research master's applicants upload 1-2 page research outline.",
+    "cv_format_requirements": "Standard academic CV outlining educational history, academic distinctions, extracurricular leadership, and community service.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interview required; selection is strictly based on academic GPA and quality of personal statement.",
+    "standardized_tests": "IELTS Academic 6.5 (all bands 6.0+) or TOEFL iBT 90 (writing 21) or PTE 58. GRE not required.",
+    "application_fee_amount": "NZD 0 (Free application for international students)",
+    "attestation_requirements": "Attestation by IBCC/HEC and MOFA Pakistan, accompanied by certified verified copies.",
+    "translation_requirements": "Certified official English translations for any documents not in English.",
+    "final_submission_method": "100% digital submission via the University of Auckland scholarships application portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color scan of passport bio-data page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Ensure clear color scan of Pakistani machine-readable passport."
+    },
+    {
+      "document_name": "University of Auckland Offer of Admission",
+      "mandatory": true,
+      "specification": "Official conditional or unconditional Offer of Place letter showing Auckland Student ID.",
+      "pakistan_specific_instruction": "Mandatory prerequisite; cannot access scholarship form without active student ID."
+    },
+    {
+      "document_name": "Official Academic Transcripts and Certificates",
+      "mandatory": true,
+      "specification": "Certified transcripts showing all semesters, grades, grading scale, and degree completion certificates.",
+      "pakistan_specific_instruction": "Attested by Higher Education Commission (HEC) or IBCC and MOFA Pakistan."
+    },
+    {
+      "document_name": "Personal Statement (500 words)",
+      "mandatory": true,
+      "specification": "Structured statement detailing academic goals, reasons for choosing Auckland, and future plans.",
+      "pakistan_specific_instruction": "Demonstrate clear connection between your studies and potential contributions to Pakistan/society."
+    },
+    {
+      "document_name": "Academic Referee Endorsement",
+      "mandatory": true,
+      "specification": "Confidential recommendation submitted directly by academic referee via portal.",
+      "pakistan_specific_instruction": "Must be on institutional letterhead with official institutional email address."
+    },
+    {
+      "document_name": "English Language Proficiency Test Scorecard",
+      "mandatory": true,
+      "specification": "Official IELTS Academic, TOEFL iBT, or PTE Academic scorecard dated within 2 years.",
+      "pakistan_specific_instruction": "Direct electronic score dispatch through testing agency portal."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "10 October 2026 (Round 1 for Semester 1) / 9 March 2027 (Round 2 for Semester 2)",
+    "application_deadline": "21 November 2026 (Round 1) / 20 April 2027 (Round 2)",
+    "university_admission_deadline": "15 October 2026 (to ensure offer is issued before scholarship close)",
+    "document_submission_deadline": "21 November 2026",
+    "recommendation_letters_deadline": "28 November 2026",
+    "interview_period": "Not applicable (Document review)",
+    "shortlist_announcement": "Mid-January 2027 (Round 1) / Early June 2027 (Round 2)",
+    "final_result_acceptance_deadline": "Within 14 days of offer notification",
+    "visa_application_window": "January to February 2027",
+    "semester_commencement": "Late February / Early March 2027 (Semester 1)",
+    "annual_cycle_notes": "Biannual scholarship intake: Round 1 closes in November for Semester 1 (Feb); Round 2 closes in April for Semester 2 (July)."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "60% (Undergraduate/High School GPA converted to Auckland GPE scale)",
+    "extracurricular_and_leadership_weight": "10% (Community leadership, volunteerism, and extracurricular achievements)",
+    "research_experience_weight": "5% (For postgraduate applicants: prior projects or publications)",
+    "work_experience_weight": "5% (Professional experience in relevant industry)",
+    "personal_statement_weight": "15% (Quality, clarity, and persuasiveness of 500-word personal statement)",
+    "recommendations_weight": "5% (Strength of academic referee endorsement)",
+    "interview_weight": "0% (No interview required)",
+    "test_scores_weight": "Threshold requirement (IELTS 6.5 / TOEFL 90 compliance)",
+    "financial_need_weight": "0% (Purely merit-based scholarship)",
+    "selection_panel_composition": "University of Auckland Scholarships Committee chaired by Dean of Graduate Studies / Director of International.",
+    "evaluation_methodology": "Merit-based ranking: Applicants are ranked by Grade Point Equivalent (GPE) with top candidates (GPE >= 7.00 / 9.00, equivalent to A- or above) reviewed by the selection panel. The panel assesses personal statements for leadership potential and alignment with university values, selecting up to 50 awardees."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~800 to 1,200 international applicants across both biannual rounds",
+    "total_scholarships_awarded": "Up to 50 scholarships per year (NZD 10,000 each)",
+    "acceptance_rate_global": "~5.0%",
+    "acceptance_rate_pakistan": "~6.0% (Selective; awarded to high-achieving Pakistani intermediate board and university toppers)",
+    "typical_successful_applicant_gpa": "3.75+ / 4.00 CGPA (or 88%+ in Intermediate, GPE 7.50+ / 9.00)",
+    "typical_academic_and_research_profile": "Distinguished academic record, strong English scores (IELTS 7.0+), articulate personal statement outlining clear career vision, and active community involvement.",
+    "common_backgrounds_of_winners": "Graduates from NUST, FAST-NUCES, GIKI, LUMS, UET, and top intermediate colleges (BISE Lahore, FBISE) in computer science, software engineering, and business analytics.",
+    "high_representation_countries": "China, India, United States, Malaysia, Indonesia, Pakistan, Vietnam",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unauthorized commercial recruiters claiming to sell Auckland excellence scholarships. Scholarships are awarded strictly by the University of Auckland Scholarships Committee through academic merit."
+    ],
+    "application_fee_warning": "University of Auckland application for admission and scholarship is 100% free of charge. Never pay fees to private recruiters.",
+    "agent_and_intermediary_warnings": "Applications submitted through commercial agents must still contain the student's authentic personal statement; templated statements are penalized.",
+    "hidden_costs_breakdown": [
+      "Remaining tuition balance (NZD 32,000 to 40,000 / year; ~PKR 5,440,000 to 6,800,000/yr) must be covered by student.",
+      "Living and accommodation costs in Auckland (~NZD 20,000 to 25,000/year; ~PKR 3,400,000 to 4,250,000/yr).",
+      "New Zealand Student Visa fee (NZD 430; ~PKR 73,000).",
+      "Studentsafe mandatory health insurance (~NZD 750/year; ~PKR 127,500/yr)."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: The scholarship covers 100% of all expenses. (FACT: It is a partial tuition waiver of up to NZD 10,000 for the first year only; living and remaining fees are self-funded).",
+      "CLAIM: English requirement can be waived with an MOI letter. (FACT: Official IELTS, TOEFL, or PTE test report is strictly mandatory for Auckland admission)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some education portals market this as a full scholarship; official regulations confirm it is a one-off NZD 10,000 tuition fee reduction."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain continuous full-time enrollment and satisfactory academic progress in enrolled courses.",
+    "attendance_requirements": "Full-time physical on-campus attendance at Auckland lectures, tutorials, and laboratory sessions.",
+    "academic_progress_monitoring": "Semester-by-semester academic performance reviews conducted by faculty.",
+    "work_restrictions_during_study": "International students holding a New Zealand Student Visa are permitted to work up to 20 hours per week during term time and full-time during scheduled academic vacations.",
+    "home_country_return_obligation": "None. Graduates are eligible to apply for the New Zealand Post-Study Work Visa (up to 3 years work rights depending on degree qualification).",
+    "service_obligations_or_bonds": "Zero service bonds or repayment conditions.",
+    "repayment_clawback_conditions": "If recipient withdraws from study or transfers out of the university during the first year, the scholarship value must be repaid in full.",
+    "rules_for_changing_university": "Non-transferable to other New Zealand universities.",
+    "rules_for_changing_major": "Changing major or program within Auckland is permitted subject to approval by the Scholarships Office.",
+    "extension_policy": "Strictly a one-off first-year scholarship; non-renewable for subsequent academic years."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Auckland International Student Excellence Scholarship Official Portal",
+      "source_url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-international-student-excellence-scholarship-844-all.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Specific allocation ratio between undergraduate and postgraduate applicants across each round.",
+        "Exact numerical cutoff score on the GPE scale for final scholarship shortlisting.",
+        "Historical nationality-wise applicant and recipient numbers."
+      ]
+    },
+    {
+      "source_name": "University of Auckland International Student Admissions Guidelines",
+      "source_url": "https://www.auckland.ac.nz/en/study/international-students.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Waitlist fill rates for unaccepted scholarship offers.",
+        "Discretionary faculty top-up bursaries for high-ranking STEM applicants."
+      ]
+    }
+  ]
+}

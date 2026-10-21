@@ -1,0 +1,263 @@
+{
+  "scholarship_id": "SCH-EU-030",
+  "basic_details": {
+    "scholarship_name": "Clarendon Fund Scholarships",
+    "offering_entity": "University of Oxford & Oxford University Press",
+    "host_country": "United Kingdom",
+    "host_institutions_covered": "University of Oxford (all 44 Colleges and Permanent Private Halls)",
+    "degree_levels": [
+      "Master's (1 to 2 years: MPhil, MSc, BCL, MSt)",
+      "DPhil / PhD (3 to 4 years)"
+    ],
+    "major_restrictions": "Open to all graduate degree programs across all academic departments at Oxford (Humanities, Mathematical, Physical and Life Sciences, Medical Sciences, Social Sciences).",
+    "number_of_awards_total": "~200 new fully-funded scholarships awarded annually",
+    "number_of_awards_pakistan": "Open globally to all nationalities without quotas; dozens of Pakistani scholars have received Clarendon awards",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Full duration of the degree course: 1 to 2 years for Master's; up to 3 to 4 years for DPhil (Doctor of Philosophy)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to students of all nationalities (including Pakistan)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limits.",
+    "academic_qualifications": "Completed 16 years of education (Bachelor's) for Master's; 18 years (Master's) for DPhil with exceptional academic standing.",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.8,
+    "grading_conversion_notes": "Equivalent to an Oxford First Class Honours degree (minimum 3.80 / 4.00 CGPA or top 3% class standing).",
+    "subject_background_prerequisites": "Substantive academic excellence in the chosen discipline.",
+    "current_education_status": "Graduated or in final year of undergraduate or master's studies.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior academic publications, awards, and intellectual leadership heavily prioritized.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 7.5,
+      "toefl_minimum": 110,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "Must satisfy Oxford course English requirement (Higher Level: IELTS 7.5 with 7.0 in each component, TOEFL 110; Standard Level: IELTS 7.0, TOEFL 100)."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "Equal opportunity; diversity encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Automatic consideration: Every applicant who applies for a graduate degree by the December/January deadline is automatically evaluated.",
+    "previous_scholarship_restrictions": "Cannot hold another full funding package concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full course fees (University Composition Fee and College Fee) covered for the full duration of the degree.",
+      "amount": "£29,000 to £48,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Oxford graduate application fee (£75) paid by candidate (waivers available for low-income countries upon application).",
+      "amount": "£75"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered through living allowance.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Generous annual grant for living expenses aligned with UKRI minimum doctoral rates.",
+      "amount": "£19,237 / year (~£1,603 / month or ~PKR 580,000 / month)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International airfare to the UK is paid by student from living allowance or personal funds.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "UK student visa fee (£490) and Immigration Health Surcharge (~£776/year) paid by student.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "ACCESSIBLE_VIA_IHS",
+      "details": "Access to UK National Health Service (NHS) upon payment of Immigration Health Surcharge.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly living stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "College book grants and departmental laboratory resources provided.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "College and departmental research travel grants available for conference attendance.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Personal responsibility.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 68000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: University of Oxford (World Top 3).",
+    "participating_institutions": [
+      "University of Oxford (Christ Church, Balliol, Magdalen, New College, St John's, Nuffield, Exeter, all 44 colleges)"
+    ],
+    "university_rankings_scope": "Times Higher Education World #1; QS World Rank #3.",
+    "available_majors": [
+      "Computer Science, Artificial Intelligence, Mathematics, Theoretical Physics, Engineering Science, Clinical Medicine, Pharmacology, Biochemistry, Law (BCL), Economics, Public Policy (MPP), International Relations, Philosophy, History"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 to 2 years for Master's; 3 to 4 years for DPhil",
+    "admission_requirements_summary": "No separate scholarship application is required. Simply apply for your chosen graduate course by the relevant December or January deadline.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Admissions are decided by academic departments; colleges then match admitted scholars.",
+    "strategic_program_match_advice": "Focus all energy on academic excellence, writing sample quality, and strong research proposal matching faculty strengths."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.ox.ac.uk/clarendon",
+    "portal_system_name": "University of Oxford Graduate Application Portal",
+    "account_creation_instructions": "Register on the Oxford Graduate Application System, select your degree course, upload academic dossier, and submit by the course deadline.",
+    "step_by_step_workflow": [
+      "1. Choose graduate course and verify the relevant scholarship deadline (Friday, December 1 or Friday, January 8 depending on course).",
+      "2. Prepare Statement of Purpose, academic transcripts, writing samples, and CV.",
+      "3. Secure three academic reference letters submitted directly by referees.",
+      "4. Submit online graduate application before the deadline.",
+      "5. Academic departments assess applications and nominate their top candidates for Clarendon in February.",
+      "6. Clarendon selection panels review nominations and issue award letters in March/April."
+    ],
+    "university_vs_scholarship_routing": "Fully automatic: Applying for the degree automatically enters you into consideration.",
+    "recommendation_letters_submission_method": "Submitted online by three academic referees via secure Oxford portal link.",
+    "personal_statement_prompts": "Statement of Purpose detailing academic motivations, research questions, and reasons for choosing Oxford.",
+    "study_plan_research_proposal_requirements": "Detailed research proposal (for DPhil and research master's) detailing methodology and scientific relevance.",
+    "cv_format_requirements": "Academic CV detailing qualifications, academic prizes, publications, and relevant research experience.",
+    "interviews_conducted": true,
+    "interview_format_details": "Many Oxford departments (e.g. Computer Science, Engineering, Medicine) conduct 20-30 minute academic video interviews before admission.",
+    "standardized_tests": "GRE required only by Economics and Said Business School courses; English test required.",
+    "application_fee_amount": "£75.",
+    "attestation_requirements": "Certified transcripts; HEC attestation required for visa.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "100% Online via Oxford Graduate Application Portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Statement of Purpose",
+      "mandatory": true,
+      "specification": "Academic statement detailing motivation and preparation for the course",
+      "pakistan_specific_instruction": "Demonstrating intellectual rigor and analytical ability"
+    },
+    {
+      "document_name": "Academic Transcripts & Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts showing all courses and marks",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "Three Academic Reference Letters",
+      "mandatory": true,
+      "specification": "Confidential reports from former professors assessing academic ability",
+      "pakistan_specific_instruction": "From professors who taught your BS/MS courses in Pakistan"
+    },
+    {
+      "document_name": "Writing Sample / Research Proposal",
+      "mandatory": true,
+      "specification": "Essays or scientific papers demonstrating original analytical capability",
+      "pakistan_specific_instruction": "Published research papers or undergraduate thesis chapters"
+    },
+    {
+      "document_name": "English Proficiency Test Score",
+      "mandatory": true,
+      "specification": "IELTS Academic (7.5+) or TOEFL iBT (110+)",
+      "pakistan_specific_instruction": "Meeting Oxford course threshold"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-09-01",
+    "application_deadline": "2027-01-08",
+    "university_admission_deadline": "2027-01-08",
+    "document_submission_deadline": "2027-01-08",
+    "recommendation_letters_deadline": "2027-01-08",
+    "interview_period": "January to February 2027",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-04-15",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "October 2027 (Michaelmas Term)",
+    "annual_cycle_notes": "Strict deadline is the relevant January course deadline (usually the first or second Friday in January). Results issued in March."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "50% (Academic excellence, first-class honours standing, GPA, class rank)",
+    "extracurricular_and_leadership_weight": "5% (Secondary)",
+    "research_experience_weight": "25% (Quality of research proposal, writing sample, and research output)",
+    "work_experience_weight": "0%",
+    "personal_statement_weight": "10% (Clarity of intellectual purpose)",
+    "recommendations_weight": "10% (Strength of academic referee ratings)",
+    "interview_weight": "Conducted by departmental admissions committee",
+    "test_scores_weight": "Language threshold required",
+    "financial_need_weight": "0% (Purely merit-based; no financial assessment)",
+    "selection_panel_composition": "Academic departmental selection panels and the central Clarendon Fund Selection Committee.",
+    "evaluation_methodology": "Sole selection criterion is outstanding academic merit and intellectual potential."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~30,000+ graduate applicants across the University of Oxford",
+    "total_scholarships_awarded": "~200 Clarendon scholarships awarded annually",
+    "acceptance_rate_global": "~0.7% across all applicants",
+    "acceptance_rate_pakistan": "~0.5% (Extremely Selective)",
+    "typical_successful_applicant_gpa": "3.85 to 4.00 CGPA (Top 1% of graduating class)",
+    "typical_academic_and_research_profile": "Top-of-class graduates with exceptional analytical writing samples, conference publications, and stellar faculty endorsements.",
+    "common_backgrounds_of_winners": "Top graduates of Pakistani universities (LUMS, NUST, Quaid-i-Azam, IBA) enrolled in DPhil and master's courses.",
+    "high_representation_countries": "Global distribution across UK, USA, China, Germany, Pakistan, India, Canada.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Websites claiming to sell 'Clarendon scholarship application forms'; no separate form exists."
+    ],
+    "application_fee_warning": "Pay only the £75 university application fee on the official Oxford portal.",
+    "agent_and_intermediary_warnings": "Oxford does not work with agents; apply directly on the online portal.",
+    "hidden_costs_breakdown": [
+      "Oxford graduate application fee (£75).",
+      "UK student visa fee (£490) + Immigration Health Surcharge (~£776/year).",
+      "International flights to the UK (~PKR 250,000 to 350,000)."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You need a separate application form for Clarendon. (Fact: There is NO separate form; you are automatically considered when applying by the January deadline).",
+      "MYTH: Only PhD students get Clarendon. (Fact: Both Master's and DPhil students are eligible and receive awards)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "External blogs state Clarendon covers flights and visas; officially, Clarendon covers full tuition and living stipend, but NOT flights or visas."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic performance in accordance with Oxford University regulations.",
+    "attendance_requirements": "Full-time physical residence within the statutory residency limits of Oxford.",
+    "academic_progress_monitoring": "Termly reports submitted by academic supervisor via the Graduate Supervision Reporting (GSR) system.",
+    "work_restrictions_during_study": "Oxford University policy strictly limits full-time graduate students from working more than 8 hours per week during term-time.",
+    "home_country_return_obligation": "None; scholars are eligible for the UK Graduate Route work visa (2 years for Master's, 3 years for DPhil).",
+    "service_obligations_or_bonds": "None; active participation in the Clarendon Scholars' Association.",
+    "repayment_clawback_conditions": "Funding terminated upon failure of progress reviews or voluntary withdrawal.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Requires approval from the academic department and the Clarendon Fund.",
+    "extension_policy": "Funding is provided for the standard fee liability period of the course."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Oxford - Clarendon Fund Official Portal",
+      "source_url": "https://www.ox.ac.uk/clarendon",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Departmental quota distribution between humanities and STEM faculties",
+        "Internal ranking score conversion rubrics"
+      ]
+    }
+  ]
+}

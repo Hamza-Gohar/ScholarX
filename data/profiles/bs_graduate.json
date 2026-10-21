@@ -1,0 +1,145 @@
+{
+  "student_id": "std-pk-bs-003",
+  "session_id": "sess-demo-003",
+  "personal": {
+    "name": "Muhammad",
+    "nationality": "PK",
+    "country_of_residence": "PK",
+    "city": "Karachi",
+    "province": "Sindh",
+    "age": 23,
+    "date_of_birth": "2003-05-10",
+    "gender": "Male",
+    "cnic": "42101-5554443-1",
+    "passport_number": "EF9876543",
+    "passport_valid_until": "2033-04-10"
+  },
+  "academic": {
+    "current_level": "Bachelor's / BS / BE / BBA",
+    "education_system": "Pakistani",
+    "years_of_education": 16,
+    "field_of_study": "Computer Science",
+    "board_university": "National University of Sciences and Technology (NUST), Islamabad",
+    "gpa_percentage": 84.0,
+    "gpa_4_scale": 3.75,
+    "uk_classification": "First Class Honours (1st)",
+    "institution": "SEECS NUST",
+    "graduation_year": 2025,
+    "subjects": [
+      "Machine Learning",
+      "Operating Systems",
+      "Computer Vision",
+      "Algorithm Design"
+    ],
+    "relevant_courses": [
+      "Deep Learning",
+      "Natural Language Processing",
+      "Cloud Computing"
+    ],
+    "gap_years": 0,
+    "hec_attestation_done": true,
+    "ibcc_equivalence_done": false
+  },
+  "language": {
+    "english_proficiency_test": "IELTS",
+    "ielts_overall": 7.5,
+    "ielts_subbands": {
+      "L": 8.0,
+      "R": 8.0,
+      "W": 7.0,
+      "S": 7.0
+    },
+    "toefl_score": null,
+    "duolingo_score": null,
+    "medium_of_instruction_english": true,
+    "moi_certificate_available": true,
+    "native_languages": [
+      "Urdu",
+      "Sindhi"
+    ],
+    "has_english_test": true
+  },
+  "standardized_tests": {
+    "hec_hat": 88.0,
+    "hec_usat": null,
+    "gre": 320,
+    "sat": null,
+    "gat_general": 85.0,
+    "gat_subject": null,
+    "nts_nat": null
+  },
+  "preferences": {
+    "target_degree_level": "Master's",
+    "target_fields": [
+      "Artificial Intelligence",
+      "Data Science",
+      "Computer Vision"
+    ],
+    "funding_requirement": "FULL",
+    "budget_tier": "MODERATE",
+    "max_out_of_pocket_pkr": 300000,
+    "willing_to_relocate": true,
+    "preferred_regions": [
+      "Europe",
+      "Americas",
+      "MENA",
+      "Asia"
+    ],
+    "excluded_regions": [],
+    "constraints": []
+  },
+  "documents": {
+    "transcript": {
+      "uploaded": true,
+      "quality": "EXCELLENT",
+      "confidence": 0.99,
+      "filename": "NUST_BS_Official_Transcript.pdf"
+    },
+    "cv": {
+      "uploaded": true,
+      "quality": "EXCELLENT",
+      "confidence": 0.98,
+      "filename": "Bilal_Ahmed_Academic_CV.pdf"
+    },
+    "passport": {
+      "uploaded": true,
+      "quality": "EXCELLENT",
+      "confidence": 0.99,
+      "filename": "Passport_Bilal.pdf"
+    },
+    "ielts_certificate": {
+      "uploaded": true,
+      "quality": "EXCELLENT",
+      "confidence": 0.99,
+      "filename": "IELTS_Score_Card.pdf"
+    },
+    "motivation_letter": {
+      "uploaded": true,
+      "quality": "GOOD",
+      "confidence": 0.95,
+      "filename": "SOP_Master_AI.pdf"
+    },
+    "recommendation_letters_count": 3,
+    "financial_documents": {
+      "uploaded": false
+    },
+    "police_clearance": {
+      "uploaded": false
+    },
+    "medical_certificate": {
+      "uploaded": false
+    },
+    "hec_attestation": {
+      "uploaded": true,
+      "quality": "EXCELLENT",
+      "confidence": 0.99
+    },
+    "ibcc_equivalence": {
+      "uploaded": false
+    }
+  },
+  "profile_completeness": 95,
+  "missing_required": [],
+  "missing_optional": [],
+  "extraction_warnings": []
+}

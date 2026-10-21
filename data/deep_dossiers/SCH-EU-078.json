@@ -1,0 +1,286 @@
+{
+  "scholarship_id": "SCH-EU-078",
+  "basic_details": {
+    "scholarship_name": "University of Bristol Think Big Postgraduate Scholarship",
+    "offering_entity": "University of Bristol (International Office)",
+    "host_country": "United Kingdom",
+    "host_institutions_covered": "University of Bristol (Clifton Campus, Bristol)",
+    "degree_levels": [
+      "Master of Science (MSc / MA / LLM)"
+    ],
+    "major_restrictions": "All full-time one-year postgraduate taught master's programmes across Bristol faculties (Computer Science, Data Science, Engineering, Economics, Public Policy, Life Sciences).",
+    "number_of_awards_total": "~100 to 150 Think Big postgraduate awards (tuition fee waivers of GBP 6,500, GBP 13,000, and up to GBP 26,000) annually",
+    "number_of_awards_pakistan": "Open globally; approximately 6 to 12 Pakistani master's students secure Think Big scholarships each academic year",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "12 months (1-year full-time taught master's degree)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Overseas fee-paying international students from all countries including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction under University of Bristol admissions policies.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (16-year BS / BSc / BE) from an HEC-recognized university with high upper second-class or first-class honors (minimum CGPA 3.30 / 4.00 or 75%+).",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Minimum CGPA 3.30 / 4.00; competitive candidates for the top GBP 26,000 award typically hold CGPA >= 3.65 / 4.00.",
+    "subject_background_prerequisites": "Must hold an offer (conditional or unconditional) for an eligible full-time postgraduate taught master's programme at the University of Bristol.",
+    "current_education_status": "Graduated or enrolled in final undergraduate year graduating prior to September 2027.",
+    "graduation_year_restrictions": "No restriction on graduation year.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Relevant internships, community leadership, or social initiatives provide valuable material for the three scholarship essay questions.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 (minimum 6.0 in all bands) or TOEFL iBT minimum 90 (no band below 20). MOI certificates are not accepted by Bristol.",
+    "other_language_requirements": "Instruction is 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must demonstrate exceptional potential to be a global ambassador and contribute to Bristol's vibrant student community.",
+    "previous_scholarship_restrictions": "Cannot be combined with another full UK government scholarship (e.g. Chevening or Commonwealth).",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "Full tuition fee waiver up to GBP 26,000 (covers 100% of most master's programmes; remaining tuition covered via departmental bursary).",
+      "amount": "Up to GBP 26,000 Tuition Waiver"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Applying for most postgraduate taught programmes at Bristol is free of charge via the online application system.",
+      "amount": "GBP 0"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Priority access to University of Bristol postgraduate residences across Clifton and city centre.",
+      "amount": "Subsidized student residence priority"
+    },
+    "monthly_stipend": {
+      "status": "SUBSIDIZED",
+      "details": "GBP 500 / month living stipend (~PKR 185,000 / month) provided through Think Big living bursaries (GBP 3,000 to GBP 6,000 total per academic year).",
+      "amount": "GBP 500 / month (~PKR 185,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel between Pakistan and Bristol is self-funded.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "UK Student Visa fee (~GBP 490) and Immigration Health Surcharge (~GBP 776/year) covered by student.",
+      "amount": "UK Visa & IHS fees borne by candidate"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full access to the UK National Health Service (NHS) throughout the duration of the master's programme.",
+      "amount": "100% NHS Healthcare access"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized student cafeterias across Bristol campus and shared self-catering residence kitchens.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full digital access to Bristol University Library system and online academic journals.",
+      "amount": "Full university library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Access to high-performance computing facilities (BlueCrystal supercomputer) and engineering labs.",
+      "amount": "Full lab & computing cluster access"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized student bus travel in Bristol via First Bus student passes and 16-25 Railcard discount.",
+      "amount": "Subsidized Bristol student transit"
+    },
+    "total_estimated_value_usd_per_year": 33000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (University of Bristol, Bristol, UK).",
+    "participating_institutions": [
+      "University of Bristol"
+    ],
+    "university_rankings_scope": "World top 55 university (QS World University Rankings 2025); Russell Group member.",
+    "available_majors": [
+      "MSc in Computer Science (Conversion)",
+      "MSc in Data Science",
+      "MSc in Financial Technology (FinTech)",
+      "MSc in Advanced Mechanical Engineering",
+      "MSc in Public Policy",
+      "MSc in Economics and Finance"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 year (12 months full-time, 180 credits)",
+    "admission_requirements_summary": "Bachelor degree with CGPA >= 3.30 / 4.00, IELTS 6.5+ or TOEFL 90+, Bristol admission offer, and completed Think Big scholarship essay form.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Must hold an offer (conditional or unconditional) for a master's programme at Bristol before applying for Think Big.",
+    "strategic_program_match_advice": "Focus scholarship essay on concrete examples of initiative and how you will give back as a Bristol ambassador."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.bristol.ac.uk/study/postgraduate/apply/",
+    "portal_system_name": "University of Bristol Online Application Portal & Think Big Form",
+    "account_creation_instructions": "Step 1: Apply for an eligible master's programme at Bristol. Step 2: Receive 9-digit Bristol student ID. Step 3: Complete the online Think Big scholarship application form answering the three prescribed essay questions before April 26.",
+    "step_by_step_workflow": [
+      "Step 1: Research eligible one-year taught master's programmes at Bristol and submit course application.",
+      "Step 2: Receive your 9-digit University of Bristol student ID number upon course application submission.",
+      "Step 3: Access the Think Big Postgraduate Scholarship online form on the Bristol International website.",
+      "Step 4: Answer the three scholarship essay prompts (200 words each): (1) Special attributes/achievements, (2) Future plans, (3) Contribution to Bristol community.",
+      "Step 5: Submit the Think Big application before the deadline (Round 1: February 26, Round 2: April 26).",
+      "Step 6: Selection panel evaluates applications and scores essays.",
+      "Step 7: Scholarship decisions communicated by late May.",
+      "Step 8: Accept scholarship award within the specified deadline and initiate UK Student Visa application."
+    ],
+    "university_vs_scholarship_routing": "Separate Routing: Candidates must first apply for master's admission, then submit the Think Big scholarship application form using their student ID.",
+    "recommendation_letters_submission_method": "Submitted as part of the initial course application via referee upload link.",
+    "personal_statement_prompts": "Three specific 200-word questions: (1) Outline any special attributes or achievements, (2) How will your chosen course help you achieve future goals, (3) How will you contribute to the University of Bristol community.",
+    "study_plan_research_proposal_requirements": "Integrated within the course personal statement.",
+    "cv_format_requirements": "Standard academic CV submitted with the course application.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interviews; decisions are made exclusively on academic credentials and the three Think Big essay answers.",
+    "standardized_tests": "IELTS Academic 6.5+ (min 6.0 each) or TOEFL iBT 90+ (min 20 each).",
+    "application_fee_amount": "GBP 0 (free to apply for most courses and free for scholarship)",
+    "attestation_requirements": "HEC degree attestation required for Pakistani applicants.",
+    "translation_requirements": "Certified English translation for all official records.",
+    "final_submission_method": "Online submission via University of Bristol Think Big application form."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor Degree Certificate",
+      "mandatory": true,
+      "specification": "HEC-attested undergraduate degree in relevant academic field (minimum CGPA 3.30 / 4.00).",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts of undergraduate records showing all course marks and grades.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Bristol Master's Application / Offer Letter",
+      "mandatory": true,
+      "specification": "Proof of application or offer letter containing 9-digit Bristol student ID.",
+      "pakistan_specific_instruction": "Issued by Bristol Admissions."
+    },
+    {
+      "document_name": "Three Think Big Scholarship Essays",
+      "mandatory": true,
+      "specification": "Answers to the three mandatory 200-word questions explaining achievements, career goals, and community contribution.",
+      "pakistan_specific_instruction": "Strict 200-word limit per question."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Academic CV detailing qualifications, coding projects, and extracurriculars.",
+      "pakistan_specific_instruction": "Clear layout."
+    },
+    {
+      "document_name": "Academic Letter of Recommendation",
+      "mandatory": true,
+      "specification": "Recommendation letter from university professor submitted with course application.",
+      "pakistan_specific_instruction": "On official institutional letterhead."
+    },
+    {
+      "document_name": "English Language Test Scorecard",
+      "mandatory": true,
+      "specification": "Official IELTS (min 6.5) or TOEFL iBT (min 90) test certificate.",
+      "pakistan_specific_instruction": "Valid test score report."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-01",
+    "application_deadline": "2027-04-26",
+    "university_admission_deadline": "2027-04-15",
+    "document_submission_deadline": "2027-04-26",
+    "recommendation_letters_deadline": "2027-04-26",
+    "interview_period": "None (No interviews conducted)",
+    "shortlist_announcement": "Late May 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "June to August 2027",
+    "semester_commencement": "2027-09-20",
+    "annual_cycle_notes": "Think Big operates two application rounds: Round 1 closes February 26; Round 2 closes April 26 (10:00 AM UK time)."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Undergraduate CGPA and academic transcript excellence)",
+    "extracurricular_and_leadership_weight": "20% (Community leadership and extracurricular initiative in Essay 1)",
+    "research_experience_weight": "10% (Technical capability and project background)",
+    "work_experience_weight": "5% (Internships or employment history)",
+    "personal_statement_weight": "25% (Quality of vision and community contribution in Essays 2 and 3)",
+    "recommendations_weight": "0% (Verification of credentials)",
+    "interview_weight": "0% (No interview conducted)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Need-blind merit evaluation)",
+    "selection_panel_composition": "University of Bristol International Scholarships Committee and Faculty Representatives.",
+    "evaluation_methodology": "Scoring rubric assessing intellectual merit, future ambition, and capacity to act as a global ambassador."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,000 to 4,500 international applicants for Think Big scholarships",
+    "total_scholarships_awarded": "~100 to 150 awards across postgraduate programmes",
+    "acceptance_rate_global": "~3.5%",
+    "acceptance_rate_pakistan": "~4% to 6% among applicants holding strong GPAs and compelling essays",
+    "typical_successful_applicant_gpa": "3.60 / 4.00 (Upper Second Class Honours or First Class equivalent)",
+    "typical_academic_and_research_profile": "Graduates across STEM, business, and humanities with solid academic records and dedicated social or community involvement.",
+    "common_backgrounds_of_winners": "Graduates from NUST, LUMS, FAST-NUCES, IBA Karachi, and UET Lahore.",
+    "high_representation_countries": "Pakistan, India, Nigeria, Malaysia, Kenya, Indonesia, Ghana.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through the official University of Bristol portal https://www.bristol.ac.uk/.",
+      "Never pay any fee to agents claiming to secure Think Big scholarships."
+    ],
+    "application_fee_warning": "Applying for Think Big is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Bristol explicitly states that scholarship essays must be the applicant's own work; agency-written generic essays are penalized.",
+    "hidden_costs_breakdown": [
+      "Application fee: GBP 0 (Free).",
+      "UK Student Visa application fee: ~GBP 490 (~PKR 180,000).",
+      "Immigration Health Surcharge (IHS): ~GBP 776 (~PKR 290,000).",
+      "Bristol rental deposit: ~GBP 600 - 900 (~PKR 225,000 - 340,000).",
+      "Flight from Pakistan to London/Bristol: ~PKR 150,000 to 220,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You need to be a First Class student to apply. Reality: Students holding strong 2:1 equivalency (CGPA 3.3+) with outstanding essay answers frequently win awards.",
+      "Myth: The scholarship covers all living costs. Reality: The main award is a tuition fee waiver; additional living bursaries (GBP 3,000) provide valuable support but students should plan for remaining maintenance."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sources claim essays have no word count limit; Bristol strictly enforces a 200-word limit per essay question, with excess words penalized."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic performance throughout the master's programme.",
+    "attendance_requirements": "Full-time study attendance; scholars must agree to participate in international student promotional activities and ambassador events.",
+    "academic_progress_monitoring": "Term-by-term academic progress monitoring by the faculty.",
+    "work_restrictions_during_study": "Part-time work permitted up to 20 hours per week during term time under UK Student Visa rules.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Act as a Think Big Student Ambassador during the year of study.",
+    "repayment_clawback_conditions": "Revocation of award if student withdraws from programme or engages in disciplinary breach.",
+    "rules_for_changing_university": "Non-transferable to other UK universities.",
+    "rules_for_changing_major": "Subject change allowed only within eligible Bristol postgraduate taught programmes with faculty approval.",
+    "extension_policy": "Strictly limited to the 1-year duration of the postgraduate taught master's programme."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Bristol Think Big Scholarships Portal",
+      "source_url": "https://www.bristol.ac.uk/international/fees-finance/scholarships/think-big-postgraduate/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "University of Bristol Postgraduate Admissions",
+      "source_url": "https://www.bristol.ac.uk/study/postgraduate/apply/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

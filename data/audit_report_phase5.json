@@ -1,0 +1,246 @@
+{
+  "timings": {
+    "db_initialization_sec": 0.0341,
+    "document_upload_and_extraction_sec": 2.2113,
+    "counselor_chat_sec": 1.565,
+    "full_10_node_pipeline_sec": 60.6979,
+    "total_audit_runtime_sec": 64.5499
+  },
+  "api_keys": {
+    "gemini": {
+      "provider": "Gemini",
+      "total_keys": 3,
+      "healthy_keys": 3,
+      "current_index": 0,
+      "stats": [
+        {
+          "masked_key": "AIza...XjUM",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 0,
+          "successes": 0
+        },
+        {
+          "masked_key": "AQ.A...y22g",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 0,
+          "successes": 0
+        },
+        {
+          "masked_key": "AQ.A...D6hA",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 0,
+          "successes": 0
+        }
+      ]
+    },
+    "groq": {
+      "provider": "Groq",
+      "total_keys": 13,
+      "healthy_keys": 13,
+      "current_index": 5,
+      "stats": [
+        {
+          "masked_key": "gsk_...O8I6",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 2,
+          "successes": 2
+        },
+        {
+          "masked_key": "gsk_...YUNk",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 2,
+          "successes": 2
+        },
+        {
+          "masked_key": "gsk_...cPaF",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 2,
+          "successes": 2
+        },
+        {
+          "masked_key": "gsk_...OL5P",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 2,
+          "successes": 2
+        },
+        {
+          "masked_key": "gsk_...n94n",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 2,
+          "successes": 2
+        },
+        {
+          "masked_key": "gsk_...s2TK",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 1,
+          "successes": 1
+        },
+        {
+          "masked_key": "gsk_...5fhL",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 1,
+          "successes": 1
+        },
+        {
+          "masked_key": "gsk_...wiWc",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 1,
+          "successes": 1
+        },
+        {
+          "masked_key": "gsk_...Hjzm",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 1,
+          "successes": 1
+        },
+        {
+          "masked_key": "gsk_...ICx9",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 1,
+          "successes": 1
+        },
+        {
+          "masked_key": "gsk_...k67B",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 1,
+          "successes": 1
+        },
+        {
+          "masked_key": "gsk_...aauB",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 1,
+          "successes": 1
+        },
+        {
+          "masked_key": "gsk_...MQ6Z",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 1,
+          "successes": 1
+        }
+      ]
+    },
+    "tavily": {
+      "provider": "Tavily",
+      "total_keys": 2,
+      "healthy_keys": 2,
+      "current_index": 1,
+      "stats": [
+        {
+          "masked_key": "tvly...zwS8",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 3,
+          "successes": 3
+        },
+        {
+          "masked_key": "tvly...lRrl",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 2,
+          "successes": 2
+        }
+      ]
+    },
+    "firecrawl": {
+      "provider": "Firecrawl",
+      "total_keys": 3,
+      "healthy_keys": 3,
+      "current_index": 0,
+      "stats": [
+        {
+          "masked_key": "fc-7...791f",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 0,
+          "successes": 0
+        },
+        {
+          "masked_key": "fc-0...106e",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 0,
+          "successes": 0
+        },
+        {
+          "masked_key": "fc-e...a3f9",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 0,
+          "successes": 0
+        }
+      ]
+    },
+    "jina": {
+      "provider": "Jina",
+      "total_keys": 1,
+      "healthy_keys": 1,
+      "current_index": 0,
+      "stats": [
+        {
+          "masked_key": "jina...ywXJ",
+          "is_healthy": true,
+          "failure_count": 0,
+          "requests": 0,
+          "successes": 0
+        }
+      ]
+    }
+  },
+  "events": {
+    "total_events_streamed": 1951,
+    "event_types": [
+      "SEARCH_QUERY_EXECUTED",
+      "DEADLINE_RISK_HIGH",
+      "DEADLINE_EVALUATED",
+      "COST_ANALYSIS_STARTED",
+      "SYNTHESIS_COMPLETE",
+      "PREVIOUS_RESEARCH_LOADED",
+      "SCOUT_COMPLETE",
+      "PROFILE_COMPLETE",
+      "PAGE_SCRAPED",
+      "SKEPTIC_DEBATE_CLASH",
+      "RANKING_CALCULATED",
+      "ELIGIBILITY_CHECK_STARTED",
+      "SOURCE_FOUND",
+      "PKR_BREAKDOWN_CALCULATED",
+      "ELIGIBILITY_COMPLETE",
+      "SKEPTIC_CHALLENGE_RAISED",
+      "CANDIDATE_EXTRACTED",
+      "ELIGIBILITY_PASS",
+      "COST_ANALYSIS_COMPLETE",
+      "COST_WITHIN_BUDGET",
+      "COST_EXCEEDS_BUDGET",
+      "ELIGIBILITY_FAIL",
+      "DISCOVERY_AGGREGATION_COMPLETE",
+      "VERIFICATION_STARTED",
+      "PROFILE_UPDATED",
+      "ROADMAP_GENERATED",
+      "SCOUT_DEPLOYED",
+      "DOCUMENT_UPLOADED",
+      "DEADLINE_RISK_LOW",
+      "DEADLINE_COMPLETE",
+      "MISSION_COMPLETE",
+      "MISSION_INITIATED",
+      "SKEPTIC_COMPLETE",
+      "SYNTHESIS_STARTED"
+    ]
+  },
+  "database": {},
+  "results_summary": {}
+}

@@ -1,0 +1,302 @@
+{
+  "scholarship_id": "SCH-EU-101",
+  "basic_details": {
+    "scholarship_name": "University of the Arts London (UAL) International Postgraduate Scholarships",
+    "offering_entity": "University of the Arts London (UAL Student Funding Service)",
+    "host_country": "United Kingdom",
+    "host_institutions_covered": "University of the Arts London (Central Saint Martins, Chelsea College of Arts, London College of Communication, London College of Fashion, Camberwell College of Arts, Wimbledon College of Arts)",
+    "degree_levels": [
+      "Master of Arts (MA / MFA / MRes / MSc)"
+    ],
+    "major_restrictions": "Full-time taught postgraduate Master's courses across all 6 UAL colleges: Fine Art, Graphic Design, Fashion Design, Industrial Design, Photography, Animation, Curating, Architecture, and Creative Computing.",
+    "number_of_awards_total": "~30 to 40 high-value International Postgraduate Scholarships (£50,000 package) plus numerous £7,000 fee waivers awarded annually",
+    "number_of_awards_pakistan": "Eligible qualifying country category; typically 3 to 6 Pakistani creative arts and design students receive UAL scholarship awards annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "1 academic year (covering the full duration of a 1-year 45-week or 2-year 90-week full-time Master's degree)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Ordinarily resident in a qualifying developing or middle-income country including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "No upper age limit; open to both emerging graduates and experienced creative practitioners.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (BFA / B.Des / BA / BS / BE) from an HEC-recognized university with high academic standing (minimum CGPA 3.00 / 4.00 or 70%+ equivalent to UK 2:1 Honours) and an outstanding creative portfolio.",
+    "minimum_gpa_percentage": 70.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum CGPA 3.00 / 4.00; however, portfolio evaluation carries substantial weight alongside academic credentials.",
+    "subject_background_prerequisites": "Must hold an offer of admission to a full-time qualifying postgraduate taught course at one of UAL's constituent colleges starting in Autumn 2027.",
+    "current_education_status": "Graduated or enrolled in final year of undergraduate studies graduating prior to August 2027.",
+    "graduation_year_restrictions": "No restriction on graduation year.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Creative exhibitions, design agency work, freelance projects, or artistic collaborations strongly bolster application ranking.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 overall (with at least 6.0 in reading and writing) or TOEFL iBT minimum 90. MOI certificates are not accepted under UK Student Visa guidelines.",
+    "other_language_requirements": "Instruction is 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": true,
+    "special_eligibility_categories": "Candidates must meet the low-to-middle income country eligibility criteria and household annual income thresholds specified by UAL.",
+    "previous_scholarship_restrictions": "Cannot hold another full external scholarship (such as Chevening or Commonwealth) covering the same course.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full international tuition fee waiver for the qualifying Master's course (worth up to £28,570 to £33,000 depending on programme).",
+      "amount": "100% Full Tuition Waiver (worth up to £28,570 - £33,000)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "UAL standard postgraduate course application fee of £75 payable via the course applicant portal.",
+      "amount": "£75 course application fee"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Free single study bedroom accommodation at an official UAL hall of residence for the entire duration of the academic course.",
+      "amount": "100% Free Hall of Residence Accommodation (Central London)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Part of the comprehensive £50,000 award package providing living allowance and maintenance for London expenses (~£1,000 - £1,200/month | ~PKR 350,000 - 420,000/mo).",
+      "amount": "Living allowance included in £50,000 award package"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel expenses between Pakistan and London are self-funded or covered from the living maintenance stipend.",
+      "amount": "Borne by student"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "UK Student Visa fee (~£490) and Immigration Health Surcharge (~£776/year) covered by candidate.",
+      "amount": "UK Visa & IHS fees borne by candidate"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full comprehensive medical access to the UK National Health Service (NHS) throughout the study period.",
+      "amount": "100% NHS Healthcare access"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized student cafeterias across CSM, Chelsea, and LCC campuses; living maintenance stipend covers food.",
+      "amount": "Covered via maintenance stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Access to UAL world-class workshops (printmaking, 3D printing, laser cutting, casting, darkrooms, and textile studios) and art libraries.",
+      "amount": "Full access to UAL specialized studio facilities"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Exhibition spaces at degree shows and participation in UAL postgraduate symposiums.",
+      "amount": "Degree show exhibition platform provided"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized 18+ Student Oyster photocard offering 30% discount on Transport for London (TfL) tube and bus fares.",
+      "amount": "Subsidized London Oyster transit discount"
+    },
+    "total_estimated_value_usd_per_year": 48000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single collegiate university (University of the Arts London - UAL, London, UK).",
+    "participating_institutions": [
+      "University of the Arts London (UAL)",
+      "Central Saint Martins (CSM)",
+      "Chelsea College of Arts",
+      "London College of Communication (LCC)",
+      "London College of Fashion (LCF)",
+      "Camberwell College of Arts",
+      "Wimbledon College of Arts"
+    ],
+    "university_rankings_scope": "World #2 university for Art and Design (QS World University Rankings by Subject); Europe's largest specialist arts institution.",
+    "available_majors": [
+      "MA Fine Art",
+      "MA Graphic Communication Design",
+      "MA Industrial Design",
+      "MA Fashion Design Technology",
+      "MA Photography",
+      "Animation MA",
+      "MA Interaction Design Communication",
+      "MA Curating and Collections",
+      "MA Architecture",
+      "MSc Creative Computing"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 year full-time (45 weeks) or 2 years full-time (90 weeks)",
+    "admission_requirements_summary": "Bachelor's degree in art, design, or related field (CGPA >= 3.00/4.00), exceptional creative digital portfolio, IELTS 6.5+ (min 6.0 in reading/writing), active course offer from UAL, and completed online scholarship application.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Applicants must first hold an offer of admission (conditional or unconditional) for an eligible course before receiving access to the scholarship application task in the UAL applicant portal.",
+    "strategic_program_match_advice": "Ensure your scholarship essay explicitly demonstrates how your artistic or design practice addresses social, environmental, or cultural challenges in Pakistan and how UAL's education will amplify your impact."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.arts.ac.uk/study-at-ual/fees-and-funding/scholarships-search/ual-international-postgraduate-scholarships",
+    "portal_system_name": "UAL Applicant Portal & Student Funding Form",
+    "account_creation_instructions": "Step 1: Apply for an eligible postgraduate course at UAL via the course webpage. Step 2: Receive your UAL student ID and applicant portal credentials. Step 3: Once an offer is issued, access the 'My Funding' tab and complete the UAL International Postgraduate Scholarship task before the deadline.",
+    "step_by_step_workflow": [
+      "Step 1: Submit an online application for an eligible postgraduate taught Master's course at UAL.",
+      "Step 2: Upload your creative digital portfolio and supporting academic documents.",
+      "Step 3: Receive an offer of admission (conditional or unconditional) from UAL.",
+      "Step 4: Log into the UAL Applicant Portal and navigate to the Scholarship Application task.",
+      "Step 5: Complete the financial declaration and write the required scholarship personal statements.",
+      "Step 6: Upload household financial evidence and any supporting documents.",
+      "Step 7: Submit the scholarship application before the deadline (typically end of June for Autumn entry).",
+      "Step 8: UAL Scholarship Selection Panel assesses eligible applications and notifies successful candidates in late July.",
+      "Step 9: Accept the award, confirm accommodation booking, and initiate UK Student Visa application."
+    ],
+    "university_vs_scholarship_routing": "Separate Two-Step Routing: You must hold an admission offer before applying for the scholarship via your UAL applicant account.",
+    "recommendation_letters_submission_method": "Submitted as part of the initial course application via referee upload link or direct upload.",
+    "personal_statement_prompts": "Three specific prompts: (1) How receiving the scholarship will make a difference to your studies and career ambitions, (2) How your creative work addresses social, cultural, or ecological issues, (3) Demonstration of financial need and circumstances.",
+    "study_plan_research_proposal_requirements": "Integrated within the course application study plan or artist statement.",
+    "cv_format_requirements": "Creative professional CV detailing exhibitions, client commissions, technical software, and artistic milestones.",
+    "interviews_conducted": false,
+    "interview_format_details": "No separate interview for the scholarship; admissions decisions for the course may include an interview or portfolio review.",
+    "standardized_tests": "IELTS Academic minimum 6.5 (min 6.0 in reading and writing) or TOEFL iBT minimum 90.",
+    "application_fee_amount": "£75 course application fee; scholarship application itself is free",
+    "attestation_requirements": "HEC degree attestation required for Pakistani applicants.",
+    "translation_requirements": "Certified English translation for all academic records.",
+    "final_submission_method": "Online submission via UAL Applicant Portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor's Degree Certificate",
+      "mandatory": true,
+      "specification": "HEC-recognized undergraduate degree in art, design, architecture, or related humanities/science discipline.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete university transcripts showing all course grades and cumulative CGPA (minimum 3.00 / 4.00).",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Creative Digital Portfolio",
+      "mandatory": true,
+      "specification": "Curated digital portfolio of 15 to 25 works demonstrating conceptual depth, technical craftsmanship, and creative voice.",
+      "pakistan_specific_instruction": "Submitted via PebblePad / UAL portal during course application."
+    },
+    {
+      "document_name": "UAL Course Offer Letter",
+      "mandatory": true,
+      "specification": "Official conditional or unconditional offer letter for an eligible UAL postgraduate taught course.",
+      "pakistan_specific_instruction": "Issued by UAL Admissions."
+    },
+    {
+      "document_name": "UAL Scholarship Personal Statement",
+      "mandatory": true,
+      "specification": "Detailed essay addressing artistic vision, social/environmental impact, and career objectives.",
+      "pakistan_specific_instruction": "Demonstrate creative commitment to advancing culture and society in Pakistan."
+    },
+    {
+      "document_name": "Financial Circumstances Evidence",
+      "mandatory": true,
+      "specification": "Proof of household income, bank statements, or tax documentation verifying qualifying financial background.",
+      "pakistan_specific_instruction": "Income certificates, tax returns, or salary slips of primary earner."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Creative CV detailing artistic experience, exhibitions, client projects, and skills.",
+      "pakistan_specific_instruction": "Standard layout."
+    },
+    {
+      "document_name": "English Language Test Certificate",
+      "mandatory": true,
+      "specification": "Official IELTS (min 6.5) or TOEFL iBT (min 90) scorecard.",
+      "pakistan_specific_instruction": "Valid test certificate."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-12-01",
+    "application_deadline": "2027-06-30",
+    "university_admission_deadline": "2027-05-15",
+    "document_submission_deadline": "2027-06-30",
+    "recommendation_letters_deadline": "2027-06-30",
+    "interview_period": "None (No scholarship interviews)",
+    "shortlist_announcement": "Late July 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "August 2027",
+    "semester_commencement": "2027-09-27",
+    "annual_cycle_notes": "Course application should be submitted by January/February to receive an offer in time for the late June scholarship deadline."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Undergraduate transcript quality and academic background)",
+    "extracurricular_and_leadership_weight": "15% (Artistic exhibitions, community arts workshops, and cultural initiatives)",
+    "research_experience_weight": "25% (Quality, conceptual originality, and technical brilliance of the creative portfolio)",
+    "work_experience_weight": "10% (Creative design studio experience, freelance practice, or client work)",
+    "personal_statement_weight": "20% (Clarity of artistic purpose, demonstration of social impact, and financial need)",
+    "recommendations_weight": "0% (Verification of credentials)",
+    "interview_weight": "0% (No interview for scholarship stage)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Qualifying prerequisite: candidate must meet household income criteria)",
+    "selection_panel_composition": "UAL Central Student Funding Committee and College Academic Selection Boards.",
+    "evaluation_methodology": "Competitive scoring based on portfolio excellence, academic record, and the social impact statement."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,800 to 2,500 international creative arts applicants apply for UAL postgraduate funding",
+    "total_scholarships_awarded": "~30 to 40 high-value full awards plus multiple partial awards annually",
+    "acceptance_rate_global": "~2.0%",
+    "acceptance_rate_pakistan": "~4% to 6% among applicants with outstanding design portfolios and high GPAs",
+    "typical_successful_applicant_gpa": "3.50 / 4.00 with an exceptional, exhibition-quality portfolio",
+    "typical_academic_and_research_profile": "Graduates in fine arts, communication design, architecture, or textile design with a cohesive body of original creative work.",
+    "common_backgrounds_of_winners": "Graduates from National College of Arts (NCA) Lahore/Rawalpindi, Indus Valley School of Art and Architecture (IVS) Karachi, and Beaconhouse National University (BNU).",
+    "high_representation_countries": "Pakistan, India, Nigeria, Mexico, Colombia, Indonesia, Turkey, Kenya.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply via the official UAL portal at https://www.arts.ac.uk/.",
+      "UAL never charges fees for scholarship applications or guarantees awards through agents."
+    ],
+    "application_fee_warning": "UAL charges standard £75 course application fee; scholarship application form is completely free.",
+    "agent_and_intermediary_warnings": "Portfolio and scholarship essays must be entirely the applicant's own creation; commercial agency submissions are disqualified.",
+    "hidden_costs_breakdown": [
+      "Course application fee: £75 (~PKR 28,000).",
+      "Art supplies and material costs during term time: ~£1,000 - £2,500/year (partially subsidized by studio access).",
+      "UK Student Visa & IHS fees: ~£1,266 (~PKR 470,000).",
+      "Flight to London: ~PKR 150,000 - 220,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Art scholarships only judge grades. Reality: Your portfolio and creative vision carry equal or greater weight than GPA.",
+      "Myth: You can apply for the scholarship before applying for the course. Reality: You must hold an active course offer from UAL before the scholarship task is made available."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial websites often state the scholarship covers flight tickets; international airfare is not covered by the award package and must be budgeted by the scholar."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic progression and pass all studio assessment units.",
+    "attendance_requirements": "Full-time attendance at scheduled studio tutorials, lectures, and workshops across UAL campuses.",
+    "academic_progress_monitoring": "Termly unit assessment reviews by course tutors and academic leaders.",
+    "work_restrictions_during_study": "Part-time work permitted up to 20 hours per week during term time under UK Student Visa regulations.",
+    "home_country_return_obligation": "None; zero service bond or mandatory return obligation. Eligible for the UK 2-year Graduate Route post-study work visa.",
+    "service_obligations_or_bonds": "Participation as a Student Ambassador in prospective student mentoring and funding showcase events.",
+    "repayment_clawback_conditions": "Revocation of remaining scholarship installments if student withdraws prematurely or commits academic malpractice.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Course transfers within UAL permitted only under exceptional academic circumstances with funding panel approval.",
+    "extension_policy": "Strictly limited to the official duration of the Master's programme; no funding extensions permitted."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "UAL International Postgraduate Scholarships Official Portal",
+      "source_url": "https://www.arts.ac.uk/study-at-ual/fees-and-funding/scholarships-search/ual-international-postgraduate-scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "UAL Postgraduate Admissions & Fees Guide",
+      "source_url": "https://www.arts.ac.uk/study-at-ual/postgraduate-study",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

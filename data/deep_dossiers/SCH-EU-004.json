@@ -1,0 +1,285 @@
+{
+  "scholarship_id": "SCH-EU-004",
+  "basic_details": {
+    "scholarship_name": "Erasmus Mundus Joint Master Degrees (EMJM)",
+    "offering_entity": "European Commission / European Education and Culture Executive Agency (EACEA)",
+    "host_country": "Multiple European Countries (Consortium of 2 to 4 countries)",
+    "host_institutions_covered": "International consortia of European and partner universities across Europe",
+    "degree_levels": [
+      "Master's"
+    ],
+    "major_restrictions": "Open to all disciplines across over 150 accredited Erasmus Mundus Joint Master programs (STEM, Humanities, Social Sciences, Arts, Environmental Sciences, Business).",
+    "number_of_awards_total": "~2,500 full scholarships awarded globally each year across all consortia",
+    "number_of_awards_pakistan": "Pakistan is consistently ranked #1 globally in Erasmus Mundus recipients (~140 to 190 Pakistani winners annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "12 to 24 months (depending on master's program curriculum: 60, 90, or 120 ECTS)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to students worldwide regardless of country of origin (Partner Country category for Pakistan)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limit whatsoever.",
+    "academic_qualifications": "First higher education degree (Bachelor's degree equivalent to 180 or 240 ECTS credits; 16 years education in Pakistan).",
+    "minimum_gpa_percentage": 60.0,
+    "minimum_gpa_scale": 2.8,
+    "grading_conversion_notes": "Varies by individual consortium; typically minimum 2.8/4.0 CGPA, but competitive applicants typically have 3.3+ CGPA.",
+    "subject_background_prerequisites": "Relevant undergraduate degree in corresponding field as specified by each EMJM consortium.",
+    "current_education_status": "Students in final year of bachelor's degree can apply if they graduate before program matriculation (August/September).",
+    "graduation_year_restrictions": "No restriction; recent graduates and seasoned professionals eligible.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory for most programs; highly valued in applied programs.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "Set by each consortium: usually IELTS 6.5 (minimum 6.0 in each subscore) or TOEFL iBT 90. Some consortia accept English Medium of Instruction (MOI) certificates from Pakistan.",
+    "other_language_requirements": "None required at entry; local language electives offered during mobility.",
+    "gender_specific_requirements": "None; equal opportunity.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Rule of 3: An applicant may apply to a maximum of 3 different Erasmus Mundus master's programs in a single annual intake.",
+    "previous_scholarship_restrictions": "Students who have previously received an Erasmus Mundus Master / Joint Doctor scholarship are NOT eligible for a second one.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% participation costs and university tuition fees covered across all partner universities in the consortium."
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Most EMJM consortia have free application; if a fee exists, it is waived or covered upon award."
+    },
+    "accommodation": {
+      "status": "MONTHLY ALLOWANCE",
+      "details": "Covered via generous monthly living allowance; university housing support provided by each host university."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Fixed monthly subsistence allowance paid directly to student for the duration of the master's program.",
+      "amount": "€1,400 / month (~PKR 420,000 / month) for up to 24 months = €33,600 total stipend"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Included within the comprehensive €1,400/month flat-rate grant under Erasmus+ rules (which covers travel, installation, and living)."
+    },
+    "visa_fee": {
+      "status": "REIMBURSED",
+      "details": "Covered by student using installation portion of stipend; letters of sponsorship provided for national visa fee waivers where bilateral agreements exist."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full comprehensive international health, travel, and accident insurance meeting European Commission standards for the full 24 months."
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Included within the €1,400/month stipend."
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Access to laboratory, library, and consortium resources included in participation cost waiver."
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Consortium travel grants available for attending European conferences and thesis research placement."
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Embedded in the monthly scholarship rate (€1,400/month flat rate covers all mobility between countries)."
+    },
+    "total_estimated_value_usd_per_year": 38000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Mandatory Multiple Universities: Study in at least TWO different European countries during the degree (e.g. Year 1 in France, Year 2 in Italy or Sweden).",
+    "participating_institutions": [
+      "Consortia across France, Germany, Italy, Spain, Belgium, Netherlands, Sweden, Finland, Portugal, Poland, Austria, etc."
+    ],
+    "university_rankings_scope": "Top European national research institutes and specialized universities.",
+    "available_majors": [
+      "Artificial Intelligence",
+      "Cybersecurity",
+      "Data Science",
+      "Nanoscience",
+      "Marine Environment",
+      "Renewable Energy",
+      "Public Health",
+      "Economics",
+      "Human Rights",
+      "Materials Science"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "12 to 24 months (60 to 120 ECTS credits)",
+    "admission_requirements_summary": "Bachelor's degree, transcripts, CV (Europass format), Motivation Letter, 2 recommendation letters, English proficiency.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Single application: Applying to the consortium program automatically applies for the Erasmus Mundus scholarship simultaneously.",
+    "strategic_program_match_advice": "Consult the official Erasmus Mundus Catalogue; apply to the 3 programs that most tightly align with your undergraduate thesis or research projects."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
+    "portal_system_name": "Individual Consortium Portals (listed on EACEA Catalogue)",
+    "account_creation_instructions": "Explore EACEA Catalogue, identify up to 3 programs, and register on each consortium's dedicated application portal.",
+    "step_by_step_workflow": [
+      "1. Search the EACEA Erasmus Mundus Catalogue for programs matching your discipline.",
+      "2. Visit the chosen program website (e.g. Master in Big Data, Marine Biotechnology, etc.).",
+      "3. Register on the specific consortium portal (opens October - November).",
+      "4. Upload Bachelor's degree, transcripts, and proof of residence.",
+      "5. Write tailored Motivation Letter explaining why this specific multi-country curriculum fits your goals.",
+      "6. Format CV in Europass format.",
+      "7. Add details of 2 academic referees who upload letters directly.",
+      "8. Submit online application before January/February deadline.",
+      "9. Consortium selection board evaluates files (February - March).",
+      "10. Results announced (March - April); Main list (scholarship winners) and Reserve list notified.",
+      "11. Consortia provide visa guarantee letters for Country 1 visa application (May - July).",
+      "12. Arrive in Country 1 for orientation (September)."
+    ],
+    "university_vs_scholarship_routing": "Integrated 1-step routing: Program application and scholarship selection are evaluated jointly by the consortium academic board.",
+    "recommendation_letters_submission_method": "Online upload by referees via automated links or uploaded by applicant on portal.",
+    "personal_statement_prompts": "Consortium-specific Motivation Letter (1-2 pages): Academic background, relevance of program courses, mobility plan rationale, and post-graduation impact.",
+    "study_plan_research_proposal_requirements": "Brief outline of prospective thesis interests or research topics.",
+    "cv_format_requirements": "Europass CV format strongly recommended by most European consortia.",
+    "interviews_conducted": true,
+    "interview_format_details": "Approx 30% of consortia conduct a 15-20 minute online video interview (Zoom/Teams) with the academic coordinating committee.",
+    "standardized_tests": "No GRE or HEC HAT required. English proficiency (IELTS/TOEFL) as mandated by consortium.",
+    "application_fee_amount": "€0.00 for scholarship applicants in virtually all consortia.",
+    "attestation_requirements": "HEC degree attestation and Apostille/attestation required for host country university enrolment upon arrival.",
+    "translation_requirements": "Official English translations of non-English degree certificates.",
+    "final_submission_method": "100% online portal submission to each consortium."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "International Passport",
+      "mandatory": true,
+      "specification": "Valid for at least 6 months beyond the intended study end date",
+      "pakistan_specific_instruction": "Required for identity and European Schengen visa processing"
+    },
+    {
+      "document_name": "Bachelor's Degree Certificate & Transcripts",
+      "mandatory": true,
+      "specification": "Official degree showing courses, grades, and grading scale",
+      "pakistan_specific_instruction": "Must be 16-year BS / Honours from HEC recognized university"
+    },
+    {
+      "document_name": "Europass Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Formatted according to standard European Europass template",
+      "pakistan_specific_instruction": "Highlight research projects, software tools, and academic achievements"
+    },
+    {
+      "document_name": "Motivation Letter (Statement of Purpose)",
+      "mandatory": true,
+      "specification": "1 to 2 page focused justification of interest in the consortium",
+      "pakistan_specific_instruction": "Avoid generic praise; analyze specific mobility tracks and professors"
+    },
+    {
+      "document_name": "Two Academic Reference Letters",
+      "mandatory": true,
+      "specification": "Signed by professors with university institutional email addresses",
+      "pakistan_specific_instruction": "Must attest to intellectual capability and ability to adapt to foreign environments"
+    },
+    {
+      "document_name": "English Language Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic, TOEFL iBT, or consortium-approved MOI",
+      "pakistan_specific_instruction": "Verify whether consortium strictly requires IELTS 6.5+"
+    },
+    {
+      "document_name": "Proof of Residence / Place of Living",
+      "mandatory": true,
+      "specification": "Official certificate confirming place of residence (domicile/utility bill/work letter)",
+      "pakistan_specific_instruction": "Required by European Commission 12-month residency rule"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "October - November annually",
+    "application_deadline": "Early January to mid-February annually (varies by consortium)",
+    "university_admission_deadline": "Handled simultaneously with scholarship application",
+    "document_submission_deadline": "Coincides with consortium deadline",
+    "recommendation_letters_deadline": "Coincides with consortium deadline",
+    "interview_period": "February - March (online interviews if applicable)",
+    "shortlist_announcement": "Late March to mid-April annually",
+    "final_result_acceptance_deadline": "Late April to early May",
+    "visa_application_window": "May - July (National D Visa for Country 1)",
+    "semester_commencement": "Late August / September of departure year",
+    "annual_cycle_notes": "Programs run independently; check the exact deadline on each consortium's individual website."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Academic excellence, transcript grades, undergraduate thesis quality)",
+    "extracurricular_and_leadership_weight": "10% (Adaptability, international mindset, communication)",
+    "research_experience_weight": "20% (Prior publications, capstone projects, laboratory skills)",
+    "work_experience_weight": "5% (Industry internships or relevant employment)",
+    "personal_statement_weight": "15% (Strength and clarity of motivation letter)",
+    "recommendations_weight": "5% (Referee evaluation)",
+    "interview_weight": "5% (Where conducted, confirms English fluency and motivation)",
+    "test_scores_weight": "0% (No standardized tests used)",
+    "financial_need_weight": "0% (Pure academic and potential merit)",
+    "selection_panel_composition": "Joint academic admission committee comprising professors from each partner university in the consortium.",
+    "evaluation_methodology": "Dossiers ranked on an aggregate 100-point rubric; top 15-20 non-EU candidates offered full Erasmus Mundus scholarships."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~500 to 1,500 applicants per individual consortium program",
+    "total_scholarships_awarded": "~15 to 22 scholarships per program (~2,500 across all programs)",
+    "acceptance_rate_global": "~2.0% to 3.5%",
+    "acceptance_rate_pakistan": "~3.5% to 5.0% (Pakistan is the #1 winning nation worldwide for 3 years running)",
+    "typical_successful_applicant_gpa": "3.40 to 3.90 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Strong undergraduate thesis or final year design project, clear research vision, high academic consistency.",
+    "common_backgrounds_of_winners": "Graduates of NUST, FAST, LUMS, UET, GIKI, Quaid-i-Azam, COMSATS, and provincial universities across Pakistan.",
+    "high_representation_countries": "Pakistan, India, Nigeria, Bangladesh, Brazil, Mexico.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Agents claiming to have 'reserved spots' on Erasmus Mundus consortia. Consortium selections are strictly decided by academic professors in Europe."
+    ],
+    "application_fee_warning": "Erasmus Mundus consortium applications for scholarship candidates are almost universally 100% free.",
+    "agent_and_intermediary_warnings": "Never use agents; copy-pasted or consultant-written motivation letters are easily detected and failed.",
+    "hidden_costs_breakdown": [
+      "National D Visa application fees and translation/legalization costs for Country 1 embassy in Islamabad (PKR 30,000 to 60,000).",
+      "Initial travel cash buffer: The first scholarship installment (€1,400 x 2) is released 2-4 weeks after arrival in Europe; student must carry €800-€1,200 for initial days."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You need work experience. (Fact: Over 60% of Pakistani winners apply during their final year of BS or immediately after graduation).",
+      "MYTH: You cannot apply to more than 3 programs. (Fact: You CAN apply to up to 3 programs; applying to more than 3 will lead to disqualification across all of them)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "The European Commission merged travel, installation, and subsistence into a single consolidated €1,400/month flat-rate grant under Erasmus+ 2021-2027 regulations."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must earn required ECTS credits each semester (30 ECTS per semester) to advance to the next mobility period.",
+    "attendance_requirements": "Full physical attendance across at least 2 distinct consortium countries.",
+    "academic_progress_monitoring": "Consortium academic coordinator monitors module passes before approving monthly stipend disbursals.",
+    "work_restrictions_during_study": "Part-time student employment laws vary by host country (e.g. 20 hrs/week in France/Germany), but intensive multi-country curriculum leaves minimal time for employment.",
+    "home_country_return_obligation": "NO mandatory return obligation! Erasmus Mundus graduates are fully eligible to apply for post-study work visas (e.g. 18-month Job Seeker Visa in Germany, 1-year APS in France) or continue onto funded European PhDs.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Severe breach of student agreement, academic failure, or unilateral drop-out requires reimbursement of unspent grant funds.",
+    "rules_for_changing_university": "Mobility tracks are predetermined by consortium specialization pathways chosen at admission.",
+    "rules_for_changing_major": "Not permitted.",
+    "extension_policy": "No scholarship extension beyond normal 24-month duration."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "European Commission - Erasmus Mundus Joint Masters Official Portal",
+      "source_url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact applicant volume per individual consortium (managed independently by each university consortium)",
+        "Exact reserve list rankings"
+      ]
+    },
+    {
+      "source_name": "EACEA Erasmus Mundus Programme Catalogue",
+      "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Consortium-level specific minimum GPA threshold (determined by individual consortium admission committees)"
+      ]
+    }
+  ]
+}

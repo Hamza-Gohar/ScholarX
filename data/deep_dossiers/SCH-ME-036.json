@@ -1,0 +1,296 @@
+{
+  "scholarship_id": "SCH-ME-036",
+  "basic_details": {
+    "scholarship_name": "Princess Sumaya University for Technology (PSUT) Excellence Scholarship",
+    "offering_entity": "Princess Sumaya University for Technology (PSUT) & Royal Scientific Society (Amman, Jordan)",
+    "host_country": "Jordan",
+    "host_institutions_covered": "Princess Sumaya University for Technology (PSUT, Amman, Jordan)",
+    "degree_levels": [
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "Postgraduate programs in King Hussein School of Computing Sciences and King Abdullah II School of Engineering: Computer Science, Data Science, Cybersecurity, Software Engineering, Information Systems Security, Enterprise Systems Engineering, and Electrical Engineering.",
+    "number_of_awards_total": "~15 to 25 competitive excellence scholarships and graduate assistantships awarded annually across master's programs",
+    "number_of_awards_pakistan": "Open internationally; typically 2 to 4 Pakistani postgraduate students selected per academic year",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "24 months (2 academic years for standard master's degree)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international students of all nationalities, including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "No strict statutory age limit; preference given to candidates under 35 years of age.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (16-year BS / BSc / BE in Computer Science, Software Engineering, IT, or Electrical Engineering) from an HEC-recognized university with high academic standing (minimum CGPA 3.20 / 4.00 or 75%+; rated 'Very Good' or equivalent).",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.2,
+    "grading_conversion_notes": "Minimum undergraduate CGPA 3.20 / 4.00; competitive applicants typically hold CGPA >= 3.50 / 4.00.",
+    "subject_background_prerequisites": "Bachelor's degree in Computer Science, Software Engineering, Computer Engineering, or closely related field with strong foundations in algorithms, programming, and mathematics.",
+    "current_education_status": "Graduated or in final semester of undergraduate degree prior to Fall matriculation.",
+    "graduation_year_restrictions": "Graduation within preceding 5 years preferred.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Professional software engineering, cybersecurity, or data analytics experience strengthens the research proposal and recommendation appraisal.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 79,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.0, TOEFL iBT minimum 79, or passing the National English Language Exam administered in Jordan. MOI certificates not accepted in lieu of official test scores.",
+    "other_language_requirements": "Arabic language proficiency is not required; postgraduate computing and engineering programs are taught 100% in English.",
+    "gender_specific_requirements": "Open equally to male and female applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Merit-based excellence award evaluating academic record, technical aptitude, and research capacity.",
+    "previous_scholarship_restrictions": "Cannot hold another full institutional scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full credit-hour tuition waiver for all required master's courses (worth ~JOD 4,500 to 6,000 per year / ~$6,300 to $8,500).",
+      "amount": "100% Tuition Fee Waiver (up to JOD 6,000/yr)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Non-refundable application processing fee of JOD 50 (~$70 / ~PKR 20,000) payable to PSUT Admission Office.",
+      "amount": "JOD 50 (~$70)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Assistance with private student residences and apartments near the PSUT campus in Al-Jubaiha, Amman; subsidized living costs covered from monthly stipend.",
+      "amount": "Covered via monthly stipend"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "JOD 250 to 350 / month (~$350 to $500 / ~PKR 100,000 to 140,000 / month) provided as graduate research or teaching assistantship living allowance.",
+      "amount": "JOD 250 - 350 / month (~PKR 100,000 - 140,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel between Pakistan and Queen Alia International Airport (Amman) is self-funded.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Jordanian student residence permit fee (~JOD 30-50 / year) facilitated by PSUT International Relations Office.",
+      "amount": "JOD 30 - 50 borne by candidate"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive student medical insurance provided through the university health center and affiliated Jordanian medical network.",
+      "amount": "100% University Health Insurance Covered"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized campus cafeterias and student dining at PSUT campus.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full digital access to PSUT Library, IEEE Xplore, ACM Digital Library, and high-performance computing clusters.",
+      "amount": "Full digital library and computing lab access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Access to King Hussein School computing labs, Royal Scientific Society research facilities, and thesis project support.",
+      "amount": "Full research lab and thesis grant access"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized student transportation cards for Amman Bus transit network.",
+      "amount": "Subsidized Amman transit"
+    },
+    "total_estimated_value_usd_per_year": 14000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Princess Sumaya University for Technology - PSUT, Amman, Jordan).",
+    "participating_institutions": [
+      "Princess Sumaya University for Technology (PSUT)",
+      "Royal Scientific Society (RSS) Jordan"
+    ],
+    "university_rankings_scope": "Ranked #1 private/specialized university in Jordan and top 800-1000 globally (QS World University Rankings); accredited by ABET; Jordan's premier technological and computing university.",
+    "available_majors": [
+      "MSc in Computer Science",
+      "MSc in Data Science",
+      "MSc in Information Systems Security (Cybersecurity)",
+      "MSc in Software Engineering",
+      "MSc in Enterprise Systems Engineering",
+      "MSc in Electrical Engineering"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (24 months, 33-34 credit hours including master's thesis)",
+    "admission_requirements_summary": "HEC-recognized 4-year Bachelor's degree (CGPA >= 3.20/4.00), IELTS 6.0+ or TOEFL 79+, statement of purpose, two letters of recommendation, and passing the departmental interview/admission test.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Applicants must first gain formal admission to the chosen MSc program through the admission portal, then submit the scholarship application to the Deanship of Admissions and Registration / Graduate Studies.",
+    "strategic_program_match_advice": "Align background with PSUT's core strengths in cybersecurity, data science, and AI. Having a strong undergraduate capstone project or conference publication significantly elevates your candidacy for the Excellence Scholarship."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://admission.psut.edu.jo/",
+    "portal_system_name": "PSUT Online Admission and Scholarship Portal",
+    "account_creation_instructions": "Create an account on the PSUT Admission portal (admission.psut.edu.jo), select postgraduate program, upload HEC-attested degrees, transcripts, English scorecard, CV, and statement of purpose, pay the JOD 50 application fee, and indicate application for the Excellence Scholarship / Graduate Assistantship.",
+    "step_by_step_workflow": [
+      "Step 1: Review postgraduate degree offerings and admission criteria on psut.edu.jo.",
+      "Step 2: Create an applicant profile on the PSUT online admission portal.",
+      "Step 3: Complete personal, educational, and referee details, and upload scanned transcripts, degree certificates, passport, and CV.",
+      "Step 4: Upload valid English proficiency test score (IELTS min 6.0 or TOEFL iBT min 79).",
+      "Step 5: Pay the non-refundable application fee of JOD 50 online.",
+      "Step 6: Submit application before the deadline (June 30 for Fall intake).",
+      "Step 7: Attend online departmental technical interview with faculty admissions committee.",
+      "Step 8: Upon receiving admission offer, apply for the PSUT Excellence Scholarship / Graduate Assistantship through the Deanship of Graduate Studies.",
+      "Step 9: Selection committee reviews academic dossiers and allocates scholarship awards.",
+      "Step 10: Receive scholarship award letter, accept offer, and initiate Jordanian student visa processing."
+    ],
+    "university_vs_scholarship_routing": "Two-Stage Routing: First secure MSc program admission, then submit scholarship/assistantship application to the Deanship of Graduate Studies.",
+    "recommendation_letters_submission_method": "Two confidential letters of recommendation uploaded through the online admission system or sent directly by referees to graduate admissions.",
+    "personal_statement_prompts": "Statement of purpose (750-1000 words) detailing academic journey, technical background, research objectives in Jordan, and professional aspirations post-graduation.",
+    "study_plan_research_proposal_requirements": "2-3 page preliminary research concept paper outlining proposed master's thesis topic in computing or engineering.",
+    "cv_format_requirements": "Standard academic CV detailing education, programming proficiencies, project portfolio, GitHub repositories, and publications.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical and motivational interview (20-30 minutes) conducted in English via Zoom/Microsoft Teams with departmental faculty committee.",
+    "standardized_tests": "IELTS Academic 6.0+ or TOEFL iBT 79+.",
+    "application_fee_amount": "JOD 50 (~$70 / ~PKR 20,000 non-refundable application fee)",
+    "attestation_requirements": "Undergraduate degrees and transcripts must be attested by HEC Pakistan, Ministry of Foreign Affairs (MoFA) Pakistan, and Embassy of Jordan in Islamabad upon arrival.",
+    "translation_requirements": "All academic records and certificates must be in English or accompanied by certified English translations.",
+    "final_submission_method": "Online submission via PSUT Online Admission Portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor Degree Certificate (BS / BSc / BE)",
+      "mandatory": true,
+      "specification": "Recognized 4-year undergraduate degree in Computing, IT, or Engineering with minimum CGPA 3.20 / 4.00.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete consolidated grade transcript covering all undergraduate semesters.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Statement of Purpose (SOP)",
+      "mandatory": true,
+      "specification": "Detailed SOP (750-1000 words) explaining technical background, research interests, and career goals at PSUT.",
+      "pakistan_specific_instruction": "Highlight alignment with Jordan's tech innovation ecosystem."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Academic appraisals from university professors evaluating technical ability and research promise.",
+      "pakistan_specific_instruction": "On official university letterhead with institutional email addresses."
+    },
+    {
+      "document_name": "English Proficiency Scorecard",
+      "mandatory": true,
+      "specification": "Official IELTS Academic scorecard (min 6.0) or TOEFL iBT (min 79).",
+      "pakistan_specific_instruction": "Valid official test score report."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Comprehensive CV detailing academic background, technical skills, capstone projects, and GitHub repositories.",
+      "pakistan_specific_instruction": "Standard professional format."
+    },
+    {
+      "document_name": "Master's Research Proposal Concept",
+      "mandatory": true,
+      "specification": "2-3 page research concept paper detailing proposed thesis topic and methodology.",
+      "pakistan_specific_instruction": "Structured research concept outline."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "High-resolution color copy of passport information page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Valid Pakistani passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2027-03-01",
+    "application_deadline": "2027-06-30",
+    "university_admission_deadline": "2027-06-30",
+    "document_submission_deadline": "2027-06-30",
+    "recommendation_letters_deadline": "2027-07-10",
+    "interview_period": "July 2027",
+    "shortlist_announcement": "Late July 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "August 2027",
+    "semester_commencement": "2027-10-01",
+    "annual_cycle_notes": "Fall intake applications open in March and close on June 30; late applications may be considered for self-funded tracks only."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Undergraduate CGPA and transcript academic excellence in core subjects)",
+    "extracurricular_and_leadership_weight": "10% (Technical competitions, hackathons, and community contributions)",
+    "research_experience_weight": "20% (Quality of undergraduate thesis/capstone project, research publications, and proposal)",
+    "work_experience_weight": "5% (Industry internships or software engineering experience)",
+    "personal_statement_weight": "10% (Clarity of goals, research vision, and academic motivation)",
+    "recommendations_weight": "5% (Faculty reference appraisals and technical endorsements)",
+    "interview_weight": "10% (Departmental oral interview assessing technical depth and communication)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure merit and academic excellence competition)",
+    "selection_panel_composition": "PSUT Deanship of Graduate Studies and Departmental Graduate Admissions Committee.",
+    "evaluation_methodology": "Multi-criteria weighted rubric evaluating undergraduate academic record, research proposal, and technical interview performance."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~800 to 1,200 regional and international applicants for postgraduate programs",
+    "total_scholarships_awarded": "~15 to 25 full excellence scholarships awarded annually",
+    "acceptance_rate_global": "~2.0% - 3.0%",
+    "acceptance_rate_pakistan": "~3.5% to 5.0% among qualified STEM graduates with strong GPAs",
+    "typical_successful_applicant_gpa": "3.50 / 4.00 or higher (top 15% class standing)",
+    "typical_academic_and_research_profile": "Graduates in computer science, software engineering, or electronics with strong programming portfolios, final-year projects in AI/cybersecurity, and solid mathematical foundations.",
+    "common_backgrounds_of_winners": "Graduates from NUST, FAST-NUCES, COMSATS, UET Lahore, and GIKI.",
+    "high_representation_countries": "Jordan, Pakistan, Palestine, Egypt, Syria, Iraq, Yemen.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official PSUT portal https://admission.psut.edu.jo/ and psut.edu.jo.",
+      "Beware of unofficial commercial education agencies claiming to sell admissions or scholarships for PSUT."
+    ],
+    "application_fee_warning": "Official application fee is JOD 50 payable directly through the university's online payment gateway.",
+    "agent_and_intermediary_warnings": "PSUT does not work with third-party agents or recruitment consultancies; all applications must be submitted directly by the student.",
+    "hidden_costs_breakdown": [
+      "Application fee: JOD 50 (~$70 / ~PKR 20,000).",
+      "Jordanian student residence permit fee: ~JOD 30 - 50 (~$45 - $70 / ~PKR 12,000 - 20,000).",
+      "HEC and MoFA document attestations in Pakistan: ~PKR 15,000 - 25,000.",
+      "Jordanian Embassy attestation fee in Islamabad: ~PKR 10,000 - 15,000.",
+      "Flight from Pakistan to Amman: ~PKR 120,000 - 180,000.",
+      "Initial housing deposit in Amman: ~JOD 150 - 200 (~PKR 60,000 - 80,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You need to know Arabic to study computing at PSUT. Reality: All postgraduate computing and engineering programs are taught 100% in English.",
+      "Myth: PSUT provides free flights. Reality: International travel is self-funded by the student."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs state MOI certificates are accepted; PSUT requires standard IELTS or TOEFL score reports or passing the Jordanian national English exam."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum semester CGPA of 3.00 / 4.00 (rated 'Very Good') to retain the scholarship.",
+    "attendance_requirements": "Mandatory full-time regular attendance; minimum 80% attendance required in all registered lecture and laboratory modules.",
+    "academic_progress_monitoring": "Semester-by-semester academic evaluation by the Deanship of Graduate Studies.",
+    "work_restrictions_during_study": "Scholars may work as Graduate Teaching Assistants (GTA) or Graduate Research Assistants (GRA) within PSUT for up to 10-15 hours/week; off-campus employment is restricted under Jordanian student visa regulations.",
+    "home_country_return_obligation": "None; zero service bond or mandatory home-country return obligation.",
+    "service_obligations_or_bonds": "Scholars may be assigned up to 10 hours per week of teaching assistance or research lab support at PSUT.",
+    "repayment_clawback_conditions": "Revocation of scholarship if semester CGPA drops below 3.00 or in cases of academic dishonesty or code of conduct violations.",
+    "rules_for_changing_university": "Non-transferable to other Jordanian or foreign universities.",
+    "rules_for_changing_major": "Changing degree program requires formal approval from both department heads and the Deanship of Graduate Studies.",
+    "extension_policy": "Scholarship covers standard 2-year duration (maximum 4 semesters); extensions require exceptional approval."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "PSUT Official Scholarships and Financial Aid Portal",
+      "source_url": "https://www.psut.edu.jo/en/content/scholarships-and-financial-aid",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "PSUT Graduate Admissions Portal",
+      "source_url": "https://admission.psut.edu.jo/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

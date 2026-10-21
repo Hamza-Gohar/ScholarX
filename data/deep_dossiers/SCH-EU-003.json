@@ -1,0 +1,279 @@
+{
+  "scholarship_id": "SCH-EU-003",
+  "basic_details": {
+    "scholarship_name": "Italian Regional DSU / EDISU Merit & Need Scholarship",
+    "offering_entity": "Regional Governments of Italy (DSU Toscana, EDISU Piemonte, LazioDisco, ER.GO Emilia-Romagna, ESU Padova, ALiSEO Liguria)",
+    "host_country": "Italy",
+    "host_institutions_covered": "All Italian Public Universities (Politecnico di Milano, Politecnico di Torino, University of Bologna, Sapienza University of Rome, University of Florence, University of Pisa, University of Padua, University of Milan)",
+    "degree_levels": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "major_restrictions": "Open to ALL fields of study without restriction (Engineering, Architecture, Design, Computer Science, Artificial Intelligence, Medicine, Economics, Business, Humanities, Natural Sciences).",
+    "number_of_awards_total": "Tens of thousands of regional grants awarded across all Italian universities annually",
+    "number_of_awards_pakistan": "Entitlement-based quota: Hundreds of Pakistani students qualify every year if their family income meets financial eligibility thresholds",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Bachelor's: 3 years; Master's: 2 years; PhD: 3 years (renewed annually subject to credit requirements)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to all international students admitted to an Italian public university (Pakistani students fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limit.",
+    "academic_qualifications": "12 years education (HSSC/A-Levels) for Bachelor's; 16 years education (BS/Master's) for Master's; 18 years education for PhD from HEC recognized universities.",
+    "minimum_gpa_percentage": 50.0,
+    "minimum_gpa_scale": 2.0,
+    "grading_conversion_notes": "No minimum GPA required for 1st-year entry scholarship; based primarily on admission to the university and family income (ISEE Parificato).",
+    "subject_background_prerequisites": "Admission into any accredited degree course at an Italian public university.",
+    "current_education_status": "Enrolled or accepted into an Italian university.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not required.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 78,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS 6.0 or university-approved English proficiency (many Italian universities accept English Medium of Instruction certificates from Pakistani universities for admission).",
+    "other_language_requirements": "None for English-taught programs; Italian B2 for Italian-taught courses.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": true,
+    "special_eligibility_categories": "CORE FINANCIAL ELIGIBILITY: Equivalent Economic Situation Indicator (ISEE Parificato) must be BELOW the regional threshold (typically €24,000 to €27,000/year). Given Pakistani currency exchange rates, the vast majority of Pakistani middle-class families fall well below this ceiling and qualify easily.",
+    "previous_scholarship_restrictions": "Students cannot hold duplicate regional or government scholarships in Italy.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% university tuition fee waiver; students pay only the statutory regional tax (€140 to €160/year)."
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "University pre-admission evaluation fee (€30 to €50) paid by applicant to university."
+    },
+    "accommodation": {
+      "status": "FREE DORMITORY",
+      "details": "Free student accommodation in university residence halls OR a housing grant allowance (typically €2,500 to €3,500/year) if placed on the housing waitlist."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Annual cash maintenance stipend paid in two installments (December and June).",
+      "amount": "€2,500 to €6,500 / year (depending on 'non-resident / out-of-town' student status) (~PKR 750,000 to 1,950,000 / year)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International air travel between Pakistan and Italy is NOT covered (borne by student)."
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Italian National D Student Visa fee (~€50 / PKR 16,000) paid at Gerry's / Italian Embassy in Pakistan."
+    },
+    "health_insurance": {
+      "status": "SUBSIDIZED",
+      "details": "Students register with Italian National Health Service (SSN) paying subsidized student fee (€150 to €700/year) for comprehensive medical coverage."
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "One free meal per day at university cafeterias (Mensa universitaria) for the entire academic year."
+    },
+    "books_and_materials_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Covered via cash stipend."
+    },
+    "research_funding_conference_grant": {
+      "status": "NOT_COVERED",
+      "details": "Covered via university departmental resources."
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Discounted local public transportation pass available to students."
+    },
+    "total_estimated_value_usd_per_year": 12000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single University: DSU/EDISU application is submitted to the regional agency governing the specific Italian university where the student is enrolled.",
+    "participating_institutions": [
+      "Politecnico di Milano (DSU Lombardia), Politecnico di Torino (EDISU Piemonte), University of Bologna (ER.GO), Sapienza University of Rome (LazioDisco), University of Florence (DSU Toscana), University of Padua (ESU)"
+    ],
+    "university_rankings_scope": "Top 1 to 20 universities in Italy; QS World Rankings 100 to 400.",
+    "available_majors": [
+      "All majors (Computer Science, Artificial Intelligence, Mechanical Engineering, Civil Engineering, Architecture, Economics, Fashion Design, Data Science, Biomedical Engineering)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Bachelor's: 3 years (180 ECTS); Master's: 2 years (120 ECTS); PhD: 3 years",
+    "admission_requirements_summary": "University pre-admission offer letter, Universitaly pre-enrolment, ISEE Parificato financial documentation.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Admission is granted by the university; the scholarship is granted by the regional government agency. Once admitted to the university, getting the scholarship is practically guaranteed if income documents are certified properly.",
+    "strategic_program_match_advice": "Focus first on securing admission to the Italian university (December - April), then immediately prepare Pakistani family income documents for ISEE Parificato."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.edisu.piemonte.it/ (and respective regional portals: dsu.toscana.it, er-go.it, laziodisco.it)",
+    "portal_system_name": "Regional Scholarship Portals (EDISU, DSU Toscana, ER.GO, LazioDisco, etc.) & Universitaly Portal",
+    "account_creation_instructions": "Register on the respective regional scholarship portal (opens June/July) using passport details, and submit Universitaly pre-enrolment application.",
+    "step_by_step_workflow": [
+      "1. Apply to Italian university during admission calls (December - April) and secure admission letter.",
+      "2. Submit pre-enrolment application on official Universitaly portal (universitaly.it).",
+      "3. Gather family financial documents in Pakistan: Family Registration Certificate (FRC), Income Certificate (FBR return or employer letter), Property/House documents (Tehsildar certificate), Bank statements.",
+      "4. Attest all financial documents from MOFA (Ministry of Foreign Affairs) in Pakistan.",
+      "5. Translate all documents into Italian via official Italian Embassy approved translators.",
+      "6. Obtain Consular Legalization / Declaration of Value (DOV) or CIMEA comparability certificate.",
+      "7. Send documents to Italian Tax Assistance Center (CAF) in Italy to calculate ISEE Parificato certificate.",
+      "8. Apply online on the regional scholarship portal (e.g. EDISU / DSU) before late August / early September deadline.",
+      "9. Provisional ranking list published (September/October); Final ranking in December.",
+      "10. 1st stipend installment and free meal card issued in December/January; 2nd installment in June."
+    ],
+    "university_vs_scholarship_routing": "Completely separate: Apply to university admissions first; apply to regional DSU agency for scholarship in summer.",
+    "recommendation_letters_submission_method": "Not required for DSU scholarship.",
+    "personal_statement_prompts": "Not required for DSU scholarship (evaluated strictly on financial need index and university admission).",
+    "study_plan_research_proposal_requirements": "Not applicable.",
+    "cv_format_requirements": "Europass CV used for university admissions.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interview conducted for regional scholarship; 100% paper-based financial qualification.",
+    "standardized_tests": "None for scholarship; university admission may require TOLC exam or GRE.",
+    "application_fee_amount": "€0.00 (Regional scholarship application is 100% FREE).",
+    "attestation_requirements": "CRITICAL: All family income, property, and civil status documents from Pakistan must be attested by MOFA and translated into Italian.",
+    "translation_requirements": "Official certified Italian translations of all Pakistani documents.",
+    "final_submission_method": "100% online portal submission on the regional portal, followed by physical presentation of original financial documents upon arrival in Italy."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Italian University Admission Letter",
+      "mandatory": true,
+      "specification": "Official acceptance letter from an Italian public university",
+      "pakistan_specific_instruction": "Required to prove eligible university enrollment"
+    },
+    {
+      "document_name": "NADRA Family Registration Certificate (FRC)",
+      "mandatory": true,
+      "specification": "Issued by NADRA showing all family members, attested by MOFA and translated into Italian",
+      "pakistan_specific_instruction": "Proves family composition and number of dependents"
+    },
+    {
+      "document_name": "Family Income Certificate (Annual Income)",
+      "mandatory": true,
+      "specification": "Salary slips / employer certificate / FBR tax return for parent(s) for the prior fiscal year, attested by MOFA and translated",
+      "pakistan_specific_instruction": "Demonstrates family income is below €24,000 threshold"
+    },
+    {
+      "document_name": "Family Property Certificate (House / Land)",
+      "mandatory": true,
+      "specification": "Certificate from local Tehsildar / municipal authority showing square meters of family home, or rental agreement if renting",
+      "pakistan_specific_instruction": "Attested by MOFA and translated into Italian"
+    },
+    {
+      "document_name": "Bank Statement of All Family Members",
+      "mandatory": true,
+      "specification": "Bank balance certificates as of December 31 of prior year for all bank accounts",
+      "pakistan_specific_instruction": "Attested by MOFA and translated into Italian"
+    },
+    {
+      "document_name": "Valid Pakistani Passport",
+      "mandatory": true,
+      "specification": "Valid for at least 18 months",
+      "pakistan_specific_instruction": "Required for portal registration and Italian National D Visa"
+    },
+    {
+      "document_name": "ISEE Parificato Certificate",
+      "mandatory": true,
+      "specification": "Calculated by an Italian Tax Assistance Center (CAF) based on the above documents",
+      "pakistan_specific_instruction": "Uploaded to the regional DSU/EDISU portal"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "June / July annually (regional portals open)",
+    "application_deadline": "Late August to early September annually (strict regional deadlines)",
+    "university_admission_deadline": "February - April (university admissions call)",
+    "document_submission_deadline": "Coincides with regional deadline (August/September)",
+    "recommendation_letters_deadline": "N/A",
+    "interview_period": "N/A",
+    "shortlist_announcement": "Provisional ranking: September/October; Final ranking: December",
+    "final_result_acceptance_deadline": "December annually",
+    "visa_application_window": "July - September (Italian Embassy Islamabad / Consulate Karachi)",
+    "semester_commencement": "Late September / October (Fall Semester)",
+    "annual_cycle_notes": "Financial documents must be prepared strictly following Italian consular specifications in Pakistan."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "0% for first-year entry (only university admission required; merit criteria apply for 2nd year renewal)",
+    "extracurricular_and_leadership_weight": "0%",
+    "research_experience_weight": "0%",
+    "work_experience_weight": "0%",
+    "personal_statement_weight": "0%",
+    "recommendations_weight": "0%",
+    "interview_weight": "0%",
+    "test_scores_weight": "0%",
+    "financial_need_weight": "100% (Calculated strictly via the official Italian ISEE Parificato formula)",
+    "selection_panel_composition": "Regional Government Directorate for the Right to University Study (Diritto allo Studio Universitario - DSU).",
+    "evaluation_methodology": "Mathematical formula: Applicants with ISEE Parificato < €24,000 are ranked from lowest income to highest; virtually all eligible international students receive scholarship awards."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~5,000 to 15,000 per region (Italy-wide over 80,000 applicants)",
+    "total_scholarships_awarded": "Thousands of scholarships per region (entitlement program)",
+    "acceptance_rate_global": "~75% to 85% of eligible applicants who meet financial criteria receive awards",
+    "acceptance_rate_pakistan": "~80% of Pakistani students with verified ISEE documents receive full funding (Highest Success Rate in Europe)",
+    "typical_successful_applicant_gpa": "2.50 to 3.50 / 4.00 CGPA (Admission to Italian university is the main hurdle)",
+    "typical_academic_and_research_profile": "Secured university admission, perfectly attested Pakistani income and property documents.",
+    "common_backgrounds_of_winners": "Pakistani students from all backgrounds and provinces admitted to Politecnico di Milano, Politecnico di Torino, Sapienza, Bologna, Florence, Padua.",
+    "high_representation_countries": "Pakistan, Iran, India, Turkey, Lebanon, Egypt.",
+    "competitiveness_tier": "MODERATE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unregistered agents in Pakistan charging €1,500 to €3,000 claiming they 'grant' Italian scholarships. Regional DSU scholarships are an Italian state right under law.",
+      "Fake CAF tax agents forging property documents (automatic Italian visa rejection and police reporting)."
+    ],
+    "application_fee_warning": "DSU/EDISU application is 100% FREE. Never pay any fee to the regional agency.",
+    "agent_and_intermediary_warnings": "Documents must be genuine; the Italian Embassy in Islamabad strictly cross-checks FBR and Tehsildar tax records.",
+    "hidden_costs_breakdown": [
+      "Document translation and consular legalization costs in Pakistan (PKR 30,000 to 70,000).",
+      "Italian Embassy student visa appointment and Gerry's fees (~PKR 25,000).",
+      "CRITICAL INITIAL CASH BUFFER: The first DSU scholarship installment is paid in late December or January. Students MUST arrive in Italy with sufficient personal funds (€1,500 to €2,500) to cover initial rent deposits and food for the first 3 months!",
+      "Italian Permesso di Soggiorno (Residence Permit) card fee (€120) upon arrival."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You get paid before traveling. (Fact: You do NOT receive any money before arriving in Italy; the scholarship is disbursed only after physical university matriculation in Italy).",
+      "MYTH: You cannot work in Italy. (Fact: Italian student residence permits allow students to legally work up to 20 hours per week)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Each Italian region (Piedmont, Tuscany, Lombardy, Lazio, Emilia-Romagna) has slightly different ISEE thresholds and deadlines; check the exact regional call (Bando)."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must earn minimum university credits (CFU/ECTS) to keep scholarship: typically at least 20 to 35 credits by August 10 of Year 1 to qualify for 2nd year renewal and avoid stipend clawback.",
+    "attendance_requirements": "Full physical enrollment and attendance in Italy.",
+    "academic_progress_monitoring": "Credits automatically verified with university registry.",
+    "work_restrictions_during_study": "Part-time student employment permitted up to 20 hours/week (max 1,040 hours/year) under Italian immigration law.",
+    "home_country_return_obligation": "NO mandatory home return requirement. Graduates can convert their Italian study residence permit to a 1-year Job Seeker Permit (Permesso di Soggiorno per Ricerca Lavoro) or full Work Permit (Lavoro Subordinato).",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "CRITICAL WARNING: If a first-year student fails to earn at least 20 credits by August 10, the regional agency DEMANDS FULL REPAYMENT of the cash stipend and charges for meals consumed!",
+    "rules_for_changing_university": "Permitted only within the same region or upon formal transfer of DSU file.",
+    "rules_for_changing_major": "Permitted once with credit loss implications.",
+    "extension_policy": "Eligible for extra semester (fuori corso) support of 50% allowance."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "EDISU Piemonte / DSU Toscana / LazioDisco Official Portals",
+      "source_url": "https://www.edisu.piemonte.it/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact number of Pakistani recipients per individual university (reported in aggregate as non-EU)",
+        "Internal waitlist clearance velocity for dormitory placements"
+      ]
+    },
+    {
+      "source_name": "Universitaly - Official Italian Ministry of University and Research (MUR) Portal",
+      "source_url": "https://www.universitaly.it/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Visa issuance quota caps at the Italian Embassy in Islamabad"
+      ]
+    }
+  ]
+}

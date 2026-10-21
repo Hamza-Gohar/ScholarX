@@ -1,0 +1,281 @@
+{
+  "scholarship_id": "SCH-AS-004",
+  "basic_details": {
+    "scholarship_name": "ANSO Scholarship for Young Talents",
+    "offering_entity": "Alliance of International Science Organizations (ANSO) & Chinese Academy of Sciences (CAS)",
+    "host_country": "China",
+    "host_institutions_covered": "University of Science and Technology of China (USTC) & University of Chinese Academy of Sciences (UCAS) and over 100 CAS research institutes across China",
+    "degree_levels": [
+      "Master's",
+      "PhD (Doctoral)"
+    ],
+    "major_restrictions": "Science, Technology, Engineering, Mathematics, and Medicine (STEM): Physical Sciences, Chemical Sciences, Life Sciences, Earth & Environmental Sciences, Computer Science, AI, Materials Science, Engineering.",
+    "number_of_awards_total": "~500 scholarships awarded annually (~200 Master's, ~300 PhD)",
+    "number_of_awards_pakistan": "Open to Pakistan as a founding member country of ANSO (~50 to 80 Pakistani scholars selected annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 36 months for Master's; up to 48 months for PhD"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Non-Chinese citizens of an eligible country (Pakistani citizens eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Master's applicants: maximum 30 years of age; PhD applicants: maximum 35 years of age on December 31 of award year.",
+    "academic_qualifications": "16 years of education (Bachelor's) for Master's; 18 years (Master's) for PhD from an HEC-recognized institution.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum 3.00 / 4.00 CGPA or equivalent; admitted scholars typically present 3.50+ CGPA.",
+    "subject_background_prerequisites": "Undergraduate or postgraduate degree in natural sciences, engineering, or computing.",
+    "current_education_status": "Graduated or in final semester of degree.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Research publications in international peer-reviewed journals (SCI/EI indexed) carry decisive weight.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 90,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": true,
+      "notes": "IELTS Academic 6.5+, TOEFL iBT 90+, or official English Proficiency Certificate (Medium of Instruction - MOI) issued by university registrar."
+    },
+    "other_language_requirements": "Chinese language (HSK) not mandatory for English-taught programs.",
+    "gender_specific_requirements": "Equal opportunity; diversity encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates MUST find a host supervisor at USTC or UCAS/CAS institute who agrees to accept them.",
+    "previous_scholarship_restrictions": "Ineligible if currently enrolled in a Chinese university or holding another Chinese government scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition waiver for the entire duration of the degree program at USTC or UCAS.",
+      "amount": "RMB 30,000 to 40,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Application fee waived by host institutions for ANSO applicants.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "FREE DORMITORY",
+      "details": "Free on-campus dormitory accommodation (single room for PhD, shared room for Master's) or off-campus housing subsidy.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Generous monthly living allowance paid directly to scholar.",
+      "amount": "Master's: RMB 3,000 / month (~PKR 115,000 / month); PhD: RMB 6,000 to 7,000 / month (~PKR 230,000 to 270,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "International travel subsidy provided (one round-trip flight from home country to China).",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Chinese student visa (X1) application fee paid by student at Chinese Visa Application Service Centre (Gerry's) in Pakistan.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive Medical Insurance for Foreign Students in China provided (RMB 800/year).",
+      "amount": "RMB 800 / year"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly stipend.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Full access to state key laboratories and research project funding through the Chinese Academy of Sciences.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "One-time settlement subsidy provided upon initial arrival.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 22000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Apply to either University of Science and Technology of China (USTC) or University of Chinese Academy of Sciences (UCAS).",
+    "participating_institutions": [
+      "University of Science and Technology of China (USTC - Hefei)",
+      "University of Chinese Academy of Sciences (UCAS - Beijing)",
+      "Over 100 CAS Research Institutes (Institute of Physics, Institute of Automation, Shanghai Institute of Optics, etc.)"
+    ],
+    "university_rankings_scope": "USTC is World Top 60 (Nature Index Top 5 globally); CAS is World #1 research organization in Nature Index.",
+    "available_majors": [
+      "Artificial Intelligence, Computer Science, Quantum Information, Condensed Matter Physics, Chemistry, Materials Science, Environmental Sciences, Biology, Mechanical Engineering, Automation, Astronomy, Earth Sciences"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Up to 3 years for Master's; up to 4 years for PhD",
+    "admission_requirements_summary": "Contact prospective supervisor at USTC or UCAS to secure Provisional Acceptance Form; then apply via the university international student portal.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Securing supervisor acceptance is the key hurdle; once a professor accepts you, scholarship conversion is very high.",
+    "strategic_program_match_advice": "Search CAS research institutes directly; contacting faculty whose research matches your thesis publications yields the best response."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "http://www.anso.org.cn/",
+    "portal_system_name": "USTC / UCAS International Online Application System",
+    "account_creation_instructions": "Register on the USTC or UCAS online portal (Opens October/November), select 'ANSO Scholarship for Young Talents', and upload supervisor acceptance.",
+    "step_by_step_workflow": [
+      "1. Identify CAS/USTC faculty members in your research field and email them with your CV and publications (October-December).",
+      "2. Secure the signed 'Provisional Acceptance of International Student by Professor' form.",
+      "3. Create account on USTC portal (isa.ustc.edu.cn) or UCAS portal (admission.ucas.ac.cn).",
+      "4. Select ANSO Scholarship and upload academic degrees, transcripts, research proposal, and references.",
+      "5. Submit complete application before deadline (February 15).",
+      "6. Academic review and expert panel evaluations take place in March/April.",
+      "7. Final ANSO scholarship results announced in May/June; JW202 visa forms issued."
+    ],
+    "university_vs_scholarship_routing": "Combined single application via USTC or UCAS portal.",
+    "recommendation_letters_submission_method": "Submitted online by two professors via email link sent by the admission system.",
+    "personal_statement_prompts": "Study Plan / Research Proposal (minimum 800 words for Master's, 1,500 words for PhD) describing research goals and background.",
+    "study_plan_research_proposal_requirements": "Detailed research plan detailing research background, objectives, experimental design, and expected results.",
+    "cv_format_requirements": "Detailed academic CV with full list of research publications (DOI links, impact factors).",
+    "interviews_conducted": true,
+    "interview_format_details": "Host research group and departmental panel conduct 20-30 minute technical video interview via Zoom/Voov.",
+    "standardized_tests": "GRE not required; English language certificate required.",
+    "application_fee_amount": "$0 (Waived for ANSO applicants).",
+    "attestation_requirements": "Degrees and transcripts must be notarized; HEC and MOFA attestation required for final enrollment.",
+    "translation_requirements": "Notarized English or Chinese translations.",
+    "final_submission_method": "100% Online via USTC / UCAS portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Supervisor Provisional Acceptance Form",
+      "mandatory": true,
+      "specification": "Official form signed by prospective USTC or UCAS supervisor",
+      "pakistan_specific_instruction": "Critical gatekeeper document; required for submission"
+    },
+    {
+      "document_name": "Academic Diplomas & Transcripts",
+      "mandatory": true,
+      "specification": "Notarized copies of Bachelor's and Master's degrees and complete transcripts",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan and notarized"
+    },
+    {
+      "document_name": "Two Recommendation Letters",
+      "mandatory": true,
+      "specification": "Letters from professors or associate professors on university letterhead",
+      "pakistan_specific_instruction": "Uploaded directly by referees"
+    },
+    {
+      "document_name": "Research Proposal",
+      "mandatory": true,
+      "specification": "Detailed proposal (minimum 1,500 words for PhD)",
+      "pakistan_specific_instruction": "Aligned with prospective Chinese laboratory"
+    },
+    {
+      "document_name": "Foreigner Physical Examination Form",
+      "mandatory": true,
+      "specification": "Official Chinese physical examination form signed and stamped by doctor",
+      "pakistan_specific_instruction": "Issued by registered government hospital with blood test reports"
+    },
+    {
+      "document_name": "Non-Criminal Record Certificate",
+      "mandatory": true,
+      "specification": "Police clearance certificate",
+      "pakistan_specific_instruction": "Issued by local Pakistani police department / Police Khidmat Markaz"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-20",
+    "application_deadline": "2027-02-15",
+    "university_admission_deadline": "2027-02-15",
+    "document_submission_deadline": "2027-02-15",
+    "recommendation_letters_deadline": "2027-02-25",
+    "interview_period": "March to April 2027",
+    "shortlist_announcement": "May 2027",
+    "final_result_acceptance_deadline": "2027-06-30",
+    "visa_application_window": "July to August 2027",
+    "semester_commencement": "September 2027",
+    "annual_cycle_notes": "Application deadline is strictly mid-February each year. Final results released late May to June."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Academic background, grades, prestige of home university)",
+    "extracurricular_and_leadership_weight": "5% (Secondary)",
+    "research_experience_weight": "40% (SCI indexed publications, research proposal quality, laboratory skills)",
+    "work_experience_weight": "5% (Research experience)",
+    "personal_statement_weight": "5% (Study plan clarity)",
+    "recommendations_weight": "10% (Supervisor acceptance and referee endorsements)",
+    "interview_weight": "Decisive during professor interview",
+    "test_scores_weight": "Language threshold required",
+    "financial_need_weight": "0% (Exclusively merit-based)",
+    "selection_panel_composition": "Joint evaluation by host institute professors, university international student committees, and the ANSO Secretariat.",
+    "evaluation_methodology": "Two-tier review: Host supervisor accepts candidate; central ANSO scientific committee reviews and approves award."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~6,000+ applicants across all ANSO partner countries",
+    "total_scholarships_awarded": "~500 scholarships awarded annually",
+    "acceptance_rate_global": "~8%",
+    "acceptance_rate_pakistan": "~5% to 7% (Very favorable for candidates with published research)",
+    "typical_successful_applicant_gpa": "3.40 to 3.90 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Graduates with at least 1 or 2 published peer-reviewed journal papers in international journals.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani universities (NUST, Quaid-i-Azam, COMSATS, UET Lahore, Punjab University) with strong lab experience.",
+    "high_representation_countries": "Pakistan, Russia, Kazakhstan, Thailand, Egypt, Iran, Nepal, Kenya.",
+    "competitiveness_tier": "VERY HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Agents claiming they can guarantee ANSO supervisor acceptance for PKR 200,000+."
+    ],
+    "application_fee_warning": "ANSO application is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Never hire agents; prospective professors communicate only with the candidate directly.",
+    "hidden_costs_breakdown": [
+      "Chinese student visa fee (~PKR 15,000 to 20,000).",
+      "Police clearance and medical checkup fees in Pakistan (~PKR 15,000).",
+      "Initial pocket money before first stipend release in Hefei or Beijing."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You cannot apply without an HSK Chinese certificate. (Fact: Programs are taught 100% in English; no Chinese test required).",
+      "MYTH: You can apply without contacting a professor. (Fact: Applications without supervisor acceptance are rejected)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some websites advertise this as CSC; ANSO is an independent flagship program with higher PhD stipends (up to RMB 7,000/month vs CSC RMB 3,500/month)."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass all required graduate coursework and achieve satisfactory annual progress in research milestones.",
+    "attendance_requirements": "Full-time physical research attendance at host CAS institute in China.",
+    "academic_progress_monitoring": "Annual scholarship review conducted by host supervisor and academic committee.",
+    "work_restrictions_during_study": "Off-campus employment is restricted under Chinese X1 visa rules without university authorization.",
+    "home_country_return_obligation": "None; scholars can pursue postdoctoral research in China or internationally.",
+    "service_obligations_or_bonds": "None; expected to acknowledge ANSO in research publications.",
+    "repayment_clawback_conditions": "Failing annual review or violation of Chinese laws leads to immediate termination.",
+    "rules_for_changing_university": "Strictly prohibited.",
+    "rules_for_changing_major": "Requires approval from host supervisor and university.",
+    "extension_policy": "Extensions are strictly granted only under exceptional circumstances approved by the ANSO Secretariat."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Alliance of International Science Organizations (ANSO) - Scholarships Portal",
+      "source_url": "http://www.anso.org.cn/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Allocation formula of spots between USTC and UCAS institutes",
+        "Internal country quota breakdown among ANSO member states"
+      ]
+    },
+    {
+      "source_name": "University of Science and Technology of China (USTC) - International Admissions",
+      "source_url": "https://isa.ustc.edu.cn/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Specific lab-by-lab funding quotas across CAS research centers"
+      ]
+    }
+  ]
+}

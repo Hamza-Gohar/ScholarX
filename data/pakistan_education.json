@@ -1,0 +1,51 @@
+{
+  "education_levels": [
+    { "code": "SSC", "title": "Secondary School Certificate / Matric", "duration_years": 10 },
+    { "code": "HSSC", "title": "Higher Secondary School Certificate / Intermediate (FSc / ICS / ICom / FA)", "duration_years": 12 },
+    { "code": "BS", "title": "Bachelor of Studies / BS / BE / BBA / BSc (Hons)", "duration_years": 16 },
+    { "code": "MS", "title": "Master of Studies / MS / MSc / MPhil / ME", "duration_years": 18 },
+    { "code": "PHD", "title": "Doctor of Philosophy / PhD", "duration_years": 21 }
+  ],
+  "intermediate_streams": [
+    { "name": "ICS", "fullName": "Intermediate in Computer Science", "subjects": ["Math", "Physics", "Computer Science", "English", "Urdu", "Islamiat/Pak Studies"] },
+    { "name": "FSc Pre-Engineering", "fullName": "Faculty of Science Pre-Engineering", "subjects": ["Math", "Physics", "Chemistry", "English", "Urdu", "Islamiat/Pak Studies"] },
+    { "name": "FSc Pre-Medical", "fullName": "Faculty of Science Pre-Medical", "subjects": ["Biology", "Physics", "Chemistry", "English", "Urdu", "Islamiat/Pak Studies"] },
+    { "name": "General Science", "fullName": "Faculty of Arts / General Science", "subjects": ["Math", "Statistics", "Economics", "English", "Urdu", "Islamiat/Pak Studies"] }
+  ],
+  "boards_of_intermediate_and_secondary_education": [
+    "Federal Board of Intermediate and Secondary Education (FBISE), Islamabad",
+    "Board of Intermediate and Secondary Education (BISE), Lahore",
+    "Board of Intermediate and Secondary Education (BISE), Rawalpindi",
+    "Board of Intermediate and Secondary Education (BISE), Faisalabad",
+    "Board of Intermediate and Secondary Education (BISE), Gujranwala",
+    "Board of Intermediate and Secondary Education (BISE), Multan",
+    "Board of Intermediate and Secondary Education (BISE), Bahawalpur",
+    "Board of Intermediate and Secondary Education (BISE), Sahiwal",
+    "Board of Intermediate and Secondary Education (BISE), D.G. Khan",
+    "Board of Intermediate Education (BIEK), Karachi",
+    "Board of Secondary Education (BSEK), Karachi",
+    "Board of Intermediate and Secondary Education (BISE), Hyderabad",
+    "Board of Intermediate and Secondary Education (BISE), Sukkur",
+    "Board of Intermediate and Secondary Education (BISE), Larkana",
+    "Board of Intermediate and Secondary Education (BISE), Mirpurkhas",
+    "Board of Intermediate and Secondary Education (BISE), Peshawar",
+    "Board of Intermediate and Secondary Education (BISE), Abbottabad",
+    "Board of Intermediate and Secondary Education (BISE), Mardan",
+    "Board of Intermediate and Secondary Education (BISE), Swat",
+    "Board of Intermediate and Secondary Education (BISE), Kohat",
+    "Board of Intermediate and Secondary Education (BISE), Bannu",
+    "Board of Intermediate and Secondary Education (BISE), Malakand",
+    "Board of Intermediate and Secondary Education (BISE), D.I. Khan",
+    "Board of Intermediate and Secondary Education (BISE), Quetta",
+    "AJK Board of Intermediate and Secondary Education, Mirpur",
+    "Karakoram International University Examination Board, Gilgit"
+  ],
+  "grading_scale_bise": [
+    { "grade": "A+", "percentage_min": 80.0, "percentage_max": 100.0, "gpa_equiv": 4.0, "uk_equiv": "First Class Honours" },
+    { "grade": "A", "percentage_min": 70.0, "percentage_max": 79.99, "gpa_equiv": 3.7, "uk_equiv": "First Class Honours" },
+    { "grade": "B", "percentage_min": 60.0, "percentage_max": 69.99, "gpa_equiv": 3.0, "uk_equiv": "Upper Second Class Honours (2:1)" },
+    { "grade": "C", "percentage_min": 50.0, "percentage_max": 59.99, "gpa_equiv": 2.5, "uk_equiv": "Lower Second Class Honours (2:2)" },
+    { "grade": "D", "percentage_min": 40.0, "percentage_max": 49.99, "gpa_equiv": 2.0, "uk_equiv": "Third Class Honours (3rd)" },
+    { "grade": "E", "percentage_min": 33.0, "percentage_max": 39.99, "gpa_equiv": 1.0, "uk_equiv": "Pass" }
+  ]
+}

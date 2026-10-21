@@ -1,0 +1,562 @@
+# 7. Uppsala University Global Scholarship (SCH-EU-036) & 8. Lund University Global Scholarship (SCH-EU-037)
+
+DATA_P2 = {
+    "SCH-EU-036": {
+        "scholarship_id": "SCH-EU-036",
+        "basic_details": {
+            "scholarship_name": "Uppsala University Global Scholarship",
+            "offering_entity": "Uppsala University (Uppsala, Sweden)",
+            "host_country": "Sweden",
+            "host_institutions_covered": "Uppsala University (Uppsala & Campus Gotland, Sweden)",
+            "degree_levels": ["Master's Degree (MSc, MA, LLM)"],
+            "major_restrictions": "Open to all international Master's degree programmes taught in English: Faculty of Science & Technology (Computer Science, Computational Science, Embedded Systems, Data Science, Applied Biotechnology, Biomedicine, Chemistry, Physics & Astronomy, Renewable Energy), Faculty of Pharmacy, Faculty of Medicine, Faculty of Social Sciences, and Faculty of Law.",
+            "number_of_awards_total": "~20 to 25 full tuition scholarships awarded annually to outstanding non-EU students",
+            "number_of_awards_pakistan": "Open international competition; Pakistani candidates with 3.8+ GPA frequently win awards in engineering, pharmacy, and computer science (typically 2 to 5 awardees/yr)",
+            "funding_classification": "FULLY_FUNDED",
+            "duration_of_scholarship": "Full duration of Master's program: 2 years (120 ECTS, contingent on satisfactory study progress in Year 1)"
+        },
+        "eligibility_requirements": {
+            "nationality_requirements": ["Citizens of a country outside the EU/EEA and Switzerland required to pay Swedish tuition fees"],
+            "pakistan_eligible": True,
+            "age_limit_undergrad": None,
+            "age_limit_postgrad": None,
+            "age_limit_notes": "No age restriction.",
+            "academic_qualifications": "Completed 4-year Bachelor's degree (16 years education) with outstanding academic standing (equivalent to top 5% of class, minimum 3.75 / 4.00 CGPA or 82%+ aggregate from recognized Pakistani universities like NUST, FAST-NUCES, LUMS, QAU, UET, AKU).",
+            "minimum_gpa_percentage": 82.0,
+            "minimum_gpa_scale": 3.75,
+            "grading_conversion_notes": "Equivalence evaluated against Swedish higher education grading scale (Pass with Distinction / VG); first-class honors required.",
+            "subject_background_prerequisites": "Substantial undergraduate coursework directly aligned with the specific Master's program prerequisites.",
+            "current_education_status": "Graduated or currently in final semester of degree graduating before autumn semester start.",
+            "graduation_year_restrictions": "None.",
+            "work_experience_required": False,
+            "work_experience_minimum_years": 0.0,
+            "work_experience_notes": "Academic excellence is the sole primary selection criterion; research experience is evaluated through CV.",
+            "english_proficiency": {
+                "test_required": True,
+                "ielts_minimum": 6.5,
+                "toefl_minimum": 90,
+                "duolingo_accepted": False,
+                "moi_certificate_accepted": False,
+                "notes": "English 6 requirement: IELTS Academic overall 6.5 (minimum 5.5 in each band) or TOEFL iBT min 90 (writing 20+)."
+            },
+            "other_language_requirements": "English; Swedish language classes offered free of charge on campus.",
+            "gender_specific_requirements": "None.",
+            "financial_need_required": False,
+            "special_eligibility_categories": "Elite international scholars in Computer Science, Biomedicine, Biotechnology, and Physics.",
+            "previous_scholarship_restrictions": "Cannot be held simultaneously with a Swedish Institute (SI) scholarship.",
+            "can_apply_result_awaiting": True
+        },
+        "financial_coverage_breakdown": {
+            "tuition_fee": {
+                "status": "100% COVERED",
+                "details": "Covers 100% of the full international tuition fee (SEK 120,000 to SEK 160,000/year; total 2-year value SEK 240,000 to SEK 320,000).",
+                "amount": "100% covered (~SEK 120,000 to 160,000 / year; ~PKR 3,350,000 to 4,460,000 / year)"
+            },
+            "admission_application_fee": {
+                "status": "NOT_COVERED",
+                "details": "Swedish central application fee (SEK 900) paid by applicant to Universityadmissions.se.",
+                "amount": "SEK 900 (~PKR 25,000)"
+            },
+            "accommodation": {
+                "status": "NOT_COVERED",
+                "details": "Scholarship covers tuition fees only; housing is self-funded. Uppsala Housing Office guarantees housing for fee-paying/scholarship international students.",
+                "amount": "Student room rent ~SEK 4,000 to 5,500 / month (~PKR 110,000 to 155,000 / mo)"
+            },
+            "monthly_stipend": {
+                "status": "NOT_COVERED",
+                "details": "Living expenses must be demonstrated for the Swedish Migration Agency (Migrationsverket) student residence permit (~SEK 10,314/month; ~SEK 103,140/year).",
+                "amount": "Tuition waiver only (~SEK 140,000/yr value)"
+            },
+            "airfare": {
+                "status": "NOT_COVERED",
+                "details": "International travel expenses to Sweden are borne by the candidate.",
+                "amount": "Self-funded (~PKR 180,000 to 250,000)"
+            },
+            "visa_fee": {
+                "status": "NOT_COVERED",
+                "details": "Swedish residence permit for higher education application fee (SEK 1,500) paid to Swedish Migration Agency.",
+                "amount": "SEK 1,500 (~PKR 42,000)"
+            },
+            "health_insurance": {
+                "status": "100% COVERED",
+                "details": "All fee-paying and scholarship students are covered by the Swedish state comprehensive insurance policy (FAS+ / Kammarkollegiet) free of charge.",
+                "amount": "100% covered by Swedish state"
+            },
+            "food_allowance": {
+                "status": "NOT_COVERED",
+                "details": "Daily living and meal expenses are self-funded (~SEK 2,500 to 3,500/month).",
+                "amount": "Self-funded (~SEK 3,000 / month)"
+            },
+            "books_and_materials_allowance": {
+                "status": "NOT_COVERED",
+                "details": "Textbooks and course materials paid by student (~SEK 750/month).",
+                "amount": "~SEK 3,000 / semester"
+            },
+            "research_funding_conference_grant": {
+                "status": "PROVIDED_BY_FACULTY",
+                "details": "Departments provide advanced laboratories, research instrumentation, and computing clusters for thesis research.",
+                "amount": "Provided by research departments"
+            },
+            "travel_transit_allowance": {
+                "status": "NOT_COVERED",
+                "details": "Local Uppsala bus transit or train to Stockholm (UL/SL student monthly pass) paid by student.",
+                "amount": "~SEK 700 / month"
+            },
+            "total_estimated_value_usd_per_year": 16000
+        },
+        "university_and_program_options": {
+            "single_or_multiple_universities": "Single institution (Uppsala University, Sweden - QS World Rank #105, Founded 1477)",
+            "participating_institutions": ["Uppsala University (Angstrom Laboratory, Biomedical Centre - BMC, Campus Gotland)"],
+            "university_rankings_scope": "Scandinavia's oldest university (Nobel Laureates include Svante Arrhenius, Manne Siegbahn, Dag Hammarskjold); Top 100 globally in Life Sciences & Pharmacy.",
+            "available_majors": [
+                "Computer Science",
+                "Computational Science",
+                "Embedded Systems",
+                "Data Science",
+                "Applied Biotechnology",
+                "Biomedicine",
+                "Pharmaceutical Sciences",
+                "Chemistry (Chemical Biology, Physical Chemistry)",
+                "Physics (Nuclear & Particle Physics, Materials Physics, Geophysics)",
+                "Renewable Energy (Campus Gotland)",
+                "Peace and Conflict Studies",
+                "International Tax Law and EU Law"
+            ],
+            "english_taught_program_availability": True,
+            "program_duration": "Master's Degree: 2 years (120 ECTS).",
+            "admission_requirements_summary": "Bachelor's degree with minimum 3.75+ CGPA, detailed course match, program ranked as #1 preference on Universityadmissions.se, and approved English proficiency.",
+            "is_admission_separate_from_scholarship": True,
+            "pre_admission_acceptance_letter_required": False,
+            "easiest_hardest_institutions_guidance": "Data Science and Computer Science are highly competitive; Biomedical Sciences and Chemistry have slightly higher scholarship acceptance rates for students with lab backgrounds.",
+            "strategic_program_match_advice": "Critical Swedish rule: You MUST rank the Uppsala University Master's program as your FIRST PRIORITY (Priority 1) on Universityadmissions.se before the 15 January deadline. Applications where Uppsala is ranked lower are disqualified from scholarship consideration."
+        },
+        "application_process_roadmap": {
+            "submission_portal_url": "https://www.universityadmissions.se/ and https://www.uu.se/en/study/scholarships",
+            "portal_system_name": "University Admissions in Sweden (national portal) & Uppsala University Scholarship Portal",
+            "account_creation_instructions": "Submit Master's program application on universityadmissions.se by 15 January, pay application fee, then submit online scholarship application via Uppsala portal in mid-January.",
+            "step_by_step_workflow": [
+                "Step 1: Create an account on the Swedish national admissions portal (universityadmissions.se).",
+                "Step 2: Select your target Uppsala University Master's degree and rank it as your FIRST CHOICE (Priority 1).",
+                "Step 3: Pay the application fee of SEK 900 before the national deadline (1 February).",
+                "Step 4: Upload all academic transcripts, degree certificate, syllabus, and English score to universityadmissions.se.",
+                "Step 5: Access the Uppsala University Scholarship Application Portal (opens mid-January).",
+                "Step 6: Enter your 8-digit Universityadmissions.se application number.",
+                "Step 7: Submit the Uppsala scholarship motivation letter explaining your academic ambitions.",
+                "Step 8: Submit the scholarship application before the strict deadline (early February).",
+                "Step 9: Swedish national admissions results announced in late March.",
+                "Step 10: Uppsala scholarship award letters issued in early April to admitted candidates; accept offer and lodge residence permit application."
+            ],
+            "university_vs_scholarship_routing": "Dual application: Program application submitted via universityadmissions.se, followed by online scholarship application on Uppsala University's scholarship page.",
+            "recommendation_letters_submission_method": "Not required for general scholarship; submitted only if requested by specific academic department.",
+            "personal_statement_prompts": "Uppsala scholarship motivation statement: Describe your academic achievements, why you chose Uppsala, and how your Master's degree will impact your future scientific career.",
+            "study_plan_research_proposal_requirements": "Not required for taught MSc; research interests stated in motivation letter.",
+            "cv_format_requirements": "Detailed academic CV outlining courses, technical projects, thesis abstract, and academic honours.",
+            "interviews_conducted": False,
+            "interview_format_details": "No interviews conducted; purely document-based evaluation.",
+            "standardized_tests": "IELTS Academic (6.5+, subscores 5.5+) or TOEFL iBT (90+). GRE not required.",
+            "application_fee_amount": "SEK 900 (Swedish national portal application fee)",
+            "attestation_requirements": "Color scanned copies of original degrees and transcripts; verified documents must meet Swedish Universityadmissions.se country-specific rules for Pakistan (degrees verified by HEC).",
+            "translation_requirements": "Certified English translations for all non-English documents.",
+            "final_submission_method": "Online via Universityadmissions.se and Uppsala University scholarship portal."
+        },
+        "required_documents_checklist": [
+            {
+                "document_name": "International Passport Copy",
+                "mandatory": True,
+                "specification": "Clear color copy of valid international passport data page.",
+                "pakistan_specific_instruction": "Ensure name spelling matches educational certificates."
+            },
+            {
+                "document_name": "Official Academic Transcripts and Degree Certificate",
+                "mandatory": True,
+                "specification": "Complete transcripts of 4-year Bachelor's degree showing courses, credits, and grading system.",
+                "pakistan_specific_instruction": "Higher Education Commission (HEC) Pakistan attested documents."
+            },
+            {
+                "document_name": "Official University Grading Scale",
+                "mandatory": True,
+                "specification": "Official grading scale document explaining GPA conversion and class rank.",
+                "pakistan_specific_instruction": "Obtain grading explanation from university registrar."
+            },
+            {
+                "document_name": "Uppsala Scholarship Motivation Letter",
+                "mandatory": True,
+                "specification": "1-page motivation statement submitted through the Uppsala scholarship portal.",
+                "pakistan_specific_instruction": "Highlight academic excellence and alignment with Uppsala's research legacy."
+            },
+            {
+                "document_name": "Curriculum Vitae (CV)",
+                "mandatory": True,
+                "specification": "Comprehensive academic CV detailing education, projects, technical skills, and honours.",
+                "pakistan_specific_instruction": "Clean academic layout emphasizing technical skills."
+            },
+            {
+                "document_name": "English Language Proficiency Certificate",
+                "mandatory": True,
+                "specification": "Official IELTS Academic (overall 6.5+, subscores 5.5+) or TOEFL iBT (90+) test report.",
+                "pakistan_specific_instruction": "Must satisfy Swedish 'English 6' requirement."
+            }
+        ],
+        "important_dates_timeline": {
+            "application_open_date": "Mid-October",
+            "application_deadline": "15 January (National application deadline on Universityadmissions.se); Early February (Uppsala scholarship portal deadline)",
+            "university_admission_deadline": "15 January (Ranking Uppsala as Priority 1)",
+            "document_submission_deadline": "1 February (Fee payment and document upload deadline)",
+            "recommendation_letters_deadline": "Same as document deadline",
+            "interview_period": "None (Document review)",
+            "shortlist_announcement": "Late March (Admissions results) & Early April (Scholarship results)",
+            "final_result_acceptance_deadline": "Within 10 days of scholarship offer",
+            "visa_application_window": "April - June (Swedish residence permit application via Migrationsverket)",
+            "semester_commencement": "Late August / Early September",
+            "annual_cycle_notes": "One annual national intake cycle. You must apply by 15 January and rank Uppsala as #1 choice to be eligible for scholarship."
+        },
+        "selection_process_and_weights": {
+            "academic_weight": "60% (Undergraduate GPA, academic grades in relevant subjects, and university reputation)",
+            "extracurricular_and_leadership_weight": "5% (Student leadership and community contributions)",
+            "research_experience_weight": "15% (Undergraduate research projects, publications, and thesis grade)",
+            "work_experience_weight": "5% (Professional internships or technical work)",
+            "personal_statement_weight": "15% (Quality of scholarship motivation letter and academic ambition)",
+            "recommendations_weight": "0% (Not factored unless requested by department)",
+            "interview_weight": "0% (No interviews)",
+            "test_scores_weight": "Threshold requirement (IELTS/TOEFL compliance)",
+            "financial_need_weight": "0% (Strictly academic merit-based)",
+            "selection_panel_composition": "Uppsala University Scholarship Committee comprising faculty representatives, international admissions directors, and vice-rector.",
+            "evaluation_methodology": "Selection is purely merit-based. Applicants are evaluated based on their academic transcripts and motivation letter. Scholarships are awarded to candidates with the highest academic excellence who have ranked Uppsala as their first choice."
+        },
+        "competitiveness_profile": {
+            "total_annual_applicants": "~3,500 to 5,000 non-EU applicants apply to Uppsala University Master's programs",
+            "total_scholarships_awarded": "~20 to 25 full tuition scholarships awarded annually",
+            "acceptance_rate_global": "~0.5% to 0.7% (Extremely competitive)",
+            "acceptance_rate_pakistan": "~1% (Achievable for top 5% graduates from NUST, FAST, LUMS, QAU, GIKI with 3.8+ GPA)",
+            "typical_successful_applicant_gpa": "3.85+ / 4.00 CGPA (85%+ aggregate, top 5% of class)",
+            "typical_academic_and_research_profile": "Graduates of premier universities with high thesis grades, excellent mathematical and technical backgrounds, and strong motivation.",
+            "common_backgrounds_of_winners": "Graduates in Computer Science, Embedded Systems, Biotechnology, Biomedicine, and Physics.",
+            "high_representation_countries": "Pakistan, India, China, USA, Indonesia, Turkey, Bangladesh.",
+            "competitiveness_tier": "EXTREME"
+        },
+        "red_flags_and_warnings": {
+            "fake_websites_and_scams": [
+                "Commercial consultancies claiming they can secure Swedish scholarships for fees. All applications must be submitted via universityadmissions.se."
+            ],
+            "application_fee_warning": "Universityadmissions.se charges a national SEK 900 application fee. Uppsala University charges NO separate scholarship fee.",
+            "agent_and_intermediary_warnings": "Never allow agents to fill out your universityadmissions.se account; personal access and accurate documentation are essential.",
+            "hidden_costs_breakdown": [
+                "Living expenses are NOT covered by the scholarship; students must show proof of ~SEK 10,314/month living funds for the Swedish residence permit.",
+                "Swedish student residence permit fee (SEK 1,500).",
+                "Flight tickets between Pakistan and Stockholm Arlanda (~PKR 180,000 - 250,000).",
+                "Winter clothing and initial settlement expenses (~SEK 5,000 - 8,000)."
+            ],
+            "misleading_claims_debunked": [
+                "CLAIM: The scholarship includes monthly living stipend. (FACT: Uppsala Global Scholarship is strictly a 100% tuition fee waiver).",
+                "CLAIM: You can win the scholarship if Uppsala is your second choice. (FACT: You MUST rank Uppsala as Priority 1 on Universityadmissions.se)."
+            ],
+            "official_vs_unofficial_discrepancies": [
+                "Some aggregator websites confuse the Uppsala Global Scholarship with the Swedish Institute (SI) scholarship which covers living costs."
+            ]
+        },
+        "scholarship_obligations_and_terms": {
+            "minimum_gpa_maintenance": "Scholars must maintain satisfactory academic progress and complete at least 75% of credits (45 out of 60 ECTS) in Year 1 to qualify for Year 2 tuition waiver.",
+            "attendance_requirements": "Full-time physical attendance on campus in Uppsala.",
+            "academic_progress_monitoring": "Annual credit completion check conducted by the International Office.",
+            "work_restrictions_during_study": "Sweden allows international students to work with no legal limit on hours, provided academic studies remain full-time.",
+            "home_country_return_obligation": "None. International graduates can apply for a 12-month post-study residence permit to seek employment in Sweden.",
+            "service_obligations_or_bonds": "None.",
+            "repayment_clawback_conditions": "Tuition waiver is terminated if study progress is unsatisfactory or if student drops out; no clawback of past waived tuition.",
+            "rules_for_changing_university": "Non-transferable.",
+            "rules_for_changing_major": "Requires approval from the scholarship committee and faculty admissions board.",
+            "extension_policy": "Strictly limited to the 2-year duration of the Master's program."
+        },
+        "official_sources_verified": [
+            {
+                "source_name": "Uppsala University - Scholarships Official Portal",
+                "source_url": "https://www.uu.se/en/study/scholarships/uppsala-university-scholarships",
+                "source_type": "OFFICIAL_UNIVERSITY",
+                "verified_date": "2026-10-07",
+                "data_points_missing_or_unpublished_by_source": [
+                    "Departmental quota breakdown between STEM faculties and Humanities faculties.",
+                    "Internal cut-off GPA percentiles per individual Master's specialisation.",
+                    "Country-specific award distribution statistics."
+                ]
+            }
+        ]
+    },
+
+    "SCH-EU-037": {
+        "scholarship_id": "SCH-EU-037",
+        "basic_details": {
+            "scholarship_name": "Lund University Global Scholarship (LUGS)",
+            "offering_entity": "Lund University (Lund, Sweden)",
+            "host_country": "Sweden",
+            "host_institutions_covered": "Lund University (Lund, Helsingborg, and Malmö Campuses, Sweden)",
+            "degree_levels": ["Bachelor's Degree", "Master's Degree (MSc, MA, LLM)"],
+            "major_restrictions": "Open to all international Bachelor's and Master's degree programmes across all faculties: Faculty of Engineering (LTH - Wireless Communications, Machine Learning, Systems & Control, Biotechnology, Nanotechnology, Energy), Faculty of Science (Astrophysics, Bioinformatics, Molecular Biology, Physics), Faculty of Medicine (Public Health), School of Economics & Management, Faculty of Law, and Faculty of Social Sciences.",
+            "number_of_awards_total": "~30 to 45 competitive tuition awards (ranging from 25%, 50%, 75% to 100% tuition coverage) awarded annually",
+            "number_of_awards_pakistan": "Open global competition; Pakistani students with first-class engineering and computing degrees are well-represented (typically 3 to 7 awardees/yr)",
+            "funding_classification": "FULLY_FUNDED",
+            "duration_of_scholarship": "Full duration of the degree program: 1 year, 2 years (Master's), or 3 years (Bachelor's), contingent upon passing 100% of required credits"
+        },
+        "eligibility_requirements": {
+            "nationality_requirements": ["Citizens of a country outside the EU/EEA and Switzerland required to pay tuition fees"],
+            "pakistan_eligible": True,
+            "age_limit_undergrad": None,
+            "age_limit_postgrad": None,
+            "age_limit_notes": "No age restriction.",
+            "academic_qualifications": "Completed high school with 90%+ for Bachelor's; completed 4-year Bachelor's degree (16 years education) with minimum 3.75 / 4.00 CGPA or 82%+ aggregate from recognized Pakistani universities (NUST, FAST, LUMS, QAU, UET, GIKI, PIEAS).",
+            "minimum_gpa_percentage": 82.0,
+            "minimum_gpa_scale": 3.75,
+            "grading_conversion_notes": "Equivalence to Swedish Pass with Distinction (VG); top 10% class ranking required.",
+            "subject_background_prerequisites": "Undergraduate background directly satisfying the specific entry prerequisites of the chosen Lund program.",
+            "current_education_status": "Graduated or currently in final semester of degree graduating before autumn intake.",
+            "graduation_year_restrictions": "None.",
+            "work_experience_required": False,
+            "work_experience_minimum_years": 0.0,
+            "work_experience_notes": "Academic excellence is the primary basis; technical projects, research, and leadership strengthen the motivation essay.",
+            "english_proficiency": {
+                "test_required": True,
+                "ielts_minimum": 6.5,
+                "toefl_minimum": 90,
+                "duolingo_accepted": False,
+                "moi_certificate_accepted": False,
+                "notes": "English 6 requirement: IELTS Academic overall 6.5 (subscores 5.5+) or TOEFL iBT min 90 (writing 20+)."
+            },
+            "other_language_requirements": "English.",
+            "gender_specific_requirements": "None.",
+            "financial_need_required": False,
+            "special_eligibility_categories": "Elite international scholars in Engineering, Computing, Nanotechnology, and Biomedical Sciences.",
+            "previous_scholarship_restrictions": "Cannot be combined with Swedish Institute (SI) full scholarship.",
+            "can_apply_result_awaiting": True
+        },
+        "financial_coverage_breakdown": {
+            "tuition_fee": {
+                "status": "100% COVERED",
+                "details": "LUGS awards cover 25%, 50%, 75%, or 100% of the international tuition fee (top candidates receive 100% full waiver of SEK 120,000 to SEK 260,000/year; ~PKR 3,350,000 to 7,250,000/yr).",
+                "amount": "Up to 100% covered (~SEK 140,000 to 260,000 / year)"
+            },
+            "admission_application_fee": {
+                "status": "NOT_COVERED",
+                "details": "Swedish central application fee (SEK 900) paid by applicant to Universityadmissions.se.",
+                "amount": "SEK 900 (~PKR 25,000)"
+            },
+            "accommodation": {
+                "status": "NOT_COVERED",
+                "details": "Housing is self-funded; LU Accommodation (LU Acc) provides housing guarantees for fee-paying and scholarship students.",
+                "amount": "Student room rent ~SEK 4,200 to 6,000 / month (~PKR 115,000 to 165,000 / mo)"
+            },
+            "monthly_stipend": {
+                "status": "NOT_COVERED",
+                "details": "LUGS is strictly a tuition fee scholarship; students must show proof of ~SEK 10,314/month living funds for the Swedish residence permit.",
+                "amount": "Tuition waiver only (~SEK 150,000 to 260,000/yr value)"
+            },
+            "airfare": {
+                "status": "NOT_COVERED",
+                "details": "Travel expenses to Sweden are borne by the candidate.",
+                "amount": "Self-funded (~PKR 180,000 to 250,000)"
+            },
+            "visa_fee": {
+                "status": "NOT_COVERED",
+                "details": "Swedish residence permit application fee (SEK 1,500) paid to Swedish Migration Agency.",
+                "amount": "SEK 1,500 (~PKR 42,000)"
+            },
+            "health_insurance": {
+                "status": "100% COVERED",
+                "details": "Lund University covers all international fee-paying and scholarship students with the Swedish FAS+ comprehensive health and accident insurance free of charge.",
+                "amount": "100% covered by Swedish state"
+            },
+            "food_allowance": {
+                "status": "NOT_COVERED",
+                "details": "Living expenses covered by student (~SEK 2,500 to 3,500/month).",
+                "amount": "Self-funded (~SEK 3,000 / month)"
+            },
+            "books_and_materials_allowance": {
+                "status": "NOT_COVERED",
+                "details": "Course textbooks and materials paid by student.",
+                "amount": "~SEK 3,000 / semester"
+            },
+            "research_funding_conference_grant": {
+                "status": "PROVIDED_BY_FACULTY",
+                "details": "Access to MAX IV Synchrotron Laboratory, European Spallation Source (ESS), and top-tier LTH engineering research groups.",
+                "amount": "Provided by research groups"
+            },
+            "travel_transit_allowance": {
+                "status": "NOT_COVERED",
+                "details": "Skånetrafiken student monthly pass (~SEK 650/month) paid by student.",
+                "amount": "~SEK 650 / month"
+            },
+            "total_estimated_value_usd_per_year": 22000
+        },
+        "university_and_program_options": {
+            "single_or_multiple_universities": "Single institution (Lund University, Sweden - QS World Rank #73, Global Top 100)",
+            "participating_institutions": ["Lund University (Faculty of Engineering - LTH, Faculty of Science, School of Economics and Management)"],
+            "university_rankings_scope": "Scandinavia's highest-ranked comprehensive university; world leader in Nanotechnology, Wireless Communications (birthplace of Bluetooth), and Medicine.",
+            "available_majors": [
+                "Wireless Communication (LTH)",
+                "Machine Learning, Systems and Control (LTH)",
+                "Biotechnology (LTH)",
+                "Nanoscience and Nanotechnology",
+                "Energy-efficient and Environmental Building Design",
+                "Astrophysics & Physics",
+                "Bioinformatics and Molecular Biology",
+                "Public Health",
+                "Data Analytics and Business Economics",
+                "International Human Rights Law",
+                "Disaster Risk Management and Climate Change Adaptation"
+            ],
+            "english_taught_program_availability": True,
+            "program_duration": "Bachelor's: 3 years (180 ECTS); Master's: 1 or 2 years (60 or 120 ECTS).",
+            "admission_requirements_summary": "Bachelor's degree with minimum 3.75+ CGPA, detailed course match, program ranked as #1 preference on Universityadmissions.se, and approved English test score.",
+            "is_admission_separate_from_scholarship": True,
+            "pre_admission_acceptance_letter_required": False,
+            "easiest_hardest_institutions_guidance": "LTH engineering programs (Wireless Communication, Machine Learning) are intensely competitive globally; Science and Public Health have strong scholarship allocations for candidates with research output.",
+            "strategic_program_match_advice": "Critical requirement: You MUST rank the Lund University program as your FIRST CHOICE (Priority 1) on Universityadmissions.se before the 15 January deadline. In February, write a focused 650-word LUGS motivation letter directly answering Lund's prompt."
+        },
+        "application_process_roadmap": {
+            "submission_portal_url": "https://www.universityadmissions.se/ and https://www.lunduniversity.lu.se/",
+            "portal_system_name": "University Admissions in Sweden & Lund University Scholarship Portal",
+            "account_creation_instructions": "Submit program application on universityadmissions.se by 15 January ranking Lund as Priority 1, pay application fee, then apply for LUGS via Lund's scholarship portal in February.",
+            "step_by_step_workflow": [
+                "Step 1: Create an account on universityadmissions.se and search for Lund University programs.",
+                "Step 2: Add your target Lund program and rank it as your FIRST CHOICE (Priority 1).",
+                "Step 3: Pay the SEK 900 application fee before the national deadline (1 February).",
+                "Step 4: Upload all academic transcripts, degree certificate, syllabus, and English score to universityadmissions.se.",
+                "Step 5: In early February, access the Lund University Global Scholarship application portal.",
+                "Step 6: Enter your 8-digit application number and submit the LUGS motivation essay (max 650 words).",
+                "Step 7: Submit the scholarship application before the strict February deadline.",
+                "Step 8: Swedish national admissions results announced in late March.",
+                "Step 9: Lund University releases scholarship decisions in early April to admitted candidates.",
+                "Step 10: Formally accept the scholarship within 10 days, receive Confirmation, and apply for Swedish residence permit."
+            ],
+            "university_vs_scholarship_routing": "Dual application: Program application on universityadmissions.se, followed by online scholarship application on Lund University portal.",
+            "recommendation_letters_submission_method": "Not required for general scholarship application; reviewed through national admissions upload if program requires it.",
+            "personal_statement_prompts": "LUGS Motivation Essay (max 650 words): Explain why you chose Lund University, how your academic performance qualifies you, and your potential to excel and make an impact.",
+            "study_plan_research_proposal_requirements": "Not required for taught MSc; research interests stated in motivation essay.",
+            "cv_format_requirements": "Detailed academic CV outlining courses, technical projects, thesis abstract, and academic honours.",
+            "interviews_conducted": False,
+            "interview_format_details": "No interviews conducted; purely document-based evaluation.",
+            "standardized_tests": "IELTS Academic (6.5+, subscores 5.5+) or TOEFL iBT (90+). GRE not required.",
+            "application_fee_amount": "SEK 900 (Swedish national portal application fee)",
+            "attestation_requirements": "Color scanned copies of original degrees and transcripts; verified documents must meet Swedish Universityadmissions.se country-specific rules for Pakistan (degrees verified by HEC).",
+            "translation_requirements": "Certified English translations for all non-English documents.",
+            "final_submission_method": "Online via Universityadmissions.se and Lund University scholarship portal."
+        },
+        "required_documents_checklist": [
+            {
+                "document_name": "International Passport Copy",
+                "mandatory": True,
+                "specification": "Clear color copy of valid international passport data page.",
+                "pakistan_specific_instruction": "Ensure name spelling matches educational certificates."
+            },
+            {
+                "document_name": "Official Academic Transcripts and Degree Certificate",
+                "mandatory": True,
+                "specification": "Complete transcripts of 4-year Bachelor's degree showing courses, credits, and grading system.",
+                "pakistan_specific_instruction": "Higher Education Commission (HEC) Pakistan attested documents."
+            },
+            {
+                "document_name": "Official University Grading Scale",
+                "mandatory": True,
+                "specification": "Official grading scale document explaining GPA conversion and class rank.",
+                "pakistan_specific_instruction": "Obtain grading explanation from university registrar."
+            },
+            {
+                "document_name": "LUGS Scholarship Motivation Essay",
+                "mandatory": True,
+                "specification": "Max 650 words addressing academic excellence and commitment to Lund University.",
+                "pakistan_specific_instruction": "Highlight specific development/tech challenges in Pakistan you aim to address."
+            },
+            {
+                "document_name": "Curriculum Vitae (CV)",
+                "mandatory": True,
+                "specification": "Comprehensive academic CV detailing education, projects, technical skills, and honours.",
+                "pakistan_specific_instruction": "Clean academic layout emphasizing technical skills."
+            },
+            {
+                "document_name": "English Language Proficiency Certificate",
+                "mandatory": True,
+                "specification": "Official IELTS Academic (overall 6.5+, subscores 5.5+) or TOEFL iBT (90+) test report.",
+                "pakistan_specific_instruction": "Must satisfy Swedish 'English 6' requirement."
+            }
+        ],
+        "important_dates_timeline": {
+            "application_open_date": "Mid-October",
+            "application_deadline": "15 January (National application deadline on Universityadmissions.se); Mid-February (Lund scholarship portal deadline)",
+            "university_admission_deadline": "15 January (Ranking Lund as Priority 1)",
+            "document_submission_deadline": "1 February (Fee payment and document upload deadline)",
+            "recommendation_letters_deadline": "Same as document deadline",
+            "interview_period": "None (Document review)",
+            "shortlist_announcement": "Late March (Admissions results) & Early April (Scholarship results)",
+            "final_result_acceptance_deadline": "Within 10 days of scholarship offer",
+            "visa_application_window": "April - June (Swedish residence permit application via Migrationsverket)",
+            "semester_commencement": "Late August / Early September",
+            "annual_cycle_notes": "One annual national intake cycle. You must apply by 15 January and rank Lund as #1 choice to be eligible for scholarship."
+        },
+        "selection_process_and_weights": {
+            "academic_weight": "60% (Undergraduate GPA, academic grades in relevant subjects, and university reputation)",
+            "extracurricular_and_leadership_weight": "5% (Student leadership and community contributions)",
+            "research_experience_weight": "15% (Undergraduate research projects, publications, and thesis grade)",
+            "work_experience_weight": "5% (Professional internships or technical work)",
+            "personal_statement_weight": "15% (Quality of LUGS scholarship motivation essay and academic ambition)",
+            "recommendations_weight": "0% (Not factored unless requested by department)",
+            "interview_weight": "0% (No interviews)",
+            "test_scores_weight": "Threshold requirement (IELTS/TOEFL compliance)",
+            "financial_need_weight": "0% (Strictly academic merit-based)",
+            "selection_panel_composition": "Lund University Scholarship Committee comprising faculty deans, admissions directors, and academic staff.",
+            "evaluation_methodology": "Selection is purely merit-based. Applicants are evaluated based on their academic transcripts and motivation essay. Scholarships are awarded to candidates with the highest academic excellence who have ranked Lund as their first choice."
+        },
+        "competitiveness_profile": {
+            "total_annual_applicants": "~4,000 to 6,000 non-EU applicants apply to Lund University Master's programs",
+            "total_scholarships_awarded": "~30 to 45 tuition scholarships awarded annually across all levels",
+            "acceptance_rate_global": "~0.7% to 1.0% (Extremely competitive)",
+            "acceptance_rate_pakistan": "~1% to 2% (Achievable for top 5% graduates from NUST, FAST, LUMS, QAU, GIKI with 3.8+ GPA)",
+            "typical_successful_applicant_gpa": "3.85+ / 4.00 CGPA (85%+ aggregate, top 5% of class)",
+            "typical_academic_and_research_profile": "Graduates of premier universities with high thesis grades, excellent mathematical and technical backgrounds, and strong motivation.",
+            "common_backgrounds_of_winners": "Graduates in Wireless Communication, Machine Learning, Biotechnology, Nanotechnology, and Physics.",
+            "high_representation_countries": "Pakistan, India, China, USA, Indonesia, Turkey, Bangladesh.",
+            "competitiveness_tier": "EXTREME"
+        },
+        "red_flags_and_warnings": {
+            "fake_websites_and_scams": [
+                "Commercial consultancies claiming they can secure Swedish scholarships for fees. All applications must be submitted via universityadmissions.se."
+            ],
+            "application_fee_warning": "Universityadmissions.se charges a national SEK 900 application fee. Lund University charges NO separate scholarship fee.",
+            "agent_and_intermediary_warnings": "Never allow agents to fill out your universityadmissions.se account; personal access and accurate documentation are essential.",
+            "hidden_costs_breakdown": [
+                "Living expenses are NOT covered by the scholarship; students must show proof of ~SEK 10,314/month living funds for the Swedish residence permit.",
+                "Swedish student residence permit fee (SEK 1,500).",
+                "Flight tickets between Pakistan and Copenhagen Kastrup (closest airport to Lund, ~PKR 180,000 - 250,000).",
+                "Winter clothing and initial settlement expenses (~SEK 5,000 - 8,000)."
+            ],
+            "misleading_claims_debunked": [
+                "CLAIM: The scholarship includes monthly living stipend. (FACT: LUGS is strictly a tuition fee waiver).",
+                "CLAIM: You can win the scholarship if Lund is your second choice. (FACT: You MUST rank Lund as Priority 1 on Universityadmissions.se)."
+            ],
+            "official_vs_unofficial_discrepancies": [
+                "Some aggregator websites confuse LUGS with the Swedish Institute (SI) scholarship which covers living costs."
+            ]
+        },
+        "scholarship_obligations_and_terms": {
+            "minimum_gpa_maintenance": "Scholars must maintain satisfactory academic progress and complete at least 75% of credits (45 out of 60 ECTS) in Year 1 to qualify for Year 2 tuition waiver.",
+            "attendance_requirements": "Full-time physical attendance on campus in Lund.",
+            "academic_progress_monitoring": "Annual credit completion check conducted by the International Office.",
+            "work_restrictions_during_study": "Sweden allows international students to work with no legal limit on hours, provided academic studies remain full-time.",
+            "home_country_return_obligation": "None. International graduates can apply for a 12-month post-study residence permit to seek employment in Sweden.",
+            "service_obligations_or_bonds": "None.",
+            "repayment_clawback_conditions": "Tuition waiver is terminated if study progress is unsatisfactory or if student drops out; no clawback of past waived tuition.",
+            "rules_for_changing_university": "Non-transferable.",
+            "rules_for_changing_major": "Requires approval from the scholarship committee and faculty admissions board.",
+            "extension_policy": "Strictly limited to the nominal duration of the program."
+        },
+        "official_sources_verified": [
+            {
+                "source_name": "Lund University - Global Scholarship Official Portal",
+                "source_url": "https://www.lunduniversity.lu.se/admissions/bachelors-and-masters-studies/scholarships-and-awards/lund-university-global-scholarship",
+                "source_type": "OFFICIAL_UNIVERSITY",
+                "verified_date": "2026-10-07",
+                "data_points_missing_or_unpublished_by_source": [
+                    "Exact breakdown between 100%, 75%, 50%, and 25% tuition fee waiver awards.",
+                    "Internal cut-off GPA percentiles per individual Master's specialisation.",
+                    "Country-specific award distribution statistics."
+                ]
+            }
+        ]
+    }
+}

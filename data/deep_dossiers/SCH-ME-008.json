@@ -1,0 +1,264 @@
+{
+  "scholarship_id": "SCH-ME-008",
+  "basic_details": {
+    "scholarship_name": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) Full Scholarship",
+    "offering_entity": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) & Government of Abu Dhabi",
+    "host_country": "United Arab Emirates",
+    "host_institutions_covered": "MBZUAI Campus (Masdar City, Abu Dhabi, United Arab Emirates)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "PhD (Doctorate)"
+    ],
+    "major_restrictions": "Artificial Intelligence disciplines: Computer Vision (CV), Machine Learning (ML), Natural Language Processing (NLP), Robotics, and Computational Biology.",
+    "number_of_awards_total": "~100% of admitted graduate students receive full scholarships (~150 to 200 admits/year)",
+    "number_of_awards_pakistan": "Open globally; Pakistan is one of the highest-represented international student cohorts at MBZUAI",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "MSc: 2 years (4 semesters); PhD: 4 years (8 semesters)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International students of all nationalities (including Pakistan) and UAE nationals"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limits.",
+    "academic_qualifications": "Completed 16 years of education (Bachelor of Science/Engineering) in STEM field (Computer Science, Electrical Eng, Math, Physics) with minimum CGPA 3.2 / 4.0.",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.2,
+    "grading_conversion_notes": "Minimum 3.20 / 4.00 CGPA; competitive admitted candidates typically present 3.50+ / 4.00 CGPA.",
+    "subject_background_prerequisites": "Strong background in mathematics (linear algebra, calculus, probability), algorithms, and programming (Python, C++).",
+    "current_education_status": "Graduated or in final semester of degree.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Competitive programming (ICPC, Kaggle), AI hackathons, and published research papers in top AI venues (NeurIPS, ICML, CVPR, ACL, ICLR) carry decisive weight.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 90,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic minimum 6.5 (or TOEFL iBT minimum 90); official score report is mandatory."
+    },
+    "other_language_requirements": "None; English is the official language of instruction and research.",
+    "gender_specific_requirements": "Equal opportunity; diversity encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must take the mandatory online MBZUAI Entry Exam (math and coding assessment) and pass a technical faculty interview.",
+    "previous_scholarship_restrictions": "None.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition waiver for the entire duration of the MSc or PhD program.",
+      "amount": "AED 100,000+ / year (~USD $27,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Application on the MBZUAI online portal is 100% free of charge.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "FREE_FURNISHED_HOUSING",
+      "details": "Free luxury single-occupancy on-campus student housing in Masdar City (modern ensuite room with shared kitchen and gym).",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Tax-free monthly living allowance paid directly to student.",
+      "amount": "MSc: AED 8,000 / month (~PKR 610,000 / month); PhD: AED 10,000 / month (~PKR 760,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Annual round-trip international flight ticket between home city in Pakistan and Abu Dhabi.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "UAE student visa and Emirates ID processing fees fully sponsored by MBZUAI; eligible for UAE Golden Visa nomination.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive UAE medical insurance coverage provided.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly living stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "High-end research laptop and access to world-class GPU clusters (thousands of NVIDIA A100/H100 GPUs) provided.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Generous travel and accommodation funding provided for accepted papers at tier-1 AI conferences (CVPR, NeurIPS, ICML, ACL).",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free campus shuttle transit within Masdar City and to Abu Dhabi.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 65000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: Mohamed bin Zayed University of Artificial Intelligence (Abu Dhabi, UAE).",
+    "participating_institutions": [
+      "MBZUAI (Masdar City, Abu Dhabi)"
+    ],
+    "university_rankings_scope": "Ranked Top 20 globally in AI/CS (CSRankings in AI, Computer Vision, and NLP); world-class faculty recruited from CMU, Berkeley, Oxford.",
+    "available_majors": [
+      "Computer Vision (MSc/PhD), Machine Learning (MSc/PhD), Natural Language Processing (MSc/PhD), Robotics (MSc/PhD), Computational Biology (MSc/PhD)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "MSc: 2 years (4 semesters); PhD: 4 years (8 semesters)",
+    "admission_requirements_summary": "All admitted students receive the full scholarship package; admission requires passing online screening exam and faculty interview.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Machine Learning and Computer Vision are most popular; solid performance on the online math/coding exam is critical.",
+    "strategic_program_match_advice": "Prepare thoroughly for the online entry exam in linear algebra, multivariable calculus, probability, and Python data structures."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://mbzuai.ac.ae/study/admissions/",
+    "portal_system_name": "MBZUAI Online Admissions Portal",
+    "account_creation_instructions": "Register on the MBZUAI portal (Opens September for Fall intake), fill in the application form, upload documents, and schedule online exam.",
+    "step_by_step_workflow": [
+      "1. Register on MBZUAI portal and select target AI degree program (September-December).",
+      "2. Upload Statement of Purpose, transcripts, CV, and English proficiency test score.",
+      "3. Submit contact information for two academic referees.",
+      "4. Complete the mandatory online MBZUAI Entry Exam (45 minutes: math and programming questions).",
+      "5. Shortlisted candidates invited for a technical video interview with faculty professors.",
+      "6. Final admission and full scholarship offer letter issued (typically by March/April).",
+      "7. Process UAE student visa and relocate to Masdar City in August."
+    ],
+    "university_vs_scholarship_routing": "Integrated single application; admission equals full scholarship.",
+    "recommendation_letters_submission_method": "Submitted online by referees via secure electronic link sent by MBZUAI.",
+    "personal_statement_prompts": "Statement of Purpose (500-1,000 words): Detail academic background, AI research interests, coding projects, and reasons for choosing MBZUAI.",
+    "study_plan_research_proposal_requirements": "Research proposal required for PhD applicants outlining intended research direction and literature background.",
+    "cv_format_requirements": "Detailed technical CV highlighting programming languages, GitHub links, Kaggle rank, and publications.",
+    "interviews_conducted": true,
+    "interview_format_details": "Rigorous 30-minute technical interview conducted by MBZUAI professors testing algorithms, linear algebra, and research projects.",
+    "standardized_tests": "Online MBZUAI Entry Exam is mandatory; GRE optional; IELTS Academic (6.5+) or TOEFL iBT (90+) mandatory.",
+    "application_fee_amount": "$0 (100% Free).",
+    "attestation_requirements": "Degrees and transcripts must be attested by HEC Pakistan, MOFA, and UAE Embassy in Islamabad.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "100% Online via MBZUAI portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Statement of Purpose",
+      "mandatory": true,
+      "specification": "500 to 1,000-word essay explaining background, passion for AI, and career vision",
+      "pakistan_specific_instruction": "Clearly articulated technical interests and project experience"
+    },
+    {
+      "document_name": "Official Academic Transcripts & Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts showing all courses, credits, and CGPA (min 3.2/4.0)",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "Two Recommendation Letters",
+      "mandatory": true,
+      "specification": "Submitted directly by university research professors or technical employers",
+      "pakistan_specific_instruction": "From professors who supervised your AI, programming, or thesis work"
+    },
+    {
+      "document_name": "English Proficiency Score",
+      "mandatory": true,
+      "specification": "IELTS Academic (6.5+) or TOEFL iBT (90+)",
+      "pakistan_specific_instruction": "Valid official score report"
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Technical CV listing programming languages, frameworks (PyTorch, TensorFlow), and projects",
+      "pakistan_specific_instruction": "Include links to GitHub repositories and papers"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-09-01",
+    "application_deadline": "2027-01-15",
+    "university_admission_deadline": "2027-01-15",
+    "document_submission_deadline": "2027-01-15",
+    "recommendation_letters_deadline": "2027-01-22",
+    "interview_period": "February to March 2027",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-04-15",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "August 2027",
+    "annual_cycle_notes": "Early deadline is mid-December; regular international deadline is mid-January. Fall intake only."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Academic GPA, transcripts, mathematical foundation)",
+    "extracurricular_and_leadership_weight": "5% (Secondary)",
+    "research_experience_weight": "30% (Research publications, GitHub projects, hackathons, coding portfolio)",
+    "work_experience_weight": "5% (Industry AI/ML experience)",
+    "personal_statement_weight": "5% (Statement of Purpose clarity)",
+    "recommendations_weight": "5% (Referee appraisals)",
+    "interview_weight": "25% (Performance on the MBZUAI entry exam and live faculty technical interview)",
+    "test_scores_weight": "Language threshold required",
+    "financial_need_weight": "0% (Completely need-blind; all admitted students receive the full scholarship)",
+    "selection_panel_composition": "Faculty Admissions Committee and the Dean of Academic Affairs at MBZUAI.",
+    "evaluation_methodology": "Rigorous three-stage sift: Document screening -> Online math/coding exam -> Technical faculty interview."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~8,000 to 10,000 applications globally",
+    "total_scholarships_awarded": "~150 to 200 fully-funded scholarships awarded annually",
+    "acceptance_rate_global": "~2%",
+    "acceptance_rate_pakistan": "~2% to 3% (Highly Competitive; Pakistani students are among the top cohorts)",
+    "typical_successful_applicant_gpa": "3.60 to 4.00 CGPA",
+    "typical_academic_and_research_profile": "Top computer science and electrical engineering graduates with solid math skills, competitive programming background, and AI publications.",
+    "common_backgrounds_of_winners": "Graduates of top Pakistani universities (FAST-NUCES, NUST, LUMS, GIKI, UET Lahore, ITU).",
+    "high_representation_countries": "China, India, Pakistan, UAE, Egypt, Russia, USA, Italy, Jordan.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unauthorized consultants claiming to provide 'MBZUAI exam leaks'; exam questions are dynamically generated."
+    ],
+    "application_fee_warning": "MBZUAI application is 100% free of charge on the official portal.",
+    "agent_and_intermediary_warnings": "Never work through agents; MBZUAI requires direct candidate examination and faculty interviews.",
+    "hidden_costs_breakdown": [
+      "HEC, MOFA, and UAE Embassy attestation fees in Islamabad (~PKR 35,000).",
+      "English language test fees (IELTS/TOEFL)."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You need Arabic. (Fact: MBZUAI is an international English-only research university).",
+      "MYTH: The scholarship is only for UAE citizens. (Fact: Over 85% of MBZUAI students are international from over 40 countries).",
+      "MYTH: You have to repay the stipend. (Fact: 100% non-repayable fellowship; graduates can work in UAE or anywhere globally)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some websites advertise MBZUAI as a standard tuition waiver; it actually includes a massive monthly cash stipend of AED 8,000-10,000/month."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.0 / 4.00; falling below results in academic probation and potential scholarship loss.",
+    "attendance_requirements": "Full-time physical research residence in Masdar City, Abu Dhabi.",
+    "academic_progress_monitoring": "Semester credit reviews and annual dissertation progress milestones.",
+    "work_restrictions_during_study": "Scholars are expected to devote full time to their academic and research work.",
+    "home_country_return_obligation": "None; scholars are eligible for UAE Golden Visa sponsorship (10-year residency) post-graduation.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Expulsion or voluntary withdrawal terminates funding.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Requires approval from both departments.",
+    "extension_policy": "Funding is provided for normal program duration (max 2 years for MSc; max 4 years for PhD)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) - Admissions Official Portal",
+      "source_url": "https://mbzuai.ac.ae/study/admissions/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Online entry exam passing cutoff mark percentiles",
+        "Faculty interview technical scoring rubrics"
+      ]
+    }
+  ]
+}

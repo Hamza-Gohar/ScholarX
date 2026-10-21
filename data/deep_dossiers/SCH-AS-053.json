@@ -1,0 +1,284 @@
+{
+  "scholarship_id": "SCH-AS-053",
+  "basic_details": {
+    "scholarship_name": "Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA) Graduate Research Scheme (GRS)",
+    "offering_entity": "Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA) Institute of Postgraduate Studies (IPS)",
+    "host_country": "Malaysia",
+    "host_institutions_covered": "Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA Gambang and Pekan Campuses, Pahang, Malaysia)",
+    "degree_levels": [
+      "Master of Science (by Research)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Faculty of Chemical and Process Engineering Technology, Faculty of Mechanical and Automotive Engineering Technology, Faculty of Computing, Faculty of Civil Engineering Technology, Faculty of Electrical and Electronics Engineering Technology, and Faculty of Industrial Sciences and Technology.",
+    "number_of_awards_total": "~120 to 160 graduate research scheme positions awarded across academic semesters",
+    "number_of_awards_pakistan": "Open internationally; typically 15 to 25 Pakistani engineering and computing researchers receive GRS appointments annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 24 months for Master's by research; up to 36 months for PhD",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "RM 1,800 to RM 2,300 / month for PhD (~PKR 117,000 to 149,500 / month); RM 1,300 to RM 1,600 / month for Master's (~PKR 84,500 to 104,000 / month) plus full tuition fee waiver"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to all nationalities including Malaysian citizens and international candidates (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "Maximum 35 years for Master's applicants; maximum 40 years for PhD applicants at time of appointment.",
+    "academic_qualifications": "Recognized Bachelor's degree with minimum CGPA 3.00/4.00 or First Class equivalent for Master's; recognized Master's degree by research or coursework with minimum CGPA 3.00/4.00 for PhD from an HEC-recognized institution.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum CGPA 3.00 / 4.00; competitive candidates typically possess CGPA >= 3.40 / 4.00 with laboratory instrumentation experience.",
+    "subject_background_prerequisites": "Engineering, computer science, software engineering, biotechnology, chemical technology, materials science, or related technical disciplines.",
+    "current_education_status": "Graduated or final-semester students expecting degree completion prior to semester commencement.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Laboratory research experience, programming aptitude, or prior indexed journal publications considered a decisive advantage.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.0, TOEFL iBT minimum 80, MUET Band 4.0, or recognized English Medium of Instruction (MOI) certificate from an accredited degree-granting institution.",
+    "other_language_requirements": "None; Malay language proficiency is not required.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must secure endorsement and laboratory placement from an active UMPSA principal investigator holding research grant funding (FRGS, PRGS, or industrial contracts).",
+    "previous_scholarship_restrictions": "Cannot hold any concurrent national scholarship, industrial sponsorship, or full-time paid employment.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for eligible postgraduate research semesters covered under the UMPSA Graduate Research Scheme.",
+      "amount": "100% covered (~RM 12,000 to 18,000 / year value; ~PKR 780,000 to 1,170,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "UMPSA international postgraduate application fee of RM 150 paid during online portal submission.",
+      "amount": "RM 150 (~PKR 9,800)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "On-campus international graduate residential housing available at subsidized monthly rates (approx. RM 200 to 350 / month), easily covered from stipend.",
+      "amount": "Subsidized university hostel housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly research assistantship allowance paid directly: RM 1,800 to RM 2,300 / month for PhD (~PKR 117,000 to 149,500 / month); RM 1,300 to RM 1,600 / month for Master's (~PKR 84,500 to 104,000 / month).",
+      "amount": "RM 1,300 to RM 2,300 / month"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel between Pakistan and Kuala Lumpur / Kuantan is self-funded.",
+      "amount": "Not covered in central GRS scheme"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "EMGS (Education Malaysia Global Services) visa processing and Malaysian Student Pass fees paid by candidate.",
+      "amount": "Approx. RM 2,000 to 2,500 borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive Malaysian student medical and hospitalization insurance provided via EMGS student pass registration package.",
+      "amount": "100% covered student medical insurance"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Campus cafeterias at Gambang and Pekan provide affordable dining; daily meals cost approximately RM 15 to 25.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to UMPSA Central Library, IEEE Xplore, ScienceDirect, laboratory analytical equipment, and chemical reagents supported through supervisor grant.",
+      "amount": "100% covered laboratory and computational access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Conference attendance and publication charges (APC) for high-impact Scopus/WoS Q1/Q2 journals funded directly from host research grant.",
+      "amount": "Grant-funded conference travel and APC charges"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free campus shuttle transportation between residential colleges and academic faculties at Gambang and Pekan.",
+      "amount": "Free campus shuttle network"
+    },
+    "total_estimated_value_usd_per_year": 12000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single Malaysian premier technical university (Universiti Malaysia Pahang Al-Sultan Abdullah - MTUN member).",
+    "participating_institutions": [
+      "Universiti Malaysia Pahang Al-Sultan Abdullah (Pekan and Gambang Campuses, Pahang, Malaysia)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #751-800, Top 150 in Asia; recognized as one of Malaysia's premier technical universities (MTUN) renowned for engineering technology and industrial partnerships.",
+    "available_majors": [
+      "Master of Science / PhD in Chemical Engineering",
+      "Master of Science / PhD in Mechanical Engineering",
+      "Master of Science / PhD in Automotive Engineering",
+      "Master of Science / PhD in Electrical and Electronics Engineering",
+      "Master of Science / PhD in Civil Engineering",
+      "Master of Science / PhD in Computer Science & Software Engineering",
+      "Master of Science / PhD in Industrial Chemistry and Biotechnology"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's by Research: 1.5 to 2 years; PhD: 3 to 4 years",
+    "admission_requirements_summary": "Bachelor's / Master's degree in engineering or computing with CGPA 3.00+, academic transcripts, research proposal, supervisor endorsement form, two reference letters, and IELTS 6.0 / TOEFL 80 or MOI certificate.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "High competition in Faculty of Computing and Faculty of Chemical Engineering; securing supervisor agreement with active grant funding is the single most critical factor.",
+    "strategic_program_match_advice": "Examine UMPSA faculty directory, identify principal investigators with active Fundamental Research Grant Scheme (FRGS) or industrial projects in battery tech, AI, or green chemical processing, and submit a tailored research synopsis."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://ips.umpsa.edu.my/online-application",
+    "portal_system_name": "UMPSA Institute of Postgraduate Studies (IPS) Online Portal",
+    "account_creation_instructions": "Register on the UMPSA IPS portal, complete the online postgraduate admission form, upload academic credentials and supervisor endorsement form, and pay the RM 150 application fee.",
+    "step_by_step_workflow": [
+      "Step 1: Browse UMPSA research groups and reach out to prospective supervisors with CV and research draft.",
+      "Step 2: Obtain signed UMPSA Supervisor Acceptance and GRS Recommendation Form.",
+      "Step 3: Submit online admission application via IPS portal and select Graduate Research Scheme (GRS) funding option.",
+      "Step 4: Upload attested academic documents, research proposal, passport copy, and English proof.",
+      "Step 5: Faculty Graduate Committee conducts technical interview and evaluates project alignment.",
+      "Step 6: IPS issues official Letter of Offer and GRS Appointment Letter.",
+      "Step 7: Apply for EMGS Visa Approval Letter (VAL) and Single Entry Visa (SEV) at Malaysian High Commission in Islamabad.",
+      "Step 8: Arrive in Malaysia, complete medical screening, finalize student pass, and matriculate."
+    ],
+    "university_vs_scholarship_routing": "Integrated departmental route: Application for admission and GRS award are evaluated concurrently by the host faculty and IPS.",
+    "recommendation_letters_submission_method": "Uploaded directly by candidate as signed PDF recommendation letters on official university letterheads.",
+    "personal_statement_prompts": "Statement of research intent detailing technical competencies, publication aspirations, and relevance to the supervisor's funded research grant.",
+    "study_plan_research_proposal_requirements": "5 to 8 page structured research proposal covering problem statement, literature review, methodology, equipment needs, and milestone schedule.",
+    "cv_format_requirements": "Academic CV detailing qualifications, laboratory capabilities, programming proficiencies, and publications list.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical video interview via MS Teams or Google Meet conducted by prospective supervisor and departmental postgraduate coordinator.",
+    "standardized_tests": "IELTS 6.0+, TOEFL 80+, MUET Band 4.0, or English Medium of Instruction (MOI) certificate accepted.",
+    "application_fee_amount": "RM 150 (approx. USD 35 / ~PKR 9,800)",
+    "attestation_requirements": "Notarized copies of degrees and transcripts; HEC and MoFA attestations required for Pakistani credentials during EMGS processing.",
+    "translation_requirements": "Certified English translations for all non-English documents.",
+    "final_submission_method": "Online submission via UMPSA IPS postgraduate admission portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Official Bachelor's / Master's degree certificates and complete semester transcripts with CGPA >= 3.00.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Technical Research Proposal",
+      "mandatory": true,
+      "specification": "Structured research proposal (5-8 pages) aligned with supervisor's research grant objectives.",
+      "pakistan_specific_instruction": "Scholarly proposal formatted with standard citations."
+    },
+    {
+      "document_name": "Supervisor Acceptance & GRS Endorsement Form",
+      "mandatory": true,
+      "specification": "Official UMPSA form signed by prospective supervisor confirming laboratory placement and willingness to supervise.",
+      "pakistan_specific_instruction": "Obtained directly from UMPSA faculty supervisor."
+    },
+    {
+      "document_name": "Two Academic Reference Letters",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from previous university professors or department heads.",
+      "pakistan_specific_instruction": "On institutional letterhead with official stamps."
+    },
+    {
+      "document_name": "English Language Proficiency Proof",
+      "mandatory": true,
+      "specification": "IELTS 6.0+, TOEFL iBT 80+, MUET Band 4.0, or official English Medium of Instruction (MOI) certificate.",
+      "pakistan_specific_instruction": "MOI certificate from previous university accepted."
+    },
+    {
+      "document_name": "International Passport Bio-data Page",
+      "mandatory": true,
+      "specification": "Full clear color scan of passport bio-data page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "March 1 (Semester I) / October 1 (Semester II)",
+    "application_deadline": "June 30 (Semester I - September) / November 30 (Semester II - February)",
+    "university_admission_deadline": "June 30 / November 30",
+    "document_submission_deadline": "June 30 / November 30",
+    "recommendation_letters_deadline": "June 30 / November 30",
+    "interview_period": "July - August / December - January",
+    "shortlist_announcement": "Late August / Mid January",
+    "final_result_acceptance_deadline": "Within 2 weeks of offer issuance",
+    "visa_application_window": "August / January via EMGS",
+    "semester_commencement": "September (Semester I) / February (Semester II)",
+    "annual_cycle_notes": "Bi-annual intake cycles: Semester I in September and Semester II in February."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Prior CGPA, academic performance, and foundational engineering coursework)",
+    "extracurricular_and_leadership_weight": "5% (Teamwork, communication, and professional leadership)",
+    "research_experience_weight": "35% (Prior publications, technical proposal rigor, and supervisor grant synergy)",
+    "work_experience_weight": "5% (Industrial engineering or laboratory technical experience)",
+    "personal_statement_weight": "5% (Clarity of purpose and research dedication)",
+    "recommendations_weight": "5% (Academic referee evaluation)",
+    "interview_weight": "10% (Technical interview performance with prospective supervisor and faculty panel)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Purely merit and research capability based)",
+    "selection_panel_composition": "Faculty Postgraduate Committee, Dean of Institute of Postgraduate Studies, and Principal Investigator of host research project.",
+    "evaluation_methodology": "Two-stage evaluation: departmental technical vetting of research alignment followed by central IPS award confirmation."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~900 to 1,200 applicants across both semesters",
+    "total_scholarships_awarded": "~120 to 160 GRS awards annually",
+    "acceptance_rate_global": "~13% to 15%",
+    "acceptance_rate_pakistan": "~18% to 22% for applicants with pre-secured supervisor endorsement and CGPA >= 3.30",
+    "typical_successful_applicant_gpa": "Undergraduate/Master's CGPA >= 3.30 / 4.00, coupled with prior lab project experience or publications",
+    "typical_academic_and_research_profile": "Graduates in engineering or computing with strong programming or laboratory skills, clear research plan, and pre-negotiated supervisor endorsement.",
+    "common_backgrounds_of_winners": "Graduates from Pakistani engineering institutions (NUST, UET Lahore, UET Taxila, FAST-NUCES, COMSATS, NED Karachi).",
+    "high_representation_countries": "Malaysia, Pakistan, Indonesia, Nigeria, Yemen, Bangladesh, Egypt.",
+    "competitiveness_tier": "MODERATE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portal ips.umpsa.edu.my.",
+      "Do not pay money to educational agents promising guaranteed GRS appointments; GRS awards depend entirely on faculty supervisor endorsement."
+    ],
+    "application_fee_warning": "University application fee is RM 150 paid directly to UMPSA via secure online payment.",
+    "agent_and_intermediary_warnings": "Commercial agent proposals are flagged and rejected; applicants must write their own technical research proposal.",
+    "hidden_costs_breakdown": [
+      "UMPSA application fee: RM 150 (~PKR 9,800).",
+      "EMGS visa approval and student pass fees: ~RM 2,200 to 2,500 (~PKR 143,000 to 162,500).",
+      "HEC and MoFA document attestations in Pakistan: ~PKR 15,000 to 25,000.",
+      "One-way flight to Kuala Lumpur: ~PKR 90,000 to 130,000.",
+      "Initial living deposit before first stipend cycle: ~RM 1,000 (~PKR 65,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: GRS covers international travel. Reality: International travel and EMGS visa fees are self-funded.",
+      "Myth: You can apply without contacting a supervisor. Reality: Supervisor endorsement is effectively mandatory for GRS scheme approval."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim GRS is purely a tuition waiver; in reality, GRS includes both full tuition waiver and monthly living stipend."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain minimum CGPA 3.00 and Satisfactory (TM - Teruskan Memuaskan) research progress evaluation every semester.",
+    "attendance_requirements": "Full-time physical research presence at UMPSA Gambang or Pekan campus; scholars may be assigned up to 6 hours/week of laboratory or tutorial teaching assistance.",
+    "academic_progress_monitoring": "Semi-annual progress report evaluated by supervisor and presented to Faculty Postgraduate Committee.",
+    "work_restrictions_during_study": "Recipients are barred from taking full-time outside employment; internal paid tutoring or research assistance is permitted within university limits.",
+    "home_country_return_obligation": "None; scholars are free to seek international careers, postdoc opportunities, or industrial employment in Malaysia or abroad upon graduation.",
+    "service_obligations_or_bonds": "Zero national service bond; recipients must meet graduation publication requirements (minimum 1-2 Scopus/WoS indexed papers) affiliated with UMPSA.",
+    "repayment_clawback_conditions": "Termination of monthly stipend and withdrawal of fee waiver if research progress is evaluated as Unsatisfactory (TM/KG) across consecutive reviews.",
+    "rules_for_changing_university": "Non-transferable; scheme is funded internally by UMPSA.",
+    "rules_for_changing_major": "Field of research cannot be changed without written permission from faculty dean and IPS.",
+    "extension_policy": "Extensions beyond maximum tenure (24 months Master's, 36 months PhD) require special approval and are generally self-funded."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "UMPSA Institute of Postgraduate Studies Financial Assistance",
+      "source_url": "https://ips.umpsa.edu.my/financial-assistance/graduate-research-scheme",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Universiti Malaysia Pahang Al-Sultan Abdullah Official Portal",
+      "source_url": "https://www.umpsa.edu.my/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

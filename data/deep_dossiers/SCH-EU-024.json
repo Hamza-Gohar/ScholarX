@@ -1,0 +1,287 @@
+{
+  "scholarship_id": "SCH-EU-024",
+  "basic_details": {
+    "scholarship_name": "University of Geneva Excellence Master Fellowships",
+    "offering_entity": "Faculty of Science, University of Geneva (UNIGE, Geneva, Switzerland)",
+    "host_country": "Switzerland",
+    "host_institutions_covered": "University of Geneva (Faculty of Science, Geneva, Switzerland)",
+    "degree_levels": [
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "Open to all Master of Science degree programs offered by the Faculty of Science: Astronomy & Astrophysics, Biology & Molecular Biosciences, Chemistry & Biochemistry, Computer Science (AI, Systems, Software), Earth & Environmental Sciences, Mathematics, Pharmaceutical Sciences, and Physics.",
+    "number_of_awards_total": "~15 to 20 prestigious international excellence fellowships awarded annually across science departments",
+    "number_of_awards_pakistan": "Open global competition; Pakistani students with first-class undergraduate records in physics, math, and computing compete annually (typically 1 to 3 winners/yr)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Full duration of Master of Science: 1.5 years (90 ECTS) or 2 years (120 ECTS, subject to academic progress)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to outstanding international and domestic students from all countries worldwide"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction; selection is based exclusively on academic excellence.",
+    "academic_qualifications": "Rank in the top 10% of your Bachelor's graduating cohort from an accredited university (minimum 3.75 / 4.00 CGPA or 82%+ aggregate from recognized Pakistani universities like NUST, QAU, LUMS, FAST-NUCES, UET, PIEAS).",
+    "minimum_gpa_percentage": 82.0,
+    "minimum_gpa_scale": 3.75,
+    "grading_conversion_notes": "Equivalence to Swiss academic grade of 5.5+ out of 6.0; first-class honors required.",
+    "subject_background_prerequisites": "Rigorous undergraduate training in mathematics, physics, computing, chemistry, or biology with verified laboratory coursework.",
+    "current_education_status": "Graduated or in final semester of Bachelor's degree graduating before the start of the semester.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior scientific research experience, published conference papers, or laboratory assistantships strongly advantageous.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 7.0,
+      "toefl_minimum": 100,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "English C1 level strongly recommended (IELTS Academic 7.0+ or TOEFL iBT 100+); most Faculty of Science MSc programs are taught 100% in English."
+    },
+    "other_language_requirements": "French is not required for science Master's degrees, though basic French is helpful for daily life in Geneva.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Elite emerging scientists in fundamental and applied sciences.",
+    "previous_scholarship_restrictions": "Cannot be combined with another major Swiss grant (e.g. Swiss Government Excellence Scholarship).",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "University of Geneva has very low statutory public tuition (CHF 500/semester) which is fully covered or negligible; fellowship provides complete financial independence.",
+      "amount": "CHF 1,000 / year (Covered / minimal statutory fee)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "UNIGE international application registration fee (CHF 65) paid by applicant to university admissions.",
+      "amount": "CHF 65 (~PKR 21,000)"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered via monthly fellowship living grant; fellowship recipients receive priority access to UNIGE student residences (Cité Universitaire de Genève).",
+      "amount": "Student residence rent ~CHF 550 to CHF 850 / month"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Fellowship grant of CHF 10,000 to CHF 15,000 per academic year (~CHF 1,000 to CHF 1,500 / month; ~PKR 320,000 to 480,000 / month) paid in two semester installments.",
+      "amount": "CHF 10,000 to CHF 15,000 / year (~PKR 3,200,000 to 4,800,000 / year)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Travel expenses to Geneva are borne by the candidate.",
+      "amount": "Self-funded (~PKR 180,000 to 260,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Swiss national visa (Type D) and biometric cantonal residence permit fee paid by candidate (~CHF 150 to CHF 200).",
+      "amount": "CHF 150 (~PKR 48,000)"
+    },
+    "health_insurance": {
+      "status": "PAID VIA STIPEND",
+      "details": "Mandatory Swiss health insurance (LAMal) with student exemption packages (e.g., Swisscare at ~CHF 65 to CHF 90/month) paid from stipend.",
+      "amount": "~CHF 900 / year (~PKR 290,000)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Daily living and dining expenses covered by fellowship grant.",
+      "amount": "Included in monthly fellowship grant"
+    },
+    "books_and_materials_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Study materials and laboratory incidentals covered by the student.",
+      "amount": "~CHF 500 / year"
+    },
+    "research_funding_conference_grant": {
+      "status": "PROVIDED_BY_FACULTY",
+      "details": "World-class laboratory facilities, supercomputing access, and international symposium participation supported by Faculty of Science research groups.",
+      "amount": "Fully funded by research laboratory"
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Local Geneva transit (TPG unireso annual student pass) paid by scholar.",
+      "amount": "~CHF 450 / year"
+    },
+    "total_estimated_value_usd_per_year": 22000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution (University of Geneva, Switzerland - QS World Rank #125, Global Top 50 in Science)",
+    "participating_institutions": [
+      "University of Geneva (Faculty of Science, Sciences II & III Campuses, Geneva)"
+    ],
+    "university_rankings_scope": "World-leading research faculty (home to Nobel Laureates in Physics Michel Mayor & Didier Queloz; close partnerships with CERN).",
+    "available_majors": [
+      "Computer Science (Data Science, Artificial Intelligence, Scientific Computing)",
+      "Physics (Quantum Science, Particle Physics, Astrophysics & Cosmology)",
+      "Mathematics & Applied Mathematics",
+      "Biology (Genetics, Molecular Biology, Bioinformatics)",
+      "Chemistry & Biochemistry",
+      "Earth and Environmental Sciences",
+      "Pharmaceutical Sciences",
+      "Archaeology and Prehistory"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master of Science: 3 semesters (90 ECTS / 1.5 years) or 4 semesters (120 ECTS / 2.0 years).",
+    "admission_requirements_summary": "Top 10% Bachelor's graduating rank in relevant scientific discipline, strong foundation in mathematics/science, two professor references, and approved motivation letter.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Physics (CERN alignment) and Computer Science/Mathematics are fiercely competitive globally; Earth Sciences and Chemistry have slightly higher acceptance yields.",
+    "strategic_program_match_advice": "Prospective applicants must submit two applications concurrently: (1) General university admission to UNIGE Admissions Office, and (2) Excellence Master Fellowship application dossier directly to the Faculty of Science before the strict deadline of 28 February."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.unige.ch/sciences/en/enseignements/formations/masters/excellence-master-fellowships/",
+    "portal_system_name": "UNIGE Faculty of Science Excellence Fellowship Portal & UNIGE Central Admissions",
+    "account_creation_instructions": "Lodge online admission with UNIGE Admissions Office, then submit the Excellence Fellowship dossier as a single compiled PDF file via the Faculty of Science online submission portal.",
+    "step_by_step_workflow": [
+      "Step 1: Check Master's program requirements on the UNIGE Faculty of Science website.",
+      "Step 2: Complete the UNIGE central online admission application and pay the CHF 65 fee.",
+      "Step 3: Download the Faculty of Science Excellence Master Fellowship application guidelines.",
+      "Step 4: Prepare the fellowship application dossier in a single PDF file (max 10 MB).",
+      "Step 5: Include a scanned copy of passport, curriculum vitae (max 2 pages), complete transcripts, and degree certificates.",
+      "Step 6: Write a compelling motivation letter describing your scientific interests and why you chose UNIGE.",
+      "Step 7: Provide contact details of two professors who will provide confidential reference letters.",
+      "Step 8: Upload the compiled fellowship PDF dossier on the Faculty of Science portal before 28 February.",
+      "Step 9: Faculty evaluation committee reviews candidates in March and announces results in April.",
+      "Step 10: Accept fellowship offer, finalize Swiss student visa (Type D), and register with Geneva cantonal authorities."
+    ],
+    "university_vs_scholarship_routing": "Dual application: candidate must complete central UNIGE admission AND submit the specific fellowship dossier to the Faculty of Science.",
+    "recommendation_letters_submission_method": "Two reference letters sent directly by professors to the designated Faculty of Science evaluation email address.",
+    "personal_statement_prompts": "Motivation letter detailing your scientific passion, specific research interests, and why the Faculty of Science at UNIGE is the ideal environment for your Master's project.",
+    "study_plan_research_proposal_requirements": "Brief description of research orientation or fields of interest within your proposed discipline (approx. 1 page).",
+    "cv_format_requirements": "Concise 2-page academic curriculum vitae detailing coursework, laboratory skills, awards, and software competencies.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interview; evaluation is purely based on the submitted academic portfolio and reference letters.",
+    "standardized_tests": "IELTS Academic (7.0+) or TOEFL iBT (100+). GRE Physics/Math recommended for international candidates but not strictly mandatory.",
+    "application_fee_amount": "CHF 65 (UNIGE central admission fee)",
+    "attestation_requirements": "Scanned original academic transcripts and certificates; verified original copies presented upon arrival in Geneva.",
+    "translation_requirements": "Certified English or French translations required for all non-English documents.",
+    "final_submission_method": "Online upload of compiled PDF on the Faculty of Science fellowship portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear scanned copy of valid international passport data page.",
+      "pakistan_specific_instruction": "Ensure name exactly matches educational degrees."
+    },
+    {
+      "document_name": "Complete Official University Transcripts",
+      "mandatory": true,
+      "specification": "Transcripts of all semesters of Bachelor's degree showing grades, credits, and grading scale.",
+      "pakistan_specific_instruction": "Higher Education Commission (HEC) Pakistan attested documents."
+    },
+    {
+      "document_name": "Proof of Class Ranking (Top 10%)",
+      "mandatory": true,
+      "specification": "Official letter from university registrar/dean certifying that applicant graduated in the top 10% of their cohort.",
+      "pakistan_specific_instruction": "Mandatory requirement: obtain official class standing certificate from registrar."
+    },
+    {
+      "document_name": "Scientific Motivation Letter",
+      "mandatory": true,
+      "specification": "1 to 2 page letter detailing scientific focus, research goals, and choice of UNIGE.",
+      "pakistan_specific_instruction": "Articulate clear research objectives aligned with UNIGE faculty research laboratories."
+    },
+    {
+      "document_name": "Academic Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Maximum 2 pages detailing academic track record, research internships, lab skills, and publications.",
+      "pakistan_specific_instruction": "Highlight technical competencies, lab tools, and programming capabilities."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential letters from two senior professors attesting to applicant's scientific potential.",
+      "pakistan_specific_instruction": "Professors must email recommendations directly from official university email addresses."
+    },
+    {
+      "document_name": "English Language Proficiency Certificate",
+      "mandatory": true,
+      "specification": "Official IELTS Academic (7.0+) or TOEFL iBT (100+) score report.",
+      "pakistan_specific_instruction": "Certificate must be valid at commencement."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Early January",
+    "application_deadline": "28 February (Strict deadline for all applicants)",
+    "university_admission_deadline": "28 February (Central admission submission)",
+    "document_submission_deadline": "28 February",
+    "recommendation_letters_deadline": "28 February",
+    "interview_period": "None (Document review only)",
+    "shortlist_announcement": "Mid-April",
+    "final_result_acceptance_deadline": "Within 14 days of offer notification",
+    "visa_application_window": "May - July (Swiss Type D visa takes 8 to 12 weeks)",
+    "semester_commencement": "Mid-September (Autumn semester)",
+    "annual_cycle_notes": "One annual intake cycle closing on 28 February each year for autumn semester entry."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "60% (Bachelor's GPA, top 10% class ranking, rigorous science/math coursework)",
+    "extracurricular_and_leadership_weight": "0% (Pure academic and scientific merit)",
+    "research_experience_weight": "20% (Prior laboratory research experience, technical skills, publications, and thesis quality)",
+    "work_experience_weight": "0% (Industry work not evaluated for basic sciences)",
+    "personal_statement_weight": "10% (Clarity and intellectual rigor of scientific motivation letter)",
+    "recommendations_weight": "10% (Endorsements from senior academic referees regarding scientific promise)",
+    "interview_weight": "0% (No interviews)",
+    "test_scores_weight": "Threshold requirement (IELTS/TOEFL compliance)",
+    "financial_need_weight": "0% (Need-blind merit scholarship)",
+    "selection_panel_composition": "Faculty of Science Evaluation Committee chaired by the Dean of the Faculty of Science and departmental section heads.",
+    "evaluation_methodology": "The Selection Committee evaluates all eligible dossiers section-by-section (Physics, Computer Science, Biology, Chemistry, Mathematics). Candidates are ranked strictly by academic excellence, class rank percentile, and research capability. Fellowship awards are distributed proportionally across departments to the top international applicants."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,200 to 1,500 international applicants across all science sections",
+    "total_scholarships_awarded": "~15 to 20 excellence fellowships awarded per year",
+    "acceptance_rate_global": "~1.2% to 1.5% (Extremely selective)",
+    "acceptance_rate_pakistan": "~1% to 2% (Achievable for top 5% graduates from NUST, LUMS, QAU, FAST with published research)",
+    "typical_successful_applicant_gpa": "3.85+ / 4.00 CGPA (85%+ aggregate, top 5% of class)",
+    "typical_academic_and_research_profile": "Graduates with outstanding mathematical or experimental training, undergraduate thesis awards, and clear potential for doctoral continuation.",
+    "common_backgrounds_of_winners": "Graduates in Physics, Theoretical Computer Science, Artificial Intelligence, Biochemistry, and Mathematics.",
+    "high_representation_countries": "Global: France, Italy, Pakistan, Germany, India, China, Canada, Spain.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Scam agencies promising guaranteed UNIGE fellowships for payment. The Faculty of Science never charges a fellowship processing fee."
+    ],
+    "application_fee_warning": "Central UNIGE admission costs CHF 65; the fellowship application itself is completely free.",
+    "agent_and_intermediary_warnings": "Do not hire agents. The motivation letter must reflect the candidate's genuine scientific passion.",
+    "hidden_costs_breakdown": [
+      "Geneva is one of the world's most expensive cities; while CHF 10,000 - 15,000 covers modest student living in university housing, personal budgeting is essential.",
+      "Swiss Type D visa and cantonal residence permit fees (~CHF 200).",
+      "Mandatory Swiss student health insurance (Swisscare, ~CHF 70/month).",
+      "Flight tickets between Pakistan and Geneva (~PKR 180,000 - 260,000)."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: French proficiency is required for all Master's programs. (FACT: Almost all Faculty of Science MSc programs are 100% English-taught).",
+      "CLAIM: You can apply for the fellowship after arrival in Geneva. (FACT: Application deadline is strictly 28 February prior to entry)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim the fellowship amount is CHF 20,000; the official Faculty of Science stipulation is CHF 10,000 to CHF 15,000 per academic year."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Scholars must successfully complete all first-year examinations and acquire the required ECTS credits with superior marks to receive the second-year installment.",
+    "attendance_requirements": "Full-time physical enrollment and research laboratory participation in Geneva.",
+    "academic_progress_monitoring": "Annual review by the Faculty of Science Teaching Commission.",
+    "work_restrictions_during_study": "Non-EU students in Switzerland may work a maximum of 15 hours per week during term time, but only after residing 6 months in Switzerland.",
+    "home_country_return_obligation": "None. Switzerland grants a 6-month residence permit extension post-graduation for job seeking.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Termination of funding occurs upon failure of exams or voluntary withdrawal; no clawback of disbursed stipend.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Requires approval from the Faculty of Science Dean.",
+    "extension_policy": "Granted strictly for the standard duration of the MSc (3 or 4 semesters)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Geneva - Faculty of Science Excellence Master Fellowships Official Portal",
+      "source_url": "https://www.unige.ch/sciences/en/enseignements/formations/masters/excellence-master-fellowships/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Departmental breakdown of fellowships awarded between physics, computing, and life sciences.",
+        "Exact minimum GRE physics score benchmark used in comparative evaluations.",
+        "Internal country-wise distribution statistics."
+      ]
+    }
+  ]
+}

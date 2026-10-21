@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ScholarX Intelligence Dossier // Chinese Government Scholarship (CSC Type A - Bilateral Program via HEC)</title>
+<style>
+  @page {
+    size: A4 portrait;
+    margin: 8mm 10mm 10mm 10mm;
+    @top-left {
+      content: "SCHOLARX INTELLIGENCE NETWORK // VERIFIED OFFICIAL DOSSIER";
+      font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+      font-size: 7pt;
+      font-weight: 700;
+      color: #0F766E;
+      letter-spacing: 0.05em;
+    }
+    @top-right {
+      content: "OFFICIAL VERIFIED DOSSIER • CONFIDENCE: 98%";
+      font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+      font-size: 7pt;
+      font-weight: 600;
+      color: #64748B;
+    }
+    @bottom-left {
+      content: "SCHOLARX RESEARCH NETWORK • CANONICAL ADMISSIONS PUBLICATION • COHORT 2026/2027";
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 6.5pt;
+      color: #94A3B8;
+    }
+    @bottom-right {
+      content: "Page " counter(page) " of " counter(pages);
+      font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+      font-size: 7pt;
+      font-weight: 700;
+      color: #0F172A;
+    }
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: #0F172A;
+    background: #FFFFFF;
+    font-size: 8pt;
+    line-height: 1.35;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .single-dossier-header {
+    background: #0F172A;
+    color: #FFFFFF;
+    padding: 12px 14px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    border-left: 5px solid #0F766E;
+  }
+
+  .sd-preheader {
+    font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+    font-size: 7pt;
+    font-weight: 700;
+    color: #2DD4BF;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 3px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .sd-title {
+    font-size: 13pt;
+    font-weight: 800;
+    color: #FFFFFF;
+    line-height: 1.2;
+    margin-bottom: 4px;
+    letter-spacing: -0.01em;
+  }
+
+  .sd-sub {
+    font-size: 7.5pt;
+    color: #94A3B8;
+    line-height: 1.3;
+  }
+
+  .sd-runway-box {
+    background: #F8FAFC;
+    border: 1px solid #CBD5E1;
+    border-left: 3px solid #0F766E;
+    padding: 8px 10px;
+    margin-top: 10px;
+    border-radius: 3px;
+    font-size: 7pt;
+    line-height: 1.35;
+    color: #334155;
+  }
+
+  .sd-runway-title {
+    font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+    font-size: 7.5pt;
+    font-weight: 700;
+    color: #0F766E;
+    text-transform: uppercase;
+    margin-bottom: 3px;
+  }
+
+  /* Import catalog card styles */
+  .sc-card {
+    background: #FFFFFF;
+    border: 1px solid #CBD5E1;
+    border-top: 3px solid #0F766E;
+    border-radius: 4px;
+    padding: 10px 12px;
+    margin-bottom: 8px;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .sc-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 1px solid #E2E8F0;
+    padding-bottom: 6px;
+    margin-bottom: 6px;
+  }
+
+  .sc-meta-left {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .sc-badges {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-bottom: 3px;
+  }
+
+  .badge {
+    font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+    font-size: 6.5pt;
+    font-weight: 700;
+    padding: 1.5px 5px;
+    border-radius: 2px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    display: inline-block;
+  }
+
+  .badge-dark { background: #0F172A; color: #FFFFFF; }
+  .badge-country { background: #E2E8F0; color: #1E293B; }
+  .badge-id { background: #F1F5F9; color: #475569; border: 1px solid #CBD5E1; }
+  .badge-full { background: #DCFCE7; color: #166534; border: 1px solid #86EFAC; }
+  .badge-partial { background: #FEF3C7; color: #92400E; border: 1px solid #FCD34D; }
+  .badge-success { background: #DCFCE7; color: #166534; border: 1px solid #86EFAC; }
+  .badge-info { background: #E0E7FF; color: #3730A3; border: 1px solid #A5B4FC; }
+
+  .sc-name {
+    font-size: 10.5pt;
+    font-weight: 800;
+    color: #0F172A;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+  }
+
+  .sc-entities {
+    font-size: 7pt;
+    color: #475569;
+    margin-top: 2px;
+  }
+
+  .sc-meta-right {
+    text-align: right;
+    flex-shrink: 0;
+    margin-left: 12px;
+  }
+
+  .deadline-badge {
+    background: #0F172A;
+    color: #FFFFFF;
+    padding: 3px 7px;
+    border-radius: 3px;
+    display: inline-block;
+    text-align: right;
+  }
+
+  .deadline-label {
+    display: block;
+    font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+    font-size: 5.5pt;
+    font-weight: 700;
+    color: #2DD4BF;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .deadline-val {
+    font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+    font-size: 8pt;
+    font-weight: 800;
+    color: #FFFFFF;
+  }
+
+  .degree-badge {
+    font-size: 7pt;
+    font-weight: 600;
+    color: #475569;
+    margin-top: 2px;
+  }
+
+  .metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+    margin-bottom: 6px;
+  }
+
+  .metric-box {
+    background: #F8FAFC;
+    border: 1px solid #E2E8F0;
+    border-radius: 3px;
+    padding: 4px 6px;
+  }
+
+  .m-label {
+    display: block;
+    font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+    font-size: 5.5pt;
+    font-weight: 700;
+    color: #64748B;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 1px;
+  }
+
+  .m-val {
+    font-size: 7.5pt;
+    font-weight: 700;
+    color: #0F172A;
+    line-height: 1.15;
+    display: block;
+  }
+
+  .text-emerald { color: #047857; }
+
+  .coverage-strip {
+    background: #F1F5F9;
+    padding: 3px 6px;
+    border-radius: 3px;
+    margin-bottom: 6px;
+    font-size: 6.5pt;
+    line-height: 1.4;
+  }
+
+  .strip-label {
+    font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+    font-weight: 700;
+    color: #475569;
+    margin-right: 4px;
+    text-transform: uppercase;
+  }
+
+  .cov-pill {
+    display: inline-block;
+    padding: 1px 4px;
+    border-radius: 2px;
+    font-weight: 600;
+    margin-right: 3px;
+    margin-bottom: 1px;
+    white-space: nowrap;
+  }
+
+  .pill-yes { background: #DCFCE7; color: #166534; border: 1px solid #86EFAC; }
+  .pill-no { background: #FEF3C7; color: #92400E; border: 1px solid #FCD34D; }
+
+  .details-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-bottom: 6px;
+  }
+
+  .grid-col {
+    background: #FFFFFF;
+    border: 1px solid #E2E8F0;
+    border-radius: 3px;
+    padding: 6px 8px;
+  }
+
+  .section-title {
+    font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+    font-size: 6.5pt;
+    font-weight: 700;
+    color: #0F766E;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: 1px solid #E2E8F0;
+    padding-bottom: 2px;
+    margin-bottom: 4px;
+  }
+
+  .dense-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 7pt;
+  }
+
+  .dense-table tr {
+    border-bottom: 1px solid #F1F5F9;
+  }
+
+  .dt-key {
+    font-weight: 600;
+    color: #64748B;
+    width: 32%;
+    padding: 2px 2px;
+    vertical-align: top;
+  }
+
+  .dt-val {
+    color: #0F172A;
+    padding: 2px 2px;
+    vertical-align: top;
+  }
+
+  .workflow-box {
+    margin-bottom: 4px;
+  }
+
+  .wf-title {
+    font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+    font-size: 6pt;
+    font-weight: 700;
+    color: #475569;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 2px;
+  }
+
+  .workflow-list {
+    padding-left: 14px;
+    font-size: 7pt;
+    color: #334155;
+    line-height: 1.25;
+  }
+
+  .workflow-list li {
+    margin-bottom: 1.5px;
+  }
+
+  .docs-box {
+    border-top: 1px solid #F1F5F9;
+    padding-top: 3px;
+  }
+
+  .docs-title {
+    font-family: ui-monospace, "SF Mono", "JetBrains Mono", Consolas, monospace;
+    font-size: 6pt;
+    font-weight: 700;
+    color: #475569;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 2px;
+  }
+
+  .docs-checklist {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+  }
+
+  .doc-tag {
+    background: #F8FAFC;
+    border: 1px solid #CBD5E1;
+    color: #1E293B;
+    padding: 1px 4px;
+    border-radius: 2px;
+    font-size: 6.5pt;
+    font-weight: 500;
+  }
+
+  .sc-footer {
+    border-top: 1px solid #E2E8F0;
+    padding-top: 4px;
+    font-size: 7pt;
+  }
+
+  .footer-block {
+    padding: 3px 6px;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    font-size: 7pt;
+    line-height: 1.25;
+  }
+
+  .highlight-block {
+    background: #F0FDF4;
+    color: #14532D;
+    border-left: 2px solid #16A34A;
+  }
+
+  .warning-block {
+    background: #FFFBEB;
+    color: #92400E;
+    border-left: 2px solid #F59E0B;
+  }
+
+  .footer-sources {
+    color: #475569;
+    font-size: 6.5pt;
+    margin-top: 2px;
+  }
+
+  .sources-title {
+    font-weight: 700;
+    color: #0F172A;
+  }
+
+  .source-link {
+    color: #0F766E;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .cycle-note {
+    color: #64748B;
+    font-style: italic;
+    margin-left: 4px;
+  }
+
+  .text-muted { color: #64748B; }
+  .text-xs { font-size: 6pt; }
+</style>
+</head>
+<body>
+
+<div class="single-dossier-header">
+  <div class="sd-preheader">
+    <span>SCHOLARX RESEARCH NETWORK // VERIFIED OFFICIAL OPPORTUNITY DOSSIER</span>
+    <span>CONFIDENCE: 98% • HEC / MINISTRY AUDITED</span>
+  </div>
+  <div class="sd-title">Chinese Government Scholarship (CSC Type A - Bilateral Program via HEC)</div>
+  <div class="sd-sub">
+    Offered by: <strong>Ministry of Education of the People's Republic of China / China Scholarship Council (CSC) & HEC Pakistan</strong> &bull; Host Nation: <strong>China (Asia)</strong> &bull; Academic Cycle: <strong>2026/2027</strong> &bull; System Ref: <strong>SCH-AS-001</strong>
+  </div>
+</div>
+
+
+    <div class="sc-card">
+      <!-- Header Row -->
+      <div class="sc-header">
+        <div class="sc-meta-left">
+          <div class="sc-tags">
+            <span class="tag tag-region">Asia</span>
+            <span class="tag tag-country">China</span>
+            <span class="tag tag-id">SCH-AS-001</span>
+            <span class="tag tag-funding">FULLY FUNDED</span>
+          </div>
+          <h2 class="sc-title">Chinese Government Scholarship (CSC Type A - Bilateral Program via HEC)</h2>
+          <div class="sc-sub">
+            <strong>Host Body:</strong> Ministry of Education of the People's Republic of China / China Scholarship Council (CSC) & HEC Pakistan &nbsp;|&nbsp;
+            <strong>Placement:</strong> Accredited Chinese 'Double First-Class' Universities (Tsinghua, Peking, Zhe
+          </div>
+        </div>
+        <div class="sc-meta-right">
+          <div class="deadline-badge">
+            <span class="deadline-label">APPLICATION DEADLINE</span>
+            <span class="deadline-val">Mid-January to mid-February annually (varies slightly by HEC announcement)</span>
+          </div>
+          <div class="degree-badge">
+            Bachelor's • Master's • PhD • Bachelor's: 4-5 years; Master's: 2-3 years; PhD: 3-4 years (includes 1 year preparatory Chinese if applicable)
+          </div>
+        </div>
+      </div>
+
+      <!-- Financial Metrics 4-Box Bar -->
+      <div class="metrics-grid">
+        <div class="metric-box">
+          <span class="m-label">TUITION COVERAGE</span>
+          <span class="m-val text-emerald">100% COVERED</span>
+        </div>
+        <div class="metric-box">
+          <span class="m-label">MONTHLY STIPEND</span>
+          <span class="m-val">RMB 2,500/mo (BS), RMB 3,000/mo (MS), RMB 3,500/mo (PhD) (~PKR 100,000 t...</span>
+        </div>
+        <div class="metric-box">
+          <span class="m-label">ACCOMMODATION</span>
+          <span class="m-val">Free university dormitory accommodation on campus (single room...</span>
+        </div>
+        <div class="metric-box">
+          <span class="m-label">TRAVEL & HEALTH</span>
+          <span class="m-val">Airfare: NOT_COVERED • Health: COVERED • Visa Waived</span>
+        </div>
+      </div>
+
+      <!-- Coverage Conditions Badges Strip -->
+      <div class="coverage-strip">
+        <span class="strip-label">COVERAGE SPECIFICATION:</span>
+        <span class="badge badge-success">✓ Tuition Waiver (100%)</span><span class="badge badge-success">✓ Accommodation / Housing</span><span class="badge badge-success">✓ Monthly Stipend (RMB 2,500/mo (BS), RMB 3,000/mo (MS), RMB 3,500/mo (PhD) (~PKR 100,000 to 140,000/mo))</span><span class="badge badge-success">✓ Return Airfare</span><span class="badge badge-success">✓ Medical Insurance</span><span class="badge badge-success">✓ Visa Costs Covered</span>
+        
+      </div>
+
+      <!-- 2-Column Detail Grid -->
+      <div class="details-grid">
+        <!-- Col 1: Requirements & Eligibility -->
+        <div class="grid-col">
+          <div class="section-title">ELIGIBILITY &amp; ACADEMIC REQUIREMENTS</div>
+          <table class="dense-table">
+            <tr>
+              <td class="dt-key">Age Requirement</td>
+              <td class="dt-val">Bachelor's: Under 25 years; Master's: Under 35 years; PhD: Under 40 years of age.</td>
+            </tr>
+            <tr>
+              <td class="dt-key">Academic Cutoff</td>
+              <td class="dt-val"><strong>2.8</strong> — High school certificate (HSSC/A-Levels) for BS; 16-year Bachelor'</td>
+            </tr>
+            <tr>
+              <td class="dt-key">Nationality / Quota</td>
+              <td class="dt-val">Citizens of the Islamic Republic of Pakistan in good physical and ment</td>
+            </tr>
+            <tr>
+              <td class="dt-key">English Proficiency</td>
+              <td class="dt-val">
+                <span class="badge badge-success">MOI Accepted (No IELTS Mandatory)</span>
+                <span class="text-muted text-xs">For English-taught programs: IELTS 6.0+, TOEFL 80+, or Engli</span>
+              </td>
+            </tr>
+            <tr>
+              <td class="dt-key">Degree Field Scope</td>
+              <td class="dt-val">Open to all disciplines: Engineering, Computer Science, Artificial Intelligence,</td>
+            </tr>
+            <tr>
+              <td class="dt-key">Experience / Terms</td>
+              <td class="dt-val">Not mandatory; research publications strongly preferred for PhD applicants.</td>
+            </tr>
+          </table>
+        </div>
+
+        <!-- Col 2: Application Process & Required Documents -->
+        <div class="grid-col">
+          <div class="section-title">APPLICATION PROCESS &amp; REQUIRED DOCUMENTS</div>
+          <div class="workflow-box">
+            <span class="wf-title">Roadmap Sequence:</span>
+            <ol class="workflow-list">
+              <li class="workflow-step">1. Search eligible universities and contact Chinese professors to request an Acceptance Letter.</li><li class="workflow-step">2. Complete the Foreigner Physical Examination Form (with blood tests) and obtain Police Clearance Certificate.</li><li class="workflow-step">3. Register on CSC portal (campuschina.org), select Program Category 'Type A', Agency Number 5861 (HEC).</li><li class="workflow-step">4. Upload degree transcripts, study plan, 2 recommendation letters, physical exam, and police certificate.</li>
+            </ol>
+          </div>
+          <div class="docs-box">
+            <span class="docs-title">Mandatory Document Dossier:</span>
+            <div class="docs-checklist">
+              <span class="doc-item" title="N/A">☑ Valid Passport Information Page</span><span class="doc-item" title="N/A">☑ Notarized Highest Diploma & Transcripts</span><span class="doc-item" title="N/A">☑ Foreigner Physical Examination Form</span><span class="doc-item" title="N/A">☑ Non-Criminal Record Certificate (Police Character Certificate)</span><span class="doc-item" title="N/A">☑ Study Plan / Research Proposal</span><span class="doc-item" title="N/A">☑ Two Recommendation Letters</span><span class="doc-item" title="N/A">☑ Pre-Admission Letter / Supervisor Acceptance Letter</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Strategic Due Diligence & Official Citations Footer -->
+      <div class="sc-footer">
+        <div class="footer-block highlight-block">
+          <strong>Strategic Merit:</strong> HIGH • ~200 to 300 bilateral quota awards reserved exclusively for Pakistani students annually via HEC. Provides Fully Funded funding in China with high post-study career trajectory.
+        </div>
+        <div class="footer-block warning-block">
+          <strong>Due Diligence / Safeguards:</strong> CSC portal is 100% FREE. HEC charges only the standard test fee (~PKR 2,000). • ['International flight ticket to China (PKR 150,000 to 220,000) is NOT covered by the
+        </div>
+        <div class="footer-sources">
+          <span class="sources-title">Verified Official Portals:</span>
+          <a href="https://www.campuschina.org/" class="source-link" target="_blank"><u>China Scholarship Council (CSC) - Official Campus China Portal</u></a> • <a href="https://scholarship.hec.gov.pk/" class="source-link" target="_blank"><u>Higher Education Commission (HEC) Pakistan - Chinese Government Scholarship Program</u></a>
+          <span class="cycle-note">(Academic Cycle: December annually (e.g., 2026-12-01) &rarr; Intake: September (Fall Semester))</span>
+        </div>
+      </div>
+    </div>
+    
+
+<div class="sd-runway-box">
+  <div class="sd-runway-title">Official Admissions Runway &amp; Financial Liquidity Guidance (Pakistan Cohort 2026/2027)</div>
+  <p>
+    <strong>Preparation Timeline:</strong> Today is October 2026. For Fall 2027 enrollment, begin HEC/IBCC document attestation 
+    and passport validity renewal immediately. Official application portals for this cycle accept applications through 
+    <strong>Mid-January to mid-February annually (varies slightly by HEC announcement)</strong>.
+  </p>
+  <p style="margin-top: 2px;">
+    <strong>Estimated Upfront Reserve Needed:</strong> Even with 100% full funding awards, maintain an estimated 
+    <strong>PKR 140,000 – 300,000</strong> liquid cash buffer for attestation fees, visa processing biometrics (VFS Global/Gerry's), 
+    and initial airport transit settlement prior to opening your local host-nation bank account for stipend disbursements.
+  </p>
+</div>
+
+</body>
+</html>

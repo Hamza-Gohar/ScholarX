@@ -1,0 +1,268 @@
+{
+  "scholarship_id": "SCH-AS-012",
+  "basic_details": {
+    "scholarship_name": "KAIST International Graduate Scholarship",
+    "offering_entity": "Korea Advanced Institute of Science and Technology (KAIST) & Ministry of Science and ICT, South Korea",
+    "host_country": "South Korea",
+    "host_institutions_covered": "KAIST Main Campus (Daejeon) and Seoul Campus (College of Business)",
+    "degree_levels": [
+      "Master's (MS)",
+      "MS-PhD Integrated",
+      "PhD"
+    ],
+    "major_restrictions": "Open to all graduate departments in the College of Natural Sciences, College of Life Science & Bioengineering, College of Engineering, and College of Business.",
+    "number_of_awards_total": "~400 to 500 fully-funded international graduate scholarships awarded annually across Spring and Fall intakes",
+    "number_of_awards_pakistan": "Open globally; Pakistan is one of the top representation countries at KAIST (~40 to 60 Pakistani scholars selected annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Master's: 2 years (4 semesters); PhD: 4 years (8 semesters); MS-PhD Integrated: 5 years"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Non-Korean citizenship (neither applicant nor parents hold Korean nationality; Pakistani citizens eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limits.",
+    "academic_qualifications": "Completed 16 years of education (Bachelor's degree) for Master's; 18 years (Master's degree) for PhD from an accredited university.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum 3.00 / 4.00 CGPA; competitive admitted candidates typically present 3.50+ / 4.00 CGPA.",
+    "subject_background_prerequisites": "Academic background in engineering, computing, natural sciences, or management.",
+    "current_education_status": "Graduated or expected to graduate before the semester start date.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Research laboratory experience, programming proficiency, and prior publications in IEEE/ACM/SCI venues significantly boost admission ranking.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 83,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": true,
+      "notes": "IELTS Academic minimum 6.5, TOEFL iBT minimum 83, or official English Proficiency Certificate (MOI) issued by university registrar."
+    },
+    "other_language_requirements": "Korean language (TOPIK) not required; all graduate courses and research conducted in English.",
+    "gender_specific_requirements": "Equal opportunity; diversity encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates select 'KAIST Scholarship' on the application portal; no separate scholarship form needed.",
+    "previous_scholarship_restrictions": "Cannot hold another full Korean government scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition fee waiver for all regular semesters of study.",
+      "amount": "KRW 8,000,000 to 10,000,000 / semester (~USD $12,000 to $15,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "KAIST online application fee (USD $80 / KRW 80,000) paid by applicant.",
+      "amount": "USD $80"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND_WITH_SUBSIDIZED_HOUSING",
+      "details": "Subsidized on-campus university dormitory accommodation provided (~KRW 150,000 to 250,000/month); paid from living stipend.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "KAIST base stipend (KRW 350,000/mo for MS, KRW 400,000/mo for PhD) PLUS research assistantship (RA) top-up from supervising professor lab (~KRW 600,000 to 1,200,000/mo extra). Total take-home typically KRW 1,000,000 to 1,600,000 / month.",
+      "amount": "KRW 1,000,000 to 1,600,000 / month (~PKR 210,000 to 340,000 / month)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Initial airfare to South Korea is paid by student from personal funds or lab advance.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Korean student visa (D-2) application fee paid by student at Korean Embassy in Islamabad / Consulate in Karachi.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Korean National Health Insurance (NHIS) covered / subsidized by KAIST for international students.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly living stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Covered from living allowance and lab resources.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Domestic and international conference travel fully funded through supervisor's research lab grants.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Personal responsibility.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 26000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: Korea Advanced Institute of Science and Technology (KAIST - World Top 55).",
+    "participating_institutions": [
+      "KAIST Main Campus (Daejeon)",
+      "KAIST College of Business (Seoul)"
+    ],
+    "university_rankings_scope": "QS World Rank #53; #1 science and technology university in South Korea.",
+    "available_majors": [
+      "Computer Science, Artificial Intelligence (Kim Jaechul Graduate School of AI), Electrical Engineering, Mechanical Engineering, Aerospace Engineering, Robotics, Materials Science and Engineering, Chemical & Biomolecular Engineering, Bio & Brain Engineering, Physics, Chemistry, Mathematical Sciences, Industrial & Systems Engineering"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 4 years",
+    "admission_requirements_summary": "Online application via KAIST admissions portal; select KAIST Scholarship; submit physical or certified digital documents.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "School of Computing and Graduate School of AI are most competitive; contacting professors prior to applying significantly increases chances.",
+    "strategic_program_match_advice": "Emailing prospective KAIST lab directors (PIs) with your CV and published work before the deadline to secure informal lab support is strongly advised."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://admission.kaist.ac.kr/intl-graduate/",
+    "portal_system_name": "KAIST International Graduate Admission Portal",
+    "account_creation_instructions": "Register on the KAIST application system (Spring intake: August-September; Fall intake: December-January), fill in the online form, pay the $80 application fee, and upload documents.",
+    "step_by_step_workflow": [
+      "1. Research KAIST laboratories and email prospective professors (November-December for Fall intake).",
+      "2. Create account on KAIST International Graduate portal and complete application form.",
+      "3. Select 'KAIST Scholarship' as the funding source.",
+      "4. Pay the USD $80 online application fee.",
+      "5. Designate two academic referees who submit online reference letters.",
+      "6. Upload or dispatch required academic certificates, transcripts, and financial sponsor documents before deadline.",
+      "7. Departmental committee conducts document screening and video interviews in March.",
+      "8. Final admissions and scholarship results announced in late March/early April."
+    ],
+    "university_vs_scholarship_routing": "Integrated single application: Select KAIST Scholarship checkbox.",
+    "recommendation_letters_submission_method": "Submitted online by referees via secure electronic link sent by KAIST.",
+    "personal_statement_prompts": "Statement of Purpose covering academic goals, background, work/research experiences, and future career plans.",
+    "study_plan_research_proposal_requirements": "Study plan outlining intended research area and courses.",
+    "cv_format_requirements": "Academic CV detailing technical skills, publications, and final year projects.",
+    "interviews_conducted": true,
+    "interview_format_details": "Departmental interview committee or prospective lab PI conducts 20-30 minute video interview in March testing fundamentals and research interest.",
+    "standardized_tests": "GRE not required; English language score or MOI required.",
+    "application_fee_amount": "USD $80 / KRW 80,000.",
+    "attestation_requirements": "Apostille or consular legalization by Korean Embassy in Islamabad required for final degree documents.",
+    "translation_requirements": "Notarized English translations.",
+    "final_submission_method": "Online application followed by document verification."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "KAIST Online Application Form & Statement of Purpose",
+      "mandatory": true,
+      "specification": "Completed form and SOP printed from portal",
+      "pakistan_specific_instruction": "Detailing academic trajectory and research interests"
+    },
+    {
+      "document_name": "Two Recommendation Letters",
+      "mandatory": true,
+      "specification": "Submitted directly by university professors using official institutional email",
+      "pakistan_specific_instruction": "From professors who supervised your BS/MS thesis"
+    },
+    {
+      "document_name": "Academic Transcripts & Degree Certificates",
+      "mandatory": true,
+      "specification": "Certified copies of undergraduate/master's transcripts with grading scale",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan; Korean consular attestation needed upon admission"
+    },
+    {
+      "document_name": "English Proficiency Score / Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic (6.5+), TOEFL iBT (83+), or official MOI certificate",
+      "pakistan_specific_instruction": "MOI certificate accepted from recognized Pakistani universities"
+    },
+    {
+      "document_name": "Copy of Passport & National ID",
+      "mandatory": true,
+      "specification": "Passport photo page and national identity card of applicant and parents",
+      "pakistan_specific_instruction": "NADRA CNIC copies with English translation"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-12-05",
+    "application_deadline": "2027-01-15",
+    "university_admission_deadline": "2027-01-15",
+    "document_submission_deadline": "2027-01-22",
+    "recommendation_letters_deadline": "2027-01-22",
+    "interview_period": "March 2027",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-04-15",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "September 2027 (Fall intake)",
+    "annual_cycle_notes": "Two annual intakes: Fall intake (Deadline mid-January for Sept start); Spring intake (Deadline late August for March start)."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Academic record, GPA, mathematical and technical mastery)",
+    "extracurricular_and_leadership_weight": "5% (Secondary)",
+    "research_experience_weight": "35% (Prior lab experience, final year project quality, publications, programming skills)",
+    "work_experience_weight": "5% (Industrial/laboratory R&D experience)",
+    "personal_statement_weight": "5% (Study plan and motivation)",
+    "recommendations_weight": "10% (Referee appraisals)",
+    "interview_weight": "High weight in departmental interview",
+    "test_scores_weight": "Language threshold required",
+    "financial_need_weight": "0% (Exclusively merit-based)",
+    "selection_panel_composition": "KAIST Departmental Admissions Committees and the Central International Admissions Committee.",
+    "evaluation_methodology": "Two-tier review: Department evaluates academic transcript alignment, lab match, and interview; central committee confirms scholarship."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,500 to 4,500 international applications annually",
+    "total_scholarships_awarded": "~400 to 500 scholarships awarded annually across both intakes",
+    "acceptance_rate_global": "~10% to 12%",
+    "acceptance_rate_pakistan": "~8% to 10% (Strong track record for Pakistani STEM applicants)",
+    "typical_successful_applicant_gpa": "3.50 to 3.95 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Top engineering and computer science students from leading Pakistani universities with strong programming and research portfolios.",
+    "common_backgrounds_of_winners": "Graduates of NUST, FAST-NUCES, GIKI, UET Lahore, LUMS, Quaid-i-Azam University.",
+    "high_representation_countries": "Pakistan, Vietnam, Indonesia, China, Kazakhstan, Turkey, Russia, India.",
+    "competitiveness_tier": "VERY HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Commercial agents claiming they have 'exclusive quota tie-ups' with KAIST."
+    ],
+    "application_fee_warning": "Pay only the USD $80 application fee on the official KAIST application portal.",
+    "agent_and_intermediary_warnings": "Never work through agents; KAIST requires direct candidate correspondence.",
+    "hidden_costs_breakdown": [
+      "Application fee ($80).",
+      "Consular attestation fees at Korean Embassy in Islamabad.",
+      "Flight ticket to South Korea (~PKR 180,000 to 250,000).",
+      "Initial living expenses for the first month in Daejeon before stipend release."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You must speak Korean. (Fact: KAIST is an English-medium institution; virtually all graduate classes and research meetings are in English).",
+      "MYTH: You cannot apply if you don't have IELTS. (Fact: An official English Proficiency Certificate (MOI) from your Pakistani university is officially accepted)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "External blogs state the stipend is only KRW 350,000; that is merely the university baseline — active research labs add KRW 600,000 to 1,200,000/mo extra via Research Assistantships (RA)."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 2.5 / 4.3 (equivalent to ~2.7/4.0); falling below incurs probation and loss of tuition waiver.",
+    "attendance_requirements": "Full-time physical research attendance on campus in Daejeon or Seoul.",
+    "academic_progress_monitoring": "Semester credit check and annual research progress evaluation.",
+    "work_restrictions_during_study": "Part-time work outside the campus requires university and immigration permission under D-2 visa regulations.",
+    "home_country_return_obligation": "None; scholars can seek employment in South Korea's high-tech industry under the D-10 job seeker or E-7 professional work visas.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Expulsion or academic dishonesty results in scholarship revocation.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Changing departments requires mutual consent of both department heads.",
+    "extension_policy": "Tuition waiver is strictly provided for 4 semesters (MS) or 8 semesters (PhD)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "KAIST International Graduate Admissions Official Portal",
+      "source_url": "https://admission.kaist.ac.kr/intl-graduate/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Lab-by-lab Research Assistantship (RA) funding top-up minimum guidelines",
+        "Departmental quota breakdown between international applicants"
+      ]
+    }
+  ]
+}

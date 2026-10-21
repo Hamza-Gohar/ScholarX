@@ -1,0 +1,318 @@
+{
+  "scholarship_id": "SCH-OC-007",
+  "basic_details": {
+    "scholarship_name": "Monash University Graduate Research Scholarship (MGRS) & Australian Government Research Training Program (RTP)",
+    "offering_entity": "Monash University (Melbourne, Australia) & Australian Government Department of Education (RTP)",
+    "host_country": "Australia",
+    "host_institutions_covered": "Monash University (Clayton, Caulfield, Parkville, Peninsula Campuses, Melbourne, Victoria, Australia)",
+    "degree_levels": [
+      "Master's by Research",
+      "Doctoral / PhD"
+    ],
+    "major_restrictions": "Open to all academic faculties: Faculty of Information Technology (Computer Science, Artificial Intelligence, Cybersecurity, Software Engineering, Data Science), Faculty of Engineering (Mechanical, Electrical, Chemical, Civil, Materials), Faculty of Medicine, Nursing and Health Sciences, Faculty of Science, Monash Business School, Faculty of Arts, Faculty of Law, Faculty of Pharmacy and Pharmaceutical Sciences (QS World #2 in Pharmacy), Faculty of Art, Design and Architecture, and Faculty of Education.",
+    "number_of_awards_total": "~800 to 1,000 active research scholars concurrently supported; ~250 to 350 international scholarships awarded annually",
+    "number_of_awards_pakistan": "Open global merit competition; Pakistani researchers with H1 equivalence and publications are well-represented (typically 15 to 25 scholarships awarded/yr)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 3.5 years for PhD (with possible 6-month extension to 4.0 years upon academic justification); up to 2.0 years for Master's by Research"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international applicants of all nationalities outside Australia and New Zealand"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction.",
+    "academic_qualifications": "Monash H1 (First Class Honours) equivalence: 4-year Bachelor's degree (16 years education) with final-year research thesis graded at 80%+, or a 2-year Master's degree (18 years education) with at least a 25% research thesis component graded at 80%+.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Equivalence of Monash H1 standard (80%+ average in thesis and overall degree, or 3.70+ / 4.00 CGPA from Pakistani institutions such as NUST, FAST-NUCES, LUMS, QAU, UET, AKU).",
+    "subject_background_prerequisites": "Relevant undergraduate or postgraduate qualification in the proposed research discipline with verified research methodology training.",
+    "current_education_status": "Graduated or currently in final semester of degree graduating prior to the commencement intake.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Relevant research experience, peer-reviewed journal papers (Q1/Q2), and high-tier international conferences greatly boost competitive ranking score.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 79,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic 6.5 (minimum 6.0 in each band) or TOEFL iBT 79 (Reading 13, Listening 12, Speaking 18, Writing 21) or PTE Academic 58 (communicative skills 50+)."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Elite graduate researchers across computing, AI, engineering, pharmacy, medicine, and social sciences.",
+    "previous_scholarship_restrictions": "Must not be concurrently holding another full government or university scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "International Tuition Fee Offset covers 100% of international tuition fees for the standard duration of the research program.",
+      "amount": "100% covered (~AUD $46,000 to $54,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "100% WAIVED",
+      "details": "No application fee charged for graduate research degree and scholarship applications through the Monash Graduate Research portal.",
+      "amount": "AUD $0 (Waived)"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Paid out of living stipend; on-campus Clayton halls or off-campus Melbourne rental apartments.",
+      "amount": "Stipend allocation (~AUD $1,200 to $1,800 / month)"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "MGRS / RTP living allowance stipend indexed annually at approx AUD $35,013 to $37,000 / year tax-free (~AUD $2,918 to $3,083 / month).",
+      "amount": "AUD $35,013 to $37,000 / year (~PKR 6,450,000 to 6,800,000 / year)"
+    },
+    "airfare": {
+      "status": "PARTIALLY_COVERED",
+      "details": "Relocation allowance provided: up to AUD $1,500 for single scholar (or AUD $2,000 for family) towards flight tickets to Melbourne.",
+      "amount": "AUD $1,500 (~PKR 275,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Australian Student Visa (Subclass 500) application fee paid directly by the applicant to Home Affairs.",
+      "amount": "AUD $1,600 (~PKR 295,000)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Single Overseas Student Health Cover (OSHC) policy paid for the full duration of the student visa.",
+      "amount": "AUD $3,200 to $4,000 value (100% covered)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Living and meal expenses covered by living allowance stipend.",
+      "amount": "Included in monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "PROVIDED_BY_FACULTY",
+      "details": "Faculties provide annual research operational funds ($1,500 - $3,000/yr), workstation, HPC computing cluster access, and lab consumables.",
+      "amount": "AUD $1,500 to $3,000 / year research support"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Monash Graduate Education and faculties provide Postgraduate Travel Grants (up to AUD $2,500 to $4,000) for international conferences.",
+      "amount": "Up to AUD $4,000 over candidature"
+    },
+    "travel_transit_allowance": {
+      "status": "INCLUDED_IN_RELOCATION",
+      "details": "Included in the relocation allowance grant.",
+      "amount": "AUD $1,500 relocation allowance"
+    },
+    "total_estimated_value_usd_per_year": 58000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution (Monash University, Melbourne, Australia - Group of Eight, QS World Rank #37)",
+    "participating_institutions": [
+      "Monash University (Clayton, Caulfield, Parkville, Peninsula Campuses)"
+    ],
+    "university_rankings_scope": "Global Top 40 (QS #37, US News #35, THE #54 globally; #2 globally in Pharmacy/Pharmacology)",
+    "available_majors": [
+      "Computer Science",
+      "Artificial Intelligence & Machine Learning",
+      "Data Science & Cybersecurity",
+      "Software Systems Engineering",
+      "Electrical & Computer Systems Engineering",
+      "Mechanical & Aerospace Engineering",
+      "Chemical & Biological Engineering",
+      "Civil Engineering",
+      "Materials Science & Engineering",
+      "Medicine, Nursing & Health Sciences",
+      "Public Health & Epidemiology",
+      "Biological Sciences & Genetics",
+      "Chemistry & Nanotechnology",
+      "Physics & Astronomy",
+      "Pharmacy & Pharmaceutical Sciences",
+      "Banking, Finance & Econometrics",
+      "Management & Marketing",
+      "Law & Human Rights",
+      "Media, Communications & Cultural Studies",
+      "Education & Educational Psychology"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Doctor of Philosophy (PhD): 3.5 to 4 years; Master of Philosophy (MPhil) / Research Master's: 2 years.",
+    "admission_requirements_summary": "H1 equivalence (80%+ or 3.7+ CGPA), approved research proposal, documented prior research output (thesis and/or published articles), two academic referees, and formal faculty supervisor endorsement.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Faculty of IT and Engineering have massive research funding but demanding publication thresholds; Pharmacy and Medicine require exact laboratory alignment; Arts and Business emphasize theoretical rigor.",
+    "strategic_program_match_advice": "Never submit a cold application. Identify 2-3 potential Monash supervisors using 'Find an Expert', examine their recent publications, send a tailored email with a 2-page research outline and CV, obtain their written agreement to supervise, and receive an official Faculty Expression of Interest (EOI) Invitation before lodging the formal portal application."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.monash.edu/admissions/apply/graduate-research",
+    "portal_system_name": "Monash Graduate Research Admissions and Scholarship Portal (my.app)",
+    "account_creation_instructions": "Register an account on the Monash Graduate Research portal and select the 'Admission and Scholarship' combined pathway.",
+    "step_by_step_workflow": [
+      "Step 1: Verify Minimum Entry Requirements (Monash H1 equivalence: 80%+ research thesis or bachelor degree).",
+      "Step 2: Find a Supervisor via Monash 'Find an Expert' or Faculty Research Supervisor Directory.",
+      "Step 3: Submit Faculty Expression of Interest (EOI) or email potential supervisor with CV, academic transcripts, and 2-page research concept note.",
+      "Step 4: Receive formal 'Invitation to Apply' from the relevant Monash Faculty Graduate Research office.",
+      "Step 5: Prepare required documentation (transcripts, degree certificates, grading scale, English test report, research proposal, CV, referee contact details).",
+      "Step 6: Lodge formal application via Monash online application portal selecting 'Combined Candidature and Scholarship Application'.",
+      "Step 7: Referees receive automated email prompts to submit confidential assessment reports online.",
+      "Step 8: Faculty and University Graduate Research Committee (GRC) rank applications in central competitive scoring round.",
+      "Step 9: Receive formal Offer Letter (Course Offer + Scholarship Award Letter with OSHC and stipend terms).",
+      "Step 10: Formally accept scholarship offer, receive Confirmation of Enrolment (CoE), and lodge Australian Student Visa (Subclass 500)."
+    ],
+    "university_vs_scholarship_routing": "Fully integrated: ticking 'Yes' to scholarship consideration on the Monash Graduate Research application automatically enters applicant into central MGRS and RTP scholarship scoring.",
+    "recommendation_letters_submission_method": "Two referee reports submitted electronically via Monash's confidential referee online portal.",
+    "personal_statement_prompts": "Research Motivation Statement and alignment with Monash research priority areas embedded in proposal.",
+    "study_plan_research_proposal_requirements": "Formal research proposal of 1,000 to 1,500 words detailing: Project Title, Research Background, Aims/Objectives, Methodology, Significance/Innovation, and Reference list, agreed upon with prospective supervisor.",
+    "cv_format_requirements": "Academic CV detailing: educational credentials, thesis titles and grades, full citations of publications (indexing whether Scopus/Web of Science Q1/Q2), research projects, awards, and technical skills.",
+    "interviews_conducted": true,
+    "interview_format_details": "Informal technical interview conducted via Zoom by the prospective supervisory team prior to supporting the application; formal university committee rarely conducts separate interviews.",
+    "standardized_tests": "IELTS Academic (6.5+, 6.0 each band) or TOEFL iBT (79+); GRE/GMAT not required.",
+    "application_fee_amount": "AUD $0 (No fee for Monash Graduate Research applications)",
+    "attestation_requirements": "Color scanned original documents required at application; certified copies or verified originals required upon enrolment.",
+    "translation_requirements": "Official certified English translations required for all non-English documents.",
+    "final_submission_method": "100% online through Monash Graduate Research portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Passport Biographical Page",
+      "mandatory": true,
+      "specification": "Clear color scan of valid international passport with at least 12 months validity.",
+      "pakistan_specific_instruction": "Ensure name spelling exactly matches CNIC, matriculation, and university degrees."
+    },
+    {
+      "document_name": "Official Academic Transcripts & Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts and degrees for 4-year Bachelor's and 2-year Master's showing all semesters, courses, and grades.",
+      "pakistan_specific_instruction": "Degrees and transcripts must be attested by the Higher Education Commission (HEC) Pakistan."
+    },
+    {
+      "document_name": "Grading Scale and H1 Equivalence Documentation",
+      "mandatory": true,
+      "specification": "Official grading scale document from university registrar defining GPA/percentage conversion and first-class criteria.",
+      "pakistan_specific_instruction": "Obtain official grading system extract from university registrar confirming H1 equivalence."
+    },
+    {
+      "document_name": "Evidence of Research Achievement / Honours Equivalence",
+      "mandatory": true,
+      "specification": "Official letter or thesis abstract showing completion of research thesis with grade/marks (minimum 25% research component).",
+      "pakistan_specific_instruction": "Submit Master's thesis completion certificate and grade verification letter signed by Dean/HoD."
+    },
+    {
+      "document_name": "Reprints of Peer-Reviewed Publications",
+      "mandatory": false,
+      "specification": "PDF reprints of published journal papers or conference proceedings with DOI, ISSN, and Scopus/WoS indexing proof.",
+      "pakistan_specific_instruction": "Include evidence of Q1/Q2 journal ranking or IEEE/ACM conference indexing."
+    },
+    {
+      "document_name": "Detailed Research Proposal",
+      "mandatory": true,
+      "specification": "1,000 to 1,500 word research proposal developed in consultation with prospective Monash supervisor.",
+      "pakistan_specific_instruction": "Structure with clear methodology, feasibility, and alignment with Monash research priorities."
+    },
+    {
+      "document_name": "Faculty Invitation to Apply / Supervisor Support Letter",
+      "mandatory": true,
+      "specification": "Official Faculty Invitation to Apply email or written endorsement letter from prospective Monash supervisor.",
+      "pakistan_specific_instruction": "Crucial prerequisite: applications submitted without faculty supervisor agreement will be rejected."
+    },
+    {
+      "document_name": "Comprehensive Academic Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "2 to 3 page academic CV detailing education, publications, research experience, technical skills, and references.",
+      "pakistan_specific_instruction": "Use professional academic format highlighting thesis topics, GPA, and publication citations."
+    },
+    {
+      "document_name": "English Language Proficiency Certificate",
+      "mandatory": true,
+      "specification": "Official IELTS Academic (overall 6.5, min 6.0 in each band) or TOEFL iBT (79+) test report.",
+      "pakistan_specific_instruction": "Test score must be valid at the time of course commencement."
+    },
+    {
+      "document_name": "Two Confidential Academic Referee Reports",
+      "mandatory": true,
+      "specification": "Confidential referee appraisals submitted directly through Monash online referee portal.",
+      "pakistan_specific_instruction": "Select former thesis supervisor and senior professor who can attest to independent research capability."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Round 1 opens: 1 September; Round 3 opens: 1 April",
+    "application_deadline": "Round 1 International Deadline: 31 March (for July-August intake); Round 3 International Deadline: 31 August (for Feb-March intake)",
+    "university_admission_deadline": "Coincides with scholarship round closing deadlines (31 March and 31 August)",
+    "document_submission_deadline": "Must be uploaded by the round closing deadline",
+    "recommendation_letters_deadline": "Referees given 7-10 days past round deadline to submit reports",
+    "interview_period": "Ongoing during supervisor consultation prior to round closing",
+    "shortlist_announcement": "Round 1 outcomes: late May to June; Round 3 outcomes: late October to November",
+    "final_result_acceptance_deadline": "Within 21 days of receiving official scholarship offer",
+    "visa_application_window": "June - July for mid-year intake; November - January for early-year intake",
+    "semester_commencement": "Enrolment period 1 (February/March) or Enrolment period 2 (July/August)",
+    "annual_cycle_notes": "Two major international scholarship rounds per year: Round 1 closes 31 March; Round 3 closes 31 August."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "45% (Academic achievement, GPA/percentage, H1 equivalence scoring)",
+    "extracurricular_and_leadership_weight": "5% (Professional awards, leadership in science/community)",
+    "research_experience_weight": "35% (Prior master's/undergrad thesis quality, first-author peer-reviewed journal articles, conference papers)",
+    "work_experience_weight": "5% (Industry R&D experience or academic research assistant experience)",
+    "personal_statement_weight": "5% (Clarity of research intent and institutional fit)",
+    "recommendations_weight": "5% (Referee assessments on independent research ability)",
+    "interview_weight": "Not numerically scored; supervisor endorsement prerequisite",
+    "test_scores_weight": "Threshold requirement (English proficiency meet/fail)",
+    "financial_need_weight": "0% (Exclusively merit and research excellence-based)",
+    "selection_panel_composition": "Faculty Graduate Research Committee, Dean of Graduate Studies, and Monash Central Scholarship Selection Panel.",
+    "evaluation_methodology": "Monash University employs a centralized research score algorithm that calculates an applicant's 'H1 Equivalence (H1E)' score based on coursework GPA, thesis grade, and verified peer-reviewed publications. Applications are ranked faculty-by-faculty, and top-tier candidates above the cut-off score receive full MGRS/RTP scholarship offers."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~6,000 to 8,000 international applicants across both rounds",
+    "total_scholarships_awarded": "~250 to 350 international research scholarships annually",
+    "acceptance_rate_global": "~4% to 6%",
+    "acceptance_rate_pakistan": "~5% (among applicants with confirmed supervisor support and publications)",
+    "typical_successful_applicant_gpa": "3.75+ / 4.00 CGPA (82%+ aggregate) with an H1-graded research thesis",
+    "typical_academic_and_research_profile": "Top 5% of class in recognized university (NUST, FAST, LUMS, QAU, UET) with at least 1-2 published papers in Scopus/Web of Science indexed journals or IEEE conferences.",
+    "common_backgrounds_of_winners": "MSc/MS graduates in AI, Computer Science, Renewable Energy, Pharmacy, Biomedical Engineering with active research publishing track records.",
+    "high_representation_countries": "Pakistan, China, India, Iran, Vietnam, Bangladesh, Malaysia.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Agents demanding money promising 'guaranteed Monash scholarships'. Monash never charges an application fee for PhD/MPhil, and scholarships are awarded solely through faculty ranking."
+    ],
+    "application_fee_warning": "Monash does NOT charge any application fee for Graduate Research applications. Beware of third parties charging submission fees.",
+    "agent_and_intermediary_warnings": "Do not pay education agents to communicate with potential supervisors. Monash professors evaluate prospective students based on their direct intellectual exchange and research capability.",
+    "hidden_costs_breakdown": [
+      "Australian Student Visa (Subclass 500) application fee (AUD $1,600).",
+      "Medical examination and biometrics in Pakistan (~PKR 45,000 - 55,000).",
+      "Initial Melbourne bond/rent deposit before first stipend cycle (AUD $1,500 - $2,500).",
+      "Dependents' health cover (OSHC couple/family upgrade is NOT covered; costs AUD $6,000 - $12,000)."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: You can apply directly through the general admission portal without supervisor support. (FACT: Research applications without confirmed supervisor endorsement are rejected).",
+      "CLAIM: Coursework Master's students are eligible. (FACT: MGRS/RTP is strictly restricted to Higher Degree by Research - MPhil and PhD)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unaccredited websites list obsolete stipend values ($28,000/yr); the official indexed stipend is AUD $35,013 - $37,000/year tax-free."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory research progress and pass formal progression milestones (Confirmation at 12 months, Mid-Candidature Progress Review at 24 months, Final Review at 36 months).",
+    "attendance_requirements": "Full-time physical research attendance on Monash Victorian campuses (Clayton, Caulfield, Parkville).",
+    "academic_progress_monitoring": "Bi-annual/annual milestone reviews submitted to the Graduate Research Committee.",
+    "work_restrictions_during_study": "Monash recommends no more than 6-8 hours of paid work per week during normal business hours so research is not compromised; standard Australian visa conditions apply outside business hours.",
+    "home_country_return_obligation": "None. Scholars are free to stay in Australia and apply for the Subclass 485 Temporary Graduate Visa or Skilled Migration.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Scholarship terminates if progress is unsatisfactory or if student withdraws; repayment required only in proven cases of research misconduct or fraud.",
+    "rules_for_changing_university": "Non-transferable to another university.",
+    "rules_for_changing_major": "Requires supervisory committee and Faculty approval.",
+    "extension_policy": "PhD scholars can apply for a maximum 6-month stipend extension based on exceptional academic or research circumstances."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Monash University Graduate Research Scholarships Official Page",
+      "source_url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/graduate-research-scholarship",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact mathematical weighting points per Q1 journal vs. conference paper in faculty H1E calculation formulas.",
+        "Individual country quota breakdown (ranking is unified merit-based across global applicant pool).",
+        "Faculty-specific stipend top-up funding availability and criteria."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+---
+description: Core architectural rules and invariants for ScholarX
+globs: *
+alwaysApply: true
+---
+# ScholarX Core Rules
+
+- System Identity: Autonomous Scholarship Intelligence Network for Pakistani Students.
+- Deliverables Posture: Phase 10 Locked & Verified (310 Deep Dossier scholarships, 135 tests).
+- Invariants:
+  1. Workflow-First (ADR-003): Arithmetic, scoring, eligibility, and ranking MUST run via deterministic Python code workflows. Never calculate scores or costs via LLM prompts.
+  2. Pakistan Costs: All expenses in PKR using benchmarks from `data/pakistan_costs.json`.
+  3. Key Management: Always route through `backend.utils.api_keys.get_key_manager()`. All 30 keys rotate per-request.
+  4. Local-First: Zero Docker dependencies required. SQLite WAL is the sole database (`data/scholarx_sessions.db`).
+- Deep Documentation:
+  - Primer: `.context/00_QUICKSTART.md`
+  - Invariants: `.context/06_DECISIONS_INVARIANTS.md`
+  - Playbook: `.context/07_DEVELOPER_PLAYBOOK.md`

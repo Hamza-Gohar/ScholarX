@@ -1,0 +1,31 @@
+{
+  "name": "scholarx",
+  "version": "2.0.0",
+  "description": "ScholarX — Autonomous Multi-Agent Scholarship Intelligence System",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "start": "node scripts/start.mjs",
+    "build": "cd frontend && npm run build",
+    "lint": "cd frontend && npm run lint",
+    "doctor": ".venv/bin/python scripts/doctor.py",
+    "test": ".venv/bin/python -m pytest backend/tests/ -v",
+    "test:fast": ".venv/bin/pytest backend/tests/test_schemas.py backend/tests/test_api_keys.py -v",
+    "context": ".venv/bin/python scripts/context.py",
+    "context:primer": ".venv/bin/python scripts/context.py primer",
+    "context:status": ".venv/bin/python scripts/context.py status",
+    "context:validate": ".venv/bin/python scripts/context.py validate",
+    "seed": ".venv/bin/python -c 'from backend.db.seed import load_and_seed_scholarships, load_and_seed_profiles; import asyncio; asyncio.run(load_and_seed_scholarships()); asyncio.run(load_and_seed_profiles())'",
+    "backend": "PYTHONPATH=backend .venv/bin/python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload",
+    "frontend": "cd frontend && npm run dev"
+  },
+  "keywords": [
+    "scholarx",
+    "multi-agent",
+    "fastapi",
+    "nextjs",
+    "langgraph"
+  ],
+  "author": "ScholarX Team",
+  "license": "UNLICENSED"
+}

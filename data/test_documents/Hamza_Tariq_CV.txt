@@ -1,0 +1,27 @@
+
+        CURRICULUM VITAE
+        Name: Hamza Tariq
+        Email: hamza.tariq@gmail.com
+        Contact: +92-300-1234567
+        City: Lahore, Punjab, Pakistan
+        Nationality: Pakistani (PK)
+
+        ACADEMIC BACKGROUND:
+        - Degree: Bachelor of Science in Computer Science (BS CS) - 16 Years
+        - University: FAST National University of Computer and Emerging Sciences (FAST-NUCES), Lahore Campus
+        - CGPA: 3.78 / 4.0 (Marks Equivalent: 85.5%)
+        - Passing Year: 2026
+        - Key Coursework: Distributed Systems, Machine Learning, Deep Learning, Cloud Computing, Algorithms
+
+        INTERMEDIATE:
+        - ICS (Physics, Mathematics, Computer Science) - Punjab Group of Colleges Lahore (BISE Lahore) - 88.0% Marks
+
+        ENGLISH LANGUAGE PROFICIENCY:
+        - IELTS Academic (Valid until 2027)
+        - Overall Band Score: 7.5 (Listening: 8.0 | Reading: 7.5 | Writing: 7.0 | Speaking: 7.5)
+
+        PREFERENCES & BUDGET:
+        - Target Degree: Master's in Computer Science / Artificial Intelligence
+        - Maximum Out-of-Pocket Budget: PKR 300,000
+        - Target Regions: Europe, Asia, Americas
+        

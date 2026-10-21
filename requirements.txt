@@ -1,0 +1,5 @@
+# ============================================================
+# ScholarX — Root Python Requirements
+# Mirrors backend dependencies for standard pip installations
+# ============================================================
+-r backend/requirements.txt

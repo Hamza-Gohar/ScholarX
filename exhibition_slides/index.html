@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ScholarX — Minimalist Korean Pitch Deck</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-ivory: #F8F6F2;
+      --text-dark: #1F1F1F;
+      --text-mocha: #7D6652;
+      --text-body: #3E3E3E;
+      --text-muted: #6A6A6A;
+      --card-bg: rgba(255, 255, 255, 0.72);
+      --card-border: #E8E2DA;
+      --contour-line: #C48D80;
+      --font-main: 'Plus Jakarta Sans', Arial, -apple-system, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: var(--font-main);
+      background-color: #121212;
+      color: var(--text-dark);
+      overflow: hidden;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* Presentation Container (16:9 Aspect Ratio) */
+    #deck-wrapper {
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
+    .slide-viewport {
+      width: min(94vw, 167.1vh);
+      height: min(52.88vw, 94vh);
+      background-color: var(--bg-ivory);
+      position: relative;
+      overflow: hidden;
+      border-radius: 12px;
+      box-shadow: 0 25px 60px rgba(0, 0, 0, 0.35);
+    }
+
+    /* Background Vector SVG (Korean Blobs & Contour Lines) */
+    .bg-svg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    /* Slide Content Surface */
+    .slide-content {
+      position: relative;
+      z-index: 2;
+      width: 100%;
+      height: 100%;
+      padding: 5% 7%;
+      display: none;
+      flex-direction: column;
+      opacity: 0;
+      transition: opacity 0.35s ease-in-out;
+    }
+
+    .slide-content.active {
+      display: flex;
+      opacity: 1;
+    }
+
+    /* Standard Header */
+    .slide-header {
+      margin-bottom: 24px;
+    }
+
+    .category-tag {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--text-mocha);
+      margin-bottom: 6px;
+    }
+
+    .slide-title {
+      font-size: 2.2rem;
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.01em;
+      margin-bottom: 6px;
+    }
+
+    .title-dark {
+      color: var(--text-dark);
+    }
+
+    .title-accent {
+      color: var(--text-mocha);
+    }
+
+    .slide-subtitle {
+      font-size: 0.95rem;
+      color: var(--text-muted);
+      font-weight: 400;
+      line-height: 1.4;
+    }
+
+    /* Pebble Badges */
+    .pebble-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 4px 14px;
+      border-radius: 46% 54% 50% 50% / 48% 52% 48% 52%;
+      font-weight: 700;
+      font-size: 0.85rem;
+      letter-spacing: 0.05em;
+      margin-bottom: 10px;
+    }
+
+    .pebble-01 { background-color: #DDE2D8; color: #465042; }
+    .pebble-02 { background-color: #F5E5E0; color: #7A4C46; }
+    .pebble-03 { background-color: #EAE6E0; color: #57544F; }
+    .pebble-04 { background-color: #F0EAE1; color: #6E6252; }
+    .pebble-05 { background-color: #EDE0D4; color: #6D5344; }
+    .pebble-06 { background-color: #E1E6E8; color: #475960; }
+
+    /* Cards */
+    .korean-card {
+      background: var(--card-bg);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--card-border);
+      border-radius: 14px;
+      padding: 20px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
+    }
+
+    /* Slide 1: Hero Cover */
+    .hero-container {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .hero-title-area {
+      margin-top: 4vh;
+    }
+
+    .hero-huge-title {
+      font-size: 3.8rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      line-height: 1.05;
+      margin-bottom: 16px;
+    }
+
+    .hero-desc {
+      font-size: 1.25rem;
+      color: var(--text-body);
+      max-width: 800px;
+      line-height: 1.5;
+    }
+
+    .hero-highlights {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      margin-top: auto;
+      margin-bottom: 2vh;
+    }
+
+    /* Slide 2 & 3: Concept Split */
+    .concept-grid {
+      display: grid;
+      grid-template-columns: 1fr 1.2fr;
+      gap: 28px;
+      flex: 1;
+      align-items: stretch;
+    }
+
+    .definition-box {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 30px;
+    }
+
+    .definition-headline {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin-bottom: 14px;
+      line-height: 1.3;
+    }
+
+    .definition-text {
+      font-size: 0.95rem;
+      color: var(--text-body);
+      line-height: 1.6;
+    }
+
+    .pillars-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .pillar-card {
+      display: flex;
+      flex-direction: column;
+      padding: 16px;
+    }
+
+    .pillar-title {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin-bottom: 6px;
+    }
+
+    .pillar-desc {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      line-height: 1.45;
+    }
+
+    /* Slide 4: Comparison Matrix */
+    .comparison-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      margin-bottom: 18px;
+    }
+
+    .comp-card-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .comp-badge {
+      font-size: 0.85rem;
+      font-weight: 800;
+      padding: 4px 12px;
+      border-radius: 6px;
+    }
+
+    .comp-subtitle {
+      font-size: 0.8rem;
+      color: var(--text-mocha);
+      font-weight: 600;
+    }
+
+    .comp-list {
+      list-style: none;
+    }
+
+    .comp-list li {
+      font-size: 0.85rem;
+      color: var(--text-body);
+      margin-bottom: 8px;
+      padding-left: 18px;
+      position: relative;
+      line-height: 1.4;
+    }
+
+    .comp-list li::before {
+      content: "•";
+      color: var(--text-mocha);
+      font-weight: bold;
+      position: absolute;
+      left: 4px;
+    }
+
+    .synergy-banner {
+      background: #DDE2D8;
+      border: 1px solid #CBD3C4;
+      border-radius: 12px;
+      padding: 16px 24px;
+    }
+
+    .synergy-title {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin-bottom: 4px;
+    }
+
+    .synergy-desc {
+      font-size: 0.85rem;
+      color: #384234;
+      line-height: 1.45;
+    }
+
+    /* Slide 5: Innovation Showcase */
+    .innovation-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      flex: 1;
+    }
+
+    .innovation-card {
+      display: flex;
+      flex-direction: column;
+      padding: 22px;
+    }
+
+    .innovation-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin-bottom: 8px;
+    }
+
+    .innovation-desc {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+
+    /* Slide 6: Architecture Stack */
+    .arch-stack {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      flex: 1;
+      justify-content: center;
+    }
+
+    .arch-tier {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      padding: 16px 20px;
+    }
+
+    .arch-tag {
+      width: 190px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-align: center;
+      padding: 8px 12px;
+      border-radius: 8px;
+      letter-spacing: 0.08em;
+      flex-shrink: 0;
+    }
+
+    .arch-info {
+      flex: 1;
+    }
+
+    .arch-name {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin-bottom: 2px;
+    }
+
+    .arch-desc {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      line-height: 1.35;
+    }
+
+    /* Slide 7: Workflow Pipeline */
+    .pipeline-container {
+      position: relative;
+      margin-top: 30px;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+    }
+
+    .pipeline-line {
+      position: absolute;
+      top: 24px;
+      left: 5%;
+      right: 5%;
+      height: 2px;
+      background: var(--contour-line);
+      z-index: 1;
+    }
+
+    .pipeline-step {
+      position: relative;
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      width: 14%;
+    }
+
+    .step-circle {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: #F8F6F2;
+      border: 2px solid var(--contour-line);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 1rem;
+      color: var(--text-dark);
+      margin-bottom: 14px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+    }
+
+    .step-title {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin-bottom: 6px;
+    }
+
+    .step-desc {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      line-height: 1.4;
+    }
+
+    /* Slide 8: Benefits / Impact */
+    .benefits-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      flex: 1;
+      align-items: stretch;
+    }
+
+    .benefit-card {
+      display: flex;
+      flex-direction: column;
+      padding: 30px;
+    }
+
+    .benefit-stat {
+      font-size: 1.7rem;
+      font-weight: 800;
+      color: var(--text-mocha);
+      margin-bottom: 10px;
+      letter-spacing: -0.01em;
+    }
+
+    .benefit-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin-bottom: 8px;
+      line-height: 1.3;
+    }
+
+    .benefit-desc {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+
+    /* Slide 9: Team Credits */
+    .team-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      margin-bottom: 20px;
+    }
+
+    .developer-card {
+      display: flex;
+      flex-direction: column;
+      padding: 24px;
+    }
+
+    .developer-role {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--text-mocha);
+      letter-spacing: 0.08em;
+      margin-bottom: 4px;
+      text-transform: uppercase;
+    }
+
+    .developer-name {
+      font-size: 1.35rem;
+      font-weight: 800;
+      color: var(--text-dark);
+      margin-bottom: 8px;
+    }
+
+    .developer-desc {
+      font-size: 0.85rem;
+      color: var(--text-body);
+      line-height: 1.5;
+    }
+
+    .supervisor-banner {
+      background: #EAE6E0;
+      border: 1px solid #7D6652;
+      border-radius: 14px;
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .supervisor-badge {
+      background: #FFFFFF;
+      color: var(--text-mocha);
+      font-size: 0.75rem;
+      font-weight: 800;
+      padding: 6px 14px;
+      border-radius: 20px;
+      letter-spacing: 0.08em;
+      white-space: nowrap;
+      border: 1px solid #7D6652;
+    }
+
+    .supervisor-details {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .supervisor-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .supervisor-name {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: var(--text-dark);
+    }
+
+    .supervisor-role {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--text-mocha);
+    }
+
+    .supervisor-desc {
+      font-size: 0.8rem;
+      color: var(--text-body);
+      line-height: 1.4;
+    }
+
+    /* Presentation Controls */
+    .controls {
+
+      position: fixed;
+      bottom: 14px;
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      background: rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(12px);
+      padding: 8px 18px;
+      border-radius: 30px;
+      color: #FFFFFF;
+      font-size: 0.85rem;
+      z-index: 100;
+    }
+
+    .control-btn {
+      background: none;
+      border: none;
+      color: #FFFFFF;
+      font-size: 1.1rem;
+      cursor: pointer;
+      padding: 4px 8px;
+      border-radius: 4px;
+      transition: background 0.2s;
+    }
+
+    .control-btn:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+
+    /* Print / PDF Mode */
+    @media print {
+      body {
+        background: transparent;
+        height: auto;
+      }
+      #deck-wrapper {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      .slide-viewport {
+        width: 100vw;
+        height: 56.25vw;
+        page-break-after: always;
+        border-radius: 0;
+        box-shadow: none;
+        margin-bottom: 0;
+      }
+      .slide-content {
+        display: flex !important;
+        opacity: 1 !important;
+      }
+      .controls {
+        display: none !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div id="deck-wrapper">
+    <div class="slide-viewport">
+      <!-- Vector Background SVG (Korean Blobs & Contour Lines) -->
+      <svg class="bg-svg" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <!-- Soft Blush Terracotta Blob (Top Right) -->
+        <path d="M1100 -120 C1320 -150 1680 80 1650 380 C1620 680 1350 780 1150 720 C950 660 880 480 920 280 C960 80 880 -90 1100 -120 Z" fill="#F4DDD6" opacity="0.5"/>
+        <!-- Soft Muted Sage Blob (Bottom Left) -->
+        <path d="M-150 480 C80 420 320 540 380 750 C440 960 220 1080 -50 1040 C-320 1000 -420 850 -380 680 C-340 510 -380 540 -150 480 Z" fill="#D9DDD6" opacity="0.45"/>
+        <!-- Soft Oatmeal Warm Stone Blob (Center Subtle) -->
+        <path d="M500 150 C750 80 1050 200 1100 450 C1150 700 850 850 600 800 C350 750 250 620 300 400 C350 180 250 220 500 150 Z" fill="#EFECE6" opacity="0.4"/>
+        <!-- Delicate Organic Contour Line Art (Curving across borders) -->
+        <path d="M-50 180 C280 150 550 420 850 320 C1150 220 1380 480 1680 420" stroke="#C48D80" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.75"/>
+        <path d="M120 950 C380 780 720 860 1050 720 C1380 580 1520 820 1650 750" stroke="#C48D80" stroke-width="1.5" stroke-dasharray="6 6" fill="none" opacity="0.4"/>
+      </svg>
+
+      <!-- Slides will be mounted here dynamically -->
+      <div id="slides-root"></div>
+    </div>
+  </div>
+
+  <!-- Slide Navigation Controls -->
+  <div class="controls">
+    <button class="control-btn" id="prev-btn" title="Previous Slide (←)">&#8592;</button>
+    <span id="slide-indicator">1 / 8</span>
+    <button class="control-btn" id="next-btn" title="Next Slide (→)">&#8594;</button>
+    <button class="control-btn" id="fs-btn" title="Toggle Fullscreen (F)">⛶</button>
+  </div>
+
+  <script>
+    const slidesData = [{"slide_number": 1, "type": "hero_cover", "category": "AUTONOMOUS SCHOLARSHIP INTELLIGENCE NETWORK", "title_dark": "SCHOLAR", "title_accent": "X", "subtitle": "Discovering, verifying, and matching fully funded global opportunities for Pakistani students \u2014 with zero hidden cost surprises.", "highlights": [{"badge": "01", "title": "Pakistan-Aware", "desc": "Built for HEC HAT/USAT, IBCC equivalence & MOFA lead times."}, {"badge": "02", "title": "Bilateral Quotas", "desc": "Unlocks 400+ Hungarian, 200+ Chinese & Turkiye seats."}, {"badge": "03", "title": "True Cost (PKR)", "desc": "Real out-of-pocket costs: IELTS, visas, attestation, travel."}]}, {"slide_number": 2, "type": "concept_split", "category": "FOUNDATIONAL INTELLIGENCE", "title_dark": "WHAT IS AN", "title_accent": "AI AGENT?", "subtitle": "Beyond static chatbots: Autonomous, goal-driven digital problem solvers.", "core_definition": {"headline": "Goal-Driven Autonomy with Tool Use & Reasoning", "text": "An AI Agent is an autonomous software entity powered by a Large Language Model. Given a high-level mission, it perceives unstructured inputs, deliberates on next actions, interacts with live digital environments via tools, and self-corrects on failures without requiring continuous human prompting."}, "pillars": [{"badge": "01", "title": "Perception & Ingestion", "desc": "Reads messy PDFs, transcripts, and foreign university portals to construct structured mental models."}, {"badge": "02", "title": "Dynamic Deliberation", "desc": "Formulates multi-step plans, adjusts search queries on the fly, and recovers when a path fails."}, {"badge": "03", "title": "Active Tool Execution", "desc": "Executes live web searches, scrapes portal tables, runs code, and calls external verification APIs."}, {"badge": "04", "title": "Persistent Memory", "desc": "Remembers past student sessions, recalls previous scholarship audits, and compounds intelligence."}]}, {"slide_number": 3, "type": "concept_split", "category": "DETERMINISTIC RELIABILITY", "title_dark": "WHAT IS A", "title_accent": "WORKFLOW?", "subtitle": "Predictable, zero-hallucination pipelines engineered for precision.", "core_definition": {"headline": "Deterministic, High-Speed Sequential Logic", "text": "A Workflow is a rigid, programmatic sequence of predefined steps where every branch and transformation is governed by hardcoded business logic, database lookups, and deterministic arithmetic. Given identical inputs, a workflow guarantees identical, mathematically verifiable outputs."}, "pillars": [{"badge": "01", "title": "Zero Hallucination", "desc": "Eliminates AI guessing in mission-critical criteria checks, eligibility rules, and financial math."}, {"badge": "02", "title": "Sub-Millisecond Latency", "desc": "Executes data transforms, table joins, and date calculations without costly LLM roundtrips."}, {"badge": "03", "title": "100% Reproducibility", "desc": "Guarantees consistent, audit-compliant outcomes every time for student eligibility verification."}, {"badge": "04", "title": "Zero Token Cost", "desc": "Conserves expensive API tokens for creative reasoning by delegating logic to fast local code."}]}, {"slide_number": 4, "type": "comparison_matrix", "category": "THE ARCHITECTURAL PARADIGM", "title_dark": "AGENTS VS. WORKFLOWS", "title_accent": "THE HYBRID FORMULA", "subtitle": "Workflow-first philosophy: combining cognitive reasoning with deterministic precision.", "agent_side": {"badge": "AI AGENTS", "subtitle": "Use when judgment, fuzzy input, or dialogue is needed", "points": ["Parsing damaged, low-res matric & inter transcripts", "Formulating dynamic scout search strategies", "Adversarial verification & skeptic challenge", "Crafting personalized student guidance narratives"]}, "workflow_side": {"badge": "WORKFLOWS", "subtitle": "Use when logic is deterministic, arithmetic, or sequential", "points": ["Scrape -> Clean -> Normalize regional university data", "15-point strict eligibility qualification matrix", "Real PKR out-of-pocket budget calculations", "Deadline risk scoring formula & weighted ranking"]}, "synergy_callout": {"title": "The ScholarX Synergy (5 Agents + 7 Workflows)", "desc": "Agents provide cognitive perception and adversarial skepticism; Workflows provide lightning speed, mathematical truth, and zero hallucination. Coordinated seamlessly in LangGraph."}}, {"slide_number": 5, "type": "innovation_showcase", "category": "GLOBAL EXCELLENCE", "title_dark": "A WORLD-FIRST INNOVATION", "title_accent": "FOR PAKISTAN", "subtitle": "No system on earth has ever combined multi-agent intelligence with Pakistan-specific realities.", "cards": [{"badge": "01", "title": "Pakistan Credential Context", "desc": "Understands HEC HAT/USAT benchmarks, IBCC 12-year equivalence rules, and MOFA seal requirements that generic platforms fail to recognize."}, {"badge": "02", "title": "Unclaimed Bilateral Quotas", "desc": "Discovers 400+ Hungarian, 200+ Chinese CSC, and Romanian government seats allocated specifically for Pakistani nationals that go unnoticed."}, {"badge": "03", "title": "True PKR Cost Deconstruction", "desc": "Unmasks the myth of '100% Free'. Calculates upfront PKR requirements (PKR 76k IELTS, visa fees, document attestation, medical tests)."}, {"badge": "04", "title": "Adversarial Skeptic Audit", "desc": "First platform featuring a dedicated Skeptic Agent that actively attempts to disqualify matches, preventing students from scam application portals."}]}, {"slide_number": 6, "type": "architecture_topology", "category": "SYSTEM SPECIFICATION", "title_dark": "SYSTEM ARCHITECTURE", "title_accent": "MULTI-AGENT NETWORK", "subtitle": "Local-first orchestration combining 5 specialized agents with 7 deterministic workflows.", "tiers": [{"level": "ORCHESTRATION", "name": "Commander Orchestrator (LangGraph StateGraph)", "role": "Root mission controller, DAG execution manager, dynamic failure recovery & session persistence."}, {"level": "PERCEPTION & SCOUTING", "name": "Profile Analyst Agent + Regional Scout Workflows", "role": "Multimodal PDF document extraction -> Parallel European, Asian, American & MENA scrapers."}, {"level": "VERIFICATION & ADVERSARIAL", "name": "Eligibility Workflow + Skeptic Agent + Verification Agent", "role": "15-point criteria gatekeeper + Adversarial cross-examination challenging every scholarship claim."}, {"level": "FINANCIAL & STRATEGY", "name": "True Cost (PKR) + Deadline Intelligence + Final Advisor", "role": "Deterministic fee calculations + Weighted ranking engine + Tailored action roadmap."}]}, {"slide_number": 7, "type": "workflow_pipeline", "category": "END-TO-END EXECUTION", "title_dark": "SYSTEM WORKFLOW", "title_accent": "THE SCHOLARSHIP PIPELINE", "subtitle": "How ScholarX turns raw student documents into an audited, personalized application roadmap.", "steps": [{"step": "01", "title": "Profile Ingestion", "desc": "Multimodal parsing of messy transcripts & documents."}, {"step": "02", "title": "Scout Dispatch", "desc": "Parallel regional workflows scan Hungarian, Asian & EU portals."}, {"step": "03", "title": "Eligibility Gate", "desc": "Deterministic 15-rule check (grades, age, HEC/IBCC limits)."}, {"step": "04", "title": "Skeptic Audit", "desc": "Adversarial cross-check against fake & expired quotas."}, {"step": "05", "title": "Cost & Risk Math", "desc": "True PKR fee computation & timeline countdown engine."}, {"step": "06", "title": "Action Roadmap", "desc": "Evidence-backed ranking & personalized guidance plan."}]}, {"slide_number": 8, "type": "benefits_impact", "category": "STUDENT EMPOWERMENT", "title_dark": "STUDENT IMPACT", "title_accent": "TRANSFORMING ACCESS", "subtitle": "Democratizing global education access for Pakistan's next generation of scholars.", "benefits": [{"badge": "01", "stat": "PKR 300,000+", "title": "Saved in Consultant & Hidden Fees", "desc": "Protects middle-class Pakistani families from predatory educational agents and unbudgeted application costs."}, {"badge": "02", "stat": "600+ SEATS", "title": "Unclaimed Bilateral Quotas Reclaimed", "desc": "Empowers talented students from small cities to claim reserved government quotas in Hungary, China, Turkey & Europe."}, {"badge": "03", "stat": "100% PROVEN", "title": "Evidence-Backed Audit & Total Privacy", "desc": "Zero black-box recommendations. Every suggestion links directly to official circulars, running 100% locally on your machine."}]}, {"slide_number": 9, "type": "team_credits", "category": "THE MINDS BEHIND SCHOLARX", "title_dark": "THE CREATORS", "title_accent": "& LEADERSHIP", "subtitle": "The student innovators and academic mentorship behind Pakistan's first autonomous scholarship network.", "developers": [{"badge": "01", "role_tag": "CREATOR & AI ARCHITECT", "name": "M. Hamza Gohar", "desc": "Lead Architect of ScholarX. Designed the multi-agent LangGraph DAG orchestration, memory persistence engine, and local-first deployment."}, {"badge": "02", "role_tag": "CREATOR & SYSTEMS ENGINEER", "name": "Malik Hassan", "desc": "Core Systems Engineer. Built the distributed regional scout workflows, deterministic eligibility filters, and the adversarial Skeptic verification agent."}], "supervisor": {"badge": "SUPERVISED BY", "name": "Sir Kaleem", "role_tag": "ACADEMIC SUPERVISOR & RESEARCH ADVISOR", "desc": "Guided architectural direction, algorithmic rigor, and system validation to ensure high-impact innovation for Pakistani students."}}];
+    let currentSlide = 0;
+
+    const root = document.getElementById('slides-root');
+    const indicator = document.getElementById('slide-indicator');
+
+    function renderSlide(slide, index) {
+      const div = document.createElement('div');
+      div.className = `slide-content ${index === 0 ? 'active' : ''}`;
+      div.id = `slide-${index}`;
+
+      let innerHtml = '';
+
+      if (slide.type === 'hero_cover') {
+        innerHtml = `
+          <div class="hero-container">
+            <div class="hero-title-area">
+              <div class="category-tag">${slide.category}</div>
+              <h1 class="hero-huge-title"><span class="title-dark">${slide.title_dark}</span><span class="title-accent">${slide.title_accent}</span></h1>
+              <p class="hero-desc">${slide.subtitle}</p>
+            </div>
+            <div class="hero-highlights">
+              ${slide.highlights.map(h => `
+                <div class="korean-card">
+                  <span class="pebble-badge pebble-${h.badge}">${h.badge}</span>
+                  <div style="font-weight: 700; font-size: 1.05rem; margin-bottom: 4px; color: var(--text-dark);">${h.title}</div>
+                  <div style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.45;">${h.desc}</div>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        `;
+      } else if (slide.type === 'concept_split') {
+        innerHtml = `
+          <div class="slide-header">
+            <div class="category-tag">${slide.category}</div>
+            <h2 class="slide-title"><span class="title-dark">${slide.title_dark}</span> <span class="title-accent">${slide.title_accent}</span></h2>
+            <div class="slide-subtitle">${slide.subtitle}</div>
+          </div>
+          <div class="concept-grid">
+            <div class="korean-card definition-box">
+              <div class="category-tag" style="margin-bottom: 8px;">CORE ESSENCE</div>
+              <div class="definition-headline">${slide.core_definition.headline}</div>
+              <div class="definition-text">${slide.core_definition.text}</div>
+            </div>
+            <div class="pillars-grid">
+              ${slide.pillars.map(p => `
+                <div class="korean-card pillar-card">
+                  <span class="pebble-badge pebble-${p.badge}">${p.badge}</span>
+                  <div class="pillar-title">${p.title}</div>
+                  <div class="pillar-desc">${p.desc}</div>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        `;
+      } else if (slide.type === 'comparison_matrix') {
+        innerHtml = `
+          <div class="slide-header">
+            <div class="category-tag">${slide.category}</div>
+            <h2 class="slide-title"><span class="title-dark">${slide.title_dark}</span> <span class="title-accent">${slide.title_accent}</span></h2>
+            <div class="slide-subtitle">${slide.subtitle}</div>
+          </div>
+          <div class="comparison-grid">
+            <div class="korean-card" style="padding: 24px;">
+              <div class="comp-card-header">
+                <span class="pebble-badge pebble-01">${slide.agent_side.badge}</span>
+                <span class="comp-subtitle">${slide.agent_side.subtitle}</span>
+              </div>
+              <ul class="comp-list">
+                ${slide.agent_side.points.map(pt => `<li>${pt}</li>`).join('')}
+              </ul>
+            </div>
+            <div class="korean-card" style="padding: 24px;">
+              <div class="comp-card-header">
+                <span class="pebble-badge pebble-02">${slide.workflow_side.badge}</span>
+                <span class="comp-subtitle">${slide.workflow_side.subtitle}</span>
+              </div>
+              <ul class="comp-list">
+                ${slide.workflow_side.points.map(pt => `<li>${pt}</li>`).join('')}
+              </ul>
+            </div>
+          </div>
+          <div class="synergy-banner">
+            <div class="synergy-title">${slide.synergy_callout.title}</div>
+            <div class="synergy-desc">${slide.synergy_callout.desc}</div>
+          </div>
+        `;
+      } else if (slide.type === 'innovation_showcase') {
+        innerHtml = `
+          <div class="slide-header">
+            <div class="category-tag">${slide.category}</div>
+            <h2 class="slide-title"><span class="title-dark">${slide.title_dark}</span> <span class="title-accent">${slide.title_accent}</span></h2>
+            <div class="slide-subtitle">${slide.subtitle}</div>
+          </div>
+          <div class="innovation-grid">
+            ${slide.cards.map(c => `
+              <div class="korean-card innovation-card">
+                <span class="pebble-badge pebble-${c.badge}">${c.badge}</span>
+                <div class="innovation-title">${c.title}</div>
+                <div class="innovation-desc">${c.desc}</div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      } else if (slide.type === 'architecture_topology') {
+        innerHtml = `
+          <div class="slide-header">
+            <div class="category-tag">${slide.category}</div>
+            <h2 class="slide-title"><span class="title-dark">${slide.title_dark}</span> <span class="title-accent">${slide.title_accent}</span></h2>
+            <div class="slide-subtitle">${slide.subtitle}</div>
+          </div>
+          <div class="arch-stack">
+            ${slide.tiers.map((t, idx) => `
+              <div class="korean-card arch-tier">
+                <div class="arch-tag pebble-0${idx + 1}">${t.level}</div>
+                <div class="arch-info">
+                  <div class="arch-name">${t.name}</div>
+                  <div class="arch-desc">${t.role}</div>
+                </div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      } else if (slide.type === 'workflow_pipeline') {
+        innerHtml = `
+          <div class="slide-header">
+            <div class="category-tag">${slide.category}</div>
+            <h2 class="slide-title"><span class="title-dark">${slide.title_dark}</span> <span class="title-accent">${slide.title_accent}</span></h2>
+            <div class="slide-subtitle">${slide.subtitle}</div>
+          </div>
+          <div class="pipeline-container">
+            <div class="pipeline-line"></div>
+            ${slide.steps.map((s, idx) => `
+              <div class="pipeline-step">
+                <div class="step-circle pebble-0${(idx % 4) + 1}">${s.step}</div>
+                <div class="step-title">${s.title}</div>
+                <div class="step-desc">${s.desc}</div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      } else if (slide.type === 'benefits_impact') {
+        innerHtml = `
+          <div class="slide-header">
+            <div class="category-tag">${slide.category}</div>
+            <h2 class="slide-title"><span class="title-dark">${slide.title_dark}</span> <span class="title-accent">${slide.title_accent}</span></h2>
+            <div class="slide-subtitle">${slide.subtitle}</div>
+          </div>
+          <div class="benefits-grid">
+            ${slide.benefits.map(b => `
+              <div class="korean-card benefit-card">
+                <span class="pebble-badge pebble-${b.badge}">${b.badge}</span>
+                <div class="benefit-stat">${b.stat}</div>
+                <div class="benefit-title">${b.title}</div>
+                <div class="benefit-desc">${b.desc}</div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      } else if (slide.type === 'team_credits') {
+        innerHtml = `
+          <div class="slide-header">
+            <div class="category-tag">${slide.category}</div>
+            <h2 class="slide-title"><span class="title-dark">${slide.title_dark}</span> <span class="title-accent">${slide.title_accent}</span></h2>
+            <div class="slide-subtitle">${slide.subtitle}</div>
+          </div>
+          <div class="team-grid">
+            ${slide.developers.map(dev => `
+              <div class="korean-card developer-card">
+                <span class="pebble-badge pebble-${dev.badge}">${dev.badge}</span>
+                <div class="developer-role">${dev.role_tag}</div>
+                <div class="developer-name">${dev.name}</div>
+                <div class="developer-desc">${dev.desc}</div>
+              </div>
+            `).join('')}
+          </div>
+          <div class="supervisor-banner">
+            <div class="supervisor-badge">${slide.supervisor.badge}</div>
+            <div class="supervisor-details">
+              <div class="supervisor-header">
+                <span class="supervisor-name">${slide.supervisor.name}</span>
+                <span class="supervisor-role">• ${slide.supervisor.role_tag}</span>
+              </div>
+              <div class="supervisor-desc">${slide.supervisor.desc}</div>
+            </div>
+          </div>
+        `;
+      }
+
+      div.innerHTML = innerHtml;
+      return div;
+
+    }
+
+    // Mount all slides
+    slidesData.forEach((s, i) => {
+      root.appendChild(renderSlide(s, i));
+    });
+
+    function goToSlide(n) {
+      if (n < 0 || n >= slidesData.length) return;
+      document.querySelectorAll('.slide-content').forEach((el, idx) => {
+        if (idx === n) {
+          el.classList.add('active');
+        } else {
+          el.classList.remove('active');
+        }
+      });
+      currentSlide = n;
+      indicator.textContent = `${n + 1} / ${slidesData.length}`;
+    }
+
+    document.getElementById('prev-btn').addEventListener('click', () => goToSlide(currentSlide - 1));
+    document.getElementById('next-btn').addEventListener('click', () => goToSlide(currentSlide + 1));
+    document.getElementById('fs-btn').addEventListener('click', () => {
+      if (!document.fullscreenElement) {
+        document.documentElement.requestFullscreen();
+      } else {
+        document.exitFullscreen();
+      }
+    });
+
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') {
+        goToSlide(currentSlide + 1);
+      } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
+        goToSlide(currentSlide - 1);
+      } else if (e.key === 'f' || e.key === 'F') {
+        if (!document.fullscreenElement) {
+          document.documentElement.requestFullscreen();
+        } else {
+          document.exitFullscreen();
+        }
+      }
+    });
+  </script>
+</body>
+</html>

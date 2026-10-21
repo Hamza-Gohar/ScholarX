@@ -1,0 +1,276 @@
+{
+  "scholarship_id": "SCH-AS-009",
+  "basic_details": {
+    "scholarship_name": "Asian Development Bank - Japan Scholarship Program (ADB-JSP)",
+    "offering_entity": "Asian Development Bank (ADB) & Government of Japan",
+    "host_country": "Japan (and partner institutions in Asia-Pacific)",
+    "host_institutions_covered": "25 designated institutions in 9 countries (University of Tokyo, Kyoto University, Tokyo Tech, Hitotsubashi, NUS, University of Melbourne, University of Auckland, AIM Philippines)",
+    "degree_levels": [
+      "Master's (Postgraduate)"
+    ],
+    "major_restrictions": "Development-related fields: Economics, Management, Science and Technology, Environment, Agriculture, Public Health, Infrastructure, International Development.",
+    "number_of_awards_total": "~135 to 150 scholarships awarded annually across 25 institutions",
+    "number_of_awards_pakistan": "Open to Pakistan as an ADB borrowing member country (~10 to 15 Pakistani professionals selected annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "1 to 2 academic years (covering full master's program)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizen of an ADB borrowing member country (Pakistani citizens eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Not more than 35 years old at the time of application (in exceptional cases, for senior programs, up to 45 years old).",
+    "academic_qualifications": "Completed 16 years of education (Bachelor's degree or equivalent) with superior academic record.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.2,
+    "grading_conversion_notes": "Minimum 3.20 / 4.00 CGPA or equivalent top 15% class standing.",
+    "subject_background_prerequisites": "Academic background aligned with development-oriented master's courses.",
+    "current_education_status": "Employed professional with minimum 2 years of full-time professional working experience.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": true,
+    "work_experience_minimum_years": 2.0,
+    "work_experience_notes": "MANDATORY: At least 2 years of full-time professional working experience acquired after university graduation in a relevant field.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 90,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "Proficiency in oral and written English (IELTS 6.5+ or TOEFL 90+ satisfying host institution admission standards)."
+    },
+    "other_language_requirements": "None; all designated ADB-JSP programs taught in English.",
+    "gender_specific_requirements": "Equal opportunity; women and applicants from public sector actively encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Development impact and mandatory agreement to return to Pakistan for at least 2 years post-graduation.",
+    "previous_scholarship_restrictions": "Ineligible if already holding a Master's degree or currently studying abroad.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition and academic fees at the designated host institution.",
+      "amount": "Full coverage"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED_OR_REIMBURSED",
+      "details": "Managed through host institution.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered via monthly subsistence allowance.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly subsistence allowance covering housing, food, and daily living costs (e.g. ~¥147,000/month in Japan).",
+      "amount": "¥147,000 / month in Japan (~PKR 275,000 / month) or local currency equivalent"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Economy class return airfare between home country and the host institution.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Student visa fees paid by student.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive medical and accident insurance covered.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Books and instructional materials allowance provided.",
+      "amount": "Annual book grant"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Special grant available for thesis preparation, field trips, and computer software.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Settlement allowance provided upon arrival.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 30000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Apply to one of the 25 designated academic institutions in the Asia-Pacific region.",
+    "participating_institutions": [
+      "University of Tokyo (Japan)",
+      "Kyoto University (Japan)",
+      "Tokyo Institute of Technology (Japan)",
+      "Hitotsubashi University (Japan)",
+      "National University of Singapore (NUS - Singapore)",
+      "University of Melbourne (Australia)",
+      "University of Auckland (New Zealand)",
+      "Asian Institute of Management (AIM - Philippines)"
+    ],
+    "university_rankings_scope": "Premier universities in Japan and the Asia-Pacific region.",
+    "available_majors": [
+      "Economics, Public Policy, International Development, Civil and Environmental Engineering, Urban Planning, Agricultural Economics, Renewable Energy, Public Health, Business Administration"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 to 2 academic years (full Master's program)",
+    "admission_requirements_summary": "Apply directly to the designated academic institution for both admission and the ADB-JSP scholarship (at least 6 months before intended intake).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "University of Tokyo (Department of Civil Engineering) and Hitotsubashi University are premier ADB-JSP hubs.",
+    "strategic_program_match_advice": "Focus heavily on how the master's degree aligns with ADB's Strategy 2030 and Pakistan's socio-economic development priorities."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.adb.org/work-with-us/careers/japan-scholarship-program",
+    "portal_system_name": "Host Institution Application System (e.g. UTokyo, Kyoto, NUS)",
+    "account_creation_instructions": "Applicants must request information and application forms directly from the designated institution of their choice, not from ADB.",
+    "step_by_step_workflow": [
+      "1. Choose eligible Master's course from the 25 designated ADB-JSP institutions.",
+      "2. Apply for admission and the ADB-JSP scholarship directly to the chosen institution.",
+      "3. Submit academic transcripts, proof of 2 years work experience, income tax return, and CV.",
+      "4. Host institution screens applicants and conducts academic review.",
+      "5. Host institution ranks candidates and submits shortlisted roster to the Asian Development Bank.",
+      "6. ADB reviews submissions and selects awardees in coordination with the Government of Japan.",
+      "7. Host institution notifies successful applicants."
+    ],
+    "university_vs_scholarship_routing": "Institutional application: Submitted directly to the designated university.",
+    "recommendation_letters_submission_method": "Two recommendation letters (one academic, one employer) submitted to host university.",
+    "personal_statement_prompts": "Address your career progression, development impact goals, and how the program aligns with Pakistan's development.",
+    "study_plan_research_proposal_requirements": "Master's study plan or research proposal detailing intended focus area.",
+    "cv_format_requirements": "Detailed professional CV documenting minimum 2 years full-time employment history.",
+    "interviews_conducted": true,
+    "interview_format_details": "Host university admissions committee conducts video interviews in spring.",
+    "standardized_tests": "English proficiency test (IELTS 6.5+ or TOEFL 90+).",
+    "application_fee_amount": "Varies by institution; some waive fees for ADB-JSP.",
+    "attestation_requirements": "Transcripts certified by HEC Pakistan.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "Submitted to designated host institution."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "ADB-JSP Information Sheet & Application Form",
+      "mandatory": true,
+      "specification": "Official ADB-JSP form completed and signed",
+      "pakistan_specific_instruction": "Downloaded from host university website"
+    },
+    {
+      "document_name": "Proof of 2 Years Work Experience",
+      "mandatory": true,
+      "specification": "Official certificate of employment verifying full-time work acquired after graduation",
+      "pakistan_specific_instruction": "On employer letterhead with contact info"
+    },
+    {
+      "document_name": "Proof of Annual Income",
+      "mandatory": true,
+      "specification": "Salary certificate, FBR tax return, or pay slips of applicant and parents/spouse",
+      "pakistan_specific_instruction": "FBR tax returns or official salary slips"
+    },
+    {
+      "document_name": "Academic Transcripts & Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts for 16-year education",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "Two Recommendation Letters",
+      "mandatory": true,
+      "specification": "One academic reference and one supervisor reference",
+      "pakistan_specific_instruction": "Signed and stamped"
+    },
+    {
+      "document_name": "English Proficiency Score",
+      "mandatory": true,
+      "specification": "IELTS Academic (6.5+) or TOEFL iBT (90+)",
+      "pakistan_specific_instruction": "Valid test report"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-08-01",
+    "application_deadline": "2026-12-15",
+    "university_admission_deadline": "2026-12-15",
+    "document_submission_deadline": "2026-12-15",
+    "recommendation_letters_deadline": "2026-12-15",
+    "interview_period": "January to February 2027",
+    "shortlist_announcement": "March 2027",
+    "final_result_acceptance_deadline": "2027-05-15",
+    "visa_application_window": "June to August 2027",
+    "semester_commencement": "September/October 2027 (or April 2027 for Spring intake in Japan)",
+    "annual_cycle_notes": "Deadlines vary by designated institution (typically between December and February for Fall intake)."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Superior academic record)",
+    "extracurricular_and_leadership_weight": "10% (Leadership potential)",
+    "research_experience_weight": "10% (Applied developmental research)",
+    "work_experience_weight": "25% (At least 2 years full-time experience in development sectors)",
+    "personal_statement_weight": "10% (Commitment to return and contribute to home country development)",
+    "recommendations_weight": "10% (Employer and academic endorsements)",
+    "interview_weight": "Evaluated during university review",
+    "test_scores_weight": "Language threshold required",
+    "financial_need_weight": "Preferences given to applicants with lower financial capacity",
+    "selection_panel_composition": "Designated institution selection boards and the Asian Development Bank Central Selection Committee.",
+    "evaluation_methodology": "Two-tier review: Academic institution ranks applicants based on academic and professional merit; ADB finalizes selection."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~4,000 to 5,000 applicants across 25 designated institutions",
+    "total_scholarships_awarded": "~135 to 150 scholarships awarded annually",
+    "acceptance_rate_global": "~3% to 4%",
+    "acceptance_rate_pakistan": "~2% to 3% (Highly Competitive)",
+    "typical_successful_applicant_gpa": "3.30 to 3.85 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Mid-career professionals with 3 to 6 years of experience in government departments, civil engineering consultancies, or financial institutions.",
+    "common_backgrounds_of_winners": "Pakistani civil servants, engineers in infrastructure/power departments, central bank analysts, environmental specialists.",
+    "high_representation_countries": "Pakistan, Philippines, Indonesia, Vietnam, Bangladesh, Nepal, Sri Lanka.",
+    "competitiveness_tier": "VERY HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Websites claiming to accept direct applications to ADB; ADB does NOT accept direct applications."
+    ],
+    "application_fee_warning": "ADB does not charge any application fee; check host institution fees.",
+    "agent_and_intermediary_warnings": "Never work through agents; apply directly to the designated academic institution.",
+    "hidden_costs_breakdown": [
+      "Visa processing fees in Pakistan.",
+      "English language test fees (IELTS/TOEFL).",
+      "Initial pocket money before first stipend release."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can stay and work abroad post-graduation. (Fact: MANDATORY 2-year return to home country is legally binding under scholarship terms).",
+      "MYTH: You can apply without work experience. (Fact: Minimum 2 years of full-time professional experience is strictly required)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some agencies claim this funds PhDs; ADB-JSP strictly funds Master's degree programs."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic performance in accordance with host institution standards.",
+    "attendance_requirements": "Full-time physical residence and attendance at designated host institution.",
+    "academic_progress_monitoring": "Host institutions report progress annually to the Asian Development Bank.",
+    "work_restrictions_during_study": "Scholars are not permitted to work for pay during their scholarship period.",
+    "home_country_return_obligation": "MANDATORY 2-Year Return: Scholars must agree to return to their home country for at least 2 years following completion to contribute to economic development.",
+    "service_obligations_or_bonds": "Legal undertaking signed with the Asian Development Bank.",
+    "repayment_clawback_conditions": "Failing to return home or termination of study requires repayment of all scholarship benefits.",
+    "rules_for_changing_university": "Strictly prohibited.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "No extensions beyond normal master's program duration."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Asian Development Bank (ADB) - Japan Scholarship Program Official Portal",
+      "source_url": "https://www.adb.org/work-with-us/careers/japan-scholarship-program",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Allocation matrix of spots per designated academic institution",
+        "Internal country-by-country quota breakdown among borrowing member countries"
+      ]
+    }
+  ]
+}

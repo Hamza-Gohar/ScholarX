@@ -1,0 +1,277 @@
+{
+  "scholarship_id": "SCH-AM-004",
+  "basic_details": {
+    "scholarship_name": "Vanier Canada Graduate Scholarships (Vanier CGS)",
+    "offering_entity": "Government of Canada (Tri-Agency: CIHR, NSERC, SSHRC)",
+    "host_country": "Canada",
+    "host_institutions_covered": "Eligible Canadian Universities with institutional Vanier quotas (McGill, Toronto, UBC, Waterloo, Alberta, McMaster, etc.)",
+    "degree_levels": [
+      "PhD"
+    ],
+    "major_restrictions": "Open across all three Tri-Agency domains: Health research (CIHR), Natural sciences and engineering (NSERC), Social sciences and humanities (SSHRC).",
+    "number_of_awards_total": "Up to 166 scholarships awarded annually across Canada",
+    "number_of_awards_pakistan": "Open to Canadian and international citizens; awarded based on national institutional ranking quotas",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 3 non-renewable years during doctoral studies"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Canadian citizens, permanent residents, and foreign citizens of all countries (including Pakistan)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction; based on doctoral standing.",
+    "academic_qualifications": "18 years of education (MS/MPhil/Master's degree) with first-class academic standing.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Must have achieved a first-class average (equivalent to at least A- or 80%+ / 3.7+ CGPA) in each of the last two years of full-time study.",
+    "subject_background_prerequisites": "Substantive master's degree in proposed research area with high-impact thesis or peer-reviewed research publications.",
+    "current_education_status": "Be nominated by only ONE Canadian university with an institutional quota; candidate must have completed no more than 20 months of PhD study by May 1 of award year.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Research productivity, conference presentations, and leadership activities evaluated.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 7.0,
+      "toefl_minimum": 100,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "Must satisfy host Canadian university doctoral language proficiency."
+    },
+    "other_language_requirements": "English or French depending on the chosen university.",
+    "gender_specific_requirements": "Equal opportunity; equity, diversity, and inclusion (EDI) principles strictly applied.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Nominated candidate must demonstrate top-tier leadership potential and research excellence.",
+    "previous_scholarship_restrictions": "Must not have previously held a Tri-Agency doctoral scholarship.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "PAID VIA STIPEND / UNIVERSITY WAIVER",
+      "details": "Vanier provides CAD $50,000 per year directly to student; many host universities also offer full tuition fee waivers or top-ups to Vanier scholars.",
+      "amount": null
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Canadian university graduate application fee (~CAD $125 to $150) paid by applicant.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Living expenses and accommodation paid from generous CAD $50,000 annual grant.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "CAD $50,000 per year paid in monthly or term installments (~CAD $4,166 / month).",
+      "amount": "CAD $50,000 / year (~PKR 10,300,000 / year or ~PKR 860,000 / month)"
+    },
+    "airfare": {
+      "status": "PAID VIA STIPEND",
+      "details": "Student covers flights from the annual stipend allocation.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Study permit application fee paid by applicant.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "PAID VIA STIPEND / UNIVERSITY PLAN",
+      "details": "Covered via university student health plan.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered from living grant.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered from living grant.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Host university labs and Tri-Agency travel grants available for international conferences.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Covered from personal stipend.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 38000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple: Any eligible Canadian research university holding an institutional Vanier quota.",
+    "participating_institutions": [
+      "University of Toronto",
+      "UBC",
+      "McGill University",
+      "University of Waterloo",
+      "University of Alberta",
+      "McMaster University",
+      "Université de Montréal",
+      "Queen's University"
+    ],
+    "university_rankings_scope": "Top 15 Canadian U15 research-intensive universities.",
+    "available_majors": [
+      "Health Sciences, Biomedical Sciences, Computer Science, Artificial Intelligence, Engineering, Physics, Chemistry, Molecular Biology, Environmental Sciences, Economics, Sociology, Humanities"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "3 years of funded PhD study",
+    "admission_requirements_summary": "Must secure doctoral admission and formal nomination endorsement from chosen Canadian university department.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Institutions have strict internal nomination quotas; internal university deadline is typically September/October.",
+    "strategic_program_match_advice": "Contact prospective PhD supervisors in Canada by July/August; an enthusiastic supervisor and department head nomination is mandatory."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://vanier.gc.ca/en/home-accueil.html",
+    "portal_system_name": "ResearchNet Portal (Government of Canada)",
+    "account_creation_instructions": "Register on ResearchNet, complete the Canadian Common CV (CCV - Vanier-Banting template), and link to the nominating university.",
+    "step_by_step_workflow": [
+      "1. Contact prospective Canadian university professor and secure doctoral admission support (June-August).",
+      "2. Create ResearchNet account and complete the Vanier CCV online.",
+      "3. Draft detailed Research Proposal (2 pages) and Project References (5 pages maximum).",
+      "4. Write Leadership Statement outlining community leadership and research impact (2 pages).",
+      "5. Obtain two Leadership Reference Letters and two Academic Referee assessments.",
+      "6. Submit electronic application via ResearchNet to your nominating university by their internal deadline (usually September/October).",
+      "7. University internal committee selects nominees and forwards them to federal Tri-Agency secretariat by early November.",
+      "8. National Tri-Agency selection committees review dossiers in January/February; results released in April."
+    ],
+    "university_vs_scholarship_routing": "Routed through the nominating Canadian university via ResearchNet.",
+    "recommendation_letters_submission_method": "Submitted electronically by referees directly through the ResearchNet portal.",
+    "personal_statement_prompts": "Personal Leadership Statement: Describe your leadership skills and initiatives, how you foster collaboration, and your vision for broader societal impact.",
+    "study_plan_research_proposal_requirements": "Strict 2-page research proposal detailing research questions, methodology, significance, and expected contributions.",
+    "cv_format_requirements": "Canadian Common CV (CCV) Vanier-Banting Academic template.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interviews; judged entirely on peer review of ResearchNet dossier.",
+    "standardized_tests": "GRE not required by Vanier; check individual university requirements.",
+    "application_fee_amount": "$0 for Vanier; university graduate application fees apply (~CAD $125).",
+    "attestation_requirements": "Official university transcripts certified by Pakistani degree-granting universities and HEC.",
+    "translation_requirements": "Official certified English or French translations of all non-English transcripts.",
+    "final_submission_method": "100% Online via ResearchNet."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Canadian Common CV (CCV)",
+      "mandatory": true,
+      "specification": "Vanier-Banting specific template completed on the CCV portal",
+      "pakistan_specific_instruction": "List all publications, conferences, awards, and Pakistani research projects"
+    },
+    {
+      "document_name": "Research Proposal",
+      "mandatory": true,
+      "specification": "2-page rigorous research proposal plus 5-page bibliographic references",
+      "pakistan_specific_instruction": "Aligned with the prospective Canadian laboratory's research focus"
+    },
+    {
+      "document_name": "Personal Leadership Statement",
+      "mandatory": true,
+      "specification": "2-page narrative highlighting demonstrable leadership achievements",
+      "pakistan_specific_instruction": "Articulate how you have influenced others and overcome adversity in Pakistan"
+    },
+    {
+      "document_name": "Two Leadership Reference Letters",
+      "mandatory": true,
+      "specification": "Specialized letters from community/professional leaders assessing your leadership",
+      "pakistan_specific_instruction": "Can be from former employers, NGO directors, or mentors outside primary lab"
+    },
+    {
+      "document_name": "Two Academic Referee Assessments",
+      "mandatory": true,
+      "specification": "Evaluations by senior academics assessing research potential",
+      "pakistan_specific_instruction": "Uploaded via ResearchNet by professors from your MS/BS institution"
+    },
+    {
+      "document_name": "Official Transcripts",
+      "mandatory": true,
+      "specification": "Transcripts of all undergraduate and graduate education",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan and degree-granting university registrars"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-06-15",
+    "application_deadline": "2026-11-01",
+    "university_admission_deadline": "2026-09-15",
+    "document_submission_deadline": "2026-10-15",
+    "recommendation_letters_deadline": "2026-10-15",
+    "interview_period": "N/A (No interview)",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-04-15",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "May 2027 or September 2027",
+    "annual_cycle_notes": "Internal university deadlines occur between early September and mid-October. Federal national deadline is always early November."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "33.3% (Academic excellence: transcripts, awards, fellowships, speed of completion)",
+    "extracurricular_and_leadership_weight": "33.3% (Demonstrated leadership potential and ability: community impact, initiatives)",
+    "research_experience_weight": "33.3% (Research potential: quality and feasibility of proposal, publications, contributions to science)",
+    "work_experience_weight": "Included in leadership/research evaluation",
+    "personal_statement_weight": "Evaluated within leadership component",
+    "recommendations_weight": "Evaluated across academic, leadership, and research components",
+    "interview_weight": "0%",
+    "test_scores_weight": "0%",
+    "financial_need_weight": "0% (Strictly merit-driven)",
+    "selection_panel_composition": "Tri-Agency multidisciplinary peer review committees consisting of distinguished Canadian researchers and professors.",
+    "evaluation_methodology": "Equal weighting of 3 pillars: Academic Excellence (33.3%), Research Potential (33.3%), and Leadership (33.3%)."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~500 nominated finalists by universities (from thousands of department applicants)",
+    "total_scholarships_awarded": "166 scholarships nationally (across all 3 agencies)",
+    "acceptance_rate_global": "~30% of nominated finalists (~2% to 4% of total departmental applicants)",
+    "acceptance_rate_pakistan": "~2% to 3% of international pool",
+    "typical_successful_applicant_gpa": "3.85 to 4.00 CGPA (Top 1% of graduating master's class)",
+    "typical_academic_and_research_profile": "First-author publications in high-impact journals (IEEE, Nature indexed), international conference presentations, high-impact societal leadership.",
+    "common_backgrounds_of_winners": "Graduates of top Pakistani universities (LUMS, NUST, Quaid-i-Azam, UET) who secured admission to Canadian top-tier doctoral labs.",
+    "high_representation_countries": "Canada, China, India, Iran, Pakistan, USA, Germany.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unauthorized services claiming to guarantee Vanier endorsement outside the official university nomination stream."
+    ],
+    "application_fee_warning": "Vanier application via ResearchNet is completely free of charge.",
+    "agent_and_intermediary_warnings": "Never use third-party agents; Tri-Agency applications require genuine faculty supervisor engagement.",
+    "hidden_costs_breakdown": [
+      "Canadian university graduate application fee (~CAD $125 to $150).",
+      "Canadian study permit application fee (~CAD $150) + biometrics fee (CAD $85).",
+      "Initial relocation airfare to Canada (~PKR 350,000 to 450,000) prior to first funding disbursement."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can apply to Vanier without contacting a Canadian professor. (Fact: You cannot apply directly to the government; a Canadian university must formally endorse and nominate you).",
+      "MYTH: Vanier only funds Canadian citizens. (Fact: International students including Pakistani citizens are fully eligible on equal footing)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "External blogs often list outdated stipend amounts; current official rate is CAD $50,000/year."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic progress in doctoral degree as certified by host university graduate studies office.",
+    "attendance_requirements": "Full-time physical research residence at host Canadian university.",
+    "academic_progress_monitoring": "Annual progress reporting required by the Tri-Agency secretariat.",
+    "work_restrictions_during_study": "Permitted to work up to standard graduate assistantship limits (typically 10-12 hrs/week TA/RA) per university regulations.",
+    "home_country_return_obligation": "None; scholars are eligible for Canadian Post-Graduation Work Permits (PGWP) and Permanent Residency (Express Entry / Provincial Nominee Programs).",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "If doctoral studies are discontinued or academic fraud occurs, remaining funds are terminated.",
+    "rules_for_changing_university": "Vanier scholarships are tied to the nominating institution; transferring universities requires exceptional Tri-Agency approval.",
+    "rules_for_changing_major": "Significant changes in proposed research area require Tri-Agency review.",
+    "extension_policy": "Strict maximum duration of 36 months; no funding extensions granted under any circumstances."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Government of Canada - Vanier Canada Graduate Scholarships Official Portal",
+      "source_url": "https://vanier.gc.ca/en/home-accueil.html",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Individual institutional quota numbers per Canadian university",
+        "Exact peer-review scoring cutoff marks for each agency committee (CIHR, NSERC, SSHRC)"
+      ]
+    }
+  ]
+}

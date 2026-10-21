@@ -1,0 +1,289 @@
+{
+  "scholarship_id": "SCH-AM-065",
+  "basic_details": {
+    "scholarship_name": "University of Washington Graduate Teaching & Research Assistantships (UW TA/RA)",
+    "offering_entity": "The Graduate School & Paul G. Allen School of Computer Science & Engineering, University of Washington",
+    "host_country": "United States",
+    "host_institutions_covered": "University of Washington (Seattle Campus, Washington, USA)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Paul G. Allen School of Computer Science & Engineering (CSE), Department of Electrical & Computer Engineering (ECE), Department of Mechanical Engineering, William E. Boeing Department of Aeronautics & Astronautics, Bioengineering, and Physics.",
+    "number_of_awards_total": "~100% of admitted research doctoral students receive full multi-year assistantship packages (~400 to 500 doctoral awards annually)",
+    "number_of_awards_pakistan": "Open globally on merit; Pakistani scholars in computing, software systems, and electrical engineering regularly win full UW RA/TA funding (~4 to 8 awards annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Full 5 years of doctoral study guaranteed",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "$40,000 to $45,000 / year (approx. $3,330 to $3,750 / month; ~PKR 925,000 to 1,040,000 / month) 12-month living stipend plus 100% full operating tuition waiver and comprehensive GAIP health insurance"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international students worldwide including Pakistan as well as U.S. citizens/PR"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction; selection based strictly on academic excellence and research potential.",
+    "academic_qualifications": "Recognized 16-year Bachelor's or 18-year Master's degree with exceptional academic standing (equivalent to minimum GPA 3.80+ / 4.00 or top-decile rank) from an HEC-recognized university.",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.8,
+    "grading_conversion_notes": "Minimum undergraduate/graduate GPA of 3.8 / 4.0; admitted UW doctoral candidates are evaluated on published research impact.",
+    "subject_background_prerequisites": "Computer science, computer engineering, electrical engineering, mechanical engineering, physics, mathematics, or related quantitative field.",
+    "current_education_status": "Graduated or final-year undergraduate/master's students completing degree before September.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior scientific research publications, conference presentations, or industrial software contributions strongly advantageous.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 92,
+    "duolingo_accepted": true,
+    "moi_certificate_accepted": false,
+    "language_notes": "TOEFL iBT minimum 92 or IELTS Academic minimum 7.0 or Duolingo 120+ mandatory for University of Washington.",
+    "other_language_requirements": "GRE General optional/not required by Allen School.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must be admitted to a University of Washington PhD program.",
+    "previous_scholarship_restrictions": "Coordinated with UW standard multi-year doctoral funding guarantee.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full operating tuition and technology fees covered for all 5 years of study under the Academic Student Employee (ASE) collective agreement.",
+      "amount": "100% covered (~$34,000 / year value; ~PKR 9,400,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "UW graduate application fee of $85; fee waivers available upon demonstration of financial need.",
+      "amount": "$85 (~PKR 23,500) application fee (fee waiver available)"
+    },
+    "accommodation": {
+      "status": "NOT_COVERED",
+      "details": "UW graduate housing (Mercer Court, Stevens Court) or private apartments in Seattle neighborhoods (University District, Wallingford, Capitol Hill) funded via monthly stipend.",
+      "amount": "Funded from stipend (~$1,100 to $1,600 / month rent in Seattle)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Guaranteed 12-month living stipend of $40,000 to $45,000 / year ($3,330 to $3,750 / month; ~PKR 925,000 to 1,040,000 / month) disbursed biweekly.",
+      "amount": "$40,000 to $45,000 / year (~$3,500 / month living stipend)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Relocation flights to Seattle are self-funded or subsidized by departmental relocation allowances.",
+      "amount": "Not covered in standard package"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "U.S. F-1 Student Visa application fee (~$185) and SEVIS I-901 fee (~$350) paid to U.S. government.",
+      "amount": "Approx. $535 borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Graduate Appointee Insurance Program (GAIP through LifeWise) 100% covered for all ASE appointees, providing full medical, dental, and vision coverage.",
+      "amount": "100% covered comprehensive healthcare (~$4,200 / year value)"
+    },
+    "food_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Dining and groceries covered through monthly living allowance.",
+      "amount": "Covered via stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "UW Libraries (Suzzallo, Allen Library), high-performance computing clusters (Hyak), and Allen School laboratory infrastructure included.",
+      "amount": "100% covered research computing access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Departmental and advisor travel funds provide up to $2,000 to $3,500 per year for presenting research papers at conferences.",
+      "amount": "Up to $3,500 / year travel funds"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "U-PASS is 100% included in student fees providing unlimited transit on King County Metro buses, Sound Transit Link light rail, Sounder trains, and Seattle Streetcar.",
+      "amount": "100% unlimited U-PASS Seattle regional transit"
+    },
+    "total_estimated_value_usd_per_year": 88000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single world-leading computer science and engineering powerhouse (University of Washington).",
+    "participating_institutions": [
+      "University of Washington (Seattle Campus, Washington, USA)"
+    ],
+    "university_rankings_scope": "CSRankings Top 6 globally for Computer Science, AI, Systems, and Computer Vision; U.S. News #5 globally in Computer Science; home to the renowned Paul G. Allen School of Computer Science & Engineering.",
+    "available_majors": [
+      "PhD in Computer Science & Engineering (Allen School)",
+      "PhD in Electrical & Computer Engineering (ECE)",
+      "PhD in Mechanical Engineering",
+      "PhD in Aeronautics & Astronautics",
+      "PhD in Bioengineering",
+      "PhD in Materials Science & Engineering",
+      "PhD in Physics",
+      "PhD in Applied Mathematics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "5 years of full-time doctoral study and research",
+    "admission_requirements_summary": "Bachelor's / Master's degree with 3.8+ GPA, verified transcripts, TOEFL 92+ or IELTS 7.0+, three academic letters of recommendation, CV detailing research outputs, and statement of purpose.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Paul G. Allen School of CSE is intensely competitive (acceptance rate ~4%); demonstrating prior peer-reviewed research publications or strong technical contributions is crucial.",
+    "strategic_program_match_advice": "Articulate clear research synergy with specific UW faculty research groups and centers (e.g., Ubicomp Lab, Graphics and Imaging Laboratory - GRAIL, Robotics and State Estimation Lab)."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://grad.uw.edu/admissions/apply-now/",
+    "portal_system_name": "University of Washington Graduate Application Portal",
+    "account_creation_instructions": "Register on the UW application portal, choose target PhD department, select faculty of interest, upload transcripts, statement of purpose, CV, test scores, and register 3 referees.",
+    "step_by_step_workflow": [
+      "Step 1: Explore UW faculty profiles and published papers in your field of interest.",
+      "Step 2: Obtain valid TOEFL iBT (92+) or IELTS Academic (7.0+) score report.",
+      "Step 3: Submit PhD application on UW portal by December 15 deadline.",
+      "Step 4: Upload official academic transcripts, statement of purpose, and curriculum vitae.",
+      "Step 5: Three academic referees submit letters directly into the UW system.",
+      "Step 6: Departmental faculty admissions committee reviews applications and selects doctoral candidates.",
+      "Step 7: Successful applicants receive formal admission offer with full 5-year guaranteed funding package in February/March.",
+      "Step 8: Accept offer by April 15, receive I-20, and apply for U.S. F-1 Student Visa."
+    ],
+    "university_vs_scholarship_routing": "Integrated Universal Doctoral Funding: 100% of admitted UW engineering and computing PhD students receive full multi-year RA/TA funding guarantees without separate financial aid application.",
+    "recommendation_letters_submission_method": "Submitted online by referees via automated secure electronic appraisal forms.",
+    "personal_statement_prompts": "Statement of purpose (approx. 1,000 words) describing academic trajectory, research questions, proposed methodologies, and alignment with UW faculty.",
+    "study_plan_research_proposal_requirements": "Incorporated into statement of purpose; publications or thesis samples uploaded under supplementary materials.",
+    "cv_format_requirements": "Standard academic research CV detailing education, publications, conference presentations, awards, and technical proficiencies.",
+    "interviews_conducted": true,
+    "interview_format_details": "Virtual technical interviews via Zoom with prospective faculty advisors evaluating research depth and theoretical foundation.",
+    "standardized_tests": "TOEFL iBT 92+ or IELTS 7.0+ mandatory; GRE optional/not required by Allen School.",
+    "application_fee_amount": "$85 (approx. PKR 23,500; fee waiver available upon request)",
+    "attestation_requirements": "Official HEC verified transcripts required upon final matriculation.",
+    "translation_requirements": "Certified English translation of all non-English transcripts.",
+    "final_submission_method": "100% online submission via UW application portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Bachelor's / Master's degree with minimum GPA 3.8 / 4.0 from an accredited university.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official English Proficiency Score Report",
+      "mandatory": true,
+      "specification": "TOEFL iBT minimum 92 or IELTS Academic minimum 7.0.",
+      "pakistan_specific_instruction": "Official electronic score report submitted to University of Washington code 4854."
+    },
+    {
+      "document_name": "Three Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential referee appraisals from research mentors assessing originality and scientific capability.",
+      "pakistan_specific_instruction": "Submitted via institutional email links."
+    },
+    {
+      "document_name": "Statement of Purpose",
+      "mandatory": true,
+      "specification": "Articulating research passions, technical challenges, and proposed faculty collaborators at UW.",
+      "pakistan_specific_instruction": "Tailored to UW research groups."
+    },
+    {
+      "document_name": "Detailed Academic Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Listing all academic history, research projects, publications, and technical skills.",
+      "pakistan_specific_instruction": "Highlighting research experience."
+    },
+    {
+      "document_name": "Sample of Written Work / Research Publications",
+      "mandatory": false,
+      "specification": "Published peer-reviewed paper or thesis chapter demonstrating rigorous research capability.",
+      "pakistan_specific_instruction": "Scholarly research paper."
+    },
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for minimum 1 year.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "September 1",
+    "application_deadline": "December 15 (Allen School of CSE, ECE) / January 5 (Other engineering programs)",
+    "university_admission_deadline": "December 15",
+    "document_submission_deadline": "December 15",
+    "recommendation_letters_deadline": "December 22",
+    "interview_period": "January - February",
+    "shortlist_announcement": "February - early March",
+    "final_result_acceptance_deadline": "April 15 (National CGS deadline)",
+    "visa_application_window": "May - July",
+    "semester_commencement": "Late September (Autumn quarter intake)",
+    "annual_cycle_notes": "Single annual admission cycle for Autumn quarter entry; applications strictly due by mid-December."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "25% (Academic GPA, transcript rigor, foundational coursework grades)",
+    "extracurricular_and_leadership_weight": "5% (Academic outreach, community leadership)",
+    "research_experience_weight": "50% (Demonstrated research originality, peer-reviewed publications, technical problem solving)",
+    "work_experience_weight": "5% (Industry R&D lab experience or software engineering)",
+    "personal_statement_weight": "5% (Clarity of scientific objectives and focus)",
+    "recommendations_weight": "5% (Referee appraisals of research independence)",
+    "interview_weight": "5% (Performance in faculty technical discussions)",
+    "test_scores_weight": "0% (English proficiency is a mandatory threshold)",
+    "financial_need_weight": "0% (Pure academic excellence and research capability)",
+    "selection_panel_composition": "Departmental Faculty Admissions Committees and School Directors.",
+    "evaluation_methodology": "Holistic review prioritizing research depth, originality, peer-reviewed outputs, and scientific match with UW research laboratories."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~4,500 to 6,000 doctoral applicants across engineering and computing colleges",
+    "total_scholarships_awarded": "~100% of admitted PhD students receive full multi-year funding guarantees",
+    "acceptance_rate_global": "~4.5% to 6.5% across departments",
+    "acceptance_rate_pakistan": "~2.5% to 4.5% for extraordinary applicants with peer-reviewed publications and near-perfect GPAs",
+    "typical_successful_applicant_gpa": "Undergraduate GPA >= 3.85 / 4.00, typically with 1 to 3 peer-reviewed publications in reputable international venues",
+    "typical_academic_and_research_profile": "Scholars holding bachelor's or research master's degrees with exceptional quantitative skills, peer-reviewed publications, and compelling research visions.",
+    "common_backgrounds_of_winners": "Graduates from premier Pakistani universities (NUST, LUMS, FAST-NUCES, GIKI, PIEAS, UET) and international graduate programs.",
+    "high_representation_countries": "USA, China, India, Canada, Pakistan, South Korea, Germany, Singapore, Turkey.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official University of Washington website at washington.edu.",
+      "UW never works with commercial recruiting agencies."
+    ],
+    "application_fee_warning": "Application fee of $85 is paid directly through the secure portal; fee waivers are available for eligible applicants.",
+    "agent_and_intermediary_warnings": "Commercial agencies cannot influence UW admissions; fraudulent applications result in permanent bans.",
+    "hidden_costs_breakdown": [
+      "Application fee: $85 (waiver available).",
+      "U.S. Visa & SEVIS fees: ~$535 (~PKR 148,000).",
+      "IELTS or TOEFL test fees: ~PKR 55,000 to 65,000.",
+      "Relocation flight to Seattle: ~PKR 250,000 to 350,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: UW doctoral students must pay tuition. Reality: 100% of admitted UW engineering and computing doctoral students receive full operating tuition coverage, GAIP health insurance, and a generous 12-month living stipend ($40k-$45k/yr).",
+      "Myth: You need a master's degree to apply. Reality: Students holding a 4-year Bachelor's degree are directly eligible to apply to UW PhD programs."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently quote outdated stipend values; current verified UW 12-month doctoral stipend is $40,000 to $45,000."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic progress and minimum B (3.0/4.0) average in graduate coursework.",
+    "attendance_requirements": "Full-time resident study in Seattle and active contribution to research laboratory projects.",
+    "academic_progress_monitoring": "Annual progress reviews and doctoral general examination administered by the supervisory committee.",
+    "work_restrictions_during_study": "Teaching Assistant or Research Assistant duties are integrated into doctoral training; outside employment is restricted.",
+    "home_country_return_obligation": "None; graduates are eligible for 3-year U.S. STEM OPT work authorization.",
+    "service_obligations_or_bonds": "Obligation to fulfill designated departmental research or teaching duties.",
+    "repayment_clawback_conditions": "Funding terminated if student withdraws or fails academic milestones.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Requires approval from graduate program committee and faculty supervisor.",
+    "extension_policy": "Full guaranteed funding for 5 years; dissertation completion support available for year 6."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Washington Graduate Assistantships Overview",
+      "source_url": "https://grad.uw.edu/funding/assistantships/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Paul G. Allen School of Computer Science & Engineering Financial Support",
+      "source_url": "https://www.cs.washington.edu/academics/phd/financial-support",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

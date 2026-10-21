@@ -1,0 +1,147 @@
+{
+  "student_id": "std-pk-ics-001",
+  "session_id": "sess-demo-001",
+  "personal": {
+    "name": "Hamza Gohar",
+    "nationality": "PK",
+    "country_of_residence": "PK",
+    "city": "Multan",
+    "province": "Punjab",
+    "age": 19,
+    "date_of_birth": "2007-03-15",
+    "gender": "Male",
+    "cnic": "35201-1234567-1",
+    "passport_number": "AB1234567",
+    "passport_valid_until": "2032-01-01"
+  },
+  "academic": {
+    "current_level": "Intermediate / ICS / FSc / FA",
+    "education_system": "Pakistani",
+    "years_of_education": 12,
+    "field_of_study": "Computer Science",
+    "board_university": "Federal Board of Intermediate and Secondary Education (FBISE), Islamabad",
+    "gpa_percentage": 93.0,
+    "gpa_4_scale": 3.72,
+    "uk_classification": "First Class Honours (1st)",
+    "institution": "PAEC Boys College Chashma",
+    "graduation_year": 2026,
+    "subjects": [
+      "Physics",
+      "Mathematics",
+      "Computer Science",
+      "English",
+      "Urdu",
+      "Pakistan Studies"
+    ],
+    "relevant_courses": [
+      "Object Oriented Programming",
+      "Database Basics",
+      "Discrete Structures"
+    ],
+    "gap_years": 0,
+    "hec_attestation_done": false,
+    "ibcc_equivalence_done": false
+  },
+  "language": {
+    "english_proficiency_test": "None / Not Available",
+    "ielts_overall": null,
+    "ielts_subbands": {},
+    "toefl_score": null,
+    "duolingo_score": null,
+    "medium_of_instruction_english": false,
+    "moi_certificate_available": false,
+    "native_languages": [
+      "Urdu",
+      "Saraiki",
+      "English"
+    ],
+    "has_english_test": false
+  },
+  "standardized_tests": {
+    "hec_hat": null,
+    "hec_usat": null,
+    "gre": null,
+    "sat": null,
+    "gat_general": null,
+    "gat_subject": null,
+    "nts_nat": null
+  },
+  "preferences": {
+    "target_degree_level": "Bachelor's",
+    "target_fields": [
+      "Computer Science",
+      "Artificial Intelligence",
+      "Software Engineering"
+    ],
+    "funding_requirement": "FULL",
+    "budget_tier": "LOW",
+    "max_out_of_pocket_pkr": 150000,
+    "willing_to_relocate": true,
+    "preferred_regions": [
+      "Europe",
+      "Asia",
+      "MENA"
+    ],
+    "excluded_regions": [],
+    "constraints": [
+      "No high bank statement proof required (> PKR 1.5M)",
+      "Full tuition + housing or stipend required"
+    ]
+  },
+  "documents": {
+    "transcript": {
+      "uploaded": true,
+      "quality": "GOOD",
+      "confidence": 0.95,
+      "filename": "PAEC_College_Chashma_Transcript.pdf"
+    },
+    "cv": {
+      "uploaded": true,
+      "quality": "GOOD",
+      "confidence": 0.9,
+      "filename": "Hamza_Gohar_CV.pdf"
+    },
+    "passport": {
+      "uploaded": true,
+      "quality": "GOOD",
+      "confidence": 0.98,
+      "filename": "Passport_Copy.pdf"
+    },
+    "ielts_certificate": {
+      "uploaded": false,
+      "quality": null,
+      "confidence": null,
+      "filename": null
+    },
+    "motivation_letter": {
+      "uploaded": false,
+      "quality": null,
+      "confidence": null
+    },
+    "recommendation_letters_count": 2,
+    "financial_documents": {
+      "uploaded": false
+    },
+    "police_clearance": {
+      "uploaded": false
+    },
+    "medical_certificate": {
+      "uploaded": false
+    },
+    "hec_attestation": {
+      "uploaded": false
+    },
+    "ibcc_equivalence": {
+      "uploaded": false
+    }
+  },
+  "profile_completeness": 85,
+  "missing_required": [],
+  "missing_optional": [
+    "motivation_letter",
+    "hec_attestation",
+    "ibcc_equivalence",
+    "ielts_certificate"
+  ],
+  "extraction_warnings": []
+}

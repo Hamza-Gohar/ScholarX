@@ -1,0 +1,285 @@
+{
+  "scholarship_id": "SCH-ME-027",
+  "basic_details": {
+    "scholarship_name": "University of Hafr Al Batin (UHB) International Scholarship (Saudi Arabia)",
+    "offering_entity": "Saudi Ministry of Education & University of Hafr Al Batin (Eastern Province, Kingdom of Saudi Arabia)",
+    "host_country": "Saudi Arabia",
+    "host_institutions_covered": "University of Hafr Al Batin (College of Computer Science and Engineering, Eastern Province)",
+    "degree_levels": [
+      "Bachelor of Science (BS)",
+      "Master of Science (MS)"
+    ],
+    "major_restrictions": "College of Computer Science and Engineering: Computer Science, Information Technology, Computer Engineering, Software Engineering, and Artificial Intelligence & Data Science.",
+    "number_of_awards_total": "Approximately 180 to 300 international external scholarships awarded annually across UHB colleges under Saudi Government External Scholarships program",
+    "number_of_awards_pakistan": "Saudi Ministry of Education bilateral country quota: 25 reserved scholarship seats allocated annually for Pakistani candidates",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "4 to 5 years for Bachelor of Science (including preparatory year); 2 years for Master of Science"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Non-Saudi international citizens residing outside the Kingdom of Saudi Arabia (External Scholarship Program)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 25,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Undergraduate candidates must be between 17 and 25 years of age; Master's applicants must be 30 or younger (up to 35 for engineering/computer disciplines).",
+    "academic_qualifications": "For Bachelor: Completed Higher Secondary School Certificate (HSSC / FSc Pre-Engineering / ICS) with minimum 75% marks (or 'Very Good' / Grade B+). For Master: Completed 4-year Bachelor's degree (16 years education) with minimum CGPA 3.00 / 4.00 from an HEC-recognized university.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum grade rating of 'Very Good' (Jayyid Jiddan) on secondary school certificate or CGPA 3.00/4.00 for postgraduate degree programs.",
+    "subject_background_prerequisites": "Pre-Engineering or ICS background with strong mathematics, physics, and computing foundation for College of Computer Science and Engineering tracks.",
+    "current_education_status": "Graduated within the past 5 years from date of application.",
+    "graduation_year_restrictions": "Graduation certificate must not have been issued more than 5 years prior to application.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Work experience is not required for undergraduate or graduate study.",
+    "english_test_required": false,
+    "ielts_minimum": null,
+    "toefl_minimum": null,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "Standardized English test certificates are optional; College of Computer Science and Engineering teaches all coursework in English and accepts English Medium of Instruction certificates.",
+    "other_language_requirements": "Arabic fluency is not required for computer science and engineering disciplines; non-Arabic speaking students admitted to humanities take a preparatory Arabic course.",
+    "gender_specific_requirements": "Female candidates must have an eligible Mahram (male guardian) who is also an enrolled student, employed, or legal resident in Saudi Arabia, unless Saudi regulations permit independent university hostel residency for international female scholarship recipients.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Pakistani candidates applying through the Saudi Ministry of Education bilateral government quota.",
+    "previous_scholarship_restrictions": "Applicant must not have previously held another educational scholarship from an educational institution in Saudi Arabia.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full international tuition fee waiver for the complete degree program including preparatory year.",
+      "amount": "100% Tuition Waived (~SAR 24,000 / year value)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Online application via Saudi Government 'Study in Saudi' (Minhati) portal is 100% free of charge.",
+      "amount": "SAR 0 (Free application)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Free fully furnished student housing in University of Hafr Al Batin campus dormitories with complimentary utilities, air conditioning, and internet.",
+      "amount": "Free on-campus student housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly government living stipend: SAR 840 / month for Undergraduate students (~PKR 65,000/mo); SAR 1,000 / month for Master's students (~PKR 75,000/mo).",
+      "amount": "SAR 840 - 1,000 / month (~PKR 65,000 - 75,000/mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Annual round-trip economy air tickets between Pakistan and Dammam/Qaisumah Airport for summer vacation, plus initial arrival ticket.",
+      "amount": "100% Annual round-trip flights covered"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Saudi Student Visa and residence permit (Iqama) issued free of charge through the Royal Embassy of Saudi Arabia in Pakistan.",
+      "amount": "100% Free visa and Iqama issuance"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive medical and emergency healthcare provided at UHB University Medical Center and Saudi public hospital network.",
+      "amount": "Full university and public healthcare covered"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Heavily subsidized nutritious student meals provided across university campus dining facilities (~SAR 3 to 5 per meal).",
+      "amount": "Heavily subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Annual book allowance equivalent to one month stipend, free university library access, and graduation book allowance.",
+      "amount": "SAR 840 - 1,000 annual book allowance"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Research laboratory access, high-performance computing resources, and project funding via UHB Deanship of Graduate Studies and Scientific Research.",
+      "amount": "Funded engineering & computing lab access"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free campus transportation shuttles connecting university dormitories, academic complexes, libraries, and student recreation centers.",
+      "amount": "Free campus shuttle transit"
+    },
+    "total_estimated_value_usd_per_year": 14000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university: University of Hafr Al Batin (Hafr Al Batin, Eastern Province, Kingdom of Saudi Arabia)",
+    "participating_institutions": [
+      "University of Hafr Al Batin - Main Campus"
+    ],
+    "university_rankings_scope": "Strategically positioned public university in Saudi Arabia's Eastern Province, established from King Fahd University of Petroleum & Minerals (KFUPM) heritage colleges with strong engineering and computing faculties.",
+    "available_majors": [
+      "Bachelor of Science in Computer Science",
+      "Bachelor of Science in Information Technology",
+      "Bachelor of Science in Computer Engineering",
+      "Bachelor of Science in Software Engineering",
+      "Bachelor of Science in Artificial Intelligence & Data Science",
+      "Master of Science in Computer Science"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Undergraduate: 4 to 5 years (including preparatory foundation year); Master: 2 years (4 semesters).",
+    "admission_requirements_summary": "HSSC/Intermediate with >= 75% marks or Bachelor with CGPA >= 3.00/4.00, age 17-25 (undergrad) or <= 35 (grad), clean police certificate, GAMCA medical clearance, and attested educational documents.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "College of Computer Science and Engineering has rigorous admission criteria; Artificial Intelligence & Data Science and Software Engineering have highest competitive cutoffs.",
+    "strategic_program_match_advice": "Apply via the unified 'Study in Saudi' portal (minhati.moe.gov.sa / studyinsaudi.moe.gov.sa) during the September-November window. Ensure all intermediate and matric documents are attested by IBCC and MOFA Pakistan before uploading."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://studyinsaudi.moe.gov.sa/",
+    "portal_system_name": "Saudi Ministry of Education Unified 'Study in Saudi' (Minhati) Portal",
+    "account_creation_instructions": "Register an account on the Saudi Ministry of Education portal (studyinsaudi.moe.gov.sa), select University of Hafr Al Batin, choose desired computing major, and upload required attested documents.",
+    "step_by_step_workflow": [
+      "Step 1: Attest Matric and Intermediate (or Bachelor's) certificates and marksheets from IBCC/HEC and MOFA Pakistan; obtain certified Arabic translations.",
+      "Step 2: Obtain Police Character Clearance Certificate from Police Khidmat Markaz and get it attested by MOFA Pakistan.",
+      "Step 3: Register on the 'Study in Saudi' portal (studyinsaudi.moe.gov.sa) between September and November.",
+      "Step 4: Select University of Hafr Al Batin and specify preferred programs in the College of Computer Science and Engineering.",
+      "Step 5: Upload passport scan, attested academic credentials, medical certificate, police report, and letters of recommendation.",
+      "Step 6: UHB Deanship of Admissions screens applications and ranks candidates under the Pakistan country quota (25 seats).",
+      "Step 7: Selected candidate dossier forwarded to Saudi Ministry of Education and Ministry of Foreign Affairs for security and administrative clearance (April - June).",
+      "Step 8: Final scholarship approval issued; Saudi MOE issues electronic visa authorization slip.",
+      "Step 9: Complete GCC/GAMCA medical examination in Pakistan, submit passport to Royal Embassy of Saudi Arabia in Islamabad or Consulate in Karachi for visa stamping.",
+      "Step 10: University issues complimentary flight ticket; arrive at Dammam/Qaisumah Airport for university welcome and dormitory allocation."
+    ],
+    "university_vs_scholarship_routing": "Integrated Government Routing: Admission to University of Hafr Al Batin through Study in Saudi portal automatically includes 100% full government scholarship award.",
+    "recommendation_letters_submission_method": "Two recommendation letters from former professors or academic teachers uploaded as scanned documents during portal submission.",
+    "personal_statement_prompts": "Statement of Motivation detailing academic ambition, moral character, and dedication to utilizing computing and engineering knowledge productively.",
+    "study_plan_research_proposal_requirements": "Not required for undergraduate applicants; Master's applicants provide a 2 to 3-page research proposal in computer science or software engineering.",
+    "cv_format_requirements": "Brief academic CV highlighting educational history, programming skills, extracurricular projects, and language proficiencies.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interview conducted; selection is document and credential based.",
+    "standardized_tests": "None mandatory. General Tahsili / Qudurat tests are not required for external international candidates.",
+    "application_fee_amount": "SAR 0 (100% Free of charge)",
+    "attestation_requirements": "Attestation by IBCC/HEC and MOFA Pakistan, followed by Saudi Cultural Mission and Royal Embassy of Saudi Arabia upon final selection.",
+    "translation_requirements": "Official certified Arabic translation for all English/Urdu educational documents and police certificate.",
+    "final_submission_method": "100% digital submission via the unified Study in Saudi portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport info page with minimum two years validity.",
+      "pakistan_specific_instruction": "Pakistani passport must have at least 6 blank pages."
+    },
+    {
+      "document_name": "Educational Certificates & Transcripts (HSSC / Bachelor)",
+      "mandatory": true,
+      "specification": "Official matriculation, intermediate, or bachelor's degrees and detailed mark sheets.",
+      "pakistan_specific_instruction": "Attested by IBCC / HEC and MOFA Pakistan, with certified Arabic translation."
+    },
+    {
+      "document_name": "Police Character Clearance Certificate",
+      "mandatory": true,
+      "specification": "Official Police Character Certificate verifying clean record with no criminal convictions.",
+      "pakistan_specific_instruction": "Issued by Police Khidmat Markaz, attested by MOFA Pakistan with Arabic translation."
+    },
+    {
+      "document_name": "Medical Examination Report",
+      "mandatory": true,
+      "specification": "Comprehensive medical fitness certificate verifying freedom from contagious illnesses (HIV, Hepatitis B/C, TB).",
+      "pakistan_specific_instruction": "Completed at an authorized GAMCA / GCC approved medical center in Pakistan."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Letters of recommendation from recognized academic teachers or college professors.",
+      "pakistan_specific_instruction": "On official school/college/university letterhead."
+    },
+    {
+      "document_name": "NADRA Birth Certificate",
+      "mandatory": true,
+      "specification": "Official NADRA computerized birth certificate confirming date of birth and parentage.",
+      "pakistan_specific_instruction": "NADRA Birth Certificate attested by MOFA Pakistan with Arabic translation."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-09-15",
+    "application_deadline": "2026-11-30",
+    "university_admission_deadline": "2026-11-30",
+    "document_submission_deadline": "2026-11-30",
+    "recommendation_letters_deadline": "2026-11-30",
+    "interview_period": "None (Document review)",
+    "shortlist_announcement": "May to June 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "July to August 2027",
+    "semester_commencement": "2027-09-01",
+    "annual_cycle_notes": "Annual application cycle conducted via Study in Saudi portal for Fall semester enrollment."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "50% (Secondary school GPA/percentage or Bachelor CGPA in relevant STEM subjects)",
+    "extracurricular_and_leadership_weight": "5% (School leadership, competitions, community activities)",
+    "research_experience_weight": "10% (For graduate applicants; final year project relevance for undergraduates)",
+    "work_experience_weight": "0% (Not required for undergraduate or graduate admission)",
+    "personal_statement_weight": "15% (Clarity of goals, personal statement, and academic drive)",
+    "recommendations_weight": "10% (Academic referee appraisals of moral character and aptitude)",
+    "interview_weight": "0% (No interview conducted)",
+    "test_scores_weight": "0% (Standardized tests not mandatory)",
+    "financial_need_weight": "0% (Merit and bilateral government quota based)",
+    "selection_panel_composition": "University of Hafr Al Batin International Admissions Committee, Saudi Ministry of Education Scholarship Board, and Ministry of Foreign Affairs.",
+    "evaluation_methodology": "Two-tier selection: University ranks qualified applicants by academic marks within country quota (25 seats for Pakistan); Saudi MOE and MOFA grant administrative approvals."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~7,000 to 10,000 international applicants across all participating countries",
+    "total_scholarships_awarded": "~180 to 300 international scholarships across UHB colleges",
+    "acceptance_rate_global": "~3.5%",
+    "acceptance_rate_pakistan": "~33.0% (Dedicated bilateral quota of 25 seats offers strong admission probability to qualified Pakistani applicants)",
+    "typical_successful_applicant_gpa": "78%+ in Pakistani Intermediate (HSSC / Pre-Engineering / ICS) or 3.20+ CGPA for Master's",
+    "typical_academic_and_research_profile": "Solid foundation in mathematics and computing, clean disciplinary and medical records, complete Arabic-translated and attested document dossier.",
+    "common_backgrounds_of_winners": "Students from across Pakistan (Punjab, Sindh, KPK, Balochistan, AJK) holding Intermediate certificates from recognized BISE boards.",
+    "high_representation_countries": "Pakistan, Indonesia, Nigeria, Egypt, Bangladesh, Yemen, Sudan",
+    "competitiveness_tier": "MODERATE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unauthorized visa consultants or agents claiming to sell UHB scholarship seats. Saudi government scholarships are 100% free and processed exclusively via the official Study in Saudi portal.",
+      "Fake scholarship acceptance letters asking for security deposits or courier charges."
+    ],
+    "application_fee_warning": "Saudi government scholarships have ZERO application fees. Any entity asking for money is fraudulent.",
+    "agent_and_intermediary_warnings": "Do not use brokers or agents; personal submission through the government portal is free and easy.",
+    "hidden_costs_breakdown": [
+      "Medical examination at GAMCA approved center in Pakistan (~PKR 18,000 - 25,000).",
+      "Document attestation fees at IBCC, HEC, MOFA, and certified Arabic translation (~PKR 25,000 - 40,000).",
+      "Initial pocket money needed upon arrival before first stipend disbursement (~SAR 600 - 1,000; ~PKR 45,000 - 75,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Engineering and computing courses are taught in Arabic. Reality: Coursework in the College of Computer Science and Engineering is 100% in English.",
+      "Myth: You must pass IELTS/TOEFL to be accepted. Reality: English test scores are not mandatory; Medium of Instruction (MOI) certificates are accepted."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial agents claim scholarships can be transferred between universities in Saudi Arabia; official regulations strictly forbid transferring scholarships between Saudi institutions."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain minimum GPA of 2.75 / 5.00 (Good standing) throughout degree studies; GPA below threshold results in academic probation and potential stipend suspension.",
+    "attendance_requirements": "Mandatory regular attendance in all lectures; unexcused absence exceeding 20% leads to course denial and academic inquiry.",
+    "academic_progress_monitoring": "Semester-by-semester academic performance reviews reported to the Deanship of Admissions.",
+    "work_restrictions_during_study": "Students on scholarship visa (Iqama) are strictly prohibited from taking outside commercial employment in the Kingdom.",
+    "home_country_return_obligation": "Scholars must depart the Kingdom upon completion of their degree program within the period specified by Saudi regulations (typically 3 months post-graduation).",
+    "service_obligations_or_bonds": "Zero service bonds or repayment requirements.",
+    "repayment_clawback_conditions": "Scholarship is cancelled upon academic dismissal or violation of university regulations; past disbursed funds are not clawed back.",
+    "rules_for_changing_university": "Transferring to another university within Saudi Arabia is strictly prohibited for external scholarship recipients.",
+    "rules_for_changing_major": "Changing majors is permitted only within the same college during the first academic year subject to college council approval.",
+    "extension_policy": "Scholarship duration cannot be extended beyond one additional semester past standard degree timeline without special Ministry of Education approval."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Saudi Ministry of Education 'Study in Saudi' Unified External Scholarship Portal",
+      "source_url": "https://studyinsaudi.moe.gov.sa/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Specific department quotas for international students in computing programs."
+      ]
+    },
+    {
+      "source_name": "University of Hafr Al Batin Official Portal",
+      "source_url": "https://www.uhb.edu.sa/en",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Detailed semester-by-semester international student intake caps."
+      ]
+    }
+  ]
+}

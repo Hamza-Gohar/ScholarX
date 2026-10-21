@@ -1,0 +1,840 @@
+# scripts/batch18_p1.py
+# SCH-AM-029: University of Calgary Graduate Research Scholarship in CS (Canada)
+# SCH-AM-030: Western University (UWO) Graduate Research Scholarship in CS (Canada)
+# SCH-AM-033: McMaster University Graduate Scholarship in Computing & Software (Canada)
+
+DATA_P1 = {
+    "SCH-AM-029": {
+        "scholarship_id": "SCH-AM-029",
+        "basic_details": {
+            "scholarship_name": "University of Calgary Graduate Research Scholarship & Teaching Assistantship in CS",
+            "offering_entity": "University of Calgary Department of Computer Science & Faculty of Graduate Studies (FGS)",
+            "host_country": "Canada",
+            "host_institutions_covered": "University of Calgary (Main Campus, Calgary, Alberta, Canada)",
+            "degree_levels": ["Master of Science (MSc Thesis-based)", "Doctor of Philosophy (PhD)"],
+            "major_restrictions": "Department of Computer Science: Artificial Intelligence and Machine Learning, Algorithms and Complexity, Data Science and Analytics, Human-Computer Interaction (HCI), Information Security and Privacy, Visual Computing, and Systems/Cloud Computing.",
+            "number_of_awards_total": "~70 to 90 funded graduate research positions awarded annually across thesis-based MSc and PhD intakes",
+            "number_of_awards_pakistan": "Open international merit competition; Pakistani graduate researchers in computing secure ~6 to 12 fully funded positions annually",
+            "funding_classification": "FULLY_FUNDED",
+            "duration_of_scholarship": "Up to 2 years for MSc (Thesis); up to 4 years for PhD, subject to satisfactory annual academic and research progress"
+        },
+        "eligibility_requirements": {
+            "nationality_requirements": ["Open to Canadian and international students of all nationalities (Pakistan eligible)"],
+            "pakistan_eligible": True,
+            "age_limit_undergrad": None,
+            "age_limit_postgrad": None,
+            "age_limit_notes": "No formal age restrictions; evaluated on academic excellence, programming background, and research potential.",
+            "academic_qualifications": "A recognized 4-year Bachelor's degree (16 years education) in Computer Science or closely related STEM discipline for MSc; a research Master's degree (18 years education) in Computer Science with thesis for PhD from an HEC-recognized university with strong academic standing (minimum 78% aggregate or CGPA 3.30 / 4.00; competitive admits typically maintain 3.60+ / 4.00).",
+            "minimum_gpa_percentage": 78.0,
+            "minimum_gpa_scale": 3.3,
+            "grading_conversion_notes": "Evaluated on Calgary 4.0 GPA scale; equivalent to minimum Grade B+ (3.3/4.0) over the final two years of study.",
+            "subject_background_prerequisites": "Substantial background in data structures, algorithms, computer architecture, discrete mathematics, and operating systems.",
+            "current_education_status": "Graduating seniors in their final semester can apply conditionally with expected graduation transcripts.",
+            "graduation_year_restrictions": "None.",
+            "work_experience_required": False,
+            "work_experience_minimum_years": 0.0,
+            "work_experience_notes": "Prior software development, open-source contributions, or published research papers in IEEE/ACM venues strongly enhance competitive standing.",
+            "english_test_required": True,
+            "ielts_minimum": 7.0,
+            "toefl_minimum": 97,
+            "duolingo_accepted": False,
+            "moi_certificate_accepted": False,
+            "language_notes": "IELTS Academic minimum 7.0 overall (with no sub-score below 6.0) or TOEFL iBT minimum 97 (reading 20, listening 20, speaking 20, writing 20), or PTE Academic minimum 68. Official test scores mandatory.",
+            "other_language_requirements": "None; instruction and research conducted entirely in English.",
+            "gender_specific_requirements": "None.",
+            "financial_need_required": False,
+            "special_eligibility_categories": "Applicants must secure supervisory agreement from an authorized Computer Science faculty member as part of the admission review.",
+            "previous_scholarship_restrictions": "Cannot hold concurrent full external government fellowships without university approval.",
+            "can_apply_result_awaiting": True
+        },
+        "financial_coverage_breakdown": {
+            "tuition_fee": {
+                "status": "PARTIAL",
+                "details": "International tuition fees (~CAD 8,500 to 14,000 / year) are offset by the Faculty of Graduate Studies International Differential Subsidy and departmental awards, with the remainder covered directly from the guaranteed funding package.",
+                "amount": "Covered via funding package (~CAD 10,000 / year; ~PKR 2,050,000 / year)"
+            },
+            "admission_application_fee": {
+                "status": "PAID BY APPLICANT",
+                "details": "University of Calgary international application fee of CAD 145 (~USD 106; ~PKR 29,800) paid online via credit card.",
+                "amount": "CAD 145 (~PKR 29,800)"
+            },
+            "accommodation": {
+                "status": "PAID VIA STIPEND",
+                "details": "On-campus graduate housing (Crowsnest Hall) or private rental apartments in Calgary (average CAD 800 to 1,200 / month; ~USD 590 to 880 / month) comfortably paid out of the living stipend.",
+                "amount": "Paid from stipend (~CAD 1,000 / month; ~PKR 205,000 / mo)"
+            },
+            "monthly_stipend": {
+                "status": "100% COVERED",
+                "details": "Guaranteed departmental minimum funding package: MSc Thesis students receive at least CAD 24,000 to 28,000 / year (~CAD 2,000 to 2,333 / month; ~PKR 410,000 to 478,000 / month); PhD students receive at least CAD 27,000 to 34,000 / year (~CAD 2,250 to 2,833 / month; ~PKR 461,000 to 580,000 / month), composed of Graduate Research Assistantships (GRA) and Graduate Teaching Assistantships (GTA).",
+                "amount": "CAD 24,000 to 34,000 / year (~PKR 410,000 to 580,000 / mo)"
+            },
+            "airfare": {
+                "status": "NOT_COVERED",
+                "details": "International airfare between Pakistan and Calgary is self-funded by the student.",
+                "amount": "Not covered (Self-funded ~PKR 260,000 to 360,000 round-trip)"
+            },
+            "visa_fee": {
+                "status": "NOT_COVERED",
+                "details": "Canadian Study Permit application fee (CAD 150) and biometrics fee (CAD 85) paid by applicant.",
+                "amount": "Not covered (~CAD 235; ~PKR 48,000)"
+            },
+            "health_insurance": {
+                "status": "100% COVERED",
+                "details": "Alberta Health Care Insurance Plan (AHCIP) provides 100% free basic provincial healthcare for international students residing in Alberta for 12+ months; supplementary graduate dental/vision insurance (~CAD 600/year) is covered through graduate student union plans.",
+                "amount": "100% free provincial healthcare (AHCIP)"
+            },
+            "food_allowance": {
+                "status": "INCLUDED_IN_STIPEND",
+                "details": "Groceries and living costs in Calgary (lower cost of living than Vancouver or Toronto) are easily managed within the monthly stipend.",
+                "amount": "Covered from monthly living stipend"
+            },
+            "books_and_materials_allowance": {
+                "status": "100% COVERED",
+                "details": "Comprehensive access to Taylor Family Digital Library, departmental GPU research clusters, and high-performance computing facilities.",
+                "amount": "100% covered via institutional facilities"
+            },
+            "research_funding_conference_grant": {
+                "status": "COVERED",
+                "details": "Faculty of Graduate Studies Travel Awards and supervisor research grants provide up to CAD 1,500 to 2,500 for presenting papers at premier conferences.",
+                "amount": "Up to CAD 2,500 conference travel funding"
+            },
+            "travel_transit_allowance": {
+                "status": "100% COVERED",
+                "details": "Calgary Transit U-Pass provides unlimited transit on CTrain light rail and city buses, included directly in standard student registration fees.",
+                "amount": "Unlimited transit via U-Pass"
+            },
+            "total_estimated_value_usd_per_year": 26000
+        },
+        "university_and_program_options": {
+            "single_or_multiple_universities": "Single host university (University of Calgary, Alberta)",
+            "participating_institutions": [
+                "University of Calgary - UCalgary Main Campus (Calgary, Alberta, Canada)"
+            ],
+            "university_rankings_scope": "U15 Group of Canadian Research Universities, QS World University Rankings #182 worldwide, top 10 in Canada for Computer Science and Engineering.",
+            "available_majors": [
+                "Computer Science (MSc & PhD)",
+                "Artificial Intelligence and Machine Learning",
+                "Data Science and Big Data Analytics",
+                "Human-Computer Interaction and Visualization",
+                "Information Security and Cryptography",
+                "Software Engineering and Cloud Systems",
+                "Computational Media and Gaming",
+                "Bioinformatics and Computational Biology"
+            ],
+            "english_taught_program_availability": True,
+            "program_duration": "MSc (Thesis): 2 years; PhD: 4 years",
+            "admission_requirements_summary": "Online UCalgary application form, official academic transcripts, curriculum vitae, statement of research intent, official IELTS/TOEFL score report, two academic letters of recommendation, and confirmed faculty supervisor endorsement.",
+            "is_admission_separate_from_scholarship": False,
+            "pre_admission_acceptance_letter_required": True,
+            "easiest_hardest_institutions_guidance": "Admission to the AI/ML and Information Security research laboratories is highly selective; establishing early contact with faculty members and demonstrating published research or significant GitHub projects is the primary determinant of admission.",
+            "strategic_program_match_advice": "Reach out to prospective supervisors between October and December. Send a concise email attaching your CV, academic transcript, and a 1-page summary of how your technical skills match their current NSERC/CFI funded projects."
+        },
+        "application_process_roadmap": {
+            "submission_portal_url": "https://science.ucalgary.ca/computer-science/future-students/graduate/funding-awards & https://grad.ucalgary.ca/future-students/how-apply",
+            "portal_system_name": "UCalgary Online Graduate Admissions Portal",
+            "account_creation_instructions": "Create an applicant account on UCalgary Student Centre portal, select Computer Science thesis-based program, identify proposed supervisors, and upload digital application documents.",
+            "step_by_step_workflow": [
+                "Step 1: Explore faculty research groups and email prospective supervisors with CV and research interests (October - December).",
+                "Step 2: Take IELTS (min 7.0) or TOEFL (min 97) and ensure official electronic score reporting to University of Calgary.",
+                "Step 3: Submit online application on UCalgary portal and pay the CAD 145 application fee before the deadline (January 15).",
+                "Step 4: Upload unofficial transcripts, CV, and statement of research intent.",
+                "Step 5: Academic referees submit confidential appraisal forms via automated institutional links.",
+                "Step 6: Prospective supervisors review shortlisted files and conduct online technical interviews (February - March).",
+                "Step 7: Departmental Graduate Committee issues formal admission and guaranteed funding offer letters (March - April).",
+                "Step 8: Accept the offer, apply for Canadian Provincial Attestation Letter (PAL) and Study Permit via IRCC.",
+                "Step 9: Arrive in Calgary in late August for international graduate orientation and commence studies in September."
+            ],
+            "university_vs_scholarship_routing": "Integrated Track: All admitted thesis-based graduate students automatically receive the guaranteed minimum funding package without separate scholarship application.",
+            "recommendation_letters_submission_method": "Submitted online by referees via secure automated links dispatched directly to their institutional email addresses.",
+            "personal_statement_prompts": "Statement of research intent outlining academic background, specific research problems of interest, and reasons for choosing UCalgary Computer Science.",
+            "study_plan_research_proposal_requirements": "Structured 1 to 2-page research outline highlighting technical methodologies and alignment with prospective faculty laboratories.",
+            "cv_format_requirements": "Curriculum vitae detailing education, technical skillsets, research publications, awards, and software projects.",
+            "interviews_conducted": True,
+            "interview_format_details": "30-minute online video interview conducted by the prospective faculty supervisor focusing on technical depth, programming ability, and research drive.",
+            "standardized_tests": "IELTS Academic (min 7.0) or TOEFL iBT (min 97) mandatory; GRE is not required for Computer Science at UCalgary.",
+            "application_fee_amount": "CAD 145 (~USD 106; ~PKR 29,800)",
+            "attestation_requirements": "Degrees and transcripts must be attested by HEC Pakistan and official sealed transcripts sent upon admission offer.",
+            "translation_requirements": "Certified English translation required for any documents not issued in English.",
+            "final_submission_method": "100% digital submission via the UCalgary graduate admissions portal."
+        },
+        "required_documents_checklist": [
+            {
+                "document_name": "Official Academic Transcripts and Degree Certificates",
+                "mandatory": True,
+                "specification": "Complete transcripts for all post-secondary education with minimum B+ / 3.3 GPA equivalent.",
+                "pakistan_specific_instruction": "Scanned color copies of HEC-attested Bachelor's/Master's degrees and semester-by-semester transcripts."
+            },
+            {
+                "document_name": "Statement of Research Intent",
+                "mandatory": True,
+                "specification": "1 to 2-page essay detailing research interests, background, and alignment with prospective supervisors.",
+                "pakistan_specific_instruction": "Must clearly name 2-3 UCalgary Computer Science faculty members whose research aligns with yours."
+            },
+            {
+                "document_name": "Official English Proficiency Score Report",
+                "mandatory": True,
+                "specification": "IELTS Academic (min 7.0 overall, 6.0 in each subtest) or TOEFL iBT (min 97).",
+                "pakistan_specific_instruction": "Request ETS or British Council to send official scores directly to UCalgary (institution code 0813)."
+            },
+            {
+                "document_name": "Two Academic Letters of Reference",
+                "mandatory": True,
+                "specification": "Confidential evaluation letters from academic professors who taught or supervised previous research.",
+                "pakistan_specific_instruction": "Referees must submit from official Pakistani university email addresses."
+            },
+            {
+                "document_name": "Updated Curriculum Vitae (CV)",
+                "mandatory": True,
+                "specification": "Detailed academic CV highlighting technical projects, publications, and programming proficiencies.",
+                "pakistan_specific_instruction": "Include links to open-source code repositories (GitHub) and published papers."
+            },
+            {
+                "document_name": "Valid Passport Copy",
+                "mandatory": True,
+                "specification": "Clear color copy of passport identification page valid for at least 2 years.",
+                "pakistan_specific_instruction": "Pakistani passport must have validity through late 2028."
+            }
+        ],
+        "important_dates_timeline": {
+            "application_open_date": "September 1",
+            "application_deadline": "January 15",
+            "university_admission_deadline": "January 15",
+            "document_submission_deadline": "January 25",
+            "recommendation_letters_deadline": "January 25",
+            "interview_period": "February 1 - March 15",
+            "shortlist_announcement": "March 15 - April 15",
+            "final_result_acceptance_deadline": "May 1",
+            "visa_application_window": "May 1 - July 15",
+            "semester_commencement": "Early September (Fall intake)",
+            "annual_cycle_notes": "Main intake is Fall semester (September commencement). Applications received by January 15 receive premier funding consideration."
+        },
+        "selection_process_and_weights": {
+            "academic_weight": "35% (Undergraduate/Master's GPA in core computing coursework)",
+            "extracurricular_and_leadership_weight": "5% (Technical community contributions and open-source engagement)",
+            "research_experience_weight": "35% (Prior research, publications, technical projects, and supervisor match)",
+            "work_experience_weight": "5% (Industry software engineering experience)",
+            "personal_statement_weight": "10% (Clarity of research intent and problem formulation)",
+            "recommendations_weight": "10% (Academic referee assessments on research potential)",
+            "interview_weight": "0% (Interview performance factored directly into supervisor endorsement)",
+            "test_scores_weight": "0% (English meets mandatory threshold)",
+            "financial_need_weight": "0% (Guaranteed merit-based departmental funding policy)",
+            "selection_panel_composition": "Departmental Graduate Admissions Committee and individual faculty principal investigators.",
+            "evaluation_methodology": "Two-phase evaluation: academic credential audit followed by faculty supervisor sponsorship and guaranteed funding commitment."
+        },
+        "competitiveness_profile": {
+            "total_annual_applicants": "~1,200 to 1,800 international graduate applicants for CS thesis programs",
+            "total_scholarships_awarded": "~70 to 90 fully funded graduate positions awarded annually",
+            "acceptance_rate_global": "~5.0% to 6.5%",
+            "acceptance_rate_pakistan": "~6.0% to 8.0% among competitive applicants with supervisor backing",
+            "typical_successful_applicant_gpa": "CGPA 3.60+ / 4.00 or 80%+ aggregate from leading Pakistani institutions (NUST, FAST, LUMS, GIKI, UET)",
+            "typical_academic_and_research_profile": "Graduates with solid computing fundamentals, strong programming abilities, and at least 1-2 published papers or substantial research thesis outcomes.",
+            "common_backgrounds_of_winners": "Graduates of Pakistani top computer science and software engineering programs.",
+            "high_representation_countries": "Canada, Iran, China, India, Pakistan, Nigeria, Bangladesh, Turkey.",
+            "competitiveness_tier": "HIGH"
+        },
+        "red_flags_and_warnings": {
+            "fake_websites_and_scams": [
+                "Beware of fraudulent educational consultancy agencies claiming guaranteed admission or funding packages to UCalgary.",
+                "Legitimate applications are processed exclusively through ucalgary.ca."
+            ],
+            "application_fee_warning": "UCalgary application fee is CAD 145 paid securely via the official portal; never pay fees to third-party brokers.",
+            "agent_and_intermediary_warnings": "University of Calgary does not partner with recruitment agents for research-based graduate admissions.",
+            "hidden_costs_breakdown": [
+                "Application fee: CAD 145 (~PKR 29,800).",
+                "IELTS/TOEFL examination fee: ~PKR 60,000.",
+                "Canadian Study Permit and biometric fee: ~CAD 235 (~PKR 48,000).",
+                "Initial settling-in expenses upon arrival in Calgary: ~CAD 1,500 (~PKR 307,500)."
+            ],
+            "misleading_claims_debunked": [
+                "Myth: You can get admitted to thesis MSc without a supervisor. Reality: Computer Science at UCalgary requires a confirmed supervisor before formal admission is granted.",
+                "Myth: Canadian healthcare is not provided to international students. Reality: In Alberta, international students on a valid 12-month Study Permit are covered 100% free under the provincial AHCIP health plan."
+            ],
+            "official_vs_unofficial_discrepancies": [
+                "Unofficial portals claim GRE is required; GRE is NOT required for Computer Science at UCalgary."
+            ]
+        },
+        "scholarship_obligations_and_terms": {
+            "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.00 / 4.00 (Grade B) in graduate coursework throughout the degree program.",
+            "attendance_requirements": "Full-time on-campus academic standing and active participation in assigned laboratory research projects.",
+            "academic_progress_monitoring": "Annual Progress Report (APR) reviewed by the supervisory committee and the Graduate Program Director; satisfactory progress required for funding renewal.",
+            "work_restrictions_during_study": "Teaching/research assistantships are limited to an average of 12 hours per week during academic terms to prioritize thesis research.",
+            "home_country_return_obligation": "No mandatory return requirement; graduates are eligible for the Canadian Post-Graduation Work Permit (PGWP) for up to 3 years.",
+            "service_obligations_or_bonds": "Zero service bond or repayment obligation attached to the funding package.",
+            "repayment_clawback_conditions": "Funding discontinued if student withdraws without authorization or is dismissed for academic dishonesty.",
+            "rules_for_changing_university": "Non-transferable to other Canadian universities.",
+            "rules_for_changing_major": "Changing major requires formal re-application and approval by the new academic department.",
+            "extension_policy": "Funding is guaranteed for the standard program duration (2 years for MSc, 4 years for PhD); extensions are contingent on supervisor grant availability."
+        },
+        "official_sources_verified": [
+            {
+                "source_name": "University of Calgary Computer Science Graduate Funding Portal",
+                "source_url": "https://science.ucalgary.ca/computer-science/future-students/graduate/funding-awards",
+                "source_type": "OFFICIAL_UNIVERSITY",
+                "verified_date": "2026-10-07",
+                "data_points_missing_or_unpublished_by_source": []
+            },
+            {
+                "source_name": "UCalgary Faculty of Graduate Studies Calendar",
+                "source_url": "https://grad.ucalgary.ca/future-students/how-apply",
+                "source_type": "OFFICIAL_UNIVERSITY",
+                "verified_date": "2026-10-07",
+                "data_points_missing_or_unpublished_by_source": []
+            }
+        ]
+    },
+    "SCH-AM-030": {
+        "scholarship_id": "SCH-AM-030",
+        "basic_details": {
+            "scholarship_name": "Western University Graduate Research Scholarship & Teaching Assistantship in CS",
+            "offering_entity": "Western University (University of Western Ontario) Department of Computer Science & SGPS",
+            "host_country": "Canada",
+            "host_institutions_covered": "Western University Main Campus (London, Ontario, Canada)",
+            "degree_levels": ["Master of Science (MSc Thesis-based)", "Doctor of Philosophy (PhD)"],
+            "major_restrictions": "Department of Computer Science: Artificial Intelligence, Bioinformatics, Computer Algebra, Computer Networks and Distributed Systems, Software Engineering, Human-Computer Interaction, and Game Development.",
+            "number_of_awards_total": "~60 to 80 funded graduate research positions awarded annually across MSc Thesis and PhD programs",
+            "number_of_awards_pakistan": "Open international merit competition; Pakistani graduate researchers in computing secure ~5 to 10 fully funded positions annually",
+            "funding_classification": "FULLY_FUNDED",
+            "duration_of_scholarship": "Up to 2 years (6 terms) for MSc (Thesis); up to 4 years (12 terms) for PhD, renewed annually based on satisfactory research progress"
+        },
+        "eligibility_requirements": {
+            "nationality_requirements": ["Open to Canadian and international students of all nationalities (Pakistan eligible)"],
+            "pakistan_eligible": True,
+            "age_limit_undergrad": None,
+            "age_limit_postgrad": None,
+            "age_limit_notes": "No formal age limit; evaluated on academic achievement and research capability.",
+            "academic_qualifications": "A recognized 4-year Bachelor's degree (16 years education) in Computer Science or Computer Engineering with at least 78% aggregate (B+ average or CGPA 3.30 / 4.00) for MSc; a research Master's degree in Computer Science with at least 80% aggregate (A- average or CGPA 3.50 / 4.00) for PhD from an HEC-recognized university in Pakistan (competitive admits typically 3.65+ / 4.00).",
+            "minimum_gpa_percentage": 78.0,
+            "minimum_gpa_scale": 3.3,
+            "grading_conversion_notes": "Evaluated on Western University percentage/letter scale; minimum 78% (B+) over final 2 years of undergraduate study.",
+            "subject_background_prerequisites": "Substantial coursework in algorithms, data structures, computer systems, operating systems, and mathematics.",
+            "current_education_status": "Graduating seniors in their final semester can apply conditionally with expected graduation transcripts.",
+            "graduation_year_restrictions": "None.",
+            "work_experience_required": False,
+            "work_experience_minimum_years": 0.0,
+            "work_experience_notes": "Prior software development, open-source projects, or published research papers in IEEE/ACM venues significantly strengthen candidacy.",
+            "english_test_required": True,
+            "ielts_minimum": 6.5,
+            "toefl_minimum": 92,
+            "duolingo_accepted": True,
+            "moi_certificate_accepted": False,
+            "language_notes": "IELTS Academic minimum 6.5 overall (with no sub-score below 6.0), TOEFL iBT minimum 92 (minimum 20 in each section), or Duolingo English Test (DET) minimum 115. Official test reports mandatory.",
+            "other_language_requirements": "None; instruction and research conducted entirely in English.",
+            "gender_specific_requirements": "None.",
+            "financial_need_required": False,
+            "special_eligibility_categories": "Applicants must secure supervisory support from a Western Computer Science faculty member prior to final admission approval.",
+            "previous_scholarship_restrictions": "Cannot hold concurrent full external government fellowships without university approval.",
+            "can_apply_result_awaiting": True
+        },
+        "financial_coverage_breakdown": {
+            "tuition_fee": {
+                "status": "PARTIAL",
+                "details": "International tuition fees (~CAD 9,000 to 14,000 / year) are offset through the Western Graduate Research Scholarship (WGRS), with the balance paid directly out of the guaranteed funding package.",
+                "amount": "Covered via funding package (~CAD 11,000 / year; ~PKR 2,255,000 / year)"
+            },
+            "admission_application_fee": {
+                "status": "PAID BY APPLICANT",
+                "details": "Western University graduate application fee of CAD 150 (~USD 110; ~PKR 30,750) paid online via credit card.",
+                "amount": "CAD 150 (~PKR 30,750)"
+            },
+            "accommodation": {
+                "status": "PAID VIA STIPEND",
+                "details": "On-campus graduate apartments (Platt's Lane Estates, London Hall) or private rental apartments in London, Ontario (average CAD 750 to 1,100 / month; ~USD 550 to 800 / month) comfortably paid out of the living stipend.",
+                "amount": "Paid from stipend (~CAD 900 / month; ~PKR 184,500 / mo)"
+            },
+            "monthly_stipend": {
+                "status": "100% COVERED",
+                "details": "Guaranteed minimum funding package: MSc Thesis students receive at least CAD 27,000 / year (~CAD 2,250 / month; ~PKR 461,000 / month); PhD students receive at least CAD 31,000 to 35,000 / year (~CAD 2,583 to 2,916 / month; ~PKR 529,000 to 597,000 / month), composed of WGRS, Graduate Teaching Assistantships (GTA, ~CAD 6,500/term), and Graduate Research Assistantships (GRA).",
+                "amount": "CAD 27,000 to 35,000 / year (~PKR 461,000 to 597,000 / mo)"
+            },
+            "airfare": {
+                "status": "NOT_COVERED",
+                "details": "International airfare between Pakistan and Toronto/London is self-funded by the student.",
+                "amount": "Not covered (Self-funded ~PKR 250,000 to 350,000 round-trip)"
+            },
+            "visa_fee": {
+                "status": "NOT_COVERED",
+                "details": "Canadian Study Permit fee (CAD 150) and biometrics fee (CAD 85) paid by applicant.",
+                "amount": "Not covered (~CAD 235; ~PKR 48,000)"
+            },
+            "health_insurance": {
+                "status": "100% COVERED",
+                "details": "University Health Insurance Plan (UHIP) comprehensive medical insurance for international students in Ontario is covered directly under the graduate package (~CAD 756 / year value).",
+                "amount": "100% covered UHIP health insurance"
+            },
+            "food_allowance": {
+                "status": "INCLUDED_IN_STIPEND",
+                "details": "Living costs and groceries in London, Ontario (substantially more affordable than Toronto) are easily accommodated within the monthly stipend.",
+                "amount": "Covered from monthly living stipend"
+            },
+            "books_and_materials_allowance": {
+                "status": "100% COVERED",
+                "details": "Access to Western Libraries (D.B. Weldon, Allyn and Betty Taylor), Shark high-performance computing clusters, and departmental laboratories.",
+                "amount": "100% covered via institutional facilities"
+            },
+            "research_funding_conference_grant": {
+                "status": "COVERED",
+                "details": "SGPS Student Travel Awards and supervisor research grants provide up to CAD 1,500 to 2,500 for presenting papers at premier conferences.",
+                "amount": "Up to CAD 2,500 conference travel funding"
+            },
+            "travel_transit_allowance": {
+                "status": "100% COVERED",
+                "details": "London Transit Commission (LTC) bus pass provides unlimited transit throughout London, Ontario, included directly in standard student registration fees.",
+                "amount": "Unlimited transit via LTC bus pass"
+            },
+            "total_estimated_value_usd_per_year": 27000
+        },
+        "university_and_program_options": {
+            "single_or_multiple_universities": "Single host university (Western University, Ontario)",
+            "participating_institutions": [
+                "Western University - Main Campus (London, Ontario, Canada)"
+            ],
+            "university_rankings_scope": "U15 Group of Canadian Research Universities, QS World University Rankings #114 worldwide, top 10 in Canada for Computer Science and Medical Imaging.",
+            "available_majors": [
+                "Computer Science (MSc & PhD)",
+                "Artificial Intelligence and Machine Learning",
+                "Bioinformatics and Health Informatics",
+                "Computer Algebra and Symbolic Computation",
+                "Computer Networks and Distributed Systems",
+                "Software Engineering",
+                "Human-Computer Interaction",
+                "Game Development and Graphics"
+            ],
+            "english_taught_program_availability": True,
+            "program_duration": "MSc (Thesis): 2 years (6 terms); PhD: 4 years (12 terms)",
+            "admission_requirements_summary": "Online Western SGPS application form, official academic transcripts, curriculum vitae, statement of academic intent, official IELTS/TOEFL/DET score report, two academic letters of recommendation, and confirmed faculty supervisor endorsement.",
+            "is_admission_separate_from_scholarship": False,
+            "pre_admission_acceptance_letter_required": True,
+            "easiest_hardest_institutions_guidance": "Admission to the Artificial Intelligence and Bioinformatics laboratories receives intense competition; establishing early contact with faculty members and demonstrating published research or strong coding projects is essential.",
+            "strategic_program_match_advice": "Reach out to prospective supervisors between October and December. Send a concise email attaching your CV, academic transcript, and a 1-page summary of how your technical skills match their current research grants."
+        },
+        "application_process_roadmap": {
+            "submission_portal_url": "https://www.csd.uwo.ca/graduate/financial_support.html & https://grad.uwo.ca/admissions/apply.html",
+            "portal_system_name": "Western SGPS Online Graduate Admissions Portal",
+            "account_creation_instructions": "Create an applicant account on Western SGPS portal, select Computer Science thesis-based program, identify proposed supervisors, and upload digital application documents.",
+            "step_by_step_workflow": [
+                "Step 1: Explore faculty research groups and email prospective supervisors with CV and research interests (October - December).",
+                "Step 2: Take IELTS (min 6.5) or TOEFL (min 92) and ensure official electronic score reporting to Western University.",
+                "Step 3: Submit online application on Western SGPS portal and pay the CAD 150 application fee before the deadline (February 1).",
+                "Step 4: Upload unofficial transcripts, CV, and statement of academic intent.",
+                "Step 5: Academic referees submit confidential appraisal forms via automated institutional links.",
+                "Step 6: Prospective supervisors review shortlisted files and conduct online technical interviews (February - March).",
+                "Step 7: Departmental Graduate Committee issues formal admission and guaranteed funding offer letters (March - April).",
+                "Step 8: Accept the offer, apply for Canadian Provincial Attestation Letter (PAL) and Study Permit via IRCC.",
+                "Step 9: Arrive in London, Ontario in late August for international graduate orientation and commence studies in September."
+            ],
+            "university_vs_scholarship_routing": "Integrated Track: All admitted thesis-based graduate students automatically receive the guaranteed minimum funding package without separate scholarship application.",
+            "recommendation_letters_submission_method": "Submitted online by referees via secure automated links dispatched directly to their institutional email addresses.",
+            "personal_statement_prompts": "Statement of academic intent outlining academic background, specific research problems of interest, and reasons for choosing Western Computer Science.",
+            "study_plan_research_proposal_requirements": "Structured 1 to 2-page research outline highlighting technical methodologies and alignment with prospective faculty laboratories.",
+            "cv_format_requirements": "Curriculum vitae detailing education, technical skillsets, research publications, awards, and software projects.",
+            "interviews_conducted": True,
+            "interview_format_details": "30-minute online video interview conducted by the prospective faculty supervisor focusing on technical depth, programming ability, and research drive.",
+            "standardized_tests": "IELTS Academic (min 6.5) or TOEFL iBT (min 92) mandatory; GRE is not required for Computer Science at Western.",
+            "application_fee_amount": "CAD 150 (~USD 110; ~PKR 30,750)",
+            "attestation_requirements": "Degrees and transcripts must be attested by HEC Pakistan and official sealed transcripts sent upon admission offer.",
+            "translation_requirements": "Certified English translation required for any documents not issued in English.",
+            "final_submission_method": "100% digital submission via the Western SGPS graduate admissions portal."
+        },
+        "required_documents_checklist": [
+            {
+                "document_name": "Official Academic Transcripts and Degree Certificates",
+                "mandatory": True,
+                "specification": "Complete transcripts for all post-secondary education with minimum B+ / 78% average equivalent.",
+                "pakistan_specific_instruction": "Scanned color copies of HEC-attested Bachelor's/Master's degrees and semester-by-semester transcripts."
+            },
+            {
+                "document_name": "Statement of Academic Intent",
+                "mandatory": True,
+                "specification": "1 to 2-page essay detailing research interests, background, and alignment with prospective supervisors.",
+                "pakistan_specific_instruction": "Must clearly name 2-3 Western Computer Science faculty members whose research aligns with yours."
+            },
+            {
+                "document_name": "Official English Proficiency Score Report",
+                "mandatory": True,
+                "specification": "IELTS Academic (min 6.5 overall, 6.0 in each subtest), TOEFL iBT (min 92), or DET (min 115).",
+                "pakistan_specific_instruction": "Request testing agency to send official scores directly to Western University (institution code 0984)."
+            },
+            {
+                "document_name": "Two Academic Letters of Reference",
+                "mandatory": True,
+                "specification": "Confidential evaluation letters from academic professors who taught or supervised previous research.",
+                "pakistan_specific_instruction": "Referees must submit from official Pakistani university email addresses."
+            },
+            {
+                "document_name": "Updated Curriculum Vitae (CV)",
+                "mandatory": True,
+                "specification": "Detailed academic CV highlighting technical projects, publications, and programming proficiencies.",
+                "pakistan_specific_instruction": "Include links to open-source code repositories (GitHub) and published papers."
+            },
+            {
+                "document_name": "Valid Passport Copy",
+                "mandatory": True,
+                "specification": "Clear color copy of passport identification page valid for at least 2 years.",
+                "pakistan_specific_instruction": "Pakistani passport must have validity through late 2028."
+            }
+        ],
+        "important_dates_timeline": {
+            "application_open_date": "September 1",
+            "application_deadline": "February 1",
+            "university_admission_deadline": "February 1",
+            "document_submission_deadline": "February 10",
+            "recommendation_letters_deadline": "February 10",
+            "interview_period": "February 15 - March 30",
+            "shortlist_announcement": "March 15 - April 15",
+            "final_result_acceptance_deadline": "May 1",
+            "visa_application_window": "May 1 - July 15",
+            "semester_commencement": "Early September (Fall intake)",
+            "annual_cycle_notes": "Main intake is Fall semester (September commencement). Applications received by February 1 receive premier funding consideration."
+        },
+        "selection_process_and_weights": {
+            "academic_weight": "35% (Undergraduate/Master's GPA in core computing coursework)",
+            "extracurricular_and_leadership_weight": "5% (Technical community contributions and open-source engagement)",
+            "research_experience_weight": "35% (Prior research, publications, technical projects, and supervisor match)",
+            "work_experience_weight": "5% (Industry software engineering experience)",
+            "personal_statement_weight": "10% (Clarity of research intent and problem formulation)",
+            "recommendations_weight": "10% (Academic referee assessments on research potential)",
+            "interview_weight": "0% (Interview performance factored directly into supervisor endorsement)",
+            "test_scores_weight": "0% (English meets mandatory threshold)",
+            "financial_need_weight": "0% (Guaranteed merit-based departmental funding policy)",
+            "selection_panel_composition": "Departmental Graduate Admissions Committee and individual faculty principal investigators.",
+            "evaluation_methodology": "Two-phase evaluation: academic credential audit followed by faculty supervisor sponsorship and guaranteed funding commitment."
+        },
+        "competitiveness_profile": {
+            "total_annual_applicants": "~1,000 to 1,500 international graduate applicants for CS thesis programs",
+            "total_scholarships_awarded": "~60 to 80 fully funded graduate positions awarded annually",
+            "acceptance_rate_global": "~5.5% to 7.0%",
+            "acceptance_rate_pakistan": "~7.0% to 9.0% among competitive applicants with supervisor backing",
+            "typical_successful_applicant_gpa": "CGPA 3.60+ / 4.00 or 80%+ aggregate from leading Pakistani institutions (NUST, FAST, LUMS, GIKI, UET)",
+            "typical_academic_and_research_profile": "Graduates with solid computing fundamentals, strong programming abilities, and at least 1-2 published papers or substantial research thesis outcomes.",
+            "common_backgrounds_of_winners": "Graduates of Pakistani top computer science and software engineering programs.",
+            "high_representation_countries": "Canada, Iran, China, India, Pakistan, Nigeria, Bangladesh, Turkey.",
+            "competitiveness_tier": "HIGH"
+        },
+        "red_flags_and_warnings": {
+            "fake_websites_and_scams": [
+                "Beware of fraudulent educational consultancy agencies claiming guaranteed admission or funding packages to Western.",
+                "Legitimate applications are processed exclusively through uwo.ca."
+            ],
+            "application_fee_warning": "Western application fee is CAD 150 paid securely via the official portal; never pay fees to third-party brokers.",
+            "agent_and_intermediary_warnings": "Western University does not partner with recruitment agents for research-based graduate admissions.",
+            "hidden_costs_breakdown": [
+                "Application fee: CAD 150 (~PKR 30,750).",
+                "IELTS/TOEFL examination fee: ~PKR 60,000.",
+                "Canadian Study Permit and biometric fee: ~CAD 235 (~PKR 48,000).",
+                "Initial settling-in expenses upon arrival in London, Ontario: ~CAD 1,500 (~PKR 307,500)."
+            ],
+            "misleading_claims_debunked": [
+                "Myth: You can get admitted to thesis MSc without a supervisor. Reality: Computer Science at Western requires a confirmed supervisor before formal admission is granted.",
+                "Myth: The funding package requires repayment. Reality: The funding is non-repayable, provided via scholarships and graduate assistantships."
+            ],
+            "official_vs_unofficial_discrepancies": [
+                "Unofficial portals claim GRE is required; GRE is NOT required for Computer Science at Western."
+            ]
+        },
+        "scholarship_obligations_and_terms": {
+            "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.00 / 4.00 (Grade B) in graduate coursework throughout the degree program.",
+            "attendance_requirements": "Full-time on-campus academic standing and active participation in assigned laboratory research projects.",
+            "academic_progress_monitoring": "Annual Progress Report reviewed by the supervisory committee and the Graduate Program Director; satisfactory progress required for funding renewal.",
+            "work_restrictions_during_study": "Teaching/research assistantships are limited to an average of 10 hours per week during academic terms to prioritize thesis research.",
+            "home_country_return_obligation": "No mandatory return requirement; graduates are eligible for the Canadian Post-Graduation Work Permit (PGWP) for up to 3 years.",
+            "service_obligations_or_bonds": "Zero service bond or repayment obligation attached to the funding package.",
+            "repayment_clawback_conditions": "Funding discontinued if student withdraws without authorization or is dismissed for academic dishonesty.",
+            "rules_for_changing_university": "Non-transferable to other Canadian universities.",
+            "rules_for_changing_major": "Changing major requires formal re-application and approval by the new academic department.",
+            "extension_policy": "Funding is guaranteed for the standard program duration (2 years for MSc, 4 years for PhD); extensions are contingent on supervisor grant availability."
+        },
+        "official_sources_verified": [
+            {
+                "source_name": "Western University Computer Science Financial Support Portal",
+                "source_url": "https://www.csd.uwo.ca/graduate/financial_support.html",
+                "source_type": "OFFICIAL_UNIVERSITY",
+                "verified_date": "2026-10-07",
+                "data_points_missing_or_unpublished_by_source": []
+            },
+            {
+                "source_name": "Western School of Graduate and Postdoctoral Studies (SGPS)",
+                "source_url": "https://grad.uwo.ca/admissions/apply.html",
+                "source_type": "OFFICIAL_UNIVERSITY",
+                "verified_date": "2026-10-07",
+                "data_points_missing_or_unpublished_by_source": []
+            }
+        ]
+    },
+    "SCH-AM-033": {
+        "scholarship_id": "SCH-AM-033",
+        "basic_details": {
+            "scholarship_name": "McMaster University Graduate Scholarship & Assistantship in Computing & Software",
+            "offering_entity": "McMaster University Department of Computing and Software & School of Graduate Studies",
+            "host_country": "Canada",
+            "host_institutions_covered": "McMaster University Main Campus (Hamilton, Ontario, Canada)",
+            "degree_levels": ["Master of Science (MSc Thesis-based)", "Doctor of Philosophy (PhD)"],
+            "major_restrictions": "Department of Computing and Software: Computer Science, Software Engineering, Mechatronics, High-Performance Scientific Computing, Artificial Intelligence & Machine Learning, and Safety-Critical Systems.",
+            "number_of_awards_total": "~65 to 85 funded graduate research positions awarded annually across thesis-based MSc and PhD intakes",
+            "number_of_awards_pakistan": "Open international merit competition; Pakistani graduate researchers in computing secure ~6 to 11 fully funded positions annually",
+            "funding_classification": "FULLY_FUNDED",
+            "duration_of_scholarship": "Up to 2 years for MSc (Thesis); up to 4 years for PhD, subject to satisfactory annual academic and research progress"
+        },
+        "eligibility_requirements": {
+            "nationality_requirements": ["Open to Canadian and international students of all nationalities (Pakistan eligible)"],
+            "pakistan_eligible": True,
+            "age_limit_undergrad": None,
+            "age_limit_postgrad": None,
+            "age_limit_notes": "No formal age limit; evaluated on academic achievement and research capability.",
+            "academic_qualifications": "A recognized 4-year Bachelor's degree (16 years education) in Computer Science or Software Engineering with at least B+ standing (8.5/12 on McMaster scale, equivalent to 77-80% or CGPA 3.30 / 4.00) for MSc; a research Master's degree with A- standing (CGPA 3.70 / 4.00) for PhD from an HEC-recognized university in Pakistan.",
+            "minimum_gpa_percentage": 78.0,
+            "minimum_gpa_scale": 3.3,
+            "grading_conversion_notes": "Minimum B+ standing (8.5/12 McMaster scale, equivalent to 78%+ or 3.3/4.0) over the final two years of study.",
+            "subject_background_prerequisites": "Substantial background in software engineering, algorithms, operating systems, computer architecture, and discrete mathematics.",
+            "current_education_status": "Graduating seniors in their final semester can apply conditionally with expected graduation transcripts.",
+            "graduation_year_restrictions": "None.",
+            "work_experience_required": False,
+            "work_experience_minimum_years": 0.0,
+            "work_experience_notes": "Prior software development, open-source projects, or published research papers in IEEE/ACM venues significantly strengthen candidacy.",
+            "english_test_required": True,
+            "ielts_minimum": 6.5,
+            "toefl_minimum": 88,
+            "duolingo_accepted": False,
+            "moi_certificate_accepted": False,
+            "language_notes": "IELTS Academic minimum 6.5 overall (with no sub-score below 6.0) or TOEFL iBT minimum 88 (minimum 20 in each section). Official test reports mandatory.",
+            "other_language_requirements": "None; instruction and research conducted entirely in English.",
+            "gender_specific_requirements": "None.",
+            "financial_need_required": False,
+            "special_eligibility_categories": "Applicants must secure supervisory support from a McMaster Computing and Software faculty member prior to final admission approval.",
+            "previous_scholarship_restrictions": "Cannot hold concurrent full external government fellowships without university approval.",
+            "can_apply_result_awaiting": True
+        },
+        "financial_coverage_breakdown": {
+            "tuition_fee": {
+                "status": "PARTIAL",
+                "details": "International tuition fees (~CAD 10,000 to 15,000 / year) are offset through the International Excellence Award and departmental bursaries, with the balance paid directly out of the guaranteed funding package.",
+                "amount": "Covered via funding package (~CAD 12,000 / year; ~PKR 2,460,000 / year)"
+            },
+            "admission_application_fee": {
+                "status": "PAID BY APPLICANT",
+                "details": "McMaster University graduate application fee of CAD 150 (~USD 110; ~PKR 30,750) paid online via credit card.",
+                "amount": "CAD 150 (~PKR 30,750)"
+            },
+            "accommodation": {
+                "status": "PAID VIA STIPEND",
+                "details": "On-campus or off-campus rental apartments in Hamilton (average CAD 800 to 1,200 / month; ~USD 590 to 880 / month) comfortably paid out of the living stipend.",
+                "amount": "Paid from stipend (~CAD 1,000 / month; ~PKR 205,000 / mo)"
+            },
+            "monthly_stipend": {
+                "status": "100% COVERED",
+                "details": "Guaranteed minimum funding package: MSc Thesis students receive at least CAD 26,000 / year (~CAD 2,166 / month; ~PKR 444,000 / month); PhD students receive at least CAD 30,000 to 36,000 / year (~CAD 2,500 to 3,000 / month; ~PKR 512,500 to 615,000 / month), composed of McMaster Graduate Scholarship (MGS), Graduate Teaching Assistantships (GTA, ~CAD 6,500/year), and Graduate Research Assistantships (GRA).",
+                "amount": "CAD 26,000 to 36,000 / year (~PKR 444,000 to 615,000 / mo)"
+            },
+            "airfare": {
+                "status": "NOT_COVERED",
+                "details": "International airfare between Pakistan and Hamilton/Toronto is self-funded by the student.",
+                "amount": "Not covered (Self-funded ~PKR 250,000 to 350,000 round-trip)"
+            },
+            "visa_fee": {
+                "status": "NOT_COVERED",
+                "details": "Canadian Study Permit fee (CAD 150) and biometrics fee (CAD 85) paid by applicant.",
+                "amount": "Not covered (~CAD 235; ~PKR 48,000)"
+            },
+            "health_insurance": {
+                "status": "100% COVERED",
+                "details": "University Health Insurance Plan (UHIP) comprehensive medical insurance for international students in Ontario is covered directly under the graduate package (~CAD 756 / year value).",
+                "amount": "100% covered UHIP health insurance"
+            },
+            "food_allowance": {
+                "status": "INCLUDED_IN_STIPEND",
+                "details": "Living expenses and groceries in Hamilton are easily accommodated within the monthly stipend.",
+                "amount": "Covered from monthly living stipend"
+            },
+            "books_and_materials_allowance": {
+                "status": "100% COVERED",
+                "details": "Access to McMaster Mills Memorial Library, Thode Library of Science & Engineering, and high-performance computing clusters.",
+                "amount": "100% covered via institutional facilities"
+            },
+            "research_funding_conference_grant": {
+                "status": "COVERED",
+                "details": "School of Graduate Studies Travel Awards and supervisor research grants provide up to CAD 1,500 to 2,500 for presenting papers at premier conferences.",
+                "amount": "Up to CAD 2,500 conference travel funding"
+            },
+            "travel_transit_allowance": {
+                "status": "100% COVERED",
+                "details": "Hamilton Street Railway (HSR) bus pass provides unlimited transit throughout Hamilton, included directly in standard student registration fees.",
+                "amount": "Unlimited transit via HSR bus pass"
+            },
+            "total_estimated_value_usd_per_year": 28000
+        },
+        "university_and_program_options": {
+            "single_or_multiple_universities": "Single host university (McMaster University, Hamilton)",
+            "participating_institutions": [
+                "McMaster University - Main Campus (Hamilton, Ontario, Canada)"
+            ],
+            "university_rankings_scope": "U15 Group of Canadian Research Universities, QS World University Rankings #176 worldwide, Times Higher Education #103 globally, renowned for Engineering and Medicine.",
+            "available_majors": [
+                "Computer Science (MSc & PhD)",
+                "Software Engineering (MSc & PhD)",
+                "Mechatronics and Cyber-Physical Systems",
+                "Scientific Computation and High-Performance Computing",
+                "Artificial Intelligence and Machine Learning",
+                "Safety-Critical Systems and Formal Methods",
+                "Data Science and Systems Optimization"
+            ],
+            "english_taught_program_availability": True,
+            "program_duration": "MSc (Thesis): 2 years; PhD: 4 years",
+            "admission_requirements_summary": "Online McMaster application form, official academic transcripts, curriculum vitae, statement of interest, official IELTS/TOEFL score report, two academic letters of recommendation, and confirmed faculty supervisor endorsement.",
+            "is_admission_separate_from_scholarship": False,
+            "pre_admission_acceptance_letter_required": True,
+            "easiest_hardest_institutions_guidance": "Admission to the Software Engineering and Artificial Intelligence groups is highly selective; establishing early contact with faculty members and demonstrating published research or strong coding projects is essential.",
+            "strategic_program_match_advice": "Reach out to prospective supervisors between October and December. Send a concise email attaching your CV, academic transcript, and a 1-page summary of how your technical skills match their current research grants."
+        },
+        "application_process_roadmap": {
+            "submission_portal_url": "https://www.eng.mcmaster.ca/cas/programs/graduate/funding-and-scholarships & https://graduate.mcmaster.ca/academic-services/how-apply/",
+            "portal_system_name": "McMaster Mosaic Online Graduate Admissions Portal",
+            "account_creation_instructions": "Create an applicant account on McMaster Mosaic portal, select Computing and Software thesis-based program, identify proposed supervisors, and upload digital application documents.",
+            "step_by_step_workflow": [
+                "Step 1: Explore faculty research groups and email prospective supervisors with CV and research interests (October - December).",
+                "Step 2: Take IELTS (min 6.5) or TOEFL (min 88) and ensure official electronic score reporting to McMaster University.",
+                "Step 3: Submit online application on McMaster Mosaic portal and pay the CAD 150 application fee before the deadline (February 1).",
+                "Step 4: Upload unofficial transcripts, CV, and statement of interest.",
+                "Step 5: Academic referees submit confidential appraisal forms via automated institutional links.",
+                "Step 6: Prospective supervisors review shortlisted files and conduct online technical interviews (February - March).",
+                "Step 7: Departmental Graduate Committee issues formal admission and guaranteed funding offer letters (March - April).",
+                "Step 8: Accept the offer, apply for Canadian Provincial Attestation Letter (PAL) and Study Permit via IRCC.",
+                "Step 9: Arrive in Hamilton in late August for international graduate orientation and commence studies in September."
+            ],
+            "university_vs_scholarship_routing": "Integrated Track: All admitted thesis-based graduate students automatically receive the guaranteed minimum funding package without separate scholarship application.",
+            "recommendation_letters_submission_method": "Submitted online by referees via secure automated links dispatched directly to their institutional email addresses.",
+            "personal_statement_prompts": "Statement of interest outlining academic background, specific research problems of interest, and reasons for choosing McMaster Computing and Software.",
+            "study_plan_research_proposal_requirements": "Structured 1 to 2-page research outline highlighting technical methodologies and alignment with prospective faculty laboratories.",
+            "cv_format_requirements": "Curriculum vitae detailing education, technical skillsets, research publications, awards, and software projects.",
+            "interviews_conducted": True,
+            "interview_format_details": "30-minute online video interview conducted by the prospective faculty supervisor focusing on technical depth, programming ability, and research drive.",
+            "standardized_tests": "IELTS Academic (min 6.5) or TOEFL iBT (min 88) mandatory; GRE is not required for Computing and Software at McMaster.",
+            "application_fee_amount": "CAD 150 (~USD 110; ~PKR 30,750)",
+            "attestation_requirements": "Degrees and transcripts must be attested by HEC Pakistan and official sealed transcripts sent upon admission offer.",
+            "translation_requirements": "Certified English translation required for any documents not issued in English.",
+            "final_submission_method": "100% digital submission via the McMaster Mosaic graduate admissions portal."
+        },
+        "required_documents_checklist": [
+            {
+                "document_name": "Official Academic Transcripts and Degree Certificates",
+                "mandatory": True,
+                "specification": "Complete transcripts for all post-secondary education with minimum B+ / 8.5/12 McMaster average equivalent.",
+                "pakistan_specific_instruction": "Scanned color copies of HEC-attested Bachelor's/Master's degrees and semester-by-semester transcripts."
+            },
+            {
+                "document_name": "Statement of Interest",
+                "mandatory": True,
+                "specification": "1 to 2-page essay detailing research interests, background, and alignment with prospective supervisors.",
+                "pakistan_specific_instruction": "Must clearly name 2-3 McMaster Computing and Software faculty members whose research aligns with yours."
+            },
+            {
+                "document_name": "Official English Proficiency Score Report",
+                "mandatory": True,
+                "specification": "IELTS Academic (min 6.5 overall, 6.0 in each subtest) or TOEFL iBT (min 88).",
+                "pakistan_specific_instruction": "Request testing agency to send official scores directly to McMaster University (institution code 0936)."
+            },
+            {
+                "document_name": "Two Academic Letters of Reference",
+                "mandatory": True,
+                "specification": "Confidential evaluation letters from academic professors who taught or supervised previous research.",
+                "pakistan_specific_instruction": "Referees must submit from official Pakistani university email addresses."
+            },
+            {
+                "document_name": "Updated Curriculum Vitae (CV)",
+                "mandatory": True,
+                "specification": "Detailed academic CV highlighting technical projects, publications, and programming proficiencies.",
+                "pakistan_specific_instruction": "Include links to open-source code repositories (GitHub) and published papers."
+            },
+            {
+                "document_name": "Valid Passport Copy",
+                "mandatory": True,
+                "specification": "Clear color copy of passport identification page valid for at least 2 years.",
+                "pakistan_specific_instruction": "Pakistani passport must have validity through late 2028."
+            }
+        ],
+        "important_dates_timeline": {
+            "application_open_date": "September 1",
+            "application_deadline": "February 1",
+            "university_admission_deadline": "February 1",
+            "document_submission_deadline": "February 15",
+            "recommendation_letters_deadline": "February 15",
+            "interview_period": "February 15 - March 30",
+            "shortlist_announcement": "March 15 - April 15",
+            "final_result_acceptance_deadline": "May 1",
+            "visa_application_window": "May 1 - July 15",
+            "semester_commencement": "Early September (Fall intake)",
+            "annual_cycle_notes": "Main intake is Fall semester (September commencement). Applications received by February 1 receive premier funding consideration."
+        },
+        "selection_process_and_weights": {
+            "academic_weight": "35% (Undergraduate/Master's GPA in core computing coursework)",
+            "extracurricular_and_leadership_weight": "5% (Technical community contributions and open-source engagement)",
+            "research_experience_weight": "35% (Prior research, publications, technical projects, and supervisor match)",
+            "work_experience_weight": "5% (Industry software engineering experience)",
+            "personal_statement_weight": "10% (Clarity of research intent and problem formulation)",
+            "recommendations_weight": "10% (Academic referee assessments on research potential)",
+            "interview_weight": "0% (Interview performance factored directly into supervisor endorsement)",
+            "test_scores_weight": "0% (English meets mandatory threshold)",
+            "financial_need_weight": "0% (Guaranteed merit-based departmental funding policy)",
+            "selection_panel_composition": "Departmental Graduate Admissions Committee and individual faculty principal investigators.",
+            "evaluation_methodology": "Two-phase evaluation: academic credential audit followed by faculty supervisor sponsorship and guaranteed funding commitment."
+        },
+        "competitiveness_profile": {
+            "total_annual_applicants": "~1,100 to 1,600 international graduate applicants for CS thesis programs",
+            "total_scholarships_awarded": "~65 to 85 fully funded graduate positions awarded annually",
+            "acceptance_rate_global": "~5.5% to 7.0%",
+            "acceptance_rate_pakistan": "~6.5% to 8.5% among competitive applicants with supervisor backing",
+            "typical_successful_applicant_gpa": "CGPA 3.60+ / 4.00 or 80%+ aggregate from leading Pakistani institutions (NUST, FAST, LUMS, GIKI, UET)",
+            "typical_academic_and_research_profile": "Graduates with solid computing fundamentals, strong programming abilities, and at least 1-2 published papers or substantial research thesis outcomes.",
+            "common_backgrounds_of_winners": "Graduates of Pakistani top computer science and software engineering programs.",
+            "high_representation_countries": "Canada, Iran, China, India, Pakistan, Nigeria, Bangladesh, Turkey.",
+            "competitiveness_tier": "HIGH"
+        },
+        "red_flags_and_warnings": {
+            "fake_websites_and_scams": [
+                "Beware of fraudulent educational consultancy agencies claiming guaranteed admission or funding packages to McMaster.",
+                "Legitimate applications are processed exclusively through mcmaster.ca."
+            ],
+            "application_fee_warning": "McMaster application fee is CAD 150 paid securely via the official portal; never pay fees to third-party brokers.",
+            "agent_and_intermediary_warnings": "McMaster University does not partner with recruitment agents for research-based graduate admissions.",
+            "hidden_costs_breakdown": [
+                "Application fee: CAD 150 (~PKR 30,750).",
+                "IELTS/TOEFL examination fee: ~PKR 60,000.",
+                "Canadian Study Permit and biometric fee: ~CAD 235 (~PKR 48,000).",
+                "Initial settling-in expenses upon arrival in Hamilton: ~CAD 1,500 (~PKR 307,500)."
+            ],
+            "misleading_claims_debunked": [
+                "Myth: You can get admitted to thesis MSc without a supervisor. Reality: Computing and Software at McMaster requires a confirmed supervisor before formal admission is granted.",
+                "Myth: The funding package requires repayment. Reality: The funding is non-repayable, provided via scholarships and graduate assistantships."
+            ],
+            "official_vs_unofficial_discrepancies": [
+                "Unofficial portals claim GRE is required; GRE is NOT required for Computing and Software at McMaster."
+            ]
+        },
+        "scholarship_obligations_and_terms": {
+            "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.00 / 4.00 (Grade B) in graduate coursework throughout the degree program.",
+            "attendance_requirements": "Full-time on-campus academic standing and active participation in assigned laboratory research projects.",
+            "academic_progress_monitoring": "Annual Progress Report reviewed by the supervisory committee and the Graduate Program Director; satisfactory progress required for funding renewal.",
+            "work_restrictions_during_study": "Teaching/research assistantships are limited to an average of 10 hours per week during academic terms to prioritize thesis research.",
+            "home_country_return_obligation": "No mandatory return requirement; graduates are eligible for the Canadian Post-Graduation Work Permit (PGWP) for up to 3 years.",
+            "service_obligations_or_bonds": "Zero service bond or repayment obligation attached to the funding package.",
+            "repayment_clawback_conditions": "Funding discontinued if student withdraws without authorization or is dismissed for academic dishonesty.",
+            "rules_for_changing_university": "Non-transferable to other Canadian universities.",
+            "rules_for_changing_major": "Changing major requires formal re-application and approval by the new academic department.",
+            "extension_policy": "Funding is guaranteed for the standard program duration (2 years for MSc, 4 years for PhD); extensions are contingent on supervisor grant availability."
+        },
+        "official_sources_verified": [
+            {
+                "source_name": "McMaster Computing and Software Graduate Funding Portal",
+                "source_url": "https://www.eng.mcmaster.ca/cas/programs/graduate/funding-and-scholarships",
+                "source_type": "OFFICIAL_UNIVERSITY",
+                "verified_date": "2026-10-07",
+                "data_points_missing_or_unpublished_by_source": []
+            },
+            {
+                "source_name": "McMaster School of Graduate Studies",
+                "source_url": "https://graduate.mcmaster.ca/academic-services/how-apply/",
+                "source_type": "OFFICIAL_UNIVERSITY",
+                "verified_date": "2026-10-07",
+                "data_points_missing_or_unpublished_by_source": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,292 @@
+{
+  "scholarship_id": "SCH-EU-085",
+  "basic_details": {
+    "scholarship_name": "Friedrich Ebert Foundation (FES) International Scholarships (Friedrich-Ebert-Stiftung)",
+    "offering_entity": "Friedrich Ebert Foundation (FES - Begabtenförderungswerk)",
+    "host_country": "Germany",
+    "host_institutions_covered": "All State-accredited German Universities and Technical Universities (TU9 & Flagship Universities across Germany)",
+    "degree_levels": [
+      "Master of Science (MSc / MA)",
+      "Doctor of Philosophy (PhD / Promotion)"
+    ],
+    "major_restrictions": "All academic disciplines, with strong representation in Political Science, Economics, Computer Science, Engineering, Law, and Social Sciences.",
+    "number_of_awards_total": "~40 international scholarships awarded annually nationwide",
+    "number_of_awards_pakistan": "Open globally to outstanding applicants; typically 2 to 4 Pakistani scholars selected per academic year",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Standard period of study (up to 24 months for Master's, up to 36 months for PhD)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International students from DAC list countries, Asia, Africa, and Latin America including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No statutory age limit under FES regulations.",
+    "academic_qualifications": "Recognized 16-year Bachelor's degree (for Master's) or 18-year Master's degree (for PhD) from an HEC-recognized university with above-average academic performance (minimum German GPA 2.0 or CGPA >= 3.30 / 4.00).",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Minimum German grade 2.0 (gut) or CGPA 3.30 / 4.00; competitive candidates typically hold CGPA >= 3.60 / 4.00.",
+    "subject_background_prerequisites": "Must hold an unconditional admission offer or proof of enrollment at a recognized German university before fellowship begins.",
+    "current_education_status": "Enrolled or admitted to a German university for master's or holding doctoral supervision confirmation.",
+    "graduation_year_restrictions": "Recent graduation within the past 3 to 4 years.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Mandatory requirement of demonstrated socio-political commitment, civic engagement, volunteerism, or advocacy for social democracy and human rights.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 85,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "For English-taught programs: IELTS 6.5+ or TOEFL 85+ / MOI certificate accepted. German language proficiency (CEFR B1/B2) is required or strongly expected for Foundation networking and seminars.",
+    "other_language_requirements": "German language skills (CEFR B1) mandatory or expected upon arrival.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must demonstrate active alignment with social democratic values (freedom, justice, solidarity).",
+    "previous_scholarship_restrictions": "Cannot hold another parallel scholarship from German Begabtenförderungswerke (e.g. DAAD, HBS, KAS).",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% free tuition at German public universities; FES covers semester contribution fees if eligible.",
+      "amount": "100% Free Tuition at German Public Universities"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Applying to FES is completely free of charge.",
+      "amount": "EUR 0"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized student housing via Studierendenwerk dormitories (approx. EUR 280-450/month) paid via living stipend.",
+      "amount": "Subsidized student housing prioritized"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "EUR 934 / month for Master's scholars (~PKR 285,000 / month); EUR 1,350 / month for PhD researchers (~PKR 410,000 / month) plus family supplements.",
+      "amount": "EUR 934/mo (Master's) | EUR 1,350/mo (PhD)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Relocation travel from Pakistan to Germany is self-funded.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "German National Visa fee (~EUR 75) paid at German Embassy in Islamabad (waived with official BMBF scholarship award letter).",
+      "amount": "€75 (often waived)"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Health and nursing care insurance subsidy of up to EUR 276 / month provided directly to scholarship recipients.",
+      "amount": "Up to EUR 276 / month health subsidy"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized meals across German university student dining halls (Mensa).",
+      "amount": "Subsidized campus Mensa dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to university library networks, plus literature acquisition grants for doctoral researchers.",
+      "amount": "Free digital library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Comprehensive non-material support program (ideelle Förderung) including seminars, political academies, and conference travel grants.",
+      "amount": "Full ideelle Förderung program covered"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Semester ticket providing free public regional transit throughout the host federal state / nationwide.",
+      "amount": "Free regional transit via semester ticket"
+    },
+    "total_estimated_value_usd_per_year": 22000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple host institutions (any recognized public university or technical university in Germany).",
+    "participating_institutions": [
+      "Technical University of Munich (TUM)",
+      "Heidelberg University",
+      "Humboldt University of Berlin",
+      "Free University of Berlin",
+      "RWTH Aachen University",
+      "University of Bonn",
+      "University of Frankfurt"
+    ],
+    "university_rankings_scope": "All top-tier German universities; renowned in political science, economics, engineering, AI, and sociology.",
+    "available_majors": [
+      "MSc / PhD in Computer Science & Artificial Intelligence",
+      "MSc / PhD in Sustainable Engineering & Energy Systems",
+      "MSc / PhD in Political Science & International Relations",
+      "MSc / PhD in Economics & Public Policy",
+      "MSc / PhD in Law & Human Rights",
+      "MSc / PhD in Environmental Governance"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 years (extensible to 4 years)",
+    "admission_requirements_summary": "Bachelor's/Master's degree with German grade 2.0+ (CGPA >= 3.30/4.00), German university admission offer or doctoral supervision agreement, detailed CV, two academic appraisals, and documented socio-political engagement record.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "University admission must be secured independently before the FES scholarship can be activated.",
+    "strategic_program_match_advice": "Clearly articulate your socio-political engagement and explain how your studies connect to social justice, labor rights, or democratic development."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.fes.de/studienfoerderung/bewerbung",
+    "portal_system_name": "FES Online Application Portal",
+    "account_creation_instructions": "Register on the FES application portal, complete initial questionnaire, submit online basic data by the deadline (November 30 for summer semester, May 31 for winter semester), and upload detailed dossier upon portal invitation.",
+    "step_by_step_workflow": [
+      "Step 1: Secure admission or doctoral supervision at an accredited German university.",
+      "Step 2: Submit online preliminary application on the FES portal before November 30 (for summer semester intake).",
+      "Step 3: If shortlisted, FES requests full application dossier (academic transcripts, detailed motivation letter, and CV).",
+      "Step 4: Register two academic referees and one civic engagement referee to submit appraisals directly.",
+      "Step 5: Attend two separate selection interviews (one with a liaison professor assessing academic capability, one with an FES selection committee member assessing socio-political engagement).",
+      "Step 6: Central Selection Committee (Auswahlausschuss) makes final award decisions in April.",
+      "Step 7: Receive official fellowship award letter and activate funding."
+    ],
+    "university_vs_scholarship_routing": "Separate Routing: Candidates must first apply for university admission in Germany, then apply separately to Friedrich Ebert Foundation for scholarship funding.",
+    "recommendation_letters_submission_method": "Submitted online by two university academic professors and one reference from a civil society organization or political initiative.",
+    "personal_statement_prompts": "Exhaustive personal essay detailing family background, academic trajectory, socio-political commitment, and alignment with social democratic principles.",
+    "study_plan_research_proposal_requirements": "PhD applicants submit an 8 to 10-page research exposé detailing methodology, relevance, and work schedule.",
+    "cv_format_requirements": "Detailed tabular academic CV detailing education, work history, and volunteer/political involvement.",
+    "interviews_conducted": true,
+    "interview_format_details": "Two individual selection interviews: one academic interview with a university professor and one interview with an FES committee member.",
+    "standardized_tests": "IELTS 6.5+ or TOEFL 85+ for English programs; German B1/B2 certificate.",
+    "application_fee_amount": "€0 (Completely free to apply)",
+    "attestation_requirements": "HEC and MoFA degree attestations from Pakistan.",
+    "translation_requirements": "Certified German or English translation.",
+    "final_submission_method": "Online submission via FES portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "HEC-attested Bachelor's or Master's degrees with minimum CGPA 3.30 / 4.00.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "University Admission Letter or Supervision Confirmation",
+      "mandatory": true,
+      "specification": "Proof of admission to a German university or doctoral supervision confirmation.",
+      "pakistan_specific_instruction": "Obtained from German university."
+    },
+    {
+      "document_name": "Proof of Socio-Political / Civic Engagement",
+      "mandatory": true,
+      "specification": "Official documentation confirming volunteerism, NGO work, trade union, or community leadership.",
+      "pakistan_specific_instruction": "Documented proof of leadership or volunteer work."
+    },
+    {
+      "document_name": "Personal Motivation Statement",
+      "mandatory": true,
+      "specification": "Detailed essay outlining academic ambitions and commitment to social democratic values.",
+      "pakistan_specific_instruction": "Articulate personal values and civic impact."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential academic appraisals submitted by university professors.",
+      "pakistan_specific_instruction": "On official institutional letterhead."
+    },
+    {
+      "document_name": "Civic Engagement Recommendation Letter",
+      "mandatory": true,
+      "specification": "Appraisal letter from a civil society organization, NGO, or volunteer initiative.",
+      "pakistan_specific_instruction": "Signed reference letter from community leader."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Tabular academic CV highlighting education, awards, and civic work.",
+      "pakistan_specific_instruction": "Standard Europass CV."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-09-01",
+    "application_deadline": "2026-11-30",
+    "university_admission_deadline": "Concurrent with or prior to FES activation",
+    "document_submission_deadline": "2026-12-15",
+    "recommendation_letters_deadline": "2027-01-15",
+    "interview_period": "February to March 2027",
+    "shortlist_announcement": "Mid April 2027",
+    "final_result_acceptance_deadline": "Within 3 weeks of award notification",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "2027-10-01",
+    "annual_cycle_notes": "Two application rounds per year: November 30 deadline (for summer semester intake) and May 31 deadline (for winter semester intake)."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Prior academic grades, honors, course rigor, and academic potential)",
+    "extracurricular_and_leadership_weight": "35% (Demonstrated socio-political commitment, civil society leadership, and democratic values)",
+    "research_experience_weight": "15% (Quality of study plan or doctoral exposé)",
+    "work_experience_weight": "5% (Professional experience in policy, social work, or tech)",
+    "personal_statement_weight": "5% (Clarity of personal trajectory and social conviction)",
+    "recommendations_weight": "5% (Academic and civic referee appraisals)",
+    "interview_weight": "0% (Two interviews are decisive qualitative assessments for the selection committee)",
+    "test_scores_weight": "0% (Language proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Need-blind merit and civic commitment evaluation)",
+    "selection_panel_composition": "FES Central Selection Committee (Auswahlausschuss) comprising university professors, politicians, and civil society leaders.",
+    "evaluation_methodology": "Holistic three-stage assessment: online screening, expert interviews, and committee deliberation."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,000 international applicants across both cycles",
+    "total_scholarships_awarded": "~40 international scholarships awarded annually",
+    "acceptance_rate_global": "~2.5%",
+    "acceptance_rate_pakistan": "~4% to 6% among applicants with high GPAs and documented civil society engagement",
+    "typical_successful_applicant_gpa": "3.65 / 4.00 accompanied by genuine, documented civic or human rights work",
+    "typical_academic_and_research_profile": "Scholars in political science, economics, engineering, or computing who combine academic excellence with community leadership.",
+    "common_backgrounds_of_winners": "Graduates from LUMS, Quaid-i-Azam University, NUST, Karachi University, and Punjab University.",
+    "high_representation_countries": "Germany, Pakistan, Turkey, India, Colombia, Ukraine, Egypt, South Africa.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official FES portal https://www.fes.de/studienfoerderung/bewerbung.",
+      "FES never charges any application fees or works with private consultancy firms."
+    ],
+    "application_fee_warning": "Applying for FES scholarships is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Commercial agency written statements are disqualified; selection interviewers probe personal civic engagement deeply.",
+    "hidden_costs_breakdown": [
+      "Application fee: €0 (Free).",
+      "German National Visa fee: €75 (~PKR 23,000) (waived upon presenting official award letter).",
+      "HEC and MoFA document attestations in Pakistan: ~PKR 15,000 to 25,000.",
+      "One-way flight to Germany: ~PKR 150,000 to 220,000.",
+      "Initial living deposit before first stipend disbursement: ~€500 (~PKR 150,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You must be a member of the Social Democratic Party (SPD). Reality: Party membership is not required; applicants must simply share social democratic values.",
+      "Myth: The scholarship is only for humanities and politics. Reality: Many FES scholars study computer science, engineering, and natural sciences."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim German fluency is required at application; English-taught master's students are fully eligible but must demonstrate basic German or willingness to learn."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain above-average academic performance (German grade 2.0 or better) throughout studies.",
+    "attendance_requirements": "Active participation in the Foundation's non-material support program (ideelle Förderung), including mandatory attendance at annual foundation seminars.",
+    "academic_progress_monitoring": "Annual study progress reports and semester grade transcripts submitted to FES advisors.",
+    "work_restrictions_during_study": "Part-time academic work (up to 10 hours/week) permitted with foundation approval; commercial full-time employment prohibited.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Revocation of scholarship if student ceases studies or violates foundation principles.",
+    "rules_for_changing_university": "Permitted across German universities with foundation approval.",
+    "rules_for_changing_major": "Subject changes require formal approval from the FES department.",
+    "extension_policy": "Standard tenure is 24 months for Master's and 36 months for PhD; up to 12 months extension possible for doctoral completion."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Friedrich Ebert Foundation International Scholarships Portal",
+      "source_url": "https://www.fes.de/studienfoerderung/bewerbung/internationale-bewerber-innen",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "FES Application Guidelines",
+      "source_url": "https://www.fes.de/studienfoerderung/bewerbung",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

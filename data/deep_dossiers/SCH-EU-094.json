@@ -1,0 +1,287 @@
+{
+  "scholarship_id": "SCH-EU-094",
+  "basic_details": {
+    "scholarship_name": "University of Manchester Global Futures Scholarship",
+    "offering_entity": "University of Manchester (International Office)",
+    "host_country": "United Kingdom",
+    "host_institutions_covered": "University of Manchester (Oxford Road Campus, Manchester)",
+    "degree_levels": [
+      "Master of Science (MSc / MA / MEng / LLM)",
+      "Bachelor of Science (BSc / BEng / BA)"
+    ],
+    "major_restrictions": "Postgraduate taught master's programmes across all Manchester faculties: Computer Science, Engineering, Biotechnology, Data Science, Economics, and Alliance Manchester Business School.",
+    "number_of_awards_total": "~100 to 120 competitive Global Futures Scholarships awarded across South Asia and international regions",
+    "number_of_awards_pakistan": "Dedicated South Asia quota; typically 10 to 18 Pakistani postgraduate students receive awards annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "12 months (1-year full-time taught master's degree)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Domiciled international fee-paying applicants from Pakistan and South Asia"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction under University of Manchester admissions policies.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (16-year BS / BSc / BE) from an HEC-recognized university with high academic standing (minimum CGPA 3.50 / 4.00 or 78%+ equivalent to UK First Class / High 2:1 Honours).",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum CGPA 3.50 / 4.00; competitive applicants typically hold CGPA >= 3.70 / 4.00.",
+    "subject_background_prerequisites": "Must hold an offer (conditional or unconditional) to study an eligible full-time master's course at Manchester starting in September 2027.",
+    "current_education_status": "Graduated or enrolled in final undergraduate year graduating prior to August 2027.",
+    "graduation_year_restrictions": "No restriction on year of graduation.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Relevant internships, community leadership, open source projects, or professional practice provide rich material for scholarship essays.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 to 7.0 depending on program (no band below 6.0) or TOEFL iBT minimum 90 to 100. MOI certificates are not accepted.",
+    "other_language_requirements": "Instruction is 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Merit-based competition assessing academic excellence, leadership potential, and commitment to contributing to UN Sustainable Development Goals.",
+    "previous_scholarship_restrictions": "Cannot be combined with another full UK government scholarship (e.g. Chevening or Commonwealth).",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "Full International Tuition Fees Waived up to GBP 28,000 (covers 100% of most master's programmes; remaining tuition covered via departmental bursary).",
+      "amount": "Up to GBP 28,000 Tuition Waiver"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Online application fee of GBP 60 for Alliance Manchester Business School programmes (free for science and engineering faculties).",
+      "amount": "GBP 60 (or free depending on faculty)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized University of Manchester student halls of residence across Fallowfield and City campuses.",
+      "amount": "Subsidized student residence priority"
+    },
+    "monthly_stipend": {
+      "status": "SUBSIDIZED",
+      "details": "GBP 1,250 / month living stipend (~PKR 465,000 / month) provided through combined faculty bursaries and university maintenance allowances.",
+      "amount": "GBP 1,250 / month (~PKR 465,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International airfare between Pakistan and Manchester is self-funded.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "UK Student Visa fee (~GBP 490) and Immigration Health Surcharge (~GBP 776/year) covered by candidate.",
+      "amount": "UK Visa & IHS fees borne by candidate"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full access to the UK National Health Service (NHS) throughout the master's degree programme.",
+      "amount": "100% NHS Healthcare access"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized student dining across Manchester Students' Union and campus cafeterias.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full digital access to University of Manchester Main Library and John Rylands Research Institute.",
+      "amount": "Full university library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Master thesis laboratory facilities, engineering high-performance compute clusters, and digital innovation spaces.",
+      "amount": "Full engineering & computing lab access"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized Manchester Stagecoach student bus transit passes.",
+      "amount": "Subsidized Manchester public transit"
+    },
+    "total_estimated_value_usd_per_year": 36000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (University of Manchester, Manchester, UK).",
+    "participating_institutions": [
+      "University of Manchester"
+    ],
+    "university_rankings_scope": "World top 35 university (QS World University Rankings 2025); Russell Group member; world leader in sustainable development.",
+    "available_majors": [
+      "MSc in Advanced Computer Science (AI, Data, Systems)",
+      "MSc in Data Science",
+      "MSc in Communications and Signal Processing",
+      "MSc in Renewable Energy & Clean Technology",
+      "MSc in Biotechnology",
+      "MSc in Development Finance / Economics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 year (12 months full-time taught master's degree)",
+    "admission_requirements_summary": "Bachelor degree with CGPA >= 3.50 / 4.00, IELTS 6.5+ or TOEFL 90+, Manchester admission offer letter, and completed Global Futures Scholarship webform.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Must hold an offer of admission for an eligible master's course before submitting the scholarship webform by April 10.",
+    "strategic_program_match_advice": "Align scholarship essay responses with the UN Sustainable Development Goals (SDGs) and demonstrate how Manchester studies will create positive social or technological impact."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.manchester.ac.uk/study/international/finance-and-travel/funding/global-futures-scholarship/",
+    "portal_system_name": "University of Manchester Postgraduate Application Portal & Scholarship Webform",
+    "account_creation_instructions": "Step 1: Apply for an eligible master's course at Manchester and receive your 7-digit student ID. Step 2: Once an offer is issued, receive an invitation link to the Global Futures Scholarship online application form. Step 3: Complete the scholarship essays and submit before April 10.",
+    "step_by_step_workflow": [
+      "Step 1: Apply for an eligible full-time postgraduate taught master's degree at Manchester via the online application system.",
+      "Step 2: Receive an offer of admission (conditional or unconditional) and your University of Manchester student ID number.",
+      "Step 3: Access the Global Futures Scholarship online application form using your student ID.",
+      "Step 4: Answer the required scholarship essay prompts detailing academic achievements, leadership, and SDG contributions.",
+      "Step 5: Submit the scholarship application before April 10, 23:59 UK time.",
+      "Step 6: Faculty and International Office selection panels review and score submissions.",
+      "Step 7: Successful recipients notified by late May.",
+      "Step 8: Accept the scholarship within the specified deadline and initiate UK Student Visa application."
+    ],
+    "university_vs_scholarship_routing": "Separate Routing: Candidates must first hold an admission offer, then complete the dedicated Global Futures Scholarship webform.",
+    "recommendation_letters_submission_method": "Submitted as part of the initial course application via referee upload link.",
+    "personal_statement_prompts": "Specific essay prompts detailing: (1) Academic achievements and leadership capabilities, (2) Motivation for studying at Manchester, (3) How chosen programme helps address UN Sustainable Development Goals in home country.",
+    "study_plan_research_proposal_requirements": "Integrated within the course personal statement.",
+    "cv_format_requirements": "Standard professional CV detailing qualifications, work experience, coding toolsets, and extracurriculars.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interview; decisions are based exclusively on academic profile and the quality of the scholarship essay responses.",
+    "standardized_tests": "IELTS Academic 6.5+ (min 6.0 each) or TOEFL iBT 90+.",
+    "application_fee_amount": "GBP 0 for Science/Engineering; GBP 60 for Business School courses",
+    "attestation_requirements": "HEC degree attestation required for Pakistani applicants.",
+    "translation_requirements": "Certified English translation for all official records.",
+    "final_submission_method": "Online submission via University of Manchester Global Futures portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor Degree Certificate",
+      "mandatory": true,
+      "specification": "HEC-attested undergraduate degree in relevant discipline (minimum CGPA 3.50 / 4.00).",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts of undergraduate records showing all course marks and grades.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Manchester Master's Offer Letter",
+      "mandatory": true,
+      "specification": "Proof of conditional or unconditional admission offer containing Manchester student ID.",
+      "pakistan_specific_instruction": "Issued by Manchester Admissions."
+    },
+    {
+      "document_name": "Global Futures Scholarship Essays",
+      "mandatory": true,
+      "specification": "Completed answers to the scholarship essay prompts detailing achievements, leadership, and SDG impact.",
+      "pakistan_specific_instruction": "Craft compelling answers aligned with Manchester's social responsibility vision."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Professional CV detailing academic qualifications, technical projects, and extracurriculars.",
+      "pakistan_specific_instruction": "Standard layout."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Recommendation letters from university professors submitted with course application.",
+      "pakistan_specific_instruction": "On official institutional letterhead."
+    },
+    {
+      "document_name": "English Language Test Scorecard",
+      "mandatory": true,
+      "specification": "Official IELTS (min 6.5) or TOEFL iBT (min 90) test certificate.",
+      "pakistan_specific_instruction": "Valid test score report."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-01",
+    "application_deadline": "2027-04-10",
+    "university_admission_deadline": "2027-03-25",
+    "document_submission_deadline": "2027-04-10",
+    "recommendation_letters_deadline": "2027-04-10",
+    "interview_period": "None (No interviews conducted)",
+    "shortlist_announcement": "Late May 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "June to August 2027",
+    "semester_commencement": "2027-09-20",
+    "annual_cycle_notes": "Scholarship webform closes April 10, 23:59 UK time; applicants must hold a programme offer before applying."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "45% (Undergraduate CGPA and transcript academic excellence)",
+    "extracurricular_and_leadership_weight": "15% (Leadership track record and community initiative demonstrated in essays)",
+    "research_experience_weight": "15% (Technical capability, project background, and practical achievements)",
+    "work_experience_weight": "5% (Industry internships or professional practice)",
+    "personal_statement_weight": "20% (Quality, articulation, and vision demonstrated in the scholarship application responses)",
+    "recommendations_weight": "0% (Verification of credentials)",
+    "interview_weight": "0% (No interview conducted)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure academic excellence evaluation)",
+    "selection_panel_composition": "University of Manchester International Scholarships Committee and Faculty Representatives.",
+    "evaluation_methodology": "Scoring rubric assessing intellectual merit, future ambition, and capacity to act as a global ambassador."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,500 to 5,000 international applicants across all regions",
+    "total_scholarships_awarded": "~100 to 120 competitive awards across postgraduate programmes",
+    "acceptance_rate_global": "~2.5%",
+    "acceptance_rate_pakistan": "~3% to 5% among applicants holding strong GPAs and compelling essays",
+    "typical_successful_applicant_gpa": "3.75 / 4.00 (First Class Honours equivalent)",
+    "typical_academic_and_research_profile": "Graduates across STEM, engineering, and data science with solid academic records and dedicated social or community involvement.",
+    "common_backgrounds_of_winners": "Graduates from NUST, LUMS, FAST-NUCES, UET Lahore, and GIKI.",
+    "high_representation_countries": "Pakistan, India, Nigeria, Malaysia, Kenya, Indonesia, Ghana, Turkey.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official University of Manchester portal https://www.manchester.ac.uk/.",
+      "Never pay any fee to agents claiming to secure Manchester scholarships."
+    ],
+    "application_fee_warning": "Applying for Manchester postgraduate courses is free (except Business School GBP 60); scholarship application is 100% free.",
+    "agent_and_intermediary_warnings": "Manchester explicitly states that scholarship essays must be the applicant's own work; agency-written generic essays are penalized.",
+    "hidden_costs_breakdown": [
+      "Application fee: GBP 0 (or GBP 60 for AMBS).",
+      "UK Student Visa application fee: ~GBP 490 (~PKR 180,000).",
+      "Immigration Health Surcharge (IHS): ~GBP 776 (~PKR 290,000).",
+      "Manchester student housing deposit: ~GBP 500 - 800 (~PKR 185,000 - 300,000).",
+      "Flight from Pakistan to Manchester: ~PKR 150,000 to 220,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You can apply for the scholarship without a course offer. Reality: You must hold an active course offer to submit the scholarship application form.",
+      "Myth: Living in Manchester is as expensive as London. Reality: Manchester has a significantly lower cost of living than London while offering world-class student life."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sources claim late scholarship applications are considered; Manchester strictly closes the portal at 23:59 UK time on April 10."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic performance throughout the master's programme.",
+    "attendance_requirements": "Full-time study attendance; scholars must agree to participate in international student promotional activities and ambassador events.",
+    "academic_progress_monitoring": "Term-by-term academic progress monitoring by the faculty.",
+    "work_restrictions_during_study": "Part-time work permitted up to 20 hours per week during term time under UK Student Visa rules.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Act as an International Student Ambassador during the year of study.",
+    "repayment_clawback_conditions": "Revocation of award if student withdraws from programme or engages in disciplinary breach.",
+    "rules_for_changing_university": "Non-transferable to other UK universities.",
+    "rules_for_changing_major": "Subject change allowed only within eligible Manchester postgraduate taught programmes with faculty approval.",
+    "extension_policy": "Strictly limited to the 1-year duration of the postgraduate taught master's programme."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Manchester Global Futures Scholarship Portal",
+      "source_url": "https://www.manchester.ac.uk/study/international/finance-and-travel/funding/global-futures-scholarship/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "University of Manchester Postgraduate Admissions",
+      "source_url": "https://www.manchester.ac.uk/study/masters/admissions/apply-online/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

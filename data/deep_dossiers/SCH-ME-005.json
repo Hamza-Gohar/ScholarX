@@ -1,0 +1,269 @@
+{
+  "scholarship_id": "SCH-ME-005",
+  "basic_details": {
+    "scholarship_name": "King Abdulaziz University (KAU) Scholarship",
+    "offering_entity": "King Abdulaziz University (KAU) & Ministry of Education, Kingdom of Saudi Arabia",
+    "host_country": "Saudi Arabia",
+    "host_institutions_covered": "King Abdulaziz University Main Campus (Jeddah, Saudi Arabia)",
+    "degree_levels": [
+      "Master's",
+      "PhD (Doctorate)"
+    ],
+    "major_restrictions": "Open to designated scientific and engineering faculties: Faculty of Computing and Information Technology, Faculty of Engineering, Faculty of Science, Faculty of Meteorology, Environment and Arid Land Agriculture, Faculty of Marine Sciences, Faculty of Earth Sciences. Excludes medical and health clinical faculties for non-Saudi external students.",
+    "number_of_awards_total": "~300 to 400 international graduate scholarships awarded annually",
+    "number_of_awards_pakistan": "Open to Pakistan as an eligible partner state (~30 to 50 Pakistani scholars selected annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Master's: 2 to 3 years; PhD: 3 to 4 years"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Non-Saudi international candidates residing outside Saudi Arabia (Pakistani citizens eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "Master's applicants: maximum 35 years of age; PhD applicants: maximum 40 years of age.",
+    "academic_qualifications": "Completed 16 years of education (Bachelor's degree) for Master's; 18 years (Master's degree) for PhD with at least 'Very Good' graduation grade.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum 3.00 / 4.00 CGPA (or Very Good standing / 75%+ marks in annual system).",
+    "subject_background_prerequisites": "Undergraduate degree in science, engineering, or computing aligned with target department.",
+    "current_education_status": "Graduated with official degree certificate and transcripts.",
+    "graduation_year_restrictions": "Graduation within the past 5 years is preferred.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Research papers, final year projects, and academic references prioritized.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.0,
+      "toefl_minimum": 70,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": true,
+      "notes": "IELTS Academic minimum 6.0, TOEFL iBT 70, or university English proficiency certificate for initial portal evaluation."
+    },
+    "other_language_requirements": "None; programs in science, computing, and engineering taught in English.",
+    "gender_specific_requirements": "Equal opportunity; male and female candidates accommodated in respective university campuses.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must have clean criminal record and pass medical fitness standards.",
+    "previous_scholarship_restrictions": "Ineligible if previously expelled from any Saudi educational institution.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition waiver for the complete duration of graduate studies.",
+      "amount": "Full coverage"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Application on the KAU Deanship of Graduate Studies portal is 100% free.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "FREE_FURNISHED_HOUSING",
+      "details": "Free furnished student accommodation on university campus.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly personal living stipend paid throughout the study period.",
+      "amount": "Master's: SAR 1,900 / month (~PKR 145,000 / month); PhD: SAR 2,500 / month (~PKR 190,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Economy class round-trip airfare ticket annually at the end of each academic year.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Saudi student visa and Iqama residence permit fees fully covered by KAU.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Free comprehensive healthcare at KAU University Hospital and university clinics.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Heavily subsidized campus cafeteria meals.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "A book allowance of SAR 1,800 provided upon initial arrival.",
+      "amount": "SAR 1,800 one-off preparation allowance (~PKR 137,000)"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Thesis printing allowance provided upon graduation (SAR 3,000 for Master's, SAR 4,000 for PhD).",
+      "amount": "SAR 3,000 - 4,000 thesis grant"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Included in preparation allowance.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 22000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: King Abdulaziz University (Jeddah, Saudi Arabia).",
+    "participating_institutions": [
+      "King Abdulaziz University (Main Campus, Jeddah)"
+    ],
+    "university_rankings_scope": "Consistently ranked Top 150 globally in QS World University Rankings; #1 in the Arab World (THE rankings).",
+    "available_majors": [
+      "Computer Science, Artificial Intelligence, Information Technology, Information Systems, Electrical Engineering, Mechanical Engineering, Civil Engineering, Chemical Engineering, Industrial Engineering, Physics, Chemistry, Mathematics, Marine Sciences, Meteorology & Climate Change"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 to 4 years",
+    "admission_requirements_summary": "Online application through KAU Deanship of Graduate Studies portal; selection is competitive based on GPA and qualifications.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Faculty of Computing and Information Technology (FCIT) is most competitive; strong math and programming background recommended.",
+    "strategic_program_match_advice": "Ensure all transcripts and certificates are attested by HEC Pakistan and Saudi Embassy in Islamabad before visa processing."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://graduatestudies.kau.edu.sa/",
+    "portal_system_name": "KAU Deanship of Graduate Studies Online Portal",
+    "account_creation_instructions": "Register on the KAU Graduate Studies portal, choose international scholarship category, select degree and department, and upload scanned documents.",
+    "step_by_step_workflow": [
+      "1. Register on KAU portal during open admission window (typically January to March).",
+      "2. Upload certified degree certificates, mark sheets, CV, and Statement of Purpose.",
+      "3. Provide two academic recommendation letters from former professors.",
+      "4. Upload valid passport copy, police clearance certificate, and medical report.",
+      "5. Submit complete electronic application by the deadline.",
+      "6. Academic departments evaluate files in April/May.",
+      "7. Admission and scholarship approvals published in June/July; Ministry of Education issues visa authorizations."
+    ],
+    "university_vs_scholarship_routing": "Direct single application: Scholarship included with international admission.",
+    "recommendation_letters_submission_method": "Uploaded directly by candidate during application.",
+    "personal_statement_prompts": "Statement of Purpose describing academic objectives, reasons for choosing KAU, and future research goals.",
+    "study_plan_research_proposal_requirements": "Research proposal required for PhD applicants.",
+    "cv_format_requirements": "Standard academic CV (1-2 pages).",
+    "interviews_conducted": false,
+    "interview_format_details": "No interviews in most departments; decisions based strictly on evaluation of academic records.",
+    "standardized_tests": "English test score (IELTS 6.0+ or TOEFL 70+).",
+    "application_fee_amount": "$0 (100% Free).",
+    "attestation_requirements": "Degrees and transcripts must be attested by HEC Pakistan, MOFA, and Saudi Cultural Mission / Saudi Embassy in Islamabad.",
+    "translation_requirements": "Certified Arabic or English translations.",
+    "final_submission_method": "100% Online via KAU portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Graduation Certificate & Degree",
+      "mandatory": true,
+      "specification": "Official bachelor's or master's degree certificate with minimum Very Good grade",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan and Saudi Embassy"
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts showing all subjects, grades, and CGPA",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "Two Recommendation Letters",
+      "mandatory": true,
+      "specification": "From former university professors on official letterhead",
+      "pakistan_specific_instruction": "Signed and stamped"
+    },
+    {
+      "document_name": "Statement of Purpose",
+      "mandatory": true,
+      "specification": "Detailed essay outlining academic background and objectives",
+      "pakistan_specific_instruction": "In English"
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Valid Pakistani passport photo page",
+      "pakistan_specific_instruction": "Valid for at least 1 year"
+    },
+    {
+      "document_name": "Police Clearance Certificate",
+      "mandatory": true,
+      "specification": "Security clearance proving clean criminal record",
+      "pakistan_specific_instruction": "Issued by local Pakistani police department"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2027-01-10",
+    "application_deadline": "2027-03-31",
+    "university_admission_deadline": "2027-03-31",
+    "document_submission_deadline": "2027-03-31",
+    "recommendation_letters_deadline": "2027-03-31",
+    "interview_period": "N/A (No interview)",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-07-15",
+    "visa_application_window": "July to August 2027",
+    "semester_commencement": "September 2027",
+    "annual_cycle_notes": "Application window is strictly January to late March each year. Fall semester begins September."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "50% (Academic record, GPA, university ranking, class standing)",
+    "extracurricular_and_leadership_weight": "5% (Secondary)",
+    "research_experience_weight": "25% (Publications, research proposal quality for PhD)",
+    "work_experience_weight": "5% (Professional experience)",
+    "personal_statement_weight": "5% (Statement of Purpose)",
+    "recommendations_weight": "10% (Referee appraisals)",
+    "interview_weight": "0%",
+    "test_scores_weight": "Language threshold required",
+    "financial_need_weight": "0% (Exclusively merit-based)",
+    "selection_panel_composition": "KAU Departmental Graduate Committees and Deanship of Graduate Studies Admissions Board.",
+    "evaluation_methodology": "Scoring of academic grades, research output, and alignment with department research groups."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~6,000 to 8,000 international applications",
+    "total_scholarships_awarded": "~300 to 400 scholarships awarded annually",
+    "acceptance_rate_global": "~5%",
+    "acceptance_rate_pakistan": "~4% to 5% (Strong conversion for high-GPA Pakistani applicants)",
+    "typical_successful_applicant_gpa": "3.50 to 3.90 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Graduates with solid academic records in engineering, mathematics, physics, and computer science seeking quality funded education in Saudi Arabia.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani universities (NUST, UET Lahore, Quaid-i-Azam, Punjab University, COMSATS, NED Karachi).",
+    "high_representation_countries": "Pakistan, Egypt, Yemen, Sudan, India, Bangladesh, Indonesia.",
+    "competitiveness_tier": "VERY HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Agents claiming to have direct connections to the KAU admissions dean for a fee."
+    ],
+    "application_fee_warning": "The KAU scholarship application is 100% FREE on the official portal.",
+    "agent_and_intermediary_warnings": "Never pay agents; applications submitted by commercial agents are rejected.",
+    "hidden_costs_breakdown": [
+      "HEC, MOFA, and Saudi Embassy attestation fees in Islamabad (~PKR 35,000).",
+      "Medical examination at Saudi-approved GAMCA centers in Pakistan (~PKR 25,000)."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You cannot apply without Arabic. (Fact: Science and engineering degrees are 100% in English).",
+      "MYTH: You must pay for campus housing. (Fact: Campus housing is completely free)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some websites state that medicine is covered; clinical medical programs are strictly closed to external non-Saudi scholarship holders."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.0 / 4.00 (Good standing); falling below results in scholarship suspension.",
+    "attendance_requirements": "Full-time physical residence and attendance in Jeddah.",
+    "academic_progress_monitoring": "Semester grade and thesis progress checks.",
+    "work_restrictions_during_study": "Scholars are not permitted to work for pay outside the university during scholarship tenure.",
+    "home_country_return_obligation": "None; scholars can pursue employment in Saudi Arabia or internationally.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Expulsion or academic failure results in cancellation of visa and return to home country.",
+    "rules_for_changing_university": "Strictly prohibited.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "Maximum extension of one semester permitted upon recommendation of academic supervisor."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "King Abdulaziz University - Deanship of Graduate Studies Official Portal",
+      "source_url": "https://graduatestudies.kau.edu.sa/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Departmental admission scoring matrix details",
+        "Country-by-country quota breakdown"
+      ]
+    }
+  ]
+}

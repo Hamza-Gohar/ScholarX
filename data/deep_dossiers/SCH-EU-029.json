@@ -1,0 +1,268 @@
+{
+  "scholarship_id": "SCH-EU-029",
+  "basic_details": {
+    "scholarship_name": "Rhodes Scholarship for Pakistan (University of Oxford, UK)",
+    "offering_entity": "The Rhodes Trust (Rhodes House, Oxford)",
+    "host_country": "United Kingdom",
+    "host_institutions_covered": "University of Oxford (All 39 constituent colleges)",
+    "degree_levels": [
+      "Master's",
+      "PhD"
+    ],
+    "major_restrictions": "Eligible for almost all full-time postgraduate degrees offered by the University of Oxford (BSc, BA, MSc, MSt, MPhil, BCL, DPhil / PhD). Ineligible courses include part-time courses and standalone 1-year PGCert.",
+    "number_of_awards_total": "~100 Rhodes Scholars elected globally each year",
+    "number_of_awards_pakistan": "1 single scholar elected exclusively from Pakistan per year",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "2 years baseline tenure (extensible up to 3 or 4 years for DPhil / PhD researchers)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizen of Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": 27,
+    "age_limit_notes": "Must be aged 18-23 on 1 October of application year; OR up to age 26 if completed first degree within the past 2 years.",
+    "academic_qualifications": "Completed undergraduate degree (First Class Honours or GPA 3.70+/4.00) that satisfies entry requirements of Oxford postgraduate programs.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "First Class Honours equivalent; in Pakistani CGPA scale, minimum 3.70 / 4.00, or top 5% of graduating class.",
+    "subject_background_prerequisites": "Any academic discipline offered at Oxford.",
+    "current_education_status": "Must have completed first undergraduate degree by July preceding arrival in Oxford.",
+    "graduation_year_restrictions": "Graduation within the past 2-3 years for older cohort pathway.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; extraordinary leadership, community impact, athletics, or social advocacy is prioritized.",
+    "english_test_required": true,
+    "ielts_minimum": 7.5,
+    "toefl_minimum": 110,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "Must satisfy Oxford University Higher Level English requirements (IELTS 7.5 with 7.0 in each band, or TOEFL iBT 110).",
+    "other_language_requirements": "None.",
+    "gender_specific_requirements": "None; open to all genders.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Must have resided in Pakistan for at least 4 of the last 10 years and received formal education in Pakistan.",
+    "previous_scholarship_restrictions": "None.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full University of Oxford tuition fees and College fees paid directly."
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Rhodes Trust covers Oxford postgraduate application fee code."
+    },
+    "accommodation": {
+      "status": "MONTHLY ALLOWANCE",
+      "details": "Covered via tax-free living stipend for Oxford college or private accommodation."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Tax-free living stipend paid quarterly.",
+      "amount": "£19,092 / year (~£1,591 / month or ~PKR 580,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Two economy class flights (one at start of scholarship to the UK, and one at the end of tenure returning home)."
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "UK Student Route visa application fee and International Health Surcharge (IHS) fully paid."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full coverage under the UK National Health Service (NHS) via IHS coverage."
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Included in monthly living stipend."
+    },
+    "books_and_materials_allowance": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Rhodes Research and Travel Grants available up to £1,000 upon application to Rhodes House."
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Access to Rhodes House conference travel funds and academic development grants."
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Settling-in allowance upon arrival in Oxford (£250–£500).",
+      "amount": "£250 to £500 one-off"
+    },
+    "total_estimated_value_usd_per_year": 85000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single University: University of Oxford only.",
+    "participating_institutions": [
+      "University of Oxford (All colleges: Balliol, Magdalen, Christ Church, St John's, etc.)"
+    ],
+    "university_rankings_scope": "World #1 (Times Higher Education World University Rankings).",
+    "available_majors": [
+      "All disciplines (Philosophy, Politics and Economics, Law, Public Policy, Computer Science, Quantum Physics, Oncology, Literature, History)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 to 3 years (up to 4 years for DPhil)",
+    "admission_requirements_summary": "Oxford departmental admissions criteria (transcripts, writing samples, high GRE/test scores where required, references).",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Election to the Rhodes Scholarship does NOT automatically guarantee admission to the chosen Oxford course; the scholar must secure Oxford department admission in December/January following election.",
+    "strategic_program_match_advice": "Consult Oxford course directory closely; show how Oxford's specific faculty members align with your intellectual mission."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/",
+    "portal_system_name": "Rhodes Trust Embark / Slate Application Portal",
+    "account_creation_instructions": "Register on the Rhodes Trust portal selecting the Pakistan constituency between June and August.",
+    "step_by_step_workflow": [
+      "1. Register on Rhodes Trust portal (constituency: Pakistan).",
+      "2. Upload transcripts, birth certificate/passport, and proof of education in Pakistan.",
+      "3. Write Personal Statement (1,000 words maximum) adhering strictly to the honesty and authorship pledge.",
+      "4. Write Academic Statement of Study (350 words maximum) explaining proposed Oxford courses.",
+      "5. Register 5 to 6 referees (at least 3 must be academic).",
+      "6. Submit online application by early August deadline.",
+      "7. National Selection Committee in Pakistan reviews dossiers and shortlists 8-12 finalists.",
+      "8. In-person social reception and high-level interview in Islamabad (October/November).",
+      "9. Single Rhodes Scholar elected on the evening of the interview.",
+      "10. Elected scholar applies to University of Oxford graduate admissions (December - January).",
+      "11. Matriculate at Oxford (October following year)."
+    ],
+    "university_vs_scholarship_routing": "Scholarship first: Compete for Rhodes election; elected scholar applies to Oxford department with guaranteed Rhodes funding backing.",
+    "recommendation_letters_submission_method": "Direct secure electronic submission by 5 to 6 referees via confidential email links.",
+    "personal_statement_prompts": "1,000-word essay addressing: Who are you? What drives you? How do you hope to fight the world's fight? Must be 100% unassisted work (no feedback or AI generation permitted).",
+    "study_plan_research_proposal_requirements": "350-word Academic Statement justifying primary and secondary course choices at Oxford.",
+    "cv_format_requirements": "Concise 2-page CV outlining academic record, awards, athletics, volunteerism, and publications.",
+    "interviews_conducted": true,
+    "interview_format_details": "Legendary in-person final interview in Islamabad before a national committee chaired by a Supreme Court Justice or distinguished leader.",
+    "standardized_tests": "Oxford department may require GRE for Economics or Computer Science.",
+    "application_fee_amount": "£0.00 (Rhodes Trust charges no application fee).",
+    "attestation_requirements": "HEC degree attestation required for Oxford postgraduate matriculation.",
+    "translation_requirements": "Certified English translations for any non-English documents.",
+    "final_submission_method": "100% online portal submission to Rhodes Trust."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Pakistani Passport / National Identity Card (CNIC)",
+      "mandatory": true,
+      "specification": "Proof of Pakistani citizenship and age",
+      "pakistan_specific_instruction": "Must establish age 18-23 or up to 26 under new rules"
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts from all post-secondary institutions attended",
+      "pakistan_specific_instruction": "Must demonstrate First Class Honours (3.7+ CGPA)"
+    },
+    {
+      "document_name": "Proof of 4 Years Education in Pakistan",
+      "mandatory": true,
+      "specification": "School / university certificates proving 4 of last 10 years studied in Pakistan",
+      "pakistan_specific_instruction": "Mandatory constituency condition"
+    },
+    {
+      "document_name": "Personal Statement (Max 1,000 words)",
+      "mandatory": true,
+      "specification": "Unassisted narrative of personal values, ambition, and ethical leadership",
+      "pakistan_specific_instruction": "Candidate must sign strict zero-plagiarism authorship pledge"
+    },
+    {
+      "document_name": "Academic Statement of Study (Max 350 words)",
+      "mandatory": true,
+      "specification": "Specific program choices at Oxford and academic rationale",
+      "pakistan_specific_instruction": "Demonstrate knowledge of Oxford faculty and colleges"
+    },
+    {
+      "document_name": "Five to Six Reference Letters",
+      "mandatory": true,
+      "specification": "At least 3 academic referees and 2 character/leadership referees",
+      "pakistan_specific_instruction": "Must be submitted directly by referees by application deadline"
+    },
+    {
+      "document_name": "Headshot Photograph",
+      "mandatory": true,
+      "specification": "High-resolution professional portrait",
+      "pakistan_specific_instruction": "Used for selection committee dossier"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Early June annually (e.g., 2026-06-01)",
+    "application_deadline": "Early August annually (e.g., 2026-08-01)",
+    "university_admission_deadline": "December / January following election",
+    "document_submission_deadline": "Early August",
+    "recommendation_letters_deadline": "Early August",
+    "interview_period": "Late October / Early November in Islamabad",
+    "shortlist_announcement": "Mid-October",
+    "final_result_acceptance_deadline": "Day of final interview in November",
+    "visa_application_window": "June - August of matriculation year",
+    "semester_commencement": "October (Michaelmas Term at Oxford)",
+    "annual_cycle_notes": "Only ONE award available for all of Pakistan annually; requires supreme intellectual and ethical distinction."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Exceptional intellectual distinction, deep scholarly inquiry)",
+    "extracurricular_and_leadership_weight": "25% (Energy to use one's talents to the full; physical vigour, athletics, debate, public impact)",
+    "research_experience_weight": "10% (Original critical thinking and academic curiosity)",
+    "work_experience_weight": "5% (Initiative in public sphere)",
+    "personal_statement_weight": "15% (Authenticity, moral force of character, instinct to lead)",
+    "recommendations_weight": "5% (Endorsement of intellectual brilliance and integrity)",
+    "interview_weight": "10% (Final interview decides the single winner among the 8-12 finalists)",
+    "test_scores_weight": "0% (Not evaluated by Rhodes committee directly)",
+    "financial_need_weight": "0% (Pure merit and character award)",
+    "selection_panel_composition": "Chaired by high-profile Pakistani figures (former judges, Rhodes alumni, vice chancellors, senior ambassadors).",
+    "evaluation_methodology": "Evaluation against the four core criteria of Cecil Rhodes' will: 1) Literary & scholastic attainments, 2) Energy to use one's talents to the full, 3) Truth, courage, devotion to duty, sympathy for the weak, 4) Moral force of character and instincts to lead."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~500 to 1,000 elite graduates across Pakistan",
+    "total_scholarships_awarded": "Exactly 1 scholar elected annually",
+    "acceptance_rate_global": "~0.7% across all global constituencies",
+    "acceptance_rate_pakistan": "~0.1% to 0.2% (The Most Selective Postgraduate Award in Pakistan)",
+    "typical_successful_applicant_gpa": "3.85 to 4.00 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Valedictorian / Gold Medalist, national debate champion or collegiate athlete, founder of prominent social initiative.",
+    "common_backgrounds_of_winners": "Graduates of LUMS, AKU, NUST, Oxford/Cambridge first-degree holders, or top provincial universities.",
+    "high_representation_countries": "1 reserved seat for Pakistan.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Anyone offering 'coaching' or 'reviewing' Rhodes personal statements for a fee is violating Rhodes Trust rules. Outside assistance on personal statements is explicitly grounds for disqualification."
+    ],
+    "application_fee_warning": "Rhodes Trust never charges any application or registration fee.",
+    "agent_and_intermediary_warnings": "Use of agents or consultants is grounds for immediate lifetime disqualification.",
+    "hidden_costs_breakdown": [
+      "Domestic travel to Islamabad for the finalist dinner and in-person interviews.",
+      "Oxford graduate application fee (£75 per course) if fee waiver code is delayed.",
+      "English language test fees (IELTS Academic ~PKR 60,000)."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You must be an elite athlete. (Fact: 'Energy to use talents to the full' can be demonstrated through rigorous debate, performing arts, mountaineering, or community organizing, not just varsity sports)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites often list outdated age requirements; the Rhodes Trust updated its age criteria to accommodate 24-26 year olds who finished degrees later."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain good standing and satisfy Oxford supervisory progress milestones.",
+    "attendance_requirements": "Must reside in Oxford during full academic terms (Michaelmas, Hilary, Trinity).",
+    "academic_progress_monitoring": "Termly reports from Oxford college and department tutors submitted to Rhodes House.",
+    "work_restrictions_during_study": "Scholars may undertake limited teaching or research assistantships as permitted by Oxford and UK visa regulations.",
+    "home_country_return_obligation": "No statutory legal return obligation (unlike Fulbright or Chevening); however, scholars are morally called to 'fight the world's fight'.",
+    "service_obligations_or_bonds": "No bond.",
+    "repayment_clawback_conditions": "Revocation and expulsion in cases of gross academic fraud, disciplinary expulsion from Oxford, or criminal convictions.",
+    "rules_for_changing_university": "Strictly disallowed (tenable only at the University of Oxford).",
+    "rules_for_changing_major": "Changing Oxford degree course requires prior written approval from the Warden of Rhodes House and Oxford graduate admissions.",
+    "extension_policy": "Third year of funding can be approved for DPhil students upon satisfactory research progress."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "The Rhodes Trust - Official Information for Candidates: Pakistan",
+      "source_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/",
+      "source_type": "OFFICIAL_ORGANIZATION",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact number of annual applicants from Pakistan (Trust publishes global total but keeps country applicant counts confidential)",
+        "Finalist interview scores and panel deliberative rankings"
+      ]
+    }
+  ]
+}

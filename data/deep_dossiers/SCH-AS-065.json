@@ -1,0 +1,290 @@
+{
+  "scholarship_id": "SCH-AS-065",
+  "basic_details": {
+    "scholarship_name": "Nagoya University Global 30 (G30) International Graduate Program MEXT Award",
+    "offering_entity": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan & Nagoya University",
+    "host_country": "Japan",
+    "host_institutions_covered": "Nagoya University (Higashiyama Campus, Nagoya, Aichi Prefecture, Japan)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Master of Engineering (MEng)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Graduate School of Engineering, Graduate School of Science, Graduate School of Bioagricultural Sciences, and Graduate School of Environmental Studies (Automotive Engineering, Civil and Environmental Engineering, Physics and Mathematics, and Biological and Bioagricultural Sciences).",
+    "number_of_awards_total": "~40 to 60 MEXT University Recommendation scholarships awarded annually under G30 programs",
+    "number_of_awards_pakistan": "Open internationally; typically 7 to 12 Pakistani engineering and science researchers selected annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "2 years for Master's; 3 years for PhD",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "JPY 146,000 / month for Master's (~PKR 277,400 / month); JPY 147,000 / month for PhD (~PKR 279,300 / month) plus 100% full tuition waiver and round-trip international airfare"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of countries with official diplomatic relations with Japan (Pakistan fully eligible; Japanese dual citizens ineligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Applicants must be born on or after April 2, 1991 (under 35 years old at commencement per MEXT statutory regulations).",
+    "academic_qualifications": "Completed recognized 16-year Bachelor's degree (for Master's) or recognized 18-year Master's degree (for PhD) with minimum MEXT Grade Point Coefficient of 2.30 out of 3.00 from an HEC-recognized university.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 2.3,
+    "grading_conversion_notes": "Minimum MEXT GPA calculation of 2.30 out of 3.00; competitive applicants typically hold MEXT GPA >= 2.65 / 3.00 (equivalent to CGPA >= 3.55 / 4.00).",
+    "subject_background_prerequisites": "Automotive engineering, mechanical engineering, electrical engineering, materials science, physics, chemistry, biology, or environmental studies.",
+    "current_education_status": "Graduated or final-year students completing degree requirements before arrival in Japan (late September).",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior scientific publications in automotive technology, robotics, physics, or chemistry provide a significant competitive advantage.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.5, TOEFL iBT minimum 80, or official English Medium of Instruction (MOI) certificate demonstrating CEFR B2 or higher.",
+    "other_language_requirements": "Japanese language proficiency is not required.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must secure inquiry approval and formal consent from a Nagoya University faculty professor before applying.",
+    "previous_scholarship_restrictions": "Previous MEXT recipients are ineligible unless at least 3 years have elapsed since completing previous award.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full waiver of entrance examination fee (JPY 30,000), admission matriculation fee (JPY 282,000), and annual tuition fees (JPY 535,800/year).",
+      "amount": "100% covered (~JPY 847,800 first-year value; ~PKR 1,610,000)"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Screening fee is waived for MEXT scholarship nominees.",
+      "amount": "100% waived (JPY 30,000 value)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized international student housing at Nagoya University International Residence (Higashiyama) or Foreign Student House (approx. JPY 22,000 to 40,000 / month), paid from stipend.",
+      "amount": "Subsidized campus residence hall housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free stipend: JPY 146,000 / month for Master's (~PKR 277,400 / month); JPY 147,000 / month for PhD (~PKR 279,300 / month).",
+      "amount": "JPY 146,000 to 147,000 / month"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Economy-class round-trip international flight ticket between Pakistan and Nagoya Chubu Centrair International Airport fully funded by MEXT.",
+      "amount": "100% covered round-trip international flights"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Japanese Student Visa issued free of charge for MEXT government scholars.",
+      "amount": "100% covered / fee exempt"
+    },
+    "health_insurance": {
+      "status": "SUBSIDIZED",
+      "details": "Enrolled in Japan National Health Insurance (NHI) covering 70% of medical costs; subsidized monthly premium (approx. JPY 2,000/month) paid from stipend.",
+      "amount": "Subsidized National Health Insurance"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized dining halls across Higashiyama and Daiko campuses, including halal-friendly dining options.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to Nagoya University Kobayashi-Maskawa Institute for the Origin of Particles and the Universe (KMI), Synchrotron Radiation Facility, and university libraries.",
+      "amount": "100% covered Nobel-winning lab infrastructure access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Laboratory research grants and JSPS project funds cover domestic and international conference participation.",
+      "amount": "Lab grant-funded conference travel"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Direct subway access (Nagoya Daigaku Station located directly inside the campus) with student commuter discounts.",
+      "amount": "Subsidized subway transit"
+    },
+    "total_estimated_value_usd_per_year": 24000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single elite Japanese Imperial University (Nagoya University - Meidai).",
+    "participating_institutions": [
+      "Nagoya University (Higashiyama Campus, Nagoya, Aichi Prefecture, Japan)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #152 globally, #6 in Japan; home to 6 Nobel Prize laureates (physics & chemistry) and located at the heart of Japan's automotive manufacturing hub (Toyota / Aichi region).",
+    "available_majors": [
+      "Master's / PhD in Automotive Engineering",
+      "Master's / PhD in Civil and Environmental Engineering",
+      "Master's / PhD in Mechanical Systems Engineering",
+      "Master's / PhD in Physics and Applied Physics",
+      "Master's / PhD in Chemistry and Materials",
+      "Master's / PhD in Biological and Bioagricultural Sciences"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 years",
+    "admission_requirements_summary": "Bachelor's / Master's degree with MEXT GPA >= 2.30/3.00, academic transcripts, research proposal, professor consent letter, two recommendation letters, and English proficiency certificate (IELTS 6.5+ / TOEFL 80+ / MOI).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Automotive Engineering and Physics are world-leading and highly competitive; establishing contact with a Nagoya professor during the pre-application inquiry period is essential.",
+    "strategic_program_match_advice": "Focus proposals on intelligent vehicle tech, battery chemistry, or quantum materials, connecting directly to Nagoya's industrial partnerships with Toyota and DENSO."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://admissions.g30.nagoya-u.ac.jp/",
+    "portal_system_name": "Nagoya University G30 Online Admissions System & MEXT Portal",
+    "account_creation_instructions": "Submit pre-application inquiry to prospective supervisor, secure faculty consent, register on G30 admissions portal, complete online application, upload documents, and submit.",
+    "step_by_step_workflow": [
+      "Step 1: Contact prospective academic advisor at Nagoya University via G30 pre-application inquiry (September-November).",
+      "Step 2: Obtain formal consent from professor to act as academic supervisor.",
+      "Step 3: Complete MEXT University Recommendation application package on the G30 portal (November-January).",
+      "Step 4: Graduate School Admissions Committee conducts document screening and video interviews.",
+      "Step 5: Nagoya University submits institutional recommendation list to MEXT Tokyo in March.",
+      "Step 6: MEXT Tokyo officially ratifies scholarship awards in June.",
+      "Step 7: Receive Certificate of Eligibility, obtain Japanese visa, and receive flight tickets.",
+      "Step 8: Fly to Nagoya Chubu Airport in late September and start autumn semester on October 1."
+    ],
+    "university_vs_scholarship_routing": "Integrated University Recommendation Track: Admission and MEXT scholarship are evaluated together upon faculty nomination.",
+    "recommendation_letters_submission_method": "Submitted online by recommenders via confidential portal links or uploaded as signed letters on institutional letterhead.",
+    "personal_statement_prompts": "Field of Study and Research Program Plan (Kenkyu Keikakusho) detailing background, objectives, experimental methods, and anticipated contributions.",
+    "study_plan_research_proposal_requirements": "Structured academic proposal following MEXT format detailing problem statement, literature review, experimental methodology, and timeline.",
+    "cv_format_requirements": "Academic CV detailing education, laboratory techniques, programming skills, and publications.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview via Zoom conducted by prospective supervisor and departmental committee.",
+    "standardized_tests": "IELTS Academic 6.5+, TOEFL iBT 80+, or English Medium of Instruction (MOI) certificate accepted.",
+    "application_fee_amount": "JPY 0 (Waived for MEXT scholarship nominees)",
+    "attestation_requirements": "Certified true copies of transcripts and degree certificates; HEC and MoFA attestations recommended for Pakistani credentials.",
+    "translation_requirements": "Certified English or Japanese translation for all non-English/non-Japanese documents.",
+    "final_submission_method": "Online submission via Nagoya University G30 admissions portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "MEXT Application Form for University Recommendation",
+      "mandatory": true,
+      "specification": "Official Japanese Ministry prescribed application form with applicant photo.",
+      "pakistan_specific_instruction": "Standard official MEXT form."
+    },
+    {
+      "document_name": "Field of Study and Research Plan (Kenkyu Keikakusho)",
+      "mandatory": true,
+      "specification": "Detailed research plan following official MEXT template describing proposed research in Japan.",
+      "pakistan_specific_instruction": "Structured scholarly proposal."
+    },
+    {
+      "document_name": "Official Academic Transcripts and Graduation Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts showing course grades, credits, and grading system for MEXT GPA calculation.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Two Recommendation Letters",
+      "mandatory": true,
+      "specification": "Letters from university dean or department chair and previous academic supervisor.",
+      "pakistan_specific_instruction": "On institutional letterhead with official stamps."
+    },
+    {
+      "document_name": "Summary of Thesis or Past Research Achievements",
+      "mandatory": true,
+      "specification": "Concise 1-2 page summary of Bachelor's or Master's thesis and list of publications.",
+      "pakistan_specific_instruction": "Summary of final year project or thesis."
+    },
+    {
+      "document_name": "Faculty Consent Form / Letter from Nagoya University Professor",
+      "mandatory": true,
+      "specification": "Written confirmation from a Nagoya University professor agreeing to supervise the applicant.",
+      "pakistan_specific_instruction": "Obtained directly from prospective Nagoya professor."
+    },
+    {
+      "document_name": "Certificate of English Language Proficiency",
+      "mandatory": true,
+      "specification": "IELTS Academic 6.5+, TOEFL iBT 80+, or official English Medium of Instruction (MOI) certificate.",
+      "pakistan_specific_instruction": "Score report or institutional letter."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "October 1",
+    "application_deadline": "January 10",
+    "university_admission_deadline": "January 10",
+    "document_submission_deadline": "January 10",
+    "recommendation_letters_deadline": "January 10",
+    "interview_period": "January - February",
+    "shortlist_announcement": "March (University nomination to MEXT) / June (MEXT Tokyo final ratification)",
+    "final_result_acceptance_deadline": "June 30",
+    "visa_application_window": "July - August",
+    "semester_commencement": "October 1 (Autumn intake)",
+    "annual_cycle_notes": "Single annual admission cycle for October intake; contact with professors must begin by September-October."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (MEXT GPA calculation >= 2.30/3.00, academic consistency)",
+    "extracurricular_and_leadership_weight": "0% (Not evaluated in MEXT academic screening)",
+    "research_experience_weight": "40% (Technical research proposal rigor, previous thesis, supervisor endorsement)",
+    "work_experience_weight": "5% (Relevant scientific laboratory or technical engineering experience)",
+    "personal_statement_weight": "5% (Study plan clarity and intent)",
+    "recommendations_weight": "5% (Academic referee evaluation)",
+    "interview_weight": "10% (Technical interview with prospective Nagoya University faculty advisor)",
+    "test_scores_weight": "0% (Language proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure academic excellence and research merit)",
+    "selection_panel_composition": "Nagoya University G30 Admissions Board, School Deans, and Japanese Ministry of Education (MEXT).",
+    "evaluation_methodology": "Rigorous academic assessment prioritizing candidates with top MEXT GPA coefficients (above 2.65/3.00), strong publication potential, and supervisor backing."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~750 to 950 applicants across graduate divisions",
+    "total_scholarships_awarded": "~40 to 60 MEXT University Recommendation awards annually under G30",
+    "acceptance_rate_global": "~5.5% to 6.5%",
+    "acceptance_rate_pakistan": "~10.0% to 14.0% for candidates with professor consent and MEXT GPA >= 2.65",
+    "typical_successful_applicant_gpa": "MEXT GPA coefficient >= 2.65 / 3.00 (approx. CGPA >= 3.55 / 4.00), accompanied by strong thesis research or publications",
+    "typical_academic_and_research_profile": "STEM graduates with strong laboratory foundations, clear research alignment with Nagoya University research centers, and professor acceptance.",
+    "common_backgrounds_of_winners": "Graduates from top Pakistani universities (NUST, Quaid-i-Azam, FAST-NUCES, UET Lahore, COMSATS, PIEAS, GIKI).",
+    "high_representation_countries": "Pakistan, Vietnam, Indonesia, China, Bangladesh, Thailand, Egypt, Nigeria.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only consult official websites at nagoya-u.ac.jp and mext.go.jp.",
+      "Beware of unauthorized agents claiming to sell MEXT recommendation seats; MEXT awards are managed strictly by universities."
+    ],
+    "application_fee_warning": "No application or examination fee is charged for MEXT scholarship nominees.",
+    "agent_and_intermediary_warnings": "Commercial agency written proposals are rejected; applicants must author their own Kenkyu Keikakusho.",
+    "hidden_costs_breakdown": [
+      "Application fee: JPY 0 (Waived).",
+      "HEC document attestation in Pakistan: ~PKR 10,000 to 20,000.",
+      "Medical checkup for COE processing: ~PKR 15,000 to 25,000.",
+      "Initial pocket money before first stipend deposit: ~JPY 100,000 (~PKR 190,000).",
+      "National Health Insurance monthly premium: ~JPY 2,000/month (~PKR 3,800/month)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Japanese language fluency is mandatory. Reality: All G30 graduate programs at Nagoya University are conducted 100% in English.",
+      "Myth: You can apply without professor endorsement. Reality: University recommendation track requires prior consent from a Nagoya University faculty professor."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs suggest age limit can be relaxed; MEXT statutory age cutoff (born on or after April 2, 1991) is strictly enforced."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain MEXT Grade Point Coefficient of at least 2.30 out of 3.00 throughout study.",
+    "attendance_requirements": "Full-time physical research residency in Nagoya; monthly signing of scholarship register at university academic office to receive stipend.",
+    "academic_progress_monitoring": "Annual progress review submitted to MEXT via the Graduate School.",
+    "work_restrictions_during_study": "Part-time work restricted; requires immigration permission (Shikakugai Katsudo Kyoka) and written consent from academic supervisor.",
+    "home_country_return_obligation": "None; scholars are free to seek international careers, postdocs in Japan, or return to Pakistan.",
+    "service_obligations_or_bonds": "Zero service bond or repayment obligation.",
+    "repayment_clawback_conditions": "Scholarship is immediately terminated if GPA falls below 2.30 or if disciplinary expulsion occurs.",
+    "rules_for_changing_university": "Strictly non-transferable under MEXT University Recommendation regulations.",
+    "rules_for_changing_major": "Major or laboratory changes are generally not permitted once enrolled.",
+    "extension_policy": "Extensions from Master's to PhD are highly competitive and require separate MEXT institutional recommendation screening."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Nagoya University G30 International Admissions & MEXT Guide",
+      "source_url": "https://admissions.g30.nagoya-u.ac.jp/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Japanese Ministry of Education (MEXT) Official Guide",
+      "source_url": "https://www.mext.go.jp/en/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

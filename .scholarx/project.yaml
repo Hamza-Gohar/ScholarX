@@ -1,0 +1,155 @@
+# ============================================================
+# ScholarX — Project Intelligence Manifest
+# Single source of truth for the entire project.
+# Machine-readable by any AI agent or development tool.
+# Last Updated: 2026-10-20
+# ============================================================
+
+name: ScholarX
+version: "2.0.0"
+description: >
+  Autonomous multi-agent AI scholarship discovery, verification,
+  and application planning system built exclusively for Pakistani students.
+  Covers 5 global regions with 310 verified Deep Dossier scholarships.
+status: "Phase 10 Locked & Verified (Full Stack Operational: FastAPI + Next.js 15 Command Theatre)"
+target_audience: "Pakistani students seeking fully-funded international scholarships"
+deployment: "Local-first exhibition platform (localhost:8000 & localhost:3000)"
+
+# ── Tech Stack ──────────────────────────────────────────────
+tech_stack:
+  backend:
+    language: "Python 3.12"
+    framework: FastAPI
+    orchestration: LangGraph
+    database: "SQLite (aiosqlite, WAL mode)"
+    session_db_path: "data/scholarx_sessions.db"
+    llm_primary: "Groq (qwen/qwen3.8-27b) — 13 keys"
+    llm_fallback: "Gemini (gemini-flash-latest) — 3 keys"
+    search: "Tavily — 7 keys"
+    scraping: "Firecrawl (6 keys) + Jina Reader (1 key)"
+    key_rotation: "Per-request round-robin across 30 total keys"
+    validation: "Pydantic v2"
+    testing: "Pytest + pytest-asyncio (135 tests)"
+  frontend:
+    framework: "Next.js 15.1.0 (App Router)"
+    ui_library: "React 19"
+    styling: "Tailwind CSS (Obsidian Dark Glassmorphism)"
+    state_management: "Zustand v5"
+    streaming: "Server-Sent Events (native EventSource)"
+    visualization: "D3-geo Spatial Canvas (1920x1080 stage floor) + Bezier Packet Dynamics"
+    controls: "Unified JudgeControlBar (ADR-009)"
+    typography: "6-scale semantic typography, 10px monospace minimum floor (ADR-012)"
+
+# ── Architecture ────────────────────────────────────────────
+architecture:
+  pattern: "Multi-Agent DAG Pipeline (Workflow-First Philosophy)"
+  philosophy: >
+    Use deterministic workflows wherever tasks are rule-based,
+    arithmetic, or lookup-based. Reserve LLM agents for tasks
+    requiring natural language understanding or adversarial reasoning.
+  graph_nodes: 10
+  agents:
+    - name: ProfileAgent
+      type: agent
+      purpose: "Document parsing, profile extraction, conversational counselor"
+      file: "backend/agents/profile_agent.py"
+    - name: DiscoveryCommander
+      type: agent
+      purpose: "Search strategy generation, parallel scout deployment, deduplication"
+      file: "backend/agents/discovery_commander.py"
+    - name: SkepticAgent
+      type: agent
+      purpose: "Adversarial friction analysis for Pakistani applicants"
+      file: "backend/agents/skeptic_agent.py"
+    - name: AdvisorAgent
+      type: agent
+      purpose: "Personalized roadmap with Pakistani office directory"
+      file: "backend/agents/advisor_agent.py"
+  workflows:
+    - name: "Regional Scouts (x5)"
+      type: workflow
+      purpose: "6-stage deterministic search→scrape→extract pipeline"
+      files: "backend/workflows/scouts/"
+    - name: EligibilityInvestigator
+      type: workflow
+      purpose: "15-dimension deterministic eligibility comparison"
+      file: "backend/workflows/eligibility.py"
+    - name: TrueCostAnalyzer
+      type: workflow
+      purpose: "4-phase PKR out-of-pocket expense calculation"
+      file: "backend/workflows/cost_analyzer.py"
+    - name: DeadlineIntelligence
+      type: workflow
+      purpose: "Risk-tiered deadline analysis with Pakistan prep timelines"
+      file: "backend/workflows/deadline.py"
+    - name: SynthesisWorkflow
+      type: workflow
+      purpose: "Reconcile discovery, eligibility, costs, skeptic into DNA cards"
+      file: "backend/workflows/synthesis.py"
+    - name: RankingEngine
+      type: workflow
+      purpose: "Pakistan-adjusted weighted composite scoring (0-100)"
+      file: "backend/workflows/ranking.py"
+
+# ── Data ────────────────────────────────────────────────────
+data:
+  scholarships_total: 310
+  regions:
+    europe: 101
+    asia: 81
+    americas: 65
+    mena: 43
+    oceania: 20
+  scholarship_data_dir: "data/scholarships/"
+  student_profiles: 6
+  profile_data_dir: "data/profiles/"
+  reference_data:
+    - "data/pakistan_costs.json — PKR expense benchmarks"
+    - "data/pakistan_education.json — BISE boards, grading scales, degree tiers"
+
+# ── Entry Points ────────────────────────────────────────────
+entry_points:
+  context_primer: "scripts/context.py"
+  backend_server: "backend/main.py"
+  frontend_app: "frontend/app/page.tsx"
+  test_suite: "backend/tests/"
+  langgraph_builder: "backend/graph/builder.py"
+  event_bus: "backend/events/bus.py"
+
+# ── Commands ────────────────────────────────────────────────
+commands:
+  context_primer: "python scripts/context.py primer"
+  context_status: "python scripts/context.py status"
+  context_validate: "python scripts/context.py validate"
+  start_all: "npm run dev"
+  start_backend: "make backend"
+  start_frontend: "make frontend"
+  run_fast_tests: ".venv/bin/pytest backend/tests/test_schemas.py backend/tests/test_api_keys.py -v"
+  run_all_tests: "make test"
+  system_doctor: ".venv/bin/python scripts/doctor.py"
+
+# ── Ports ───────────────────────────────────────────────────
+ports:
+  backend: 8000
+  frontend: 3000
+
+# ── Universal Context System ────────────────────────────────
+context_system:
+  root_hub: "CONTEXT.md"
+  universal_agent_standard: "AGENTS.md"
+  claude_standard: "CLAUDE.md"
+  cursor_rules: ".cursorrules"
+  gemini_rules: ".gemini/rules/scholarx-context.md"
+  modules_dir: ".context/"
+  modules:
+    - ".context/00_QUICKSTART.md — 60-Second Onboarding Primer"
+    - ".context/01_ARCHITECTURE.md — System Topology & Dual Execution Modes"
+    - ".context/02_BACKEND_LANGGRAPH.md — 10-Node StateGraph & Agents"
+    - ".context/03_FRONTEND_THEATRE.md — Command Theatre & Spatial Stage"
+    - ".context/04_DATA_SCHEMAS_DB.md — SQLite WAL & 310 Deep Dossiers"
+    - ".context/05_API_SSE_EVENTS.md — REST Endpoints & 34+ SSE Events"
+    - ".context/06_DECISIONS_INVARIANTS.md — Consolidated ADRs (001-012)"
+    - ".context/07_DEVELOPER_PLAYBOOK.md — Recipes & Troubleshooting"
+    - ".context/08_ACTIVE_STATE.md — Active State & Tracked Gaps"
+    - ".context/CURRENT_TASK.md — Live Agent Task Scratchpad"
+    - ".context/MEMORY.md — Permanent Agent Memory Bank"

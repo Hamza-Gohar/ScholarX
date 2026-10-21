@@ -1,0 +1,298 @@
+{
+  "scholarship_id": "SCH-EU-056",
+  "basic_details": {
+    "scholarship_name": "Hans Böckler Foundation International Doctoral & Postgraduate Fellowships (Hans-Böckler-Stiftung)",
+    "offering_entity": "Hans Böckler Foundation (Hans-Böckler-Stiftung - HBS) & German Confederation of Trade Unions (DGB)",
+    "host_country": "Germany",
+    "host_institutions_covered": "State-accredited German Universities and Technical Universities (TU9 & Flagship Universities across Germany)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD / Promotion)",
+      "Master of Science (MSc / MA)"
+    ],
+    "major_restrictions": "Economics, Social Sciences, Industrial Relations, Labour Law, Political Science, Sustainable Engineering, Environmental Sciences, and Digital Transformation.",
+    "number_of_awards_total": "~120 to 180 doctoral and graduate scholarships awarded annually across Germany",
+    "number_of_awards_pakistan": "Open internationally; typically 4 to 8 Pakistani scholars demonstrating commitment to labor rights and social justice selected annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 36 months (3 years) for PhD; up to 24 months (2 years) for Master's",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "Monthly tax-free living stipend of €1,450 / month for PhD (~PKR 435,000 / month) plus €100 / month research research costs allowance; €934 / month for Master's (~PKR 280,200 / month) plus family/childcare allowances, health insurance subsidies, and tuition-free public German university education"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to German citizens, EU nationals, and international applicants of all nationalities including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "No strict statutory age limit; doctoral candidates must have obtained their master's degree within the preceding 3 to 4 years.",
+    "academic_qualifications": "Completed recognized 18-year Master's degree (for PhD) or recognized 16-year Bachelor's degree (for Master's) with above-average academic performance (minimum German grade 2.0 or equivalent to CGPA 3.30+/4.00) from an HEC-recognized institution.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "German grading scale minimum 2.0 (gut) or CGPA 3.30 / 4.00; competitive candidates typically hold CGPA >= 3.60 / 4.00.",
+    "subject_background_prerequisites": "Economics, sociology, political science, law, labour studies, sustainability, public policy, or industrial engineering.",
+    "current_education_status": "Graduated or final-year students completing master's degree prior to fellowship commencement.",
+    "graduation_year_restrictions": "Master's degree completed within last 4 years for PhD track.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Demonstrated socio-political commitment, engagement in trade unions, youth advocacy, workers' rights, or democratic initiatives is a mandatory evaluation criterion.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 85,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.5 or TOEFL iBT minimum 85 for English-medium programs; German language proficiency (CEFR B2/C1) is strongly advantageous and required for German-medium universities.",
+    "other_language_requirements": "Basic conversational German (A2/B1) recommended to participate in Foundation network seminars.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must demonstrate active socio-political or civic engagement aligned with the ethos of the trade union movement and democratic labor representation.",
+    "previous_scholarship_restrictions": "Cannot hold another parallel scholarship from German Begabtenförderungswerke (e.g. DAAD, FES, KAS) covering identical costs.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee covered; German public universities charge zero tuition fees for doctoral researchers.",
+      "amount": "100% tuition-free public university education"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Applying to Hans Böckler Foundation is completely free of charge.",
+      "amount": "€0 (Free application)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized student residence hall apartments through Studierendenwerk (approx. €280 to €450 / month), paid easily from living stipend.",
+      "amount": "Subsidized student dormitories"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living stipend: €1,450 / month for PhD (~PKR 435,000 / month) plus €100 / month research allowance (€1,550 total); €934 / month for Master's (~PKR 280,200 / month).",
+      "amount": "€934 to €1,550 / month"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Relocation travel between Pakistan and Germany is self-funded by the student.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "German National Student Visa fee (€75 / ~PKR 23,000) paid at German Embassy in Islamabad or Consulate in Karachi.",
+      "amount": "€75 borne by candidate"
+    },
+    "health_insurance": {
+      "status": "SUBSIDIZED",
+      "details": "Health and nursing care insurance subsidy of up to €100 / month provided to doctoral scholarship recipients.",
+      "amount": "Up to €100 / month health insurance subsidy"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized campus dining halls (Mensa) across German universities; daily meals cost €3 to €6.",
+      "amount": "Subsidized campus Mensa dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Dedicated monthly research cost allowance (Forschungskostenpauschale) of €100 / month, plus full access to university libraries and archives.",
+      "amount": "€100 / month research materials allowance"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Travel and conference grants available for archival research, field studies, and international academic presentations.",
+      "amount": "Archival research & conference travel subsidies"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Semester ticket (Deutschlandticket integration) providing free public regional rail and urban transit across Germany.",
+      "amount": "Free regional & urban transit via semester ticket"
+    },
+    "total_estimated_value_usd_per_year": 23000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple host institutions (any recognized public university or research institute in Germany).",
+    "participating_institutions": [
+      "Humboldt University of Berlin",
+      "Free University of Berlin",
+      "University of Cologne",
+      "Goethe University Frankfurt",
+      "Technical University of Munich (TUM)",
+      "University of Duisburg-Essen",
+      "Bremen University",
+      "WZB Berlin Social Science Center"
+    ],
+    "university_rankings_scope": "All top-tier German universities; renowned particularly in labor economics, industrial sociology, public policy, and environmental transformation.",
+    "available_majors": [
+      "Doctor of Philosophy (PhD) in Economics and Labour Markets",
+      "PhD in Sociology and Social Inequalities",
+      "PhD in Political Science and Democratic Governance",
+      "PhD in Labour Law and European Social Law",
+      "PhD in Sustainable Engineering and Green Transition",
+      "PhD in Environmental Governance and Climate Policy",
+      "MSc / MA in Socio-Ecological Economics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 years (extensible to 4 years)",
+    "admission_requirements_summary": "Master's degree with German grade 2.0+ (CGPA >= 3.30/4.00), doctoral supervision confirmation (Betreuungszusage) from a German university professor, detailed research exposé (8-12 pages), two academic letters of recommendation, and documented social/civic engagement record.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Securing an official doctoral supervision confirmation (Betreuungszusage) from a German university professor is the essential prerequisite before submitting the HBS scholarship application.",
+    "strategic_program_match_advice": "Focus dissertation proposals on social inequality, labor market transformation due to AI/automation, just climate transition, or global supply chain workers' rights."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.boeckler.de/de/stipendien-bewerbung-2183.htm",
+    "portal_system_name": "Hans Böckler Foundation Online Application Portal",
+    "account_creation_instructions": "Secure supervision confirmation from German professor, register on HBS application portal during bi-annual intake, upload research exposé, CV, transcripts, and proof of civic engagement, and register academic referees.",
+    "step_by_step_workflow": [
+      "Step 1: Secure doctoral supervision commitment (Betreuungszusage) from a full professor at an accredited German university.",
+      "Step 2: Draft comprehensive 8 to 12-page research proposal (Exposé) detailing methodology, timeline, and socio-economic relevance.",
+      "Step 3: Register on Hans Böckler Foundation online portal during open application call (by February 1 or October 1).",
+      "Step 4: Upload attested transcripts, CV, exposé, and documentation of socio-political/civic commitment.",
+      "Step 5: Academic referees submit formal confidential appraisals directly.",
+      "Step 6: Preliminary committee screening and review by external expert reviewers (Fachgutachter).",
+      "Step 7: Shortlisted candidates invited for personal/virtual selection interview (Auswahlgespräch) in Germany or via Zoom.",
+      "Step 8: Final award decision announced in June (for October start) or December (for April start).",
+      "Step 9: Apply for German National Visa and matriculate at host university."
+    ],
+    "university_vs_scholarship_routing": "Separate Routing: Candidates must first secure admission/supervision at a German university, then apply independently to Hans Böckler Foundation for fellowship funding.",
+    "recommendation_letters_submission_method": "Submitted directly by two academic professors (one must be the doctoral supervisor) using official HBS evaluation forms.",
+    "personal_statement_prompts": "Detailed essay outlining personal trajectory, motivation, socio-political engagement, trade union or community service, and democratic values.",
+    "study_plan_research_proposal_requirements": "Exhaustive research proposal (8 to 12 pages) outlining research question, state of research, theoretical framework, methodology, archive access, and 3-year work plan.",
+    "cv_format_requirements": "Complete tabular academic CV in German or English detailing education, publications, employment, and social/civic activities.",
+    "interviews_conducted": true,
+    "interview_format_details": "Rigorous selection interview conducted by an HBS selection committee panel comprising university professors, union representatives, and foundation staff.",
+    "standardized_tests": "IELTS 6.5+ or TOEFL 85+ for English doctoral programs; German language proof if applicable.",
+    "application_fee_amount": "€0 (Completely free to apply)",
+    "attestation_requirements": "Certified true copies of transcripts and degree certificates; HEC and MoFA attestations required for Pakistani credentials.",
+    "translation_requirements": "Certified German or English translation for all non-German/non-English documents.",
+    "final_submission_method": "Online submission via Hans Böckler Foundation application portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete Bachelor's and Master's degree certificates and transcripts with minimum German grade 2.0 (CGPA >= 3.30).",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Doctoral Supervision Commitment (Betreuungszusage)",
+      "mandatory": true,
+      "specification": "Official signed letter from a German university professor confirming supervision of the doctoral thesis.",
+      "pakistan_specific_instruction": "Obtained directly from German university professor."
+    },
+    {
+      "document_name": "Detailed Research Proposal (Exposé, 8-12 Pages)",
+      "mandatory": true,
+      "specification": "Comprehensive doctoral research plan detailing theoretical framework, methodology, and 3-year timeline.",
+      "pakistan_specific_instruction": "Structured scholarly proposal with complete bibliography."
+    },
+    {
+      "document_name": "Proof of Socio-Political / Civic Engagement",
+      "mandatory": true,
+      "specification": "Official certificates, letters, or references documenting engagement in trade unions, civil society, advocacy, or community service.",
+      "pakistan_specific_instruction": "Documented proof of leadership or volunteer work."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from university professors (including prospective German supervisor).",
+      "pakistan_specific_instruction": "On institutional letterhead with official stamps."
+    },
+    {
+      "document_name": "Tabular Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Comprehensive CV detailing education, publications, professional roles, and civic engagement.",
+      "pakistan_specific_instruction": "European standard tabular CV format."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "December 1 (Summer intake) / August 1 (Winter intake)",
+    "application_deadline": "February 1 (for April/May award) / October 1 (for December award)",
+    "university_admission_deadline": "Concurrent with or prior to HBS submission",
+    "document_submission_deadline": "February 1 / October 1",
+    "recommendation_letters_deadline": "February 15 / October 15",
+    "interview_period": "April - May / November - December",
+    "shortlist_announcement": "Late May / Mid December",
+    "final_result_acceptance_deadline": "Within 3 weeks of award notification",
+    "visa_application_window": "June - July / January - February",
+    "semester_commencement": "October 1 (Winter semester) / April 1 (Summer semester)",
+    "annual_cycle_notes": "Bi-annual application cycles: February 1 deadline for spring review and October 1 deadline for autumn review."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Prior academic grades, honors, course rigor, and scholarly feasibility)",
+    "extracurricular_and_leadership_weight": "30% (Demonstrated socio-political commitment, trade union or civil society engagement, and democratic values)",
+    "research_experience_weight": "20% (Scientific originality, theoretical rigor, and societal relevance of the doctoral exposé)",
+    "work_experience_weight": "5% (Professional practice in policy, labor, or community leadership)",
+    "personal_statement_weight": "5% (Clarity of personal trajectory and democratic conviction)",
+    "recommendations_weight": "5% (Academic referee evaluation)",
+    "interview_weight": "0% (Interview is decisive binary pass/fail for shortlisted candidates)",
+    "test_scores_weight": "0% (Language proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Need-blind merit and civic commitment evaluation)",
+    "selection_panel_composition": "Hans Böckler Foundation Selection Board comprising university professors, German trade union leaders, and alumni representatives.",
+    "evaluation_methodology": "Two-tier holistic evaluation assessing scientific excellence, research feasibility, and authentic socio-political engagement."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,000 to 1,400 applicants nationwide across both cycles",
+    "total_scholarships_awarded": "~120 to 180 doctoral fellowships annually",
+    "acceptance_rate_global": "~10% to 12%",
+    "acceptance_rate_pakistan": "~8% to 12% for candidates with strong professor supervision backing and documented civil society engagement",
+    "typical_successful_applicant_gpa": "Master's German grade <= 1.8 (CGPA >= 3.50/4.00), accompanied by proven civic, union, or community leadership",
+    "typical_academic_and_research_profile": "Scholars in social sciences, economics, law, or green engineering with strong thesis records and dedicated participation in social justice initiatives.",
+    "common_backgrounds_of_winners": "Graduates from top Pakistani institutions (LUMS, Quaid-i-Azam, NUST, Karachi University, Punjab University).",
+    "high_representation_countries": "Germany, Pakistan, Turkey, Italy, Spain, India, Colombia, Ukraine, Brazil.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portal boeckler.de.",
+      "Hans Böckler Foundation never charges application fees or endorses private consultancy agencies."
+    ],
+    "application_fee_warning": "Applying for HBS scholarships is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Commercial agency written statements are disqualified; the foundation rigorously probes personal civic commitment during selection interviews.",
+    "hidden_costs_breakdown": [
+      "Application fee: €0 (Free).",
+      "German National Visa fee: €75 (~PKR 23,000).",
+      "HEC and MoFA document attestations in Pakistan: ~PKR 15,000 to 25,000.",
+      "One-way flight to Germany: ~PKR 150,000 to 220,000.",
+      "Initial living deposit before first stipend payment: ~€500 (~PKR 150,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You must be a German citizen. Reality: International scholars from any country including Pakistan are fully eligible.",
+      "Myth: You must be a trade union member before applying. Reality: Union membership is welcomed but not mandatory; general civic/social commitment is accepted."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim HBS requires German fluency for all majors; in reality, doctoral research conducted in English is fully eligible if supervisor supports it."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain satisfactory doctoral research progress and submit annual dissertation progress reports endorsed by supervisor.",
+    "attendance_requirements": "Active participation in the Foundation's ideational support program (ideelle Förderung), including mandatory attendance at annual foundation seminars and regional scholar meetings.",
+    "academic_progress_monitoring": "Annual progress report submitted to the Foundation's Department of Educational Support.",
+    "work_restrictions_during_study": "Part-time academic work (e.g. teaching assistantship up to 10 hours/week) permitted with foundation approval; commercial employment strictly restricted.",
+    "home_country_return_obligation": "None; zero service bond or return obligation (scholars may pursue international careers or postdocs globally).",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Termination of fellowship if doctoral candidate abandons studies without valid grounds or fails annual review.",
+    "rules_for_changing_university": "Permitted across German universities with foundation approval and supervisor transition.",
+    "rules_for_changing_major": "Topic changes require formal approval from supervisor and foundation committee.",
+    "extension_policy": "Standard tenure is 36 months; a 6 to 12-month extension may be granted upon application for final thesis completion."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Hans Böckler Foundation Official Scholarship Portal",
+      "source_url": "https://www.boeckler.de/de/stipendien-bewerbung-2183.htm",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Hans Böckler Foundation Promotion Support Guidelines",
+      "source_url": "https://www.boeckler.de/de/promotionsfoerderung-2670.htm",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

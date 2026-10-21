@@ -1,0 +1,444 @@
+# ============================================================
+# ScholarX — Module Dependency & Test Coverage Map
+# Maps every module with purpose, dependencies, and tests.
+# Last Updated: 2026-10-02
+# ============================================================
+
+modules:
+  # ── Agents ──────────────────────────────────────────────
+  backend/agents/profile_agent.py:
+    purpose: "Coordinates document uploads, profile extraction, conversational counselor chat, and session persistence"
+    type: agent
+    depends_on:
+      - backend/tools/document_parser.py
+      - backend/tools/document_extractor.py
+      - backend/utils/profile_validator.py
+      - backend/utils/gpa_converter.py
+      - backend/db/session_store.py
+      - backend/events/bus.py
+    tested_by:
+      - backend/tests/test_profile_agent.py
+      - backend/tests/test_profile_e2e.py
+    phase: 1
+
+  backend/agents/discovery_commander.py:
+    purpose: "Generates search strategies, deploys 5 regional scouts in parallel, deduplicates with token-set Jaccard"
+    type: agent
+    depends_on:
+      - backend/workflows/scouts/base_scout.py
+      - backend/workflows/scouts/europe_scout.py
+      - backend/workflows/scouts/asia_scout.py
+      - backend/workflows/scouts/americas_scout.py
+      - backend/workflows/scouts/mena_scout.py
+      - backend/workflows/scouts/oceania_scout.py
+      - backend/db/session_store.py
+      - backend/events/bus.py
+    tested_by:
+      - backend/tests/test_discovery_commander.py
+      - backend/tests/test_discovery_e2e.py
+    phase: 2
+
+  backend/agents/skeptic_agent.py:
+    purpose: "Adversarial friction analysis — return bonds, visa backlogs, blocked accounts, supervisor hurdles"
+    type: agent
+    depends_on:
+      - backend/utils/api_keys.py
+      - backend/schemas/evidence.py
+      - backend/events/bus.py
+    tested_by:
+      - backend/tests/test_skeptic_agent.py
+    phase: 3
+    notes: "Uses legacy google.generativeai import for Gemini fallback — should migrate to google.genai"
+
+  backend/agents/advisor_agent.py:
+    purpose: "Generates personalized application roadmap with Pakistani office directory"
+    type: agent
+    depends_on:
+      - backend/utils/api_keys.py
+      - backend/schemas/roadmap.py
+      - backend/events/bus.py
+    tested_by:
+      - backend/tests/test_advisor_agent.py
+    phase: 4
+    notes: "Currently rule-based despite being categorized as LLM agent"
+
+  # ── Workflows ───────────────────────────────────────────
+  backend/workflows/scouts/base_scout.py:
+    purpose: "6-stage deterministic scout pipeline: deploy → search → scrape → extract → filter → complete"
+    type: workflow
+    depends_on:
+      - backend/tools/tavily_search.py
+      - backend/tools/jina_reader.py
+      - backend/tools/firecrawl_scrape.py
+      - backend/tools/extractor.py
+      - backend/utils/api_keys.py
+      - backend/events/bus.py
+    tested_by:
+      - backend/tests/test_regional_scouts.py
+    phase: 2
+
+  backend/workflows/scouts/europe_scout.py:
+    purpose: "Europe-specific scout (Stipendium Hungaricum, DAAD, Erasmus Mundus, Italian DSU, etc.)"
+    type: workflow
+    depends_on: [backend/workflows/scouts/base_scout.py]
+    tested_by: [backend/tests/test_regional_scouts.py]
+    phase: 2
+
+  backend/workflows/scouts/asia_scout.py:
+    purpose: "Asia-specific scout (CSC China, MEXT Japan, GKS/KGSP Korea, etc.)"
+    type: workflow
+    depends_on: [backend/workflows/scouts/base_scout.py]
+    tested_by: [backend/tests/test_regional_scouts.py]
+    phase: 2
+
+  backend/workflows/scouts/americas_scout.py:
+    purpose: "Americas-specific scout (Fulbright USEFP, Global UGRAD, Vanier CGS, etc.)"
+    type: workflow
+    depends_on: [backend/workflows/scouts/base_scout.py]
+    tested_by: [backend/tests/test_regional_scouts.py]
+    phase: 2
+
+  backend/workflows/scouts/mena_scout.py:
+    purpose: "MENA-specific scout (Turkiye Burslari, KAUST, IsDB, etc.)"
+    type: workflow
+    depends_on: [backend/workflows/scouts/base_scout.py]
+    tested_by: [backend/tests/test_regional_scouts.py]
+    phase: 2
+
+  backend/workflows/scouts/oceania_scout.py:
+    purpose: "Oceania-specific scout (Australia Awards, Melbourne Research, Manaaki NZ, etc.)"
+    type: workflow
+    depends_on: [backend/workflows/scouts/base_scout.py]
+    tested_by: [backend/tests/test_regional_scouts.py]
+    phase: 2
+
+  backend/workflows/eligibility.py:
+    purpose: "15-dimension deterministic eligibility comparison (GPA, age, degree, HEC HAT/USAT, MOI waivers)"
+    type: workflow
+    depends_on:
+      - backend/schemas/scholarship.py
+      - backend/schemas/student.py
+      - backend/schemas/scoring.py
+    tested_by:
+      - backend/tests/test_eligibility_checker.py
+    phase: 3
+
+  backend/workflows/cost_analyzer.py:
+    purpose: "4-phase PKR out-of-pocket expense calculation (pre-app, app, visa/travel, settlement)"
+    type: workflow
+    depends_on:
+      - backend/utils/pakistan_costs.py
+      - backend/schemas/scoring.py
+    tested_by:
+      - backend/tests/test_cost_calculator.py
+    phase: 3
+
+  backend/workflows/deadline.py:
+    purpose: "Deadline risk assessment with Pakistan-specific administrative lead times"
+    type: workflow
+    depends_on:
+      - backend/utils/date_utils.py
+      - backend/schemas/scoring.py
+    tested_by:
+      - backend/tests/test_deadline_analyzer.py
+    phase: 3
+
+  backend/workflows/synthesis.py:
+    purpose: "Reconcile discovery, eligibility, costs, deadlines, and skeptic challenges into DNA cards"
+    type: workflow
+    depends_on:
+      - backend/schemas/scholarship.py
+      - backend/schemas/scoring.py
+      - backend/schemas/evidence.py
+    tested_by:
+      - backend/tests/test_synthesis_workflow.py
+    phase: 4
+
+  backend/workflows/ranking.py:
+    purpose: "Pakistan-adjusted weighted composite scoring: 0.25*Elig + 0.25*Funding + 0.10*Bilateral + ..."
+    type: workflow
+    depends_on:
+      - backend/schemas/scoring.py
+    tested_by:
+      - backend/tests/test_ranking_engine.py
+    phase: 4
+
+  # ── Tools ────────────────────────────────────────────────
+  backend/tools/document_parser.py:
+    purpose: "Local PDF/DOCX/TXT ingestion with keyword-based document type classification"
+    type: tool
+    depends_on: []
+    external_deps: [pypdf, python-docx]
+    tested_by: [backend/tests/test_document_parser.py]
+    phase: 1
+
+  backend/tools/document_extractor.py:
+    purpose: "LLM-powered structured data extraction from student documents (Groq primary, Gemini fallback)"
+    type: tool
+    depends_on: [backend/utils/api_keys.py]
+    external_deps: [groq, google-genai]
+    tested_by: [backend/tests/test_extractor.py]
+    phase: 1
+
+  backend/tools/extractor.py:
+    purpose: "Scholarship data extraction from scraped web pages into Pydantic models"
+    type: tool
+    depends_on: [backend/utils/api_keys.py, backend/schemas/scholarship.py]
+    external_deps: [groq, google-genai]
+    tested_by: [backend/tests/test_extractor.py]
+    phase: 2
+
+  backend/tools/tavily_search.py:
+    purpose: "Web search with 7-key automatic rotation and error tracking"
+    type: tool
+    depends_on: [backend/utils/api_keys.py]
+    external_deps: [tavily-python]
+    tested_by: [backend/tests/test_tools_search.py]
+    phase: 2
+
+  backend/tools/firecrawl_scrape.py:
+    purpose: "JavaScript-rendered deep web scraping with 3-key rotation"
+    type: tool
+    depends_on: [backend/utils/api_keys.py]
+    external_deps: [firecrawl-py]
+    tested_by: [backend/tests/test_tools_search.py]
+    phase: 2
+
+  backend/tools/jina_reader.py:
+    purpose: "Fast URL-to-markdown reader via r.jina.ai with direct HTTP fallback"
+    type: tool
+    depends_on: [backend/utils/api_keys.py]
+    external_deps: [httpx]
+    tested_by: [backend/tests/test_tools_search.py]
+    phase: 2
+
+  # ── Utilities ────────────────────────────────────────────
+  backend/utils/api_keys.py:
+    purpose: "27-key KeyManager with per-request round-robin rotation, cooldown, and health tracking"
+    type: utility
+    depends_on: [backend/config.py]
+    tested_by: [backend/tests/test_api_keys.py]
+    phase: 0
+
+  backend/utils/gpa_converter.py:
+    purpose: "Pakistani marks percentage ↔ US 4.0 GPA ↔ UK Honours Classification conversion"
+    type: utility
+    depends_on: []
+    tested_by: [backend/tests/test_gpa_converter.py]
+    phase: 0
+
+  backend/utils/pakistan_costs.py:
+    purpose: "PKR cost lookup engine for visa, flights, IELTS, HEC attestation, etc."
+    type: utility
+    depends_on: []
+    tested_by: [backend/tests/test_cost_calculator.py]
+    phase: 0
+
+  backend/utils/date_utils.py:
+    purpose: "Seasonal intake intelligence, countdown timers, Pakistani preparation bottleneck timelines"
+    type: utility
+    depends_on: []
+    tested_by: [backend/tests/test_deadline_analyzer.py]
+    phase: 0
+
+  backend/utils/profile_validator.py:
+    purpose: "0-100% profile completeness scoring, missing document identification, GPA auto-enrichment"
+    type: utility
+    depends_on: [backend/utils/gpa_converter.py]
+    tested_by: [backend/tests/test_profile_validator.py]
+    phase: 1
+
+  # ── Database & Events ────────────────────────────────────
+  backend/db/session_store.py:
+    purpose: "Async SQLite session store (aiosqlite + WAL) — 6 tables for students, sessions, scholarships, events"
+    type: storage
+    depends_on: [backend/config.py]
+    external_deps: [aiosqlite]
+    tested_by: [backend/tests/test_session_store.py]
+    phase: 0
+
+  backend/db/cache.py:
+    purpose: "In-memory async TTL cache for hot lookups"
+    type: storage
+    depends_on: []
+    tested_by: []
+    phase: 0
+
+  backend/db/seed.py:
+    purpose: "Database seeding script — loads 205 scholarships from JSON + 5 demo profiles"
+    type: storage
+    depends_on: [backend/db/session_store.py]
+    tested_by: [backend/tests/test_seed_data.py]
+    phase: 0
+
+  backend/events/bus.py:
+    purpose: "In-memory pub/sub event bus with session-isolated async queues and 500-event replay buffer"
+    type: infrastructure
+    depends_on: [backend/schemas/events.py]
+    tested_by: [backend/tests/test_event_bus.py]
+    phase: 5
+
+  # ── Graph Orchestration ──────────────────────────────────
+  backend/graph/state.py:
+    purpose: "ScholarXState TypedDict — shared state across all 10 graph nodes with LangGraph reducers"
+    type: graph
+    depends_on: [backend/schemas/]
+    tested_by: [backend/tests/test_langgraph_pipeline.py]
+    phase: 4
+
+  backend/graph/builder.py:
+    purpose: "Builds and compiles the 10-node StateGraph with sequential edges"
+    type: graph
+    depends_on: [backend/graph/state.py, backend/graph/nodes.py, backend/graph/edges.py]
+    tested_by: [backend/tests/test_langgraph_pipeline.py]
+    phase: 4
+    notes: "Conditional edges defined in edges.py but NOT wired — graph runs purely linearly"
+
+  backend/graph/nodes.py:
+    purpose: "Async execution functions for all 10 DAG nodes"
+    type: graph
+    depends_on:
+      - backend/agents/
+      - backend/workflows/
+      - backend/events/bus.py
+    tested_by: [backend/tests/test_langgraph_pipeline.py]
+    phase: 4
+    notes: "Skeptic review hardcoded to top 6 candidates only (candidates[:6])"
+
+  backend/graph/edges.py:
+    purpose: "Routing predicates for conditional graph edges (currently unused)"
+    type: graph
+    depends_on: [backend/graph/state.py]
+    tested_by: []
+    phase: 4
+
+  # ── API Routes ───────────────────────────────────────────
+  backend/api/routes/profile.py:
+    purpose: "POST /api/profile/upload, POST /api/profile/chat, GET /api/profile/{session_id}"
+    type: api
+    depends_on: [backend/agents/profile_agent.py, backend/db/session_store.py]
+    tested_by: [backend/tests/test_api_profile.py]
+    phase: 5
+
+  backend/api/routes/discover.py:
+    purpose: "POST /api/discover — launches async 10-node LangGraph mission in background task"
+    type: api
+    depends_on: [backend/graph/builder.py, backend/events/bus.py, backend/db/session_store.py]
+    tested_by: [backend/tests/test_api_discover.py]
+    phase: 5
+    notes: "SSE events are batched after pipeline completes, not streamed live during execution"
+
+  backend/api/routes/stream.py:
+    purpose: "GET /api/stream/{session_id} — SSE real-time event stream"
+    type: api
+    depends_on: [backend/events/bus.py]
+    tested_by: [backend/tests/test_api_stream.py]
+    phase: 5
+
+  backend/api/routes/scholarships.py:
+    purpose: "GET /api/scholarships — browse/filter 205+ scholarships with search, region, country"
+    type: api
+    depends_on: [backend/db/session_store.py]
+    tested_by: [backend/tests/test_api_scholarships.py]
+    phase: 5
+
+  backend/api/routes/sessions.py:
+    purpose: "GET/DELETE /api/sessions — session CRUD with ranked scholarship results"
+    type: api
+    depends_on: [backend/db/session_store.py]
+    tested_by: [backend/tests/test_api_sessions.py]
+    phase: 5
+
+  # ── Schemas ──────────────────────────────────────────────
+  backend/schemas/student.py:
+    purpose: "StudentProfile, AcademicRecord, LanguageProficiency, StandardizedTests, Preferences, DocumentsUploaded"
+    type: schema
+    tested_by: [backend/tests/test_schemas.py]
+    phase: 0
+
+  backend/schemas/scholarship.py:
+    purpose: "Scholarship, FundingDetails, PakistanSpecificRequirements, LanguageRequirement, EligibilityCriteria"
+    type: schema
+    tested_by: [backend/tests/test_schemas.py]
+    phase: 0
+
+  backend/schemas/scoring.py:
+    purpose: "CompositeScoreResult, CostAnalysisResult, DeadlineAnalysisResult, DimensionScore"
+    type: schema
+    tested_by: [backend/tests/test_schemas.py]
+    phase: 3
+
+  backend/schemas/evidence.py:
+    purpose: "EvidenceTrail, SkepticChallenge, DebateTopic, SourceCitation"
+    type: schema
+    tested_by: []
+    phase: 3
+
+  backend/schemas/roadmap.py:
+    purpose: "ApplicationRoadmap, RoadmapMilestone, MilestoneAction, PakistaniOffice"
+    type: schema
+    tested_by: []
+    phase: 4
+
+  backend/schemas/events.py:
+    purpose: "ScholarXEvent, AgentEventType (34+ distinct types), EventSeverity"
+    type: schema
+    tested_by: []
+    phase: 5
+
+  backend/schemas/session.py:
+    purpose: "SessionSummary, SessionDetail, SessionStatus"
+    type: schema
+    tested_by: []
+    phase: 5
+
+  # ── Configuration ────────────────────────────────────────
+  backend/config.py:
+    purpose: "Pydantic BaseSettings reading .env — multi-key configuration for 27 API keys"
+    type: config
+    depends_on: []
+    tested_by: []
+    phase: 0
+
+  backend/main.py:
+    purpose: "FastAPI application entrypoint — lifespan startup, CORS, router registration"
+    type: entrypoint
+    depends_on:
+      - backend/config.py
+      - backend/db/session_store.py
+      - backend/db/seed.py
+      - backend/api/routes/
+    tested_by: []
+    phase: 5
+
+# ── Frontend Components ───────────────────────────────────
+frontend_components:
+  frontend/src/app/page.tsx:
+    purpose: "Home page orchestrator — sequences 5 full-width sections"
+    sections: [LetsScrollHero, IntakeDropzone, MissionControl, ScholarshipDNAExplorer, PakistanRoadmapView]
+
+  frontend/src/components/layout/Navbar.tsx:
+    purpose: "Floating pill navigation with live backend health monitor"
+    api_calls: ["GET /api/scholarships?limit=1"]
+
+  frontend/src/components/scroll/LetsScrollHero.tsx:
+    purpose: "4-scene cinematic scroll-scrub camera flight with 60fps LERP"
+    engine: "frontend/src/lib/scrub-engine.js"
+
+  frontend/src/components/intake/IntakeDropzone.tsx:
+    purpose: "Document drag-and-drop upload + 15-dimension profile card + conversational counselor"
+    api_calls: ["POST /api/profile/upload", "POST /api/profile/chat"]
+    schema_issues: "Flat vs nested profile field mismatch (ISS-002)"
+
+  frontend/src/components/mission/MissionControl.tsx:
+    purpose: "10-node visual DAG + mission launch + SSE telemetry terminal"
+    api_calls: ["POST /api/discover", "EventSource /api/stream/{sessionId}"]
+
+  frontend/src/components/scholarships/ScholarshipDNAExplorer.tsx:
+    purpose: "218 scholarship database browser with regional filters and audit modal"
+    api_calls: ["GET /api/scholarships?limit=20"]
+    schema_issues: "Flat vs nested scholarship field mismatch (ISS-001)"
+
+  frontend/src/components/roadmap/PakistanRoadmapView.tsx:
+    purpose: "5-step chronological Pakistani execution roadmap with PKR costs and office directory"
+    api_calls: []

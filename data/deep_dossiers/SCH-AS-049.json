@@ -1,0 +1,303 @@
+{
+  "scholarship_id": "SCH-AS-049",
+  "basic_details": {
+    "scholarship_name": "Beihang University Chinese Government & Postgrad Presidential Scholarship",
+    "offering_entity": "Beihang University (BUAA) & China Scholarship Council (CSC)",
+    "host_country": "China",
+    "host_institutions_covered": "Beihang University (Xueyuan Road and Shahe Campuses, Beijing, China)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Open to STEM and management disciplines with premier global strength in Aerospace Engineering, Computer Science and Engineering, Software Engineering, Mechanical Engineering, Automation and Control Science, Electronic and Information Engineering, Materials Science, and Management Science.",
+    "number_of_awards_total": "~100 to 150 CSC and Beihang University Postgrad Presidential Scholarships awarded annually",
+    "number_of_awards_pakistan": "Substantial representation; Pakistan is a primary partner nation in aerospace and computing education (~20 to 30 scholars admitted annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 to 2.5 years for Master's; up to 3 to 4 years for PhD programs"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of a country other than the People's Republic of China (Pakistan eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "Master's degree applicants must be under 35 years of age; PhD applicants must be under 40 years of age.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (16 years education) for Master's; Master's degree (18 years education) for PhD from an HEC-recognized university in a relevant engineering or science discipline with strong grades (minimum 75% aggregate or CGPA 3.20 / 4.00; competitive admits typically 3.50+ / 4.00).",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.2,
+    "grading_conversion_notes": "Minimum B / 3.0 scale grade record; top 20% class rank preferred.",
+    "subject_background_prerequisites": "Undergraduate degree in Aerospace, Mechanical, Electrical, Computer Science, Automation, Mathematics, or Materials Engineering.",
+    "current_education_status": "Final-year students can apply with an expected graduation certificate from their university.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Engineering design, research laboratory background, or published papers in Scopus/SCI journals strongly favored.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic min 6.0, TOEFL iBT min 80, or official English Medium of Instruction (MOI) certificate issued by an HEC-recognized university in Pakistan.",
+    "other_language_requirements": "For Chinese-taught programs: HSK Level 5 (score 180+) or HSK Level 4 (score 210+) is required.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must obtain preliminary supervisory acceptance or endorsement from a Beihang University professor.",
+    "previous_scholarship_restrictions": "Cannot hold concurrent awards from other Chinese governmental or institutional programs.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full tuition waiver for standard program duration (RMB 35,000 to 42,000 / year value).",
+      "amount": "100% covered (~RMB 38,000 / year; ~PKR 1,482,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "PAID BY APPLICANT",
+      "details": "Beihang University international application processing fee of RMB 400 (~USD 58; ~PKR 16,000).",
+      "amount": "RMB 400 (~PKR 16,000)"
+    },
+    "accommodation": {
+      "status": "100% COVERED",
+      "details": "Free on-campus accommodation in the Beihang International Student Dormitory (Xueyuan Road Campus in Haidian District or Shahe Campus), or standard living accommodation subsidy.",
+      "amount": "100% covered dormitory room"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Living stipend paid monthly: RMB 3,000 / month for Master's students (~USD 420; ~PKR 117,000 / month); RMB 3,500 / month for PhD students (~USD 490; ~PKR 136,500 / month).",
+      "amount": "RMB 3,000 to 3,500 / month (~PKR 117,000 to 136,500 / mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel expenses between Pakistan and Beijing are borne by the scholar.",
+      "amount": "Not covered (Self-funded ~PKR 170,000 to 230,000 round-trip)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Chinese student X1 visa processing fees in Islamabad/Karachi paid by applicant.",
+      "amount": "Not covered (~PKR 25,000 to 35,000)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Comprehensive Medical Insurance for Foreign Students in China (RMB 800 / year value).",
+      "amount": "100% covered (RMB 800 / year)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Multi-floor campus dining halls (including dedicated Muslim Halal dining facilities on Xueyuan Road Campus) provide balanced meals for RMB 25 to 35/day.",
+      "amount": "Covered from monthly living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "100% COVERED",
+      "details": "Access to Beihang University digital libraries, wind tunnels, engineering laboratories, and computational centers.",
+      "amount": "Covered via institutional infrastructure"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Research project consumables and academic conference participation covered through supervisor's national research projects (863/973/NSFC).",
+      "amount": "Covered through laboratory research funding"
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Beijing subway and municipal bus expenses paid out of monthly stipend.",
+      "amount": "Covered from living stipend"
+    },
+    "total_estimated_value_usd_per_year": 14500
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Beihang University)",
+    "participating_institutions": [
+      "Beihang University (BUAA) - National Double First-Class Institution (Beijing, China)"
+    ],
+    "university_rankings_scope": "US News Global Engineering #28 worldwide, Aerospace Engineering #1 globally (Shanghai Academic Ranking), QS World University Rankings #383.",
+    "available_majors": [
+      "Aeronautical and Astronautical Science and Technology",
+      "Computer Science and Technology",
+      "Software Engineering",
+      "Control Science and Engineering",
+      "Mechanical Engineering",
+      "Electronic Science and Technology",
+      "Materials Science and Engineering",
+      "Power Engineering and Engineering Thermophysics",
+      "Traffic and Transportation Engineering",
+      "Management Science and Engineering"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 to 2.5 years; PhD: 3 to 4 years",
+    "admission_requirements_summary": "Online application on Beihang International Student portal and CSC portal, supervisor acceptance letter, notarized academic credentials, study plan (1,000+ words), two professor recommendation letters, physical exam form, and police clearance certificate.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Aerospace, UAV design, and Robotics research groups are world-renowned and receive intense competition; early contact with professors in the School of Aeronautic Science or Computer Science is paramount.",
+    "strategic_program_match_advice": "Highlight hands-on hardware/software engineering skills (e.g., ROS, CFD simulations, embedded systems, PyTorch) in your initial supervisor outreach email."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://admission.buaa.edu.cn & http://studyinchina.csc.edu.cn/",
+    "portal_system_name": "Beihang University International Student Service System & CSC Portal (Agency No. 10006)",
+    "account_creation_instructions": "Register on Beihang portal (admission.buaa.edu.cn) and submit personal credentials. Complete CSC Type B application specifying Beihang Agency Number '10006'.",
+    "step_by_step_workflow": [
+      "Step 1: Identify potential research supervisors from Beihang academic school websites and send tailored email with CV and research interests (October - December).",
+      "Step 2: Obtain the official Beihang Provisional Acceptance Letter signed by the supervisor.",
+      "Step 3: Register and complete the online application on the Beihang International Student Portal.",
+      "Step 4: Register on the CSC online application system under Category B, entering Agency No. 10006.",
+      "Step 5: Pay the Beihang University application processing fee of RMB 400 online.",
+      "Step 6: Departmental academic committee evaluates academic merit and conducts video interview via Zoom or Tencent Meeting (February - March).",
+      "Step 7: Beihang International School submits nominated candidate list to the China Scholarship Council (April - May).",
+      "Step 8: Final results published; official admission package (Admission Letter and JW201/JW202 form) sent to the student (July).",
+      "Step 9: Apply for Chinese X1 Student Visa in Pakistan and prepare for arrival in Beijing in September."
+    ],
+    "university_vs_scholarship_routing": "Direct University Nomination Track (Type B): Nominated directly by Beihang University to the CSC.",
+    "recommendation_letters_submission_method": "Uploaded as signed PDF documents on university letterhead with institutional email and telephone numbers.",
+    "personal_statement_prompts": "Detailed Study Plan / Research Proposal covering academic background, research interests, experimental methodology, and career vision (minimum 1,000 words).",
+    "study_plan_research_proposal_requirements": "Clear, technical proposal with specific objectives, engineering relevance, and timeline mapping directly to Beihang lab focus areas.",
+    "cv_format_requirements": "Curriculum Vitae detailing education, technical proficiencies, research publications, and academic awards.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview conducted by a panel of 3-4 faculty members covering technical fundamentals, research proposal defense, and English proficiency.",
+    "standardized_tests": "Not required; English proficiency certificate or MOI letter mandatory.",
+    "application_fee_amount": "RMB 400 (~USD 58; ~PKR 16,000)",
+    "attestation_requirements": "Degree certificates and transcripts must be notarized in Pakistan by a notary public; HEC and MoFA attestations needed for final enrollment.",
+    "translation_requirements": "English or Chinese certified translations required for any non-English/non-Chinese records.",
+    "final_submission_method": "Online digital submission on both Beihang and CSC systems."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "CSC Application Form (Type B)",
+      "mandatory": true,
+      "specification": "Completed and signed form downloaded from CSC portal with Agency No. 10006.",
+      "pakistan_specific_instruction": "Ensure name, passport number, and date of birth match Pakistani passport exactly."
+    },
+    {
+      "document_name": "Beihang Provisional Acceptance Letter",
+      "mandatory": true,
+      "specification": "Official pre-admission supervision form signed by an authorized Beihang professor.",
+      "pakistan_specific_instruction": "Vital document that dramatically raises selection probability."
+    },
+    {
+      "document_name": "Notarized Highest Diploma and Academic Transcripts",
+      "mandatory": true,
+      "specification": "Scanned color copies of notarized Bachelor's/Master's degree and full transcripts.",
+      "pakistan_specific_instruction": "Degrees must be from HEC-recognized Pakistani universities."
+    },
+    {
+      "document_name": "Research Proposal / Study Plan",
+      "mandatory": true,
+      "specification": "Minimum 1,000 words in English or Chinese outlining research methodology and objectives.",
+      "pakistan_specific_instruction": "Must demonstrate rigorous domain understanding and laboratory relevance."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Signed letters from Professors or Associate Professors on university letterhead.",
+      "pakistan_specific_instruction": "Must contain official institutional email addresses of Pakistani referees."
+    },
+    {
+      "document_name": "Foreigner Physical Examination Form",
+      "mandatory": true,
+      "specification": "Completed Chinese medical examination form with hospital stamp, physician signature, and lab reports.",
+      "pakistan_specific_instruction": "Completed at a major government hospital in Pakistan within 6 months of submission."
+    },
+    {
+      "document_name": "Certificate of Non-Criminal Record",
+      "mandatory": true,
+      "specification": "Official police clearance certificate confirming no criminal history, issued within 6 months.",
+      "pakistan_specific_instruction": "Issued by Police Khidmat Markaz and attested by MoFA."
+    },
+    {
+      "document_name": "English Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.0), TOEFL iBT (min 80), or official English Medium of Instruction letter.",
+      "pakistan_specific_instruction": "Institutional MOI certificate signed by university registrar accepted."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Scanned copy of ordinary passport information page valid for at least 1.5 years.",
+      "pakistan_specific_instruction": "Must be valid through early 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "October 15",
+    "application_deadline": "February 28",
+    "university_admission_deadline": "February 28",
+    "document_submission_deadline": "February 28",
+    "recommendation_letters_deadline": "February 28",
+    "interview_period": "March 15 - April 15",
+    "shortlist_announcement": "May 15",
+    "final_result_acceptance_deadline": "June 30",
+    "visa_application_window": "July 1 - August 15",
+    "semester_commencement": "Early September",
+    "annual_cycle_notes": "Single annual intake cycle for September enrollment. Applying before January 15 provides maximum faculty review consideration."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Undergraduate/Master's GPA and academic distinction)",
+    "extracurricular_and_leadership_weight": "5% (Leadership, team projects, and community engagement)",
+    "research_experience_weight": "35% (Prior publications, engineering competition awards, and research plan quality)",
+    "work_experience_weight": "5% (Industry/laboratory engineering experience)",
+    "personal_statement_weight": "10% (Study plan depth, clarity of objectives, and institutional match)",
+    "recommendations_weight": "5% (Detailed appraisals from academic referees)",
+    "interview_weight": "10% (Technical interview performance and English communication)",
+    "test_scores_weight": "0% (No GRE required; English meets threshold)",
+    "financial_need_weight": "0% (Exclusively merit-based selection)",
+    "selection_panel_composition": "Beihang International School Admissions Board, Departmental Academic Review Committee, and CSC Expert Panel.",
+    "evaluation_methodology": "Rigorous two-phase assessment: school-level academic screening followed by CSC national ratification."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,000 to 4,500 international applicants across all disciplines",
+    "total_scholarships_awarded": "~100 to 150 full scholarships awarded annually",
+    "acceptance_rate_global": "~3.0% to 4.5%",
+    "acceptance_rate_pakistan": "~6.0% among candidates holding official faculty acceptance letters",
+    "typical_successful_applicant_gpa": "3.50+ / 4.00 or 80%+ aggregate from premier Pakistani engineering institutions (NUST, GIKI, PIEAS, IST, UET)",
+    "typical_academic_and_research_profile": "Graduates with solid engineering fundamentals, high-impact final year projects, and at least one Scopus-indexed research paper or conference presentation.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani aerospace, electrical, mechanical, and computer engineering universities.",
+    "high_representation_countries": "Pakistan, Russia, Iran, Kazakhstan, Egypt, Thailand, Indonesia, Nigeria.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of unauthorized agents advertising guaranteed CSC seats at Beihang University for hefty fees.",
+      "All legitimate submissions take place exclusively via admission.buaa.edu.cn and studyinchina.csc.edu.cn."
+    ],
+    "application_fee_warning": "Beihang University charges an official RMB 400 application fee; the CSC system charges no additional fee. Never wire funds to individual bank accounts.",
+    "agent_and_intermediary_warnings": "Beihang University does not authorize any commercial recruiting agents for CSC scholarships; applications must be initiated directly by the student.",
+    "hidden_costs_breakdown": [
+      "Beihang application fee: RMB 400.",
+      "Medical checkup, police certificate, and MoFA attestation: ~PKR 30,000 to 40,000.",
+      "One-way/round-trip flight from Pakistan to Beijing: ~PKR 170,000 to 230,000.",
+      "Initial settling-in expenses before first stipend disbursement: ~RMB 2,500; ~PKR 100,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You cannot study aerospace in China without speaking Chinese. Reality: Beihang offers extensive graduate programs delivered completely in English.",
+      "Myth: A professor's verbal email confirmation is equivalent to an acceptance letter. Reality: Only the signed, official Beihang Provisional Acceptance Form guarantees departmental nomination."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim paper documents must be couriered to Beijing; Beihang uses a paperless digital portal submission system."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a passing grade in all courses (minimum 70% or Grade B equivalent) and meet all milestone research requirements.",
+    "attendance_requirements": "Mandatory classroom attendance and daily involvement in assigned laboratory research projects.",
+    "academic_progress_monitoring": "Annual CSC Comprehensive Evaluation conducted every May; satisfactory progress is mandatory for continuation of monthly stipend and fee waiver.",
+    "work_restrictions_during_study": "Off-campus employment is restricted under Chinese visa regulations without formal university authorization.",
+    "home_country_return_obligation": "No mandatory return requirement; graduates may pursue post-doctoral research, international employment, or industry roles in China under proper work permits.",
+    "service_obligations_or_bonds": "No bond or return service agreement enforced.",
+    "repayment_clawback_conditions": "Funding terminated immediately if the student is expelled for criminal offenses, university code violations, or unauthorized absence.",
+    "rules_for_changing_university": "Transferring to another Chinese university under the CSC scholarship is strictly disallowed.",
+    "rules_for_changing_major": "Major modifications are not permitted once admitted under the scholarship.",
+    "extension_policy": "Scholarship extensions beyond the designated duration are rarely approved by CSC; students must fund remaining time via supervisor research assistantships."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Beihang University International School Official Portal",
+      "source_url": "https://is.buaa.edu.cn/en/scholarships/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "China Scholarship Council (CSC) Official Portal",
+      "source_url": "http://studyinchina.csc.edu.cn/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

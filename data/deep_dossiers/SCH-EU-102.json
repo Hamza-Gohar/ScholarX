@@ -1,0 +1,269 @@
+{
+  "scholarship_id": "SCH-EU-102",
+  "basic_details": {
+    "scholarship_name": "Wageningen University Excellence Programme in Agriculture & Environment",
+    "offering_entity": "Wageningen University & Research (WUR)",
+    "host_country": "Netherlands",
+    "host_institutions_covered": "Wageningen University & Research (Wageningen, Netherlands)",
+    "degree_levels": [
+      "Master's"
+    ],
+    "major_restrictions": "Open to all regular full-time Wageningen MSc Master of Science programs: Agriculture, Plant Sciences, Animal Sciences, Food Technology, Organic Agriculture, Forestry and Nature Conservation, Environmental Sciences, Water Technology, Biotechnology, Climate Studies.",
+    "number_of_awards_total": "~5 to 10 full excellence scholarships awarded per academic year",
+    "number_of_awards_pakistan": "Open international competition across non-EEA developing countries",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "24 months (standard duration of a Wageningen 2-year MSc program, 120 ECTS)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of non-EEA countries required to pay institutional tuition fees in the Netherlands (Pakistani students fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limit.",
+    "academic_qualifications": "Completed undergraduate degree (4-year Bachelor's / 16 years education in Pakistan) in a relevant agricultural, biological, or environmental discipline.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "STRICT MANDATORY MERIT CUTOFF: First class honours or equivalent with a Grade Point Average (GPA) of at least 80% of the maximum scale (CGPA 3.70 / 4.00 or higher).",
+    "subject_background_prerequisites": "Academic background directly related to the selected Wageningen master's curriculum.",
+    "current_education_status": "Degree completed before university start in September.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; agricultural fieldwork, lab research, or food security projects valued.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 92,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 (speaking minimum 6.0) or TOEFL iBT minimum 92 (speaking minimum 23). Wageningen strictly does NOT accept MOI certificates from Pakistan.",
+    "other_language_requirements": "None.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "INVITATION-ONLY SCHOLARSHIP: Candidates must first apply for admission to an MSc program at Wageningen by February 1. If unconditionally admitted and meeting the 80%+ GPA criteria, the central admissions committee INVITES the candidate to apply for the Excellence Programme.",
+    "previous_scholarship_restrictions": "None.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% Full Tuition Fee Waiver for the complete 2-year MSc program (~€19,000/year = ~€38,000 total / ~PKR 11,400,000 value)."
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Wageningen application fee of €50 (reimbursed upon matriculation)."
+    },
+    "accommodation": {
+      "status": "MONTHLY ALLOWANCE",
+      "details": "Covered via monthly living stipend; Idealis student housing arranged in Wageningen."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly living allowance paid directly to the scholar.",
+      "amount": "€1,200 / month (~PKR 360,000 / month) for 24 months = €28,800 total stipend"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Round-trip economy class flight ticket between Pakistan and Amsterdam Schiphol Airport."
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Dutch residence permit / entry visa (MVV) fee (€228) paid directly by Wageningen University."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Basic international student health and liability insurance (Aon Student Insurance) covered for 24 months."
+    },
+    "food_allowance": {
+      "status": "INCLUDED IN STIPEND",
+      "details": "Covered within monthly stipend."
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "One-time textbook and study materials allowance (€500).",
+      "amount": "€500 one-off"
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Master's thesis fieldwork travel grants supported by university chair groups."
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Train ticket from Schiphol Airport to Wageningen and bicycle allowance."
+    },
+    "total_estimated_value_usd_per_year": 38000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single Institution: Wageningen University & Research (WUR, Wageningen, Netherlands).",
+    "participating_institutions": [
+      "Wageningen University & Research"
+    ],
+    "university_rankings_scope": "World #1 in Agriculture & Forestry, World #2 in Environmental Sciences (QS World Rankings by Subject).",
+    "available_majors": [
+      "Plant Sciences",
+      "Animal Sciences",
+      "Forestry and Nature Conservation",
+      "Food Technology",
+      "Organic Agriculture",
+      "Environmental Sciences",
+      "Water Technology",
+      "Climate Studies",
+      "Biotechnology"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "24 months (120 ECTS credits)",
+    "admission_requirements_summary": "Bachelor's degree with GPA > 80%, transcripts, CV, motivation letter, IELTS 6.5+, 2 reference letters.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Admission must be secured before scholarship consideration: Apply for MSc admission by February 1. Only unconditionally admitted candidates are invited to the scholarship round in March.",
+    "strategic_program_match_advice": "Graduates of University of Agriculture Faisalabad (UAF), PMAS Arid Agriculture Rawalpindi, and Sindh Agriculture University Tandojam have exceptional subject matching for WUR programs."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.wur.nl/en/education-programmes/master/practical-information-masters/scholarships-for-international-masters-students/excellence-programme.htm",
+    "portal_system_name": "Wageningen Student Portal & Osiris Application System",
+    "account_creation_instructions": "1) Apply for an MSc program via Osiris before February 1; 2) Upon unconditional admission, receive email invitation to apply for Excellence Programme in early March.",
+    "step_by_step_workflow": [
+      "1. Apply for an MSc program at Wageningen via Osiris portal before February 1.",
+      "2. Submit transcripts, degree certificates, CV, and proof of English proficiency (IELTS 6.5).",
+      "3. Secure unconditional admission to the MSc program (February).",
+      "4. If GPA is above 80% (3.7/4.0), receive official email invitation from WUR to apply for the Excellence Programme (early March).",
+      "5. Complete the Excellence Programme questionnaire, write scholarship motivation essay, and submit referee contacts.",
+      "6. Central Selection Committee reviews submissions and shortlists finalists (April).",
+      "7. Shortlisted candidates undertake a 20-minute online video interview via Teams with Wageningen professors (mid-April).",
+      "8. Final scholarship decisions communicated in early May.",
+      "9. Complete Dutch MVV visa process coordinated by Wageningen Student Immigration Service (May - July).",
+      "10. Arrive in the Netherlands (mid-August) for Annual Introduction Days (AID)."
+    ],
+    "university_vs_scholarship_routing": "Sequential: University admission application first -> Invitation-based scholarship application second.",
+    "recommendation_letters_submission_method": "Submitted online by 2 academic referees via automated links.",
+    "personal_statement_prompts": "Excellence Essay: Describe your vision for sustainable agriculture/environment, how Wageningen will accelerate your mission, and your leadership potential.",
+    "study_plan_research_proposal_requirements": "Not applicable for MSc entry.",
+    "cv_format_requirements": "Detailed academic CV.",
+    "interviews_conducted": true,
+    "interview_format_details": "20-minute online interview via Teams with an academic committee of WUR professors evaluating critical thinking, motivation, and developmental vision.",
+    "standardized_tests": "IELTS Academic (6.5) or TOEFL iBT (92) mandatory. No GRE needed.",
+    "application_fee_amount": "€50 university application fee (reimbursed upon registration).",
+    "attestation_requirements": "HEC degree attestation required for Dutch municipal registration.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "Online portal submission via Osiris."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Bachelor's Degree & Transcripts",
+      "mandatory": true,
+      "specification": "Transcripts showing GPA of at least 80% (3.70/4.00 CGPA)",
+      "pakistan_specific_instruction": "From HEC recognized university in agriculture/biology/STEM"
+    },
+    {
+      "document_name": "Proof of English Language Proficiency",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5, speaking min 6.0) or TOEFL iBT (min 92, speaking min 23)",
+      "pakistan_specific_instruction": "Strictly required; MOI certificates not accepted"
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Detailed academic and professional resume",
+      "pakistan_specific_instruction": "Highlight agricultural field research, farm projects, and publications"
+    },
+    {
+      "document_name": "Motivation Letter / Excellence Essay",
+      "mandatory": true,
+      "specification": "Explaining commitment to food security, climate, or sustainable agriculture",
+      "pakistan_specific_instruction": "Focus on agricultural challenges in the Indus Basin and Pakistan"
+    },
+    {
+      "document_name": "Two Letters of Reference",
+      "mandatory": true,
+      "specification": "Signed letters from university professors on official letterhead",
+      "pakistan_specific_instruction": "Must confirm candidate is in the top 5-10% of their graduating cohort"
+    },
+    {
+      "document_name": "Valid International Passport",
+      "mandatory": true,
+      "specification": "Valid for at least 2 years beyond entry date",
+      "pakistan_specific_instruction": "Required for Dutch MVV visa application"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "October 1 annually (Osiris application opens)",
+    "application_deadline": "February 1 annually (MSc admission deadline for scholarship consideration)",
+    "university_admission_deadline": "February 1 annually",
+    "document_submission_deadline": "February 1 annually",
+    "recommendation_letters_deadline": "Mid-March annually",
+    "interview_period": "Mid-April (Online video interviews via Teams)",
+    "shortlist_announcement": "Late March (Invitation to interview); Early May (Final scholarship results)",
+    "final_result_acceptance_deadline": "Mid-May annually",
+    "visa_application_window": "May - July (Dutch MVV visa processed via WUR)",
+    "semester_commencement": "Late August / September 1 (Fall Semester)",
+    "annual_cycle_notes": "Missing the February 1 admission deadline automatically excludes you from the Excellence Programme."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "45% (Academic excellence, strictly 80%+ GPA, transcript rigor)",
+    "extracurricular_and_leadership_weight": "10% (Initiative in sustainable agriculture or environmental advocacy)",
+    "research_experience_weight": "20% (Undergraduate thesis quality and laboratory/field expertise)",
+    "work_experience_weight": "5% (Agronomy or environmental sector exposure)",
+    "personal_statement_weight": "10% (Quality of the Excellence Essay)",
+    "recommendations_weight": "5% (Endorsement of outstanding scholarly potential)",
+    "interview_weight": "5% (Online interview assessing scientific vision and composure)",
+    "test_scores_weight": "Gatekeeper requirement (minimum English cutoff)",
+    "financial_need_weight": "0% (Pure academic excellence in agriculture and life sciences)",
+    "selection_panel_composition": "Wageningen University Board of Management and Academic Chair Professors.",
+    "evaluation_methodology": "Two-phase sift: Automated 80% GPA filter -> Invitation to submit dossier -> Panel interview for finalists."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,000 to 3,000 international non-EEA MSc applicants; ~150 invited to apply",
+    "total_scholarships_awarded": "~5 to 10 scholarships awarded globally each year",
+    "acceptance_rate_global": "~0.3% to 0.5%",
+    "acceptance_rate_pakistan": "~0.5% (Extremely Selective - World #1 in Agriculture)",
+    "typical_successful_applicant_gpa": "3.85 to 4.00 / 4.00 CGPA (strictly top 5% of class)",
+    "typical_academic_and_research_profile": "Published or presented research in agronomy, soil science, plant breeding, water technology, or biotechnology.",
+    "common_backgrounds_of_winners": "Graduates of University of Agriculture Faisalabad (UAF), PMAS Arid Agriculture, NUST, LUMS, University of the Punjab.",
+    "high_representation_countries": "Global competition across developing countries.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Commercial education consultants claiming they can 'apply directly' for the Wageningen Excellence scholarship. The scholarship is INVITATION-ONLY; you cannot apply without being invited by WUR admissions."
+    ],
+    "application_fee_warning": "Osiris charges €50 university admission fee; the scholarship itself has no fee.",
+    "agent_and_intermediary_warnings": "WUR does not partner with recruitment agents in Pakistan.",
+    "hidden_costs_breakdown": [
+      "IELTS test fee (~PKR 60,000).",
+      "Dutch municipal registration and healthcare supplementary fees (~€150).",
+      "Housing guarantee deposit for Idealis (~€500) upon signing accommodation lease."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can apply for this scholarship if your GPA is 75%. (Fact: WUR strictly enforces the 80%+ GPA cutoff; candidates with 79.9% are never invited).",
+      "MYTH: You cannot work in the Netherlands after graduation. (Fact: The Netherlands offers the 'Zoekjaar' Orientation Year visa, allowing graduates from top 200 universities to live and work in the Netherlands for 1 year post-graduation)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently claim there is a standalone scholarship application link; in reality, it is strictly invitation-based via email to admitted applicants."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must earn at least 50 credits (out of 60 ECTS) in Year 1 to have the Year 2 scholarship renewed.",
+    "attendance_requirements": "Full-time physical enrollment at Wageningen University.",
+    "academic_progress_monitoring": "Termly credit progress verified through Osiris student portal.",
+    "work_restrictions_during_study": "Non-EU students in the Netherlands can work up to 16 hours per week with a work permit (TWV) arranged by their employer, or full-time in June/July/August.",
+    "home_country_return_obligation": "No mandatory home residency rule enforced by the Netherlands; scholars can transition to the 1-year Dutch Orientation Year (Zoekjaar) work visa.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Termination of grant upon academic failure or voluntary withdrawal.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "Strictly 24 months maximum funding."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Wageningen University & Research - Official Excellence Programme Portal",
+      "source_url": "https://www.wur.nl/en/education-programmes/master/practical-information-masters/scholarships-for-international-masters-students/excellence-programme.htm",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact number of scholarships awarded per individual academic chair group",
+        "Interview committee scoring rubric"
+      ]
+    }
+  ]
+}

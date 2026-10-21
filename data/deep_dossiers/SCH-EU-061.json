@@ -1,0 +1,298 @@
+{
+  "scholarship_id": "SCH-EU-061",
+  "basic_details": {
+    "scholarship_name": "Ernst Ludwig Ehrlich Studienwerk (ELES) International Doctoral & Graduate Scholarships",
+    "offering_entity": "Ernst Ludwig Ehrlich Studienwerk (ELES) & German Federal Ministry of Education and Research (BMBF)",
+    "host_country": "Germany",
+    "host_institutions_covered": "State-accredited German Universities and Technical Universities (TU9 & Flagship Universities across Germany)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD / Promotion)",
+      "Master of Science (MSc / MA)"
+    ],
+    "major_restrictions": "All academic disciplines: Computer Science, Engineering, Mathematics, Natural Sciences, Medicine, Humanities, Social Sciences, Law, and Economics.",
+    "number_of_awards_total": "~80 to 120 doctoral and graduate scholarships awarded annually across Germany",
+    "number_of_awards_pakistan": "Open internationally; typically 2 to 5 international scholars demonstrating extraordinary academic achievement and interfaith/intercultural dialogue engagement selected annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 36 months (3 years) for PhD; up to 24 months (2 years) for Master's",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "Monthly tax-free living stipend of €1,450 / month for PhD (~PKR 435,000 / month) plus €100 / month research allowance; €934 / month for Master's (~PKR 280,200 / month) plus healthcare subsidies, family allowances, and tuition-free German university education"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to German citizens, EU nationals, and international applicants of all nationalities including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "No strict statutory age limit; applicants should be in the early stages of their doctoral or graduate studies.",
+    "academic_qualifications": "Completed recognized 18-year Master's degree (for PhD) or recognized 16-year Bachelor's degree (for Master's) with above-average academic performance (minimum German grade 2.0 or equivalent to CGPA 3.30+/4.00) from an HEC-recognized institution.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "German grading scale minimum 2.0 (gut) or CGPA 3.30 / 4.00; competitive candidates typically hold CGPA >= 3.60 / 4.00.",
+    "subject_background_prerequisites": "Open to all disciplines: engineering, computer science, medicine, natural sciences, humanities, or social sciences.",
+    "current_education_status": "Enrolled or accepted for study/doctoral research at a recognized German university.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Documented commitment to civil society, intercultural dialogue, democratic values, or community engagement is a key pillar of assessment.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 85,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.5 or TOEFL iBT minimum 85 for English-medium programs; German language proficiency (CEFR B2/C1) required for German-medium programs and foundation seminars.",
+    "other_language_requirements": "Conversational German (B1/B2) strongly encouraged to actively participate in foundation colloquia and community events.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "ELES is one of Germany's 13 official Begabtenförderungswerke funded by the BMBF; open to Jewish scholars as well as non-Jewish candidates dedicated to interfaith dialogue and minority rights.",
+    "previous_scholarship_restrictions": "Cannot hold another parallel scholarship from German Begabtenförderungswerke (e.g. DAAD, FES, KAS) covering identical costs.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee covered; German public universities charge zero tuition fees for doctoral researchers.",
+      "amount": "100% tuition-free public university education"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Applying to ELES is completely free of charge.",
+      "amount": "€0 (Free application)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized student residence hall apartments through Studierendenwerk (approx. €280 to €450 / month), paid easily from living stipend.",
+      "amount": "Subsidized student dormitories"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living stipend: €1,450 / month for PhD (~PKR 435,000 / month) plus €100 / month research allowance (€1,550 total); €934 / month for Master's (~PKR 280,200 / month).",
+      "amount": "€934 to €1,550 / month"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Relocation travel between Pakistan and Germany is self-funded by the student.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "German National Student Visa fee (€75 / ~PKR 23,000) paid at German Embassy in Islamabad or Consulate in Karachi.",
+      "amount": "€75 borne by candidate"
+    },
+    "health_insurance": {
+      "status": "SUBSIDIZED",
+      "details": "Health and nursing care insurance subsidy of up to €100 / month provided to doctoral scholarship recipients.",
+      "amount": "Up to €100 / month health insurance subsidy"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized campus dining halls (Mensa) across German universities; daily meals cost €3 to €6.",
+      "amount": "Subsidized campus Mensa dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Dedicated monthly research cost allowance (Forschungskostenpauschale) of €100 / month, plus full access to university libraries and digital databases.",
+      "amount": "€100 / month research materials allowance"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Travel and conference grants available for international academic research and presentations.",
+      "amount": "Research travel & conference subsidies"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Semester ticket (Deutschlandticket integration) providing free public regional rail and urban transit across Germany.",
+      "amount": "Free regional & urban transit via semester ticket"
+    },
+    "total_estimated_value_usd_per_year": 23000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple host institutions (any recognized public university or research institute in Germany).",
+    "participating_institutions": [
+      "Technical University of Munich (TUM)",
+      "RWTH Aachen University",
+      "Heidelberg University",
+      "Free University of Berlin",
+      "Humboldt University of Berlin",
+      "University of Freiburg",
+      "Karlsruhe Institute of Technology (KIT)",
+      "University of Frankfurt"
+    ],
+    "university_rankings_scope": "All top-tier German universities; open to all disciplines in STEM, social sciences, humanities, and medicine.",
+    "available_majors": [
+      "Doctor of Philosophy (PhD) in Computer Science and Artificial Intelligence",
+      "PhD in Electrical Engineering and Information Technology",
+      "PhD in Physics and Quantum Materials",
+      "PhD in Biomedical Sciences and Biotechnology",
+      "PhD in Sustainable Energy and Environmental Engineering",
+      "PhD in Sociology, Philosophy, and Intercultural Studies",
+      "MSc / MA across all recognized university fields"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 years (extensible to 4 years)",
+    "admission_requirements_summary": "Master's degree with German grade 2.0+ (CGPA >= 3.30/4.00), doctoral supervision confirmation (Betreuungszusage) from a German university professor, research exposé (8-10 pages), two academic letters of recommendation, and documented social/civic engagement record.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Securing an official doctoral supervision confirmation (Betreuungszusage) from a German university professor is the essential prerequisite before submitting the ELES scholarship application.",
+    "strategic_program_match_advice": "Articulate a clear rationale connecting your research excellence with broader societal, interfaith, or intercultural understanding."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://eles-studienwerk.de/foerderung/promotionsfoerderung/",
+    "portal_system_name": "ELES Online Application System",
+    "account_creation_instructions": "Secure supervision confirmation from German professor, register on ELES application portal during bi-annual intake, upload research exposé, CV, transcripts, and proof of civic engagement, and register academic referees.",
+    "step_by_step_workflow": [
+      "Step 1: Secure doctoral supervision commitment (Betreuungszusage) from a full professor at an accredited German university.",
+      "Step 2: Draft comprehensive 8 to 10-page research proposal (Exposé) detailing methodology, timeline, and scholarly contributions.",
+      "Step 3: Register on ELES online application portal during open call (by March 1 or September 1).",
+      "Step 4: Upload attested transcripts, CV, exposé, and documentation of socio-political/civic commitment.",
+      "Step 5: Academic referees submit formal confidential appraisals directly.",
+      "Step 6: Preliminary committee screening and review by external expert reviewers (Fachgutachter).",
+      "Step 7: Shortlisted candidates invited for personal/virtual selection interview (Auswahlgespräch).",
+      "Step 8: Final award decision announced in July (for October start) or January (for April start).",
+      "Step 9: Apply for German National Visa and matriculate at host university."
+    ],
+    "university_vs_scholarship_routing": "Separate Routing: Candidates must first secure admission/supervision at a German university, then apply independently to ELES for fellowship funding.",
+    "recommendation_letters_submission_method": "Submitted directly by two academic professors (one must be the doctoral supervisor) using official ELES evaluation forms.",
+    "personal_statement_prompts": "Detailed essay outlining personal trajectory, motivation, civic engagement, interfaith dialogue, and societal responsibility.",
+    "study_plan_research_proposal_requirements": "Exhaustive research proposal (8 to 10 pages) outlining research question, state of research, theoretical framework, methodology, and 3-year work plan.",
+    "cv_format_requirements": "Complete tabular academic CV in German or English detailing education, publications, employment, and social/civic activities.",
+    "interviews_conducted": true,
+    "interview_format_details": "Rigorous selection interview conducted by an ELES selection committee panel comprising university professors, community leaders, and foundation staff.",
+    "standardized_tests": "IELTS 6.5+ or TOEFL 85+ for English doctoral programs; German language proof if applicable.",
+    "application_fee_amount": "€0 (Completely free to apply)",
+    "attestation_requirements": "Certified true copies of transcripts and degree certificates; HEC and MoFA attestations required for Pakistani credentials.",
+    "translation_requirements": "Certified German or English translation for all non-German/non-English documents.",
+    "final_submission_method": "Online submission via ELES application portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete Bachelor's and Master's degree certificates and transcripts with minimum German grade 2.0 (CGPA >= 3.30).",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Doctoral Supervision Commitment (Betreuungszusage)",
+      "mandatory": true,
+      "specification": "Official signed letter from a German university professor confirming supervision of the doctoral thesis.",
+      "pakistan_specific_instruction": "Obtained directly from German university professor."
+    },
+    {
+      "document_name": "Detailed Research Proposal (Exposé, 8-10 Pages)",
+      "mandatory": true,
+      "specification": "Comprehensive doctoral research plan detailing theoretical framework, methodology, and 3-year timeline.",
+      "pakistan_specific_instruction": "Structured scholarly proposal with complete bibliography."
+    },
+    {
+      "document_name": "Proof of Socio-Political / Civic Engagement",
+      "mandatory": true,
+      "specification": "Official certificates, letters, or references documenting engagement in intercultural dialogue, advocacy, or community service.",
+      "pakistan_specific_instruction": "Documented proof of leadership or volunteer work."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from university professors (including prospective German supervisor).",
+      "pakistan_specific_instruction": "On institutional letterhead with official stamps."
+    },
+    {
+      "document_name": "Tabular Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Comprehensive CV detailing education, publications, professional roles, and civic engagement.",
+      "pakistan_specific_instruction": "European standard tabular CV format."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "January 1 (Summer intake) / July 1 (Winter intake)",
+    "application_deadline": "March 1 (for October award) / September 1 (for April award)",
+    "university_admission_deadline": "Concurrent with or prior to ELES submission",
+    "document_submission_deadline": "March 1 / September 1",
+    "recommendation_letters_deadline": "March 15 / September 15",
+    "interview_period": "May - June / November - December",
+    "shortlist_announcement": "Late June / Mid December",
+    "final_result_acceptance_deadline": "Within 3 weeks of award notification",
+    "visa_application_window": "July - August / January - February",
+    "semester_commencement": "October 1 (Winter semester) / April 1 (Summer semester)",
+    "annual_cycle_notes": "Bi-annual application cycles: March 1 deadline for autumn entry and September 1 deadline for spring entry."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Prior academic grades, honors, course rigor, and scholarly feasibility)",
+    "extracurricular_and_leadership_weight": "30% (Demonstrated civic engagement, commitment to intercultural/interfaith dialogue, and democratic values)",
+    "research_experience_weight": "20% (Scientific originality, theoretical rigor, and feasibility of the doctoral exposé)",
+    "work_experience_weight": "5% (Professional practice in research, technical, or community leadership)",
+    "personal_statement_weight": "5% (Clarity of personal trajectory and democratic conviction)",
+    "recommendations_weight": "5% (Academic referee evaluation)",
+    "interview_weight": "0% (Interview is decisive binary pass/fail for shortlisted candidates)",
+    "test_scores_weight": "0% (Language proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Need-blind merit and civic commitment evaluation)",
+    "selection_panel_composition": "ELES Selection Board comprising university professors, community leaders, and foundation alumni.",
+    "evaluation_methodology": "Two-tier holistic evaluation assessing scientific excellence, research feasibility, and authentic intercultural commitment."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~600 to 900 applicants nationwide across both cycles",
+    "total_scholarships_awarded": "~80 to 120 doctoral fellowships annually",
+    "acceptance_rate_global": "~11% to 14%",
+    "acceptance_rate_pakistan": "~8% to 12% for candidates with strong professor supervision backing and documented interfaith/dialogue engagement",
+    "typical_successful_applicant_gpa": "Master's German grade <= 1.8 (CGPA >= 3.50/4.00), accompanied by proven civic, dialogue, or community leadership",
+    "typical_academic_and_research_profile": "Scholars across STEM, social sciences, or humanities with strong research records and active dedication to democratic dialogue.",
+    "common_backgrounds_of_winners": "Graduates from top Pakistani institutions (LUMS, NUST, Quaid-i-Azam, FAST-NUCES, UET Lahore).",
+    "high_representation_countries": "Germany, Pakistan, Israel, Ukraine, United States, France, India, Brazil.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portal eles-studienwerk.de.",
+      "ELES never charges application fees or endorses commercial educational consultants."
+    ],
+    "application_fee_warning": "Applying for ELES scholarships is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Commercial agency written statements are disqualified; the foundation rigorously probes personal civic commitment during selection interviews.",
+    "hidden_costs_breakdown": [
+      "Application fee: €0 (Free).",
+      "German National Visa fee: €75 (~PKR 23,000).",
+      "HEC and MoFA document attestations in Pakistan: ~PKR 15,000 to 25,000.",
+      "One-way flight to Germany: ~PKR 150,000 to 220,000.",
+      "Initial living deposit before first stipend payment: ~€500 (~PKR 150,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Only Jewish students can apply. Reality: Non-Jewish scholars actively engaged in interfaith dialogue, minority rights, or intercultural exchange are welcomed and regularly funded.",
+      "Myth: You must study Jewish studies. Reality: Scholars in all fields (AI, engineering, physics, medicine, economics) are eligible and supported."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim ELES requires German fluency for all majors; in reality, doctoral research conducted in English is fully eligible if supervisor supports it."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain satisfactory doctoral research progress and submit annual dissertation progress reports endorsed by supervisor.",
+    "attendance_requirements": "Active participation in the Foundation's ideational support program (ideelle Förderung), including mandatory attendance at annual foundation colloquia and regional seminars.",
+    "academic_progress_monitoring": "Annual progress report submitted to the Foundation's Department of Educational Support.",
+    "work_restrictions_during_study": "Part-time academic work (e.g. teaching assistantship up to 10 hours/week) permitted with foundation approval; commercial employment strictly restricted.",
+    "home_country_return_obligation": "None; zero service bond or return obligation (scholars may pursue international careers or postdocs globally).",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Termination of fellowship if doctoral candidate abandons studies without valid grounds or fails annual review.",
+    "rules_for_changing_university": "Permitted across German universities with foundation approval and supervisor transition.",
+    "rules_for_changing_major": "Topic changes require formal approval from supervisor and foundation committee.",
+    "extension_policy": "Standard tenure is 36 months; a 6 to 12-month extension may be granted upon application for final thesis completion."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "ELES Official Doctoral Funding Portal",
+      "source_url": "https://eles-studienwerk.de/foerderung/promotionsfoerderung/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "German Federal Ministry of Education and Research (BMBF) Begabtenförderungswerke Guide",
+      "source_url": "https://www.bmbf.de/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

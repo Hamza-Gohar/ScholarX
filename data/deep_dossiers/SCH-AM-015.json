@@ -1,0 +1,288 @@
+{
+  "scholarship_id": "SCH-AM-015",
+  "basic_details": {
+    "scholarship_name": "Cornell University Graduate Assistantship in Computer Science",
+    "offering_entity": "Cornell Ann S. Bowers College of Computing and Information Science, Cornell University (Ithaca, NY, USA - Ivy League)",
+    "host_country": "United States",
+    "host_institutions_covered": "Cornell University (Ithaca Main Campus & Cornell Tech, New York City, USA)",
+    "degree_levels": [
+      "Doctoral / PhD"
+    ],
+    "major_restrictions": "Doctor of Philosophy (Ph.D.) in Computer Science across all research fields: Artificial Intelligence, Machine Learning, Computer Systems & Networking, Theory of Computation, Scientific Computing, Programming Languages, Robotics, Natural Language Processing, and Computer Vision.",
+    "number_of_awards_total": "~100% of all admitted Ph.D. students receive full guaranteed financial support (~40 to 50 new fully funded PhD students admitted annually)",
+    "number_of_awards_pakistan": "Open global merit competition; Pakistani students with first-class research records compete directly (typically 2 to 4 admitted with full funding/yr)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Full 5 years of guaranteed PhD funding (tuition, 12-month living stipend, and health insurance) subject to satisfactory progress"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international applicants from all countries worldwide"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction.",
+    "academic_qualifications": "Completed 4-year Bachelor's degree (16 years education) or Master's degree (18 years education) in Computer Science, Mathematics, Electrical Engineering, or related STEM field with exceptional academic record (minimum 3.80 / 4.00 CGPA or top 5% of class from recognized Pakistani universities like LUMS, NUST, FAST-NUCES, GIKI, QAU, UET).",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.8,
+    "grading_conversion_notes": "First-class honors required; GPA 3.85+ is competitive among international applicant pool.",
+    "subject_background_prerequisites": "Advanced preparation in algorithms, discrete mathematics, computer systems, and theoretical foundations.",
+    "current_education_status": "Graduated or currently in final semester of degree graduating before August intake.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Peer-reviewed research publications in top-tier conferences (NeurIPS, ICML, CVPR, OSDI, SOSP, STOC, FOCS, PLDI) provide a decisive competitive edge.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 7.0,
+      "toefl_minimum": 77,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "TOEFL iBT min 77 (Writing 20, Listening 15, Reading 20, Speaking 22) or IELTS Academic min 7.0 overall."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Elite doctoral researchers in computer science and artificial intelligence.",
+    "previous_scholarship_restrictions": "External fellowships (e.g., Google PhD Fellowship) may supplement but do not replace departmental funding guarantee.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition waiver provided for all 5 years of doctoral study ($29,500/year waived completely).",
+      "amount": "100% covered (~$29,500 / year value; ~PKR 8,200,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Cornell Graduate School application fee ($105) paid by applicant (fee waivers available for demonstrated financial hardship upon request).",
+      "amount": "$105 (~PKR 29,000)"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Paid out of living stipend; on-campus graduate housing (Hasbrouck Apartments) or private housing in Ithaca (~$750 to $1,100/month).",
+      "amount": "Paid from monthly living stipend"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Full 12-month living stipend: 9-month academic year stipend (~$35,000 to $39,000) PLUS guaranteed summer research support (~$8,000 to $10,000). Total living support is ~$43,000 to $48,000 / year (~$3,600 to $4,000 / month; ~PKR 1,000,000 to 1,110,000 / month).",
+      "amount": "$43,000 to $48,000 / year (~PKR 11,900,000 to 13,350,000 / year)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Travel expenses to Ithaca/New York are self-funded.",
+      "amount": "Self-funded (~PKR 250,000 to 350,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "US F-1 Visa application fee ($185) and SEVIS I-901 fee ($350) paid to US Department of State.",
+      "amount": "$535 (~PKR 149,000)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Full individual coverage under the Cornell Student Health Plan (SHP) is completely paid by the university for all funded PhD students ($3,600/year value).",
+      "amount": "$3,600 / year value (100% covered, ~PKR 1,000,000)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Living expenses and meals covered by monthly stipend.",
+      "amount": "Included in monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "PROVIDED_BY_FACULTY",
+      "details": "Bill & Melinda Gates Hall provides state-of-the-art workstations, computing clusters, and departmental library access.",
+      "amount": "Provided by department"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Departmental travel grants and faculty research accounts fully cover travel, hotel, and registration for top-tier conference presentations.",
+      "amount": "Up to $3,000 per conference"
+    },
+    "travel_transit_allowance": {
+      "status": "100% COVERED",
+      "details": "All Cornell students receive free unlimited transit on TCAT buses across Ithaca and Tompkins County using their Cornell ID card.",
+      "amount": "$0 (Free local public transit)"
+    },
+    "total_estimated_value_usd_per_year": 82000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution (Cornell University, Ithaca, NY - Ivy League, Top 5 CS in USA, QS World Rank #16)",
+    "participating_institutions": [
+      "Cornell University (Bowers College of Computing and Information Science, Gates Hall, Ithaca & Cornell Tech NYC)"
+    ],
+    "university_rankings_scope": "Ivy League institution; US News #5 in Computer Science, world-renowned for Theory, Systems, Programming Languages, and AI.",
+    "available_majors": [
+      "Artificial Intelligence & Machine Learning",
+      "Natural Language Processing & Information Retrieval",
+      "Computer Vision & Robotics",
+      "Computer Systems, Distributed Systems & Networking",
+      "Programming Languages and Logic",
+      "Theory of Computation & Algorithms",
+      "Scientific Computing & Numerical Analysis",
+      "Computational Biology",
+      "Human-Computer Interaction (HCI)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Doctor of Philosophy (Ph.D.): 5 years.",
+    "admission_requirements_summary": "Bachelor's degree with 3.8+ GPA, evidence of research capability or published papers, Statement of Purpose, 3 recommendation letters from research mentors, and English test score.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Every admitted PhD student is 100% fully funded; admission is among the most selective in the world (acceptance rate ~4-5%).",
+    "strategic_program_match_advice": "Faculty review is deeply decentralized. In your Statement of Purpose, focus on 2-3 specific research questions you want to solve and name the faculty members whose published work relates to those questions."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.cs.cornell.edu/phd/admissions",
+    "portal_system_name": "Cornell Graduate School Online Admissions Portal (ApplyWeb)",
+    "account_creation_instructions": "Create an account on the ApplyWeb portal, select 'Computer Science - PhD', and submit your application dossier before the December 15 deadline.",
+    "step_by_step_workflow": [
+      "Step 1: Explore faculty profiles and recent papers in the Bowers College of CIS.",
+      "Step 2: Create an account on the Cornell Graduate School ApplyWeb portal.",
+      "Step 3: Complete academic history and upload unofficial transcripts for all collegiate degrees.",
+      "Step 4: Upload your Statement of Purpose (highlighting specific research interests and faculty matches).",
+      "Step 5: Upload your Academic Statement and Personal Statement (addressing diversity, perseverance, and character).",
+      "Step 6: Register 3 academic recommenders who will submit confidential reference letters online.",
+      "Step 7: Upload your CV and any published research papers or preprint links.",
+      "Step 8: Pay the $105 application fee (or apply for a fee waiver) and submit before December 15.",
+      "Step 9: Faculty admissions committee conducts comprehensive file reviews and interviews in January.",
+      "Step 10: Receive official offer letter (including 5-year full funding guarantee) in February/March; accept by April 15."
+    ],
+    "university_vs_scholarship_routing": "100% integrated: admission to the PhD program automatically carries the 5-year full fellowship/assistantship funding guarantee.",
+    "recommendation_letters_submission_method": "Three confidential letters of recommendation submitted online through ApplyWeb.",
+    "personal_statement_prompts": "Statement of Purpose: Describe your intellectual interests, research experience, and why Cornell CS is the right fit. Personal Statement: Discuss how your personal background and life experiences influenced your decision to pursue a graduate degree.",
+    "study_plan_research_proposal_requirements": "Embedded in Statement of Purpose; outline research questions, methodologies, and technical interests.",
+    "cv_format_requirements": "Academic CV detailing publications, research presentations, technical projects, awards, and programming expertise.",
+    "interviews_conducted": true,
+    "interview_format_details": "Informal technical interview (30 minutes via Zoom) conducted by prospective faculty advisors in January/February.",
+    "standardized_tests": "GRE General is NOT required and NOT accepted for CS PhD. TOEFL iBT (min 77) or IELTS Academic (min 7.0).",
+    "application_fee_amount": "$105 (Cornell Graduate School application fee)",
+    "attestation_requirements": "Scanned unofficial transcripts uploaded at application; official attested transcripts required upon admission.",
+    "translation_requirements": "Certified English translations for all non-English documents.",
+    "final_submission_method": "100% online through ApplyWeb portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport data page.",
+      "pakistan_specific_instruction": "Ensure name format matches academic records."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts of all university degrees showing courses, credits, and grades.",
+      "pakistan_specific_instruction": "Higher Education Commission (HEC) Pakistan attested documents."
+    },
+    {
+      "document_name": "Statement of Purpose (SOP)",
+      "mandatory": true,
+      "specification": "1 to 2 page essay detailing research background, specific research questions, and faculty alignment.",
+      "pakistan_specific_instruction": "Cite specific recent papers published by Cornell CS faculty."
+    },
+    {
+      "document_name": "Personal Statement",
+      "mandatory": true,
+      "specification": "1-page essay describing background, overcoming adversity, and personal motivation.",
+      "pakistan_specific_instruction": "Reflect on educational journey and resilience in Pakistan."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Academic CV detailing publications, conference presentations, technical skills, and honors.",
+      "pakistan_specific_instruction": "Highlight papers published in Scopus/WoS or IEEE/ACM venues."
+    },
+    {
+      "document_name": "Three Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential letters from research supervisors or senior professors.",
+      "pakistan_specific_instruction": "Recommenders should speak to independent research and analytical maturity."
+    },
+    {
+      "document_name": "English Language Proficiency Score Report",
+      "mandatory": true,
+      "specification": "Official TOEFL iBT (77+) or IELTS Academic (7.0+) score report sent to Cornell institution code 2098.",
+      "pakistan_specific_instruction": "Ensure test score is valid at commencement."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "1 September",
+    "application_deadline": "15 December (Strict PhD deadline for Fall admission)",
+    "university_admission_deadline": "15 December",
+    "document_submission_deadline": "15 December",
+    "recommendation_letters_deadline": "15 December",
+    "interview_period": "January - February (Faculty video interviews)",
+    "shortlist_announcement": "February - early March",
+    "final_result_acceptance_deadline": "15 April (National CGS resolution deadline)",
+    "visa_application_window": "May - July (US F-1 visa processing)",
+    "semester_commencement": "Late August (Fall semester)",
+    "annual_cycle_notes": "One annual intake cycle closing on 15 December for admission in the subsequent Fall semester."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Undergraduate/Master's GPA and coursework rigor in advanced mathematics and systems)",
+    "extracurricular_and_leadership_weight": "5% (Scientific outreach, mentoring)",
+    "research_experience_weight": "40% (Track record of independent research, publications, and technical innovation)",
+    "work_experience_weight": "5% (Industry R&D experience)",
+    "personal_statement_weight": "10% (Clarity, depth, and originality of Statement of Purpose)",
+    "recommendations_weight": "10% (Strong, credible endorsements from established research mentors)",
+    "interview_weight": "Decisive during advisor review for candidate ranking",
+    "test_scores_weight": "Threshold requirement (TOEFL/IELTS compliance; GRE not used)",
+    "financial_need_weight": "0% (Completely need-blind merit evaluation)",
+    "selection_panel_composition": "Cornell CS Graduate Admissions Committee comprising senior faculty from systems, AI, theory, and robotics.",
+    "evaluation_methodology": "Holistic, research-centric review. The committee prioritizes evidence of independent research potential (published papers, research projects, and strong faculty recommendations) alongside superior academic coursework. All admitted PhD students receive a 5-year full funding guarantee."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,500 to 3,000 elite international applicants compete for Cornell CS PhD seats",
+    "total_scholarships_awarded": "~40 to 50 fully funded PhD offers made annually",
+    "acceptance_rate_global": "~4% to 5% (Extremely selective)",
+    "acceptance_rate_pakistan": "~2% to 3% (Achievable for top 2% graduates from LUMS, NUST, FAST with published research)",
+    "typical_successful_applicant_gpa": "3.85+ / 4.00 CGPA (85%+ aggregate) with at least 1-2 published papers or preprints",
+    "typical_academic_and_research_profile": "Graduates of leading institutions with substantial research contributions in machine learning, systems, or algorithms, and glowing letters from recognized researchers.",
+    "common_backgrounds_of_winners": "Graduates in Computer Science, Mathematics, Electrical Engineering, and Physics.",
+    "high_representation_countries": "USA, China, India, Pakistan, Canada, South Korea, Germany.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Scam agencies claiming they can guarantee admission to Cornell CS. Admissions decisions are made solely by Cornell faculty committees."
+    ],
+    "application_fee_warning": "Cornell application fee is $105. Eligible international students can request fee waivers directly on the application form for financial hardship.",
+    "agent_and_intermediary_warnings": "Do not hire agents. Writing your own Statement of Purpose is essential for conveying your research vision.",
+    "hidden_costs_breakdown": [
+      "US F-1 Visa fee ($185) and SEVIS fee ($350).",
+      "Flight tickets between Pakistan and New York (JFK/EWR) plus bus to Ithaca (Campus-to-Campus or OurBus ~$50 - $70).",
+      "Winter clothing for upstate New York winters (~$400 - $600).",
+      "Initial apartment security deposit (~$800 - $1,200) prior to first stipend deposit."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: GRE General score is required. (FACT: Cornell CS PhD does NOT require and does NOT accept GRE scores).",
+      "CLAIM: You must secure funding separately after admission. (FACT: All admitted PhD students receive a 5-year full funding guarantee automatically)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently list out-of-date 9-month stipend figures; Cornell CS officially provides guaranteed 12-month support including summer funding."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic performance (minimum B grade / 3.00 GPA) and pass the Admission to Candidacy Examination ('A Exam') by the end of Year 3.",
+    "attendance_requirements": "Full-time physical research and teaching residency in Ithaca or Cornell Tech in NYC.",
+    "academic_progress_monitoring": "Annual progress report evaluated by the Special Committee (advisor and minor members).",
+    "work_restrictions_during_study": "Under US F-1 visa regulations, paid employment is restricted to 20 hours/week on campus during semesters.",
+    "home_country_return_obligation": "None. F-1 STEM graduates are eligible for 36 months of Optional Practical Training (OPT) in the United States post-graduation.",
+    "service_obligations_or_bonds": "None; scholars fulfill standard graduate research or teaching assistantship duties (typically 15-20 hours/week).",
+    "repayment_clawback_conditions": "Funding terminates upon withdrawal; no clawback of past disbursed stipend or tuition.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Requires approval from the Director of Graduate Studies.",
+    "extension_policy": "Funding is guaranteed for 5 years; extensions beyond Year 5 are commonly funded through faculty research grants."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Cornell Ann S. Bowers College of Computing and Information Science - PhD Financial Support Portal",
+      "source_url": "https://www.cs.cornell.edu/phd/financial-support",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact breakdown between Cornell University Fellowships vs GRA/GTA funding allocations in Year 1.",
+        "Departmental quota distribution between Ithaca campus vs Cornell Tech NYC campus.",
+        "Country-specific application and matriculation statistics."
+      ]
+    }
+  ]
+}

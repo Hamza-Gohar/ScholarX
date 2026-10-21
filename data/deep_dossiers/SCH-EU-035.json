@@ -1,0 +1,276 @@
+{
+  "scholarship_id": "SCH-EU-035",
+  "basic_details": {
+    "scholarship_name": "Warsaw University of Technology & NAWA Stefan Banach Scholarship Programme",
+    "offering_entity": "Polish National Agency for Academic Exchange (NAWA) & Warsaw University of Technology (Politechnika Warszawska)",
+    "host_country": "Poland",
+    "host_institutions_covered": "Warsaw University of Technology Main Campus (Warsaw, Mazovia, Poland)",
+    "degree_levels": [
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "Faculty of Electronics and Information Technology (FEIT), Faculty of Mathematics and Information Science: Computer Science, Artificial Intelligence, Cybersecurity, Telecommunications, Robotics, Electrical Engineering, and Biomedical Engineering.",
+    "number_of_awards_total": "~250 to 350 Banach scholarships awarded globally across Polish public technical universities annually",
+    "number_of_awards_pakistan": "Open competition across developing partner countries; Pakistani engineers secure ~10 to 18 awards annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years (3 to 4 semesters) for full Master's program (plus an optional 1-year Polish language and culture preparatory course if opting for Polish-medium tracks)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of eligible developing and partner countries (Pakistan fully eligible under NAWA country lists)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "Candidates must have completed their undergraduate degree no earlier than the preceding 3 academic years.",
+    "academic_qualifications": "A recognized 4-year Bachelor of Science / Engineering in Computer Science, Electrical Engineering, or related technical field (16 years education) with minimum CGPA 3.20 / 4.00 (or 75%+ aggregate) from an HEC-recognized university in Pakistan.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.2,
+    "grading_conversion_notes": "Minimum grade equivalent of Good (Dobry, 4.0/5.0) on the Polish academic grading scale.",
+    "subject_background_prerequisites": "Foundational coursework in algorithms, data structures, mathematics for computing, operating systems, and computer hardware architectures.",
+    "current_education_status": "Graduating seniors in their final semester or recent graduates from accredited Pakistani institutions.",
+    "graduation_year_restrictions": "Undergraduate degree completed within the last 3 years prior to application call.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; technical internships or software projects valued during portfolio review.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 87,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.5, TOEFL iBT minimum 87, or certified institutional Medium of Instruction (MOI) letter confirming Bachelor degree completed 100% in English in Pakistan (CEFR B2 level equivalent).",
+    "other_language_requirements": "Polish language proficiency is not required for English-taught Master's degrees.",
+    "gender_specific_requirements": null,
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must apply through the NAWA ICT electronic portal and secure university admission at Warsaw University of Technology.",
+    "previous_scholarship_restrictions": "Cannot hold another scholarship funded by the Polish government simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee exemption at Warsaw University of Technology covered under the NAWA Banach Programme.",
+      "amount": "100% covered (~€3,000 - €4,500 / year value; ~PKR 900,000 - 1,350,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Warsaw University of Technology application fee (~€20 / PLN 85) is waived or covered for NAWA scholarship holders.",
+      "amount": "100% covered / waived"
+    },
+    "accommodation": {
+      "status": "PARTIAL",
+      "details": "Priority placement in Warsaw University of Technology student dormitories (Dom Studencki); monthly rent is PLN 450 - PLN 750 (~PKR 32,000 - 53,000 / month) paid from the monthly NAWA stipend.",
+      "amount": "Subsidized dormitory rent ~PLN 550 / month"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living stipend disbursed by NAWA: PLN 1,700 to PLN 2,500 per month for 12 months per academic year (~PKR 120,000 - 175,000 / month).",
+      "amount": "PLN 1,700 - 2,500 / month (~PKR 120,000 - 175,000 / month; PLN 20,400 - 30,000 / year)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel expenses must be arranged by the scholar; living stipend easily accommodates local savings.",
+      "amount": "Self-financed economy flight (~PKR 180,000)"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Polish National Student Visa (Type D) is issued free of charge or fee-waived for Polish government scholarship holders by the Embassy of Poland in Islamabad.",
+      "amount": "100% waived for NAWA scholars"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Scholars register with the Polish National Health Fund (NFZ - Narodowy Fundusz Zdrowia); voluntary insurance fee (~PLN 55 / month) is reimbursed or covered by the university.",
+      "amount": "100% covered via NFZ health insurance"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered through the monthly living stipend of PLN 1,700 - 2,500.",
+      "amount": "Included in monthly living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to campus libraries, computing facilities, and high-performance computing clusters at CEZAMAT and WUT faculties.",
+      "amount": "100% covered by university resources"
+    },
+    "research_funding_conference_grant": {
+      "status": "PARTIAL",
+      "details": "Departmental grants available through faculty dean's research funds for presenting papers at conferences in Central Europe.",
+      "amount": "Up to PLN 2,000 per year"
+    },
+    "travel_transit_allowance": {
+      "status": "PARTIAL",
+      "details": "Warsaw public transport card (WKM) offers 50% statutory student discount across metro, trams, and buses (~PLN 60 / month).",
+      "amount": "50% statutory student transit discount"
+    },
+    "total_estimated_value_usd_per_year": 14000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Warsaw University of Technology (and other leading Polish technical universities participating in NAWA Banach).",
+    "participating_institutions": [
+      "Warsaw University of Technology (Politechnika Warszawska)",
+      "AGH University of Krakow",
+      "Wrocław University of Science and Technology",
+      "Gdańsk University of Technology",
+      "Poznań University of Technology"
+    ],
+    "university_rankings_scope": "Warsaw University of Technology is ranked #1 Technical University in Poland (Perspektywy Ranking) and top 500 globally, renowned for excellence in electrical, computer, and software engineering.",
+    "available_majors": [
+      "Computer Science and Data Science",
+      "Artificial Intelligence and Machine Learning",
+      "Cybersecurity and Network Systems",
+      "Telecommunications and Mobile Systems",
+      "Robotics and Autonomous Systems",
+      "Electrical and Electronic Engineering",
+      "Biomedical Engineering"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1.5 to 2 years (3 to 4 semesters, 90-120 ECTS)",
+    "admission_requirements_summary": "Bachelor's degree in engineering/computing, academic transcripts, certified English proficiency (IELTS 6.5 or MOI), statement of purpose, and submission of the NAWA scholarship decision.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Warsaw University of Technology is the most sought-after technical institution in Poland; AGH University of Krakow and Wrocław Tech offer slightly more accessible quotas with equally reputable computing faculties.",
+    "strategic_program_match_advice": "Pakistani engineering graduates should apply for the NAWA Banach scholarship on the NAWA ICT system during the spring call and register simultaneously on the Warsaw University of Technology international admissions portal."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://nawa.gov.pl/en/students/foreign-students/the-banach-scholarship-programme & https://www.cwm.pw.edu.pl/",
+    "portal_system_name": "NAWA ICT Electronic Application System & WUT Admissions Portal",
+    "account_creation_instructions": "Create an account on the NAWA ICT system, select the Stefan Banach Scholarship Programme call, fill out the application form, and upload all required documents.",
+    "step_by_step_workflow": [
+      "Step 1: Check eligibility criteria and prepare English language certificate or MOI letter from Pakistani university.",
+      "Step 2: Submit scholarship application on NAWA ICT electronic portal during the open call (typically March to May).",
+      "Step 3: Upload attested transcripts, Bachelor's degree certificate, curriculum vitae, and recommendation letter.",
+      "Step 4: NAWA evaluation committee conducts formal and substantive review of submitted dossiers.",
+      "Step 5: NAWA announces scholarship award decisions (typically in July).",
+      "Step 6: Admitted scholarship recipients register at Warsaw University of Technology (or chosen partner university) and receive formal acceptance.",
+      "Step 7: Apply for Polish National Student Visa (Type D) at the Embassy of the Republic of Poland in Islamabad."
+    ],
+    "university_vs_scholarship_routing": "Scholarship-First Track: Apply for the NAWA scholarship first; upon receiving the scholarship award decision, finalize university placement at Warsaw University of Technology.",
+    "recommendation_letters_submission_method": "Uploaded directly via the NAWA ICT portal signed by academic referee on institutional letterhead.",
+    "personal_statement_prompts": "Motivation essay describing academic trajectory, career objectives, and why Poland and Warsaw University of Technology were chosen.",
+    "study_plan_research_proposal_requirements": "Summary of proposed Master's thesis topic and technical domain of interest.",
+    "cv_format_requirements": "Europass CV detailing education, technical competencies, and software engineering experience.",
+    "interviews_conducted": false,
+    "interview_format_details": "Selection is conducted entirely through substantive evaluation of submitted academic dossiers.",
+    "standardized_tests": "IELTS Academic (min 6.5), TOEFL iBT (min 87), or institutional English MOI letter accepted.",
+    "application_fee_amount": "PLN 0 (Free on NAWA portal)",
+    "attestation_requirements": "Degrees and transcripts attested by HEC and MOFA Pakistan; Matric/Inter by IBCC.",
+    "translation_requirements": "Certified Polish or English translation required for all official documents.",
+    "final_submission_method": "Online submission via NAWA ICT portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor's Degree Certificate and Academic Transcripts",
+      "mandatory": true,
+      "specification": "Official transcripts for 4-year Bachelor of Science/Engineering with minimum CGPA 3.20/4.00.",
+      "pakistan_specific_instruction": "Attested copies from HEC and MOFA Pakistan."
+    },
+    {
+      "document_name": "English Proficiency Certificate or MOI Letter",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5), TOEFL iBT (min 87), or official university Medium of Instruction certificate.",
+      "pakistan_specific_instruction": "MOI letter signed by Registrar or Dean of Pakistani university."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Europass formatted CV listing educational qualifications, technical skillsets, and projects.",
+      "pakistan_specific_instruction": "Include links to GitHub and academic portfolios."
+    },
+    {
+      "document_name": "Recommendation Letter",
+      "mandatory": true,
+      "specification": "Academic letter of recommendation from an undergraduate professor or research advisor.",
+      "pakistan_specific_instruction": "Must be on university letterhead with institutional email address."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport identification page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Pakistani passport must have validity through late 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "March 15",
+    "application_deadline": "May 10",
+    "university_admission_deadline": "June 30",
+    "document_submission_deadline": "May 10",
+    "recommendation_letters_deadline": "May 10",
+    "interview_period": "Not applicable",
+    "shortlist_announcement": "Early July",
+    "final_result_acceptance_deadline": "Late July",
+    "visa_application_window": "July - August",
+    "semester_commencement": "October 1 (Winter intake)",
+    "annual_cycle_notes": "NAWA Stefan Banach runs once annually in spring for October commencement. Application deadline is strictly observed."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "50% (Undergraduate GPA and evaluation of previous academic performance)",
+    "extracurricular_and_leadership_weight": "5% (Social engagement and leadership activities)",
+    "research_experience_weight": "20% (Capstone project, publications, and technical innovation portfolio)",
+    "work_experience_weight": "5% (Practical engineering internships and software work)",
+    "personal_statement_weight": "15% (Motivation essay and justification for choosing Poland)",
+    "recommendations_weight": "5% (Quality of professor's recommendation letter)",
+    "interview_weight": "0% (Dossier-based substantive evaluation)",
+    "test_scores_weight": "0% (Language proficiency satisfies eligibility gate)",
+    "financial_need_weight": "0% (Pure academic merit evaluation)",
+    "selection_panel_composition": "NAWA Committee of Academic Experts comprising professors from leading Polish universities.",
+    "evaluation_methodology": "Two-stage evaluation: formal administrative review followed by substantive scoring by two independent academic reviewers."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,000 to 2,800 international applicants globally",
+    "total_scholarships_awarded": "~250 to 350 scholarships awarded annually across Poland",
+    "acceptance_rate_global": "~10% to 12%",
+    "acceptance_rate_pakistan": "~8% to 12% among qualified STEM graduates",
+    "typical_successful_applicant_gpa": "CGPA 3.40+ / 4.00 from recognized Pakistani engineering universities (NUST, FAST, GIKI, UET, NED)",
+    "typical_academic_and_research_profile": "Graduates of accredited engineering faculties with solid programming foundations and practical capstone projects.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani computer science, software engineering, and electronics departments.",
+    "high_representation_countries": "Pakistan, Azerbaijan, Georgia, Kazakhstan, Uzbekistan, Nigeria, Kenya, Colombia.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of unauthorized agents claiming to sell guaranteed Polish student visas or NAWA scholarships.",
+      "Applications are submitted solely via https://programs.nawa.gov.pl/."
+    ],
+    "application_fee_warning": "NAWA does NOT charge any fee for the Banach scholarship application.",
+    "agent_and_intermediary_warnings": "NAWA and Warsaw University of Technology do not cooperate with commercial recruiting agencies.",
+    "hidden_costs_breakdown": [
+      "Legalization and apostille/attestation costs in Pakistan: ~PKR 25,000.",
+      "National student visa appointment fee at Embassy of Poland: ~PKR 25,000 (often waived for NAWA scholars).",
+      "Initial pocket money before first stipend disbursement: ~PLN 1,000 (~PKR 70,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You must know Polish language to apply. Reality: The Banach programme supports numerous 100% English-taught MSc programmes in engineering and IT.",
+      "Myth: IELTS is strictly mandatory. Reality: NAWA explicitly accepts institutional English Medium of Instruction (MOI) certificates from Pakistani universities where the Bachelor's degree was conducted in English."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs state that older graduates can apply; NAWA enforces a strict rule that the Bachelor's degree must have been completed within the last 3 years."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain regular academic progress and pass all required semester module exams on time.",
+    "attendance_requirements": "Full-time physical attendance and active participation in university lectures and laboratory classes.",
+    "academic_progress_monitoring": "Biannual academic progress reports submitted to NAWA by the host university coordinator.",
+    "work_restrictions_during_study": "International students in Poland on student visas have the legal right to work without needing a separate work permit.",
+    "home_country_return_obligation": "No mandatory return clause; graduates are free to enter the European and Polish tech labor markets.",
+    "service_obligations_or_bonds": "Zero service bond or repayment obligation.",
+    "repayment_clawback_conditions": "Funding terminated and living stipend cancelled if the student abandons studies or is expelled.",
+    "rules_for_changing_university": "Permitted only with explicit prior written consent from NAWA under exceptional circumstances.",
+    "rules_for_changing_major": "Requires prior approval from NAWA and the receiving faculty.",
+    "extension_policy": "Maximum extension of one semester may be granted upon documented medical or academic thesis justification."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "NAWA Stefan Banach Scholarship Programme Official Page",
+      "source_url": "https://nawa.gov.pl/en/students/foreign-students/the-banach-scholarship-programme",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Warsaw University of Technology Centre for International Cooperation",
+      "source_url": "https://www.cwm.pw.edu.pl/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

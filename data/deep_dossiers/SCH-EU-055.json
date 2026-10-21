@@ -1,0 +1,289 @@
+{
+  "scholarship_id": "SCH-EU-055",
+  "basic_details": {
+    "scholarship_name": "Cusanuswerk International Academic Scholarship",
+    "offering_entity": "Cusanuswerk - Bischöfliche Studienförderung (Catholic Academic Foundation funded by the German Federal Government / BMBF)",
+    "host_country": "Germany",
+    "host_institutions_covered": "State-recognized universities and universities of applied sciences across Germany (e.g., LMU Munich, University of Bonn, University of Freiburg, University of Münster, RWTH Aachen, Heidelberg University)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Master of Arts (MA)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Open to all disciplines offered at German universities; strong representation in Computer Science, Applied Mathematics, Life Sciences, Engineering, Philosophy, and Law.",
+    "number_of_awards_total": "~100 to 140 international scholarships awarded annually across Master's and PhD programs",
+    "number_of_awards_pakistan": "Open international competition; Pakistani Catholic / Christian scholars with exceptional academic merit and community commitment secure ~1 to 3 awards annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to standard program duration (up to 2 years for Master's; up to 3 years for PhD), reviewed annually based on academic excellence and participation in Cusanuswerk education programs",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "€934 / month for Master's; €1,400 / month for PhD scholars"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International students of non-EU nationalities (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 30,
+    "age_limit_postgrad": 30,
+    "age_limit_notes": "Applicants must generally be under 30 years old at the time of application.",
+    "academic_qualifications": "A recognized 4-year Bachelor's degree (16 years education) with minimum CGPA 3.40 / 4.00 (German grade equivalent <= 2.0 on the Bavarian scale) from an HEC-recognized university in Pakistan for Master's; recognized MS/MPhil (18 years education) for PhD.",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.4,
+    "grading_conversion_notes": "Demonstrated academic excellence placed in the top 15% of the graduating cohort.",
+    "subject_background_prerequisites": "Prerequisites corresponding to the admitted degree program at the German university.",
+    "current_education_status": "Applicants must already be accepted or enrolled (1st or 2nd semester) in a Master's or PhD program at a state-recognized German university at the time of application.",
+    "graduation_year_restrictions": "None, as long as age limit (<30 years) is met.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Substantial documented record of active voluntary service in Church, parish, Caritas, youth ministry, or community charity initiatives.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "Official IELTS (min 6.5) or TOEFL (min 90) for English programs; German language proficiency at minimum B2 level is required by Cusanuswerk (selection interviews, theological colloquia, and foundation retreats are conducted in German).",
+    "other_language_requirements": "German language skills at minimum B2 level are formally required for international applicants.",
+    "gender_specific_requirements": null,
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must be practicing Roman Catholic (or from other recognized Christian denominations in exceptional cases) and demonstrate authentic active engagement in their faith community.",
+    "previous_scholarship_restrictions": "Cannot hold another full German government scholarship (DAAD, other Begabtenförderungswerke) simultaneously.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "Tuition at German public universities is free; mandatory semester fees (Semesterbeitrag ~€250 - €350 / semester) are supplemented or covered.",
+      "amount": "100% covered (~€600 / year value; ~PKR 180,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "University admission evaluation fees (Uni-Assist ~€75) are paid independently by the student.",
+      "amount": "€75 (~PKR 23,000)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Subsidized housing in student residences (Studierendenwerk) is paid from the monthly Cusanuswerk living stipend.",
+      "amount": "Covered via monthly stipend"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living stipend set by the BMBF: €934 per month for Master's students; €1,400 per month for PhD researchers (~PKR 280,000 - 420,000 / month).",
+      "amount": "€934 - €1,400 / month (~PKR 280,000 - 420,000 / month; €11,208 - €16,800 / year)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel expenses must be arranged by the student; study allowance covers travel costs within Germany.",
+      "amount": "Self-financed economy flight"
+    },
+    "visa_fee": {
+      "status": "REIMBURSED",
+      "details": "German student visa fee (€75) and residence permit fee (€100) are reimbursed upon submission of receipts.",
+      "amount": "€175 total (~PKR 53,000 value)"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Direct monthly health and nursing care insurance subsidy of up to €130 per month paid to the statutory German health insurance provider (TK, AOK, Barmer).",
+      "amount": "Up to €130 / month (~PKR 39,000 / month; €1,560 / year value)"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via the monthly living stipend of €934 - €1,400.",
+      "amount": "Included in monthly living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Flat-rate study cost allowance (Büchergeld / Forschungskostenpauschale) of €300 per month provided in addition to the base stipend.",
+      "amount": "€300 / month (~PKR 90,000 / month; €3,600 / year value)"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Comprehensive funding for research travel, conference attendances, and intellectual/theological formation seminars organized by the foundation.",
+      "amount": "Up to €1,000 / year upon application"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Deutschlandticket / Semesterticket provided via university registration, granting nationwide public transport access.",
+      "amount": "Included via semester fee"
+    },
+    "total_estimated_value_usd_per_year": 22000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "All state-recognized public universities across Germany.",
+    "participating_institutions": [
+      "LMU Munich",
+      "University of Bonn",
+      "University of Freiburg",
+      "University of Münster",
+      "RWTH Aachen University",
+      "Heidelberg University",
+      "University of Cologne",
+      "Technical University of Munich (TUM)"
+    ],
+    "university_rankings_scope": "Covers all German public universities, renowned for academic excellence and ethical reflection.",
+    "available_majors": [
+      "Computer Science and Data Science",
+      "Artificial Intelligence and Bioethics",
+      "Applied Mathematics and Computational Science",
+      "Mechanical and Electrical Engineering",
+      "Life Sciences and Biomedical Engineering",
+      "Philosophy and Social Sciences",
+      "Law and Human Rights"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years for Master's; 3 years for PhD",
+    "admission_requirements_summary": "Unconditional admission letter or active enrollment at a German university, recognized Bachelor's degree (minimum grade 2.0), certified German B2 proficiency, pastoral reference letter, and academic appraisals.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Cusanuswerk funds students admitted to any recognized German university; demonstrated academic excellence combined with sincere faith commitment and community responsibility is the core evaluation criterion.",
+    "strategic_program_match_advice": "Pakistani applicants must secure university admission in Germany first, obtain a detailed pastoral recommendation letter from their parish priest or diocesan bishop in Pakistan, and ensure German B2 certification before the August 1 deadline."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.cusanuswerk.de/en/scholarships",
+    "portal_system_name": "Cusanuswerk Online Application Portal",
+    "account_creation_instructions": "Register on the Cusanuswerk portal during the open application window, complete the online application questionnaire, and upload academic, pastoral, and civic documents.",
+    "step_by_step_workflow": [
+      "Step 1: Secure admission or enrollment in a Master's or PhD program at a state-recognized German university.",
+      "Step 2: Obtain German language certificate (B2 level or higher).",
+      "Step 3: Collect two academic appraisals from university professors and one pastoral reference letter from a parish priest or Christian organization leader.",
+      "Step 4: Complete the online application on the Cusanuswerk portal before the deadline (August 1).",
+      "Step 5: Pre-selected candidates attend an assessment seminar / selection interview conducted in German in autumn.",
+      "Step 6: Successful candidates receive the formal Cusanuswerk scholarship award document, granting full monthly stipend and seminar access."
+    ],
+    "university_vs_scholarship_routing": "Admission-First Track: Must hold an admission offer or active enrollment in Germany before applying to Cusanuswerk.",
+    "recommendation_letters_submission_method": "Submitted by referees directly via the online portal or mailed in sealed envelopes.",
+    "personal_statement_prompts": "Detailed essay explaining personal faith journey, ethical values, academic trajectory, and commitment to the common good.",
+    "study_plan_research_proposal_requirements": "Summary of degree study plan or doctoral research proposal highlighting academic excellence and societal relevance.",
+    "cv_format_requirements": "Detailed tabular CV (Europass) detailing education, church/parish service, and civic engagement.",
+    "interviews_conducted": true,
+    "interview_format_details": "45-minute selection panel interview conducted in German evaluating academic competence, ethical reflection, and community engagement.",
+    "standardized_tests": "German B2 certificate (Goethe, TestDaF, or telc) mandatory; IELTS/TOEFL for English programs.",
+    "application_fee_amount": "€0 (Free of charge)",
+    "attestation_requirements": "Degrees and transcripts attested by HEC and MOFA Pakistan; Matric/Inter by IBCC.",
+    "translation_requirements": "Certified German translation of all academic records.",
+    "final_submission_method": "Online upload via the official Cusanuswerk scholarship portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "German University Admission Letter or Enrollment Certificate",
+      "mandatory": true,
+      "specification": "Official admission letter or current enrollment certificate (Immatrikulationsbescheinigung).",
+      "pakistan_specific_instruction": "Issued directly by the German university registrar."
+    },
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts for 4-year Bachelor's with minimum German equivalent grade 2.0.",
+      "pakistan_specific_instruction": "Attested copies from HEC and MOFA Pakistan."
+    },
+    {
+      "document_name": "German Language Certificate (B2 Level Minimum)",
+      "mandatory": true,
+      "specification": "Official Goethe-Zertifikat B2, TestDaF (minimum TDN 3 in all sections), or telc B2.",
+      "pakistan_specific_instruction": "Must be valid at the time of application submission."
+    },
+    {
+      "document_name": "Personal Faith and Values Statement",
+      "mandatory": true,
+      "specification": "Detailed essay explaining your personal faith journey, Christian values, and dedication to community service.",
+      "pakistan_specific_instruction": "Demonstrate authentic engagement in community or parish life in Pakistan."
+    },
+    {
+      "document_name": "Pastoral Reference Letter (Pfarrgutachten)",
+      "mandatory": true,
+      "specification": "Confidential reference letter from a Catholic parish priest or church leader testifying to active religious and community life.",
+      "pakistan_specific_instruction": "Issued on official parish or diocesan letterhead in Pakistan."
+    },
+    {
+      "document_name": "Two Academic Professor Appraisals (Gutachten)",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from university professors assessing academic competence.",
+      "pakistan_specific_instruction": "Submitted on university letterhead with institutional email."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "June 1",
+    "application_deadline": "August 1",
+    "university_admission_deadline": "August 1",
+    "document_submission_deadline": "August 1",
+    "recommendation_letters_deadline": "August 1",
+    "interview_period": "October - November",
+    "shortlist_announcement": "December",
+    "final_result_acceptance_deadline": "January",
+    "visa_application_window": "August - September",
+    "semester_commencement": "October 1 (Winter Semester)",
+    "annual_cycle_notes": "Main annual application deadline for international students with admission or enrollment in Germany is August 1."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Academic excellence and grade point average in home country)",
+    "extracurricular_and_leadership_weight": "35% (Demonstrated voluntary engagement in church, parish, and community service)",
+    "research_experience_weight": "10% (Technical depth and societal relevance of study plan/thesis)",
+    "work_experience_weight": "5% (Practical experience in social sector or engineering)",
+    "personal_statement_weight": "10% (Clarity of faith and values essay and personal integrity)",
+    "recommendations_weight": "5% (Academic and pastoral reference appraisals)",
+    "interview_weight": "0% (Interview performance factored directly into final committee vote)",
+    "test_scores_weight": "0% (German B2 language proficiency fulfills qualification threshold)",
+    "financial_need_weight": "0% (Pure merit, ethical, and community leadership evaluation; stipend follows BMBF regulations)",
+    "selection_panel_composition": "Cusanuswerk Independent Selection Committee comprising Catholic university professors, clergy, and civic leaders.",
+    "evaluation_methodology": "Two-phase evaluation: preliminary dossier screening followed by an in-depth oral panel interview in German on ethics, science, and faith."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~900 to 1,300 international applicants globally",
+    "total_scholarships_awarded": "~100 to 140 international fellowships awarded annually",
+    "acceptance_rate_global": "~8% to 11%",
+    "acceptance_rate_pakistan": "~5% to 8% among applicants with German B2 skills and parish credentials",
+    "typical_successful_applicant_gpa": "CGPA 3.50+ / 4.00 accompanied by active church service and articulate German communication",
+    "typical_academic_and_research_profile": "Academically sound scholars with articulate perspectives on human dignity, ethical responsibility in science, and social solidarity.",
+    "common_backgrounds_of_winners": "Graduates active in youth ministries, community charity, interfaith dialogue, and academic societies.",
+    "high_representation_countries": "Pakistan, India, Poland, Croatia, Colombia, Brazil, Nigeria, Kenya.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of private education agencies claiming to guarantee church foundation scholarships in Germany.",
+      "Applications are accepted exclusively via https://www.cusanuswerk.de/."
+    ],
+    "application_fee_warning": "Cusanuswerk does NOT charge any application fee. Any request for payment is fraudulent.",
+    "agent_and_intermediary_warnings": "Cusanuswerk does not work with commercial agents or consultants.",
+    "hidden_costs_breakdown": [
+      "German B2 examination fee (Goethe-Institut): ~PKR 35,000.",
+      "Uni-Assist university application fee: €75 (~PKR 23,000).",
+      "German visa processing and courier fees: ~PKR 25,000.",
+      "Initial pocket money before first stipend transfer: ~€300 (~PKR 90,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You can apply without German language skills. Reality: Cusanuswerk strictly requires a certified B2 German language certificate for international scholarship applicants.",
+      "Myth: Cusanuswerk only funds theology and humanities. Reality: Cusanuswerk actively funds high-performing STEM, computing, and medical scholars who engage with ethical reflection."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim Cusanuswerk is only for EU nationals; non-EU international students enrolled in Germany are fully eligible."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain good academic standing and earn required ECTS credits each semester.",
+    "attendance_requirements": "Full-time campus study in Germany and mandatory participation in Cusanuswerk's spiritual and intellectual formation program (Ideelle Förderung).",
+    "academic_progress_monitoring": "Biannual submission of academic transcripts and reports on community activities to the Cusanuswerk advisor.",
+    "work_restrictions_during_study": "Part-time student work is subject to BMBF income deduction rules if earnings exceed designated allowances.",
+    "home_country_return_obligation": "No mandatory return requirement; scholars are free to pursue careers in Germany or globally.",
+    "service_obligations_or_bonds": "Active participation in local Cusanuswerk scholarship groups (Hochschulgruppen) and annual retreats.",
+    "repayment_clawback_conditions": "Revocation of fellowship in case of gross academic negligence, criminal misconduct, or ethical violations.",
+    "rules_for_changing_university": "Permitted with prior written notification to Cusanuswerk, provided studies remain in Germany.",
+    "rules_for_changing_major": "Permitted once with valid academic justification and prior approval.",
+    "extension_policy": "Extensions beyond standard study duration granted only under exceptional documented circumstances."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Cusanuswerk Official Scholarships Portal",
+      "source_url": "https://www.cusanuswerk.de/en/scholarships",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Federal Ministry of Education and Research (BMBF) Begabtenförderungswerke",
+      "source_url": "https://www.bmbf.de/bmbf/en/education/higher-education/funding-for-gifted-students/funding-for-gifted-students.html",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

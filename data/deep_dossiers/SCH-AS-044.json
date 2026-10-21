@@ -1,0 +1,304 @@
+{
+  "scholarship_id": "SCH-AS-044",
+  "basic_details": {
+    "scholarship_name": "Nanjing University Chinese Government Scholarship - High Level Postgraduate Program (CSC Type B)",
+    "offering_entity": "China Scholarship Council (CSC) & Nanjing University (NJU)",
+    "host_country": "China",
+    "host_institutions_covered": "Nanjing University (Xianlin, Gulou, and Pukou Campuses, Nanjing, Jiangsu Province, China)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Open to all accredited graduate programs at NJU with strategic priority in Artificial Intelligence, Computer Science and Technology, Electronic Science and Engineering, Environmental Sciences, Astronomy, Chemistry, Physics, and International Business.",
+    "number_of_awards_total": "~120 to 160 university-nominated CSC High-Level Postgraduate scholarships awarded annually across all disciplines",
+    "number_of_awards_pakistan": "Open international competition; Pakistani postgraduates represent one of the largest national contingents (~15 to 25 recipients annually across STEM faculties)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 to 3 years for Master's; up to 3 to 4 years for PhD programs"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of a country other than the People's Republic of China (Pakistan eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "Applicants for Master's degree programs must be under 35 years of age; applicants for Doctoral programs must be under 40 years of age.",
+    "academic_qualifications": "Bachelor's degree (16 years education) for Master's applicants; Master's degree (18 years education) for PhD applicants from an HEC-recognized university with high academic achievement (minimum 75% aggregate or CGPA 3.20 / 4.00; competitive admits typically maintain 3.50+ / 4.00).",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.2,
+    "grading_conversion_notes": "Grades converted to CSC 4.0 scale; applicants should rank in the top 20% of their graduating class.",
+    "subject_background_prerequisites": "Relevant undergraduate/postgraduate degree corresponding directly to the applied research discipline.",
+    "current_education_status": "Graduating university seniors in their final semester can apply conditionally with an official pre-graduation bonafide certificate.",
+    "graduation_year_restrictions": "None, provided age and degree eligibility parameters are satisfied.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior academic publications in SCI/EI indexed journals or patent filings significantly elevate PhD competitiveness.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 85,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "For English-taught majors: IELTS Academic min 6.0 (6.5 preferred for computing/business) or TOEFL iBT min 85. Official English Medium of Instruction (MOI) certificates from Pakistani HEC-recognized universities are widely accepted by NJU academic supervisors.",
+    "other_language_requirements": "For Chinese-taught programs: HSK Level 5 with a score of 180 or above is mandatory.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must secure a provisional Acceptance Letter (Pre-Admission Supervision Notice) from an accredited NJU professor/supervisor prior to final institutional review.",
+    "previous_scholarship_restrictions": "Cannot hold any concurrent Chinese Government, provincial, or municipal scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full tuition fee waiver for the complete official degree duration (RMB 32,000 to 45,000 / year value).",
+      "amount": "100% covered (~RMB 35,000 / year; ~PKR 1,365,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "PAID BY APPLICANT",
+      "details": "Nanjing University international application fee of RMB 600 (~USD 85; ~PKR 23,500) payable upon submission of the institutional portal.",
+      "amount": "RMB 600 (~PKR 23,500)"
+    },
+    "accommodation": {
+      "status": "100% COVERED",
+      "details": "Free on-campus accommodation provided in university international student dormitories (single room for PhD students, shared twin room for Master's students) on Xianlin or Gulou Campus, or monthly housing subsidy of RMB 700 to 1,000 if living off-campus with university approval.",
+      "amount": "100% covered dormitory or RMB 700-1,000/mo allowance"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Standard China Scholarship Council monthly living stipend: RMB 3,000 / month for Master's students (~USD 420; ~PKR 117,000 / month); RMB 3,500 / month for PhD students (~USD 490; ~PKR 136,500 / month).",
+      "amount": "RMB 3,000 to 3,500 / month (~PKR 117,000 to 136,500 / mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International round-trip travel expenses between Pakistan and Nanjing are self-funded by the scholar.",
+      "amount": "Not covered (Self-funded ~PKR 160,000 to 220,000 round-trip)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Chinese X1 Student Visa application fees and medical examination fees in Pakistan are borne by the student.",
+      "amount": "Not covered (~PKR 25,000 to 35,000 for visa and medical)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Comprehensive Medical Insurance for International Students in China provided by Ping An Insurance (RMB 800 / year value).",
+      "amount": "100% covered (RMB 800 / year)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "University canteens (including halal-certified cafeterias on Xianlin and Gulou campuses) provide subsidized meals for RMB 20 to 35/day; easily covered by the monthly stipend.",
+      "amount": "Covered from monthly living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "100% COVERED",
+      "details": "Full access to Nanjing University libraries, scientific databases, high-performance computing clusters, and laboratory research facilities.",
+      "amount": "Covered via institutional infrastructure"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Research project supplies, fieldwork, and domestic academic conferences funded through supervisor's National Natural Science Foundation of China (NSFC) grants.",
+      "amount": "Covered through host laboratory grants"
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Local subway, bus, and high-speed rail transit between Shanghai/Nanjing and campus is paid from stipend.",
+      "amount": "Covered from living stipend"
+    },
+    "total_estimated_value_usd_per_year": 14500
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Nanjing University)",
+    "participating_institutions": [
+      "Nanjing University (NJU) - C9 League Institution (Jiangsu, China)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #145, ARWU Shanghai Ranking #80 worldwide, Chinese C9 League elite university.",
+    "available_majors": [
+      "Computer Science and Technology",
+      "Artificial Intelligence",
+      "Software Engineering",
+      "Electronic Science and Technology",
+      "Physics and Condensed Matter Physics",
+      "Chemistry and Chemical Biology",
+      "Environmental Science and Engineering",
+      "Earth Sciences and Geology",
+      "Astronomy and Astrophysics",
+      "International Economics and Trade",
+      "Business Administration (MBA / Ph.D.)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 to 3 years; PhD: 3 to 4 years",
+    "admission_requirements_summary": "Online NJU application, supervisor acceptance letter, notarized academic transcripts and degree certificates, two professor recommendation letters, detailed research proposal (800+ words for Master's, 1,500+ words for PhD), Foreigner Physical Examination Form, and clean police character certificate.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Securing a pre-acceptance letter from faculty in the School of Computer Science or School of Artificial Intelligence is exceptionally competitive due to global demand; applicants with published papers in IEEE/ACM transactions or top conferences receive rapid supervisor endorsements.",
+    "strategic_program_match_advice": "Contact prospective NJU supervisors between October and December. Send a concise cold email highlighting your publication record, GitHub repository, and an aligned 2-page research draft before submitting the formal CSC portal application."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "http://studyinchina.csc.edu.cn/ & http://istudy.nju.edu.cn",
+    "portal_system_name": "CSC Online Application System (Agency No. 10284) & NJU International Student Portal",
+    "account_creation_instructions": "Register on the CSC portal selecting 'Program Category Type B', input NJU Agency Number '10284'. Concurrently register on the NJU International Student Service System and upload matching documentation.",
+    "step_by_step_workflow": [
+      "Step 1: Explore NJU faculty profiles and reach out to prospective supervisors with CV and research abstract (October - December).",
+      "Step 2: Secure the formal NJU 'Provisional Acceptance Letter for International Students' signed by the professor and school.",
+      "Step 3: Complete CSC online registration under Type B (Agency No. 10284) and download the completed CSC application form.",
+      "Step 4: Complete NJU International Student Portal application and upload all notarized academic credentials, physical exam, and police certificate.",
+      "Step 5: Pay the NJU application fee (RMB 600) online via UnionPay, WeChat, or international credit card.",
+      "Step 6: School-level academic committee reviews dossiers and conducts online technical interviews (February - March).",
+      "Step 7: NJU nominates shortlisted candidates to the China Scholarship Council in Beijing for final approval (April - May).",
+      "Step 8: Final CSC award list announced; official JW201 visa form and NJU admission notice dispatched (June - July).",
+      "Step 9: Apply for Chinese X1 Student Visa at Chinese Visa Application Service Centre (Gerry's) in Pakistan and arrive in Nanjing in September."
+    ],
+    "university_vs_scholarship_routing": "Direct University Track (Type B): The university evaluates, interviews, and directly nominates candidates to CSC.",
+    "recommendation_letters_submission_method": "Uploaded directly by applicant as signed PDF letters on institutional letterhead with recommender email and phone details.",
+    "personal_statement_prompts": "Comprehensive Statement of Purpose / Research Proposal covering academic background, proposed research methodology, justification for choosing Nanjing University, and long-term professional aspirations (minimum 800 words for Master's; 1,500 words for PhD).",
+    "study_plan_research_proposal_requirements": "Structured research proposal detailing problem statement, literature review, technical methodology, expected timeline, and alignment with prospective supervisor's research group.",
+    "cv_format_requirements": "Academic CV detailing education history, published papers, academic awards, technical programming skillsets, and referee details.",
+    "interviews_conducted": true,
+    "interview_format_details": "30-minute online video interview via Tencent Meeting (VooV) or Zoom conducted by NJU departmental faculty panel, evaluating technical depth, research feasibility, and English communication.",
+    "standardized_tests": "None strictly required (GRE not mandatory); English proficiency test or MOI letter required.",
+    "application_fee_amount": "RMB 600 (~USD 85; ~PKR 23,500)",
+    "attestation_requirements": "Educational degrees and transcripts must be notarized by a licensed Notary Public in Pakistan and subsequently attested by HEC and MoFA for final registration.",
+    "translation_requirements": "Official English or Chinese translations required for any non-English/non-Chinese certificates.",
+    "final_submission_method": "100% digital submission via CSC and NJU online portals; physical hardcopies not required unless requested by specific faculty."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "CSC Online Application Form (Type B)",
+      "mandatory": true,
+      "specification": "Downloaded from studyinchina.csc.edu.cn with Agency No. 10284, signed by applicant.",
+      "pakistan_specific_instruction": "Ensure applicant details match Pakistani passport exactly."
+    },
+    {
+      "document_name": "Nanjing University Provisional Acceptance Letter",
+      "mandatory": true,
+      "specification": "Official pre-acceptance form signed by an authorized NJU doctoral/master supervisor.",
+      "pakistan_specific_instruction": "Crucial requirement; applications without professor endorsement rarely pass university screening."
+    },
+    {
+      "document_name": "Notarized Degree Certificates and Transcripts",
+      "mandatory": true,
+      "specification": "Color scanned copies of notarized Bachelor's/Master's degrees and transcripts.",
+      "pakistan_specific_instruction": "Must be notarized by notary public and verified by HEC Pakistan."
+    },
+    {
+      "document_name": "Detailed Study Plan / Research Proposal",
+      "mandatory": true,
+      "specification": "Minimum 800 words for Master's; 1,500 words for PhD in English or Chinese.",
+      "pakistan_specific_instruction": "Tailor directly to NJU laboratory projects; avoid generic templates."
+    },
+    {
+      "document_name": "Two Academic Recommendation Letters",
+      "mandatory": true,
+      "specification": "Written by full Professors or Associate Professors on official university letterhead.",
+      "pakistan_specific_instruction": "Must include official institutional email address and contact numbers of Pakistani professors."
+    },
+    {
+      "document_name": "Foreigner Physical Examination Form",
+      "mandatory": true,
+      "specification": "Official Chinese physical examination form with all blood tests (HIV, Syphilis, Hepatitis), chest X-ray, and ECG stamped by hospital.",
+      "pakistan_specific_instruction": "Must be completed at a recognized government hospital (e.g. Services Hospital, PIMS, or Shifa) within 6 months of submission."
+    },
+    {
+      "document_name": "Non-Criminal Record Certificate (Police Character Certificate)",
+      "mandatory": true,
+      "specification": "Official certificate issued by local police authority confirming no criminal record, valid within 6 months.",
+      "pakistan_specific_instruction": "Obtained from Police Khidmat Markaz across Pakistan and attested by MoFA."
+    },
+    {
+      "document_name": "English Proficiency Certificate or Test Report",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.0), TOEFL iBT (min 85), or official English Medium of Instruction certificate.",
+      "pakistan_specific_instruction": "MOI letter on university letterhead signed by Registrar / Controller of Examinations accepted."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear scanned copy of passport information page with validity extending at least 1 year beyond program start.",
+      "pakistan_specific_instruction": "Pakistani passport must be valid until at least March 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "November 1",
+    "application_deadline": "January 15",
+    "university_admission_deadline": "January 15",
+    "document_submission_deadline": "January 15",
+    "recommendation_letters_deadline": "January 15",
+    "interview_period": "February 15 - March 20",
+    "shortlist_announcement": "April 15",
+    "final_result_acceptance_deadline": "June 30",
+    "visa_application_window": "July 1 - August 15",
+    "semester_commencement": "Early September",
+    "annual_cycle_notes": "Annual single-intake cycle for Autumn semester (September enrollment). Faculty outreach is highly recommended from October."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Undergraduate/Master's GPA and university prestige)",
+    "extracurricular_and_leadership_weight": "5% (Extracurricular and social contributions)",
+    "research_experience_weight": "35% (Research publications, supervisor fit, and proposal rigor)",
+    "work_experience_weight": "5% (Industry/laboratory technical experience)",
+    "personal_statement_weight": "10% (Study plan clarity and articulation of research goals)",
+    "recommendations_weight": "5% (Strength and specificity of academic referee endorsements)",
+    "interview_weight": "10% (Oral defense, technical aptitude, and English fluency)",
+    "test_scores_weight": "0% (No GRE required; English meets threshold)",
+    "financial_need_weight": "0% (Exclusively merit and research-potential based)",
+    "selection_panel_composition": "NJU International Institute Admissions Board, Departmental Academic Committee, and China Scholarship Council Expert Panel.",
+    "evaluation_methodology": "Two-tier selection: preliminary academic audit and supervisor endorsement at NJU departmental level, followed by CSC national review in Beijing."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,500 to 5,000 international applicants across all disciplines",
+    "total_scholarships_awarded": "~120 to 160 CSC Type B scholarships awarded annually",
+    "acceptance_rate_global": "~2.5% to 4.0%",
+    "acceptance_rate_pakistan": "~5.0% among applicants possessing an official supervisor acceptance letter",
+    "typical_successful_applicant_gpa": "3.50+ / 4.00 or 80%+ aggregate from leading Pakistani institutions (NUST, QAU, UET, FAST, LUMS, COMSATS)",
+    "typical_academic_and_research_profile": "Strong theoretical foundation, at least 1-2 published papers or indexed conference proceedings, and an endorsed research plan aligned with NJU lab priorities.",
+    "common_backgrounds_of_winners": "Graduates of top Pakistani public and private engineering/science universities with tangible laboratory experience.",
+    "high_representation_countries": "Pakistan, Russia, South Korea, Vietnam, Indonesia, Kazakhstan, France, Nigeria.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of fraudulent educational agency websites claiming guaranteed CSC admission to Nanjing University for an upfront fee.",
+      "Legitimate applications are processed ONLY through studyinchina.csc.edu.cn and istudy.nju.edu.cn."
+    ],
+    "application_fee_warning": "NJU charges an official non-refundable application fee of RMB 600; CSC application itself is completely free. Never pay agent processing fees.",
+    "agent_and_intermediary_warnings": "Nanjing University does not collaborate with any commercial educational agencies for CSC scholarship distribution. Direct supervisor contact is essential.",
+    "hidden_costs_breakdown": [
+      "RMB 600 NJU application fee.",
+      "Pakistani medical checkup and MoFA attestation expenses (~PKR 30,000 to 45,000).",
+      "Round-trip airfare from Pakistan to Shanghai/Nanjing (~PKR 180,000 to 220,000).",
+      "Initial 1-month living buffer before first stipend release (~RMB 2,500; ~PKR 100,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You cannot get CSC without knowing Chinese. Reality: NJU offers dozens of world-class graduate programs taught 100% in English.",
+      "Myth: An acceptance letter guarantees the scholarship. Reality: Acceptance letters pass the departmental hurdle, but final CSC approval depends on institutional quota allocation."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs suggest submitting physical hard copies to Nanjing; NJU transitioned to an entirely paperless online portal submission."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic performance (grade equivalent to 70%+ or passing all coursework) in accordance with NJU Graduate School regulations.",
+    "attendance_requirements": "Strict attendance in lectures and active daily presence in research laboratories as directed by the principal investigator.",
+    "academic_progress_monitoring": "Annual CSC Comprehensive Scholarship Review (April - May) evaluating coursework, research progress, and supervisor feedback; failure results in suspension or termination of stipend.",
+    "work_restrictions_during_study": "Off-campus employment is strictly prohibited under Chinese immigration laws without explicit university endorsement and work-study visa notation.",
+    "home_country_return_obligation": "None enforced by CSC; graduates may pursue post-doctoral fellowships, industry employment in China under working visas, or international research careers.",
+    "service_obligations_or_bonds": "No financial bond or service indenture required.",
+    "repayment_clawback_conditions": "Stipend and tuition benefits terminated if scholar is expelled for disciplinary breaches, severe violation of Chinese law, or unapproved program abandonment.",
+    "rules_for_changing_university": "Changing university while under CSC scholarship is strictly forbidden.",
+    "rules_for_changing_major": "Major changes are generally not permitted unless approved under extraordinary circumstances by NJU Graduate School and CSC Beijing.",
+    "extension_policy": "Scholarship extensions are extremely rare and generally require supervisor research funding coverage if PhD studies exceed the approved duration."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Nanjing University Institute for International Students Official Portal",
+      "source_url": "https://hwxy.nju.edu.cn/English/Scholarships/ChineseGovernmentScholarship/index.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "China Scholarship Council (CSC) Official Portal",
+      "source_url": "http://studyinchina.csc.edu.cn/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

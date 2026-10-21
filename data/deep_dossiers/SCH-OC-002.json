@@ -1,0 +1,266 @@
+{
+  "scholarship_id": "SCH-OC-002",
+  "basic_details": {
+    "scholarship_name": "Manaaki New Zealand Scholarships",
+    "offering_entity": "New Zealand Ministry of Foreign Affairs and Trade (MFAT)",
+    "host_country": "New Zealand",
+    "host_institutions_covered": "All 8 New Zealand Universities (Auckland, Otago, Victoria Wellington, Canterbury, Massey, Waikato, Lincoln, AUT)",
+    "degree_levels": [
+      "Master's",
+      "PhD",
+      "Postgraduate Diploma"
+    ],
+    "major_restrictions": "Target development sectors: Climate Change & Resilience, Renewable Energy, Disaster Risk Management, Food Security & Agriculture, Sustainable Governance.",
+    "number_of_awards_total": "~500 scholars selected globally across partner developing countries",
+    "number_of_awards_pakistan": "Open to Pakistan as an eligible Commonwealth country under Asia regional quota",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Postgraduate Diploma (1 year), Master's degree (1 to 2 years), PhD (up to 3.5 years)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizen of an eligible country (including Pakistan) residing in home country for at least 2 years prior to application"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "Minimum age is 18 years at commencement; no upper age limit, but applicants under 40 years are preferred.",
+    "academic_qualifications": "16 years of education (Bachelor's) for Master's; 18 years (Master's with thesis) for PhD.",
+    "minimum_gpa_percentage": 65.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum B grade equivalent (3.0 / 4.00 CGPA or 65%+ marks in annual system).",
+    "subject_background_prerequisites": "Academic background aligned with New Zealand priority development sectors.",
+    "current_education_status": "Graduated and currently employed in home country.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": true,
+    "work_experience_minimum_years": 1.0,
+    "work_experience_notes": "Minimum 1 year of full-time work experience (or 2 years part-time) related to chosen field of study.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 90,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic 6.5 (no band below 6.0) or TOEFL iBT 90 (writing 21) required for Master's; IELTS 6.5-7.0 for PhD."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "Equal opportunity; female applicants and marginalized community members encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Development impact and firm commitment to return to Pakistan for a minimum of two years.",
+    "previous_scholarship_restrictions": "Cannot hold another scholarship concurrently; previous New Zealand scholarship recipients must satisfy stand-down period.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full international tuition fees and compulsory university student services levies.",
+      "amount": "NZD $35,000 to $48,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Handled through scholarship administration.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered through living allowance.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Fortnightly living allowance paid to cover accommodation, food, and living expenses.",
+      "amount": "NZD $531 / week (~NZD $2,300 / month or ~PKR 390,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Economy class return flights from Pakistan to New Zealand, plus reunion travel flights for long multi-year awards.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Student visa medical examination and visa application fees covered.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive travel and medical insurance (Studentsafe-University) fully covered.",
+      "amount": "NZD $800 / year"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Included in living allowance.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Establishment allowance paid upon arrival in New Zealand.",
+      "amount": "NZD $3,000 one-off establishment allowance (~PKR 510,000)"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Postgraduate thesis research allowance provided for master's and PhD research students.",
+      "amount": "Up to NZD $1,000–$2,000"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Included in establishment allowance.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 38000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple host universities across New Zealand.",
+    "participating_institutions": [
+      "University of Auckland",
+      "University of Otago",
+      "Victoria University of Wellington",
+      "University of Canterbury",
+      "Massey University",
+      "University of Waikato",
+      "Lincoln University",
+      "Auckland University of Technology (AUT)"
+    ],
+    "university_rankings_scope": "All 8 state universities ranked within QS World Top 500.",
+    "available_majors": [
+      "Climate Change & Adaptation, Renewable Energy, Environmental Engineering, Food Technology, Agribusiness, Disaster Risk Management, Public Policy, Indigenous Governance, Natural Resource Management"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 to 2 years for Master's; 3.5 years for PhD",
+    "admission_requirements_summary": "Select preferred New Zealand universities and programs on the Manaaki portal; university admissions coordinated after scholarship shortlisting.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Lincoln and Massey are world-renowned for Agriculture; Auckland and Canterbury for Engineering.",
+    "strategic_program_match_advice": "Align your proposed degree explicitly with Pakistan's National Climate Change Policy or renewable energy targets."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.mfat.govt.nz/en/aid-and-development/scholarships/",
+    "portal_system_name": "Manaaki New Zealand Scholarships Portal",
+    "account_creation_instructions": "Complete the online eligibility questionnaire to verify country and sector eligibility, then create applicant account.",
+    "step_by_step_workflow": [
+      "1. Take online eligibility test on Manaaki portal (Opens February).",
+      "2. If eligible, complete online application form.",
+      "3. Write development impact statements explaining how study will address home country challenges.",
+      "4. Submit online application by closing date (typically end of February).",
+      "5. Complete online psychometric / cognitive testing (April).",
+      "6. Shortlisted candidates invited for video interview (June-July).",
+      "7. Final selections announced August-September; placement confirmed with NZ universities."
+    ],
+    "university_vs_scholarship_routing": "Direct application via Manaaki MFAT portal.",
+    "recommendation_letters_submission_method": "Submitted online by referees during shortlisting stage.",
+    "personal_statement_prompts": "Explain how your proposed study will contribute to the sustainable economic and social development of Pakistan.",
+    "study_plan_research_proposal_requirements": "Summary of coursework or research objectives (PhD applicants require brief outline of research focus).",
+    "cv_format_requirements": "Standard employment and education history entered into online portal.",
+    "interviews_conducted": true,
+    "interview_format_details": "Semi-structured competency-based interview conducted via video conference by New Zealand selection panel.",
+    "standardized_tests": "IELTS Academic or TOEFL iBT required after shortlisting.",
+    "application_fee_amount": "$0 (100% Free).",
+    "attestation_requirements": "Certified copies of degree and transcripts.",
+    "translation_requirements": "Official English translations required.",
+    "final_submission_method": "100% Online via Manaaki portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "University Degree & Transcripts",
+      "mandatory": true,
+      "specification": "Certified copies of undergraduate and postgraduate qualifications",
+      "pakistan_specific_instruction": "Certified by degree-awarding university in Pakistan"
+    },
+    {
+      "document_name": "Proof of Work Experience",
+      "mandatory": true,
+      "specification": "Employment letter confirming minimum 1 year relevant work experience",
+      "pakistan_specific_instruction": "From employer on official letterhead"
+    },
+    {
+      "document_name": "English Language Test Certificate",
+      "mandatory": true,
+      "specification": "Valid IELTS Academic (6.5+) or TOEFL iBT (90+)",
+      "pakistan_specific_instruction": "Test score must be valid at commencement of study in New Zealand"
+    },
+    {
+      "document_name": "Citizenship Proof / Passport",
+      "mandatory": true,
+      "specification": "Valid Pakistani passport photo page",
+      "pakistan_specific_instruction": "Must show Pakistani citizenship"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-02-01",
+    "application_deadline": "2026-02-28",
+    "university_admission_deadline": "N/A (Managed by MFAT)",
+    "document_submission_deadline": "2026-02-28",
+    "recommendation_letters_deadline": "2026-06-30",
+    "interview_period": "June to July 2026",
+    "shortlist_announcement": "August 2026",
+    "final_result_acceptance_deadline": "October 2026",
+    "visa_application_window": "November to December 2026",
+    "semester_commencement": "February 2027 (Semester 1 in New Zealand)",
+    "annual_cycle_notes": "Application window is very short: opens February 1 and closes end of February each year."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "25% (Academic capability and background)",
+    "extracurricular_and_leadership_weight": "15% (Commitment to community and leadership)",
+    "research_experience_weight": "15% (Relevance for research master's/PhD)",
+    "work_experience_weight": "20% (Direct relevance to priority development areas)",
+    "personal_statement_weight": "25% (Development impact of proposed study on Pakistan)",
+    "recommendations_weight": "Evaluated during shortlisting",
+    "interview_weight": "Decisive in final round",
+    "test_scores_weight": "Passing threshold required",
+    "financial_need_weight": "0%",
+    "selection_panel_composition": "New Zealand Ministry of Foreign Affairs and Trade (MFAT) selection committees and development specialists.",
+    "evaluation_methodology": "Assessment of academic aptitude, development relevance, and applicant's likelihood of driving sustainable change in home country."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~10,000+ applicants across all eligible partner countries",
+    "total_scholarships_awarded": "~500 scholars selected globally",
+    "acceptance_rate_global": "~5%",
+    "acceptance_rate_pakistan": "~2% to 3% (Highly Competitive)",
+    "typical_successful_applicant_gpa": "3.20 to 3.80 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Mid-career professionals working in government agencies, environmental NGOs, or renewable energy companies with concrete career plans.",
+    "common_backgrounds_of_winners": "Engineers in provincial energy departments, disaster management officers (NDMA/PDMA), agricultural researchers.",
+    "high_representation_countries": "Pacific Island nations, Southeast Asia, South Asia.",
+    "competitiveness_tier": "VERY HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Websites charging fees for Manaaki scholarship application assistance."
+    ],
+    "application_fee_warning": "Manaaki application is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Do NOT use education agents; applications submitted by agents are flagged and disqualified.",
+    "hidden_costs_breakdown": [
+      "IELTS or TOEFL test fee in Pakistan (~PKR 55,000 to 65,000).",
+      "Immigration medical examination by panel physician in Pakistan (~PKR 25,000).",
+      "Courier charges for physical document dispatch if required."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can stay and seek New Zealand permanent residency immediately after study. (Fact: MANDATORY 2-year return to home country is legally binding under visa regulations).",
+      "MYTH: Any subject can be studied. (Fact: Only designated development priority sectors are eligible)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "External blogs list outdated application deadlines; the window closes strictly in late February."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass all courses and maintain satisfactory academic standing per New Zealand university regulations.",
+    "attendance_requirements": "Full-time physical enrollment on campus in New Zealand.",
+    "academic_progress_monitoring": "Host universities provide regular progress updates to MFAT.",
+    "work_restrictions_during_study": "Scholars may work up to 20 hours/week during term-time per New Zealand student visa conditions.",
+    "home_country_return_obligation": "MANDATORY 2-Year Return: Scholars must return to their home country for a minimum of two years upon completion to apply skills to development.",
+    "service_obligations_or_bonds": "Legal undertaking signed with the New Zealand Government.",
+    "repayment_clawback_conditions": "Scholars who fail to return home or breach scholarship terms may be required to repay the full scholarship cost.",
+    "rules_for_changing_university": "Changing institutions is not permitted except in exceptional circumstances with MFAT approval.",
+    "rules_for_changing_major": "Not permitted.",
+    "extension_policy": "Extensions are strictly granted only for unavoidable medical or academic research delays approved by MFAT."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "New Zealand Ministry of Foreign Affairs and Trade (MFAT) - Manaaki Scholarships",
+      "source_url": "https://www.mfat.govt.nz/en/aid-and-development/scholarships/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Specific country-by-country candidate quota caps for South Asian countries",
+        "Psychometric testing score weightings and cutoff marks"
+      ]
+    }
+  ]
+}

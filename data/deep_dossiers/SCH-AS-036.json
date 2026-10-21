@@ -1,0 +1,286 @@
+{
+  "scholarship_id": "SCH-AS-036",
+  "basic_details": {
+    "scholarship_name": "Hokkaido University President's Fellowship & MEXT Special Program in Information Science",
+    "offering_entity": "Hokkaido University & Japanese Ministry of Education, Culture, Sports, Science and Technology (MEXT)",
+    "host_country": "Japan",
+    "host_institutions_covered": "Hokkaido University Sapporo Campus (Sapporo, Hokkaido, Japan)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Graduate School of Information Science and Technology: Computer Science, Information Science and Technology, Media Network Engineering, Systems Science and Informatics, and Bioengineering and Bioinformatics.",
+    "number_of_awards_total": "~40 to 60 University-Recommended MEXT and President's Fellowships awarded annually across international intakes",
+    "number_of_awards_pakistan": "Open international merit competition; Pakistani graduate researchers in computing secure ~4 to 7 fully funded positions annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years for Master's; up to 3 years for PhD, subject to satisfactory annual academic and research progress",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "JPY 144,000 / month (~PKR 275,000 / month for Master's); JPY 145,000 - 200,000 / month (~PKR 277,000 - 380,000 / month for PhD)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of countries holding diplomatic relations with Japan (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Under 35 years of age on April 1 of the intake year for the MEXT track; no age limit for university internal fellowships.",
+    "academic_qualifications": "A recognized 4-year Bachelor's degree (16 years education) with minimum CGPA 3.30 / 4.00 (or 75%+ aggregate) from an HEC-recognized university in Pakistan for Master's; research Master's degree (18 years education) with strong thesis output for PhD.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Must meet minimum MEXT GPA calculation of 2.30 / 3.00 over the preceding two academic years.",
+    "subject_background_prerequisites": "Rigorous undergraduate preparation in algorithms, computer architectures, linear algebra, discrete mathematics, and programming (C/C++, Python).",
+    "current_education_status": "Graduating seniors in their final semester can apply conditionally with expected graduation transcripts.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior software development, open-source projects, or published research papers in IEEE/ACM venues significantly strengthen candidacy.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.5, TOEFL iBT minimum 80, or institutional English Medium of Instruction (MOI) certificate from Pakistani university.",
+    "other_language_requirements": "Japanese language proficiency is not required; research and coursework are conducted 100% in English.",
+    "gender_specific_requirements": null,
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must contact a prospective supervising professor at Hokkaido University Graduate School of Information Science and Technology and obtain informal preliminary consent prior to formal application.",
+    "previous_scholarship_restrictions": "Cannot hold another government scholarship simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full exemption of entrance examination fee (JPY 30,000), admission fee (JPY 282,000), and annual tuition fees (JPY 535,800 / year value).",
+      "amount": "100% covered (~JPY 535,800 / year; ~PKR 1,020,000 / year value)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Application and screening fees are 100% waived for MEXT fellowship nominees.",
+      "amount": "JPY 0 (100% waived)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Guaranteed on-campus single room in Hokkaido University International Student Dormitory (Hokudai Foreign Student House) for the first 6-12 months; monthly rent JPY 18,000 - JPY 30,000.",
+      "amount": "Subsidized rent ~JPY 22,000 / month (~PKR 42,000 / month)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living allowance: JPY 144,000 per month for Master's (~PKR 275,000 / month; JPY 1,728,000 / year); JPY 145,000 to JPY 200,000 per month for PhD (~PKR 277,000 - 380,000 / month with President's top-up).",
+      "amount": "JPY 144,000 - 200,000 / month (~PKR 275,000 - 380,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Prepaid economy-class flight tickets from Islamabad/Lahore/Karachi to New Chitose Airport (Sapporo / CTS) at the start and return ticket upon degree completion.",
+      "amount": "100% covered round-trip economy flights (~JPY 250,000 value)"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Japanese College Student Visa issued free of charge for MEXT scholars by the Embassy of Japan in Islamabad or Consulate in Karachi.",
+      "amount": "100% free / waived"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Japanese National Health Insurance (NHI) premium (~JPY 2,000 / month) covers 70% of medical costs; Hokkaido University Student Co-op covers remaining co-pays.",
+      "amount": "Subsidized NHI premium (~JPY 2,000 / month)"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via the monthly living stipend of JPY 144,000 - 200,000; campus cafeterias provide halal meal options for JPY 450 - JPY 700.",
+      "amount": "Included in monthly living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Access to high-performance computing clusters, supercomputing center (Hokkaido University Information Initiative Center), and research labs.",
+      "amount": "100% covered by institutional infrastructure"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Laboratory funding available through supervisor grants (JSPS KAKENHI) for presenting papers at international conferences in Japan and abroad.",
+      "amount": "Up to JPY 200,000 / year upon supervisor approval"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Sapporo municipal subway student discounts (50% reduction) and campus transit links.",
+      "amount": "50% subway student discount"
+    },
+    "total_estimated_value_usd_per_year": 22000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single premier Japanese national imperial university: Hokkaido University (Hokudai).",
+    "participating_institutions": [
+      "Hokkaido University (Sapporo Campus, Hokkaido, Japan)"
+    ],
+    "university_rankings_scope": "One of Japan's prestigious 7 Designated National Imperial Universities; ranked top 150 globally in QS World University Rankings and top 100 for Engineering & Computer Science.",
+    "available_majors": [
+      "Computer Science and Information Technology",
+      "Media Network Engineering and Artificial Intelligence",
+      "Systems Science and Informatics",
+      "Bioengineering and Bioinformatics",
+      "Quantum Information and Nano-electronics",
+      "Robotics and Cybernetics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years for Master's; 3 years for PhD",
+    "admission_requirements_summary": "Bachelor's degree in CS/EE, minimum MEXT GPA 2.3/3.0, informal supervisor consent, statement of research proposal, two recommendation letters, and certified English proficiency.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Information Science research labs in AI, Media Networks, and Robotics have high competition; securing supervisor endorsement between September and November is the primary determinant of admission and funding.",
+    "strategic_program_match_advice": "Browse the Hokkaido University Graduate School of Information Science and Technology faculty directory (ist.hokudai.ac.jp), find matching professors in AI/computing, and email a tailored research proposal and CV between September and November for the October intake."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.ist.hokudai.ac.jp/eng/ & https://www.global.hokudai.ac.jp/admissions/",
+    "portal_system_name": "Hokkaido University Graduate Admissions System",
+    "account_creation_instructions": "Contact prospective supervisor directly via email, obtain formal letter of provisional acceptance, and submit the university-recommended MEXT / President's fellowship application to the international student affairs office.",
+    "step_by_step_workflow": [
+      "Step 1: Identify research laboratories in Hokkaido University Graduate School of Information Science matching your technical interests.",
+      "Step 2: Email prospective supervisor with academic transcripts, CV, and a 2-3 page research proposal to obtain informal provisional acceptance (September - November).",
+      "Step 3: Receive formal application documents from the student affairs section upon supervisor nomination.",
+      "Step 4: Submit complete MEXT application dossier, attested transcripts, degrees, recommendation letters, and medical certificate by early January.",
+      "Step 5: Faculty committee conducts technical screening and nominates top candidates to MEXT / university fellowship board in February.",
+      "Step 6: Official award notification issued in June.",
+      "Step 7: Arrive in Sapporo in late September to commence studies in October."
+    ],
+    "university_vs_scholarship_routing": "Integrated Supervisor Track: Application is submitted through the supervising professor and graduate school directly.",
+    "recommendation_letters_submission_method": "Submitted on institutional letterhead signed by the Dean or Department Head of the Pakistani university.",
+    "personal_statement_prompts": "Field of study and research plan outlining previous research experience and detailed thesis proposal for Hokkaido University.",
+    "study_plan_research_proposal_requirements": "Structured 3 to 5-page research proposal detailing background, problem formulation, methodology, and expected timeline.",
+    "cv_format_requirements": "Detailed academic CV highlighting technical projects, publications, programming proficiencies, and awards.",
+    "interviews_conducted": true,
+    "interview_format_details": "30 to 45-minute technical video interview via Zoom conducted by prospective supervisor and lab faculty members.",
+    "standardized_tests": "IELTS Academic (min 6.5), TOEFL iBT (min 80), or institutional English MOI certificate accepted; GRE not required.",
+    "application_fee_amount": "JPY 0 (100% waived for MEXT fellowship applicants)",
+    "attestation_requirements": "Degrees and transcripts attested by HEC and MOFA Pakistan; Matric/Inter by IBCC.",
+    "translation_requirements": "Certified English translation required for all official documents.",
+    "final_submission_method": "Digital dossier submission followed by physical document dispatch to Hokkaido University."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts for 4-year Bachelor's with minimum CGPA 3.3/4.0 and MEXT GPA 2.3/3.0.",
+      "pakistan_specific_instruction": "Attested copies from HEC and MOFA Pakistan."
+    },
+    {
+      "document_name": "Field of Study and Research Plan (Kenkyu Keikakusho)",
+      "mandatory": true,
+      "specification": "Official MEXT formatted research proposal detailing background, methodology, and thesis timeline.",
+      "pakistan_specific_instruction": "Must be closely aligned with prospective Hokkaido University supervisor's lab projects."
+    },
+    {
+      "document_name": "Letter of Provisional Acceptance from Hokkaido University Professor",
+      "mandatory": true,
+      "specification": "Informal written consent from a professor agreeing to serve as academic supervisor.",
+      "pakistan_specific_instruction": "Obtained directly through email academic correspondence."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "One letter from Dean or Head of Department; one from thesis advisor or senior professor.",
+      "pakistan_specific_instruction": "Printed on official Pakistani university letterhead."
+    },
+    {
+      "document_name": "English Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5), TOEFL iBT (min 80), or institutional English MOI letter.",
+      "pakistan_specific_instruction": "MOI letter signed by university registrar."
+    },
+    {
+      "document_name": "Certificate of Health (MEXT Form)",
+      "mandatory": true,
+      "specification": "Official medical fitness certificate signed by an authorized physician.",
+      "pakistan_specific_instruction": "Completed at an authorized diagnostic center."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "High-resolution color scan of passport data page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Pakistani passport must have validity through late 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "September 1 (Supervisor outreach)",
+    "application_deadline": "January 10 (Formal dossier submission)",
+    "university_admission_deadline": "January 10",
+    "document_submission_deadline": "January 15",
+    "recommendation_letters_deadline": "January 10",
+    "interview_period": "November - December",
+    "shortlist_announcement": "Late February",
+    "final_result_acceptance_deadline": "June",
+    "visa_application_window": "July - August",
+    "semester_commencement": "October 1 (Autumn intake)",
+    "annual_cycle_notes": "Main intake for university-recommended MEXT track is October. Supervisor contact must begin 10 to 12 months in advance."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Undergraduate GPA and performance in core computing and engineering courses)",
+    "extracurricular_and_leadership_weight": "5% (Technical community leadership and hackathon participation)",
+    "research_experience_weight": "35% (Quality of research proposal, supervisor match, and previous publications/capstone)",
+    "work_experience_weight": "5% (Industry software engineering or research experience)",
+    "personal_statement_weight": "10% (Clarity of academic intent and justification for Hokkaido University)",
+    "recommendations_weight": "10% (Academic referee appraisals and Dean's endorsement)",
+    "interview_weight": "0% (Interview performance factored directly into supervisor endorsement)",
+    "test_scores_weight": "0% (Language proficiency fulfills eligibility threshold)",
+    "financial_need_weight": "0% (Pure academic and research merit ranking)",
+    "selection_panel_composition": "Hokkaido University Faculty Admissions Board and Fellowship Committee.",
+    "evaluation_methodology": "Two-phase evaluation: supervisor nomination followed by faculty committee academic ranking."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~500 to 800 international applicants across Information Science laboratories",
+    "total_scholarships_awarded": "~40 to 60 fully funded positions awarded annually",
+    "acceptance_rate_global": "~6% to 9%",
+    "acceptance_rate_pakistan": "~8% to 12% among candidates with supervisor consent",
+    "typical_successful_applicant_gpa": "CGPA 3.50+ / 4.00 from top Pakistani engineering institutions (NUST, FAST, GIKI, UET, NED)",
+    "typical_academic_and_research_profile": "Graduates with exceptional computing foundations, strong software engineering practices, published research, or substantial GitHub project portfolios.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani computer science, software engineering, and electronic engineering faculties.",
+    "high_representation_countries": "Pakistan, China, Indonesia, Vietnam, Bangladesh, India, Egypt, Thailand.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of unauthorized agents claiming to sell guaranteed MEXT scholarships.",
+      "Applications are processed exclusively through Hokkaido University faculty channels."
+    ],
+    "application_fee_warning": "Hokkaido University and MEXT do NOT charge application fees for scholarship nominees.",
+    "agent_and_intermediary_warnings": "Hokkaido University does not work with third-party recruitment agencies.",
+    "hidden_costs_breakdown": [
+      "HEC and MOFA document attestations in Pakistan: ~PKR 25,000.",
+      "Medical examination and chest X-ray on MEXT form: ~PKR 15,000.",
+      "Initial pocket money before first stipend disbursement: ~JPY 50,000 (~PKR 95,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You must know Japanese to study in Japan. Reality: Hokkaido University graduate computing programs are conducted 100% in English.",
+      "Myth: Sapporo is too cold to survive. Reality: All university facilities, dormitories, and subways in Sapporo are fully heated, with extensive underground walkways."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial websites claim GRE is mandatory; GRE is NOT mandatory for Hokkaido University Information Science."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain good academic standing and MEXT GPA >= 2.3/3.0 throughout the degree program.",
+    "attendance_requirements": "Full-time physical research attendance in the designated laboratory on Sapporo Campus.",
+    "academic_progress_monitoring": "Annual progress report submitted to the Graduate School Dean and MEXT.",
+    "work_restrictions_during_study": "Permitted to work part-time up to 28 hours per week with immigration permission (Shikakugai Katsudo Kyoka), but supervisor consent required.",
+    "home_country_return_obligation": "No mandatory return requirement; graduates are free to work in Japan or globally.",
+    "service_obligations_or_bonds": "Zero service bond or repayment obligation.",
+    "repayment_clawback_conditions": "Funding cancelled if the student abandons studies, is expelled, or engages in misconduct.",
+    "rules_for_changing_university": "Non-transferable to other Japanese universities.",
+    "rules_for_changing_major": "Requires consent of both current and prospective supervisors and faculty board approval.",
+    "extension_policy": "Master's graduates can apply for MEXT extension to continue into the PhD program based on competitive research merit."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Hokkaido University Graduate School of IST Official Portal",
+      "source_url": "https://www.ist.hokudai.ac.jp/eng/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Hokkaido University International Student Admissions Guide",
+      "source_url": "https://www.global.hokudai.ac.jp/admissions/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

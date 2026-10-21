@@ -1,0 +1,280 @@
+{
+  "scholarship_id": "SCH-ME-023",
+  "basic_details": {
+    "scholarship_name": "Northern Border University International Scholarship (Kingdom of Saudi Arabia)",
+    "offering_entity": "Ministry of Education of Saudi Arabia & Northern Border University (NBU)",
+    "host_country": "Saudi Arabia",
+    "host_institutions_covered": "Northern Border University Main Campus (Faculty of Computing and Information Technology, Arar, Northern Borders Province, Kingdom of Saudi Arabia)",
+    "degree_levels": [
+      "Bachelor of Science (BSc)",
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "Faculty of Computing and Information Technology (Computer Science, Information Systems), Faculty of Engineering, Faculty of Science, and Faculty of Business Administration (clinical medical disciplines reserved exclusively for Saudi citizens under national education policy).",
+    "number_of_awards_total": "~150 to 220 external international government scholarships allocated annually across eligible university faculties",
+    "number_of_awards_pakistan": "Generous bilateral governmental quota; Pakistani candidates represent a premier contingent of international students in Arar (~25 to 35 awards annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "4 to 5 years for Bachelor's; 2 years for Master's (plus 1-year Arabic language foundation institute if required)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International applicants holding non-Saudi citizenship (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 25,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Undergraduate applicants must be between 17 and 25 years old; Master's applicants must not exceed 30 to 35 years of age at the time of application.",
+    "academic_qualifications": "HSSC / Intermediate (Pre-Engineering, ICS, or Pre-Medical) or Cambridge A-Levels for Bachelor's (minimum 80% marks or Grade B); recognized 16-year Bachelor's degree (BS / BE / BSc 4-year) in Computing or Engineering for Master's from an HEC-recognized university with minimum CGPA 3.00 / 4.00 or Very Good (Jayyid Jiddan) standing.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Undergraduate and intermediate certificates evaluated on the Saudi 5.0 GPA scale (minimum 3.75 / 5.00 equivalent).",
+    "subject_background_prerequisites": "Pre-Engineering or ICS background required for Computing, Information Systems, and Engineering faculties; Science pre-requisites for Natural Science programmes.",
+    "current_education_status": "Applicants must have completed their terminal qualification and possess original or verified transcripts and passing certificates at the time of portal registration.",
+    "graduation_year_restrictions": "High school certificate / intermediate diploma must not be older than 3 to 5 years from the date of application submission.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not required; research papers or programming portfolio advantageous for postgraduate computing applicants.",
+    "english_test_required": false,
+    "ielts_minimum": 5.5,
+    "toefl_minimum": 65,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "Instruction in Faculty of Computing and Information Technology and Engineering is 100% in English (MOI certificate from Pakistani university accepted; IELTS 5.5+ or TOEFL 65 recommended). Arabic language tracks require an Arabic placement exam or completion of the university Arabic Language Institute.",
+    "other_language_requirements": "Non-Arabic speaking students enrolled in Arabic-track courses undergo an intensive 1-year preparatory Arabic language program.",
+    "gender_specific_requirements": "Female applicants must either reside with an authorized legal male guardian (Mahram) possessing valid Iqama in Saudi Arabia or obtain admission under institutional residential guardianship in monitored university female dormitories.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Unified external scholarship selection conducted via the official Ministry of Education 'Study in Saudi' portal (studyinsaudi.moe.gov.sa).",
+    "previous_scholarship_restrictions": "Applicant must not have been previously dismissed or graduated from another Saudi university on a government scholarship.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee exemption for the entire official duration of academic degree study at Northern Border University.",
+      "amount": "100% covered (~SAR 25,000 to 35,000 / year value; ~PKR 1,875,000 to 2,625,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Application through the official Saudi Ministry of Education 'Study in Saudi' portal is 100% free of charge.",
+      "amount": "SAR 0 (100% free)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Free furnished on-campus student housing in Northern Border University residential dormitories in Arar, equipped with utilities, high-speed Wi-Fi, heating/air conditioning, and laundry facilities.",
+      "amount": "100% covered free dormitory accommodation"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Tax-free monthly living stipend disbursed directly into student bank accounts: SAR 840 / month for undergraduate students (~PKR 63,000 / month); SAR 900 to 1,000 / month for postgraduate students (~PKR 67,500 to 75,000 / month).",
+      "amount": "SAR 840 to 1,000 / month (~PKR 63,000 to 75,000 / mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Free annual economy-class round-trip airfare ticket between Pakistan and Arar Domestic Airport (RAE) via Riyadh/Jeddah provided by the university at the close of each academic year.",
+      "amount": "100% covered annual round-trip flight ticket"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Saudi governmental student study visa authorization and Iqama (residence permit) issuance provided free of charge through the Royal Embassy of Saudi Arabia.",
+      "amount": "100% free / government covered"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive 100% free medical, surgical, and emergency healthcare provided at Northern Border University Medical Clinics and Ministry of Health public hospitals in Arar.",
+      "amount": "100% covered free healthcare"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Heavily subsidized campus cafeteria dining halls providing nutritious hot multi-course meals for SAR 3 to 6 per meal; comfortably covered by the monthly stipend.",
+      "amount": "Subsidized campus dining (~SAR 5 per meal)"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Free textbook loan schemes, digital database access via the Saudi Digital Library (SDL), and two-month book allowance upon arrival / graduation allowance.",
+      "amount": "100% covered library access & book allowance"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Postgraduate thesis printing allowance (SAR 3,000 for Master's) and university research deanship funding for computing and AI projects published in indexed journals.",
+      "amount": "SAR 3,000 thesis grant & research incentives"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free university campus shuttle buses operating regularly between university residential halls, faculties, computer laboratories, and Arar city center.",
+      "amount": "100% free university shuttle transport"
+    },
+    "total_estimated_value_usd_per_year": 16000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host institution (Northern Border University, Arar, Northern Borders Province, Saudi Arabia).",
+    "participating_institutions": [
+      "Northern Border University (Faculty of Computing and Information Technology, Arar Campus, Saudi Arabia)"
+    ],
+    "university_rankings_scope": "Rapidly expanding state university established under Royal Decree; QS Arab Region Rankings #121-130; fully accredited by NCAAA and the Education and Training Evaluation Commission (ETEC).",
+    "available_majors": [
+      "Computer Science (Faculty of Computing and Information Technology)",
+      "Information Systems & Database Technologies",
+      "Computer Engineering & Network Security",
+      "Software Systems & Cloud Architecture",
+      "Electrical & Civil Engineering",
+      "Mathematics and Applied Statistics",
+      "Business Administration & E-Commerce"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Bachelor's: 4 to 5 years; Master's: 2 years (plus optional 1-year Arabic foundation if needed)",
+    "admission_requirements_summary": "Unified online application through 'Study in Saudi' portal, attested intermediate / bachelor's certificate with minimum 80% marks, police clearance certificate, comprehensive medical fitness report, two academic letters of recommendation, and valid international passport.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Faculty of Computing and Information Technology in Arar has competitive quotas for international students; high academic grades (85%+) in mathematics and computing yield strong selection prospects.",
+    "strategic_program_match_advice": "Ensure all Pakistani academic certificates are attested in sequence by IBCC / HEC, followed by MoFA Pakistan, before digital upload to avoid automatic disqualification on the portal."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://studyinsaudi.moe.gov.sa/ & https://www.nbu.edu.sa/",
+    "portal_system_name": "Study in Saudi Official Platform (Ministry of Education, Kingdom of Saudi Arabia)",
+    "account_creation_instructions": "Create an applicant profile on the 'Study in Saudi' portal (https://studyinsaudi.moe.gov.sa/), select 'External Scholarship (منحة خارجية)', choose Northern Border University as first preference, specify Faculty of Computing and Information Technology, and upload certified document scans.",
+    "step_by_step_workflow": [
+      "Step 1: Attest educational certificates (Matric/Inter or BS) through IBCC or HEC, followed by the Ministry of Foreign Affairs (MoFA) Pakistan.",
+      "Step 2: Obtain an official police character clearance certificate and a comprehensive medical fitness certificate from an authorized diagnostic lab.",
+      "Step 3: Register an account on the Saudi Ministry of Education Study in Saudi portal (https://studyinsaudi.moe.gov.sa/).",
+      "Step 4: Select Northern Border University, choose Faculty of Computing and Information Technology and degree level, and upload all required PDF credentials.",
+      "Step 5: Northern Border University Deanship of Admission reviews applications and submits shortlisted nominations to the Ministry of Education.",
+      "Step 6: Saudi Ministry of Foreign Affairs (MOFA) issues an electronic visa authorization number (Visa Slip / Tafweez).",
+      "Step 7: Submit passport for visa stamping via authorized Saudi Visa Service Centers (Etimad / VFS Tasheel) in Pakistan; university issues e-ticket to Arar."
+    ],
+    "university_vs_scholarship_routing": "Unified Government System: Single application via the Study in Saudi portal simultaneously processes university academic admission and the full government scholarship award.",
+    "recommendation_letters_submission_method": "Uploaded as attested scanned PDF documents on official institutional letterhead bearing referee contact details and official stamps.",
+    "personal_statement_prompts": "Brief statement of purpose (in English or Arabic) detailing academic objectives, passion for computing/technology, and motivation to study in the Kingdom of Saudi Arabia.",
+    "study_plan_research_proposal_requirements": "For Master's applicants: 2 to 3-page research synopsis outlining proposed thesis domain in computer science or information systems.",
+    "cv_format_requirements": "Standard tabular CV outlining educational qualifications, academic percentage/CGPA, software skills, and extracurricular activities.",
+    "interviews_conducted": false,
+    "interview_format_details": "Screening is entirely document- and merit-based; no mandatory video interview is conducted for undergraduate external scholarships.",
+    "standardized_tests": "English proficiency certificate (IELTS/TOEFL) or Medium of Instruction (MOI) letter; no mandatory GRE/GAT required for external admissions.",
+    "application_fee_amount": "SAR 0 (100% free of charge)",
+    "attestation_requirements": "IBCC (for Matric/Inter), HEC (for Bachelor degrees), and Ministry of Foreign Affairs (MoFA) Pakistan attestations are strictly mandatory.",
+    "translation_requirements": "Certified English or Arabic translations of all educational documents, transcripts, and police clearance certificates.",
+    "final_submission_method": "100% online submission via the Ministry of Education Study in Saudi portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Attested Educational Certificates and Transcripts",
+      "mandatory": true,
+      "specification": "Matric/Intermediate (FSc Pre-Engineering/ICS) for Bachelor's or BS transcript for Master's with minimum 80% marks.",
+      "pakistan_specific_instruction": "Attested by IBCC (for school/college) or HEC (for degrees) and verified by MoFA Pakistan."
+    },
+    {
+      "document_name": "Police Character Clearance Certificate",
+      "mandatory": true,
+      "specification": "Official police certificate proving applicant has no criminal record in Pakistan, issued within the last 6 months.",
+      "pakistan_specific_instruction": "Issued by local Police Khidmat Markaz / District Police Office and attested by MoFA Pakistan."
+    },
+    {
+      "document_name": "Medical Fitness Examination Certificate",
+      "mandatory": true,
+      "specification": "Medical certificate proving absence of contagious diseases (HIV, Hepatitis B/C, Tuberculosis, chest X-ray normal).",
+      "pakistan_specific_instruction": "Issued by a licensed diagnostic center/hospital and attested by a registered medical practitioner."
+    },
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "High-resolution color scan of passport bio-data page with minimum 2 years remaining validity.",
+      "pakistan_specific_instruction": "Valid Pakistani passport extending through late 2028 or beyond."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential reference letters from previous school/college teachers or university professors attesting to academic excellence.",
+      "pakistan_specific_instruction": "Printed on official school/university letterhead with official stamp and referee contact information."
+    },
+    {
+      "document_name": "Recent Color Photographs",
+      "mandatory": true,
+      "specification": "White background passport-sized photographs (4x6 cm) complying with Saudi visa guidelines.",
+      "pakistan_specific_instruction": "Clear digital scans without spectacles."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "May 1",
+    "application_deadline": "July 15",
+    "university_admission_deadline": "July 15",
+    "document_submission_deadline": "July 15",
+    "recommendation_letters_deadline": "July 15",
+    "interview_period": "Not applicable (dossier evaluation)",
+    "shortlist_announcement": "November - December",
+    "final_result_acceptance_deadline": "January",
+    "visa_application_window": "January - February",
+    "semester_commencement": "Late August / September (Fall semester intake)",
+    "annual_cycle_notes": "Saudi external scholarship portals open annually between May and July. Security clearance, MOE nomination, and MOFA visa authorization take 4 to 6 months."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "60% (High school / Intermediate aggregate marks or Bachelor CGPA)",
+    "extracurricular_and_leadership_weight": "10% (Good conduct record, character references, community activities)",
+    "research_experience_weight": "15% (For postgraduate applicants: research proposal, publications, or computing portfolio)",
+    "work_experience_weight": "0% (Not required for undergraduate admissions)",
+    "personal_statement_weight": "10% (Motivation letter clarity and alignment with technology goals)",
+    "recommendations_weight": "5% (Strength of academic teacher/professor appraisals)",
+    "interview_weight": "0% (Evaluation based on certified application dossier)",
+    "test_scores_weight": "0% (Qualifying check only; no specific score weight)",
+    "financial_need_weight": "0% (Merit-based competition governed by bilateral national quotas)",
+    "selection_panel_composition": "Northern Border University Deanship of Admission and Registration in coordination with the Saudi Ministry of Education External Scholarship Directorate.",
+    "evaluation_methodology": "Automated merit ranking based on certified transcript grades, validation of attestations, and allocated national country quotas."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~10,000 to 18,000 international applicants across the Study in Saudi portal",
+    "total_scholarships_awarded": "~150 to 220 international scholarships awarded at NBU annually",
+    "acceptance_rate_global": "~1.5% to 2.2%",
+    "acceptance_rate_pakistan": "~4.5% to 6.5% (Pakistan is granted one of the highest external scholarship quotas in the Kingdom)",
+    "typical_successful_applicant_gpa": "Marks >= 85% in FSc / ICS / A-Levels or CGPA >= 3.4 / 4.0 in Bachelor degree",
+    "typical_academic_and_research_profile": "Students with top grades in mathematics and physics, complete IBCC/HEC and MoFA attestations, clean criminal records, and strong references.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani intermediate boards (FBISE, BISE Lahore, BISE Rawalpindi, BISE Peshawar) and engineering universities.",
+    "high_representation_countries": "Pakistan, Yemen, Egypt, Sudan, Indonesia, Bangladesh, Jordan, Nigeria.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of unauthorized immigration agents claiming to guarantee admission or Saudi student visas for money.",
+      "The official and ONLY valid application portal is https://studyinsaudi.moe.gov.sa/."
+    ],
+    "application_fee_warning": "The Kingdom of Saudi Arabia Ministry of Education NEVER charges any fee for scholarship application, admission, or visa processing.",
+    "agent_and_intermediary_warnings": "Northern Border University strictly disclaims any affiliation with educational agencies; direct personal application is required.",
+    "hidden_costs_breakdown": [
+      "IBCC, HEC, and MoFA degree attestations in Pakistan: ~PKR 15,000 to 25,000.",
+      "Medical diagnostic testing and blood screenings in Pakistan: ~PKR 10,000 to 15,000.",
+      "Saudi Visa Center (Etimad / VFS Tasheel) biometric service fee: ~PKR 12,000 to 18,000.",
+      "Initial pocket money before first monthly stipend disbursement in Arar: ~SAR 500 (~PKR 37,500)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Computing courses in Arar are taught only in Arabic. Reality: Faculty of Computing and Information Technology courses are conducted in English.",
+      "Myth: Students must pay back their tuition if they return to Pakistan. Reality: The scholarship is a non-repayable government grant with zero financial bond."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial social media pages claim applications are accepted year-round; the official Study in Saudi portal strictly operates on an annual summer intake (May-July)."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 2.75 / 5.0 (Grade Good / Jayyid) each academic semester to retain full scholarship benefits.",
+    "attendance_requirements": "Minimum 75% classroom and laboratory attendance required; falling below 75% results in course disqualification (Hirman) and stipend forfeiture.",
+    "academic_progress_monitoring": "Semester-by-semester academic audit conducted by the Deanship of Student Affairs prior to releasing tickets and monthly stipends.",
+    "work_restrictions_during_study": "Off-campus employment is strictly prohibited under Saudi student residence laws (Iqama regulations).",
+    "home_country_return_obligation": "Scholars are expected to return to Pakistan upon graduation; the university issues a final exit visa and complimentary return air ticket.",
+    "service_obligations_or_bonds": "Zero service bond or repayment obligation.",
+    "repayment_clawback_conditions": "Scholarship is terminated and the student is repatriated if dismissed for academic failure, exam misconduct, or violation of Saudi laws.",
+    "rules_for_changing_university": "Transferring between Saudi universities is strictly prohibited under the external scholarship charter.",
+    "rules_for_changing_major": "Permitted only within the same faculty during the first academic year with approval of the College Dean.",
+    "extension_policy": "Maximum extension of one additional semester may be approved upon Dean's recommendation in case of justified academic delay."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Study in Saudi Official Portal (Ministry of Education, KSA)",
+      "source_url": "https://studyinsaudi.moe.gov.sa/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Northern Border University Deanship of Admission and Registration",
+      "source_url": "https://www.nbu.edu.sa/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

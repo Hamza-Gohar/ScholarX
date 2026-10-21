@@ -1,0 +1,289 @@
+{
+  "scholarship_id": "SCH-EU-042",
+  "basic_details": {
+    "scholarship_name": "KTH Royal Institute of Technology Master's Scholarship",
+    "offering_entity": "KTH Royal Institute of Technology (Kungliga Tekniska högskolan)",
+    "host_country": "Sweden",
+    "host_institutions_covered": "KTH Main Campus & Kista ICT Campus (Stockholm, Sweden)",
+    "degree_levels": [
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "Master's programmes across all engineering and technology schools, notably School of Electrical Engineering and Computer Science (EECS): Computer Science, Machine Learning, Cybersecurity, Software Engineering, and Information and Network Engineering.",
+    "number_of_awards_total": "~10% of admitted fee-paying international students receive tuition waivers (~40 to 60 full tuition fee waivers awarded annually)",
+    "number_of_awards_pakistan": "Open international competition; Pakistani engineering graduates typically secure 3 to 6 tuition waivers annually",
+    "funding_classification": "TUITION_ONLY",
+    "duration_of_scholarship": "2 years (120 ECTS credits), subject to passing a minimum of 45 ECTS credits during Year 1"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of non-EU/EEA/Swiss countries liable to pay tuition fees in Sweden"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction.",
+    "academic_qualifications": "A recognized 4-year Bachelor's degree (16 years education) in Computer Science, Software Engineering, Electrical Engineering, or related STEM discipline from an HEC-recognized university with high academic distinction (minimum cumulative GPA of 3.50 / 4.00 or 80%+ aggregate; top 10% class standing preferred).",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Transcripts are rigorously evaluated on Swedish scale; competitive applicants present high grades in advanced mathematics, algorithms, and systems courses.",
+    "subject_background_prerequisites": "Substantial coursework in mathematics (calculus, linear algebra, discrete math, probability) and core computing (algorithms, data structures, computer architecture, programming).",
+    "current_education_status": "Students in their final year of undergraduate studies are eligible to apply conditionally.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; leadership, industrial software engineering experience, and technical projects enhance the application profile.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic min 6.5 (no section below 5.5) or TOEFL iBT min 90 (written test min 20). Medium of Instruction letters not accepted for degrees from Pakistan (English 6 requirement).",
+    "other_language_requirements": "None; all Master's programmes at KTH are taught entirely in English.",
+    "gender_specific_requirements": "None; women in engineering actively encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must rank KTH as their first choice (priority 1) in their Swedish national application on Universityadmissions.se.",
+    "previous_scholarship_restrictions": "Cannot be combined with Swedish Institute (SI) scholarships or other full tuition waivers.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% tuition fee waiver covering full tuition costs for the 2-year Master's degree (SEK 320,000 to SEK 380,000 value; ~USD 30,000 to 36,000).",
+      "amount": "100% covered (~SEK 170,000 / year; ~PKR 4,420,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Swedish national application fee of SEK 900 paid online via Universityadmissions.se.",
+      "amount": "SEK 900 (~PKR 23,400)"
+    },
+    "accommodation": {
+      "status": "NOT_COVERED",
+      "details": "KTH accommodation office assists scholarship holders with student housing guarantees (SSSB / KTH housing); rent in student dorms or corridor rooms averages SEK 4,500 to 7,500/month.",
+      "amount": "Self-funded (~SEK 5,500 / month; ~PKR 143,000 / mo)"
+    },
+    "monthly_stipend": {
+      "status": "NOT_COVERED",
+      "details": "The KTH Scholarship is a tuition waiver only; living costs (approx. SEK 10,314/month required by Swedish Migration Agency) must be covered through personal funds, family savings, or part-time work.",
+      "amount": "Self-funded (~SEK 10,314 / month living requirement)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International flights between Pakistan and Stockholm Arlanda (ARN) are self-funded.",
+      "amount": "Self-funded (~PKR 250,000 to 380,000 round-trip value)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Swedish Residence Permit for Higher Education application fee of SEK 1,500 paid online to Migrationsverket.",
+      "amount": "SEK 1,500 (~PKR 39,000)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "All fee-paying and scholarship students are covered by the Swedish state collective insurance plan (FAS+) covering emergency medical and dental care.",
+      "amount": "100% covered via Swedish FAS+ insurance"
+    },
+    "food_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Groceries and meals self-funded; student kitchens in dorms allow economical self-cooking (~SEK 2,500/month).",
+      "amount": "Self-funded"
+    },
+    "books_and_materials_allowance": {
+      "status": "100% COVERED",
+      "details": "Free access to electronic course literature via KTH Library, software licenses, and computing laboratories.",
+      "amount": "Covered by university facilities"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Travel grants available through KTH schools for master's thesis research presented at academic conferences.",
+      "amount": "Up to SEK 10,000 per conference presentation"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "SL student discount provides discounted monthly travelcards for Stockholm metro, buses, commuter trains, and ferries.",
+      "amount": "Student discount on Stockholm SL transit"
+    },
+    "total_estimated_value_usd_per_year": 18000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single premier Swedish engineering institution: KTH Royal Institute of Technology (Stockholm, Sweden)",
+    "participating_institutions": [
+      "KTH Royal Institute of Technology",
+      "School of Electrical Engineering and Computer Science (EECS)",
+      "KTH Kista ICT Center (Electrum)",
+      "Center for Autonomous Systems & AI at KTH"
+    ],
+    "university_rankings_scope": "Top 75 global university (QS World #73, QS Subject Computer Science #54, THE World #97); Sweden's largest and most prestigious technical university.",
+    "available_majors": [
+      "Master's Programme in Computer Science",
+      "Master's Programme in Machine Learning",
+      "Master's Programme in Cybersecurity",
+      "Master's Programme in Software Engineering of Distributed Systems",
+      "Master's Programme in Information and Network Engineering",
+      "Master's Programme in Interactive Media Technology",
+      "Master's Programme in Embedded Systems"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (120 ECTS credits).",
+    "admission_requirements_summary": "4-year BS in CS/STEM with 3.5+ GPA, official transcripts, CV, motivation letter, and IELTS 6.5+ or TOEFL 90+. KTH must be selected as Priority 1.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Machine Learning and Computer Science are the most competitive programmes with the highest GPA cutoffs; Software Engineering of Distributed Systems, Embedded Systems, and Cybersecurity offer slightly more favorable admission ratios.",
+    "strategic_program_match_advice": "You MUST list KTH as your first priority programme on Universityadmissions.se to be eligible for the KTH Scholarship. Scholarship applications for second-priority choices are not reviewed."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.universityadmissions.se/intl/start",
+    "portal_system_name": "Universityadmissions.se (Swedish National Higher Education Portal) & KTH Scholarship Portal",
+    "account_creation_instructions": "Create account on Universityadmissions.se, apply for KTH as Priority 1 by mid-January, then submit the dedicated KTH Scholarship application on kth.se in December/January.",
+    "step_by_step_workflow": [
+      "Step 1 (October - January): Apply for KTH Master's programme as Priority 1 on Universityadmissions.se.",
+      "Step 2 (By mid-January): Pay the Swedish application fee of SEK 900 online.",
+      "Step 3 (Early December - Mid January): Open the dedicated KTH Scholarship application form on kth.se.",
+      "Step 4 (In KTH portal): Enter your 8-digit University Admissions application number, upload motivation essay and CV.",
+      "Step 5 (By 1 February): Upload all supporting academic documents (transcripts, degree certificates, English test) to Universityadmissions.se.",
+      "Step 6 (Late March): Swedish national admission results published on Universityadmissions.se.",
+      "Step 7 (Early April): KTH Scholarship recipients officially announced by email.",
+      "Step 8 (April - June): Apply for Swedish Residence Permit for Higher Education via Migrationsverket online portal."
+    ],
+    "university_vs_scholarship_routing": "Two-step application: Programme admission applied via Universityadmissions.se; KTH Scholarship applied via separate online form on kth.se.",
+    "recommendation_letters_submission_method": "Not required for general KTH admissions or scholarship.",
+    "personal_statement_prompts": "KTH Scholarship Motivation Essay: Max 500 words explaining why you chose KTH, your academic achievements, and how your studies will contribute to sustainable development goals.",
+    "study_plan_research_proposal_requirements": "Not required at Master's level.",
+    "cv_format_requirements": "1-2 page academic CV detailing education, programming proficiencies, capstone projects, and distinctions.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interviews; selections made purely through academic assessment and motivation essay review.",
+    "standardized_tests": "IELTS Academic (6.5+) or TOEFL iBT (90+). GRE is NOT required.",
+    "application_fee_amount": "SEK 900 (Non-EU application fee)",
+    "attestation_requirements": "Certified copies of degree and transcript uploaded to Universityadmissions.se; HEC attestation recommended.",
+    "translation_requirements": "Certified English translations required for all non-English documents.",
+    "final_submission_method": "National application on Universityadmissions.se + scholarship form on kth.se."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Bachelor's Degree Certificate",
+      "mandatory": true,
+      "specification": "Scanned color copy of original degree certificate and official English translation.",
+      "pakistan_specific_instruction": "Pakistani applicants submit 4-year BS degree; HEC attestation recommended."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete consolidated semester transcripts detailing all completed course units, grades, and grading scale.",
+      "pakistan_specific_instruction": "Ensure transcript clearly states credit hours and grading scale (CGPA out of 4.0)."
+    },
+    {
+      "document_name": "KTH Scholarship Motivation Essay",
+      "mandatory": true,
+      "specification": "Max 500-word essay explaining academic ambitions, choice of KTH, and alignment with UN Sustainable Development Goals.",
+      "pakistan_specific_instruction": "Focus on technological challenges in Pakistan/developing world and how KTH engineering will provide solutions."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "1 to 2 page CV detailing academic background, technical skills, projects, and honors.",
+      "pakistan_specific_instruction": "Highlight final-year project (FYP) and technical tools."
+    },
+    {
+      "document_name": "English Language Proficiency Test Report",
+      "mandatory": true,
+      "specification": "Official IELTS Academic TRF (6.5+) or TOEFL iBT score report (90+) sent to University Admissions in Sweden.",
+      "pakistan_specific_instruction": "Must satisfy Swedish English 6 requirement; institutional MOI letters are not accepted for Pakistani degrees."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Clear color copy of valid international passport bio-data page.",
+      "pakistan_specific_instruction": "Ensure passport is valid for at least 2 years beyond intended arrival."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "16 October 2025",
+    "application_deadline": "15 January 2026 (Universityadmissions.se & KTH Scholarship)",
+    "university_admission_deadline": "15 January 2026",
+    "document_submission_deadline": "1 February 2026",
+    "recommendation_letters_deadline": "N/A (Letters not required)",
+    "interview_period": "N/A (Decisions based on file review)",
+    "shortlist_announcement": "Late March (Admissions) / Early April 2026 (Scholarship)",
+    "final_result_acceptance_deadline": "Mid-April 2026",
+    "visa_application_window": "April to July 2026",
+    "semester_commencement": "Late August 2026",
+    "annual_cycle_notes": "Single annual intake for autumn semester. KTH must be designated as Priority 1 on Universityadmissions.se."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "60% (Academic excellence, CGPA, grades in mathematics and core computing coursework)",
+    "extracurricular_and_leadership_weight": "5% (Leadership, sustainability initiatives, community projects)",
+    "research_experience_weight": "10% (Technical projects, bachelor's thesis, publications)",
+    "work_experience_weight": "5% (Relevant industry software development experience)",
+    "personal_statement_weight": "20% (KTH Scholarship essay evaluating motivation and sustainability alignment)",
+    "recommendations_weight": "0% (Not evaluated / not requested)",
+    "interview_weight": "0% (No interviews conducted)",
+    "test_scores_weight": "Threshold requirement (IELTS 6.5 / TOEFL 90 compliance)",
+    "financial_need_weight": "0% (Purely merit-based academic scholarship)",
+    "selection_panel_composition": "KTH Central Scholarship Committee and School of Electrical Engineering and Computer Science Academic Board.",
+    "evaluation_methodology": "Two-tier merit evaluation: Applicants are ranked first by academic performance and grading tier of the home university. High-ranking applicants are then evaluated on their motivation essay and contribution to sustainable development."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "4,500+ fee-paying international applicants across KTH Master's programmes",
+    "total_scholarships_awarded": "~40 to 60 full tuition fee waivers awarded annually",
+    "acceptance_rate_global": "~1% to 2% for full scholarship recipients",
+    "acceptance_rate_pakistan": "~1% to 2% among qualified Pakistani STEM applicants",
+    "typical_successful_applicant_gpa": "3.80+ / 4.00 CGPA (85%+ aggregate)",
+    "typical_academic_and_research_profile": "Undergraduate degree in CS/EE from top Pakistani institution (FAST, NUST, LUMS, GIKI, UET), top 5% of class, compelling sustainability essay, IELTS 7.5+.",
+    "common_backgrounds_of_winners": "Graduates of NUST, FAST-NUCES, LUMS, and GIKI.",
+    "high_representation_countries": "China, India, Pakistan, Turkey, United States, Iran, Indonesia",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unauthorized overseas education agencies claiming guaranteed admission or scholarships at KTH. Applications are strictly merit-based via Universityadmissions.se and kth.se."
+    ],
+    "application_fee_warning": "Swedish national application fee of SEK 900 paid only via Universityadmissions.se. KTH scholarship application itself is free.",
+    "agent_and_intermediary_warnings": "KTH does not work with recruitment agents. Plagiarized or AI-generated motivation essays are disqualified immediately.",
+    "hidden_costs_breakdown": [
+      "Swedish application fee: SEK 900 (~PKR 23,400).",
+      "Swedish Residence Permit application fee: SEK 1,500 (~PKR 39,000).",
+      "Living cost proof required by Swedish Migration Agency: SEK 10,314 / month (~PKR 268,000 / month; SEK 103,140 for 10-month bank statement = ~PKR 2,680,000).",
+      "Flight ticket from Pakistan to Stockholm: ~PKR 250,000 to 380,000."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: The KTH Scholarship covers living expenses. (FACT: The KTH Scholarship covers 100% of tuition only; living costs must be self-funded).",
+      "CLAIM: You can apply for the scholarship with KTH as your second priority. (FACT: KTH must be your Priority 1 choice on Universityadmissions.se)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party websites confuse the KTH Scholarship with the Swedish Institute (SI) Scholarship. The SI Scholarship covers living stipends, while the KTH Scholarship is tuition-only."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass at least 45 ECTS credits during the first academic year to retain the tuition waiver for Year 2.",
+    "attendance_requirements": "Full-time physical enrollment on campus in Stockholm.",
+    "academic_progress_monitoring": "Annual credit completion check by KTH Scholarships Office before renewing the waiver.",
+    "work_restrictions_during_study": "Swedish residence permit allows international students to work without hourly limits, provided satisfactory academic progress is maintained.",
+    "home_country_return_obligation": "None. International graduates qualify for a 1-year residence permit to seek employment or start a business in Sweden.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "No clawback of previously waived tuition; failure to achieve 45 ECTS results in loss of waiver for Year 2.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Changing programme requires formal application during the next admission cycle.",
+    "extension_policy": "Scholarship is granted for the nominal 2-year duration (120 ECTS) and cannot be extended."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "KTH Royal Institute of Technology Master's Scholarship Portal",
+      "source_url": "https://www.kth.se/en/studies/master/scholarships/kth-scholarship-1.72827",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Allocation breakdown of scholarships between EECS and other engineering schools.",
+        "Country-level breakdown of scholarship awardees.",
+        "Internal scoring weights between GPA and the motivation essay."
+      ]
+    },
+    {
+      "source_name": "Universityadmissions.se Swedish National Admissions",
+      "source_url": "https://www.universityadmissions.se/intl/start",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Waiting list clearance numbers for specific KTH Master's programmes.",
+        "Detailed statistics on non-EU fee-paying applicant pools per programme."
+      ]
+    }
+  ]
+}

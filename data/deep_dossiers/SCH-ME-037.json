@@ -1,0 +1,295 @@
+{
+  "scholarship_id": "SCH-ME-037",
+  "basic_details": {
+    "scholarship_name": "American University of Beirut (AUB) Mastercard Foundation Scholars Program",
+    "offering_entity": "American University of Beirut (AUB) & Mastercard Foundation",
+    "host_country": "Lebanon",
+    "host_institutions_covered": "American University of Beirut (AUB, Bliss Street, Beirut, Lebanon)",
+    "degree_levels": [
+      "Master of Science (MS / ME / MPH / MEM)"
+    ],
+    "major_restrictions": "Master's programs across Maroun Semaan Faculty of Engineering and Architecture, Faculty of Arts and Sciences, Faculty of Health Sciences, and Faculty of Agricultural and Food Sciences: Computer Science, Engineering Management, Public Health, Environmental Sciences, Rural Community Development, Applied Energy, and Data Analytics.",
+    "number_of_awards_total": "~30 to 45 fully funded Mastercard Foundation Scholarships awarded per cohort across master's degrees",
+    "number_of_awards_pakistan": "Competitive international quota; typically 3 to 6 Pakistani scholars selected per annual cohort",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "24 months (2-year full-time master's degree) plus preparatory summer term if required"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens and residents of economically disadvantaged backgrounds from Lebanon, refugee communities, and international developing nations including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Preference given to young applicants aged 35 or younger at time of application.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (16-year BS / BSc / BE) from an HEC-recognized university with high academic distinction (minimum CGPA 3.40 / 4.00 or 78%+ equivalent to AUB grade 80/100).",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.4,
+    "grading_conversion_notes": "Minimum CGPA 3.40 / 4.00; selected scholars typically possess CGPA >= 3.65 / 4.00.",
+    "subject_background_prerequisites": "Undergraduate degree in computer science, engineering, biological sciences, public health, or environmental studies with demonstrated alignment to community development.",
+    "current_education_status": "Graduated or enrolled in final undergraduate year graduating prior to August intake.",
+    "graduation_year_restrictions": "Bachelor's degree completed within preceding 5 years.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Community leadership, volunteering, grassroots social projects, or NGO involvement is heavily evaluated alongside academic merit.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5, TOEFL iBT minimum 80, or AUB English Entrance Exam (EEE). MOI certificates not accepted for scholarship shortlisting.",
+    "other_language_requirements": "All academic instruction and research at AUB are 100% in English.",
+    "gender_specific_requirements": "Open equally to male and female applicants; strong commitment to gender parity and inclusion.",
+    "financial_need_required": true,
+    "special_eligibility_categories": "Demonstrated financial disadvantage combined with academic merit and leadership potential; commitment to give back to home community.",
+    "previous_scholarship_restrictions": "Cannot hold another full external scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fees waived for all coursework and thesis credits at AUB (worth ~$28,000 to $36,000 total).",
+      "amount": "100% Full Tuition Waiver (~$32,000 value)"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "AUB graduate application fee ($50) waived or refunded for eligible Mastercard Foundation applicants.",
+      "amount": "100% Waived ($50 value)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Fully furnished on-campus dormitory accommodation at AUB student halls or dedicated off-campus residence.",
+      "amount": "100% On-Campus Housing Covered"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "USD 800 / month tax-free living allowance disbursed in fresh US Dollars (~PKR 225,000 / month) for 24 months.",
+      "amount": "USD 800 / month (~PKR 225,000/mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Round-trip economy international airfare between Pakistan and Beirut Rafic Hariri International Airport at the start and end of the program.",
+      "amount": "100% Return Economy International Flights Covered"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Lebanese student entry visa, residency permits, and official governmental processing fees covered directly by AUB.",
+      "amount": "100% Lebanese Visa & Residency Fees Covered"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive health insurance covering hospitalization, outpatient, and emergency care at American University of Beirut Medical Center (AUBMC).",
+      "amount": "100% Comprehensive Health Insurance at AUBMC"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly USD 800 living stipend plus campus dining card / meal plan credits.",
+      "amount": "Fully funded via living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Brand new high-performance laptop provided upon arrival, plus semester academic textbook and materials allowance.",
+      "amount": "New Laptop + Annual Book Allowance"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Comprehensive funding for master's thesis research, community development capstone projects, and annual Mastercard Foundation Scholars convening travel.",
+      "amount": "Full thesis research grant & convening travel"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Airport reception and airport transfer in Beirut, plus local transport support.",
+      "amount": "Airport transfers & local transit covered"
+    },
+    "total_estimated_value_usd_per_year": 32000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (American University of Beirut - AUB, Beirut, Lebanon).",
+    "participating_institutions": [
+      "American University of Beirut (AUB)",
+      "Mastercard Foundation"
+    ],
+    "university_rankings_scope": "#1 or #2 in the Arab Region (QS Arab University Rankings); top 250 globally (QS World University Rankings); chartered by the State of New York; Middle States accredited.",
+    "available_majors": [
+      "MS in Computer Science",
+      "Master of Engineering Management (MEM)",
+      "Master of Public Health (MPH)",
+      "MS in Environmental Sciences",
+      "MS in Rural Community Development",
+      "MS in Applied Energy",
+      "MS in Data Analytics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (24 months full-time)",
+    "admission_requirements_summary": "HEC-recognized Bachelor's degree (CGPA >= 3.40/4.00), IELTS 6.5+ or TOEFL 80+, demonstrated socio-economic financial need, proven community leadership track record, and completed MCF online application.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Apply simultaneously through the AUB Graduate Admissions portal and the dedicated AUB Mastercard Foundation Scholars Program application portal before the March 15 deadline.",
+    "strategic_program_match_advice": "Center your application narrative on transformative leadership and socio-economic transformation in Pakistan. Highlight practical grassroots projects, empathy, and how you will tackle poverty, public health challenges, or climate resilience."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.aub.edu.lb/mcf/Pages/Apply.aspx",
+    "portal_system_name": "AUB Mastercard Foundation Online Scholarship & Admissions Portal",
+    "account_creation_instructions": "Step 1: Register on the AUB Graduate Admissions portal and the MCF Scholars application system. Step 2: Fill out the comprehensive financial need assessment and family socioeconomic questionnaire. Step 3: Upload transcripts, degree certificates, CV, English scorecards, and leadership essays before March 15.",
+    "step_by_step_workflow": [
+      "Step 1: Review eligible master's degree programs and MCF selection criteria on aub.edu.lb/mcf.",
+      "Step 2: Submit an online application for graduate admission to AUB.",
+      "Step 3: Complete the dedicated Mastercard Foundation Scholars Program application questionnaire.",
+      "Step 4: Complete the detailed household income, financial need, and asset disclosure section.",
+      "Step 5: Write and upload leadership and give-back essays detailing community impact in Pakistan.",
+      "Step 6: Register two referees (one academic and one community/civic leadership referee).",
+      "Step 7: Submit the complete dossier before the deadline (March 15).",
+      "Step 8: MCF Selection Committee conducts administrative screening and financial background verification.",
+      "Step 9: Shortlisted candidates invited for personal panel interviews (online) in May.",
+      "Step 10: Final scholarship awards announced in June; visa, flights, and dormitory arrangements arranged by AUB."
+    ],
+    "university_vs_scholarship_routing": "Dual Routing: Applicants must submit both an AUB Graduate Admissions application and the dedicated Mastercard Foundation scholarship questionnaire.",
+    "recommendation_letters_submission_method": "Submitted online by referees via confidential portal upload link; one must address academic competence and one must address community leadership.",
+    "personal_statement_prompts": "Detailed essay prompts covering: (1) Family socio-economic background and financial challenges overcome, (2) Evidence of leadership and social impact in the community, (3) Vision for giving back to Pakistan after graduation.",
+    "study_plan_research_proposal_requirements": "A 2-page outline of intended master's research or community capstone intervention.",
+    "cv_format_requirements": "Detailed academic and leadership CV highlighting volunteer initiatives, extracurriculars, honors, and technical proficiencies.",
+    "interviews_conducted": true,
+    "interview_format_details": "Intensive 30-45 minute online panel interview with AUB professors and Mastercard Foundation representatives probing leadership ethics, resilience, and vision.",
+    "standardized_tests": "IELTS Academic 6.5+ or TOEFL iBT 80+.",
+    "application_fee_amount": "$0 (Application fee is waived for MCF applicants)",
+    "attestation_requirements": "HEC and MoFA document attestations from Pakistan; final legalization for Lebanese authorities upon selection.",
+    "translation_requirements": "Certified English translation for all official records.",
+    "final_submission_method": "Online submission via AUB MCF Scholars portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor Degree Certificate (BS / BSc / BE)",
+      "mandatory": true,
+      "specification": "HEC-attested undergraduate degree in relevant discipline with minimum CGPA 3.40 / 4.00.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts of all undergraduate semesters showing course grades and credit hours.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Mastercard Foundation Leadership & Give-Back Essays",
+      "mandatory": true,
+      "specification": "Comprehensive essays explaining community leadership achievements and commitment to return to Pakistan.",
+      "pakistan_specific_instruction": "Detail actionable social transformation plans in Pakistan."
+    },
+    {
+      "document_name": "Socio-Economic & Financial Need Verification Documents",
+      "mandatory": true,
+      "specification": "Documentation verifying financial background: household income proof, salary slips, bank statements, and utility bills.",
+      "pakistan_specific_instruction": "Authentic salary certificates or affidavit of household income."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Detailed CV emphasizing community activism, social leadership, volunteer initiatives, and academic honors.",
+      "pakistan_specific_instruction": "Standard professional format."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "One academic recommendation from university professor and one community leadership recommendation.",
+      "pakistan_specific_instruction": "On official institutional letterhead with verified contact details."
+    },
+    {
+      "document_name": "English Language Test Scorecard",
+      "mandatory": true,
+      "specification": "Official IELTS (min 6.5) or TOEFL iBT (min 80) test certificate.",
+      "pakistan_specific_instruction": "Valid official test score report."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear scan of passport biographical data page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Valid Pakistani passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-11-01",
+    "application_deadline": "2027-03-15",
+    "university_admission_deadline": "2027-03-15",
+    "document_submission_deadline": "2027-03-15",
+    "recommendation_letters_deadline": "2027-03-31",
+    "interview_period": "May 2027",
+    "shortlist_announcement": "Late May 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "June to August 2027",
+    "semester_commencement": "2027-09-01",
+    "annual_cycle_notes": "MCF Scholars Program operates on an annual cycle opening in November with strict deadline on March 15."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Undergraduate transcript excellence, degree honors, and academic capability)",
+    "extracurricular_and_leadership_weight": "30% (Demonstrated leadership track record, community activism, and empathy)",
+    "research_experience_weight": "10% (Technical background, capstone project, and research aptitude)",
+    "work_experience_weight": "5% (Relevant professional internships or community service)",
+    "personal_statement_weight": "15% (Quality of leadership essays and commitment to give back to Pakistan)",
+    "recommendations_weight": "5% (Academic and community referee endorsements)",
+    "interview_weight": "5% (Panel interview performance evaluating values, resilience, and vision)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Qualifying prerequisite: candidate must demonstrate genuine financial disadvantage)",
+    "selection_panel_composition": "AUB Mastercard Foundation Steering Committee, Faculty Deans, and Program Directors.",
+    "evaluation_methodology": "Holistic evaluation matrix balancing academic merit, transformative leadership potential, and verified socio-economic financial need."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,000 to 5,000 applicants across the region and international pool",
+    "total_scholarships_awarded": "~30 to 45 fully funded scholarships per cohort",
+    "acceptance_rate_global": "~1.0%",
+    "acceptance_rate_pakistan": "~1.5% to 2.5% among eligible applicants meeting financial need criteria",
+    "typical_successful_applicant_gpa": "3.70 / 4.00 accompanied by documented grassroots community leadership",
+    "typical_academic_and_research_profile": "Graduates with stellar academic records who have founded student initiatives, volunteered in flood relief / disaster response, established educational programs, or worked with underprivileged communities in Pakistan.",
+    "common_backgrounds_of_winners": "Graduates from LUMS (National Outreach Programme), IBA Karachi (Talent Hunt Program), NUST, UET Lahore, and regional public universities across Pakistan.",
+    "high_representation_countries": "Lebanon, Palestine, Syria, Pakistan, Yemen, Sudan, Kenya, Ghana.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official AUB portal https://www.aub.edu.lb/mcf/.",
+      "Mastercard Foundation and AUB never charge any fee for application, testing, or processing at any stage."
+    ],
+    "application_fee_warning": "Application to the Mastercard Foundation Scholars Program at AUB is 100% free; do not pay any application fee.",
+    "agent_and_intermediary_warnings": "Commercial agency written essays will lead to immediate disqualification; MCF conducts extensive verification of personal essays and socio-economic declarations.",
+    "hidden_costs_breakdown": [
+      "Application fee: $0 (Free).",
+      "IELTS / TOEFL test fees in Pakistan: ~PKR 60,000 (can sometimes be waived or subsidized by MCF upon request).",
+      "HEC and MoFA document attestations in Pakistan: ~PKR 15,000 - 25,000.",
+      "All international flights, visa costs, tuition, housing, laptop, and monthly stipends are 100% COVERED by Mastercard Foundation."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Wealthy students can win if they have top grades. Reality: Financial need is an absolute prerequisite; applicants undergo thorough asset and income verification.",
+      "Myth: You cannot study computer science under MCF. Reality: STEM and computing fields like Computer Science and Engineering Management are high-priority funded tracks."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sites claim Lebanese residency is required; the MCF program at AUB is explicitly open to international scholars from developing nations including Pakistan."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.20 / 4.00 (80/100) throughout the master's program.",
+    "attendance_requirements": "Full-time study attendance; mandatory active participation in MCF leadership retreats, mentorship sessions, and community service projects.",
+    "academic_progress_monitoring": "Term-by-term academic progress and community engagement monitoring by MCF Program Advisors.",
+    "work_restrictions_during_study": "Scholars may not engage in outside full-time employment; limited on-campus student work-study or research assistantships may be permitted.",
+    "home_country_return_obligation": "Scholars sign an ethical pledge to return to their home country or region to apply their education toward socio-economic transformation (give-back commitment).",
+    "service_obligations_or_bonds": "Commitment to community service and active participation in the MCF Alumni Network.",
+    "repayment_clawback_conditions": "Revocation of scholarship and expulsion from program for academic failure, financial misrepresentation, or disciplinary misconduct.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Degree change not permitted except under exceptional circumstances approved by the MCF Program Director.",
+    "extension_policy": "Funding is strictly limited to 24 months (2 academic years plus necessary summer terms)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "AUB Mastercard Foundation Scholars Program Portal",
+      "source_url": "https://www.aub.edu.lb/mcf/Pages/default.aspx",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Mastercard Foundation Scholars Program",
+      "source_url": "https://mastercardfdn.org/all/scholars/",
+      "source_type": "OFFICIAL_COMMISSION",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

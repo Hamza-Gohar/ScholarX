@@ -1,0 +1,284 @@
+{
+  "scholarship_id": "SCH-AS-057",
+  "basic_details": {
+    "scholarship_name": "Universiti Malaysia Terengganu (UMT) Postgraduate Research Scholarship & Graduate Research Assistantship (GRA)",
+    "offering_entity": "Universiti Malaysia Terengganu (UMT) Graduate School & Research Management Centre",
+    "host_country": "Malaysia",
+    "host_institutions_covered": "Universiti Malaysia Terengganu (Kuala Nerus Campus, Terengganu, Malaysia)",
+    "degree_levels": [
+      "Master of Science (by Research)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Faculty of Science and Marine Environment, Faculty of Fisheries and Food Science, Faculty of Ocean Engineering Technology and Informatics, and Institute of Oceanography and Environment (INOS).",
+    "number_of_awards_total": "~80 to 120 graduate research scholarships and assistantships awarded annually",
+    "number_of_awards_pakistan": "Open internationally; typically 10 to 18 Pakistani postgraduate researchers appointed annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 24 months for Master's by research; up to 36 months for PhD",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "RM 1,800 to RM 2,200 / month for PhD (~PKR 117,000 to 143,000 / month); RM 1,300 to RM 1,600 / month for Master's (~PKR 84,500 to 104,000 / month) plus full tuition fee waiver"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to Malaysian citizens and international candidates of all nationalities (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "Maximum 35 years for Master's; maximum 40 years for PhD candidates at the time of appointment.",
+    "academic_qualifications": "Recognized Bachelor's degree with minimum CGPA 3.00/4.00 for Master's; recognized Master's degree with minimum CGPA 3.00/4.00 for PhD from an HEC-recognized university.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum CGPA 3.00 / 4.00; competitive applicants typically hold CGPA >= 3.30 / 4.00 with laboratory, field, or computing background.",
+    "subject_background_prerequisites": "Marine science, ocean engineering, computer science, software engineering, environmental biotechnology, fisheries, aquatic sciences, or applied mathematics.",
+    "current_education_status": "Graduated or final-semester students expecting degree completion before semester commencement.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior scientific publications in marine, environmental, or computing journals or computational simulation experience advantageous.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.0, TOEFL iBT minimum 80, MUET Band 4.0, or recognized English Medium of Instruction (MOI) certificate.",
+    "other_language_requirements": "None; Malay language proficiency is not required.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must secure endorsement from a UMT principal investigator holding active research grant funding (FRGS, TRGS, or international marine project grants).",
+    "previous_scholarship_restrictions": "Cannot hold any concurrent national scholarship, industrial sponsorship, or full-time paid employment.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for eligible postgraduate research semesters covered under the UMT Graduate Research Scheme.",
+      "amount": "100% covered (~RM 10,000 to 16,000 / year value; ~PKR 650,000 to 1,040,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "UMT international postgraduate application fee of RM 150 paid during online application submission.",
+      "amount": "RM 150 (~PKR 9,800)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "On-campus or adjacent university-approved graduate residences available at subsidized monthly rates (approx. RM 200 to 350 / month), covered easily from stipend.",
+      "amount": "Subsidized campus residence hall housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly research assistantship stipend: RM 1,800 to RM 2,200 / month for PhD (~PKR 117,000 to 143,000 / month); RM 1,300 to RM 1,600 / month for Master's (~PKR 84,500 to 104,000 / month).",
+      "amount": "RM 1,300 to RM 2,200 / month"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel between Pakistan and Kuala Lumpur / Terengganu is self-funded.",
+      "amount": "Not covered in central scheme"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "EMGS visa processing and Malaysian Student Pass fees paid by candidate.",
+      "amount": "Approx. RM 2,000 to 2,500 borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive Malaysian student medical and hospitalization insurance provided via EMGS student pass package.",
+      "amount": "100% covered student medical insurance"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Campus cafeterias provide affordable dining; daily meals cost approximately RM 15 to 25.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Access to UMT Sultanah Nur Zahirah Library, research vessels (RV Discovery), marine hatcheries, and advanced instrumentation laboratories.",
+      "amount": "100% covered marine research infrastructure access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Conference participation and publication charges (APC) for high-impact Scopus/WoS indexed journals covered by host supervisor grant.",
+      "amount": "Grant-funded conference travel and APC charges"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free campus shuttle transportation between residential colleges and academic faculties in Kuala Nerus.",
+      "amount": "Free campus shuttle network"
+    },
+    "total_estimated_value_usd_per_year": 11500
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single Malaysian premier maritime and aquatic focused university (Universiti Malaysia Terengganu).",
+    "participating_institutions": [
+      "Universiti Malaysia Terengganu (Kuala Nerus Campus, Terengganu, Malaysia)"
+    ],
+    "university_rankings_scope": "QS Asia University Rankings Top 200; globally recognized as Malaysia's focal institution for Marine Science, Oceanography, and Coastal Engineering.",
+    "available_majors": [
+      "Master of Science / PhD in Marine Science",
+      "Master of Science / PhD in Ocean Engineering Technology",
+      "Master of Science / PhD in Computer Science (Marine Informatics)",
+      "Master of Science / PhD in Fisheries Science",
+      "Master of Science / PhD in Environmental Biotechnology",
+      "Master of Science / PhD in Applied Mathematics and Modeling",
+      "Master of Science / PhD in Chemical Ecology"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's by Research: 1.5 to 2 years; PhD: 3 to 4 years",
+    "admission_requirements_summary": "Bachelor's / Master's degree with CGPA 3.00+, academic transcripts, research proposal, supervisor endorsement form, two reference letters, and IELTS 6.0 / TOEFL 80 or MOI certificate.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Institute of Oceanography and Environment (INOS) and Faculty of Science & Marine Environment are premier centers; establishing prior supervisor connection is essential.",
+    "strategic_program_match_advice": "Focus research proposals on marine biodiversity, blue carbon ecosystems, coastal climate modeling, or marine big data analytics where UMT holds significant government funding."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://gso.umt.edu.my/ & https://e-admission.umt.edu.my/",
+    "portal_system_name": "UMT Graduate School Online Application Portal",
+    "account_creation_instructions": "Contact prospective supervisor, obtain acceptance form, register on UMT e-admission portal, submit postgraduate application, upload credentials, and pay RM 150 fee.",
+    "step_by_step_workflow": [
+      "Step 1: Explore UMT faculty expertise directory and email prospective supervisors with CV and research draft.",
+      "Step 2: Secure signed Supervisor Acceptance & Research Assistantship Recommendation Form.",
+      "Step 3: Register on UMT e-admission portal and complete online postgraduate application.",
+      "Step 4: Upload attested academic transcripts, research proposal, passport copy, and English proof.",
+      "Step 5: Faculty Graduate Committee reviews technical proposal and conducts online interview.",
+      "Step 6: UMT Graduate School issues official Letter of Offer and Scholarship Award Letter.",
+      "Step 7: Apply for EMGS Visa Approval Letter (VAL) and Single Entry Visa at Malaysian High Commission in Islamabad.",
+      "Step 8: Travel to Terengganu, complete on-campus medical checkup, and matriculate."
+    ],
+    "university_vs_scholarship_routing": "Integrated departmental route: Application for admission and scholarship are reviewed together upon faculty recommendation.",
+    "recommendation_letters_submission_method": "Uploaded directly by candidate as signed PDF recommendation letters on official university letterheads.",
+    "personal_statement_prompts": "Statement of research intent detailing technical competencies, research goals, and synergy with host supervisor's funded research project.",
+    "study_plan_research_proposal_requirements": "5 to 8 page structured research proposal covering problem statement, literature review, methodology, equipment needs, and milestone schedule.",
+    "cv_format_requirements": "Academic CV detailing qualifications, field/laboratory experience, software proficiencies, and publications list.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview via Google Meet or MS Teams conducted by prospective supervisor and departmental postgraduate coordinator.",
+    "standardized_tests": "IELTS 6.0+, TOEFL 80+, MUET Band 4.0, or English Medium of Instruction (MOI) certificate accepted.",
+    "application_fee_amount": "RM 150 (approx. USD 35 / ~PKR 9,800)",
+    "attestation_requirements": "Notarized copies of degrees and transcripts; HEC and MoFA attestations required for Pakistani credentials during EMGS processing.",
+    "translation_requirements": "Certified English translations for all non-English documents.",
+    "final_submission_method": "Online submission via UMT e-admission postgraduate application portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Official Bachelor's / Master's degree certificates and complete semester transcripts with CGPA >= 3.00.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Technical Research Proposal",
+      "mandatory": true,
+      "specification": "Structured research proposal (5-8 pages) aligned with supervisor's research grant objectives.",
+      "pakistan_specific_instruction": "Scholarly proposal formatted with standard citations."
+    },
+    {
+      "document_name": "Supervisor Acceptance & GRA Recommendation Form",
+      "mandatory": true,
+      "specification": "Official UMT form signed by prospective supervisor confirming laboratory placement and willingness to supervise.",
+      "pakistan_specific_instruction": "Obtained directly from UMT faculty supervisor."
+    },
+    {
+      "document_name": "Two Academic Reference Letters",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from previous university professors or department heads.",
+      "pakistan_specific_instruction": "On institutional letterhead with official stamps."
+    },
+    {
+      "document_name": "English Language Proficiency Proof",
+      "mandatory": true,
+      "specification": "IELTS 6.0+, TOEFL iBT 80+, MUET Band 4.0, or official English Medium of Instruction (MOI) certificate.",
+      "pakistan_specific_instruction": "MOI certificate from previous university accepted."
+    },
+    {
+      "document_name": "International Passport Bio-data Page",
+      "mandatory": true,
+      "specification": "Full clear color scan of passport bio-data page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "March 1 (Semester I) / October 1 (Semester II)",
+    "application_deadline": "June 30 (Semester I - September) / November 30 (Semester II - February)",
+    "university_admission_deadline": "June 30 / November 30",
+    "document_submission_deadline": "June 30 / November 30",
+    "recommendation_letters_deadline": "June 30 / November 30",
+    "interview_period": "July - August / December - January",
+    "shortlist_announcement": "Late August / Mid January",
+    "final_result_acceptance_deadline": "Within 2 weeks of offer issuance",
+    "visa_application_window": "August / January via EMGS",
+    "semester_commencement": "September (Semester I) / February (Semester II)",
+    "annual_cycle_notes": "Bi-annual intake cycles: Semester I in September and Semester II in February."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Prior CGPA, academic performance, and foundational coursework)",
+    "extracurricular_and_leadership_weight": "5% (Teamwork, communication, and environmental leadership)",
+    "research_experience_weight": "35% (Prior publications, technical proposal rigor, and supervisor grant synergy)",
+    "work_experience_weight": "5% (Laboratory technical or field research experience)",
+    "personal_statement_weight": "5% (Clarity of purpose and dedication to marine/STEM research)",
+    "recommendations_weight": "5% (Academic referee evaluation)",
+    "interview_weight": "10% (Technical interview performance with prospective supervisor and faculty panel)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Purely merit and research capability based)",
+    "selection_panel_composition": "Faculty Postgraduate Committee, Dean of Graduate School, and Principal Investigator of host research project.",
+    "evaluation_methodology": "Two-stage evaluation: departmental technical vetting of research alignment followed by central Graduate School award confirmation."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~800 to 1,000 applicants across both semesters",
+    "total_scholarships_awarded": "~80 to 120 awards annually",
+    "acceptance_rate_global": "~12% to 14%",
+    "acceptance_rate_pakistan": "~16% to 20% for applicants with pre-secured supervisor endorsement and CGPA >= 3.25",
+    "typical_successful_applicant_gpa": "Undergraduate/Master's CGPA >= 3.25 / 4.00, coupled with prior lab project experience or publications",
+    "typical_academic_and_research_profile": "Graduates in marine science, biotechnology, computer science, or engineering with clear research plan and supervisor endorsement.",
+    "common_backgrounds_of_winners": "Graduates from Pakistani institutions (NUST, Karachi University, COMSATS, UET, Bahria University, Lasbela University).",
+    "high_representation_countries": "Malaysia, Pakistan, Indonesia, Nigeria, Yemen, Bangladesh, Egypt.",
+    "competitiveness_tier": "MODERATE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portal gso.umt.edu.my.",
+      "Do not pay money to educational agents promising guaranteed assistantships; awards depend entirely on faculty supervisor endorsement."
+    ],
+    "application_fee_warning": "University application fee is RM 150 paid directly to UMT via secure online payment.",
+    "agent_and_intermediary_warnings": "Commercial agent proposals are flagged and rejected; applicants must write their own technical research proposal.",
+    "hidden_costs_breakdown": [
+      "UMT application fee: RM 150 (~PKR 9,800).",
+      "EMGS visa approval and student pass fees: ~RM 2,200 to 2,500 (~PKR 143,000 to 162,500).",
+      "HEC and MoFA document attestations in Pakistan: ~PKR 15,000 to 25,000.",
+      "One-way flight to Kuala Lumpur / Terengganu: ~PKR 95,000 to 140,000.",
+      "Initial living deposit before first stipend cycle: ~RM 1,000 (~PKR 65,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Scheme covers international flights. Reality: International travel and EMGS visa fees are self-funded.",
+      "Myth: You can apply without contacting a supervisor. Reality: Supervisor endorsement is effectively mandatory for scheme approval."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim scheme is purely a fee discount; in reality, GRA includes both full tuition waiver and monthly living stipend."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain minimum CGPA 3.00 and Satisfactory (TM) research progress evaluation every semester.",
+    "attendance_requirements": "Full-time physical research presence at UMT Kuala Nerus campus; scholars may be assigned up to 6 hours/week of laboratory or tutorial teaching assistance.",
+    "academic_progress_monitoring": "Semi-annual progress report evaluated by supervisor and presented to Faculty Postgraduate Committee.",
+    "work_restrictions_during_study": "Recipients are barred from taking full-time outside employment; internal paid tutoring or research assistance is permitted within university limits.",
+    "home_country_return_obligation": "None; scholars are free to seek international careers, postdoc opportunities, or industrial employment in Malaysia or abroad upon graduation.",
+    "service_obligations_or_bonds": "Zero national service bond; recipients must meet graduation publication requirements (minimum 1-2 Scopus/WoS indexed papers) affiliated with UMT.",
+    "repayment_clawback_conditions": "Termination of monthly stipend and withdrawal of fee waiver if research progress is evaluated as Unsatisfactory across consecutive reviews.",
+    "rules_for_changing_university": "Non-transferable; scheme is funded internally by UMT.",
+    "rules_for_changing_major": "Field of research cannot be changed without written permission from faculty dean and Graduate School.",
+    "extension_policy": "Extensions beyond maximum tenure (24 months Master's, 36 months PhD) require special approval and are generally self-funded."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Universiti Malaysia Terengganu Graduate School Office",
+      "source_url": "https://gso.umt.edu.my/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Universiti Malaysia Terengganu Official Portal",
+      "source_url": "https://www.umt.edu.my/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

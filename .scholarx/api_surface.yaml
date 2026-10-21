@@ -1,0 +1,254 @@
+# ============================================================
+# ScholarX — API Surface Documentation
+# Complete endpoint reference with request/response shapes.
+# Last Updated: 2026-10-02
+# ============================================================
+
+base_url: "http://localhost:8000"
+frontend_proxy: "Next.js rewrites /api/* → http://localhost:8000/api/*"
+
+endpoints:
+  # ── Health & Root ─────────────────────────────────────────
+  - method: GET
+    path: "/"
+    handler: backend/main.py
+    purpose: "Root info endpoint"
+    response:
+      example: '{"name": "ScholarX...", "status": "ONLINE", "version": "1.0.0"}'
+
+  - method: GET
+    path: "/api/health"
+    handler: backend/main.py
+    purpose: "System health check with API key pool status"
+    response:
+      shape: |
+        {
+          "status": "HEALTHY",
+          "api_keys": {
+            "gemini": {"total": 3, "healthy": 3, "cooldown": 0},
+            "groq": {"total": 13, "healthy": 13, "cooldown": 0},
+            "tavily": {"total": 7, "healthy": 7, "cooldown": 0},
+            "firecrawl": {"total": 3, "healthy": 3, "cooldown": 0},
+            "jina": {"total": 1, "healthy": 1, "cooldown": 0}
+          }
+        }
+
+  # ── Profile Routes ────────────────────────────────────────
+  - method: POST
+    path: "/api/profile/upload"
+    handler: backend/api/routes/profile.py
+    purpose: "Upload student documents (PDF/DOCX/TXT) for AI extraction"
+    request:
+      content_type: multipart/form-data
+      fields:
+        - name: file
+          type: File
+          required: true
+          description: "Student document (.pdf, .docx, .txt, max 25MB)"
+        - name: session_id
+          type: string
+          required: true
+          description: "Session identifier"
+    response:
+      shape: |
+        {
+          "status": "success",
+          "profile": { ... StudentProfile (nested) ... },
+          "extraction_result": {
+            "document_type": "CV",
+            "extracted_fields": { ... },
+            "confidence": 0.95
+          }
+        }
+    notes: |
+      Response uses NESTED StudentProfile shape:
+      - profile.personal.name (not profile.full_name)
+      - profile.academic.gpa_4_scale (not profile.gpa)
+      - profile.academic.current_level (not profile.degree_level)
+      Frontend IntakeDropzone expects FLAT shape — adapter needed.
+
+  - method: POST
+    path: "/api/profile/chat"
+    handler: backend/api/routes/profile.py
+    purpose: "Multi-turn conversational intake counselor"
+    request:
+      content_type: application/json
+      body: '{"session_id": "string", "message": "string"}'
+    response:
+      shape: '{"reply": "string", "profile": { ... StudentProfile ... }}'
+
+  - method: GET
+    path: "/api/profile/{session_id}"
+    handler: backend/api/routes/profile.py
+    purpose: "Retrieve student profile by session ID"
+    response:
+      shape: '{"profile": { ... StudentProfile ... }}'
+
+  - method: PUT
+    path: "/api/profile/{session_id}"
+    handler: backend/api/routes/profile.py
+    purpose: "Update student profile fields"
+    request:
+      content_type: application/json
+      body: "Partial StudentProfile fields to update"
+
+  # ── Discovery Routes ──────────────────────────────────────
+  - method: POST
+    path: "/api/discover"
+    handler: backend/api/routes/discover.py
+    purpose: "Launch autonomous 10-node LangGraph discovery mission (runs in BackgroundTasks)"
+    request:
+      content_type: application/json
+      body: '{"session_id": "string"}'
+    response:
+      shape: '{"mission_id": "string", "status": "LAUNCHED", "message": "Discovery pipeline started"}'
+    notes: "Mission runs asynchronously. Monitor via /api/stream/{session_id} SSE."
+
+  - method: GET
+    path: "/api/discover/{session_id}/status"
+    handler: backend/api/routes/discover.py
+    purpose: "Poll active mission status"
+    response:
+      shape: '{"session_id": "string", "status": "IN_PROGRESS|COMPLETED|FAILED", "events_count": 0}'
+
+  # ── Streaming Routes ──────────────────────────────────────
+  - method: GET
+    path: "/api/stream/{session_id}"
+    handler: backend/api/routes/stream.py
+    purpose: "Server-Sent Events (SSE) real-time telemetry stream"
+    response:
+      content_type: text/event-stream
+      format: |
+        event: <EVENT_TYPE>
+        data: {"event_type": "...", "agent_id": "...", "message": "...", "timestamp": "..."}
+      event_types:
+        - MISSION_INITIATED
+        - PROFILE_UPDATED
+        - SCOUT_DEPLOYED
+        - SEARCH_QUERY_EXECUTED
+        - CANDIDATE_EXTRACTED
+        - ELIGIBILITY_CHECK_STARTED
+        - COST_ANALYSIS_COMPLETE
+        - DEADLINE_ANALYSIS_COMPLETE
+        - SKEPTIC_CHALLENGE_ISSUED
+        - SYNTHESIS_COMPLETE
+        - RANKING_COMPLETE
+        - ROADMAP_GENERATED
+        - MISSION_COMPLETE
+    notes: |
+      Known issue: Events are currently batched after pipeline completion,
+      not streamed live during execution. Frontend has demo fallback.
+      Supports replay_history=True for late-connecting clients.
+
+  # ── Scholarship Routes ────────────────────────────────────
+  - method: GET
+    path: "/api/scholarships"
+    handler: backend/api/routes/scholarships.py
+    purpose: "Browse and filter 205+ seeded scholarships"
+    query_params:
+      - name: region
+        type: string
+        description: "Filter by region (Europe, Asia, Americas, MENA, Oceania)"
+      - name: country
+        type: string
+        description: "Filter by ISO country code or country name"
+      - name: search
+        type: string
+        description: "Full-text search across scholarship name and country"
+      - name: limit
+        type: integer
+        default: 20
+        description: "Max results per page"
+      - name: offset
+        type: integer
+        default: 0
+        description: "Pagination offset"
+    response:
+      shape: |
+        {
+          "scholarships": [
+            {
+              "scholarship_id": "SCH-EU-001",
+              "name": "Stipendium Hungaricum",
+              "host_country": "HU",
+              "host_country_name": "Hungary",
+              "region": "Europe",
+              "funding": {
+                "funding_type": "FULL",
+                "monthly_stipend_pkr_approx": 85000
+              },
+              "pakistan_requirements": {
+                "pakistan_eligible": true,
+                "pakistan_bilateral_quota": true,
+                "pakistan_quota_seats": 400
+              },
+              "application_deadline": "2027-01-15",
+              ...
+            }
+          ],
+          "total": 205
+        }
+    notes: |
+      Backend returns NESTED scholarship objects.
+      Frontend ScholarshipDNAExplorer expects FLAT fields:
+      - id (not scholarship_id)
+      - funding_level (not funding.funding_type)
+      - monthly_stipend_pkr (not funding.monthly_stipend_pkr_approx)
+      - pakistan_quota_seats (not pakistan_requirements.pakistan_quota_seats)
+      - deadline (not application_deadline)
+
+  - method: GET
+    path: "/api/scholarships/{scholarship_id}"
+    handler: backend/api/routes/scholarships.py
+    purpose: "Get single scholarship full detail"
+    response:
+      shape: "Full Scholarship Pydantic model as JSON"
+
+  # ── Session Routes ────────────────────────────────────────
+  - method: GET
+    path: "/api/sessions"
+    handler: backend/api/routes/sessions.py
+    purpose: "List all saved research sessions"
+    response:
+      shape: |
+        {
+          "sessions": [
+            {
+              "session_id": "...",
+              "student_id": "...",
+              "status": "COMPLETED",
+              "total_scanned": 45,
+              "total_verified": 12,
+              "top_scholarship": "Stipendium Hungaricum",
+              "top_score": 96.5,
+              "created_at": "2026-09-01T13:42:07Z"
+            }
+          ]
+        }
+
+  - method: GET
+    path: "/api/sessions/{session_id}"
+    handler: backend/api/routes/sessions.py
+    purpose: "Detailed session state with ranked scholarships, scores, and roadmap"
+    response:
+      shape: |
+        {
+          "session": { ... },
+          "student_profile": { ... },
+          "ranked_scholarships": [
+            {
+              "scholarship": { ... },
+              "score": { ... CompositeScoreResult ... },
+              "evidence": { ... EvidenceTrail ... },
+              "rank": 1
+            }
+          ],
+          "roadmap": { ... ApplicationRoadmap ... }
+        }
+
+  - method: DELETE
+    path: "/api/sessions/{session_id}"
+    handler: backend/api/routes/sessions.py
+    purpose: "Delete session and all associated data (cascading)"
+    response:
+      shape: '{"status": "deleted", "session_id": "..."}'

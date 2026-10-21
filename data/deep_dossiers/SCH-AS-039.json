@@ -1,0 +1,294 @@
+{
+  "scholarship_id": "SCH-AS-039",
+  "basic_details": {
+    "scholarship_name": "Harbin Institute of Technology (HIT) Chinese Government Scholarship (CSC High-Level Postgraduate Program)",
+    "offering_entity": "China Scholarship Council (CSC - Ministry of Education of China) & Harbin Institute of Technology",
+    "host_country": "China",
+    "host_institutions_covered": "Harbin Institute of Technology Main Campus (Harbin, Heilongjiang Province, China)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Faculty of Computing & School of Electrical Engineering and Automation: Computer Science and Technology, Artificial Intelligence, Cybersecurity, Software Engineering, Robotics and Intelligent Systems, and Control Science.",
+    "number_of_awards_total": "~150 to 220 fully funded CSC High-Level and University Postgraduate Scholarships awarded annually",
+    "number_of_awards_pakistan": "Extremely strong bilateral quota; Pakistani computing and aerospace researchers secure ~20 to 35 fully funded awards annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "2 to 3 years for Master of Science; 3 to 4 years for Doctor of Philosophy, subject to passing annual CSC scholarship review",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "RMB 3,000 / month for Master's (~PKR 115,000 / month); RMB 3,500 / month for PhD (~PKR 135,000 / month)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Non-Chinese citizens in good health holding valid foreign passports (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Master's applicants must be under 35 years of age; PhD applicants must be under 40 years of age.",
+    "academic_qualifications": "A recognized 4-year Bachelor's degree (16 years education) with minimum CGPA 3.30 / 4.00 (or 75%+ marks) from an HEC-recognized university in Pakistan for Master's; recognized MS/MPhil (18 years education) with strong thesis output for PhD.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Minimum grade equivalent of Grade B+ or 75% marks across academic transcript.",
+    "subject_background_prerequisites": "Rigorous undergraduate preparation in algorithms, computer architectures, linear algebra, discrete mathematics, and programming (C/C++, Python).",
+    "current_education_status": "Graduating seniors in their final semester can apply conditionally with expected graduation transcripts.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior software development, open-source projects, or published research papers in IEEE/ACM venues significantly strengthen candidacy.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.0, TOEFL iBT minimum 80, or institutional English Medium of Instruction (MOI) certificate from Pakistani university.",
+    "other_language_requirements": "Chinese language proficiency (HSK) is not required for English-taught graduate programs.",
+    "gender_specific_requirements": null,
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must contact a prospective supervisor at HIT Faculty of Computing and obtain an official Acceptance Letter prior to formal application.",
+    "previous_scholarship_restrictions": "Cannot hold another Chinese government or provincial scholarship simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee exemption at Harbin Institute of Technology covered for the entire program duration.",
+      "amount": "100% covered (~RMB 28,000 - 42,000 / year value; ~PKR 1,090,000 - 1,640,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "HIT international graduate application fee of RMB 400 (~USD 60 / ~PKR 16,000) payable online.",
+      "amount": "RMB 400 (~PKR 16,000)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Free accommodation in on-campus international student dormitories (twin room for Master's, single room for PhD) at HIT Harbin Campus, or monthly housing subsidy.",
+      "amount": "100% covered free dormitory accommodation"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living allowance: RMB 3,000 per month for Master's students (~PKR 115,000 / month; RMB 36,000 / year); RMB 3,500 per month for PhD scholars (~PKR 135,000 / month; RMB 42,000 / year).",
+      "amount": "RMB 3,000 - 3,500 / month (~PKR 115,000 - 135,000 / month)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel expenses must be arranged by the student; living allowance easily accommodates local savings.",
+      "amount": "Self-funded economy flight (~PKR 160,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Chinese X1 Student Visa application fee (~PKR 15,000) at the Chinese Embassy in Islamabad or Consulate in Karachi.",
+      "amount": "PKR 15,000"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive Medical Insurance for International Students in China (Ping An Insurance ~RMB 800 / year) provided 100% free by the CSC.",
+      "amount": "100% covered by China Scholarship Council"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via the monthly living stipend of RMB 3,000 - 3,500; heavily subsidized campus canteens provide complete halal meals for RMB 10 - 20 per meal.",
+      "amount": "Included in monthly living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to HIT Central Library, laboratory workstations, robotics testbeds, and software development platforms.",
+      "amount": "100% provided by university infrastructure"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Laboratory funding available through supervisor's national research grants for presenting papers at conferences.",
+      "amount": "Up to RMB 5,000 for conference travel"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free campus shuttle links and convenient connection to Harbin Metro Line 1 (HIT Station).",
+      "amount": "Convenient metro and campus access"
+    },
+    "total_estimated_value_usd_per_year": 18000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single elite C9 League university: Harbin Institute of Technology (HIT).",
+    "participating_institutions": [
+      "Harbin Institute of Technology (Harbin Campus, Heilongjiang Province, China)"
+    ],
+    "university_rankings_scope": "Member of China's elite C9 League; globally ranked #4 in Best Global Universities for Engineering (US News), and top 50 globally in Computer Science, Artificial Intelligence, and Robotics.",
+    "available_majors": [
+      "Computer Science and Technology",
+      "Artificial Intelligence and Cognitive Computing",
+      "Cyber Science and Engineering",
+      "Software Engineering and Distributed Systems",
+      "Control Science and Engineering",
+      "Robotics and Autonomous Systems",
+      "Aerospace Information Systems"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 to 3 years for Master's; 3 to 4 years for PhD",
+    "admission_requirements_summary": "Bachelor's degree with strong academic record (CGPA >= 3.3/4.0), professor acceptance letter, study plan (1,000 words), two recommendation letters, and certified English proficiency.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "HIT Computing and Robotics research institutes are world-renowned and attract top engineering talent; obtaining an official Acceptance Letter from a faculty professor is the key gatekeeper to CSC nomination.",
+    "strategic_program_match_advice": "Browse HIT Faculty of Computing faculty profiles (computing.hit.edu.cn), email prospective supervisors with a tailored research proposal and CV, and obtain the official HIT Acceptance Letter before the February 15 CSC deadline."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "http://hit.edusys.cn/ & https://studyinchina.csc.edu.cn/",
+    "portal_system_name": "HIT International Student Application System & CSC Portal",
+    "account_creation_instructions": "Register an account on the HIT online application portal, select graduate program, check the box applying for Chinese Government Scholarship, and apply on the CSC portal (Agency No: 10213).",
+    "step_by_step_workflow": [
+      "Step 1: Contact prospective supervisors in HIT Faculty of Computing and secure an official Acceptance Letter (October - January).",
+      "Step 2: Create user credentials on the HIT International Student Admissions Portal (http://hit.edusys.cn/).",
+      "Step 3: Submit online degree application, upload all required documents, and select Chinese Government Scholarship.",
+      "Step 4: Pay the application fee of RMB 400 online before the deadline (typically February 15).",
+      "Step 5: Apply on the CSC portal (https://studyinchina.csc.edu.cn/) under Type B using HIT Agency Number 10213.",
+      "Step 6: HIT faculty committee conducts academic review and online technical interviews in March.",
+      "Step 7: Official admission and scholarship package (JW201 form) dispatched in June/July; apply for Chinese X1 visa."
+    ],
+    "university_vs_scholarship_routing": "Integrated Track: Single application via the HIT portal covers both program admission and scholarship nomination.",
+    "recommendation_letters_submission_method": "Submitted on institutional letterhead signed by former academic professors or research supervisors.",
+    "personal_statement_prompts": "Study and research plan (minimum 1,000 words in English) outlining academic background, proposed research focus, and reasons for choosing HIT.",
+    "study_plan_research_proposal_requirements": "Structured 3 to 5-page research proposal detailing background, problem formulation, methodology, and expected timeline.",
+    "cv_format_requirements": "Detailed academic CV highlighting technical projects, publications, programming proficiencies, and awards.",
+    "interviews_conducted": true,
+    "interview_format_details": "20 to 30-minute technical video interview via Zoom / Tencent Meeting conducted by faculty admissions panel.",
+    "standardized_tests": "IELTS Academic (min 6.0), TOEFL iBT (min 80), or institutional English MOI certificate accepted; GRE not required.",
+    "application_fee_amount": "RMB 400 (~USD 60 / ~PKR 16,000)",
+    "attestation_requirements": "Degrees and transcripts attested by HEC and MOFA Pakistan; Matric/Inter by IBCC.",
+    "translation_requirements": "Certified English or Chinese translation required for all official documents.",
+    "final_submission_method": "Online upload via HIT admissions portal and CSC portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts for 4-year Bachelor's with minimum CGPA 3.3/4.0.",
+      "pakistan_specific_instruction": "Attested copies from HEC and MOFA Pakistan."
+    },
+    {
+      "document_name": "HIT Professor Acceptance Letter (Official Form)",
+      "mandatory": true,
+      "specification": "Official acceptance letter signed by an eligible HIT professor.",
+      "pakistan_specific_instruction": "Obtained directly through academic correspondence."
+    },
+    {
+      "document_name": "Study and Research Plan (Minimum 1,000 words)",
+      "mandatory": true,
+      "specification": "Detailed research plan outlining academic background, proposed research questions, and methodology.",
+      "pakistan_specific_instruction": "Must be aligned with HIT supervisor's lab projects."
+    },
+    {
+      "document_name": "Two Recommendation Letters from Full or Associate Professors",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from academic professors.",
+      "pakistan_specific_instruction": "Printed on official university letterhead with institutional email."
+    },
+    {
+      "document_name": "Foreigner Physical Examination Form",
+      "mandatory": true,
+      "specification": "Official Chinese physical examination form signed by an authorized physician with hospital stamp.",
+      "pakistan_specific_instruction": "Completed at an authorized diagnostic center with blood test and chest X-ray reports."
+    },
+    {
+      "document_name": "Non-Criminal Record Certificate (Police Clearance)",
+      "mandatory": true,
+      "specification": "Official police character certificate issued within the preceding 6 months.",
+      "pakistan_specific_instruction": "Obtained from local police service center and attested by MOFA."
+    },
+    {
+      "document_name": "English Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.0), TOEFL iBT (min 80), or institutional English MOI letter.",
+      "pakistan_specific_instruction": "MOI letter signed by university registrar."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "High-resolution color scan of passport bio page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Pakistani passport must have validity through late 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "October 15",
+    "application_deadline": "February 15",
+    "university_admission_deadline": "February 15",
+    "document_submission_deadline": "February 15",
+    "recommendation_letters_deadline": "February 22",
+    "interview_period": "March - April",
+    "shortlist_announcement": "Late April",
+    "final_result_acceptance_deadline": "June",
+    "visa_application_window": "July - August",
+    "semester_commencement": "Early September (commencing in Harbin)",
+    "annual_cycle_notes": "Main intake is Autumn (September). Applications close annually on February 15."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Undergraduate GPA and performance in core computing, robotics, and engineering courses)",
+    "extracurricular_and_leadership_weight": "5% (Technical community leadership and hackathon participation)",
+    "research_experience_weight": "35% (Quality of research proposal, supervisor acceptance letter, and previous publications/capstone)",
+    "work_experience_weight": "5% (Industry software engineering or research experience)",
+    "personal_statement_weight": "10% (Clarity of academic intent and justification for HIT)",
+    "recommendations_weight": "10% (Academic referee appraisals and professor's endorsement)",
+    "interview_weight": "0% (Interview performance factored directly into final ranking)",
+    "test_scores_weight": "0% (Language proficiency fulfills eligibility threshold)",
+    "financial_need_weight": "0% (Pure academic and research merit ranking)",
+    "selection_panel_composition": "HIT Faculty Admissions Board and College of International Education Scholarship Committee.",
+    "evaluation_methodology": "Two-phase evaluation: academic credential audit and professor nomination followed by faculty panel interview."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,500 to 3,800 international graduate applicants across HIT",
+    "total_scholarships_awarded": "~150 to 220 fully funded CSC scholarships awarded annually",
+    "acceptance_rate_global": "~6% to 9%",
+    "acceptance_rate_pakistan": "~10% to 15% among candidates with professor acceptance letters",
+    "typical_successful_applicant_gpa": "CGPA 3.45+ / 4.00 from top Pakistani engineering institutions (NUST, FAST, GIKI, UET, NED)",
+    "typical_academic_and_research_profile": "Graduates of accredited computing and engineering faculties with solid programming foundations and practical capstone projects.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani computer science, software engineering, and electronic engineering faculties.",
+    "high_representation_countries": "Pakistan, Russia, Iran, Bangladesh, Indonesia, Egypt, Nigeria, Thailand.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of unauthorized agents claiming to sell guaranteed CSC scholarships or HIT admissions.",
+      "Applications are handled exclusively via the official HIT portal (http://hit.edusys.cn/) and CSC portal."
+    ],
+    "application_fee_warning": "HIT application fee is RMB 400 paid directly on the portal; never transfer funds to personal bank accounts.",
+    "agent_and_intermediary_warnings": "Harbin Institute of Technology does not work with third-party recruitment agencies.",
+    "hidden_costs_breakdown": [
+      "HIT application fee: RMB 400 (~PKR 16,000).",
+      "Foreigner physical examination in Pakistan: ~PKR 15,000.",
+      "Attestations in Pakistan: ~PKR 25,000.",
+      "Initial pocket money before first stipend transfer: ~RMB 2,000 (~PKR 78,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You can get CSC without a professor's acceptance letter. Reality: At top C9 universities like HIT, having a professor's acceptance letter is essential for scholarship nomination.",
+      "Myth: Harbin winter is unmanageable. Reality: All indoor facilities, classrooms, and dormitories in Harbin have state-mandated 24/7 central heating maintaining 22-25°C."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial websites state application deadline is April; HIT CSC scholarship application portal closes strictly on February 15."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain good academic standing and pass the mandatory CSC Annual Scholarship Review each spring.",
+    "attendance_requirements": "Full-time physical research attendance in the faculty research lab in Harbin.",
+    "academic_progress_monitoring": "Annual progress report submitted to the Graduate School and China Scholarship Council.",
+    "work_restrictions_during_study": "Part-time work off-campus is strictly restricted under Chinese student visa regulations; campus work-study permitted with university approval.",
+    "home_country_return_obligation": "No return obligation; graduates are free to work in China or globally under Chinese work visa (Z-visa) schemes.",
+    "service_obligations_or_bonds": "Zero service bond or repayment obligation.",
+    "repayment_clawback_conditions": "Funding cancelled if the student fails annual review, engages in illegal employment, or breaches Chinese law.",
+    "rules_for_changing_university": "Non-transferable to other Chinese universities.",
+    "rules_for_changing_major": "Requires approval from both current and prospective supervisors and the Graduate School.",
+    "extension_policy": "Master's programs cannot be extended; PhD programs can apply for up to 1-year extension based on exceptional research progress."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "HIT College of International Education Official Portal",
+      "source_url": "http://hit.edusys.cn/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "China Scholarship Council (CSC) Official Portal",
+      "source_url": "https://studyinchina.csc.edu.cn/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

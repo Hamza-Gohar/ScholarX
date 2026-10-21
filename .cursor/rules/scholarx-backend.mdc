@@ -1,0 +1,15 @@
+---
+description: Backend guidelines for FastAPI, LangGraph, SQLite, and Python code
+globs: backend/**,scripts/**
+alwaysApply: false
+---
+# ScholarX Backend Rules
+
+- Framework: FastAPI (Python 3.12, port 8000)
+- Orchestration: LangGraph 10-node StateGraph (`backend/graph/builder.py`)
+- Database: `aiosqlite` with WAL mode (`data/scholarx_sessions.db`)
+- LLM SDK: Groq primary (`qwen/qwen3.8-27b`) + Google Gemini fallback (`from google import genai`). NEVER import legacy `google.generativeai`.
+- Events: Emit real-time telemetry via `backend/events/bus.py` with typed `ScholarXEvent` models.
+- Tests: Always write tests in `backend/tests/test_*.py` using pytest and pytest-asyncio.
+- Fast Test Command: `.venv/bin/pytest backend/tests/test_schemas.py backend/tests/test_api_keys.py -v`
+- Documentation: Read `.context/02_BACKEND_LANGGRAPH.md` and `.context/05_API_SSE_EVENTS.md`.

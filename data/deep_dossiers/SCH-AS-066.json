@@ -1,0 +1,294 @@
+{
+  "scholarship_id": "SCH-AS-066",
+  "basic_details": {
+    "scholarship_name": "Seoul National University (SNU) Global Scholarship",
+    "offering_entity": "Seoul National University (SNU) Office of International Affairs (OIA)",
+    "host_country": "South Korea",
+    "host_institutions_covered": "Seoul National University (Gwanak Main Campus and Yeongeon Medical Campus, Seoul, South Korea)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)",
+      "Combined Master's & Doctoral Program"
+    ],
+    "major_restrictions": "Open to all graduate colleges: College of Engineering, College of Natural Sciences, College of Agriculture and Life Sciences, Graduate School of Data Science, College of Pharmacy, College of Medicine, College of Social Sciences, and Graduate School of International Studies (GSIS).",
+    "number_of_awards_total": "~160 to 200 graduate scholars supported per semester across Global Scholarship Category 1 (Tuition + Stipend) and Category 2 (Tuition Exemption)",
+    "number_of_awards_pakistan": "Open international merit competition; Pakistani graduate researchers in STEM, computing, and life sciences secure ~10 to 18 awards per semester",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 1 year renewable (up to 2 years for Master's, 3 years for PhD) subject to maintaining a minimum semester GPA of 3.0 / 4.3"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International applicants whose parents are not citizens of South Korea (Pakistan eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No formal age limit, but competitive applicants are typically under 35 (Master's) or under 40 (PhD).",
+    "academic_qualifications": "A recognized 4-year Bachelor's degree (16 years education) for Master's; recognized Master's degree (18 years education) for PhD from an HEC-recognized institution with distinguished academic performance (minimum 75% aggregate or CGPA 3.30 / 4.00; competitive admits typically 3.60+ / 4.00 or top 10% class rank).",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Transcript grades evaluated on SNU 4.3 grading scale; applicants should hold an equivalent of B+ (3.3/4.3) or higher.",
+    "subject_background_prerequisites": "Prior degree closely aligned with the applied academic discipline.",
+    "current_education_status": "Students in their final semester can apply conditionally with a bonafide letter from their university stating expected graduation date.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Research laboratory experience, coding proficiency, or published papers in international journals significantly enhance selection odds.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "TOEFL iBT min 80, IELTS Academic min 6.0, TEPS min 269, or official English Medium of Instruction (MOI) certificate from Pakistani university confirming undergraduate/master education was conducted in English.",
+    "other_language_requirements": "Korean proficiency (TOPIK) is not required for English-track STEM programs; TOPIK Level 3+ recommended for Humanities and Social Sciences.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants can apply for the SNU Global Scholarship during the general international graduate admissions application window or upon admission.",
+    "previous_scholarship_restrictions": "Cannot concurrently hold other full external government scholarships (e.g. GKS/KGSP).",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full tuition fee waiver for the enrolled academic semester/year (KRW 3,200,000 to 6,100,000 / semester value depending on college).",
+      "amount": "100% covered (~KRW 6,400,000 to 12,200,000 / year; ~PKR 1,344,000 to 2,562,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "PAID BY APPLICANT",
+      "details": "SNU international graduate admissions application fee of KRW 90,000 (~USD 68; ~PKR 18,900) paid online via UwayApply.",
+      "amount": "KRW 90,000 (~PKR 18,900)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "SNU Gwanak Residence Halls (Bldg 900-906) provided at highly subsidized student rates: KRW 200,000 to 350,000 / month (~USD 150 to 260 / month) for double/single rooms, easily covered from the monthly stipend.",
+      "amount": "Subsidized dormitory (~KRW 250,000 / month)"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Global Scholarship Category 1 recipients receive a tax-free monthly living stipend of KRW 1,200,000 / month (~USD 900 / month; ~PKR 252,000 / month) for 12 months. Supplementary laboratory research assistantship (RA) stipends typically add KRW 600,000 to 1,000,000 / month.",
+      "amount": "KRW 1,200,000 / month (~PKR 252,000 / mo)"
+    },
+    "airfare": {
+      "status": "PARTIAL",
+      "details": "Selected Global Scholarship 1 awardees receive a one-time economy round-trip or one-way flight subsidy (up to KRW 1,000,000; ~USD 750).",
+      "amount": "Up to KRW 1,000,000 airfare subsidy"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Korean D-2 Student Visa processing fees at the Embassy of the Republic of Korea in Islamabad are paid by the student.",
+      "amount": "Not covered (~PKR 16,000 to 25,000)"
+    },
+    "health_insurance": {
+      "status": "SUBSIDIZED",
+      "details": "Mandatory Korean National Health Insurance Service (NHIS) covers foreign students; subsidized monthly premium is ~KRW 70,000 / month, covered from the monthly living stipend.",
+      "amount": "Subsidized NHIS (~KRW 70,000 / month)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "SNU campus cafeterias (Student Center cafeteria, Dormitory cafeteria, and Halal-friendly meal options) provide wholesome meals for KRW 3,500 to 6,000 per meal; easily covered by the KRW 1,200,000 monthly stipend.",
+      "amount": "Covered from monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "100% COVERED",
+      "details": "Comprehensive access to SNU Main Library, digital archives, supercomputing facilities, and advanced laboratory equipment.",
+      "amount": "Covered via institutional infrastructure"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Laboratory BK21 (Brain Korea 21 Four) funding and National Research Foundation of Korea (NRF) grants provide travel funding for international conferences.",
+      "amount": "Covered through lab BK21/NRF grants"
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Seoul Metropolitan subway and bus transit (T-Money card) paid from monthly stipend (~KRW 60,000/month).",
+      "amount": "Covered from living stipend"
+    },
+    "total_estimated_value_usd_per_year": 18500
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Seoul National University)",
+    "participating_institutions": [
+      "Seoul National University (SNU) - SKY University flagship (Seoul, South Korea)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #31 worldwide, Times Higher Education #62 globally, #1 in South Korea.",
+    "available_majors": [
+      "Computer Science and Engineering",
+      "Electrical and Computer Engineering",
+      "Data Science",
+      "Mechanical Engineering",
+      "Chemical and Biological Engineering",
+      "Materials Science and Engineering",
+      "Artificial Intelligence",
+      "Physics and Astronomy",
+      "Chemistry",
+      "Biological Sciences",
+      "Agricultural Biotechnology",
+      "International Studies (GSIS)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 to 4 years; Combined MS-PhD: 4 to 5 years",
+    "admission_requirements_summary": "Online application via UwayApply, personal statement and study plan, two letters of recommendation, verified degree certificates and transcripts, language proficiency report (IELTS/TOEFL/MOI), passport copies of applicant and parents, and proof of family relations.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Admission to the Department of Computer Science and Engineering and Graduate School of Data Science is exceptionally competitive; having a prospective lab professor's preliminary support or joint research discussion dramatically improves funding prospects.",
+    "strategic_program_match_advice": "Review SNU faculty laboratory websites, read their recent publications in IEEE/Nature/ACM, and email the professor 1-2 months before the application cycle opens with your CV, transcript, and a concise summary of your research interest."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://en.snu.ac.kr/admission/graduate/application & https://www.uwayapply.com",
+    "portal_system_name": "SNU Graduate Admissions Portal & UwayApply",
+    "account_creation_instructions": "Create an applicant account on UwayApply during the open application window, select Seoul National University Graduate International Admissions (Track 1), complete data entry, and check the scholarship application box for the SNU Global Scholarship.",
+    "step_by_step_workflow": [
+      "Step 1: Contact prospective SNU professors to discuss lab openings and research alignment (June - July for Spring, December - January for Fall).",
+      "Step 2: Create account on UwayApply and complete the SNU International Graduate Admissions form.",
+      "Step 3: Indicate interest and complete the application section for the SNU Global Scholarship.",
+      "Step 4: Pay the application fee of KRW 90,000 online via international credit card.",
+      "Step 5: Have academic recommenders submit online recommendation letters directly through the automated email system.",
+      "Step 6: Upload or courier certified documents (transcripts, degrees, apostille/consular confirmation, family relations proof).",
+      "Step 7: Departmental admissions committee reviews applications and conducts technical interviews via Zoom (September for Spring, April for Fall).",
+      "Step 8: Final admission and Global Scholarship results announced by SNU OIA (November for Spring, June for Fall).",
+      "Step 9: Receive Certificate of Admission (CoA), apply for Korean D-2 visa in Islamabad, and matriculate at SNU."
+    ],
+    "university_vs_scholarship_routing": "Integrated Application: Scholarship consideration is embedded directly within the SNU general graduate admissions process.",
+    "recommendation_letters_submission_method": "Submitted online by referees via the secure SNU recommendation portal link generated upon application fee payment.",
+    "personal_statement_prompts": "Self-Introduction and Study Plan covering personal background, motivations for studying at SNU, undergraduate research achievements, and proposed graduate research project.",
+    "study_plan_research_proposal_requirements": "Structured plan detailing research problem, methodologies, expected academic contributions, and alignment with target SNU laboratory.",
+    "cv_format_requirements": "Standard academic CV highlighting academic honors, research papers, software projects, and technical skills.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online video interview via Zoom conducted by a 2-3 faculty member committee assessing domain knowledge, mathematical/analytical skills, and research drive.",
+    "standardized_tests": "Not required; GRE is optional but strongly recommended for competitive STEM applicants.",
+    "application_fee_amount": "KRW 90,000 (~USD 68; ~PKR 18,900)",
+    "attestation_requirements": "Degrees and transcripts must be authenticated by HEC Pakistan, MoFA, and consular legalized by the Embassy of the Republic of Korea in Islamabad, or apostilled.",
+    "translation_requirements": "Certified English translation required for all non-English documents.",
+    "final_submission_method": "Online application via UwayApply followed by submission of verified hardcopy credentials as instructed by the admissions office."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "SNU Graduate Admissions & Scholarship Application Form",
+      "mandatory": true,
+      "specification": "Completed online application form via UwayApply.",
+      "pakistan_specific_instruction": "Ensure name matches Pakistani passport exactly."
+    },
+    {
+      "document_name": "Statement of Purpose and Study Plan",
+      "mandatory": true,
+      "specification": "Official SNU Form 2 detailing personal history and research objectives in English.",
+      "pakistan_specific_instruction": "Articulate clear research synergy with specific SNU faculty labs."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Official SNU Form 3 completed online by academic mentors from previous university.",
+      "pakistan_specific_instruction": "Ensure Pakistani professors use their official university email addresses."
+    },
+    {
+      "document_name": "Official Bachelor's/Master's Degree and Transcripts",
+      "mandatory": true,
+      "specification": "HEC-attested degrees and complete transcripts with consular legalization / apostille.",
+      "pakistan_specific_instruction": "Must be verified by HEC, MoFA, and legalized by the Korean Embassy in Islamabad."
+    },
+    {
+      "document_name": "Proof of Language Proficiency",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.0), TOEFL iBT (min 80), TEPS (min 269), or English MOI certificate.",
+      "pakistan_specific_instruction": "Institutional MOI certificate signed by Registrar/Dean is accepted by many STEM departments."
+    },
+    {
+      "document_name": "Proof of Nationality and Family Relations",
+      "mandatory": true,
+      "specification": "Scanned passport copies of applicant and parents, along with Family Registration Certificate (FRC).",
+      "pakistan_specific_instruction": "NADRA Family Registration Certificate (FRC) in English translated and attested by MoFA."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of applicant's passport valid for at least 1 year.",
+      "pakistan_specific_instruction": "Must have at least 18 months remaining validity."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Early July (Spring Intake) / Early January (Fall Intake)",
+    "application_deadline": "Mid-July (Spring Intake) / Early February (Fall Intake)",
+    "university_admission_deadline": "Mid-July / Early February",
+    "document_submission_deadline": "Late July / Mid-February",
+    "recommendation_letters_deadline": "Late July / Mid-February",
+    "interview_period": "September (Spring) / April (Fall)",
+    "shortlist_announcement": "Late November (Spring) / Early June (Fall)",
+    "final_result_acceptance_deadline": "Mid-December / Late June",
+    "visa_application_window": "January (Spring) / July (Fall)",
+    "semester_commencement": "March 1 (Spring) / September 1 (Fall)",
+    "annual_cycle_notes": "Two application intake cycles per academic year: Spring semester (starts March) and Fall semester (starts September)."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Undergraduate/Master's GPA and academic excellence)",
+    "extracurricular_and_leadership_weight": "5% (Leadership activities and awards)",
+    "research_experience_weight": "35% (Prior research, publications, and study plan alignment)",
+    "work_experience_weight": "5% (Industry/laboratory engineering experience)",
+    "personal_statement_weight": "10% (Clarity of purpose and articulation of goals)",
+    "recommendations_weight": "5% (Academic referee evaluations)",
+    "interview_weight": "5% (Video interview assessment where conducted)",
+    "test_scores_weight": "0% (English meets required standard; GRE optional)",
+    "financial_need_weight": "0% (Purely merit-based for Global Scholarship 1)",
+    "selection_panel_composition": "SNU Departmental Admissions Committee, Graduate School Academic Board, and Office of International Affairs (OIA) Scholarship Panel.",
+    "evaluation_methodology": "Comprehensive holistic review evaluating academic rigor, research potential, faculty fit, and international diversity."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~4,000 to 5,500 international applicants across both semesters",
+    "total_scholarships_awarded": "~300 to 400 Global Scholarships awarded annually across both semesters",
+    "acceptance_rate_global": "~6.0% to 8.0%",
+    "acceptance_rate_pakistan": "~8.0% among competitive STEM applicants with supervisor backing",
+    "typical_successful_applicant_gpa": "3.60+ / 4.00 or 85%+ aggregate from top Pakistani universities (NUST, FAST, QAU, GIKI, UET, LUMS)",
+    "typical_academic_and_research_profile": "Graduates with exceptional academic records, solid coding/lab skills, and at least 1-2 research publications or significant thesis project outcomes.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani premier science and engineering universities.",
+    "high_representation_countries": "Pakistan, Vietnam, India, Indonesia, China, Turkey, USA, Germany.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of fraudulent websites offering admission guarantees or unofficial scholarship letters for Seoul National University.",
+      "Legitimate applications are processed ONLY through en.snu.ac.kr and uwayapply.com."
+    ],
+    "application_fee_warning": "SNU application fee is KRW 90,000 paid exclusively via UwayApply; no other agency fees are authorized.",
+    "agent_and_intermediary_warnings": "SNU does not work with third-party recruitment agencies; direct application is mandatory.",
+    "hidden_costs_breakdown": [
+      "Application fee: KRW 90,000 (~PKR 18,900).",
+      "NADRA FRC, HEC attestation, MoFA attestation, and Korean Embassy legalization: ~PKR 40,000 to 55,000.",
+      "Mandatory Korean NHIS health insurance (~KRW 70,000/month) paid from stipend.",
+      "Round-trip airfare from Pakistan to Incheon/Seoul (~PKR 190,000 to 250,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You cannot study at SNU without speaking Korean. Reality: Nearly all graduate STEM courses and laboratory research are conducted entirely in English.",
+      "Myth: The scholarship covers all 4 years automatically. Reality: The award is renewed semester-by-semester based on maintaining a minimum GPA of 3.0 / 4.3."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial forums state that professor contact is not required; in practice, STEM applicants without prior professor contact rarely get allocated lab space or scholarship funding."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum semester GPA of 3.0 / 4.3 (Grade B equivalent) to retain the scholarship for subsequent semesters.",
+    "attendance_requirements": "Full-time academic standing and active daily laboratory research engagement.",
+    "academic_progress_monitoring": "Semester-end academic record review by the Office of International Affairs (OIA) before releasing subsequent tuition waivers and stipends.",
+    "work_restrictions_during_study": "Part-time work permitted up to 20 hours/week during semester with university and immigration permission, but full-time external employment is prohibited.",
+    "home_country_return_obligation": "No obligation to return to Pakistan; graduates can transition to Korean D-10 job seeker visas or E-7 professional work visas.",
+    "service_obligations_or_bonds": "No bond or mandatory service agreement.",
+    "repayment_clawback_conditions": "Scholarship cancelled if the student is subject to disciplinary action, withdraws without authorization, or fails to meet minimum GPA standards.",
+    "rules_for_changing_university": "Transferring to another university results in immediate loss of SNU scholarship benefits.",
+    "rules_for_changing_major": "Changing majors requires formal review and typically results in loss of the Global Scholarship funding.",
+    "extension_policy": "Global Scholarship duration is strictly capped at standard program length (up to 4 semesters for Master's, 6-8 for PhD); subsequent extensions must be funded via lab RA/TA funds."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Seoul National University Office of International Affairs (OIA) Official Portal",
+      "source_url": "https://en.snu.ac.kr/admission/graduate/scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "SNU Graduate Admissions Guide",
+      "source_url": "https://en.snu.ac.kr/admission/graduate/application",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}
