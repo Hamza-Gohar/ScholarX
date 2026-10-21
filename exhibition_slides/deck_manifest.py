@@ -275,17 +275,18 @@ SLIDES = [
         "developers": [
             {
                 "badge": "01",
-                "role_tag": "CREATOR & AI ARCHITECT",
+                "role_tag": "LEAD CREATOR & SYSTEM ARCHITECT",
                 "name": "M. Hamza Gohar",
-                "desc": "Lead Architect of ScholarX. Designed the multi-agent LangGraph DAG orchestration, memory persistence engine, and local-first deployment."
+                "desc": "Conceived, designed, and built ScholarX. Engineered the multi-agent LangGraph orchestration, autonomous scout pipelines, and backend intelligence network."
             },
             {
                 "badge": "02",
-                "role_tag": "CREATOR & SYSTEMS ENGINEER",
+                "role_tag": "FRONTEND & DESIGN CONTRIBUTOR",
                 "name": "Malik Hassan",
-                "desc": "Core Systems Engineer. Built the distributed regional scout workflows, deterministic eligibility filters, and the adversarial Skeptic verification agent."
+                "desc": "Contributed to frontend interface implementation, user dashboard layout components, and visual styling."
             }
         ],
+
         "supervisor": {
             "badge": "SUPERVISED BY",
             "name": "Sir Kaleem",
