@@ -35,89 +35,53 @@ ScholarX avoids common LLM pitfalls by separating math and rules from language g
 
 ScholarX executes admissions intelligence through a structured pipeline supervised by an Orchestrator Agent. The architecture separates qualitative reasoning (**Agents**, powered by LLMs) from deterministic calculations (**Workflows**, executed in Python):
 
-```mermaid
-flowchart TD
-    subgraph ORCHESTRATOR["ORCHESTRATOR AGENT (System Supervisor)"]
-        direction TB
-        PA["PROFILE ANALYSER<br/><i>(Agent)</i>"]
-        DC["DISCOVERY COMMANDER<br/><i>(Agent)</i>"]
-        
-        subgraph SCOUTS["REGIONAL SCOUTS (Workflow)"]
-            direction LR
-            AM["AMERICA"]
-            AS["ASIA"]
-            EU["EUROPE"]
-            ME["MENA"]
-            AU["AUSTRALIA"]
-        end
-        
-        EI["ELIGIBILITY INVESTIGATOR<br/><i>(Workflow)</i>"]
-        TCA["TRUE COST ANALYZER<br/><i>(Workflow)</i>"]
-        DLC["DEADLINE CHECKER<br/><i>(Workflow)</i>"]
-        SK["SKEPTIC AGENT<br/><i>(Agent)</i>"]
-        SE["SYNTHESIS ENGINE<br/><i>(Workflow)</i>"]
-        RE["RANKING ENGINE<br/><i>(Workflow)</i>"]
-        AA["ADVISER AGENT<br/><i>(Agent)</i>"]
-        
-        PA --> DC
-        DC --> SCOUTS
-        SCOUTS --> EI
-        EI --> TCA
-        TCA --> DLC
-        DLC --> SK
-        SK --> SE
-        SE --> RE
-        RE --> AA
-    end
-```
-
 ```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                          ORCHESTRATOR AGENT                            │
-│                                                                        │
-│                      ┌──────────────────────┐                          │
-│                      │   PROFILE ANALYSER   │ ──► AGENT                │
-│                      └──────────┬───────────┘                          │
-│                                 ▼                                      │
-│                      ┌──────────────────────┐                          │
-│                      │ DISCOVERY COMMANDER  │ ──► AGENT                │
-│                      └──────────┬───────────┘                          │
-│                                 ▼                                      │
-│         ┌────────────────────────────────────────────────────┐         │
-│         │                      WORKFLOW                      │         │
-│         │ ┌─────────┐ ┌──────┐ ┌────────┐ ┌──────┐ ┌───────┐ │         │
-│         │ │ AMERICA │ │ ASIA │ │ EUROPE │ │ MENA │ │AUSTRAL│ │         │
-│         │ └─────────┘ └──────┘ └────────┘ └──────┘ └───────┘ │         │
-│         └───────────────────────┬────────────────────────────┘         │
-│                                 ▼                                      │
-│                      ┌──────────────────────┐                          │
-│                      │ELIGIBILITY INVESTIGAT│ ──► WORKFLOW             │
-│                      └──────────┬───────────┘                          │
-│                                 ▼                                      │
-│                      ┌──────────────────────┐                          │
-│                      │  TRUE COST ANALYZER  │ ──► WORKFLOW             │
-│                      └──────────┬───────────┘                          │
-│                                 ▼                                      │
-│                      ┌──────────────────────┐                          │
-│                      │   DEADLINE CHECKER   │ ──► WORKFLOW             │
-│                      └──────────┬───────────┘                          │
-│                                 ▼                                      │
-│                      ┌──────────────────────┐                          │
-│                      │    SKEPTIC AGENT     │ ──► AGENT                │
-│                      └──────────┬───────────┘                          │
-│                                 ▼                                      │
-│                      ┌──────────────────────┐                          │
-│                      │   SYNTHESIS ENGINE   │ ──► WORKFLOW             │
-│                      └──────────┬───────────┘                          │
-│                                 ▼                                      │
-│                      ┌──────────────────────┐                          │
-│                      │    RANKING ENGINE    │ ──► WORKFLOW             │
-│                      └──────────┬───────────┘                          │
-│                                 ▼                                      │
-│                      ┌──────────────────────┐                          │
-│                      │    ADVISER AGENT     │ ──► AGENT                │
-│                      └──────────────────────┘                          │
-└────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                              ORCHESTRATOR AGENT                              │
+│                                                                              │
+│                         ┌────────────────────────────┐                       │
+│                         │      PROFILE ANALYSER      │ ──► AGENT             │
+│                         └─────────────┬──────────────┘                       │
+│                                       ▼                                      │
+│                         ┌────────────────────────────┐                       │
+│                         │    DISCOVERY COMMANDER     │ ──► AGENT             │
+│                         └─────────────┬──────────────┘                       │
+│                                       ▼                                      │
+│         ┌──────────────────────────────────────────────────────────┐         │
+│         │                         WORKFLOW                         │         │
+│         │ ┌─────────┐  ┌──────┐  ┌────────┐  ┌──────┐  ┌─────────┐ │         │
+│         │ │ AMERICA │  │ ASIA │  │ EUROPE │  │ MENA │  │AUSTRALIA│ │         │
+│         │ └─────────┘  └──────┘  └────────┘  └──────┘  └─────────┘ │         │
+│         └─────────────────────────────┬────────────────────────────┘         │
+│                                       ▼                                      │
+│                         ┌────────────────────────────┐                       │
+│                         │  ELIGIBILITY INVESTIGATOR  │ ──► WORKFLOW          │
+│                         └─────────────┬──────────────┘                       │
+│                                       ▼                                      │
+│                         ┌────────────────────────────┐                       │
+│                         │     TRUE COST ANALYZER     │ ──► WORKFLOW          │
+│                         └─────────────┬──────────────┘                       │
+│                                       ▼                                      │
+│                         ┌────────────────────────────┐                       │
+│                         │      DEADLINE CHECKER      │ ──► WORKFLOW          │
+│                         └─────────────┬──────────────┘                       │
+│                                       ▼                                      │
+│                         ┌────────────────────────────┐                       │
+│                         │       SKEPTIC AGENT        │ ──► AGENT             │
+│                         └─────────────┬──────────────┘                       │
+│                                       ▼                                      │
+│                         ┌────────────────────────────┐                       │
+│                         │      SYNTHESIS ENGINE      │ ──► WORKFLOW          │
+│                         └─────────────┬──────────────┘                       │
+│                                       ▼                                      │
+│                         ┌────────────────────────────┐                       │
+│                         │       RANKING ENGINE       │ ──► WORKFLOW          │
+│                         └─────────────┬──────────────┘                       │
+│                                       ▼                                      │
+│                         ┌────────────────────────────┐                       │
+│                         │       ADVISER AGENT        │ ──► AGENT             │
+│                         └────────────────────────────┘                       │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### Pipeline Components
