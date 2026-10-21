@@ -1,0 +1,267 @@
+{
+  "scholarship_id": "SCH-AS-006",
+  "basic_details": {
+    "scholarship_name": "Singapore International Graduate Award (SINGA)",
+    "offering_entity": "Agency for Science, Technology and Research (A*STAR), in collaboration with NTU, NUS, SUTD, and SMU",
+    "host_country": "Singapore",
+    "host_institutions_covered": "National University of Singapore (NUS), Nanyang Technological University (NTU), Singapore University of Technology and Design (SUTD), Singapore Management University (SMU), and A*STAR Research Institutes",
+    "degree_levels": [
+      "PhD (Doctorate)"
+    ],
+    "major_restrictions": "Biomedical Sciences, Computing and Information Sciences, Physical Sciences, and Engineering.",
+    "number_of_awards_total": "~240 PhD awards annually across two intake cycles (January and August)",
+    "number_of_awards_pakistan": "Open to all international graduates based on academic and research merit (~15 to 25 Pakistani scholars selected annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 4 years of PhD study"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International graduates of all nationalities (including Pakistan) with passion for research"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limits.",
+    "academic_qualifications": "Completed 16 years of education (4-year Bachelor's degree with honours) or 18 years (Master's degree) from an HEC-recognized university.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum 3.50 / 4.00 CGPA; competitive admitted candidates typically hold 3.70+ / 4.00 CGPA or top 5% class ranking.",
+    "subject_background_prerequisites": "Degree in Science, Technology, Engineering, Computing, or Biomedical Sciences.",
+    "current_education_status": "Graduated or in final year of undergraduate or master's studies.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior academic publications, laboratory research projects, and conference presentations provide substantial competitive advantage.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 85,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": true,
+      "notes": "IELTS Academic minimum 6.5 or TOEFL iBT 85; or university English proficiency certificate for initial application, though test scores are strongly recommended."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "Equal opportunity; diversity encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Elite scientific research potential.",
+    "previous_scholarship_restrictions": "Must not already hold a PhD.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition fees waived for the entire 4 years of PhD studies.",
+      "amount": "SGD $40,000 to $45,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Application via the SINGA portal is free of charge.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Campus housing in graduate residences paid from monthly stipend.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "SGD $2,700/month initially, increased to SGD $3,200/month after passing the PhD Qualifying Examination (typically at 12-18 months).",
+      "amount": "SGD $2,700 - $3,200 / month (~PKR 590,000 to 700,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "One-time airfare grant of up to SGD $1,500 provided upon initial arrival.",
+      "amount": "Up to SGD $1,500 (~PKR 330,000)"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Singapore Student's Pass processing and issuance fees covered.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "University student medical and hospitalization insurance covered.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Covered from living allowance.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Research laboratory operational funding and conference grants provided through A*STAR or university research grants.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "One-time settling-in allowance of SGD $1,000 paid upon arrival.",
+      "amount": "SGD $1,000 (~PKR 220,000)"
+    },
+    "total_estimated_value_usd_per_year": 55000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Apply for research projects under A*STAR institutes and partner universities (NUS, NTU, SUTD, SMU).",
+    "participating_institutions": [
+      "National University of Singapore (NUS - World #8)",
+      "Nanyang Technological University (NTU - World #15)",
+      "Singapore University of Technology and Design (SUTD)",
+      "Singapore Management University (SMU)",
+      "A*STAR Research Institutes (GIS, BII, IMB, I2R, IMRE, IHPC, SIMTech)"
+    ],
+    "university_rankings_scope": "NUS and NTU are consistently ranked Top 15 globally in QS World Rankings.",
+    "available_majors": [
+      "Artificial Intelligence, Machine Learning, Robotics, Computer Science, Data Science, Materials Science, Nanoelectronics, Mechanical Engineering, Chemical Engineering, Bioengineering, Molecular Biology, Immunology, Quantum Technology"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "4 continuous years of PhD research",
+    "admission_requirements_summary": "Single application via the SINGA online portal; candidates select preferred research supervisor and university.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Browsing the A*STAR researcher directory and identifying prospective supervisors whose lab matches your skills is highly advantageous.",
+    "strategic_program_match_advice": "Candidates can choose to be based primarily in an A*STAR research institute while receiving their degree from NUS, NTU, or SUTD."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa",
+    "portal_system_name": "A*STAR SINGA Online Application Portal",
+    "account_creation_instructions": "Register on the SINGA portal, explore research projects across A*STAR/NUS/NTU/SUTD, select up to 3 project choices, and designate two referees.",
+    "step_by_step_workflow": [
+      "1. Search eligible PhD research projects and supervisors on the A*STAR website.",
+      "2. Create account on the SINGA application portal (Two deadlines: June 1 for January intake, December 1 for August intake).",
+      "3. Submit research project choices and upload academic transcripts, degree certificates, and CV.",
+      "4. Referees submit online reference reports via automated email link.",
+      "5. Shortlisted candidates invited for virtual or in-person technical interviews in July/August or January/February.",
+      "6. Final award outcomes notified within 1-2 months after interview.",
+      "7. Process Singapore Student's Pass and relocate to Singapore."
+    ],
+    "university_vs_scholarship_routing": "Direct single application via A*STAR SINGA portal.",
+    "recommendation_letters_submission_method": "Submitted online by referees via secure link generated by SINGA system.",
+    "personal_statement_prompts": "Address your passion for research, previous scientific project contributions, and career objectives.",
+    "study_plan_research_proposal_requirements": "Summary of research interests and alignment with selected A*STAR / university research projects.",
+    "cv_format_requirements": "Standard academic CV highlighting laboratory skills, research projects, publications, and programming proficiencies.",
+    "interviews_conducted": true,
+    "interview_format_details": "Rigorous 30-minute technical interview conducted by a panel of A*STAR senior scientists and university professors testing fundamentals and research logic.",
+    "standardized_tests": "GRE not mandatory but evaluated positively; English proficiency test required.",
+    "application_fee_amount": "$0 (100% Free).",
+    "attestation_requirements": "Certified transcripts and degree certificates; HEC attestation required.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "100% Online via SINGA portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Academic Transcripts & Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts for Bachelor's and Master's degrees with grading system",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "Two Recommendation Reports",
+      "mandatory": true,
+      "specification": "Submitted directly by university research professors via the portal",
+      "pakistan_specific_instruction": "From professors who supervised your thesis or research projects"
+    },
+    {
+      "document_name": "Passport Copy",
+      "mandatory": true,
+      "specification": "Valid Pakistani passport photo page",
+      "pakistan_specific_instruction": "Valid for at least 2 years"
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Detailed academic CV with full list of publications",
+      "pakistan_specific_instruction": "Highlighting lab methods and code repositories"
+    },
+    {
+      "document_name": "English Proficiency Score",
+      "mandatory": false,
+      "specification": "IELTS Academic (6.5+) or TOEFL iBT (85+) or MOI certificate",
+      "pakistan_specific_instruction": "Official test report strongly recommended for competitive ranking"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-06-01",
+    "application_deadline": "2026-12-01",
+    "university_admission_deadline": "2026-12-01",
+    "document_submission_deadline": "2026-12-01",
+    "recommendation_letters_deadline": "2026-12-08",
+    "interview_period": "January to February 2027",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-04-15",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "August 2027 (August intake)",
+    "annual_cycle_notes": "Two annual intake cycles: Deadline June 1 for January intake; Deadline December 1 for August intake."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Academic track record, grades, foundational mastery in mathematics/sciences)",
+    "extracurricular_and_leadership_weight": "5% (Secondary)",
+    "research_experience_weight": "40% (Demonstrated research curiosity, laboratory skills, thesis, publications)",
+    "work_experience_weight": "5% (R&D experience)",
+    "personal_statement_weight": "5% (Clarity of scientific purpose)",
+    "recommendations_weight": "10% (Referee appraisals of research potential)",
+    "interview_weight": "Decisive: Performance in technical panel interview",
+    "test_scores_weight": "Language threshold required",
+    "financial_need_weight": "0% (Exclusively merit-based)",
+    "selection_panel_composition": "Joint interviewing panels comprising A*STAR executive scientists and university department faculty heads.",
+    "evaluation_methodology": "Two-tier review: Shortlisting based on academic and research dossier; final selection via rigorous live technical interview."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~6,000 to 7,000 applications globally across both intake cycles",
+    "total_scholarships_awarded": "~240 PhD scholarships awarded annually",
+    "acceptance_rate_global": "~3.5% to 4%",
+    "acceptance_rate_pakistan": "~2% to 3% (Highly Competitive)",
+    "typical_successful_applicant_gpa": "3.70 to 4.00 CGPA",
+    "typical_academic_and_research_profile": "Graduates with deep scientific problem-solving abilities, research publications in international journals, and exceptional technical interview skills.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani universities (NUST, LUMS, GIKI, Quaid-i-Azam, FAST, UET) in engineering, computer science, and biotechnology.",
+    "high_representation_countries": "China, India, Pakistan, Vietnam, Malaysia, Indonesia, Iran.",
+    "competitiveness_tier": "VERY HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Commercial coaching firms charging money claiming they have 'internal interview questions' for SINGA."
+    ],
+    "application_fee_warning": "SINGA application is 100% free of charge. Never pay any fee.",
+    "agent_and_intermediary_warnings": "A*STAR strictly audits applications; applications submitted via agents are disqualified.",
+    "hidden_costs_breakdown": [
+      "English language test fees (IELTS/TOEFL) if taken.",
+      "Medical checkup in Singapore upon arrival (~SGD $60 to $100).",
+      "First month's room deposit before first stipend release."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You must have a Master's degree to apply. (Fact: Direct bachelor's-to-PhD applicants are fully eligible and frequently selected).",
+      "MYTH: There is a service bond to work in Singapore. (Fact: SINGA has NO post-graduation bond; graduates can pursue careers in Singapore, Pakistan, or globally)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites quote old stipend figures (SGD $2,000); official rate is now SGD $2,700/month, increasing to SGD $3,200/month after qualifying exam."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain minimum CAP/GPA required by host university (minimum 3.5/5.0 at NUS/NTU) and pass PhD Qualifying Exam.",
+    "attendance_requirements": "Full-time physical research attendance in Singapore laboratories.",
+    "academic_progress_monitoring": "Semi-annual progress reports submitted to A*STAR Graduate Academy.",
+    "work_restrictions_during_study": "Scholars are not permitted to engage in paid employment outside their research program without formal approval.",
+    "home_country_return_obligation": "None; SINGA carries NO bond or service obligation.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Failing doctoral qualifying exams or premature resignation requires repayment of scholarship allowances in certain breach cases.",
+    "rules_for_changing_university": "Non-transferable between universities.",
+    "rules_for_changing_major": "Requires approval from A*STAR and both university departments.",
+    "extension_policy": "Strictly funded for up to 4 years; beyond 4 years requires laboratory funding."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Agency for Science, Technology and Research (A*STAR) - SINGA Official Portal",
+      "source_url": "https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Allocation ratio of students between A*STAR research institutes and university departments",
+        "Interview grading sheet details"
+      ]
+    }
+  ]
+}

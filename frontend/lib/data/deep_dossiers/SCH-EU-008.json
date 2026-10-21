@@ -1,0 +1,273 @@
+{
+  "scholarship_id": "SCH-EU-008",
+  "basic_details": {
+    "scholarship_name": "Eiffel Excellence Scholarship Programme",
+    "offering_entity": "French Ministry for Europe and Foreign Affairs (MEAE) & Campus France",
+    "host_country": "France",
+    "host_institutions_covered": "All accredited French Universities and Grandes Écoles (Sorbonne, École Polytechnique, PSL, Paris-Saclay, Sciences Po, CentraleSupélec, INSA)",
+    "degree_levels": [
+      "Master's",
+      "PhD (Doctorate)"
+    ],
+    "major_restrictions": "Seven priority study fields: Science and Technology (Biology and Health, Ecological Transition, Mathematics and Digital, Engineering Sciences), and Humanities and Social Sciences (French History, Language and Civilization, Law and Political Science, Economics and Management).",
+    "number_of_awards_total": "~350 to 400 scholarships awarded annually across 100+ countries",
+    "number_of_awards_pakistan": "Open to Pakistan; numerous Pakistani scholars selected annually for French Grandes Écoles and research universities",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Master's: 12 to 36 months depending on entry level (M1 or M2); PhD: up to 36 months (or 6-18 months for joint-supervision cotutelle)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Non-French nationality (Pakistani citizens eligible; dual French citizens strictly ineligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": 30,
+    "age_limit_notes": "Master's candidates: maximum 27 years of age at the time of application; PhD candidates: maximum 32 years of age.",
+    "academic_qualifications": "16 years of education (Bachelor's) for Master's; 18 years (Master's with research thesis) for PhD from an HEC-recognized institution.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Minimum 3.30 / 4.00 CGPA or equivalent; admitted candidates typically rank in the top 5% of their graduating class.",
+    "subject_background_prerequisites": "Academic background aligned with one of the 7 designated priority areas.",
+    "current_education_status": "Graduated or in final semester of degree in home country.",
+    "graduation_year_restrictions": "None, provided age criteria are respected.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Academic excellence, scientific publications, and international outlook prioritized.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 90,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": true,
+      "notes": "Language requirement depends on the chosen program; English-taught programs require IELTS 6.5+ or TOEFL 90+; French-taught programs require DELF/DALF B2/C1."
+    },
+    "other_language_requirements": "French not mandatory for programs taught 100% in English.",
+    "gender_specific_requirements": "Equal opportunity; diversity encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates CANNOT apply directly; they MUST be selected and nominated by a French higher education institution.",
+    "previous_scholarship_restrictions": "Must not have previously received an Eiffel scholarship at the same degree level, or another French government scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "NOT_DIRECTLY_PAID_BY_EIFFEL",
+      "details": "Eiffel does NOT pay tuition fees; however, nominating French public universities waive international tuition fees for Eiffel recipients; Grandes Écoles often waive or subsidize remaining fees.",
+      "amount": null
+    },
+    "admission_application_fee": {
+      "status": "WAIVED_BY_INSTITUTION",
+      "details": "Managed directly by nominating French institution.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND_WITH_HOUSING_PRIORITY",
+      "details": "Campus France reserves public student housing (CROUS) for Eiffel scholars; rent is paid from monthly living allowance.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Generous monthly maintenance allowance paid directly to student.",
+      "amount": "Master's: €1,181 / month (~PKR 355,000 / month); PhD: €1,800 / month (~PKR 540,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Single round-trip international economy class flight between home country and France.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "WAIVED",
+      "details": "French student visa application fee waived by the French Embassy for Eiffel scholars.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Campus France provides private health insurance until enrollment in the free French National Health Insurance (Sécurité Sociale).",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered from monthly living allowance.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Covered from monthly living allowance.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Cultural activities, excursions, and travel within France organized and funded by Campus France.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Domestic train travel from Paris airport to host university city fully covered.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 32000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single French higher education institution (University or Grande École).",
+    "participating_institutions": [
+      "Sorbonne Université",
+      "Université Paris-Saclay",
+      "École Polytechnique (l'X)",
+      "PSL University (ENS, Dauphine, Mines Paris)",
+      "CentraleSupélec",
+      "Sciences Po Paris",
+      "INSA Lyon",
+      "Grenoble INP",
+      "Université de Strasbourg",
+      "HEC Paris"
+    ],
+    "university_rankings_scope": "Premier French research universities and elite Grandes Écoles.",
+    "available_majors": [
+      "Artificial Intelligence, Data Science, Computer Science, Mathematics, Mechanical Engineering, Electrical Engineering, Biotechnology, Health Sciences, Renewable Energy, Environmental Sciences, Economics, Management, Law, Political Science"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 1 to 2 years; PhD: up to 3 years",
+    "admission_requirements_summary": "Must apply to a French institution; the institution selects top candidates and submits the Eiffel dossier on their behalf to Campus France.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "French institutions have internal pre-selection deadlines (typically October-November); early contact is essential.",
+    "strategic_program_match_advice": "Focus on high-ranking English-taught Master's degrees at Paris-Saclay, Sorbonne, or Institut Polytechnique de Paris."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.campusfrance.org/en/the-eiffel-scholarship-program",
+    "portal_system_name": "Campus France Eiffel Online Institutional Platform",
+    "account_creation_instructions": "Candidates cannot submit applications directly. You must contact the international relations office or program director of your chosen French university.",
+    "step_by_step_workflow": [
+      "1. Identify eligible master's or PhD programs at French universities/Grandes Écoles (September-October).",
+      "2. Contact the French university's international relations office expressing interest in Eiffel nomination.",
+      "3. Submit required application materials to the French institution before their internal deadline (usually November).",
+      "4. If accepted and selected, the French institution completes and submits the official Eiffel application to Campus France by early January.",
+      "5. Campus France scientific committees evaluate institutional dossiers in February/March.",
+      "6. Results published on the Campus France website in early April.",
+      "7. Selected scholars contact Campus France to arrange airfare and visa formalities."
+    ],
+    "university_vs_scholarship_routing": "Institutional nomination: Candidate applies to French university; university submits Eiffel dossier to Campus France.",
+    "recommendation_letters_submission_method": "Submitted to the nominating French institution.",
+    "personal_statement_prompts": "Demonstrate academic excellence, international career objectives, and justification for choosing France.",
+    "study_plan_research_proposal_requirements": "PhD candidates must submit a 1 to 5-page research project endorsed by the French thesis director.",
+    "cv_format_requirements": "Curriculum Vitae (in French or English) emphasizing academic honors, rank in class, and publications (1-2 pages).",
+    "interviews_conducted": true,
+    "interview_format_details": "French university admissions teams conduct video interviews prior to nominating candidates for Eiffel.",
+    "standardized_tests": "English test (IELTS/TOEFL) for English programs, or French test (DELF/DALF) for French programs.",
+    "application_fee_amount": "$0 for Eiffel; some Grandes Écoles may have application fees.",
+    "attestation_requirements": "Certified copies of degree certificates and transcripts; HEC attestation required.",
+    "translation_requirements": "Official certified translations into French or English.",
+    "final_submission_method": "Submitted online by the nominating French institution via the Campus France portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "French Institution Endorsement & Application Form",
+      "mandatory": true,
+      "specification": "Official institutional dossier completed and signed by French university rector/president",
+      "pakistan_specific_instruction": "Submitted directly by the French university to Campus France"
+    },
+    {
+      "document_name": "Academic Transcripts & Class Ranking",
+      "mandatory": true,
+      "specification": "Transcripts showing all grades, GPA, and official certificate of class rank",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan; rank in class is crucial for Eiffel selection"
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "1-2 page CV in English or French",
+      "pakistan_specific_instruction": "Highlighting academic awards, research projects, and publications"
+    },
+    {
+      "document_name": "Statement of Professional Project",
+      "mandatory": true,
+      "specification": "Personal statement explaining career vision and reasons for studying in France",
+      "pakistan_specific_instruction": "Clear narrative on how French expertise will impact career"
+    },
+    {
+      "document_name": "Language Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic (6.5+) or TOEFL iBT (90+) for English programs",
+      "pakistan_specific_instruction": "Valid test certificate"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-01",
+    "application_deadline": "2027-01-10",
+    "university_admission_deadline": "2026-11-30",
+    "document_submission_deadline": "2026-11-30",
+    "recommendation_letters_deadline": "2026-11-30",
+    "interview_period": "November to December 2026",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-04-15",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "September 2027",
+    "annual_cycle_notes": "French universities' internal deadlines are between late October and late November. Final Campus France submission deadline is early January; results released in early April."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Academic excellence, class ranking, reputation of home university)",
+    "extracurricular_and_leadership_weight": "10% (International outlook, awards, extracurricular achievements)",
+    "research_experience_weight": "25% (Research output, thesis proposal for PhD)",
+    "work_experience_weight": "5% (Professional experience)",
+    "personal_statement_weight": "10% (Clarity and feasibility of professional project)",
+    "recommendations_weight": "10% (Quality of French institution's endorsement and international strategy)",
+    "interview_weight": "Conducted by nominating institution",
+    "test_scores_weight": "Language threshold required",
+    "financial_need_weight": "0% (Strictly excellence-based)",
+    "selection_panel_composition": "Campus France scientific expert committees composed of leading French university professors and researchers.",
+    "evaluation_methodology": "Three criteria: Candidate excellence (40%), Institutional international policy (30%), MEAE geographical priority balance (30%)."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 institutional nominations submitted by French universities (from thousands of applicants)",
+    "total_scholarships_awarded": "~350 to 400 scholarships awarded annually globally",
+    "acceptance_rate_global": "~25% of institutionally nominated candidates (~2% to 3% of total applicants)",
+    "acceptance_rate_pakistan": "~2% to 3% (Highly Selective)",
+    "typical_successful_applicant_gpa": "3.60 to 4.00 CGPA (Top 5% of graduating class)",
+    "typical_academic_and_research_profile": "Top students from prestigious Pakistani universities with strong foundational training, international publications, and clear career plans.",
+    "common_backgrounds_of_winners": "Graduates of NUST, LUMS, GIKI, FAST, Quaid-i-Azam University who secured admission to top French institutions.",
+    "high_representation_countries": "Global distribution across Asia, Latin America, Middle East, Africa, Eastern Europe.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Websites claiming to accept direct Eiffel applications from students; direct applications are automatically disqualified."
+    ],
+    "application_fee_warning": "Campus France does NOT charge any fee for the Eiffel scholarship.",
+    "agent_and_intermediary_warnings": "Never use agents; applications MUST be submitted by the French university itself.",
+    "hidden_costs_breakdown": [
+      "CVEC student life and campus contribution fee (~€100, though Eiffel scholars are exempt, initial paperwork required).",
+      "Grandes Écoles tuition fee difference if not fully waived by the school.",
+      "Initial pocket money before first monthly stipend transfer in France."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can submit the application directly to Campus France. (Fact: Applications must be submitted exclusively by a French higher education institution).",
+      "MYTH: You must speak fluent French. (Fact: Hundreds of eligible programs are taught 100% in English)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Many blogs claim Eiffel covers full tuition fees; officially, Eiffel does NOT pay tuition fees; it relies on university tuition waivers."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass all courses and obtain the degree within the normal period (60 ECTS credits per year).",
+    "attendance_requirements": "Full-time physical attendance at host French institution.",
+    "academic_progress_monitoring": "Host institutions report academic results annually to Campus France.",
+    "work_restrictions_during_study": "Permitted to work up to 60% of annual legal work time (approx 964 hours/year) under French student visa regulations.",
+    "home_country_return_obligation": "None; scholars are eligible for the French Job Seeker / Business Creation Residence Permit (RECE) for 1 year post-graduation.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Failing courses or abandoning studies leads to immediate scholarship termination.",
+    "rules_for_changing_university": "Strictly prohibited; the scholarship is awarded to the specific institution that nominated the student.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "No extensions granted beyond the initial grant duration."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Campus France - Eiffel Excellence Scholarship Programme Official Portal",
+      "source_url": "https://www.campusfrance.org/en/the-eiffel-scholarship-program",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Scientific committee individual scoring sheets for candidates",
+        "Country-by-country recipient quota allocations"
+      ]
+    }
+  ]
+}

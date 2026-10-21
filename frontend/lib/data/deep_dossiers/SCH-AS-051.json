@@ -1,0 +1,288 @@
+{
+  "scholarship_id": "SCH-AS-051",
+  "basic_details": {
+    "scholarship_name": "Hiroshima University Advanced Science & Engineering MEXT Award (University Recommendation IGP)",
+    "offering_entity": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan & Hiroshima University",
+    "host_country": "Japan",
+    "host_institutions_covered": "Hiroshima University (Higashi-Hiroshima Campus, Hiroshima Prefecture, Japan)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Graduate School of Advanced Science and Engineering: Informatics and Data Science, Quantum Matter, Electrical Systems, Mechanical Engineering, Chemistry, Chemical Engineering, and Civil and Environmental Engineering.",
+    "number_of_awards_total": "~30 to 45 prestigious MEXT University Recommendation scholarships awarded annually",
+    "number_of_awards_pakistan": "Open globally on merit; Pakistani scholars in computing, robotics, and electrical engineering have a strong competitive presence (~4 to 8 awards annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "2 years for Master's; 3 years for PhD",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "JPY 144,000 / month for Master's (~PKR 270,000 / month); JPY 145,000 / month for PhD (~PKR 272,000 / month) plus 100% full tuition exemption and round-trip international airfare"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of countries holding diplomatic relations with Japan (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Applicants must be born on or after April 2, 1991 (under 35 years of age at the time of program start).",
+    "academic_qualifications": "16-year Bachelor's degree with minimum GPA of 2.30 / 3.00 on the official MEXT grading scale (equivalent to minimum CGPA 3.20+ / 4.00 or 80%+ marks) for Master's; 18-year Master's degree with minimum GPA 2.30 / 3.00 on MEXT scale for PhD.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.2,
+    "grading_conversion_notes": "Must satisfy MEXT calculation formula yielding at least 2.30 / 3.00 points; competitive applicants typically score 2.6+ / 3.0.",
+    "subject_background_prerequisites": "Computer science, informatics, electrical engineering, mechanical engineering, materials science, or physics.",
+    "current_education_status": "Graduated or final-year students graduating before September 30 of intake year.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior scientific research publications, conference presentations, or thesis projects strongly valued.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "CEFR Level B2 or higher: IELTS Academic minimum 6.5, TOEFL iBT minimum 80, or official certificate verifying English as Medium of Instruction (MOI).",
+    "other_language_requirements": "Japanese language proficiency is NOT required; all courses, seminars, and research are conducted 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must secure informal agreement / consent of acceptance from a prospective Hiroshima University academic supervisor prior to formal submission.",
+    "previous_scholarship_restrictions": "Ineligible if recipient of MEXT scholarship within the past 3 years or currently holding other Japanese government or foreign governmental scholarships.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full exemption from university matriculation/entrance fee (JPY 282,000) and full annual tuition fees (JPY 535,800/year).",
+      "amount": "100% covered (~JPY 817,800 first-year value; ~PKR 1,530,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "University examination and screening application fee (JPY 30,000) is completely waived for MEXT candidates.",
+      "amount": "JPY 0 (100% free)"
+    },
+    "accommodation": {
+      "status": "NOT_COVERED",
+      "details": "Hiroshima University International House (I-House) or student dormitories in Saijo/Higashi-Hiroshima (approx. JPY 15,000 to 25,000 / month rent) funded comfortably via living stipend.",
+      "amount": "Funded from stipend (~JPY 20,000 / month rent in Saijo)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Tax-free monthly living stipend disbursed directly to Japan Post Bank account: JPY 144,000 / month for Master's (~PKR 270,000 / month); JPY 145,000 / month for PhD (~PKR 272,000 / month).",
+      "amount": "JPY 144,000 to 145,000 / month (~PKR 270,000 to 272,000 / mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Round-trip economy international airfare between Pakistan (Islamabad/Lahore/Karachi) and Japan (Hiroshima Airport or Kansai/Tokyo International) provided by MEXT.",
+      "amount": "100% covered round-trip international flight ticket"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Japanese College Student Visa issued free of charge through the Embassy of Japan in Islamabad or Consulate-General in Karachi.",
+      "amount": "100% covered / waived visa fee"
+    },
+    "health_insurance": {
+      "status": "NOT_COVERED",
+      "details": "Mandatory Japan National Health Insurance (NHI) premium (approx. JPY 2,000 / month for students; covers 70% of medical costs) paid independently from stipend.",
+      "amount": "Approx. JPY 2,000 / month borne from stipend"
+    },
+    "food_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Groceries and campus dining funded from monthly living allowance.",
+      "amount": "Covered via stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Research laboratory workstations, computing clusters, library access, and thesis research materials provided by laboratory research funds.",
+      "amount": "100% covered research computing access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Laboratory funding (Kakenhi grants) and university student travel subsidies provide up to JPY 100,000 to 200,000 per year for presenting papers at conferences in Japan and abroad.",
+      "amount": "Up to JPY 200,000 / year travel funds"
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Geiyo and Chugoku JR local buses serve Higashi-Hiroshima campus; student discount commuter passes available.",
+      "amount": "Not covered"
+    },
+    "total_estimated_value_usd_per_year": 22000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single Japanese national flagship research university (Hiroshima University).",
+    "participating_institutions": [
+      "Hiroshima University (Higashi-Hiroshima Campus, Hiroshima Prefecture, Japan)"
+    ],
+    "university_rankings_scope": "Times Higher Education World University Rankings #601-800, Top 15 in Japan; selected as a Type A (Top Global) University by MEXT; renowned for Synchrotron Radiation Center (HiSOR), Quantum Matter, and Informatics.",
+    "available_majors": [
+      "Informatics and Data Science (AI, Systems, Computer Vision)",
+      "Quantum Matter (Condensed Matter Physics, Semiconductor Devices)",
+      "Electrical Systems and Control Engineering",
+      "Mechanical Engineering and Robotics",
+      "Applied Chemistry and Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Transportation Engineering and Smart Mobility"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 years",
+    "admission_requirements_summary": "Bachelor's / Master's degree with minimum MEXT GPA 2.3/3.0, verified transcripts, IELTS 6.5+ / TOEFL 80+ or MOI certificate, informal acceptance from prospective supervisor, two academic recommendation letters, research plan, CV, and valid passport.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Securing preliminary informal acceptance from a faculty supervisor in the Graduate School of Advanced Science and Engineering is the mandatory prerequisite; applications without supervisor consent cannot proceed.",
+    "strategic_program_match_advice": "Review Hiroshima University Researchers Information directory; contact professors with concise research pitches referencing their recent papers in robotics, informatics, or semiconductor materials."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.hiroshima-u.ac.jp/en/admissions/financial_support/scholarships",
+    "portal_system_name": "Hiroshima University MEXT University Recommendation Portal",
+    "account_creation_instructions": "Identify prospective supervisor on the Hiroshima University faculty database, email research proposal and CV, secure written consent of acceptance, and submit required MEXT application dossier directly to the graduate school office.",
+    "step_by_step_workflow": [
+      "Step 1: Contact potential research supervisor at Hiroshima University with CV, transcripts, and 2-page research outline.",
+      "Step 2: Obtain formal written consent / Letter of Acceptance from the prospective supervisor.",
+      "Step 3: Ensure valid IELTS (6.5+), TOEFL (80+), or official MOI certificate is available.",
+      "Step 4: Prepare MEXT Application Form, Field of Study and Research Program Plan, and academic transcripts.",
+      "Step 5: Submit application package through the graduate school international office by mid-January deadline.",
+      "Step 6: Graduate school screening committee evaluates candidates and nominates finalists to Hiroshima University President and MEXT.",
+      "Step 7: MEXT officially confirms scholarship awards in June.",
+      "Step 8: Hiroshima University issues Certificate of Eligibility (COE); obtain Japanese Student Visa and depart for Japan in late September."
+    ],
+    "university_vs_scholarship_routing": "Integrated University Recommendation Track: The admitting academic department nominates the candidate directly to MEXT for scholarship conferral.",
+    "recommendation_letters_submission_method": "Submitted as signed PDF letters on institutional letterhead addressed to the President of Hiroshima University.",
+    "personal_statement_prompts": "MEXT Field of Study and Study Program Sheet detailing past research specialization and concrete research plan in Japan.",
+    "study_plan_research_proposal_requirements": "Structured research plan (2 to 3 pages) covering background, research questions, methodologies, and anticipated contributions.",
+    "cv_format_requirements": "Detailed academic research CV listing all academic history, research projects, publications, and technical skills.",
+    "interviews_conducted": true,
+    "interview_format_details": "Supervisory technical video interview via Zoom to discuss research methodology and laboratory research compatibility.",
+    "standardized_tests": "IELTS Academic 6.5+, TOEFL iBT 80+, or official English Medium of Instruction certificate mandatory.",
+    "application_fee_amount": "JPY 0 (100% free of charge)",
+    "attestation_requirements": "HEC and MoFA Pakistan verified transcripts required upon conditional admission.",
+    "translation_requirements": "Certified English or Japanese translation of all non-English documents.",
+    "final_submission_method": "Digital submission via host academic department and graduate school office."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Bachelor's / Master's degree with minimum MEXT GPA 2.30 / 3.00 from an accredited university.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "MEXT Application Form and Field of Study Plan",
+      "mandatory": true,
+      "specification": "Official Japanese government application form and detailed research plan.",
+      "pakistan_specific_instruction": "Structured research plan."
+    },
+    {
+      "document_name": "Letter of Recommendation addressed to President of Hiroshima University",
+      "mandatory": true,
+      "specification": "Confidential recommendation letter from Dean or Department Head of applicant's alma mater.",
+      "pakistan_specific_instruction": "On official university letterhead."
+    },
+    {
+      "document_name": "Formal Supervisor Consent / Acceptance Letter",
+      "mandatory": true,
+      "specification": "Written confirmation from Hiroshima University prospective professor agreeing to act as supervisor.",
+      "pakistan_specific_instruction": "Secured via email prior to submission."
+    },
+    {
+      "document_name": "English Language Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic 6.5+, TOEFL iBT 80+, or official English Medium of Instruction certificate.",
+      "pakistan_specific_instruction": "MOI certificate or test report."
+    },
+    {
+      "document_name": "Abstract of Graduation Thesis / Research Publications",
+      "mandatory": true,
+      "specification": "Summary of bachelor's/master's thesis (approx. 1 to 2 pages) and copies of any published papers.",
+      "pakistan_specific_instruction": "Thesis summary."
+    },
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for minimum 1 year.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "November 1",
+    "application_deadline": "January 15 (Annual University Recommendation closing deadline)",
+    "university_admission_deadline": "January 15",
+    "document_submission_deadline": "January 15",
+    "recommendation_letters_deadline": "January 15",
+    "interview_period": "January - February",
+    "shortlist_announcement": "March (University nomination) / June (MEXT final approval)",
+    "final_result_acceptance_deadline": "July 1",
+    "visa_application_window": "July - August",
+    "semester_commencement": "October 1 (Fall semester intake)",
+    "annual_cycle_notes": "Single annual admission cycle for October entry; supervisor contact should be initiated by November/December."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Academic transcript GPA converted to MEXT 3.0 scale)",
+    "extracurricular_and_leadership_weight": "5% (Character, leadership, international exchange adaptability)",
+    "research_experience_weight": "45% (Research plan feasibility, supervisor endorsement, prior thesis/publications)",
+    "work_experience_weight": "5% (Industry engineering or laboratory technical experience)",
+    "personal_statement_weight": "5% (Clarity of academic motivations in Japan)",
+    "recommendations_weight": "5% (Dean/Professor referee praise)",
+    "interview_weight": "5% (Supervisor technical discussion)",
+    "test_scores_weight": "0% (Language proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure academic excellence and research merit)",
+    "selection_panel_composition": "Graduate School of Advanced Science and Engineering Admissions Committee and MEXT Scholarship Selection Council.",
+    "evaluation_methodology": "Competitive ranking based on MEXT GPA calculation, research plan depth, and supervisor research group capacity."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~600 to 900 international candidates seeking supervisor endorsement across departments",
+    "total_scholarships_awarded": "~30 to 45 MEXT University Recommendation awards annually",
+    "acceptance_rate_global": "~5.0% to 7.0%",
+    "acceptance_rate_pakistan": "~6.0% to 10.0% for applicants who secure supervisor endorsement and satisfy MEXT GPA >= 2.3",
+    "typical_successful_applicant_gpa": "Undergraduate CGPA >= 3.50 / 4.00 (MEXT scale >= 2.6 / 3.0), strong final-year thesis or published research",
+    "typical_academic_and_research_profile": "Graduates holding strong bachelor's or master's degrees in STEM, with documented research capability, supervisor endorsement, and clean records.",
+    "common_backgrounds_of_winners": "Graduates from Pakistani engineering and science institutions (NUST, GIKI, UET Lahore, PIEAS, FAST, Quaid-i-Azam, COMSATS).",
+    "high_representation_countries": "Pakistan, Indonesia, Vietnam, Bangladesh, China, Thailand, Egypt, India.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official Hiroshima University website at hiroshima-u.ac.jp.",
+      "MEXT scholarships do NOT require application or processing fees; beware of fraudulent brokers."
+    ],
+    "application_fee_warning": "The application and screening process is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Commercial agencies cannot contact professors on your behalf; faculty members immediately reject agency-forwarded inquiries.",
+    "hidden_costs_breakdown": [
+      "All major expenses (tuition, airfare, monthly stipend) are 100% covered.",
+      "Japan National Health Insurance: ~JPY 2,000 / month (covered from stipend).",
+      "Initial settling cash prior to first stipend deposit in Japan: ~JPY 50,000 to 70,000 (~PKR 95,000 - 135,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You need Japanese language fluency. Reality: All coursework, seminars, laboratory meetings, and thesis defenses are conducted 100% in English.",
+      "Myth: MEXT awards are loan-based. Reality: MEXT is a 100% grant scholarship with zero repayment or post-graduation service bond."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently quote outdated stipend values; current verified MEXT monthly stipend is JPY 144,000 (Master's) and JPY 145,000 (PhD)."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative grade point average of 2.30 / 3.00 on the MEXT scale throughout each academic year.",
+    "attendance_requirements": "Full-time resident study in Higashi-Hiroshima and active laboratory research engagement.",
+    "academic_progress_monitoring": "Annual progress reviews and milestone evaluations conducted by the academic advisor.",
+    "work_restrictions_during_study": "Part-time work permitted up to 28 hours per week with university and immigration permission, but research commitment takes priority.",
+    "home_country_return_obligation": "None; graduates are eligible to remain in Japan for post-doctoral research or corporate engineering employment (Designated Activities / Highly Skilled Professional visa).",
+    "service_obligations_or_bonds": "Zero service bond or repayment liability.",
+    "repayment_clawback_conditions": "Stipend suspended or terminated if student takes unapproved leave of absence, fails to maintain GPA >= 2.30, or commits disciplinary infractions.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Changing major is strictly prohibited after scholarship award.",
+    "extension_policy": "Master's students may apply for a competitive MEXT extension to continue onto the PhD program."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Hiroshima University MEXT Scholarship Information",
+      "source_url": "https://www.hiroshima-u.ac.jp/en/admissions/financial_support/scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Graduate School of Advanced Science and Engineering Admissions",
+      "source_url": "https://www.hiroshima-u.ac.jp/en/adse/admissions",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

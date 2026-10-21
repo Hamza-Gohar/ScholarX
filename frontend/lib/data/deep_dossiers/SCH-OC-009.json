@@ -1,0 +1,312 @@
+{
+  "scholarship_id": "SCH-OC-009",
+  "basic_details": {
+    "scholarship_name": "University of Adelaide Research Scholarship (ADRS) & Australian Government Research Training Program (AGRTP) International",
+    "offering_entity": "University of Adelaide (Adelaide, South Australia) & Australian Government Department of Education (AGRTP)",
+    "host_country": "Australia",
+    "host_institutions_covered": "University of Adelaide (North Terrace, Waite, and Roseworthy Campuses, Adelaide, South Australia - Group of Eight)",
+    "degree_levels": [
+      "Master's by Research",
+      "Doctoral / PhD"
+    ],
+    "major_restrictions": "Open to all disciplines across the University of Adelaide, including the world-renowned Australian Institute for Machine Learning (AIML - ranked #2 globally for computer vision and AI research), School of Computer and Mathematical Sciences, School of Electrical and Mechanical Engineering, School of Chemical Engineering, Waite Research Institute (Agriculture, Plant Breeding, Wine Science), Faculty of Health and Medical Sciences, Faculty of Arts, Business, Law and Economics.",
+    "number_of_awards_total": "~150 to 200 major international postgraduate research scholarships awarded annually across faculties",
+    "number_of_awards_pakistan": "Open global merit competition; Pakistani researchers in computer science, machine learning, and engineering have a strong success rate (typically 15 to 25 scholarships awarded/yr)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 3.5 years for PhD (with a possible 6-month extension); up to 2.0 years for Master of Philosophy (MPhil)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international applicants from all countries outside Australia and New Zealand"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction.",
+    "academic_qualifications": "Equivalent to Australian First Class Honours (H1): 4-year Bachelor's degree (16 years education) with significant research project/thesis graded at 80%+, or a Master's degree (18 years education) with a minimum 25% research thesis component graded at 80%+.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Adelaide H1 equivalence: minimum 80%+ marks or 3.70+ / 4.00 CGPA from recognized Pakistani institutions (NUST, FAST, LUMS, QAU, UET, GIKI, PIEAS, AKU).",
+    "subject_background_prerequisites": "Strong academic background in the chosen research discipline with documented research methodology coursework.",
+    "current_education_status": "Graduated or currently in final semester of degree graduating before Adelaide semester commencement.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Peer-reviewed journal publications (Q1/Q2 in Scopus/Web of Science) and top conference papers (e.g. CVPR, ICCV, NeurIPS for AIML applicants) provide a decisive competitive advantage in Adelaide's points-based ranking.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 79,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic 6.5 (minimum 6.0 in all bands) or TOEFL iBT 79 (Reading 13, Listening 13, Speaking 18, Writing 21) or PTE Academic 58 (skills 50+)."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Graduate researchers in AI, Machine Learning, Computer Vision, Defense Technologies, Agriculture, and Health Sciences.",
+    "previous_scholarship_restrictions": "Must not be concurrently holding another full government or university scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full international tuition fee waiver provided for the standard duration of the research program.",
+      "amount": "100% covered (~AUD $44,000 to $54,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "100% WAIVED",
+      "details": "No fee is charged for Higher Degree by Research (HDR) and scholarship applications at Adelaide.",
+      "amount": "AUD $0 (Waived)"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Living allowance covers student rental accommodation in Adelaide (one of Australia's most affordable capital cities).",
+      "amount": "Paid from monthly stipend (~AUD $1,000 to $1,500 / month)"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "ADRS / AGRTP living stipend indexed annually at approx AUD $34,236 to $37,000 / year tax-free (~AUD $2,853 to $3,083 / month).",
+      "amount": "AUD $34,236 to $37,000 / year (~PKR 6,300,000 to 6,800,000 / year)"
+    },
+    "airfare": {
+      "status": "PARTIALLY_COVERED",
+      "details": "Relocation allowance provided: up to AUD $1,000 for single student (or AUD $2,000 for families) towards travel expenses to Adelaide.",
+      "amount": "AUD $1,000 (~PKR 185,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Australian Subclass 500 Student Visa fee paid by candidate.",
+      "amount": "AUD $1,600 (~PKR 295,000)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Single Overseas Student Health Cover (OSHC) policy covered for the primary scholarship recipient for standard visa duration.",
+      "amount": "AUD $3,200 to $4,000 value (100% covered)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Covered out of living stipend.",
+      "amount": "Included in monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "PROVIDED_BY_FACULTY",
+      "details": "Faculties and research centers (like AIML) provide computing clusters, workstations, lab consumables, and project operational funding.",
+      "amount": "AUD $1,500 to $3,000 / year research support"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Adelaide Graduate Research School and schools offer conference travel grants (up to AUD $2,000 to $3,500) to present at leading international conferences.",
+      "amount": "Up to AUD $3,500 over candidature"
+    },
+    "travel_transit_allowance": {
+      "status": "INCLUDED_IN_RELOCATION",
+      "details": "Covered under Adelaide relocation allowance.",
+      "amount": "AUD $1,000 relocation allowance"
+    },
+    "total_estimated_value_usd_per_year": 56000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution (University of Adelaide, South Australia - Group of Eight, QS World Rank #82)",
+    "participating_institutions": [
+      "University of Adelaide (North Terrace, Waite, and Roseworthy Campuses)"
+    ],
+    "university_rankings_scope": "Global Top 90 (QS #82 globally, THE #111; Australian Institute for Machine Learning ranked #2 globally in Computer Vision; Waite campus ranked Top 20 for Agricultural Sciences)",
+    "available_majors": [
+      "Computer Science & Artificial Intelligence (AIML)",
+      "Computer Vision & Machine Learning",
+      "Cybersecurity & Software Engineering",
+      "Electrical & Electronic Engineering",
+      "Mechanical & Aerospace Engineering",
+      "Chemical Engineering & Sustainable Energy",
+      "Agricultural Sciences & Plant Genomics (Waite)",
+      "Wine Science & Viticulture",
+      "Biomedical Science & Biotechnology",
+      "Medicine & Public Health",
+      "Pure & Applied Mathematics",
+      "Physics & Photonics",
+      "Business, Finance & Economics",
+      "Law & Social Sciences"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Doctor of Philosophy (PhD): 3.5 to 4 years; Master of Philosophy (MPhil): 2 years.",
+    "admission_requirements_summary": "Adelaide H1 equivalence (80%+ or 3.7+ CGPA), approved research proposal, documented prior research output (thesis and publications), supervisor endorsement, and two referee reports.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "AIML (Australian Institute for Machine Learning) is globally renowned and receives immense international interest—applicants need strong mathematical and programming foundations with published conference/journal work; Agricultural and Wine Sciences have exceptional lab facilities with high supervisor receptivity.",
+    "strategic_program_match_advice": "Before initiating an application, review Adelaide's 'Researcher Profiles' directory. Email prospective supervisors with your CV, academic transcripts, and a 2-page research outline explaining your methodology. Gain supervisor agreement to supervise; their endorsement letter is indispensable for the scholarship ranking formula."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.adelaide.edu.au/graduate-research/future-students/how-to-apply",
+    "portal_system_name": "University of Adelaide Online Application Portal (Adelaide Apply)",
+    "account_creation_instructions": "Create an account on the Adelaide Graduate Research online application portal and select 'Admission and Scholarship'.",
+    "step_by_step_workflow": [
+      "Step 1: Check Minimum Entry and English Language Requirements.",
+      "Step 2: Find a supervisor using Adelaide Researcher Profiles and secure written agreement to supervise.",
+      "Step 3: Develop a 2-page research proposal in consultation with your prospective supervisor.",
+      "Step 4: Gather required documents (degree certificates, transcripts, syllabus/grading scale, English test score, publication reprints, CV).",
+      "Step 5: Lodge formal online application through the Adelaide Graduate Research portal selecting 'Apply for Candidature and Scholarship'.",
+      "Step 6: Enter contact details for two academic referees (who receive automated notification to submit confidential reports).",
+      "Step 7: School and Faculty Graduate Research committees evaluate and rank applications according to Adelaide's centralized scoring matrix.",
+      "Step 8: Adelaide Graduate Research School issues scholarship and candidature offer letters.",
+      "Step 9: Accept the offer online, receive Confirmation of Enrolment (CoE), and apply for Australian Student Visa (Subclass 500).",
+      "Step 10: Arrive in Adelaide and complete orientation and milestone induction."
+    ],
+    "university_vs_scholarship_routing": "Single unified application: checking the scholarship box automatically submits candidate for both AGRTP and Adelaide ADRS awards.",
+    "recommendation_letters_submission_method": "Submitted electronically by referees via Adelaide's secure online referee report portal.",
+    "personal_statement_prompts": "Research project description and institutional fit statement within application.",
+    "study_plan_research_proposal_requirements": "Research Proposal of 1,000 to 1,500 words containing: Background, Problem Statement, Aims and Objectives, Proposed Methodology, Significance, and Bibliography, endorsed by prospective Adelaide supervisor.",
+    "cv_format_requirements": "Comprehensive academic CV detailing publications with full citations, thesis title and grades, software/open-source contributions, awards, and research project summaries.",
+    "interviews_conducted": true,
+    "interview_format_details": "Informal technical interview conducted via Zoom or Microsoft Teams by the prospective supervisory team (especially at AIML and School of Engineering) to evaluate technical fit.",
+    "standardized_tests": "IELTS Academic (6.5+, 6.0 in all bands) or TOEFL iBT (79+); GRE/GMAT not required.",
+    "application_fee_amount": "AUD $0 (No application fee for Adelaide HDR applications)",
+    "attestation_requirements": "Scanned high-resolution color originals of academic documents required at application; verification of originals upon arrival.",
+    "translation_requirements": "Official certified English translations for all non-English documents.",
+    "final_submission_method": "100% online through University of Adelaide application portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Passport Biographical Page",
+      "mandatory": true,
+      "specification": "Clear color copy of valid international passport with at least 12 months validity.",
+      "pakistan_specific_instruction": "Name spelling must exactly match educational certificates and CNIC."
+    },
+    {
+      "document_name": "Official Academic Transcripts & Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts and degrees for 4-year Bachelor's and 2-year Master's showing all semester grades.",
+      "pakistan_specific_instruction": "Attestation by the Higher Education Commission (HEC) Pakistan required."
+    },
+    {
+      "document_name": "Official University Grading Scale",
+      "mandatory": true,
+      "specification": "Official grading scale document from university registrar defining GPA conversion and first-class honours criteria.",
+      "pakistan_specific_instruction": "Submit registrar-issued grading explanation confirming H1 equivalence."
+    },
+    {
+      "document_name": "Proof of Research Performance / Honours Equivalence",
+      "mandatory": true,
+      "specification": "Official letter or thesis abstract confirming completion of research thesis with grade (minimum 25% research component).",
+      "pakistan_specific_instruction": "Submit Master's thesis completion letter signed by department chair."
+    },
+    {
+      "document_name": "Reprints of Peer-Reviewed Publications",
+      "mandatory": false,
+      "specification": "PDF copies of published journal papers or conference proceedings with DOI, ISSN, and indexing proof.",
+      "pakistan_specific_instruction": "Include evidence of Q1/Q2 journal ranking or IEEE/ACM conference indexing."
+    },
+    {
+      "document_name": "Detailed Research Proposal",
+      "mandatory": true,
+      "specification": "1,000 to 1,500 word research proposal developed in consultation with prospective Adelaide supervisor.",
+      "pakistan_specific_instruction": "Must clearly define research questions, methods, and expected contributions."
+    },
+    {
+      "document_name": "Written Evidence of Supervisor Support / Pre-Agreement",
+      "mandatory": true,
+      "specification": "Formal written agreement from prospective Adelaide supervisor agreeing to supervise the project.",
+      "pakistan_specific_instruction": "Mandatory: applications without supervisor support are immediately declined."
+    },
+    {
+      "document_name": "Comprehensive Academic Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Detailed academic CV listing education, publications, research projects, technical skills, and references.",
+      "pakistan_specific_instruction": "Ensure clear formatting highlighting research outputs and academic distinctions."
+    },
+    {
+      "document_name": "English Language Proficiency Score Report",
+      "mandatory": true,
+      "specification": "Official IELTS Academic (overall 6.5, min 6.0 in all bands) or TOEFL iBT (79+) test report.",
+      "pakistan_specific_instruction": "Test must be valid at time of course commencement."
+    },
+    {
+      "document_name": "Two Confidential Academic Referee Reports",
+      "mandatory": true,
+      "specification": "Confidential referee appraisals submitted directly through Adelaide's online referee report portal.",
+      "pakistan_specific_instruction": "Select academic referees who can evaluate research aptitude and analytical competence."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Major International Round opens: 1 April",
+    "application_deadline": "Major International Round closes: 10 July (for commencement in Semester 1 the following year)",
+    "university_admission_deadline": "Coincides with scholarship round (10 July)",
+    "document_submission_deadline": "10 July",
+    "recommendation_letters_deadline": "Within 7 days of application closing",
+    "interview_period": "May to July during supervisor interaction",
+    "shortlist_announcement": "Outcomes announced in mid-October to early November",
+    "final_result_acceptance_deadline": "Within 21 days of receiving scholarship offer",
+    "visa_application_window": "November to January",
+    "semester_commencement": "Semester 1 (commence between 1 January and 30 June) or Semester 2 (commence between 1 July and 31 August)",
+    "annual_cycle_notes": "One primary major international round closing in early July each year for start in the subsequent academic year."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "45% (Coursework grades, bachelor/master degree GPA, H1 equivalence)",
+    "extracurricular_and_leadership_weight": "5% (Academic prizes, university medals, leadership)",
+    "research_experience_weight": "35% (Prior research thesis score, peer-reviewed journal articles, conference papers)",
+    "work_experience_weight": "5% (Industry research or laboratory assistantship experience)",
+    "personal_statement_weight": "5% (Research proposal quality and alignment with Adelaide strategic priorities)",
+    "recommendations_weight": "5% (Referee evaluations on research aptitude)",
+    "interview_weight": "Prerequisite supervisor endorsement; not separately quantified",
+    "test_scores_weight": "Threshold requirement (English proficiency meet/fail)",
+    "financial_need_weight": "0% (Strictly academic and research merit-based)",
+    "selection_panel_composition": "Adelaide Graduate Research Committee, Faculty Executive Deans, and Head of Graduate Studies.",
+    "evaluation_methodology": "The University of Adelaide uses an objective research scoring matrix. Applicants are assessed on their H1 equivalence, quality and volume of peer-reviewed publications (scoring higher points for Q1/Q2 journal articles and ranked conference proceedings), and research proposal alignment. Top-ranked applicants across faculties are offered ADRS or AGRTP awards."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,500 to 5,000 international research applicants per year",
+    "total_scholarships_awarded": "~150 to 200 international research scholarships annually",
+    "acceptance_rate_global": "~4% to 5%",
+    "acceptance_rate_pakistan": "~5% to 6% (among qualified applicants with publications and supervisor endorsement)",
+    "typical_successful_applicant_gpa": "3.75+ / 4.00 CGPA (82%+ aggregate) with high thesis grades",
+    "typical_academic_and_research_profile": "Top 5% graduate from leading university (FAST, NUST, LUMS, QAU, UET) with 1-2 published papers in reputable journals or international conferences, especially in AI/AIML.",
+    "common_backgrounds_of_winners": "MSc/MS graduates in AI, Computer Science, Renewable Energy, Agriculture/Plant Breeding, and Biomedical Engineering.",
+    "high_representation_countries": "Pakistan, China, India, Iran, Vietnam, Bangladesh, Nigeria.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Fraudulent recruitment agents claiming they can secure Adelaide scholarships for a fee. Adelaide evaluates all candidates through official faculty and GRC committees."
+    ],
+    "application_fee_warning": "University of Adelaide does NOT charge any application fee for research degree or scholarship applications.",
+    "agent_and_intermediary_warnings": "Do not pay agents to communicate with potential supervisors. Direct scholarly communication from the candidate is required.",
+    "hidden_costs_breakdown": [
+      "Australian Student Visa (Subclass 500) application fee (AUD $1,600).",
+      "Medical examination, chest X-ray, and biometrics in Pakistan (~PKR 45,000 - 55,000).",
+      "Initial rental bond and living costs in Adelaide before first scholarship disbursement (~AUD $1,500 - $2,000).",
+      "Dependent OSHC and visa fees if bringing family (only single OSHC is covered)."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: You can apply without a supervisor's agreement. (FACT: Applications without a committed supervisor are automatically rejected).",
+      "CLAIM: The scholarship covers coursework master's degrees. (FACT: Restricted exclusively to Higher Degree by Research - MPhil and PhD)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Outdated portals quote stipend rates below $30,000; the current official rate is indexed to AUD $34,236 - $37,000/year tax-free."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory research progress through formal milestones: Major Review (at 12 months) and Annual Reviews thereafter.",
+    "attendance_requirements": "Full-time physical research attendance on University of Adelaide campuses (North Terrace, Waite, or Roseworthy).",
+    "academic_progress_monitoring": "Annual formal progress reports submitted to the Adelaide Graduate Research School.",
+    "work_restrictions_during_study": "Outside paid employment during standard business hours is restricted to no more than 8 hours per week to ensure timely degree completion; outside hours subject to Australian visa rules.",
+    "home_country_return_obligation": "None. Scholars can apply for the Australian Temporary Graduate Visa (Subclass 485) and permanent residency pathways upon thesis submission.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Scholarship terminates if progress is deemed unsatisfactory or in cases of voluntary cancellation; repayment required only for proven fraud.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Requires approval from old and new supervisors and the Adelaide Graduate Research Committee.",
+    "extension_policy": "PhD scholars can apply for up to 6 months extension subject to valid research delays and supervisor justification."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Adelaide Graduate Research Scholarships Portal",
+      "source_url": "https://www.adelaide.edu.au/graduate-research/future-students/scholarships/australian-government-research-training-program-agrtp-scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Precise point values assigned to conference vs journal publications in Adelaide GRC scoring algorithm.",
+        "Specific allocation quotas across individual schools (e.g., Computer Science vs. Health Sciences).",
+        "Faculty-level top-up stipend allocation criteria and budget caps."
+      ]
+    }
+  ]
+}

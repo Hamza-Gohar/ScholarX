@@ -216,6 +216,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
       }
       if (localProfile) {
         setActiveStudentProfile(localProfile);
+        useTheatreDirectorStore.getState().setStudentProfile(localProfile);
       }
       getSessionDetail(initialSessionId, localProfile)
         .then((data) => {
@@ -229,8 +230,11 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
             if (isFinished && hasCandidates) {
               useTheatreDirectorStore.getState().hydrateFromSession(data);
             }
-            if (data.profile && !localProfile) {
-              setActiveStudentProfile(data.profile);
+            if (data.profile) {
+              if (!localProfile) {
+                setActiveStudentProfile(data.profile);
+              }
+              useTheatreDirectorStore.getState().setStudentProfile(data.profile);
             }
           }
         })
@@ -897,6 +901,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
       <MissionInitScreen
         onLaunchMission={async (profile, sessionId) => {
           setActiveStudentProfile(profile);
+          liveStore.setStudentProfile(profile);
           if (typeof window !== "undefined") {
             try {
               localStorage.setItem(`scholarx_profile_${sessionId}`, JSON.stringify(profile));
@@ -916,6 +921,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
           liveStore.resetTheatre();
           // Immediately set phase to FLEET_DISCOVERY and missionStatus to RUNNING
           useTheatreDirectorStore.setState({
+            studentProfile: profile,
             visualPhase: "FLEET_DISCOVERY",
             missionStatus: "RUNNING",
             statusBanner: "MISSION ACTIVE // RESEARCH FLEET DEPLOYED",

@@ -1,0 +1,285 @@
+{
+  "scholarship_id": "SCH-ME-035",
+  "basic_details": {
+    "scholarship_name": "Sultan Qaboos University Postgraduate Scholarships (SQU Oman)",
+    "offering_entity": "Sultan Qaboos University (SQU) & Ministry of Higher Education, Research and Innovation (Oman)",
+    "host_country": "Oman",
+    "host_institutions_covered": "Sultan Qaboos University Main Campus (Al-Khoudh, Muscat, Sultanate of Oman)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "College of Science (Computer Science, Mathematics, Physics, Chemistry), College of Engineering (Electrical, Mechanical, Civil, Chemical, Petroleum), College of Agricultural and Marine Sciences, College of Arts and Social Sciences, and College of Economics and Political Science.",
+    "number_of_awards_total": "~80 to 120 postgraduate merit scholarships awarded annually across faculties",
+    "number_of_awards_pakistan": "Open to international candidates on competitive basis; Pakistani researchers have a strong historical presence at SQU (~10 to 18 awards annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "2 years for Master's; 3 to 4 years for PhD",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "OMR 300 / month for Master's (~PKR 215,000 / month); OMR 400 - 500 / month for PhD (~PKR 285,000 - 360,000 / month)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international students and Omani nationals (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No explicit statutory age limit; preference given to younger researchers demonstrating high scholarly promise.",
+    "academic_qualifications": "16-year Bachelor's degree with minimum cumulative GPA of 3.00 / 4.00 (or Grade Very Good) for Master's; 18-year Master's degree with minimum GPA 3.00 / 4.00 for PhD from an HEC-recognized university.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum 3.00 / 4.00 on 4-point scale (or equivalent 75%+).",
+    "subject_background_prerequisites": "Bachelor's or Master's degree in matching discipline with solid academic background in core foundational subjects.",
+    "current_education_status": "Must hold final verified degree certificate and complete official transcript.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; laboratory research experience or peer-reviewed papers significantly strengthen PhD applications.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 79,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "Valid IELTS Academic (minimum 6.0 for Engineering/Science, 6.5 for some majors) or TOEFL iBT (minimum 79) mandatory.",
+    "other_language_requirements": "Arabic proficiency required only for Arabic Literature and Islamic Studies programs.",
+    "gender_specific_requirements": "Open to both male and female scholars; separate university graduate residential accommodations provided.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Processed via SQU Deanship of Postgraduate Studies online admissions portal.",
+    "previous_scholarship_restrictions": "Cannot hold concurrent sponsorship or financial support from another Omani or foreign entity.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition exemption for the approved standard duration of the postgraduate degree.",
+      "amount": "100% covered (~OMR 3,500 to 6,000 / year value; ~PKR 2,500,000 to 4,300,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Non-refundable application processing fee of OMR 10 (approx. USD 26 / ~PKR 7,200) paid online.",
+      "amount": "OMR 10 (~PKR 7,200) application fee"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Free single furnished graduate student dormitory accommodation on SQU campus in Muscat, including utilities and Wi-Fi.",
+      "amount": "100% covered free university housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living stipend paid to scholarship holders: OMR 300 / month for Master's (~PKR 215,000 / month); OMR 400 to 500 / month for PhD (~PKR 285,000 to 360,000 / month).",
+      "amount": "OMR 300 to 500 / month (~PKR 215,000 to 360,000 / mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Annual round-trip economy airfare between Pakistan and Muscat International Airport (MCT) provided at the conclusion of each academic year.",
+      "amount": "100% covered annual round-trip flight ticket"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Omani student residency visa sponsored and issued through Royal Oman Police and SQU international student office.",
+      "amount": "100% covered student visa"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full comprehensive medical healthcare provided at Sultan Qaboos University Hospital (SQUH), a premier tertiary medical facility.",
+      "amount": "100% covered medical care at SQUH"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized meals available at SQU campus cafeterias and food courts; funded comfortably through monthly living stipend.",
+      "amount": "Subsidized campus meals"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full borrowing privileges at SQU Main Library, digital journal access, and laboratory consumable research support.",
+      "amount": "100% covered library and lab resources"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Postgraduate research support funds and conference travel grants up to OMR 1,000 per student through Deanship of Research.",
+      "amount": "Up to OMR 1,000 conference travel grant"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free campus shuttle bus network serving university faculties, student housing, library, and hospital.",
+      "amount": "100% free campus transit"
+    },
+    "total_estimated_value_usd_per_year": 22000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single national flagship university (Sultan Qaboos University, Muscat).",
+    "participating_institutions": [
+      "Sultan Qaboos University Main Campus (Al-Khoudh, Muscat, Oman)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #454, QS Arab Region #10, premier comprehensive research university in the Sultanate of Oman.",
+    "available_majors": [
+      "Master of Science / PhD in Computer Science",
+      "Master of Science / PhD in Electrical and Computer Engineering",
+      "Master of Science / PhD in Civil and Architectural Engineering",
+      "Master of Science / PhD in Mechanical and Industrial Engineering",
+      "Master of Science / PhD in Petroleum and Chemical Engineering",
+      "Master of Science in Artificial Intelligence",
+      "Master of Science / PhD in Physics, Chemistry, and Mathematics",
+      "Master of Science in Environmental Science",
+      "Master of Science in Information Studies"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 to 4 years",
+    "admission_requirements_summary": "Bachelor's / Master's degree with minimum GPA 3.00, attested transcripts, IELTS 6.0+ or TOEFL 79+, two academic referee letters, statement of research purpose, CV, and valid passport.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "College of Engineering and College of Science have competitive research grant funding; establishing contact with a prospective SQU supervisor prior to submission improves selection chances.",
+    "strategic_program_match_advice": "Focus research proposals on strategic national themes such as renewable energy, water desalination, AI, and smart logistics aligned with Oman Vision 2040."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.squ.edu.om/ps/en-us/",
+    "portal_system_name": "SQU Deanship of Postgraduate Studies Electronic Admission System",
+    "account_creation_instructions": "Register on SQU postgraduate portal, choose faculty and degree program, complete academic record fields, upload required PDF documents, and pay OMR 10 application fee.",
+    "step_by_step_workflow": [
+      "Step 1: Verify academic qualification and ensure IELTS 6.0+ or TOEFL score is valid.",
+      "Step 2: Attest degrees and transcripts from HEC Pakistan and MoFA Pakistan.",
+      "Step 3: Submit application through SQU Postgraduate portal (squ.edu.om) and pay OMR 10 fee.",
+      "Step 4: Upload scanned academic transcripts, recommendation letters, research proposal, CV, and passport.",
+      "Step 5: Academic department conducts preliminary evaluation and shortlists candidates for interviews.",
+      "Step 6: Department conducts technical interview via Zoom or Microsoft Teams.",
+      "Step 7: Successful applicants receive formal admission offer and postgraduate scholarship award letter.",
+      "Step 8: Complete visa formalities through Royal Oman Police and book university-sponsored flight to Muscat."
+    ],
+    "university_vs_scholarship_routing": "Combined Award System: Application for postgraduate admission via the Deanship of Postgraduate Studies includes consideration for institutional scholarships.",
+    "recommendation_letters_submission_method": "Uploaded directly by the applicant or sent via referee official email to the graduate admissions committee.",
+    "personal_statement_prompts": "Statement of purpose outlining academic achievements, reasons for pursuing research at SQU, and future career vision.",
+    "study_plan_research_proposal_requirements": "Detailed research proposal (3 to 4 pages) for PhD applicants and thesis Master's outlining background, objectives, and methodology.",
+    "cv_format_requirements": "Comprehensive academic CV detailing publications, research projects, technical skills, and educational chronology.",
+    "interviews_conducted": true,
+    "interview_format_details": "Departmental academic panel interview via Microsoft Teams assessing theoretical knowledge, research aptitude, and English fluency.",
+    "standardized_tests": "IELTS Academic (minimum 6.0) or TOEFL iBT (minimum 79) mandatory.",
+    "application_fee_amount": "OMR 10 (approx. USD 26 / ~PKR 7,200)",
+    "attestation_requirements": "HEC Pakistan, MoFA Pakistan, and Embassy of Oman in Islamabad attestations required prior to enrollment.",
+    "translation_requirements": "Certified English translation of degrees and transcripts.",
+    "final_submission_method": "100% online submission via SQU portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Attested Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "16-year Bachelor's or 18-year Master's degree with minimum CGPA 3.0 / 4.0.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Official English Proficiency Certificate (IELTS/TOEFL)",
+      "mandatory": true,
+      "specification": "IELTS Academic minimum 6.0 or TOEFL iBT minimum 79.",
+      "pakistan_specific_instruction": "Valid test certificate."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential recommendation letters from university professors on official letterhead.",
+      "pakistan_specific_instruction": "Signed and stamped."
+    },
+    {
+      "document_name": "Research Proposal / Statement of Purpose",
+      "mandatory": true,
+      "specification": "3 to 4-page research proposal for PhD or comprehensive SOP for Master's.",
+      "pakistan_specific_instruction": "Aligned with SQU departmental research priorities."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Detailed academic and professional CV.",
+      "pakistan_specific_instruction": "Highlighting research experience."
+    },
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio page valid for at least 1 year.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "December 15",
+    "application_deadline": "February 28",
+    "university_admission_deadline": "February 28",
+    "document_submission_deadline": "February 28",
+    "recommendation_letters_deadline": "March 10",
+    "interview_period": "April - May",
+    "shortlist_announcement": "June",
+    "final_result_acceptance_deadline": "July 1",
+    "visa_application_window": "July - August",
+    "semester_commencement": "Early September (Fall intake)",
+    "annual_cycle_notes": "Main intake opens in December and closes in late February for September admission."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "45% (Degree grades and transcript rigor)",
+    "extracurricular_and_leadership_weight": "5% (Character conduct and leadership)",
+    "research_experience_weight": "25% (Research proposal quality, publications, and projects)",
+    "work_experience_weight": "5% (Professional experience in engineering/science)",
+    "personal_statement_weight": "10% (Statement of purpose)",
+    "recommendations_weight": "5% (Referee appraisals)",
+    "interview_weight": "5% (Departmental panel interview)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Merit and research performance only)",
+    "selection_panel_composition": "SQU Departmental Postgraduate Committee, College Board, and Deanship of Postgraduate Studies.",
+    "evaluation_methodology": "Competitive multi-stage academic evaluation based on prior academic GPA, interview performance, and research proposal alignment."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,500 to 4,000 postgraduate applicants",
+    "total_scholarships_awarded": "~80 to 120 fully funded postgraduate scholarships",
+    "acceptance_rate_global": "~3.0% to 5.0%",
+    "acceptance_rate_pakistan": "~5.0% to 7.0% for well-prepared engineering/science applicants",
+    "typical_successful_applicant_gpa": "CGPA >= 3.40 / 4.00, strong final-year thesis or research publications",
+    "typical_academic_and_research_profile": "Graduates with solid academic standing, clear technical proposal aligned with Omani national priorities, and verified IELTS scores.",
+    "common_backgrounds_of_winners": "Graduates from Pakistani engineering and science institutions (NUST, UET Lahore, NED, PIEAS, Quaid-i-Azam, COMSATS).",
+    "high_representation_countries": "Oman, Pakistan, Egypt, India, Jordan, Sudan, Iran, Tunisia, Algeria.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official SQU website at squ.edu.om.",
+      "SQU never authorizes commercial agents to collect fees on its behalf."
+    ],
+    "application_fee_warning": "Application fee of OMR 10 is paid strictly through the secure online admission gateway.",
+    "agent_and_intermediary_warnings": "Sultan Qaboos University does not deal with private educational agencies.",
+    "hidden_costs_breakdown": [
+      "Application fee: OMR 10 (~PKR 7,200).",
+      "IELTS or TOEFL test registration: ~PKR 55,000 to 65,000.",
+      "Attestations across HEC, MoFA, and Oman Embassy: ~PKR 25,000 to 35,000.",
+      "Initial pocket money prior to first stipend payment: ~OMR 100 (~PKR 72,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: SQU programs are only taught in Arabic. Reality: College of Engineering, College of Science, and College of Agricultural Sciences programs are taught 100% in English.",
+      "Myth: Master's students must pay tuition if research is delayed. Reality: Scholarship covers full approved duration without extra fees."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites post obsolete stipend levels; verified monthly stipend is OMR 300 (Master's) and OMR 400-500 (PhD)."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain cumulative graduate GPA of at least 3.00 / 4.00 each semester.",
+    "attendance_requirements": "Full-time study mode; minimum 80% attendance in lectures and laboratory sessions.",
+    "academic_progress_monitoring": "Biannual progress reporting submitted by academic supervisor to the Deanship of Postgraduate Studies.",
+    "work_restrictions_during_study": "Scholars may serve as departmental Teaching Assistants or Research Assistants; outside commercial employment is not permitted under student visa.",
+    "home_country_return_obligation": "None; scholars are free to pursue global opportunities upon graduation.",
+    "service_obligations_or_bonds": "Obligation to assist with 6-8 hours of departmental tutorial or lab supervision per week.",
+    "repayment_clawback_conditions": "Scholarship is cancelled if student withdraws without justification or is dismissed for academic failure.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Permitted only within the first semester upon approval from both departments.",
+    "extension_policy": "Maximum one semester extension may be granted upon supervisor justification."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Sultan Qaboos University Deanship of Postgraduate Studies",
+      "source_url": "https://www.squ.edu.om/ps/en-us/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Ministry of Higher Education, Research and Innovation (Oman)",
+      "source_url": "https://www.moheri.gov.om/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

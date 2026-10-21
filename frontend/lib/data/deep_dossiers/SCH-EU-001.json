@@ -1,0 +1,292 @@
+{
+  "scholarship_id": "SCH-EU-001",
+  "basic_details": {
+    "scholarship_name": "Stipendium Hungaricum Scholarship Programme",
+    "offering_entity": "Hungarian Government (Tempus Public Foundation / Ministry of Foreign Affairs and Trade) & Government of Pakistan (HEC)",
+    "host_country": "Hungary",
+    "host_institutions_covered": "Hungarian State Universities (Eötvös Loránd University - ELTE, Budapest University of Technology - BME, University of Debrecen, University of Szeged, Corvinus, University of Pécs, MATE)",
+    "degree_levels": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "major_restrictions": "Eligible for almost all fields of study: Engineering, Computer Science, Natural Sciences, Medicine, Dentistry, Pharmacy, Agriculture, Business, Social Sciences, Arts and Humanities.",
+    "number_of_awards_total": "~5,000 scholarship holders admitted annually worldwide from 90+ sending partners",
+    "number_of_awards_pakistan": "400 reserved bilateral quota seats for Pakistani students annually (200 Bachelor's, 100 Master's, 70 One-Tier Master's/Medicine, 30 PhD)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Bachelor's: 3-4 years; Master's: 1.5-2 years; One-Tier Master's (Medicine): 5-6 years; PhD: 4 years"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of the Islamic Republic of Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 24,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Must be at least 18 years old by 31 August of entry year. HEC Pakistan enforces age limits: max 22-24 for Bachelor's; max 35 for Master's/PhD (up to 40 for regular public sector/faculty).",
+    "academic_qualifications": "12 years education (HSSC/A-Levels) for Bachelor's; 16 years education (BS/MA/MSc) for Master's; 18 years education (MS/MPhil) for PhD.",
+    "minimum_gpa_percentage": 60.0,
+    "minimum_gpa_scale": 2.5,
+    "grading_conversion_notes": "Minimum 60% marks in annual system or 2.50/4.00 CGPA in semester system.",
+    "subject_background_prerequisites": "Relevant pre-requisite courses matching the chosen Hungarian degree.",
+    "current_education_status": "Completed degrees; result-awaiting candidates can apply if final result is declared before HEC nomination deadline.",
+    "graduation_year_restrictions": "None specified by Tempus.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not required.",
+    "english_test_required": true,
+    "ielts_minimum": 5.5,
+    "toefl_minimum": 72,
+    "duolingo_accepted": true,
+    "moi_certificate_accepted": true,
+    "language_notes": "Varies by Hungarian university: IELTS 5.5 to 6.5, TOEFL iBT 72 to 90, or Duolingo 95+. Many Hungarian universities accept English Medium of Instruction (MOI) certificates from Pakistani universities or conduct their own online oral English interview.",
+    "other_language_requirements": "None required; 1 year Hungarian language preparatory option available.",
+    "gender_specific_requirements": "None; open to all.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must be formally nominated by the Higher Education Commission (HEC) Pakistan.",
+    "previous_scholarship_restrictions": "Previous Stipendium Hungaricum scholarship holders who re-apply within the same study level are restricted.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% exemption from the payment of tuition fees for the entire duration of the degree program."
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "No university application fee when applying through the Stipendium Hungaricum system."
+    },
+    "accommodation": {
+      "status": "FREE DORMITORY",
+      "details": "Free university dormitory placement OR a monthly housing allowance of HUF 40,000/month towards private accommodation."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly living stipend paid directly by the Hungarian host university for 12 months a year.",
+      "amount": "HUF 43,700/mo for Undergrad/Master; HUF 140,000/mo (Phase 1) and HUF 180,000/mo (Phase 2) for PhD (~PKR 35,000 to 145,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International airfare between Pakistan and Hungary is NOT covered by the Hungarian government (must be paid by student or HEC)."
+    },
+    "visa_fee": {
+      "status": "WAIVED",
+      "details": "Type D Hungarian Student Visa application fee is WAIVED for Stipendium Hungaricum scholarship holders at the Hungarian Embassy in Islamabad."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Hungarian National Health Insurance (TAJ Card) providing full medical services under Hungarian law, plus supplementary private health insurance up to HUF 65,000/year."
+    },
+    "food_allowance": {
+      "status": "INCLUDED IN STIPEND",
+      "details": "Subsidized meals available at university canteens."
+    },
+    "books_and_materials_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Covered via stipend or campus library access."
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "University departmental doctoral grants available for PhD candidates."
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Local transport in Budapest/Debrecen purchased at heavily discounted student rate (~HUF 3,450/month)."
+    },
+    "total_estimated_value_usd_per_year": 22000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Applicants may select up to TWO study programs (at either 2 different universities or the same university) in order of preference (Priority 1 and Priority 2).",
+    "participating_institutions": [
+      "ELTE Budapest, BME, University of Debrecen, University of Szeged, Corvinus Budapest, University of Pécs, MATE, Óbuda University, Széchenyi István University"
+    ],
+    "university_rankings_scope": "Top 1 to 10 universities in Hungary; QS World Rankings 500-1000.",
+    "available_majors": [
+      "Computer Science",
+      "Artificial Intelligence",
+      "Medicine (One-Tier 6yr)",
+      "Dentistry",
+      "Pharmacy",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Biotechnology",
+      "Business",
+      "Economics",
+      "Agriculture"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Bachelor's: 3-4 years; Master's: 1.5-2 years; One-tier Master's: 5-6 years; PhD: 4 years",
+    "admission_requirements_summary": "Online application, transcripts, medical certificate, motivation letter, institutional online exam / Skype interview.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Single application through DreamApply portal; institutional entrance exams are held online in April/May.",
+    "strategic_program_match_advice": "Priority 1 choice receives maximum focus from universities; ensure Priority 1 is your strongest academic alignment."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://apply.stipendiumhungaricum.hu/",
+    "portal_system_name": "DreamApply Online Application System & HEC Scholarship Portal (scholarship.hec.gov.pk)",
+    "account_creation_instructions": "MANDATORY DUAL SUBMISSION: 1) Register and apply on the Hungarian DreamApply portal; AND 2) Register and apply on the HEC Pakistan Scholarship portal.",
+    "step_by_step_workflow": [
+      "1. Register on Tempus DreamApply portal (opens mid-November).",
+      "2. Select 2 study programs in order of preference.",
+      "3. Upload transcripts, certificates, medical certificate, motivation letter, and passport.",
+      "4. Submit DreamApply application by January 15 deadline.",
+      "5. Register on HEC Pakistan Scholarship portal (scholarship.hec.gov.pk).",
+      "6. Fill HEC online profile and submit under 'Stipendium Hungaricum' category.",
+      "7. Take HEC USAT (for Undergrad) or HEC HAT (for Master's/PhD) aptitude test.",
+      "8. HEC prepares national merit list based on academic formula (50%) + HAT/USAT score (50%).",
+      "9. HEC nominates top 400 candidates (+ reserve list) to Tempus Public Foundation in February.",
+      "10. Nominated candidates take online entrance examinations/interviews with Hungarian universities (March - May).",
+      "11. Tempus Public Foundation issues final Letters of Award in June/July.",
+      "12. Apply for Hungarian Type D Visa at Embassy in Islamabad and depart in September."
+    ],
+    "university_vs_scholarship_routing": "Integrated DreamApply routing + HEC national nomination.",
+    "recommendation_letters_submission_method": "Required for PhD applicants (2 letters of recommendation from professors with doctoral degrees); not mandatory for Bachelor's/Master's.",
+    "personal_statement_prompts": "Motivation Letter (minimum 1 page / 4,000 characters): Why Hungary, reasons for selecting specific programs, and career ambitions.",
+    "study_plan_research_proposal_requirements": "PhD applicants must upload a detailed research plan (minimum 2 pages) and statement of supervisor acceptance.",
+    "cv_format_requirements": "Europass CV format.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online institutional entrance exam (written test) followed by 10-15 minute oral interview via Skype/Teams conducted by Hungarian faculty professors.",
+    "standardized_tests": "HEC USAT (Undergrad) or HEC HAT (Postgrad) required for Pakistani nomination. Hungarian universities conduct their own subject tests.",
+    "application_fee_amount": "HUF 0 (Tempus application is free; HEC charges nominal test fee PKR 2,000 for HAT/USAT).",
+    "attestation_requirements": "Degrees must be attested by HEC / IBCC and Ministry of Foreign Affairs (MOFA) prior to visa issuance.",
+    "translation_requirements": "Certified English translations if originals are in Urdu.",
+    "final_submission_method": "Dual online portal submission (DreamApply + HEC)."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Scanned Copy of Valid Passport",
+      "mandatory": true,
+      "specification": "Passport valid for at least 18 months",
+      "pakistan_specific_instruction": "Required for DreamApply registration and visa"
+    },
+    {
+      "document_name": "Educational Certificates & Transcripts",
+      "mandatory": true,
+      "specification": "Matric, Inter, Bachelor's, and Master's degrees and detailed marks certificates",
+      "pakistan_specific_instruction": "Must be attested by IBCC (matric/inter) and HEC (degrees)"
+    },
+    {
+      "document_name": "Proof of Language Proficiency",
+      "mandatory": true,
+      "specification": "IELTS, TOEFL, Duolingo, or English Medium of Instruction certificate",
+      "pakistan_specific_instruction": "Check individual Hungarian university requirements"
+    },
+    {
+      "document_name": "Medical Certificate",
+      "mandatory": true,
+      "specification": "Official medical certificate from registered physician confirming negative tests for HIV, Hepatitis B/C, and Chest X-ray",
+      "pakistan_specific_instruction": "Mandatory Tempus template issued not older than 1 month"
+    },
+    {
+      "document_name": "Statement of Application",
+      "mandatory": true,
+      "specification": "Signed declaration on DreamApply portal",
+      "pakistan_specific_instruction": "Signed electronically on the portal"
+    },
+    {
+      "document_name": "Motivation Letter",
+      "mandatory": true,
+      "specification": "Minimum 1 page detailing academic purpose and Hungarian context",
+      "pakistan_specific_instruction": "Address both Priority 1 and Priority 2 programs"
+    },
+    {
+      "document_name": "Research Plan & Supervisor Letter (PhD only)",
+      "mandatory": false,
+      "specification": "Minimum 2-page detailed research proposal",
+      "pakistan_specific_instruction": "Mandatory for PhD candidates"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Mid-November annually (e.g., 2026-11-15)",
+    "application_deadline": "January 15 annually (at 14:00 Central European Time)",
+    "university_admission_deadline": "Coincides with January 15 deadline",
+    "document_submission_deadline": "January 15 (Missing documents uploaded until August 1)",
+    "recommendation_letters_deadline": "January 15",
+    "interview_period": "March - May (Online entrance exams and Skype interviews)",
+    "shortlist_announcement": "HEC nomination in late February; Final awards in June/July",
+    "final_result_acceptance_deadline": "Mid-July annually",
+    "visa_application_window": "July - August (Hungarian Embassy Islamabad)",
+    "semester_commencement": "September (Fall Semester)",
+    "annual_cycle_notes": "Both DreamApply and HEC portal applications must be completed before their respective deadlines."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Matric, Inter, and Bachelor's marks calculated via HEC formula)",
+    "extracurricular_and_leadership_weight": "5% (General suitability)",
+    "research_experience_weight": "15% (For PhD applicants; proposal review by Hungarian supervisors)",
+    "work_experience_weight": "5% (Professional relevance)",
+    "personal_statement_weight": "10% (Motivation letter quality)",
+    "recommendations_weight": "5% (Academic references)",
+    "interview_weight": "20% (Hungarian university institutional exam and oral interview score)",
+    "test_scores_weight": "HEC USAT / HAT test accounts for 50% of the initial national nomination score in Pakistan!",
+    "financial_need_weight": "0% (Pure bilateral merit quota)",
+    "selection_panel_composition": "Stage 1: HEC Pakistan National Nomination Committee; Stage 2: Hungarian University Departmental Admissions Committees; Stage 3: Tempus Board of Trustees.",
+    "evaluation_methodology": "HEC nominates candidate pool via academic + test merit; Hungarian universities examine candidates via online tests/interviews and give admission scores (Pass/Fail/Waitlist); Tempus confirms awards."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~10,000 to 14,000 applicants in Pakistan across all degree levels",
+    "total_scholarships_awarded": "400 principal awards exclusively reserved for Pakistan annually",
+    "acceptance_rate_global": "N/A (Bilateral country quota)",
+    "acceptance_rate_pakistan": "~2.8% to 4.0% (Moderate-High Competition, but largest European quota for Pakistan)",
+    "typical_successful_applicant_gpa": "3.20 to 3.70 / 4.00 CGPA (or 70-85% marks in HSSC/FSc)",
+    "typical_academic_and_research_profile": "Solid grades in intermediate/bachelor's and strong score on HEC USAT/HAT test (typically 65+ out of 100).",
+    "common_backgrounds_of_winners": "FSc Pre-Medical and Pre-Engineering students (for BS and Medicine); graduates of UET, NUST, FAST, COMSATS, Punjab University, Karachi University.",
+    "high_representation_countries": "Reserved exclusively for Pakistan under bilateral cultural agreement.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Agents in Lahore, Rawalpindi, and Karachi charging PKR 100,000 to 300,000 claiming they 'guarantee nomination on the HEC Hungary quota'. HEC nominations are strictly computerized and merit-based.",
+      "Unofficial portals charging application fees."
+    ],
+    "application_fee_warning": "DreamApply is completely FREE. HEC charges only the standard test registration fee for HAT/USAT (~PKR 2,000).",
+    "agent_and_intermediary_warnings": "Never hire an agent. All portals and communication are direct with the applicant.",
+    "hidden_costs_breakdown": [
+      "International flight ticket to Budapest: NOT covered by Hungarian scholarship (PKR 180,000 to 250,000 one-way/return).",
+      "HEC & IBCC document attestation fees and MOFA apostille stamps (PKR 10,000 to 20,000).",
+      "Medical screening lab tests (HIV, Hepatitis, X-Ray: approx PKR 10,000 to 15,000).",
+      "Monthly stipend limitation: HUF 43,700 (~PKR 35,000/mo) for undergrad/master is tight; students often need modest personal pocket money support (~€100-€150/mo) or part-time work."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: Flights are covered. (Fact: Airfare is explicitly the responsibility of the student).",
+      "MYTH: You cannot work in Hungary. (Fact: International students can legally work up to 30 hours/week during study term in Hungary)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Agents often fail to inform applicants about the mandatory HEC portal application; applying on DreamApply without applying on the HEC portal results in immediate disqualification for Pakistanis."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must earn at least 36 credits across every two consecutive semesters (or 18 credits per semester) according to Hungarian institutional regulations.",
+    "attendance_requirements": "Physical residence in Hungary mandatory. Being absent for more than 30 consecutive days without written permission leads to scholarship termination.",
+    "academic_progress_monitoring": "Semi-annual credit and attendance reports sent by universities to Tempus Public Foundation.",
+    "work_restrictions_during_study": "Students holding a Hungarian Residence Permit for Study purposes may work up to 30 hours per week during term-time and full-time during vacations.",
+    "home_country_return_obligation": "No mandatory home residency restriction enforced by Hungary; students can transition to Hungarian 9-month Job Seeker Residence Permit upon graduation or pursue PhDs across the EU.",
+    "service_obligations_or_bonds": "HEC Pakistan requires signing an undertaking form agreeing to return, though enforcement is non-statutory for self-funded travel.",
+    "repayment_clawback_conditions": "If a student drops out without certified medical emergency, scholarship funding and health insurance terminate immediately.",
+    "rules_for_changing_university": "Permitted ONCE during the scholarship tenure within the first year of studies, subject to approval by both Hungarian universities and Tempus.",
+    "rules_for_changing_major": "Permitted ONCE, strictly within the same sending partner quota and study level.",
+    "extension_policy": "Bachelor's and Master's programs can be extended by a maximum of 2 semesters upon written application and university approval (stipend is suspended during extension, but tuition remains waived)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Tempus Public Foundation - Stipendium Hungaricum Official Portal",
+      "source_url": "https://stipendiumhungaricum.hu/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact number of applicants from Pakistan who sat for entrance tests at each university",
+        "Passing score thresholds for specific university entrance tests"
+      ]
+    },
+    {
+      "source_name": "Higher Education Commission (HEC) Pakistan - Bilateral Hungarian Scholarship Page",
+      "source_url": "https://scholarship.hec.gov.pk/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Yearly cutoff merit scores on the HEC formula (HEC generates merit dynamically based on annual candidate pool)"
+      ]
+    }
+  ]
+}

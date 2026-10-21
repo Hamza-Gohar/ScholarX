@@ -1,0 +1,279 @@
+{
+  "scholarship_id": "SCH-EU-034",
+  "basic_details": {
+    "scholarship_name": "University of Oulu International Master's Scholarship & Finland Scholarship",
+    "offering_entity": "University of Oulu & Finnish Ministry of Education and Culture",
+    "host_country": "Finland",
+    "host_institutions_covered": "University of Oulu Linnanmaa & Kontinkangas Campuses (Oulu, Northern Ostrobothnia, Finland)",
+    "degree_levels": [
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "Faculty of Information Technology and Electrical Engineering (ITEE): Wireless Communications Engineering (6G Flagship), Computer Science and Engineering, Artificial Intelligence, Software Engineering and Information Systems, Biomedical Engineering, and Electronics.",
+    "number_of_awards_total": "~150 to 200 tuition fee waivers and Finland Scholarships awarded across international Master's cohorts annually",
+    "number_of_awards_pakistan": "Merit-based international competition; Pakistani STEM scholars secure ~12 to 20 awards and tuition waivers annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "2 years (full standard duration of 120 ECTS Master of Science program), renewal in year 2 contingent on completing minimum 60 ECTS in year 1"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International non-EU/EEA students subject to Finnish tuition fees (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction; candidates assessed on academic excellence and prerequisite coursework.",
+    "academic_qualifications": "A recognized 4-year Bachelor of Science / Engineering in Computer Science, Telecommunications, Software Engineering, or related STEM field (16 years education) with minimum CGPA 3.20 / 4.00 (or 75%+ marks) from an HEC-recognized university in Pakistan.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.2,
+    "grading_conversion_notes": "Minimum ECTS grade equivalent of Grade B or Finnish grade 3.5 / 5.0 in major subject studies.",
+    "subject_background_prerequisites": "Substantial coursework in mathematics (calculus, linear algebra, probability), programming languages (C/C++, Python), computer architecture, and telecommunications fundamentals.",
+    "current_education_status": "Graduating seniors in their final semester can apply conditionally with official provisional transcripts.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; technical software projects, telecom internships, or hardware lab experience are advantageous.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 92,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 overall (minimum 5.5 in writing) or TOEFL iBT minimum 92 (minimum 22 in writing). Finnish universities strictly require standardized English test reports.",
+    "other_language_requirements": "None; international programs are taught 100% in English.",
+    "gender_specific_requirements": null,
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants apply for the scholarship simultaneously with their study program on the national Finnish portal Studyinfo.fi.",
+    "previous_scholarship_restrictions": "Cannot hold another full Finnish state scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for the first academic year (worth €12,000 - €13,000 / year). For the second year, 70% to 100% waiver is renewed upon completing minimum 60 ECTS in year one.",
+      "amount": "100% covered (~€12,000 - €13,000 / year; ~PKR 3,600,000 - 3,900,000 / year value)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Application via the official Finnish national portal Studyinfo.fi is free of charge.",
+      "amount": "€0"
+    },
+    "accommodation": {
+      "status": "PARTIAL",
+      "details": "Subsidized student apartments provided by Northern Ostrobothnia Student Housing Foundation (PSOAS); monthly rent €250 - €380 including utilities and internet.",
+      "amount": "Subsidized rent ~€280 - €380 / month (~PKR 85,000 - 115,000 / month)"
+    },
+    "monthly_stipend": {
+      "status": "PARTIAL",
+      "details": "Finland Scholarship recipients receive a one-time relocation grant of €5,000 upon arrival to cover initial living expenses. Additionally, campus research assistant (tutkimusavustaja) positions pay €12 - €16/hour for up to 20 hrs/week.",
+      "amount": "€5,000 relocation grant (~PKR 1,500,000) + part-time campus research earnings"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International air travel must be arranged by the student; easily covered by the €5,000 Finland Scholarship arrival grant.",
+      "amount": "Self-arranged via arrival grant"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Finnish Immigration Service (Migri) first residence permit electronic application fee (€350).",
+      "amount": "€350 (~PKR 105,000)"
+    },
+    "health_insurance": {
+      "status": "PARTIAL",
+      "details": "International students purchase private health insurance (Swisscare or SIP ~€250/year) for the Migri residence permit; once enrolled, mandatory Finnish Student Health Service (FSHS / YTHS) provides free outpatient healthcare on campus for ~€74/year.",
+      "amount": "Private insurance ~€250/year; campus healthcare included via FSHS"
+    },
+    "food_allowance": {
+      "status": "PARTIAL",
+      "details": "Finnish government (Kela) subsidizes university student meals; balanced warm lunch costs only €2.95 at campus restaurants (Uniresta).",
+      "amount": "Subsidized Kela student meals (€2.95 per meal)"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to Pegasus University Library, software licenses, 6G Flagship laboratory hardware, and RF test facilities.",
+      "amount": "100% covered by institutional infrastructure"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Faculty funding available through the 6G Flagship research group for Master's thesis students publishing papers in IEEE conferences.",
+      "amount": "Up to €1,500 for paper presentation"
+    },
+    "travel_transit_allowance": {
+      "status": "PARTIAL",
+      "details": "Oulu local public transit (Oulun joukkoliikenne / Onni) offers 50% discounted student bus passes (~€35 / month).",
+      "amount": "50% student discount"
+    },
+    "total_estimated_value_usd_per_year": 18000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single renowned Finnish research university: University of Oulu.",
+    "participating_institutions": [
+      "University of Oulu (Linnanmaa Campus, Oulu, Finland)"
+    ],
+    "university_rankings_scope": "Top 300 globally in QS/THE World Rankings; globally recognized #1 pioneer in 6G wireless research (hosts Finland's national 6G Flagship program funded by the Research Council of Finland).",
+    "available_majors": [
+      "Wireless Communications Engineering (6G Flagship)",
+      "Computer Science and Engineering",
+      "Artificial Intelligence and Machine Learning",
+      "Software Engineering and Information Systems",
+      "Biomedical Engineering",
+      "Electronics and Embedded Systems"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (4 semesters, 120 ECTS)",
+    "admission_requirements_summary": "Recognized 4-year Bachelor's in CS/EE/Telecom, certified transcripts, statement of purpose, curriculum vitae, and official English test score (IELTS 6.5 or TOEFL 92).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Wireless Communications Engineering and AI are highly competitive due to international interest in the 6G Flagship; a strong mathematics and signals background maximizes admission and funding odds.",
+    "strategic_program_match_advice": "When filling out the application on Studyinfo.fi, always check the box applying for the 'Finland Scholarship / University of Oulu Tuition Fee Waiver'—admission and scholarship are evaluated simultaneously based on composite ranking."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://opintopolku.fi/konfo/en/ & https://www.oulu.fi/en/admissions/scholarships",
+    "portal_system_name": "Studyinfo.fi (Finnish National Higher Education Admissions Portal)",
+    "account_creation_instructions": "Create an application on Studyinfo.fi during the joint application period in January, select University of Oulu degree programmes, opt-in for the scholarship, and upload attested document scans.",
+    "step_by_step_workflow": [
+      "Step 1: Check programme prerequisites and prepare English test score (IELTS min 6.5 or TOEFL min 92).",
+      "Step 2: Submit application on Studyinfo.fi during the annual application window (early to mid-January).",
+      "Step 3: Select the checkbox requesting the University of Oulu Tuition Fee Waiver and Finland Scholarship.",
+      "Step 4: Upload attested transcripts, degree certificates, CV, and motivational letter by the document deadline.",
+      "Step 5: Admissions committee ranks applicants based on academic points and announces results by late March or early April.",
+      "Step 6: Accept the study place and scholarship offer via Studyinfo.fi before the national acceptance deadline.",
+      "Step 7: Apply for Finnish residence permit for studies through Enter Finland (Migri) and book biometrics at VFS Global Islamabad."
+    ],
+    "university_vs_scholarship_routing": "Integrated Track: Single application via Studyinfo.fi covers both program admission and scholarship evaluation.",
+    "recommendation_letters_submission_method": "Not routinely required; uploaded via portal only if specifically requested for specialized tracks.",
+    "personal_statement_prompts": "Integrated motivation questions embedded within the online application addressing academic background, motivation, and career plans.",
+    "study_plan_research_proposal_requirements": "Short summary of proposed thesis focus in telecommunications, AI, or software engineering.",
+    "cv_format_requirements": "Standard academic CV (Europass preferred) detailing academic history, technical skills, and projects.",
+    "interviews_conducted": false,
+    "interview_format_details": "Generally evaluated purely on documented academic credentials; video interview used only for borderline cases.",
+    "standardized_tests": "IELTS Academic (min 6.5, writing 5.5) or TOEFL iBT (min 92, writing 22); GRE not required.",
+    "application_fee_amount": "€0 (Free on Studyinfo.fi)",
+    "attestation_requirements": "Degrees and transcripts must be attested by HEC Pakistan and MOFA; Matric/Inter by IBCC.",
+    "translation_requirements": "Official English translation of all non-English documents.",
+    "final_submission_method": "Online upload via Studyinfo.fi."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Bachelor's Degree Certificate and Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts for 4-year Bachelor's in CS/EE/Telecom with minimum CGPA 3.20/4.00.",
+      "pakistan_specific_instruction": "Scanned color copies of HEC-attested degrees and semester transcripts."
+    },
+    {
+      "document_name": "Official English Language Test Score",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5 overall, 5.5 writing) or TOEFL iBT (min 92, 22 writing).",
+      "pakistan_specific_instruction": "Send electronic score report directly to University of Oulu via testing agency."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Detailed CV listing education, programming abilities, projects, and work experience.",
+      "pakistan_specific_instruction": "Include links to GitHub and academic project repositories."
+    },
+    {
+      "document_name": "Motivation Letter / Statement of Purpose",
+      "mandatory": true,
+      "specification": "Structured motivation essay answering specific prompt questions on Studyinfo.",
+      "pakistan_specific_instruction": "Emphasize alignment with Oulu's 6G Flagship or AI initiatives."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "High-resolution color scan of passport bio page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Pakistani passport must be valid through late 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "January 3",
+    "application_deadline": "January 17",
+    "university_admission_deadline": "January 17",
+    "document_submission_deadline": "January 24",
+    "recommendation_letters_deadline": "Not applicable",
+    "interview_period": "February (if conducted)",
+    "shortlist_announcement": "Late March - Early April",
+    "final_result_acceptance_deadline": "Mid-July",
+    "visa_application_window": "April - June",
+    "semester_commencement": "Late August / Early September",
+    "annual_cycle_notes": "Finland conducts a unified nationwide Joint Application period in January. Missing the mid-January deadline means waiting an entire year."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "60% (Undergraduate GPA and performance in prerequisite mathematical and technical courses)",
+    "extracurricular_and_leadership_weight": "5% (Extracurricular achievements and innovation contests)",
+    "research_experience_weight": "15% (Undergraduate final year project, publications, and technical depth)",
+    "work_experience_weight": "5% (Industry internships or engineering experience)",
+    "personal_statement_weight": "15% (Motivation letter quality and career goal clarity)",
+    "recommendations_weight": "0% (Not factored into composite score)",
+    "interview_weight": "0% (Document-based merit ranking)",
+    "test_scores_weight": "0% (Language proficiency fulfills qualification threshold)",
+    "financial_need_weight": "0% (Pure academic merit ranking)",
+    "selection_panel_composition": "Faculty of ITEE Academic Admissions Board at University of Oulu.",
+    "evaluation_methodology": "Point-based scoring rubric evaluating degree relevance, GPA percentile, and motivation letter quality."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,800 to 2,500 international applicants across ITEE Master's programmes",
+    "total_scholarships_awarded": "~150 to 200 full/partial tuition waivers and Finland Scholarships",
+    "acceptance_rate_global": "~8% to 12% for admission; ~4% to 6% for 100% full scholarship",
+    "acceptance_rate_pakistan": "~5% to 8% among applicants with strong CGPA (3.4+) in computing and telecom",
+    "typical_successful_applicant_gpa": "CGPA 3.40+ / 4.00 from top Pakistani engineering institutions (NUST, FAST, GIKI, UET Lahore, NED)",
+    "typical_academic_and_research_profile": "Electrical, telecom, or software engineers with strong calculus, linear algebra, and programming skills.",
+    "common_backgrounds_of_winners": "Graduates of top Pakistani computing, electrical, and telecommunication faculties.",
+    "high_representation_countries": "Pakistan, India, Bangladesh, Iran, China, Vietnam, Nigeria, Turkey.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of fraudulent consultancy firms claiming to guarantee Finnish student visas or scholarships.",
+      "Applications must be filed exclusively through opintopolku.fi (Studyinfo.fi)."
+    ],
+    "application_fee_warning": "Studyinfo.fi and University of Oulu do NOT charge application fees for degree programs.",
+    "agent_and_intermediary_warnings": "University of Oulu does not authorize agents to make admissions or scholarship decisions.",
+    "hidden_costs_breakdown": [
+      "Finnish Migri residence permit electronic fee: €350 (~PKR 105,000).",
+      "VFS Global Islamabad biometrics appointment: ~PKR 12,000.",
+      "Mandatory health insurance (Swisscare): ~€250 (~PKR 75,000).",
+      "IELTS/TOEFL exam fee: ~PKR 60,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You need to pay the first year tuition before getting the scholarship. Reality: The Finland Scholarship / Oulu waiver is awarded directly in the admission letter and credited upfront.",
+      "Myth: You cannot work in Finland during studies. Reality: International students in Finland have the legal right to work up to 30 hours per week during term time."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial agencies suggest spring application deadlines; the actual Finnish Joint Application window closes strictly in mid-January."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must complete at least 60 ECTS credits during the first academic year to renew the tuition fee waiver for the second year.",
+    "attendance_requirements": "Full-time campus study and registration in Oulu, Finland.",
+    "academic_progress_monitoring": "Annual transcript audit by the university registrar at the conclusion of spring semester.",
+    "work_restrictions_during_study": "Permitted to work up to 30 hours per week under Finnish immigration law.",
+    "home_country_return_obligation": "No return obligation; Finland grants a 2-year post-study job seeker residence permit upon graduation.",
+    "service_obligations_or_bonds": "Zero service bonds or repayment clauses.",
+    "repayment_clawback_conditions": "Scholarship is withdrawn if student drops out or fails to meet the 60 ECTS progress threshold.",
+    "rules_for_changing_university": "Non-transferable to other Finnish universities.",
+    "rules_for_changing_major": "Changing major requires a new application in the subsequent joint application round.",
+    "extension_policy": "Scholarship covers standard 2-year duration; third-year studies incur regular tuition fees unless special waiver granted."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Oulu Official Scholarships Portal",
+      "source_url": "https://www.oulu.fi/en/admissions/scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Studyinfo.fi Finnish National Higher Education Portal",
+      "source_url": "https://opintopolku.fi/konfo/en/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "6G Flagship Research Center Oulu",
+      "source_url": "https://www.oulu.fi/en/6g-flagship",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

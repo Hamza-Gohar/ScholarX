@@ -1,0 +1,285 @@
+{
+  "scholarship_id": "SCH-EU-086",
+  "basic_details": {
+    "scholarship_name": "Charles University Faculty of Mathematics and Physics Fellowship",
+    "offering_entity": "Charles University (Faculty of Mathematics and Physics - Matfyz)",
+    "host_country": "Czech Republic",
+    "host_institutions_covered": "Charles University (Malá Strana & Troja Campuses, Prague)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Master's and PhD programmes in Computer Science, Artificial Intelligence, Language Technologies & Computational Linguistics, Visual Computing, and Discrete Mathematics.",
+    "number_of_awards_total": "~10 to 15 prestigious full fellowships awarded annually across Matfyz computer science programmes",
+    "number_of_awards_pakistan": "Open globally to international students; typically 2 to 4 Pakistani scholars selected per academic year",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "24 months for Master's; up to 48 months for PhD"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international students of all nationalities, including citizens of Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction under Czech higher education law.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (for Master's) or 18-year Master's degree (for PhD) in Computer Science, Mathematics, or Software Engineering with strong academic standing (minimum CGPA 3.30 / 4.00 or 75%+).",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Minimum CGPA 3.30 / 4.00; competitive candidates typically hold CGPA >= 3.60 / 4.00.",
+    "subject_background_prerequisites": "Rigorous undergraduate coursework in discrete mathematics, algorithms, data structures, linear algebra, and programming.",
+    "current_education_status": "Graduated or enrolled in final semester graduating prior to September 30 of intake year.",
+    "graduation_year_restrictions": "No restriction on year of graduation.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Software development projects, GitHub repositories, competitive programming (ICPC), or research publications enhance ranking.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 85,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic 6.5+, TOEFL iBT 85+, Cambridge B2/C1, or official university MOI certificate confirming undergraduate studies were in English.",
+    "other_language_requirements": "Czech language proficiency is not required; English-medium programmes are conducted 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Awarded purely on academic excellence and entrance examination / portfolio assessment.",
+    "previous_scholarship_restrictions": "Cannot hold another parallel Czech government or university full scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for the English-taught degree program (worth CZK 140,000 / ~EUR 5,600 per year).",
+      "amount": "100% Tuition Waiver (CZK 140,000/yr value)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Online application fee of CZK 910 (~EUR 36 / ~PKR 11,000) payable via Charles University admissions system.",
+      "amount": "CZK 910 application fee"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized accommodation in Charles University student dormitories (Koleje) across Prague (approx. CZK 4,500 to 6,500 / month).",
+      "amount": "Subsidized student dormitories in Prague"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "CZK 25,000 / month living stipend (~EUR 1,000 / month | ~PKR 305,000 / month) disbursed monthly throughout the academic year.",
+      "amount": "CZK 25,000 / month (~PKR 305,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel between Pakistan and Prague is self-funded.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Czech Long-term Visa for the purpose of study fee (~CZK 2,500) paid at Czech Embassy in Islamabad.",
+      "amount": "CZK 2,500 visa fee borne by candidate"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Czech comprehensive health insurance (PVZP) covered or subsidized for fellowship recipients.",
+      "amount": "Comprehensive Czech healthcare covered"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized student dining halls (Menza) across Prague offering meals at approximately CZK 70 to 100 per meal.",
+      "amount": "Subsidized campus Menza dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full digital access to Matfyz library, IEEE, ACM Digital Library, and GPU computing clusters.",
+      "amount": "Full university library and GPU access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Master's and PhD research grants funded through the Charles University Grant Agency (GAUK).",
+      "amount": "GAUK research grant access"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized Prague Integrated Transport (PID) student transit pass (~CZK 130 / ~EUR 5 per month).",
+      "amount": "Subsidized Prague public transit pass"
+    },
+    "total_estimated_value_usd_per_year": 20000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Charles University - Faculty of Mathematics and Physics, Prague, Czech Republic).",
+    "participating_institutions": [
+      "Charles University - Faculty of Mathematics and Physics (Matfyz)"
+    ],
+    "university_rankings_scope": "Oldest university in Central Europe (founded 1348); world top 100 in Mathematics and Computer Science.",
+    "available_majors": [
+      "MSc / PhD in Computer Science - Artificial Intelligence",
+      "MSc / PhD in Computer Science - Language Technologies and Computational Linguistics",
+      "MSc / PhD in Computer Science - Visual Computing and Game Development",
+      "MSc / PhD in Computer Science - Software and Data Engineering",
+      "MSc / PhD in Discrete Mathematics and Theoretical Computer Science"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years (120 ECTS); PhD: 4 years (240 ECTS)",
+    "admission_requirements_summary": "Bachelor's degree in Computer Science/Math (CGPA >= 3.30/4.00), transcripts, CV, motivation letter, two recommendation letters, and passing entrance test or test waiver based on GRE/academic excellence.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Single integrated application; entrance examination waiver granted to applicants with high GPAs or strong GRE scores.",
+    "strategic_program_match_advice": "Highlight theoretical mathematics and algorithm design capabilities; Matfyz has a world-class reputation in computational linguistics and theoretical computer science."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://is.cuni.cz/prihlaska/",
+    "portal_system_name": "Charles University Student Information System (SIS / Prihlaska)",
+    "account_creation_instructions": "Register on the Charles University SIS portal, select Faculty of Mathematics and Physics (Matfyz), choose English master's or PhD programme, upload required documents, tick scholarship consideration, and pay CZK 910 fee before February 28.",
+    "step_by_step_workflow": [
+      "Step 1: Check programme curricula and admission guidelines on mff.cuni.cz/en/admissions.",
+      "Step 2: Prepare certified academic transcripts, degree certificate, CV, motivation letter, and two referee contacts.",
+      "Step 3: Register on Charles University online application portal (SIS).",
+      "Step 4: Upload all application documents and apply for an Entrance Examination Waiver based on academic merit before February 28.",
+      "Step 5: Pay the CZK 910 application fee online.",
+      "Step 6: Matfyz Admissions Committee evaluates applications and awards fellowships to top-ranked candidates.",
+      "Step 7: Fellowship and admission award notifications issued in April.",
+      "Step 8: Complete Czech nostrification / degree recognition and apply for Czech student visa."
+    ],
+    "university_vs_scholarship_routing": "Integrated Routing: Admission application automatically considers eligible candidates for the Faculty of Mathematics and Physics Fellowship.",
+    "recommendation_letters_submission_method": "Uploaded directly by applicant or submitted by referees via email/upload link.",
+    "personal_statement_prompts": "Statement of purpose outlining academic achievements, computer science interests, and career ambitions.",
+    "study_plan_research_proposal_requirements": "PhD applicants submit a 3 to 5-page research proposal discussing intended thesis topic.",
+    "cv_format_requirements": "Standard academic CV detailing education, programming projects, and algorithmic background.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview for PhD candidates or master's applicants requiring oral evaluation.",
+    "standardized_tests": "IELTS 6.5+ or TOEFL 85+ / MOI certificate accepted; GRE General Test optional but grants entrance exam waiver.",
+    "application_fee_amount": "CZK 910 (~EUR 36 / ~PKR 11,000 non-refundable application fee)",
+    "attestation_requirements": "Nostrification (degree recognition) required by Charles University before enrollment.",
+    "translation_requirements": "Certified English or Czech translation.",
+    "final_submission_method": "Online submission via Charles University SIS portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor's or Master's Degree Certificate",
+      "mandatory": true,
+      "specification": "HEC-attested degree in Computer Science, Software Engineering, or Mathematics.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts of undergraduate and postgraduate records with marks and credit hours.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Academic CV detailing programming languages, software projects, and algorithmic skills.",
+      "pakistan_specific_instruction": "Standard layout."
+    },
+    {
+      "document_name": "Letter of Motivation",
+      "mandatory": true,
+      "specification": "Statement detailing interest in Matfyz computer science programmes and career aspirations.",
+      "pakistan_specific_instruction": "Clear focus on computer science."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Recommendation letters from university professors assessing intellectual ability.",
+      "pakistan_specific_instruction": "On official institutional letterhead."
+    },
+    {
+      "document_name": "English Proficiency Certificate",
+      "mandatory": true,
+      "specification": "Official IELTS (min 6.5), TOEFL (min 85), or university MOI certificate.",
+      "pakistan_specific_instruction": "MOI certificate acceptable."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Clear color copy of valid Pakistani passport.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-11-01",
+    "application_deadline": "2027-02-28",
+    "university_admission_deadline": "2027-02-28",
+    "document_submission_deadline": "2027-02-28",
+    "recommendation_letters_deadline": "2027-03-15",
+    "interview_period": "March to April 2027",
+    "shortlist_announcement": "Late April 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "2027-10-01",
+    "annual_cycle_notes": "Main international round closes February 28; academic year starts on October 1."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "50% (Undergraduate CGPA and mathematical/computing course performance)",
+    "extracurricular_and_leadership_weight": "5% (Competitive programming, ICPC participation, hackathons)",
+    "research_experience_weight": "20% (Quality of final year project, coding projects, or research publications)",
+    "work_experience_weight": "5% (Software development internships or industry experience)",
+    "personal_statement_weight": "10% (Motivation letter clarity and alignment with Matfyz specialties)",
+    "recommendations_weight": "5% (Academic referee appraisals)",
+    "interview_weight": "5% (Entrance examination or oral technical discussion)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure academic excellence evaluation)",
+    "selection_panel_composition": "Faculty of Mathematics and Physics Admissions Committee and Computer Science Department Board.",
+    "evaluation_methodology": "Faculty review committee rates applicants on GPA, curricular prerequisites, motivation, and references."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~600 to 900 international candidates for Matfyz English programmes",
+    "total_scholarships_awarded": "~10 to 15 full fellowships awarded annually",
+    "acceptance_rate_global": "~5.5%",
+    "acceptance_rate_pakistan": "~6% to 8% among qualified computer science graduates",
+    "typical_successful_applicant_gpa": "3.65 / 4.00 with strong mathematical coursework",
+    "typical_academic_and_research_profile": "Graduates in computer science or software engineering with solid theoretical knowledge in algorithms and discrete math.",
+    "common_backgrounds_of_winners": "Graduates from NUST, FAST-NUCES, COMSATS, and UET Lahore.",
+    "high_representation_countries": "Czech Republic, Pakistan, India, Turkey, Russia, Iran, Vietnam.",
+    "competitiveness_tier": "MODERATE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official Charles University portal https://is.cuni.cz/prihlaska/ and mff.cuni.cz.",
+      "Beware of consultancies charging exorbitant fees for Czech admissions."
+    ],
+    "application_fee_warning": "Official application fee is CZK 910 (~EUR 36) payable directly to the university.",
+    "agent_and_intermediary_warnings": "Charles University does not partner with recruitment agencies for fellowship distribution.",
+    "hidden_costs_breakdown": [
+      "Application fee: CZK 910 (~PKR 11,000).",
+      "Czech Student Visa fee: ~CZK 2,500 (~PKR 31,000).",
+      "Czech nostrification (degree recognition) fee: ~CZK 3,000 (~PKR 37,000).",
+      "Flight from Pakistan to Prague: ~PKR 150,000 to 220,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Knowledge of Czech language is mandatory. Reality: All coursework, examinations, and thesis defenses in English programmes are conducted 100% in English.",
+      "Myth: Living in Prague is very expensive. Reality: Prague is among the most affordable European student capitals with heavily subsidized transit and dorms."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sources claim IELTS is strictly mandatory; Matfyz officially accepts university MOI certificates from recognized institutions."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must earn at least 50 ECTS credits per academic year and maintain good academic standing.",
+    "attendance_requirements": "Mandatory attendance in lectures, practicals, and examination sessions.",
+    "academic_progress_monitoring": "End of semester examination reviews by Departmental Study Advisors.",
+    "work_restrictions_during_study": "International students in the Czech Republic holding a student visa have free access to the labor market and may work part-time without a work permit.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Termination of fellowship if scholar ceases enrollment or fails minimum credit thresholds.",
+    "rules_for_changing_university": "Non-transferable to other Czech universities.",
+    "rules_for_changing_major": "Subject change allowed within Matfyz computer science tracks with dean's approval.",
+    "extension_policy": "Duration is 24 months for Master's and up to 48 months for PhD."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Charles University Matfyz Scholarships Portal",
+      "source_url": "https://www.mff.cuni.cz/en/admissions/scholarships",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Charles University Admissions System",
+      "source_url": "https://is.cuni.cz/prihlaska/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "scholarship_id": "SCH-OC-001",
+  "basic_details": {
+    "scholarship_name": "Australia Awards Scholarships (Pakistan Category)",
+    "offering_entity": "Department of Foreign Affairs and Trade (DFAT), Australian Government",
+    "host_country": "Australia",
+    "host_institutions_covered": "Participating Australian Higher Education Institutions (Group of Eight: University of Melbourne, ANU, University of Sydney, UNSW, University of Queensland, Monash, Adelaide, UWA)",
+    "degree_levels": [
+      "Master's"
+    ],
+    "major_restrictions": "Master's by Coursework or Master's by Research in designated priority development sectors for Pakistan: 1) Climate Change, Clean Energy & Water Resource Management, 2) Agriculture & Food Security, 3) Global Health & Pandemic Preparedness, 4) Gender Equality, Disability & Social Inclusion, 5) Governance & Public Policy.",
+    "number_of_awards_total": "~1,000 awards across Indo-Pacific developing nations annually",
+    "number_of_awards_pakistan": "~15 to 25 targeted awards for Pakistan per intake",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years (standard Australian Master's degree duration)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of Pakistan residing in and applying from Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "Minimum 18 years old at commencement; no upper age limit.",
+    "academic_qualifications": "Completed 16 years of formal education (4-year Bachelor's degree or equivalent) from an HEC-recognized university.",
+    "minimum_gpa_percentage": 65.0,
+    "minimum_gpa_scale": 2.8,
+    "grading_conversion_notes": "Minimum 2.8/4.0 CGPA or 65% marks; candidates must satisfy individual Australian university entry standards.",
+    "subject_background_prerequisites": "Academic and professional background directly aligned with Pakistan priority development sectors.",
+    "current_education_status": "Completed degree; not currently serving military personnel.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": true,
+    "work_experience_minimum_years": 2.0,
+    "work_experience_notes": "MANDATORY REQUIREMENT: Minimum 2 years of relevant professional work experience in Pakistan in an area aligned with Australia Awards priority sectors.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 84,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic overall minimum 6.5 (no band less than 6.0), TOEFL iBT minimum 84 (no subscore below 21), or PTE Academic minimum 58. (Applicants with disability: minimum IELTS 6.0 / PTE 50).",
+    "other_language_requirements": "None.",
+    "gender_specific_requirements": "Equal opportunity; 50% target for women scholars; individuals with disabilities and candidates from marginalized regions strongly encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants holding Australian permanent residency, dual Australian citizenship, or who are engaged/married to someone holding Australian PR are strictly ineligible.",
+    "previous_scholarship_restrictions": "Recipients of previous long-term Australian government scholarships must have resided outside Australia for twice the length of the previous grant.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full tuition fees for the approved course of study."
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Covered via DFAT institutional placement agreements."
+    },
+    "accommodation": {
+      "status": "MONTHLY ALLOWANCE",
+      "details": "Covered via fortnightly Contribution to Living Expenses (CLE)."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Contribution to Living Expenses (CLE) paid fortnightly directly into Australian bank account.",
+      "amount": "AUD 30,000 to 35,000 / year (~AUD 2,700 / month or ~PKR 500,000 to 550,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Single return economy class airfare to and from Australia via the most direct route."
+    },
+    "visa_fee": {
+      "status": "WAIVED",
+      "details": "Student visa (subclass 500) application charge waived for Australia Awards recipients."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Overseas Student Health Cover (OSHC) for the duration of the scholarship covering basic medical and hospital care in Australia."
+    },
+    "food_allowance": {
+      "status": "INCLUDED IN STIPEND",
+      "details": "Covered via the living stipend."
+    },
+    "books_and_materials_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Covered via establishment allowance and living allowance."
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Fieldwork travel grant available for Master's by Research candidates where research in Pakistan is mandatory."
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Establishment allowance of AUD 5,000 one-off payment on arrival towards accommodation, textbooks, and study materials.",
+      "amount": "AUD 5,000 one-off"
+    },
+    "total_estimated_value_usd_per_year": 58000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Applicants may select up to TWO course preferences at Australian participating institutions on their OASIS application.",
+    "participating_institutions": [
+      "University of Melbourne, Australian National University (ANU), University of Sydney, UNSW Sydney, University of Queensland (UQ), Monash University, University of Adelaide, University of Western Australia (UWA)"
+    ],
+    "university_rankings_scope": "Group of Eight (Go8) and leading Australian research universities (QS World Top 20 to 150).",
+    "available_majors": [
+      "Climate Change Adaptation",
+      "Water Resources Management",
+      "Agricultural Sciences",
+      "Public Health",
+      "Renewable Energy Policy",
+      "Economics",
+      "Development Practice",
+      "Public Policy"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Up to 2 years (full-time Master's)",
+    "admission_requirements_summary": "Bachelor's degree, 2+ years work experience, IELTS 6.5+, Development Impact Plan (Re-entry plan), 2 referee reports.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Applicants do not need to apply to Australian universities separately; DFAT places selected scholars into their approved university choices.",
+    "strategic_program_match_advice": "The Development Impact Plan is the linchpin: show specifically how the Australian course will enable you to solve an identified problem in Pakistan's water, climate, or public health sector."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships",
+    "portal_system_name": "Online Australia Awards Scholarships Information System (OASIS)",
+    "account_creation_instructions": "Register on OASIS portal between February 1 and April 30; select Pakistan country profile.",
+    "step_by_step_workflow": [
+      "1. Register on OASIS online portal (opens February 1).",
+      "2. Complete application form and select up to 2 Australian university courses.",
+      "3. Write Development Impact Plan (Re-entry plan): Explain what practical project you will implement in Pakistan upon return.",
+      "4. Upload degree certificates, transcripts, proof of 2 years work experience, and valid IELTS/TOEFL report.",
+      "5. Upload 2 referee reports (1 academic, 1 professional) on official DFAT templates.",
+      "6. Submit online application before April 30 deadline.",
+      "7. Initial eligibility and compliance screening by Australia Awards Pakistan team.",
+      "8. Shortlisted candidates invited for in-person panel interview in Islamabad (July - August).",
+      "9. Provisional selection announced (September).",
+      "10. Complete pre-departure training and Australian visa processing (subclass 500) (October - December).",
+      "11. Depart for Australia for Introductory Academic Program (January/February)."
+    ],
+    "university_vs_scholarship_routing": "Integrated OASIS routing: DFAT handles university placement on behalf of selected finalists.",
+    "recommendation_letters_submission_method": "Submitted using prescribed Australia Awards Referee Report templates on official letterhead.",
+    "personal_statement_prompts": "Development Impact Plan (DIP): Identify development constraint in Pakistan, describe specific project to solve it, and map how skills gained in Australia will be implemented.",
+    "study_plan_research_proposal_requirements": "Research proposal mandatory for Master's by Research candidates.",
+    "cv_format_requirements": "Standard professional CV detailing employment history.",
+    "interviews_conducted": true,
+    "interview_format_details": "Rigorous in-person panel interview in Islamabad conducted by Australian diplomats and Pakistani development specialists.",
+    "standardized_tests": "IELTS Academic (6.5), TOEFL iBT (84), or PTE Academic (58) mandatory at submission.",
+    "application_fee_amount": "AUD 0 / PKR 0 (100% FREE application).",
+    "attestation_requirements": "Certified copies of academic transcripts and degrees.",
+    "translation_requirements": "Certified English translations for any non-English records.",
+    "final_submission_method": "100% online portal submission on OASIS."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Pakistani Passport Information Page",
+      "mandatory": true,
+      "specification": "Valid for at least 2 years beyond departure date",
+      "pakistan_specific_instruction": "Proof of Pakistani citizenship and residency"
+    },
+    {
+      "document_name": "Certified Degree Certificates & Transcripts",
+      "mandatory": true,
+      "specification": "Complete university records showing grades and subjects",
+      "pakistan_specific_instruction": "HEC recognized 16-year degree"
+    },
+    {
+      "document_name": "Proof of 2 Years Professional Work Experience",
+      "mandatory": true,
+      "specification": "Employment letters on company letterhead confirming dates and responsibilities",
+      "pakistan_specific_instruction": "Must demonstrate 2+ full years of post-graduation work in Pakistan"
+    },
+    {
+      "document_name": "Valid English Language Test Score Report",
+      "mandatory": true,
+      "specification": "IELTS Academic (6.5), TOEFL iBT (84), or PTE (58)",
+      "pakistan_specific_instruction": "Must be valid at the time of application submission"
+    },
+    {
+      "document_name": "Two Australia Awards Referee Reports",
+      "mandatory": true,
+      "specification": "Completed on official prescribed DFAT templates with signatures and stamps",
+      "pakistan_specific_instruction": "One academic and one professional supervisor"
+    },
+    {
+      "document_name": "Development Impact Plan (DIP)",
+      "mandatory": true,
+      "specification": "Detailed reform plan to be implemented in Pakistan upon return",
+      "pakistan_specific_instruction": "Central scoring document for interview panel"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "February 1 annually (e.g., 2026-02-01)",
+    "application_deadline": "April 30 annually (e.g., 2026-04-30 at 23:59 AEST)",
+    "university_admission_deadline": "Handled internally by DFAT (September - November)",
+    "document_submission_deadline": "April 30 annually",
+    "recommendation_letters_deadline": "April 30 annually",
+    "interview_period": "July - August annually in Islamabad",
+    "shortlist_announcement": "September annually",
+    "final_result_acceptance_deadline": "October annually",
+    "visa_application_window": "November - December (Subclass 500 visa)",
+    "semester_commencement": "January / February of departure year",
+    "annual_cycle_notes": "Very strict 2-year post-study return requirement enforced under Australian immigration law."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "25% (Academic competence and capability to complete Master's)",
+    "extracurricular_and_leadership_weight": "15% (Leadership potential and professional influence in Pakistan)",
+    "research_experience_weight": "10% (Technical background in priority sector)",
+    "work_experience_weight": "20% (Substantive professional track record in development)",
+    "personal_statement_weight": "15% (Strength and realism of the Development Impact Plan)",
+    "recommendations_weight": "5% (Employer endorsement)",
+    "interview_weight": "10% (Interview performance assessing strategic vision for Pakistan)",
+    "test_scores_weight": "Gatekeeper requirement (minimum IELTS 6.5 cutoff)",
+    "financial_need_weight": "0% (Merit and development impact focus)",
+    "selection_panel_composition": "Joint selection panel of Australian DFAT officials and independent Pakistani development specialists.",
+    "evaluation_methodology": "Two-phase review: Dossier assessment scoring academic competence and Development Impact Plan, followed by interview."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,500 professional applicants in Pakistan",
+    "total_scholarships_awarded": "~15 to 25 scholars selected annually",
+    "acceptance_rate_global": "N/A (Pakistan-specific allocation)",
+    "acceptance_rate_pakistan": "~1.0% (Extremely Competitive)",
+    "typical_successful_applicant_gpa": "3.30 to 3.80 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Mid-career professional with 3-7 years experience in government ministries, NGOs, research councils, or climate policy organizations.",
+    "common_backgrounds_of_winners": "Engineers from water/energy utilities, environmental protection agency officials, public health managers, provincial planning departments, agriculture specialists.",
+    "high_representation_countries": "Reserved exclusively for Pakistan.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Immigration agents claiming they can use Australia Awards as a pathway to Australian permanent residency. Australia Awards explicitly FORBIDS applying for Australian PR for 2 years post-graduation.",
+      "Unofficial websites charging fees to review OASIS applications."
+    ],
+    "application_fee_warning": "OASIS application is 100% FREE.",
+    "agent_and_intermediary_warnings": "Never hire an agent; DFAT conducts strict identity and employment background checks.",
+    "hidden_costs_breakdown": [
+      "IELTS Academic test registration fee (~PKR 60,000).",
+      "Travel to Islamabad for in-person interview.",
+      "Medical examinations and chest X-rays at panel clinics prior to Australian visa grant."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can stay in Australia on a Temporary Graduate Visa (subclass 485). (Fact: Australia Awards recipients are legally barred under condition 8535 from applying for any Australian substantive visa until they have lived outside Australia for 2 years).",
+      "MYTH: Recent graduates without work experience can apply. (Fact: Minimum 2 years of work experience is an absolute eligibility requirement)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party blogs often claim Duolingo is accepted; DFAT strictly accepts only IELTS, TOEFL iBT, and PTE Academic."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic progress as defined by the Australian university.",
+    "attendance_requirements": "Full-time study attendance in Australia.",
+    "academic_progress_monitoring": "Termly reports submitted by university Australia Awards liaison officers to DFAT.",
+    "work_restrictions_during_study": "Scholars may work up to 48 hours per fortnight during study terms, but heavy employment is discouraged.",
+    "home_country_return_obligation": "MANDATORY 2-Year Return: Scholars must leave Australia and return to Pakistan for a minimum of TWO cumulative years immediately upon completing their scholarship.",
+    "service_obligations_or_bonds": "Contractual agreement with Australian Government; breach triggers full scholarship debt clawback.",
+    "repayment_clawback_conditions": "Scholars who refuse to return to Pakistan, drop out, or fail to complete their course must repay the entire cost of the scholarship (typically AUD 120,000+).",
+    "rules_for_changing_university": "Strictly disallowed.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "Extensions are strictly forbidden under DFAT scholarship policy."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Australian Department of Foreign Affairs and Trade (DFAT) - Australia Awards Pakistan Profile",
+      "source_url": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact statistical ratio of public sector vs private/NGO sector candidate selections in Pakistan",
+        "Individual interview panel scores"
+      ]
+    }
+  ]
+}

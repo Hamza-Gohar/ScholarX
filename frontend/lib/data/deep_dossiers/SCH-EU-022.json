@@ -1,0 +1,273 @@
+{
+  "scholarship_id": "SCH-EU-022",
+  "basic_details": {
+    "scholarship_name": "Government of Ireland International Education Scholarship (GOI-IES)",
+    "offering_entity": "Government of Ireland & Higher Education Authority (HEA)",
+    "host_country": "Ireland",
+    "host_institutions_covered": "All participating Irish Higher Education Institutions (Trinity College Dublin, University College Dublin, University of Galway, University College Cork, Dublin City University, University of Limerick, Maynooth University)",
+    "degree_levels": [
+      "Master's (Taught or Research)",
+      "Final Year of PhD"
+    ],
+    "major_restrictions": "Open to all disciplines across Science, Engineering, Medicine, Humanities, Social Sciences, Business, and Law offered at participating Irish universities.",
+    "number_of_awards_total": "60 prestigious scholarships awarded annually across non-EU/EEA countries",
+    "number_of_awards_pakistan": "Open to Pakistan as an eligible non-EU state (~4 to 8 Pakistani scholars selected annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "1 full academic year of study (12 months)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of non-EU/EEA countries (Pakistani citizens eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limits.",
+    "academic_qualifications": "Completed 16 years of education (Bachelor's degree) with first-class honours standing (or equivalent) for Master's applicants.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Minimum equivalent to Irish First Class Honours (1st) or Upper Second Class (2:1), equivalent to 3.30+ / 4.00 CGPA or 75%+ marks.",
+    "subject_background_prerequisites": "Academic background matching the chosen Irish Master's or PhD programme.",
+    "current_education_status": "Must hold an offer (conditional or unconditional) of admission to a full-time master's program at an eligible Irish HEI.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Academic excellence, leadership potential, and societal impact evaluated.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 90,
+      "duolingo_accepted": true,
+      "moi_certificate_accepted": false,
+      "notes": "Must satisfy the language entry requirement of the host Irish university (typically IELTS 6.5 with no band below 6.0, TOEFL 90, or Duolingo 120)."
+    },
+    "other_language_requirements": "None; all programs in English.",
+    "gender_specific_requirements": "Equal opportunity; diversity encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must possess an active university application or admission offer from an Irish HEI before applying.",
+    "previous_scholarship_restrictions": "Ineligible if previously awarded a GOI-IES scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full tuition fee waiver and student registration charge waived by the host Irish higher education institution.",
+      "amount": "€14,000 to €26,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Irish university admission application fee (~€50) paid by candidate.",
+      "amount": "€50"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered through living allowance.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "€10,000 living stipend paid in two equal installments (€5,000 per semester) via host university.",
+      "amount": "€10,000 for the study year (~€833 / month or ~PKR 250,000 / month)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel paid by candidate from living stipend or personal funds.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Irish student visa fee (€60 to €100) and Irish Residence Permit (IRP) card fee (€300) paid by student.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "NOT_COVERED",
+      "details": "Private medical insurance required for Irish visa (~€160/year) paid by student.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Covered via living allowance.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Host university research funds accessible for research master's and PhD.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Covered from personal funds.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 30000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: Any eligible Irish university or Institute of Technology.",
+    "participating_institutions": [
+      "Trinity College Dublin (TCD)",
+      "University College Dublin (UCD)",
+      "University of Galway",
+      "University College Cork (UCC)",
+      "Dublin City University (DCU)",
+      "University of Limerick (UL)",
+      "Maynooth University",
+      "Technological University Dublin (TU Dublin)"
+    ],
+    "university_rankings_scope": "Top Irish universities ranked in QS World Top 300.",
+    "available_majors": [
+      "Computer Science, Artificial Intelligence, Data Analytics, Electronic & Computer Engineering, Biomedical Engineering, Pharmaceutical Sciences, Public Health, Environmental Science, Finance, International Management, Law, International Relations"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 academic year (covering 1-year Master's or final year of PhD)",
+    "admission_requirements_summary": "Must secure an offer of admission from an eligible Irish HEI first; then apply for GOI-IES scholarship referencing that offer.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Trinity College Dublin and UCD are most competitive; regional universities like Galway and Limerick offer high award conversion.",
+    "strategic_program_match_advice": "Focus heavily on how Ireland's global technological hub ecosystem (EMEA headquarters of Google, Meta, Pfizer) connects with your career vision."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://hea.ie/policy/internationalisation/goi-ies/",
+    "portal_system_name": "Higher Education Authority (HEA) Online Scholarship Portal",
+    "account_creation_instructions": "Register on the official HEA application system, select your nominating Irish university, and enter admission application reference number.",
+    "step_by_step_workflow": [
+      "1. Apply for admission to an eligible Master's program at an Irish university by December/January.",
+      "2. Receive admission offer (conditional or unconditional) from the Irish university.",
+      "3. Create account on the HEA GOI-IES portal (Opens January/February).",
+      "4. Answer 3 detailed essay questions on academic achievements, career potential, and ambassadorial contribution.",
+      "5. Upload academic transcripts and two reference letters.",
+      "6. Submit online application by the annual deadline (typically mid-March).",
+      "7. Independent assessment panel evaluates applications in April.",
+      "8. Results announced in late May/early June; visa application begins."
+    ],
+    "university_vs_scholarship_routing": "Sequential: University admission application first; then central HEA scholarship application.",
+    "recommendation_letters_submission_method": "Uploaded directly by candidate during portal application.",
+    "personal_statement_prompts": "Address your academic excellence, how the scholarship connects to long-term career goals, and how you will act as an ambassador for Ireland.",
+    "study_plan_research_proposal_requirements": "Integrated into essay questions; clear rationale for chosen program of study in Ireland.",
+    "cv_format_requirements": "Standard academic and professional resume (1-2 pages).",
+    "interviews_conducted": false,
+    "interview_format_details": "No interviews; decisions based entirely on evaluation of written essays and academic dossier.",
+    "standardized_tests": "English test (IELTS 6.5+, TOEFL 90+, or Duolingo 120+).",
+    "application_fee_amount": "$0 for GOI-IES; university admission application fee (~€50) applies.",
+    "attestation_requirements": "Transcripts certified by Pakistani degree institution; HEC attestation required for visa.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "100% Online via HEA portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Admission Offer Letter from Irish University",
+      "mandatory": true,
+      "specification": "Official conditional or unconditional offer letter from an eligible Irish HEI",
+      "pakistan_specific_instruction": "Must specify 2027/2028 academic intake"
+    },
+    {
+      "document_name": "Academic Transcripts & Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts showing all subjects, grades, and GPA",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Academic or professional references speaking to applicant's potential",
+      "pakistan_specific_instruction": "On official letterhead, signed and stamped"
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "1-2 page CV detailing education and achievements",
+      "pakistan_specific_instruction": "Chronological format"
+    },
+    {
+      "document_name": "English Language Test Score",
+      "mandatory": true,
+      "specification": "IELTS Academic (6.5+) or TOEFL iBT (90+) or DET (120+)",
+      "pakistan_specific_instruction": "Satisfying Irish university offer condition"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2027-01-20",
+    "application_deadline": "2027-03-13",
+    "university_admission_deadline": "2027-02-15",
+    "document_submission_deadline": "2027-03-13",
+    "recommendation_letters_deadline": "2027-03-13",
+    "interview_period": "N/A (No interview)",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-06-15",
+    "visa_application_window": "June to August 2027",
+    "semester_commencement": "September 2027",
+    "annual_cycle_notes": "Application window opens late January and closes strictly in mid-March each year. Results announced late May."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Academic qualifications, achievements, and work experience)",
+    "extracurricular_and_leadership_weight": "15% (Leadership track record and extracurricular engagement)",
+    "research_experience_weight": "10% (Analytical ability and project work)",
+    "work_experience_weight": "5% (Professional experience)",
+    "personal_statement_weight": "25% (Quality of the three essay responses, career vision, ambassadorial potential)",
+    "recommendations_weight": "5% (Strength of referee letters)",
+    "interview_weight": "0%",
+    "test_scores_weight": "Threshold required",
+    "financial_need_weight": "0% (Strictly merit and ambassadorial potential)",
+    "selection_panel_composition": "Independent assessment panel appointed by the Higher Education Authority (HEA) of Ireland.",
+    "evaluation_methodology": "Competitive marking out of 100 points: Academic record (40 pts), Personal statement & career vision (45 pts), References (15 pts)."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~5,000+ applicants globally from non-EU/EEA countries",
+    "total_scholarships_awarded": "60 scholarships awarded annually globally",
+    "acceptance_rate_global": "~1.2%",
+    "acceptance_rate_pakistan": "~1% to 1.5% (Extremely Competitive)",
+    "typical_successful_applicant_gpa": "3.60 to 3.95 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "High-performing graduates with top grades, compelling essays on how they will bridge Ireland-Pakistan bilateral ties, and clear professional roadmaps.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani universities (LUMS, NUST, FAST, IBA, Punjab University) enrolling in tech, data science, and business master's programs.",
+    "high_representation_countries": "India, Pakistan, Nigeria, USA, China, Brazil, Canada.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unauthorized websites charging fees for GOI-IES application submission."
+    ],
+    "application_fee_warning": "The GOI-IES application on the HEA portal is 100% FREE.",
+    "agent_and_intermediary_warnings": "Never pay agents to write your essay questions; HEA evaluates authenticity and personal voice.",
+    "hidden_costs_breakdown": [
+      "Irish student visa fee (~€60 to €100).",
+      "Irish Residence Permit (IRP) card registration fee in Ireland (€300).",
+      "Private medical insurance policy (~€160).",
+      "International flight ticket to Dublin (~PKR 220,000 to 320,000)."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can apply without an Irish university offer. (Fact: You MUST have applied to an Irish university and received an application number or offer to submit the GOI-IES application).",
+      "MYTH: You cannot work in Ireland after graduation. (Fact: Graduates of Irish Master's programs are eligible for the 2-year Third Level Graduate Scheme (stay-back visa) to work in Ireland)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some websites advertise this as a €15,000 award; the official stipend is €10,000 direct plus 100% full tuition fee waiver."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic performance and pass all coursework modules (60-90 ECTS).",
+    "attendance_requirements": "Full-time physical residence and attendance at host Irish institution.",
+    "academic_progress_monitoring": "Host universities submit progress reports to the Higher Education Authority.",
+    "work_restrictions_during_study": "Permitted to work up to 20 hours/week during term-time and 40 hours/week during holidays under Irish student Stamp 2 visa rules.",
+    "home_country_return_obligation": "None; scholars are fully eligible for the Irish 2-year Third Level Graduate Scheme (Stamp 1G) post-study work visa.",
+    "service_obligations_or_bonds": "Obligated to act as a student ambassador for Ireland and participate in HEA promotional activities.",
+    "repayment_clawback_conditions": "Failing modules or misconduct leads to cancellation of remaining stipend payments.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "Strictly limited to one academic year; no extensions permitted."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Higher Education Authority (HEA) Ireland - GOI-IES Official Portal",
+      "source_url": "https://hea.ie/policy/internationalisation/goi-ies/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Country-specific target quotas among the 60 total international awards",
+        "Independent assessment panel scoring mark sheets"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "scholarship_id": "SCH-EU-103",
+  "basic_details": {
+    "scholarship_name": "Geneva Academy Scholarships in International Humanitarian Law & Human Rights",
+    "offering_entity": "Geneva Academy of International Humanitarian Law and Human Rights (Joint Center of the University of Geneva & Geneva Graduate Institute - IHEID)",
+    "host_country": "Switzerland",
+    "host_institutions_covered": "Geneva Academy of International Humanitarian Law and Human Rights (Villa Moynier, Geneva, Switzerland)",
+    "degree_levels": [
+      "Master of Laws (LL.M.)",
+      "Master of Advanced Studies (MAS)"
+    ],
+    "major_restrictions": "LL.M. in International Humanitarian Law and Human Rights (LL.M. IHL) and Master of Advanced Studies in Transitional Justice, Human Rights and the Rule of Law (MTJ).",
+    "number_of_awards_total": "~15 to 20 full and partial scholarships awarded annually across both Master's programmes",
+    "number_of_awards_pakistan": "Open international competition with focus on candidates from developing and conflict-affected nations; typically 1 to 2 Pakistani legal scholars/advocates selected per intake",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "10 months (full academic year from September to June covering the 1-year intensive Master's degree)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international legal graduates and human rights advocates worldwide, with strong priority for candidates from non-Western/developing countries including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "No rigid age ceiling; targeted at young legal practitioners, judicial officers, and civil society advocates under 40.",
+    "academic_qualifications": "Full degree in law (LLB, BA-LLB 5-year, or equivalent recognized law degree) or another degree with significant legal coursework, from an HEC/Pakistan Bar Council-recognized university with high academic distinction (minimum CGPA 3.30 / 4.00 or 75%+).",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Minimum CGPA 3.30 / 4.00; competitive legal candidates typically hold CGPA >= 3.60 / 4.00 or rank in the top 10% of their law school class.",
+    "subject_background_prerequisites": "Recognized law degree (LLB) with solid background in public international law, constitutional law, human rights, or criminal law.",
+    "current_education_status": "Graduated with full primary law degree prior to commencement in September.",
+    "graduation_year_restrictions": "No restriction on graduation year.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Practical experience in legal advocacy, judicial clerkships, human rights NGOs, ICRC/Red Crescent work, or moot court competitions is highly valued.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 100,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 7.0 (with no band below 6.5) or TOEFL iBT minimum 100. MOI certificates may be considered if previous law degree was conducted entirely in English.",
+    "other_language_requirements": "Instruction is in English (with bilingual optional courses in French for the LL.M.). Passive knowledge of French is advantageous but not mandatory.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": true,
+    "special_eligibility_categories": "Full scholarships are reserved specifically for outstanding candidates from non-Western/developing countries who demonstrate that they cannot study in Geneva without financial support.",
+    "previous_scholarship_restrictions": "Cannot hold another full institutional scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for the intensive 10-month Master's programme (CHF 18,000 value).",
+      "amount": "100% Full Tuition Waiver (CHF 18,000 value)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Geneva Academy online application fee of CHF 100 payable during submission.",
+      "amount": "CHF 100 application fee"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Access to Geneva Graduate Institute student residences (Grand Morillon / Piccolo) or university housing; living stipend covers accommodation expenses.",
+      "amount": "Organized student residence access via living stipend"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly living allowance of CHF 1,800 per month for 10 months (~PKR 590,000 / month | CHF 18,000 total) to cover rent, meals, and living costs in Geneva.",
+      "amount": "CHF 1,800 / month (~PKR 590,000/mo) for 10 months"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel expenses between Pakistan and Geneva are self-funded or covered from personal savings.",
+      "amount": "Borne by student"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Swiss student visa application fee and cantonal residence permit (Permis B) charges in Geneva (~CHF 200 - 300) covered by student.",
+      "amount": "Swiss visa and cantonal permit fees borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Contribution towards mandatory Swiss health and accident insurance (LAMal student policy) provided through the scholarship package.",
+      "amount": "Swiss student health insurance contribution covered"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized cafeterias at Villa Moynier, Graduate Institute, and Uni Mail; covered via monthly CHF 1,800 living stipend.",
+      "amount": "Covered via monthly living allowance"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to the Geneva Academy Library, Graduate Institute Kathryn and Shelby Cullom Davis Library, and UN Library Geneva.",
+      "amount": "Full access to specialized UN & Academy libraries"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Participation in study trips to international courts and tribunals in The Hague, Strasbourg, or Paris, and UN briefings in Geneva.",
+      "amount": "Study trips to international courts included"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized Geneva public transit (Unireso / tpg monthly student pass).",
+      "amount": "Subsidized Geneva tpg student transit"
+    },
+    "total_estimated_value_usd_per_year": 44000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single specialized joint institution (Geneva Academy of International Humanitarian Law and Human Rights, Geneva, Switzerland).",
+    "participating_institutions": [
+      "Geneva Academy of International Humanitarian Law and Human Rights",
+      "University of Geneva (Faculty of Law)",
+      "Geneva Graduate Institute (IHEID)"
+    ],
+    "university_rankings_scope": "World's foremost center of excellence in international humanitarian law, human rights, and armed conflict studies; located at the global epicenter of multilateral diplomacy.",
+    "available_majors": [
+      "LL.M. in International Humanitarian Law and Human Rights",
+      "Master of Advanced Studies in Transitional Justice, Human Rights and the Rule of Law (MTJ)",
+      "Executive Master in International Law in Armed Conflict"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "10 months (September to June intensive programme)",
+    "admission_requirements_summary": "Law degree (LLB / 5-year BA-LLB) with CGPA >= 3.30/4.00, demonstrated commitment to humanitarian law/human rights, IELTS 7.0+ or TOEFL 100+ / law MOI, two recommendation letters, and completed online application with financial request.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Single integrated application: applicants request scholarship consideration directly within the online application form before the January deadline.",
+    "strategic_program_match_advice": "Highlight practical commitment to human rights advocacy, public international law, or transitional justice issues in Pakistan and explain how Geneva training will empower your legal practice."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.geneva-academy.ch/masters/scholarships",
+    "portal_system_name": "Geneva Academy Online Application Portal",
+    "account_creation_instructions": "Register on the Geneva Academy application portal, select chosen Master's programme, tick the box requesting a scholarship, complete all personal/academic sections, upload required legal credentials, and submit before late January.",
+    "step_by_step_workflow": [
+      "Step 1: Check eligibility criteria and review curriculum for the LL.M. or MTJ programme.",
+      "Step 2: Create an account on the Geneva Academy online admissions portal.",
+      "Step 3: Fill in biographical, academic, and professional experience sections.",
+      "Step 4: Check the box indicating request for a full or partial scholarship.",
+      "Step 5: Upload your motivation letter explaining both academic interest and financial circumstances.",
+      "Step 6: Upload LLB degree certificate, transcripts, CV, and two letters of recommendation.",
+      "Step 7: Upload household income documentation demonstrating financial need.",
+      "Step 8: Pay the CHF 100 application fee and submit the application before January 27.",
+      "Step 9: Selection committee reviews applications and communicates decisions in March/April.",
+      "Step 10: Confirm scholarship acceptance and apply for the Swiss entry visa."
+    ],
+    "university_vs_scholarship_routing": "Combined Integrated Application: The scholarship request is submitted simultaneously within the Master's admission application form.",
+    "recommendation_letters_submission_method": "Submitted either directly as signed PDF uploads by the applicant or sent via referee contact details according to portal instructions.",
+    "personal_statement_prompts": "Detailed motivation statement outlining: (1) Academic and professional interest in international humanitarian law and human rights, (2) Relevant legal experience, (3) Career aspirations upon return, (4) Specific reasons for requiring financial assistance.",
+    "study_plan_research_proposal_requirements": "Brief statement of legal topics of particular interest for the Master's paper/dissertation.",
+    "cv_format_requirements": "Standard legal CV detailing education, moot court competitions, legal publications, internships, and bar admissions.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interview; selections are based entirely on academic transcripts, legal credentials, motivation letter, and references.",
+    "standardized_tests": "IELTS Academic minimum 7.0 or TOEFL iBT minimum 100 / verified law degree MOI.",
+    "application_fee_amount": "CHF 100 application fee",
+    "attestation_requirements": "HEC and MOFA degree attestation required for Pakistani applicants prior to visa processing.",
+    "translation_requirements": "Official English or French translation of all non-English academic documents.",
+    "final_submission_method": "Online submission via the Geneva Academy application portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor of Laws (LLB) Degree Certificate",
+      "mandatory": true,
+      "specification": "Official law degree certificate from an HEC/Pakistan Bar Council-recognized law faculty.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete law school transcripts detailing all subjects, grades, and CGPA (minimum 3.30 / 4.00).",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Legal CV highlighting bar admissions, litigation/advocacy experience, moot courts, and research.",
+      "pakistan_specific_instruction": "Highlight human rights advocacy or legal aid work."
+    },
+    {
+      "document_name": "Motivation Letter",
+      "mandatory": true,
+      "specification": "Comprehensive statement explaining passion for IHL/human rights, professional goals, and financial need.",
+      "pakistan_specific_instruction": "Articulate how Geneva training will contribute to the legal system in Pakistan."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential reference letters on official letterhead from law professors or legal supervisors.",
+      "pakistan_specific_instruction": "Signed and stamped on official institutional letterhead."
+    },
+    {
+      "document_name": "Proof of Financial Need",
+      "mandatory": true,
+      "specification": "Official documentation verifying household financial situation (tax returns, bank statements, salary slips).",
+      "pakistan_specific_instruction": "Clear documentation establishing inability to self-fund Swiss living costs."
+    },
+    {
+      "document_name": "English Language Proficiency Certificate",
+      "mandatory": true,
+      "specification": "Official IELTS (min 7.0), TOEFL iBT (min 100), or official university Medium of Instruction (MOI) certificate.",
+      "pakistan_specific_instruction": "Valid test score or official law school MOI letter."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Clear scan of valid international passport.",
+      "pakistan_specific_instruction": "Valid Pakistani passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-11-20",
+    "application_deadline": "2027-01-27",
+    "university_admission_deadline": "2027-01-27",
+    "document_submission_deadline": "2027-01-27",
+    "recommendation_letters_deadline": "2027-01-27",
+    "interview_period": "None (No interviews conducted)",
+    "shortlist_announcement": "Mid to Late March 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "2027-09-15",
+    "annual_cycle_notes": "Scholarship applications strictly close January 27; self-funded applications accepted until late February."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Academic excellence in law studies and university ranking)",
+    "extracurricular_and_leadership_weight": "15% (Moot court competitions, human rights advocacy, legal aid initiatives)",
+    "research_experience_weight": "15% (Law review publications, legal dissertations, and analytical legal writing)",
+    "work_experience_weight": "10% (Legal practice, judicial clerkships, or NGO human rights advocacy)",
+    "personal_statement_weight": "20% (Quality, articulation, and persuasive dedication in the motivation statement)",
+    "recommendations_weight": "0% (Verification of credentials)",
+    "interview_weight": "0% (No interview conducted)",
+    "test_scores_weight": "0% (Language proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Qualifying prerequisite: candidate must demonstrate financial need)",
+    "selection_panel_composition": "Geneva Academy Admissions and Scholarships Committee comprising resident professors and academic directors.",
+    "evaluation_methodology": "Rigorous holistic assessment scoring academic rigor, professional dedication to human rights, and potential for leadership in international law."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~600 to 900 international legal graduates and human rights advocates apply annually",
+    "total_scholarships_awarded": "~15 to 20 full and partial scholarships awarded per intake",
+    "acceptance_rate_global": "~2.5%",
+    "acceptance_rate_pakistan": "~4% to 6% among high-achieving law graduates with human rights track records",
+    "typical_successful_applicant_gpa": "3.65 / 4.00 with demonstrated practical legal experience or moot court honors",
+    "typical_academic_and_research_profile": "Law graduates (LLB) with distinguished records in human rights advocacy, judicial clerkships, or international legal research.",
+    "common_backgrounds_of_winners": "Graduates from LUMS (Shaikh Ahmad Hassan School of Law), Quaid-i-Azam University, University of London International Programmes in Pakistan, and Punjab University Law College.",
+    "high_representation_countries": "Pakistan, Colombia, Kenya, Palestine, Ukraine, India, Nigeria, Lebanon, Myanmar.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply via the official Geneva Academy portal at https://www.geneva-academy.ch/.",
+      "Beware of unauthorized agents claiming to secure Swiss visa or scholarship placements."
+    ],
+    "application_fee_warning": "The Geneva Academy charges a standard CHF 100 application fee for processing admission and scholarship requests.",
+    "agent_and_intermediary_warnings": "Applications submitted through educational agencies or consultants are strictly disregarded.",
+    "hidden_costs_breakdown": [
+      "Application fee: CHF 100 (~PKR 32,000).",
+      "Swiss student visa and cantonal residence permit fees in Geneva: ~CHF 250 - 350 (~PKR 80,000 - 110,000).",
+      "Flight to Geneva: ~PKR 180,000 - 250,000.",
+      "Tuition (CHF 18,000) and monthly living stipend (CHF 1,800/mo) are fully covered by the scholarship."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You must be fluent in French to apply. Reality: The LL.M. and MTJ programmes are taught 100% in English (French is optional).",
+      "Myth: Only licensed courtroom litigators can apply. Reality: Recent law graduates with strong academic credentials and NGO or moot court experience are regularly awarded full scholarships."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial websites frequently suggest that scholarship applications can be submitted after receiving admission; at Geneva Academy, scholarship requests must be submitted together with the admission file before January 27."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass all coursework assessments, moot court exercises, and complete the LL.M. / MTJ Master's paper.",
+    "attendance_requirements": "Mandatory full-time attendance on campus at Villa Moynier in Geneva.",
+    "academic_progress_monitoring": "Term-by-term assessment monitoring by the Board of Studies.",
+    "work_restrictions_during_study": "Part-time work in Switzerland is highly restricted during the 10-month intensive programme and not recommended.",
+    "home_country_return_obligation": "Scholars are strongly expected to return to their home countries or work in international human rights institutions to advance international law.",
+    "service_obligations_or_bonds": "Commitment to upholding and advancing human rights and international humanitarian principles.",
+    "repayment_clawback_conditions": "Revocation of remaining scholarship installments if student withdraws without justification or breaches academic conduct.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Course transfers between LL.M. and MTJ programmes are generally not permitted after matriculation.",
+    "extension_policy": "Strictly limited to the 10-month duration of the Master's programme; no scholarship extension possible."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Geneva Academy Scholarships Official Portal",
+      "source_url": "https://www.geneva-academy.ch/masters/scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Geneva Academy LL.M. in International Humanitarian Law and Human Rights",
+      "source_url": "https://www.geneva-academy.ch/masters/ll-m-in-international-humanitarian-law-and-human-rights",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

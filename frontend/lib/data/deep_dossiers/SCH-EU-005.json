@@ -1,0 +1,278 @@
+{
+  "scholarship_id": "SCH-EU-005",
+  "basic_details": {
+    "scholarship_name": "Swiss Government Excellence Scholarships",
+    "offering_entity": "Federal Commission for Scholarships for Foreign Students (FCS) / State Secretariat for Education, Research and Innovation (SERI), Switzerland",
+    "host_country": "Switzerland",
+    "host_institutions_covered": "Swiss Federal Institutes of Technology (ETH Zurich, EPFL), Swiss Cantonal Universities (University of Zurich, Geneva, Basel, Bern, Lausanne, Fribourg, Neuchâtel, Lugano), and Public Research Institutes (PSI, Empa, WSL, Eawag)",
+    "degree_levels": [
+      "PhD",
+      "Postdoctoral"
+    ],
+    "major_restrictions": "Open to all academic fields: Natural Sciences, Engineering, Mathematics, Life Sciences, Medicine, Humanities, Social Sciences. Restricted to PhD scholarships (3 years), Postdoctoral fellowships (12 months), and Research fellowships (12 months). Does NOT fund standard Master's degrees.",
+    "number_of_awards_total": "~500 scholars and researchers from over 180 countries funded worldwide annually",
+    "number_of_awards_pakistan": "~5 to 10 highly selective awards for Pakistan per academic cycle",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "PhD: Up to 36 months; Postdoctoral & Research: 12 months"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of the Islamic Republic of Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "PhD applicants: Born after December 31, 1989 (under 35 years of age). Postdoctoral applicants: PhD completed within the last 5 years.",
+    "academic_qualifications": "Master's degree (18 years education / MS / MPhil) achieved before July 31 preceding start of scholarship with exceptional academic distinction.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum 3.50/4.00 CGPA or top 10% class standing; competitive applicants typically hold published research papers.",
+    "subject_background_prerequisites": "Master's degree directly in the subject area of the proposed doctoral research.",
+    "current_education_status": "Master's completed or in final semester (degree must be formally awarded before departure).",
+    "graduation_year_restrictions": "Postdoc applicants must have obtained PhD within the prior 5 years.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; solid academic research record is paramount.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "Language certificate in the language of instruction (English, German, or French) as required by the host professor/university.",
+    "other_language_requirements": "German, French, or Italian proficiency is required if research is conducted in that language; most STEM labs at ETH/EPFL operate 100% in English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "ABSOLUTE PREREQUISITE: Must have secured a formal written letter of acceptance from a tenured professor at a Swiss university agreeing to supervise the candidate before applying to the Embassy.",
+    "previous_scholarship_restrictions": "Applicants who have previously received a Swiss Government Excellence Scholarship are ineligible.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full tuition and bench fee exemption at Swiss universities under federal decree."
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Covered under federal scholarship status."
+    },
+    "accommodation": {
+      "status": "MONTHLY ALLOWANCE",
+      "details": "Covered via monthly stipend; FCS provides assistance in securing student housing."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Tax-free monthly living allowance paid directly to the scholar.",
+      "amount": "CHF 1,920 / month for PhD (~PKR 620,000 / month); CHF 3,500 / month for Postdoc (~PKR 1,120,000 / month)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Flight to Switzerland at the start is NOT covered (borne by scholar); however, FCS provides a return flight allowance back to Pakistan upon degree completion."
+    },
+    "visa_fee": {
+      "status": "WAIVED",
+      "details": "Swiss national visa (Type D) application fee is waived by the Embassy of Switzerland in Islamabad."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Mandatory Swiss health and accident insurance (Krankenversicherung) fully paid directly by FCS throughout the stay."
+    },
+    "food_allowance": {
+      "status": "INCLUDED IN STIPEND",
+      "details": "Covered via monthly stipend."
+    },
+    "books_and_materials_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Covered via host university laboratory facilities."
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Funded through Swiss National Science Foundation (SNSF) laboratory grants."
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Housing allowance voucher of CHF 300 paid once at the start of scholarship, plus a half-fare public transport card (Halbtax-Abo) valid for all Swiss trains and buses.",
+      "amount": "CHF 300 one-off + Half-Fare Swiss Rail Card"
+    },
+    "total_estimated_value_usd_per_year": 35000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single University: Tied specifically to the Swiss institution and professor who issued the acceptance letter.",
+    "participating_institutions": [
+      "ETH Zurich, EPFL Lausanne, University of Zurich, University of Geneva, University of Basel, University of Bern, University of Lausanne, PSI, Empa"
+    ],
+    "university_rankings_scope": "World Top 10 to 100 (ETH Zurich is World #7).",
+    "available_majors": [
+      "Quantum Science",
+      "Nanotechnology",
+      "Computer Science",
+      "Biomedical Engineering",
+      "Molecular Biology",
+      "High Energy Physics",
+      "Environmental Sciences",
+      "Economics",
+      "Law"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "PhD: 3 years; Postdoc: 12 months",
+    "admission_requirements_summary": "Master's degree with honors, Professor Acceptance Letter with short CV, Research Proposal (5 pages), 2 recommendation letters, health certificate.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "MANDATORY STEP: You cannot submit an application to the Swiss Embassy without an official letter of acceptance from a Swiss university professor. Unsolicited applications without professor letters are immediately rejected.",
+    "strategic_program_match_advice": "Start contacting professors at ETH, EPFL, or Uni Zurich in June/July with a customized research pitch demonstrating familiarity with their recent papers."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html",
+    "portal_system_name": "Embassy of Switzerland in Islamabad (Physical Submission) & SERI Federal Portal",
+    "account_creation_instructions": "Request the official application package by emailing the Embassy of Switzerland in Islamabad in early August; submit complete physical dossier in triplicate.",
+    "step_by_step_workflow": [
+      "1. Contact a professor at a Swiss public university and obtain an official Letter of Acceptance and professor CV (June - August).",
+      "2. Email Embassy of Switzerland in Islamabad to request official FCS application package (August).",
+      "3. Write 5-page Research Proposal using the official FCS template.",
+      "4. Complete official FCS Application Form and obtain 2 confidential letters of recommendation from professors on FCS forms.",
+      "5. Complete medical certificate of health.",
+      "6. Submit complete physical dossier (1 original + 2 copies) to the Embassy of Switzerland in Islamabad before late September deadline.",
+      "7. Embassy conducts preliminary document review and forwards files to Bern.",
+      "8. Federal Commission for Scholarships for Foreign Students (FCS) evaluates files in Switzerland (December - April).",
+      "9. Final selection results announced by the Swiss Embassy in May.",
+      "10. Apply for Swiss National D Visa in Islamabad (June/July).",
+      "11. Arrive in Switzerland (September)."
+    ],
+    "university_vs_scholarship_routing": "Professor Acceptance First -> Embassy Application -> FCS Central Selection.",
+    "recommendation_letters_submission_method": "Submitted using official FCS confidential recommendation forms signed and sealed in envelopes.",
+    "personal_statement_prompts": "Motivation Letter (max 2 pages): Academic background, why Switzerland, reasons for selecting this specific research group, and future career impact.",
+    "study_plan_research_proposal_requirements": "Strict 5-page Research Proposal: Background, research questions, methodology, timetable, and societal significance.",
+    "cv_format_requirements": "Europass format with full list of publications and conference presentations.",
+    "interviews_conducted": false,
+    "interview_format_details": "Strictly dossier-based evaluation; no interview conducted by Embassy.",
+    "standardized_tests": "No GRE required; English certificate required by host university.",
+    "application_fee_amount": "CHF 0 / PKR 0 (100% FREE application).",
+    "attestation_requirements": "Attestation of degree certificates by HEC and MOFA.",
+    "translation_requirements": "Certified English, German, or French translations.",
+    "final_submission_method": "Physical delivery of 3 complete sets of hardcopy documents to the Embassy of Switzerland in Islamabad."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Letter of Acceptance from Swiss Professor",
+      "mandatory": true,
+      "specification": "Signed letter on official university letterhead confirming willingness to supervise",
+      "pakistan_specific_instruction": "The single most essential document; application impossible without it"
+    },
+    {
+      "document_name": "Short CV of Host Professor in Switzerland",
+      "mandatory": true,
+      "specification": "1 to 2 page CV of the supervising professor",
+      "pakistan_specific_instruction": "Required by FCS selection committee"
+    },
+    {
+      "document_name": "Completed FCS Application Form",
+      "mandatory": true,
+      "specification": "Official typed and signed application form with photograph",
+      "pakistan_specific_instruction": "Obtained from Swiss Embassy Islamabad"
+    },
+    {
+      "document_name": "Full Research Proposal (Strictly max 5 pages)",
+      "mandatory": true,
+      "specification": "Structured academic proposal using FCS format",
+      "pakistan_specific_instruction": "High scientific rigor evaluated by Swiss academic panels"
+    },
+    {
+      "document_name": "Two Confidential Letters of Recommendation",
+      "mandatory": true,
+      "specification": "On official FCS confidential recommendation forms in sealed envelopes",
+      "pakistan_specific_instruction": "From Pakistani professors who know candidate's research"
+    },
+    {
+      "document_name": "Master's Degree Certificate & Official Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts showing marks and grading scales",
+      "pakistan_specific_instruction": "Must be 18-year MS/MPhil equivalent"
+    },
+    {
+      "document_name": "Medical Certificate of Health",
+      "mandatory": true,
+      "specification": "Official FCS medical form signed by registered physician",
+      "pakistan_specific_instruction": "Confirms fitness to reside and study in Switzerland"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Early August annually (e.g., 2026-08-01)",
+    "application_deadline": "Late September annually (e.g., 2026-09-30)",
+    "university_admission_deadline": "December - February following selection",
+    "document_submission_deadline": "Late September annually",
+    "recommendation_letters_deadline": "Late September annually",
+    "interview_period": "N/A (Evaluation in Bern)",
+    "shortlist_announcement": "May annually (Final results communicated by Swiss Embassy)",
+    "final_result_acceptance_deadline": "June annually",
+    "visa_application_window": "June - July (Embassy of Switzerland in Islamabad)",
+    "semester_commencement": "September (Fall Semester)",
+    "annual_cycle_notes": "Very strict deadline; requesting application package from Embassy in August is essential."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Master's academic track record and scientific honors)",
+    "extracurricular_and_leadership_weight": "5% (General adaptability)",
+    "research_experience_weight": "35% (Originality, methodology, and feasibility of the 5-page Research Proposal)",
+    "work_experience_weight": "5% (Research laboratory experience)",
+    "personal_statement_weight": "10% (Motivation letter)",
+    "recommendations_weight": "5% (Academic references)",
+    "interview_weight": "0% (No interview)",
+    "test_scores_weight": "0% (No standardized test used)",
+    "financial_need_weight": "0% (Pure academic excellence and scientific potential)",
+    "selection_panel_composition": "Federal Commission for Scholarships for Foreign Students (FCS) comprising distinguished professors from Swiss cantonal and federal universities.",
+    "evaluation_methodology": "Scoring across 3 core criteria: 1) Candidate's academic profile and research capacity, 2) Scientific quality and innovation of the research project, 3) Synergies and quality of supervision with the Swiss host professor."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~300 to 500 qualified researchers in Pakistan with professor acceptance letters",
+    "total_scholarships_awarded": "~5 to 10 scholars selected annually for Pakistan",
+    "acceptance_rate_global": "~6.0%",
+    "acceptance_rate_pakistan": "~2.0% (Extremely Competitive)",
+    "typical_successful_applicant_gpa": "3.65 to 4.00 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Published papers in peer-reviewed international journals, exceptionally well-developed PhD proposal, personal endorsement from a world-renowned Swiss professor.",
+    "common_backgrounds_of_winners": "Graduates of Quaid-i-Azam University, NUST, LUMS, University of the Punjab, PIEAS, and COMSATS.",
+    "high_representation_countries": "Global program covering 180+ countries.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Scam emails offering 'Swiss Government Scholarships' for high school or bachelor students. Switzerland NEVER awards FCS scholarships for Bachelor's or Master's degrees.",
+      "Agencies claiming they can 'sell Swiss professor acceptance letters'."
+    ],
+    "application_fee_warning": "Swiss Government application is 100% FREE. Never pay any fee.",
+    "agent_and_intermediary_warnings": "Swiss professors will immediately block any student who contacts them through an agency or consultant.",
+    "hidden_costs_breakdown": [
+      "Inbound airfare to Switzerland at the start is NOT paid by FCS (the student must buy their own flight to Zurich/Geneva; return flight home upon graduation is paid).",
+      "Initial deposit buffer: Swiss rent deposit (Mietkaution) typically requires 2-3 months rent upfront (~CHF 1,500-2,000) upon signing an apartment lease.",
+      "Attestation and courier fees."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can apply for a Master's degree. (Fact: FCS scholarships for Pakistan are strictly restricted to PhD and Postdoctoral research).",
+      "MYTH: You can submit your application online. (Fact: Applications must be physically submitted in triplicate hardcopy to the Swiss Embassy in Islamabad)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently claim airfare is fully covered; official FCS regulations state outbound flight to Switzerland is borne by the scholar, only return flight home is reimbursed."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must satisfy doctoral research committee milestones and annual supervisor evaluations.",
+    "attendance_requirements": "Full-time physical residence in Switzerland.",
+    "academic_progress_monitoring": "Annual progress report submitted jointly by scholar and supervising professor to FCS in Bern.",
+    "work_restrictions_during_study": "Part-time work is strictly prohibited during the first year of the scholarship; after the first year, limited research/teaching assistantships up to 10 hours/week may be permitted with FCS approval.",
+    "home_country_return_obligation": "Scholars are expected to return to Pakistan upon completion to foster scientific links, although graduates frequently secure postdoctoral appointments in Europe.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Termination of scholarship and loss of return flight allowance in cases of scientific misconduct or abandonment.",
+    "rules_for_changing_university": "Strictly prohibited.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "PhD grants are awarded for 12 months renewable up to 36 months maximum upon positive annual review."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "State Secretariat for Education, Research and Innovation (SERI) - Swiss Government Excellence Scholarships",
+      "source_url": "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact number of applicants from Pakistan rejected at the Embassy pre-screening stage",
+        "Internal FCS scoring sheets"
+      ]
+    }
+  ]
+}

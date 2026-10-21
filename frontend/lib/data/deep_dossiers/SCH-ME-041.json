@@ -1,0 +1,286 @@
+{
+  "scholarship_id": "SCH-ME-041",
+  "basic_details": {
+    "scholarship_name": "Gulf University for Science and Technology (GUST) Fellowships",
+    "offering_entity": "Gulf University for Science and Technology (GUST) Graduate Studies & Research Office",
+    "host_country": "Kuwait",
+    "host_institutions_covered": "Gulf University for Science and Technology (West Mishref Campus, Kuwait)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Master of Business Administration (MBA)"
+    ],
+    "major_restrictions": "Master of Science in Computer Science (Artificial Intelligence, Cybersecurity, Software Engineering), Master of Science in Information Technology, Applied Mathematics, and Master of Business Administration (MBA / Management Information Systems).",
+    "number_of_awards_total": "Approximately 15 to 25 competitive Graduate Assistantships (GA) & Research Fellowships awarded annually across graduate programs",
+    "number_of_awards_pakistan": "Merit-based open international competition; typically 3 to 6 Pakistani graduate fellows selected annually in Computer Science and IT",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "24 months (2 academic years for full-time master's studies subject to maintaining semester CGPA >= 3.25)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to all nationalities worldwide, including international applicants from Pakistan and expatriate residents in Kuwait"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "No statutory upper age limit, but candidates must be early-career researchers or fresh graduates typically under 35 years old.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (16-year BS/BSc/BE) in Computer Science, Software Engineering, Information Technology, or closely related quantitative field from an HEC-recognized university with minimum CGPA 3.20 / 4.00 (75%+).",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.2,
+    "grading_conversion_notes": "Minimum CGPA 3.20 / 4.00; competitive graduate fellows typically maintain CGPA >= 3.50 / 4.00 with top grades in core computer science subjects.",
+    "subject_background_prerequisites": "Solid undergraduate foundation in algorithms, data structures, software engineering, databases, and programming languages (Python, Java, C++).",
+    "current_education_status": "Graduated with official degree certificate or enrolled in final semester graduating prior to August 2027.",
+    "graduation_year_restrictions": "Graduation within the past 5 years preferred.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Relevant software development experience, machine learning projects, or academic tutoring experience is considered advantageous.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 (min 6.0 in writing) or TOEFL iBT minimum 80. MOI certificates are generally not accepted; official test report required.",
+    "other_language_requirements": "All graduate teaching, examinations, and research at GUST are conducted 100% in English. Arabic language proficiency is not required.",
+    "gender_specific_requirements": "Open equally to male and female candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Merit-based Graduate Assistantship / Fellowship scheme rewarding high academic and technical competency.",
+    "previous_scholarship_restrictions": "Cannot hold dual external sponsorships simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for all required master's credit hours (33-36 credit hours worth up to KWD 9,000 total).",
+      "amount": "100% Full Tuition Waiver (up to KWD 9,000 value)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Non-refundable graduate application fee of KWD 30 (~PKR 27,000) payable online during portal submission.",
+      "amount": "KWD 30 (~PKR 27,000)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized housing allowance or graduate residence assistance provided in West Mishref/Hawally area near campus.",
+      "amount": "Housing allowance / graduate accommodation support"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Tax-free monthly living stipend of KWD 200 - 300 / month (~PKR 180,000 - 270,000 / month | ~USD 650 - 980/month) for teaching/research assistantship duties.",
+      "amount": "KWD 200 - 300 / month (~PKR 180,000 - 270,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel between Pakistan and Kuwait is self-funded, though relocation assistance is evaluated on a case-by-case basis.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "GUST sponsors and handles the Kuwait student residence permit (Civil ID, Student Visa) processing.",
+      "amount": "100% GUST Student Visa Sponsorship Covered"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive student health coverage through Kuwait private university health network and public clinics.",
+      "amount": "100% Student Health Coverage Covered"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized campus cafeteria and food court dining across the GUST West Mishref campus.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Free digital access to GUST A.M. Al-Refai Library, ACM Digital Library, IEEE Xplore, and cloud computing resources.",
+      "amount": "Full digital library and computing lab access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Research grants and travel funds available through GUST Research Office for co-authoring conference papers with faculty.",
+      "amount": "Research publication & conference grant support"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized local student transport services and university parking facilities.",
+      "amount": "Subsidized campus transport"
+    },
+    "total_estimated_value_usd_per_year": 20000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Gulf University for Science and Technology - GUST, Kuwait).",
+    "participating_institutions": [
+      "Gulf University for Science and Technology (West Mishref, Kuwait)"
+    ],
+    "university_rankings_scope": "Ranked #1 private university in Kuwait (QS Arab Region University Rankings; QS World University Rankings); established in partnership with University of Missouri-St. Louis (UMSL).",
+    "available_majors": [
+      "Master of Science in Computer Science (Artificial Intelligence, Cybersecurity, Software Engineering)",
+      "Master of Science in Information Technology",
+      "Master of Business Administration (MBA - Management, Finance, MIS)",
+      "Master of Science in Applied Mathematics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (4 semesters, 33-36 credit hours)",
+    "admission_requirements_summary": "Bachelor degree in Computing, Engineering, or Business with CGPA >= 3.20/4.00, official IELTS 6.5+ or TOEFL 80+, statement of motivation, two recommendation letters, and interview with graduate committee.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Unified graduate admission and assistantship application; Computer Science AI track is the most competitive.",
+    "strategic_program_match_advice": "Demonstrate strong hands-on coding skills, machine learning project experience, and willingness to assist faculty with undergraduate lab instruction."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.gust.edu.kw/admissions",
+    "portal_system_name": "GUST Graduate Admissions & Financial Aid Portal",
+    "account_creation_instructions": "Create an account on the GUST Online Admissions Portal (gust.edu.kw/admissions), select Master of Science in Computer Science, select 'Graduate Assistantship / Fellowship Application', upload transcripts and credentials, and pay the KWD 30 application fee before May 15.",
+    "step_by_step_workflow": [
+      "Step 1: Check admission guidelines and faculty research profiles on the GUST Graduate Studies & Research portal (gust.edu.kw/graduate_studies).",
+      "Step 2: Prepare HEC/MoFA-attested Bachelor degree, official transcripts, IELTS/TOEFL scorecard, and CV.",
+      "Step 3: Register an account on GUST Online Admissions Portal.",
+      "Step 4: Complete the graduate application form and check the Graduate Assistantship / Fellowship consideration box.",
+      "Step 5: Upload required academic documents, personal statement, and portfolio of technical projects.",
+      "Step 6: Pay the KWD 30 application fee online via credit card.",
+      "Step 7: Provide contact details for two academic referees who will submit letters directly.",
+      "Step 8: Attend an online technical and motivation interview with the Department of Computer Science Graduate Committee in June.",
+      "Step 9: Receive admission and assistantship award letter in July; GUST coordinates visa sponsorship and onboarding."
+    ],
+    "university_vs_scholarship_routing": "Integrated Routing: Students apply for graduate program admission and indicate interest in the Graduate Assistantship / Fellowship within the single institutional portal.",
+    "recommendation_letters_submission_method": "Submitted electronically by academic professors via referee links sent by the GUST Admissions Office.",
+    "personal_statement_prompts": "Statement of purpose (max 750 words) describing academic accomplishments, technical projects, interest in GUST graduate research, and motivation for graduate assistantship duties.",
+    "study_plan_research_proposal_requirements": "Preliminary research statement (1-2 pages) describing intended master's thesis topic in AI, cybersecurity, or data systems.",
+    "cv_format_requirements": "Standard professional academic CV highlighting programming languages, open-source repositories, projects, and academic honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "Virtual interview via Zoom/Teams with graduate program director focusing on programming skills, teaching readiness, and research interests.",
+    "standardized_tests": "IELTS Academic 6.5+ or TOEFL iBT 80+; GRE General Test optional but strongly recommended for funding competition.",
+    "application_fee_amount": "KWD 30 (~PKR 27,000 / ~$98 USD) non-refundable graduate application fee.",
+    "attestation_requirements": "HEC and MoFA Pakistan attestations required; Kuwait Embassy attestation required upon admission confirmation.",
+    "translation_requirements": "Official English translation for all academic records.",
+    "final_submission_method": "Online submission via GUST Graduate Admissions Portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor Degree Certificate",
+      "mandatory": true,
+      "specification": "HEC-attested 4-year BS in Computer Science, Software Engineering, or related field.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete undergraduate semester transcripts showing minimum CGPA 3.20 / 4.00.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "English Language Test Certificate",
+      "mandatory": true,
+      "specification": "Official IELTS Academic (minimum 6.5) or TOEFL iBT (minimum 80) scorecard.",
+      "pakistan_specific_instruction": "Valid score report."
+    },
+    {
+      "document_name": "Statement of Purpose & GA Essay",
+      "mandatory": true,
+      "specification": "Statement explaining academic interests and readiness for graduate teaching/research assistantship responsibilities.",
+      "pakistan_specific_instruction": "Emphasize programming and teaching skills."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Detailed CV highlighting software toolsets, machine learning projects, and publications.",
+      "pakistan_specific_instruction": "Clear layout with project links."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential appraisal letters from undergraduate faculty.",
+      "pakistan_specific_instruction": "On official university letterhead."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color scan of passport information page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Minimum 24 months validity."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2027-02-01",
+    "application_deadline": "2027-05-15",
+    "university_admission_deadline": "2027-05-15",
+    "document_submission_deadline": "2027-05-25",
+    "recommendation_letters_deadline": "2027-05-30",
+    "interview_period": "June 2027",
+    "shortlist_announcement": "Early July 2027",
+    "final_result_acceptance_deadline": "Within 14 days of offer",
+    "visa_application_window": "July to August 2027",
+    "semester_commencement": "2027-09-05",
+    "annual_cycle_notes": "Applications open in February with deadline in mid-May for the Fall intake; assistantship awards are finalized by mid-July."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Undergraduate CGPA, math/computing course marks)",
+    "extracurricular_and_leadership_weight": "5% (Student leadership, hackathon participation, developer clubs)",
+    "research_experience_weight": "20% (Undergraduate thesis/FYP, publications, GitHub projects)",
+    "work_experience_weight": "10% (Software development internships or industry experience)",
+    "personal_statement_weight": "10% (Quality of SOP and motivation for assistantship responsibilities)",
+    "recommendations_weight": "5% (Academic faculty appraisals)",
+    "interview_weight": "10% (Technical interview performance, communication skills, and teaching suitability)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure academic excellence and assistantship suitability evaluation)",
+    "selection_panel_composition": "GUST Graduate Studies Council, Department Head of Computer Science, and Graduate Program Director.",
+    "evaluation_methodology": "Multi-stage rubric evaluating transcript credentials, programming proficiency, and candidate interview performance."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~800 to 1,200 international applicants across graduate programs",
+    "total_scholarships_awarded": "~15 to 25 graduate assistantships/fellowships annually",
+    "acceptance_rate_global": "~2.0% to 2.5%",
+    "acceptance_rate_pakistan": "~3.5% to 5.0% among high-caliber CS/IT graduates",
+    "typical_successful_applicant_gpa": "3.55 / 4.00 (with strong coding portfolio)",
+    "typical_academic_and_research_profile": "Graduates in computer science or software engineering with practical experience in machine learning, web/mobile architectures, and lab teaching skills.",
+    "common_backgrounds_of_winners": "Graduates from FAST-NUCES, NUST, COMSATS, UET Lahore, and IBA Karachi.",
+    "high_representation_countries": "Pakistan, India, Egypt, Jordan, Lebanon, Kuwait (expatriate residents), Nigeria.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply directly through official GUST portal at gust.edu.kw.",
+      "Never pay third-party agents claiming to guarantee GUST assistantships or visas."
+    ],
+    "application_fee_warning": "Only the official KWD 30 application fee is charged by the university.",
+    "agent_and_intermediary_warnings": "GUST does not partner with recruitment agents; direct applications only.",
+    "hidden_costs_breakdown": [
+      "GUST application fee: KWD 30 (~PKR 27,000).",
+      "Airfare to Kuwait: ~PKR 120,000 - 180,000 (self-funded).",
+      "Attestations (HEC, MoFA, Kuwait Embassy): ~PKR 25,000 - 40,000.",
+      "GAMCA medical screening in Pakistan: ~PKR 20,000.",
+      "Security deposit for local apartment housing: ~KWD 150 - 200 (~PKR 135,000 - 180,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: GUST is an Arabic-medium university. Reality: GUST is an American-style university modeled after UMSL where 100% of instruction and administrative communication is in English.",
+      "Myth: Assistantships require 40 hours of teaching per week. Reality: Graduate assistants provide 10-15 hours per week of tutoring, grading, or lab supervision."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs suggest Duolingo is accepted; GUST Graduate Admissions strictly requires official IELTS Academic or TOEFL iBT."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.25 / 4.00 each semester to retain tuition waiver and monthly stipend.",
+    "attendance_requirements": "Mandatory full-time graduate study and fulfillment of 12-15 hours per week of assigned teaching or research assistantship duties.",
+    "academic_progress_monitoring": "Semester-by-semester review by Graduate Program Director and supervising faculty.",
+    "work_restrictions_during_study": "Outside commercial employment in Kuwait is prohibited while holding a funded Graduate Assistantship.",
+    "home_country_return_obligation": "No mandatory return bond; graduates can pursue careers in Kuwait, the GCC, or international doctoral programs.",
+    "service_obligations_or_bonds": "Scholars must serve as Graduate Teaching Assistants (GTA) assisting with lab demonstrations and grading, or Graduate Research Assistants (GRA).",
+    "repayment_clawback_conditions": "Revocation of assistantship and loss of tuition waiver if semester GPA falls below 3.00 or if assistantship responsibilities are neglected.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Changing degree program requires formal re-application to the Graduate Council.",
+    "extension_policy": "Funding is provided for a maximum of 4 semesters (2 academic years); extensions require special dean approval."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "GUST Graduate Studies & Financial Aid",
+      "source_url": "https://www.gust.edu.kw/graduate_studies/financial_aid",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "GUST Admissions Portal",
+      "source_url": "https://www.gust.edu.kw/admissions",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

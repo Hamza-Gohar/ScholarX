@@ -1,0 +1,257 @@
+{
+  "scholarship_id": "SCH-AM-003",
+  "basic_details": {
+    "scholarship_name": "Lester B. Pearson International Scholarship Program",
+    "offering_entity": "University of Toronto",
+    "host_country": "Canada",
+    "host_institutions_covered": "University of Toronto (St. George, Mississauga, and Scarborough campuses)",
+    "degree_levels": [
+      "Undergraduate"
+    ],
+    "major_restrictions": "Open to all direct-entry undergraduate programs across Arts & Science, Applied Science & Engineering, Commerce (Rotman), Architecture, Music, and Kinesiology.",
+    "number_of_awards_total": "~37 scholars selected globally each year",
+    "number_of_awards_pakistan": "Open globally; typically 1 to 2 exceptional Pakistani high school students selected annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "4 continuous years of undergraduate study"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International students (non-Canadian citizens requiring a Canadian study permit)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 20,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "Currently in final year of secondary school or graduated no earlier than June of the preceding year.",
+    "academic_qualifications": "High school completion: A-Levels (Cambridge/Edexcel), IB Diploma, or Pakistani Intermediate (FSc/FA/ICS) with top-tier academic excellence.",
+    "minimum_gpa_percentage": 90.0,
+    "minimum_gpa_scale": 3.8,
+    "grading_conversion_notes": "Minimum 90%+ in FSc or straight A*/A grades in Cambridge A-Levels (predicted and final results).",
+    "subject_background_prerequisites": "Prerequisites vary by faculty (e.g., Mathematics and Physics for Engineering; Calculus for Rotman Commerce).",
+    "current_education_status": "Secondary school student nominated by high school/college guidance counsellor.",
+    "graduation_year_restrictions": "Must graduate high school in the current academic year or have graduated within the past 12 months with no post-secondary gap studies.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Focus on high school leadership, intellectual curiosity, school clubs, debate, Olympiads, and community engagement.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 100,
+      "duolingo_accepted": true,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS 6.5 overall (no band below 6.0) or TOEFL iBT 100 with 22 in Writing, or Duolingo English Test (DET) minimum 120."
+    },
+    "other_language_requirements": "None; English instruction.",
+    "gender_specific_requirements": "Equal opportunity; all eligible candidates welcome.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must be explicitly nominated by their high school guidance counsellor before applying.",
+    "previous_scholarship_restrictions": "Must not have already attended a college or university degree program.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Covers 100% international undergraduate tuition fees at University of Toronto for 4 years.",
+      "amount": "CAD $60,000 to $70,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Ontario Universities' Application Centre (OUAC) application fee paid by candidate (~CAD $250).",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "FREE DORMITORY",
+      "details": "Guaranteed full residence support in University of Toronto college dormitories for all 4 years.",
+      "amount": "CAD $12,000 to $16,000 / year"
+    },
+    "monthly_stipend": {
+      "status": "INCLUDED IN RESIDENCE & INCIDENTAL",
+      "details": "Living expenses covered through residence room, board plan, and incidental book grant.",
+      "amount": null
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Travel flights to Toronto are arranged by student/family.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Canadian Study Permit fee (CAD $150) and biometrics fee paid by applicant.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "University Health Insurance Plan (UHIP) covered for international students.",
+      "amount": "CAD $756 / year"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Full meal plan included with college residence dining package.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full incidental book and supplies allowance provided annually.",
+      "amount": "CAD $1,500 / year (~PKR 310,000 / year)"
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "U of T undergraduate research opportunities (e.g. ROP programs) accessible.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Local Toronto transit passes paid from incidental budget.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 65000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: University of Toronto (World Top 20).",
+    "participating_institutions": [
+      "University of Toronto (St. George Downtown, UTM Mississauga, UTSC Scarborough)"
+    ],
+    "university_rankings_scope": "Consistently ranked #1 in Canada and Top 20 globally (QS/THE/ARWU).",
+    "available_majors": [
+      "Computer Science, Engineering Science, Rotman Commerce, Life Sciences, Economics, Architecture, Mathematics, Physics, Humanities, Social Sciences"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "4 academic years (BSc, BA, BCom, BASc)",
+    "admission_requirements_summary": "Must apply to direct-entry first-year program via OUAC by early deadlines.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "St. George campus Engineering Science and Rotman Commerce are most competitive.",
+    "strategic_program_match_advice": "High school nomination is the key gatekeeper; ensure your school guidance counsellor nominates you early in October."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://future.utoronto.ca/pearson/about/",
+    "portal_system_name": "University of Toronto Pearson Scholarship Application Portal",
+    "account_creation_instructions": "Your school must first register and nominate you. Once nominated, U of T emails you a unique private application portal link.",
+    "step_by_step_workflow": [
+      "1. High school counsellor submits official nomination for you (Deadline: late November).",
+      "2. Apply for admission to U of T via OUAC 105 portal by mid-December.",
+      "3. Receive JOINid and credentials to log into U of T Pearson Scholarship portal.",
+      "4. Complete Pearson scholarship essays and activity profiles (Deadline: mid-January).",
+      "5. Upload predicted grades/transcripts and school references.",
+      "6. Results announced in late April."
+    ],
+    "university_vs_scholarship_routing": "Concurrent: High school nomination + OUAC admission application + dedicated Pearson scholarship essays.",
+    "recommendation_letters_submission_method": "Submitted online by high school guidance counsellor and referee teachers.",
+    "personal_statement_prompts": "Reflect on how your actions have made a meaningful difference in your school or community and how you demonstrate creativity and independent thought.",
+    "study_plan_research_proposal_requirements": "Not applicable; focus on undergraduate intellectual curiosity and extracurricular engagement.",
+    "cv_format_requirements": "Detailed online activity sheet covering school clubs, leadership positions, honors, and community service.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interviews; decisions based strictly on nomination, academic transcripts, and written application dossiers.",
+    "standardized_tests": "SAT/ACT optional; English language test mandatory.",
+    "application_fee_amount": "CAD $250 for OUAC university application; Pearson scholarship application itself has no fee.",
+    "attestation_requirements": "High school official transcripts stamped by school principal/counsellor; IBCC not required by U of T.",
+    "translation_requirements": "Official certified English translation if school documents are in Urdu.",
+    "final_submission_method": "100% Online via OUAC and U of T Applicant Portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "High School Counselor Nomination",
+      "mandatory": true,
+      "specification": "Official institutional nomination by high school principal or head of counselling",
+      "pakistan_specific_instruction": "Only 1 student can be nominated per high school per year in Pakistan"
+    },
+    {
+      "document_name": "High School Transcripts & Predicted Grades",
+      "mandatory": true,
+      "specification": "Grade 9, 10, 11 results and Grade 12 predicted grades (A-Levels or FSc-II)",
+      "pakistan_specific_instruction": "Attested by school administration or Cambridge/BISE certificates"
+    },
+    {
+      "document_name": "Pearson Scholarship Essays",
+      "mandatory": true,
+      "specification": "Original personal statement and creative impact essays written on portal",
+      "pakistan_specific_instruction": "Demonstrating exceptional impact, leadership, and resilience"
+    },
+    {
+      "document_name": "English Proficiency Score (IELTS/TOEFL/DET)",
+      "mandatory": true,
+      "specification": "Official electronic score report sent to University of Toronto",
+      "pakistan_specific_instruction": "IELTS 6.5+ or TOEFL 100+"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-09-01",
+    "application_deadline": "2027-01-15",
+    "university_admission_deadline": "2026-12-15",
+    "document_submission_deadline": "2027-01-29",
+    "recommendation_letters_deadline": "2026-11-30",
+    "interview_period": "N/A (No interview)",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-04-30",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "September 2027",
+    "annual_cycle_notes": "School nomination deadline is always late November; U of T OUAC admission deadline mid-December; scholarship essays due mid-January."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Outstanding high school academic achievement, straight A* / 90%+)",
+    "extracurricular_and_leadership_weight": "35% (Exceptional leadership, originality, community initiative)",
+    "research_experience_weight": "5% (Olympiads, science fairs, academic competitions)",
+    "work_experience_weight": "0% (Not expected for high school graduates)",
+    "personal_statement_weight": "20% (Voice, intellectual depth, perspective)",
+    "recommendations_weight": "5% (High school endorsement)",
+    "interview_weight": "0%",
+    "test_scores_weight": "5% (English language proficiency)",
+    "financial_need_weight": "0% (Purely merit and leadership based)",
+    "selection_panel_composition": "University of Toronto Admissions Committee and Pearson Scholarship Selection Board.",
+    "evaluation_methodology": "Holistic assessment identifying scholars with transformative leadership potential who are recognized as leaders in their schools."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,500 nominated candidates globally",
+    "total_scholarships_awarded": "~37 scholars selected globally",
+    "acceptance_rate_global": "~1.5%",
+    "acceptance_rate_pakistan": "~1% (Typically 1 or 2 scholars per year from Pakistan)",
+    "typical_successful_applicant_gpa": "Straight A*s in A-Levels or 92%+ in FSc",
+    "typical_academic_and_research_profile": "Head boy/head girl, national debating champion, founder of non-profit initiative, international Olympiad medalist.",
+    "common_backgrounds_of_winners": "Past Pakistani winners from Karachi Grammar School, Aitchison College, Lahore Grammar School, Roots Millennium, Beaconhouse.",
+    "high_representation_countries": "Global distribution across 30+ countries each year.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unapproved agencies claiming they can secure Pearson nominations independently of your school."
+    ],
+    "application_fee_warning": "Pearson application is free, but OUAC application fee of ~CAD $250 is standard university application fee.",
+    "agent_and_intermediary_warnings": "Nomination must come directly from your recognized high school; agent nominations are disqualified.",
+    "hidden_costs_breakdown": [
+      "OUAC application fee (~CAD $250).",
+      "Canadian study permit fee and biometrics (~CAD $235).",
+      "International flights from Pakistan to Toronto (~PKR 350,000 to 500,000 round-trip).",
+      "Winter clothing and initial personal items buffer upon landing in Toronto."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can self-nominate if your school refuses. (Fact: High schools must be verified and submit the nomination; self-nominations are rejected).",
+      "MYTH: Multiple students from one school can get nominated. (Fact: Strictly 1 student per school per year)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some websites claim flights are covered; officially, international flights are NOT funded by Pearson."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.0 / 4.00 (B standing) and complete full-time course load (minimum 4.0 credits per year).",
+    "attendance_requirements": "Full-time physical enrollment on campus in Toronto.",
+    "academic_progress_monitoring": "Annual review by U of T Student Awards Office before renewing for subsequent years.",
+    "work_restrictions_during_study": "Permitted to work on-campus and up to 20 hours/week off-campus during academic terms under Canadian Study Permit regulations.",
+    "home_country_return_obligation": "No mandatory home return rule; eligible for Canadian Post-Graduation Work Permit (PGWP) upon graduation.",
+    "service_obligations_or_bonds": "None; active participation in Pearson scholar events and campus ambassador activities.",
+    "repayment_clawback_conditions": "Loss of award if student withdraws from university or fails to maintain minimum academic standard.",
+    "rules_for_changing_university": "Award is non-transferable to other universities.",
+    "rules_for_changing_major": "Permitted to change major within eligible U of T faculties subject to faculty academic approval.",
+    "extension_policy": "Strictly limited to a maximum of 4 years of undergraduate study; fifth-year extensions not funded."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Toronto - Lester B. Pearson International Scholarships Portal",
+      "source_url": "https://future.utoronto.ca/pearson/about/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Internal mathematical scoring rubric comparing A-Levels against local Pakistani FSc qualifications",
+        "Specific country-by-country recipient target quotas"
+      ]
+    }
+  ]
+}

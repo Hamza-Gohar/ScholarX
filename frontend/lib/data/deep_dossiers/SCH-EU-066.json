@@ -1,0 +1,286 @@
+{
+  "scholarship_id": "SCH-EU-066",
+  "basic_details": {
+    "scholarship_name": "Erasmus Mundus Joint Master in Radiation and its Effects on MicroElectronics and Photonics Technologies (RADMEP)",
+    "offering_entity": "European Education and Culture Executive Agency (EACEA) & RADMEP Consortium",
+    "host_country": "France / Finland / Belgium / France",
+    "host_institutions_covered": "Université Jean Monnet Saint-Étienne (France), University of Jyväskylä (Finland), KU Leuven (Campus Geel, Belgium), Université de Montpellier (France)",
+    "degree_levels": [
+      "Master of Science (MSc / Multiple Degree)"
+    ],
+    "major_restrictions": "Microelectronics, Semiconductor Hardware, Radiation Effects, Photonics Technologies, Embedded Systems, and Nuclear/Space Instrumentation.",
+    "number_of_awards_total": "~18 to 22 prestigious Erasmus Mundus scholarship grants awarded globally per cohort",
+    "number_of_awards_pakistan": "Open globally under Partner Country quota; typically 2 to 3 Pakistani scholars selected per intake",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "24 months (2 full academic years across multiple European countries)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to candidates from all countries worldwide, including Pakistan (Partner Country category)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age limit under Erasmus Mundus programme rules.",
+    "academic_qualifications": "Recognized 4-year Bachelor of Science (BS / BSc 16-year) in Electrical Engineering, Electronics Engineering, Applied Physics, Materials Science, or Computer/Semiconductor Engineering with minimum CGPA 3.50 / 4.00 (80%+).",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum CGPA 3.50 / 4.00; competitive candidates typically hold CGPA >= 3.70 / 4.00 with exceptional physics and circuit analysis grades.",
+    "subject_background_prerequisites": "Substantial coursework in electromagnetism, solid-state physics, semiconductor device fundamentals, electronic circuits, and optics/photonics.",
+    "current_education_status": "Graduated or enrolled in final undergraduate year graduating by July 31 preceding September intake.",
+    "graduation_year_restrictions": "No restriction on year of graduation.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Research in semiconductor labs, hardware fabrication, or cleanroom exposure provides a competitive advantage.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "Official IELTS Academic (minimum 6.5 with at least 6.0 in each sub-score) or TOEFL iBT (minimum 90). MOI certificates are not accepted by RADMEP consortium.",
+    "other_language_requirements": "Consortium languages (French, Finnish, Dutch) are not required; coursework is 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Erasmus Mundus NDICI / IPA III Partner Country scholarship quota applies to Pakistani nationals.",
+    "previous_scholarship_restrictions": "Candidates who have previously benefited from an Erasmus Mundus Master or Doctoral scholarship are ineligible.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver across all partner universities (EUR 18,000 for non-EU students).",
+      "amount": "EUR 18,000 (100% Full Tuition Waiver)"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Direct application via RADMEP consortium portal is free of charge.",
+      "amount": "EUR 0"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Covered directly from the EUR 1,400 / month living allowance; university housing reserved in Saint-Étienne, Jyväskylä, and Geel.",
+      "amount": "Fully funded via living stipend"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "EUR 1,400 / month tax-free living allowance for up to 24 months (total EUR 33,600 | ~PKR 425,000 / month).",
+      "amount": "EUR 1,400 / month (~PKR 425,000/mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "EUR 3,000 per year travel contribution for Partner Country students living >4,000 km away.",
+      "amount": "EUR 6,000 total (EUR 3,000/year)"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "EUR 1,000 installation grant covers visa processing, medical attestations, and initial arrival logistics.",
+      "amount": "EUR 1,000 installation grant"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full worldwide comprehensive health, emergency, and travel insurance meeting Erasmus+ requirements.",
+      "amount": "100% Comprehensive Erasmus+ Insurance"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly EUR 1,400 living stipend plus access to subsidized campus dining across France, Finland, and Belgium.",
+      "amount": "Fully funded via living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to specialized semiconductor textbooks, IEEE Xplore digital library, and cleanroom protective gear.",
+      "amount": "Full university library and cleanroom access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Funded master thesis placements with industrial partners such as CERN, ESA, Airbus, STMicroelectronics, and Thales.",
+      "amount": "Funded research internships at CERN/ESA"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Mobility travel grant between consortium host nations.",
+      "amount": "Covered via Erasmus mobility travel budget"
+    },
+    "total_estimated_value_usd_per_year": 28000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple host institutions (Université Jean Monnet Saint-Étienne, University of Jyväskylä, KU Leuven Campus Geel, Université de Montpellier).",
+    "participating_institutions": [
+      "Université Jean Monnet Saint-Étienne (UJM - France)",
+      "University of Jyväskylä (JYU - Finland)",
+      "KU Leuven (Campus Geel - Belgium)",
+      "Université de Montpellier (UM - France)"
+    ],
+    "university_rankings_scope": "Leading European centers for nuclear instrumentation, radiation testing, and semiconductor photonics; CERN and ESA accredited partners.",
+    "available_majors": [
+      "Semester 1 (UJM): Fundamentals of Microelectronics and Photonics",
+      "Semester 2 (JYU): Radiation Effects on Components and Systems",
+      "Semester 3 (KU Leuven / Montpellier): Advanced Reliability / Photonic Devices in Harsh Environments",
+      "Semester 4: Master Thesis with Industrial or Research Partner (CERN, ESA, STMicroelectronics)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (120 ECTS credits)",
+    "admission_requirements_summary": "Bachelor degree in Electronics, Physics, or Electrical Engineering (CGPA >= 3.50/4.00), official IELTS (min 6.5) or TOEFL (min 90), CV, motivation statement, and two academic references via online portal.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Single consolidated application for the entire consortium; rigorous assessment on semiconductor physics and math background.",
+    "strategic_program_match_advice": "Highlight laboratory experience in semiconductor fabrication, radiation physics, optics, or embedded hardware in your personal statement."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://master-radmep.univ-st-etienne.fr/",
+    "portal_system_name": "RADMEP Consortium Online Application Portal",
+    "account_creation_instructions": "Register on the RADMEP portal, complete personal and academic history, upload attested transcripts, CV, statement of purpose, English test scorecard, and register two academic referees.",
+    "step_by_step_workflow": [
+      "Step 1: Review RADMEP mobility track, syllabus, and partner universities on the official portal.",
+      "Step 2: Prepare attested academic transcripts, degree certificate, Europass CV, motivation letter, and IELTS/TOEFL scorecard.",
+      "Step 3: Register on RADMEP online application portal and fill application fields.",
+      "Step 4: Submit online application before the scholarship deadline (January 20).",
+      "Step 5: Consortium Selection Committee reviews applications and scores candidates based on technical background and academic grades.",
+      "Step 6: Shortlisted candidates attend an online technical interview in February.",
+      "Step 7: Consortium publishes ranking and submits nominations to the European Commission (EACEA) in March.",
+      "Step 8: Final scholarship award notification issued in April; visa documentation and acceptance letters dispatched."
+    ],
+    "university_vs_scholarship_routing": "Integrated Routing: One single unified application covers both consortium degree admission and Erasmus Mundus scholarship funding.",
+    "recommendation_letters_submission_method": "Submitted online by two university academic professors directly via referee invitation link.",
+    "personal_statement_prompts": "Max 2-page statement explaining passion for semiconductor technology, microelectronics reliability, radiation environments, and alignment with RADMEP objectives.",
+    "study_plan_research_proposal_requirements": "Brief outline of desired thesis focus (space electronics, nuclear instrumentation, or high-energy physics sensors).",
+    "cv_format_requirements": "Europass format CV detailing academic history, laboratory experience, engineering tools, and honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview with consortium professors testing knowledge in semiconductor physics and circuit design.",
+    "standardized_tests": "IELTS Academic 6.5+ (min 6.0 each) or TOEFL iBT 90+.",
+    "application_fee_amount": "€0 (Completely free to apply)",
+    "attestation_requirements": "HEC degree attestation required for Pakistani applicants.",
+    "translation_requirements": "Official English translation for all academic records.",
+    "final_submission_method": "Online submission via RADMEP consortium portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor Degree Certificate",
+      "mandatory": true,
+      "specification": "HEC-attested undergraduate degree in Electronics, Electrical Engineering, Physics, or Materials Science.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts showing all subjects, credit hours, and grades with minimum CGPA 3.50 / 4.00.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Europass format CV highlighting hardware projects, lab skills, and publications.",
+      "pakistan_specific_instruction": "Standard Europass CV."
+    },
+    {
+      "document_name": "Letter of Motivation",
+      "mandatory": true,
+      "specification": "Structured statement of purpose detailing interest in radiation effects, semiconductor hardening, and photonics.",
+      "pakistan_specific_instruction": "Highlight long-term impact for technological development."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from university professors submitted directly through portal.",
+      "pakistan_specific_instruction": "On official institutional letterhead."
+    },
+    {
+      "document_name": "English Language Certificate",
+      "mandatory": true,
+      "specification": "Official IELTS Academic (minimum 6.5) or TOEFL iBT (minimum 90) test certificate.",
+      "pakistan_specific_instruction": "IELTS or TOEFL scorecard."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Valid Pakistani passport copy valid for at least 2 years.",
+      "pakistan_specific_instruction": "Clear color copy."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-11-01",
+    "application_deadline": "2027-01-20",
+    "university_admission_deadline": "2027-01-20",
+    "document_submission_deadline": "2027-01-20",
+    "recommendation_letters_deadline": "2027-01-31",
+    "interview_period": "February 2027",
+    "shortlist_announcement": "Mid March 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "2027-09-01",
+    "annual_cycle_notes": "Scholarship applications close January 20; self-funded applications accepted until May."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "45% (Academic performance in physics, semiconductor devices, and circuit analysis)",
+    "extracurricular_and_leadership_weight": "5% (Engineering competitions and leadership roles)",
+    "research_experience_weight": "25% (Quality of final year project, cleanroom experience, or published papers)",
+    "work_experience_weight": "5% (Electronics/semiconductor industry internships)",
+    "personal_statement_weight": "10% (Clarity of technical goals and alignment with space/nuclear radiation focus)",
+    "recommendations_weight": "5% (Academic referee assessments)",
+    "interview_weight": "5% (Online technical discussion and problem solving)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure merit evaluation)",
+    "selection_panel_composition": "Joint Academic Committee comprising professors from UJM, JYU, KU Leuven, and UM.",
+    "evaluation_methodology": "Standardized multi-criteria evaluation matrix covering academic excellence, physics fundamentals, and motivation."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,200 to 1,600 worldwide applications",
+    "total_scholarships_awarded": "~18 to 22 scholarships per cohort",
+    "acceptance_rate_global": "~5.4%",
+    "acceptance_rate_pakistan": "~6% to 9% among electrical/electronics engineering graduates",
+    "typical_successful_applicant_gpa": "3.75 / 4.00 (top 10% class ranking)",
+    "typical_academic_and_research_profile": "Graduates in electronics or applied physics with solid mathematical foundations, circuit simulation skills, and semiconductor device physics knowledge.",
+    "common_backgrounds_of_winners": "Graduates from GIKI, NUST, UET Lahore, FAST-NUCES, and PIEAS.",
+    "high_representation_countries": "Pakistan, India, Italy, Spain, Brazil, Turkey, Colombia, Vietnam.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply via the official RADMEP portal https://master-radmep.univ-st-etienne.fr/.",
+      "Beware of commercial agencies claiming to guarantee Erasmus Mundus scholarships."
+    ],
+    "application_fee_warning": "Applying for the RADMEP Erasmus Mundus scholarship is 100% free.",
+    "agent_and_intermediary_warnings": "The consortium does not cooperate with educational agents or commercial recruiters.",
+    "hidden_costs_breakdown": [
+      "Application fee: €0 (Free).",
+      "Apostille and HEC degree attestation charges in Pakistan: ~PKR 15,000 - 25,000.",
+      "Initial French student visa application fee prior to arrival (covered via €1,000 installation grant).",
+      "Inter-country mobility travel expenses (funded via €3,000/year travel grant)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You need prior knowledge of French or Finnish. Reality: The entire curriculum is delivered 100% in English across all 4 host institutions.",
+      "Myth: You must have space agency experience to qualify. Reality: Outstanding foundational knowledge in electronics and semiconductor physics is what is evaluated."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party blogs claim that MOI certificates are accepted; the RADMEP consortium strictly enforces official IELTS or TOEFL score reports."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass at least 60 ECTS credits each academic year to proceed between mobility universities.",
+    "attendance_requirements": "Mandatory full-time participation in all laboratory exercises, radiation facility visits, and industry workshops.",
+    "academic_progress_monitoring": "Consortium review board evaluates progress at the conclusion of each academic semester.",
+    "work_restrictions_during_study": "Scholars may not engage in full-time external employment that interferes with full-time academic study.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Revocation of scholarship and recovery of unspent funds in case of withdrawal or academic misconduct.",
+    "rules_for_changing_university": "Mobility semesters are structured; semester 3 specialization choice is finalized during semester 2.",
+    "rules_for_changing_major": "Not applicable to joint master's programme.",
+    "extension_policy": "Scholarship duration is strictly fixed at 24 months."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "RADMEP Official Erasmus Mundus Consortium Portal",
+      "source_url": "https://master-radmep.univ-st-etienne.fr/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "European Commission EACEA Erasmus Mundus Catalogue",
+      "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

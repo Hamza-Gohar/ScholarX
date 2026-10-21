@@ -1,0 +1,290 @@
+{
+  "scholarship_id": "SCH-EU-048",
+  "basic_details": {
+    "scholarship_name": "Erasmus Mundus Joint Master in Big Data Management and Analytics (BDMA)",
+    "offering_entity": "European Commission (EACEA) & BDMA University Consortium",
+    "host_country": "Belgium / France / Spain / Netherlands / Germany",
+    "host_institutions_covered": "Université Libre de Bruxelles (ULB, Belgium - Coordinating Institution), Universitat Politècnica de Catalunya (UPC, Spain), CentraleSupélec - Université Paris-Saclay (France), Technische Universiteit Eindhoven (TU/e, Netherlands), Technische Universität Berlin (TU Berlin, Germany)",
+    "degree_levels": [
+      "Master of Science (MSc - Joint or Multiple Degrees)"
+    ],
+    "major_restrictions": "Big Data Management and Analytics: Business Intelligence, Advanced Data Mining, Large-Scale Data Analytics, Distributed Computing, Cloud Infrastructures, and Responsible AI.",
+    "number_of_awards_total": "~20 to 25 fully funded Erasmus Mundus scholarship grants awarded globally per annual cohort",
+    "number_of_awards_pakistan": "Open global merit competition (Partner Country category); Pakistani computer scientists and data engineers secure ~2 to 4 full scholarships annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "2 years (full standard duration of 120 ECTS Joint Master's program across minimum 2-3 European partner institutions)",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "€1,400 / month tax-free living allowance for full 24 months (€33,600 total)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to applicants worldwide (Partner Country category for Pakistan)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limit; evaluated on academic excellence, technical competencies, and motivation.",
+    "academic_qualifications": "A recognized 4-year Bachelor of Science / Engineering in Computer Science, Software Engineering, Data Science, or Mathematics (16 years education, 180-240 ECTS equivalent) with minimum CGPA 3.40 / 4.00 (or 78%+ aggregate) from an HEC-recognized university in Pakistan.",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.4,
+    "grading_conversion_notes": "First-class honors or top 10% class percentile equivalent.",
+    "subject_background_prerequisites": "Rigorous undergraduate foundation in algorithms, databases (relational and NoSQL), data structures, operating systems, linear algebra, calculus, and probability/statistics.",
+    "current_education_status": "Graduating seniors in their final semester can apply conditionally provided degree certificate is awarded prior to program commencement in September.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Professional experience in software engineering, data pipelines, or machine learning strengthens the application portfolio.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 overall (minimum 6.0 in each sub-score) or TOEFL iBT minimum 90 (minimum 20 in each sub-score). Standardized test is mandatory under Erasmus Mundus consortium rules.",
+    "other_language_requirements": "None; instruction and examinations across all partner universities are 100% in English.",
+    "gender_specific_requirements": null,
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates apply through the centralized BDMA online portal hosted by Université Libre de Bruxelles.",
+    "previous_scholarship_restrictions": "Applicants who have previously received an Erasmus Mundus Joint Master Degree (EMJMD) scholarship are not eligible for a second one.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full participation and tuition fee waiver (€9,000 / year for Partner Country students) covering all consortia universities, laboratory fees, and library charges.",
+      "amount": "100% covered (€18,000 total 2-year value; ~PKR 5,400,000)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Online application via the official BDMA consortium portal is completely free of charge.",
+      "amount": "€0"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Consortium universities assist with reserved student housing in Brussels, Barcelona, Paris, Eindhoven, and Berlin; rent is paid from the generous monthly living stipend.",
+      "amount": "Covered via monthly stipend (€400 - €700 / month rent)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living allowance of €1,400 per month disbursed for the full 24 months of the programme (€33,600 total; ~PKR 420,000 / month; ~PKR 10,080,000 total).",
+      "amount": "€1,400 / month (~PKR 420,000 / month; €16,800 / year)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Consortium travel and installation grant embedded into the Erasmus+ scholarship allocation, covering international flights between Pakistan and European study tracks.",
+      "amount": "€3,000 / year travel contribution (~PKR 900,000 / year)"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Schengen study visa and national residence permit fees across Belgium, Spain, France, and Germany are covered from the scholarship travel/installation allocation.",
+      "amount": "Covered via installation grant"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive worldwide private health, accident, and repatriation insurance policy (Marsh or Dr. Walter) compliant with EACEA standards provided 100% free.",
+      "amount": "100% covered by the European Commission"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered through the monthly living stipend of €1,400.",
+      "amount": "Included in monthly living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to high-performance computing clusters, cloud credits (AWS, Google Cloud, Azure), and university software licenses.",
+      "amount": "100% provided by consortium infrastructure"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Consortium funding available for students presenting their Master's thesis research at major international data conferences (VLDB, SIGMOD, KDD, EDBT).",
+      "amount": "Up to €1,500 for conference travel"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Inter-consortium mobility travel costs between Year 1 and Year 2 institutions (e.g., Brussels to Barcelona or Paris) are fully covered.",
+      "amount": "100% covered via mobility grant"
+    },
+    "total_estimated_value_usd_per_year": 32000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple premier European institutions (consortium mobility across at least two EU countries is mandatory).",
+    "participating_institutions": [
+      "Université Libre de Bruxelles (ULB, Brussels, Belgium - Coordinator)",
+      "Universitat Politècnica de Catalunya (UPC - BarcelonaTech, Barcelona, Spain)",
+      "CentraleSupélec - Université Paris-Saclay (Paris, France)",
+      "Eindhoven University of Technology (TU/e, Eindhoven, Netherlands)",
+      "Technical University of Berlin (TU Berlin, Berlin, Germany)"
+    ],
+    "university_rankings_scope": "Consortium comprises elite institutions: Université Paris-Saclay is ranked #12 globally in Shanghai ARWU; UPC is #1 in Spain for CS; TU Berlin is a top TU9 German technical university.",
+    "available_majors": [
+      "Big Data Management and Analytics (Foundations Track - ULB/UPC)",
+      "Business Intelligence and Analytics (Track at UPC)",
+      "Large-Scale Data Analytics (Track at CentraleSupélec)",
+      "Cloud Computing and High-Performance Analytics (Track at TU Berlin)",
+      "Responsible Data Science and Process Mining (Track at TU/e)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (4 semesters, 120 ECTS)",
+    "admission_requirements_summary": "Recognized 4-year Bachelor's degree in CS/SE/Data Science (180-240 ECTS equivalence), minimum CGPA 3.4/4.0, standardized English test (IELTS 6.5 or TOEFL 90), two academic recommendation letters, CV, and motivation essay.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "All applicants enter a centralized global competition; top-ranked scholars receive both program admission and the prestigious Erasmus Mundus scholarship.",
+    "strategic_program_match_advice": "Clearly articulate in your motivation statement why you chose BDMA over standard CS degrees, highlighting your familiarity with distributed systems (Spark, Hadoop), SQL/NoSQL architectures, and advanced data mining."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://bdma.ulb.ac.be/ & https://bdma.ulb.ac.be/apply/",
+    "portal_system_name": "BDMA Centralized Online Application System (ULB)",
+    "account_creation_instructions": "Register an account on the BDMA application portal, complete the online application form, designate preferred Year 2 specialization mobility tracks, and upload all required documents.",
+    "step_by_step_workflow": [
+      "Step 1: Review BDMA academic prerequisites and ensure valid English test scores (IELTS min 6.5 or TOEFL min 90).",
+      "Step 2: Register on the BDMA online application portal (https://bdma.ulb.ac.be/apply/).",
+      "Step 3: Complete the academic profile, curriculum details, and preferred specialization track selections.",
+      "Step 4: Enter contact details for two academic referees who will receive automated links to submit confidential recommendation letters.",
+      "Step 5: Upload attested transcripts, Bachelor's degree certificate, detailed CV, motivation letter, and passport copy before the deadline (typically January 15).",
+      "Step 6: Consortium Academic Selection Board ranks all global applications and submits scholarship nomination list to EACEA.",
+      "Step 7: Shortlisted and selected candidates receive formal scholarship offer letters in late March or early April.",
+      "Step 8: Accept scholarship offer, receive official visa support package from ULB, and apply for Belgian Type D study visa at the Embassy of Belgium in Islamabad."
+    ],
+    "university_vs_scholarship_routing": "Integrated Track: Single application via the BDMA portal serves as both program admission and Erasmus Mundus scholarship application.",
+    "recommendation_letters_submission_method": "Submitted online by referees via automated institutional links dispatched directly to their official university email addresses.",
+    "personal_statement_prompts": "Structured motivation letter (maximum 2 pages) addressing technical background, motivation for BDMA, choice of mobility tracks, and career aspirations.",
+    "study_plan_research_proposal_requirements": "Summary of technical domain of interest and intended thesis research direction in big data / analytics.",
+    "cv_format_requirements": "Europass CV detailing academic qualifications, technical skills, programming languages, databases, and publications.",
+    "interviews_conducted": false,
+    "interview_format_details": "Selection is purely dossier-based; online interviews are conducted only in rare borderline instances.",
+    "standardized_tests": "IELTS Academic (min 6.5 overall, 6.0 sub-scores) or TOEFL iBT (min 90, 20 sub-scores); GRE is recommended but not mandatory.",
+    "application_fee_amount": "€0 (Free on BDMA portal)",
+    "attestation_requirements": "Degrees and transcripts must be attested by HEC and MOFA Pakistan; Matric/Inter by IBCC.",
+    "translation_requirements": "Certified English translation required for all official documents.",
+    "final_submission_method": "Online submission via the BDMA central application system."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Bachelor's Degree Certificate and Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts for 4-year Bachelor's in CS/SE/Data Science with minimum CGPA 3.40/4.00.",
+      "pakistan_specific_instruction": "Attested copies from HEC and MOFA Pakistan."
+    },
+    {
+      "document_name": "Official English Proficiency Score Report",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5 overall, 6.0 in each section) or TOEFL iBT (min 90, 20 in each section).",
+      "pakistan_specific_instruction": "Score report valid at time of application."
+    },
+    {
+      "document_name": "Two Academic Recommendation Letters",
+      "mandatory": true,
+      "specification": "Confidential recommendation letters from university professors who taught or supervised previous research.",
+      "pakistan_specific_instruction": "Referees must submit from institutional Pakistani university email addresses."
+    },
+    {
+      "document_name": "Structured Motivation Letter",
+      "mandatory": true,
+      "specification": "Maximum 2-page essay detailing background, technical competencies, and motivation for big data analytics.",
+      "pakistan_specific_instruction": "Demonstrate clear knowledge of the BDMA curriculum and consortium universities."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Europass CV highlighting technical skills, programming proficiencies, and projects.",
+      "pakistan_specific_instruction": "Include links to GitHub and academic code repositories."
+    },
+    {
+      "document_name": "Proof of Residence Certificate",
+      "mandatory": true,
+      "specification": "Official certificate confirming permanent residence in Pakistan for the last 12 months (e.g. utility bill, domicile, employer/university letter).",
+      "pakistan_specific_instruction": "Required under Erasmus Mundus 12-month residency rule."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "High-resolution color scan of passport bio page valid for at least 3 years.",
+      "pakistan_specific_instruction": "Pakistani passport must have validity through late 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "October 15",
+    "application_deadline": "January 15",
+    "university_admission_deadline": "January 15",
+    "document_submission_deadline": "January 15",
+    "recommendation_letters_deadline": "January 22",
+    "interview_period": "February (if conducted)",
+    "shortlist_announcement": "Late March",
+    "final_result_acceptance_deadline": "Mid-April",
+    "visa_application_window": "May - July",
+    "semester_commencement": "Early September (commencing at ULB Brussels or UPC Barcelona)",
+    "annual_cycle_notes": "Centralized global application period runs annually from mid-October to mid-January. Strict cutoff."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Undergraduate GPA and performance in core computer science, mathematics, and database courses)",
+    "extracurricular_and_leadership_weight": "5% (Extracurricular leadership and open-source community engagement)",
+    "research_experience_weight": "25% (Final year capstone project, publications, technical code portfolio, and work experience)",
+    "work_experience_weight": "5% (Industry data engineering or software development experience)",
+    "personal_statement_weight": "15% (Quality of motivation letter, clarity of technical objectives, and articulation)",
+    "recommendations_weight": "10% (Quality and depth of academic appraisals from professors)",
+    "interview_weight": "0% (Dossier-based scoring rubric)",
+    "test_scores_weight": "0% (Language proficiency fulfills eligibility threshold)",
+    "financial_need_weight": "0% (Pure academic and technical merit ranking)",
+    "selection_panel_composition": "Joint Academic Board comprising professors and coordinators from all 5 consortium universities.",
+    "evaluation_methodology": "Two independent academic reviewers score each dossier according to a standardized 100-point rubric, followed by composite consortium ranking."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,800 to 2,500 international applicants worldwide",
+    "total_scholarships_awarded": "~20 to 25 Erasmus Mundus full scholarship awards globally",
+    "acceptance_rate_global": "~1.0% to 1.5%",
+    "acceptance_rate_pakistan": "~2.0% to 3.0% among high-caliber computing applicants",
+    "typical_successful_applicant_gpa": "CGPA 3.65+ / 4.00 or top 5% class rank from premier Pakistani computing universities (FAST-NUCES, NUST, LUMS, GIKI, UET)",
+    "typical_academic_and_research_profile": "Graduates with exceptional computing foundations, strong software engineering practices, published research in data/ML, or substantial GitHub project portfolios.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani computer science, data science, and software engineering faculties.",
+    "high_representation_countries": "Pakistan, India, China, Vietnam, Nigeria, Brazil, Turkey, Colombia, Egypt.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of unauthorized agents claiming to sell Erasmus Mundus scholarship spots.",
+      "Applications are submitted solely via https://bdma.ulb.ac.be/."
+    ],
+    "application_fee_warning": "BDMA does NOT charge any application fee. Any request for money is fraudulent.",
+    "agent_and_intermediary_warnings": "The BDMA Consortium and the European Commission do not work with commercial agents or agencies.",
+    "hidden_costs_breakdown": [
+      "Belgian student visa administrative fee: €238 (~PKR 71,000).",
+      "IELTS/TOEFL examination registration: ~PKR 60,000.",
+      "Police character certificate and legal attestations in Pakistan: ~PKR 25,000.",
+      "Initial pocket money before first stipend transfer in Brussels: ~€400 (~PKR 120,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You can stay in one university for the full 2 years. Reality: Erasmus Mundus requires mobility across at least two different European countries during the Master's program.",
+      "Myth: The scholarship stipend must be repaid if you don't return to Pakistan. Reality: Erasmus Mundus scholarships carry zero repayment obligations; scholars are free to pursue global careers or PhDs in Europe."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial websites claim GRE is required; GRE is recommended by BDMA but is NOT strictly mandatory."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic performance and earn 60 ECTS per year without fail grades across all consortium universities.",
+    "attendance_requirements": "Full-time physical attendance and mandatory participation in consortium academic activities and summer workshops.",
+    "academic_progress_monitoring": "Semester-by-semester credit audit by the Consortium Coordinating Board at Université Libre de Bruxelles.",
+    "work_restrictions_during_study": "Part-time work is legally permitted under national student visa rules in Belgium, Spain, France, and Germany, but discouraged due to intensive curriculum.",
+    "home_country_return_obligation": "Zero return obligation; graduates receive European joint/multiple degrees and are eligible for European post-study work permits.",
+    "service_obligations_or_bonds": "Active participation in Erasmus Mundus Students and Alumni Association (EMA) activities.",
+    "repayment_clawback_conditions": "Stipend discontinued upon unapproved abandonment of studies or expulsion for academic misconduct.",
+    "rules_for_changing_university": "Mobility tracks are fixed according to selected curriculum specializations approved by the consortium.",
+    "rules_for_changing_major": "Not applicable; curriculum is unified under the Big Data Management and Analytics joint framework.",
+    "extension_policy": "Scholarship is granted for maximum 24 months; thesis completion beyond 24 months must be self-funded."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Erasmus Mundus BDMA Official Consortium Portal",
+      "source_url": "https://bdma.ulb.ac.be/",
+      "source_type": "OFFICIAL_COMMISSION",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "European Education and Culture Executive Agency (EACEA) Erasmus Mundus Directory",
+      "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

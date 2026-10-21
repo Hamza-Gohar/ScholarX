@@ -1,0 +1,290 @@
+{
+  "scholarship_id": "SCH-ME-032",
+  "basic_details": {
+    "scholarship_name": "Zayed University Graduate Merit Scholarships",
+    "offering_entity": "Zayed University (ZU), United Arab Emirates",
+    "host_country": "United Arab Emirates",
+    "host_institutions_covered": "Zayed University Campuses (Abu Dhabi and Dubai Campuses, UAE)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Master of Arts (MA)",
+      "Executive Master of Business Administration (EMBA)"
+    ],
+    "major_restrictions": "Master of Science in Information Technology (Cyber Security), Master of Science in Finance, EMBA, Master of Arts in Diplomacy and International Affairs, and Master of Science in Environment and Sustainability.",
+    "number_of_awards_total": "~50 to 80 tuition merit scholarships awarded per academic cycle across graduate faculties",
+    "number_of_awards_pakistan": "Open to all nationalities based on academic merit; prominent Pakistani graduate cohort in UAE higher education (~10 to 15 awards annually)",
+    "funding_classification": "PARTIAL",
+    "duration_of_scholarship": "Normal duration of Master's program (typically 2 years / 4 semesters)",
+    "tuition_waiver_type": "PARTIAL",
+    "monthly_stipend_amount": "AED 0 (Tuition reduction discount only; no monthly living allowance provided)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international students and UAE residents of all nationalities (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No strict age limit for graduate study; applicants must meet academic admission standards.",
+    "academic_qualifications": "Recognized 16-year Bachelor's degree from an HEC-recognized institution with a minimum CGPA of 3.20 / 4.00 for scholarship eligibility (minimum 3.00 for regular admission). Must obtain degree equivalency from UAE Ministry of Education.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.2,
+    "grading_conversion_notes": "Tiered merit brackets: 40% tuition fee reduction for undergraduate CGPA >= 3.80 / 4.00; 30% reduction for CGPA 3.60 - 3.79; 20% reduction for CGPA 3.20 - 3.59.",
+    "subject_background_prerequisites": "Bachelor's degree in relevant or quantitative discipline for IT and Finance programs.",
+    "current_education_status": "Applicants must have completed Bachelor's degree and hold complete transcripts and certificate.",
+    "graduation_year_restrictions": "No specific graduation year limitation.",
+    "work_experience_required": true,
+    "work_experience_minimum_years": 1.0,
+    "work_experience_notes": "1 to 3 years relevant professional experience required or strongly preferred, particularly for EMBA and Diplomacy programs.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 79,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "Valid IELTS Academic (minimum 6.0 to 6.5 depending on program) or TOEFL iBT (minimum 79) or EmSAT English (minimum 1400) is mandatory.",
+    "other_language_requirements": "None; all graduate programs are conducted in English.",
+    "gender_specific_requirements": "Open to both male and female graduate applicants at both Abu Dhabi and Dubai campuses.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Merit scholarships are evaluated and granted automatically upon admission based on verified undergraduate CGPA.",
+    "previous_scholarship_restrictions": "Cannot be combined with another institutional or governmental fee sponsorship.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "PARTIAL",
+      "details": "20% to 40% tuition fee discount awarded based on undergraduate CGPA tiers (40% discount for CGPA 3.80+, 30% for 3.60-3.79, 20% for 3.20-3.59). Remaining tuition is student responsibility.",
+      "amount": "20% to 40% tuition waiver (approx. AED 18,000 to 45,000 total fee reduction; ~PKR 1,350,000 to 3,375,000)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Non-refundable application processing fee of AED 420 must be paid directly by the candidate upon portal submission.",
+      "amount": "AED 420 (~PKR 31,500 / ~USD 115) not covered"
+    },
+    "accommodation": {
+      "status": "NOT_COVERED",
+      "details": "University does not provide free housing for graduate students; students must self-fund private apartment rental in Dubai or Abu Dhabi.",
+      "amount": "Not covered (approx. AED 2,500 to 4,500 / month private rent)"
+    },
+    "monthly_stipend": {
+      "status": "NOT_COVERED",
+      "details": "No living stipend provided; candidates must have personal, family, or employer funds to cover living and accommodation costs.",
+      "amount": "AED 0 (Not covered)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel and relocation flights to the UAE are completely self-funded by the student.",
+      "amount": "Not covered"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "University sponsors the UAE student residence visa, but government visa charges, medical screening, and Emirates ID fees (~AED 2,500 to 3,500) are paid by the student.",
+      "amount": "Approx. AED 3,000 visa costs borne by student"
+    },
+    "health_insurance": {
+      "status": "NOT_COVERED",
+      "details": "Mandatory UAE health insurance coverage must be purchased by the student as a prerequisite for visa stamping.",
+      "amount": "Approx. AED 1,200 to 2,000 / year borne by student"
+    },
+    "food_allowance": {
+      "status": "NOT_COVERED",
+      "details": "All daily living, groceries, and dining costs are self-funded by the student.",
+      "amount": "Not covered"
+    },
+    "books_and_materials_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Textbooks and course packs self-funded; digital library access and electronic journal databases are included with university enrollment.",
+      "amount": "Not covered"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Graduate students can apply to Zayed University Office of Research for student travel grants up to AED 5,000 to present approved papers at international conferences.",
+      "amount": "Up to AED 5,000 conference presentation funding"
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Local transport (Dubai Metro, Abu Dhabi buses, or private commuting) is self-funded.",
+      "amount": "Not covered"
+    },
+    "total_estimated_value_usd_per_year": 6500
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution across dual campuses (Zayed University, Abu Dhabi and Dubai).",
+    "participating_institutions": [
+      "Zayed University (Abu Dhabi Campus, Khalifa City)",
+      "Zayed University (Dubai Campus, Academic City)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #651-700, QS Arab Region #20, CAA accredited by UAE Ministry of Education, AACSB accredited for Business.",
+    "available_majors": [
+      "Executive Master of Business Administration (EMBA)",
+      "Master of Science in Information Technology (Cyber Security)",
+      "Master of Science in Finance",
+      "Master of Arts in Diplomacy and International Affairs",
+      "Master of Arts in Communication (Strategic Public Relations)",
+      "Master of Science in Environment and Sustainability"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years (4 semesters, executive evening/weekend schedule)",
+    "admission_requirements_summary": "Bachelor's degree with minimum CGPA 3.00 (3.20 for scholarship), UAE MOE Certificate of Equivalency, official transcripts, IELTS Academic 6.0/6.5+ or TOEFL 79+, CV showing work experience, two recommendation letters, and statement of objectives.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Cyber Security and Finance have rigorous quantitative evaluations; EMBA requires solid professional track record.",
+    "strategic_program_match_advice": "Applicants must initiate the UAE Ministry of Education Certificate of Equivalency well in advance, as Pakistani HEC and MoFA attestations are required before UAE MOE processing."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.zu.ac.ae/main/en/graduate_programs/how_to_apply.aspx",
+    "portal_system_name": "Zayed University Graduate Online Admissions Portal",
+    "account_creation_instructions": "Register on ZU graduate portal, select intended degree program and preferred campus (Abu Dhabi or Dubai), fill academic and biographical details, and upload certified documents.",
+    "step_by_step_workflow": [
+      "Step 1: Obtain degree attestations from HEC Pakistan, MoFA Pakistan, and UAE Embassy Islamabad.",
+      "Step 2: Apply online for UAE Ministry of Education Certificate of Equivalency (moe.gov.ae).",
+      "Step 3: Register on Zayed University Graduate Admissions Portal and pay non-refundable AED 420 application fee.",
+      "Step 4: Upload attested transcripts, IELTS/TOEFL score, CV, two recommendation letters, and statement of intent.",
+      "Step 5: Attend admissions interview (conducted in-person or virtually via Zoom/Teams).",
+      "Step 6: Receive admission decision and Graduate Merit Scholarship tier confirmation (20%, 30%, or 40%).",
+      "Step 7: Pay seat deposit, complete course registration, and initiate UAE student visa process through university sponsorship."
+    ],
+    "university_vs_scholarship_routing": "Unified Institutional Evaluation: Scholarship tier is automatically evaluated and applied upon degree admission based on verified undergraduate CGPA.",
+    "recommendation_letters_submission_method": "Uploaded directly via application portal or sent via official referee corporate/institutional email.",
+    "personal_statement_prompts": "Statement of professional and academic objectives (500 to 1,000 words) describing career aspirations, background, and alignment with ZU program.",
+    "study_plan_research_proposal_requirements": "Not mandatory for coursework Master's; brief statement of research interest required for thesis options.",
+    "cv_format_requirements": "Professional chronological CV highlighting higher education, work history, leadership, and technical qualifications.",
+    "interviews_conducted": true,
+    "interview_format_details": "Departmental faculty panel interview assessing professional maturity, academic preparedness, and communication skills.",
+    "standardized_tests": "IELTS Academic (minimum 6.0 - 6.5) or TOEFL iBT (minimum 79) mandatory; GMAT/GRE optional.",
+    "application_fee_amount": "AED 420 (approx. USD 115 / ~PKR 31,500)",
+    "attestation_requirements": "HEC Pakistan, MoFA Pakistan, UAE Embassy Islamabad, and UAE Ministry of Education Certificate of Equivalency mandatory.",
+    "translation_requirements": "Official certified English translation of all degrees and transcripts not originally issued in English.",
+    "final_submission_method": "100% online submission via Zayed University Graduate portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Bachelor's Degree Certificate and Transcripts",
+      "mandatory": true,
+      "specification": "16-year Bachelor's degree with minimum CGPA 3.0/4.0 (3.20+ for merit discount).",
+      "pakistan_specific_instruction": "Attested by HEC, MoFA, and UAE Embassy."
+    },
+    {
+      "document_name": "UAE Ministry of Education Certificate of Equivalency",
+      "mandatory": true,
+      "specification": "Official equivalency document issued by UAE MOE verifying foreign degree parity.",
+      "pakistan_specific_instruction": "Obtained via UAE MOE portal after MoFA and UAE Embassy attestations."
+    },
+    {
+      "document_name": "English Language Proficiency Test Score",
+      "mandatory": true,
+      "specification": "Official IELTS Academic (minimum 6.0 to 6.5) or TOEFL iBT (minimum 79).",
+      "pakistan_specific_instruction": "Direct electronic score report submitted to Zayed University."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Detailed professional CV detailing 1 to 3+ years of relevant employment history.",
+      "pakistan_specific_instruction": "Demonstrating career track record."
+    },
+    {
+      "document_name": "Two Recommendation Letters",
+      "mandatory": true,
+      "specification": "One academic and one professional recommendation assessing capability for graduate study.",
+      "pakistan_specific_instruction": "Printed on official institutional/corporate letterhead."
+    },
+    {
+      "document_name": "Statement of Professional and Academic Objectives",
+      "mandatory": true,
+      "specification": "500 to 1,000-word essay explaining motivations, background, and career trajectory.",
+      "pakistan_specific_instruction": "Tailored to chosen Zayed University graduate curriculum."
+    },
+    {
+      "document_name": "Valid Passport Copy and Photographs",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for minimum 6 months.",
+      "pakistan_specific_instruction": "Along with passport-size digital photographs against white background."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "April 1 (Fall intake) / October 1 (Spring intake)",
+    "application_deadline": "June 30 (Fall intake) / November 30 (Spring intake)",
+    "university_admission_deadline": "June 30 (Fall) / November 30 (Spring)",
+    "document_submission_deadline": "June 30 (Fall) / November 30 (Spring)",
+    "recommendation_letters_deadline": "June 30 (Fall) / November 30 (Spring)",
+    "interview_period": "July (Fall) / December (Spring)",
+    "shortlist_announcement": "Rolling review, results within 4 to 6 weeks of complete submission",
+    "final_result_acceptance_deadline": "August 10 (Fall) / January 5 (Spring)",
+    "visa_application_window": "July - August (Fall) / December - January (Spring)",
+    "semester_commencement": "Late August (Fall intake) / January (Spring intake)",
+    "annual_cycle_notes": "Admissions operate biannually across Fall (August start) and Spring (January start) semesters."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "50% (Undergraduate CGPA and transcript performance)",
+    "extracurricular_and_leadership_weight": "10% (Leadership achievements and community involvement)",
+    "research_experience_weight": "10% (Scholarly papers or analytical research writing)",
+    "work_experience_weight": "15% (Relevant industry experience and professional accomplishments)",
+    "personal_statement_weight": "10% (Quality and alignment of statement of objectives)",
+    "recommendations_weight": "5% (Appraisals from academic and professional referees)",
+    "interview_weight": "0% (Used for admission qualification rather than percentage scoring)",
+    "test_scores_weight": "0% (English test is qualifying prerequisite)",
+    "financial_need_weight": "0% (Merit-based tuition discount only)",
+    "selection_panel_composition": "Zayed University Deanship of Graduate Studies and Faculty Admissions Committee.",
+    "evaluation_methodology": "Systematic evaluation: Candidates meeting GPA criteria (>= 3.20) are automatically tiered into 20%, 30%, or 40% tuition reduction brackets upon formal admission."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,500 graduate applicants across programs",
+    "total_scholarships_awarded": "~50 to 80 graduate merit tuition awards across all tiers",
+    "acceptance_rate_global": "~25% to 35% for admission; ~15% for top 40% merit bracket",
+    "acceptance_rate_pakistan": "~20% to 30% for qualified applicants with equivalency",
+    "typical_successful_applicant_gpa": "Undergraduate CGPA >= 3.60 / 4.00 for substantial 30-40% fee reduction",
+    "typical_academic_and_research_profile": "Graduates with solid bachelor's records, 2+ years professional experience in corporate, government, or IT sectors, and verified IELTS 6.5+.",
+    "common_backgrounds_of_winners": "Graduates from top Pakistani universities (LUMS, NUST, FAST, IBA, COMSATS) and regional UAE bachelor's alumni.",
+    "high_representation_countries": "UAE, Pakistan, Egypt, Jordan, India, Lebanon, Palestine, Nigeria.",
+    "competitiveness_tier": "MODERATE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only submit applications through official portal at zu.ac.ae.",
+      "Beware of external admission agencies charging unauthorized commission fees."
+    ],
+    "application_fee_warning": "Application fee of AED 420 is paid strictly through the secure university portal; no third-party cash payments.",
+    "agent_and_intermediary_warnings": "Zayed University does not require intermediaries; all applicants are evaluated directly.",
+    "hidden_costs_breakdown": [
+      "Remaining 60% to 80% tuition fees: ~AED 50,000 to 90,000 across the degree program.",
+      "UAE MOE Degree Equivalency fee: ~AED 100 to 200.",
+      "Attestation costs across Pakistan and UAE missions: ~PKR 35,000 to 50,000.",
+      "UAE Student Visa issuance, medical fitness test, and Emirates ID: ~AED 2,500 to 3,500.",
+      "Living expenses, rent, and groceries in Dubai/Abu Dhabi: ~AED 3,500 to 5,500 / month."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: The scholarship covers living expenses or housing. Reality: This is exclusively a partial tuition fee waiver (20-40%). Students must fund all living and remaining tuition costs.",
+      "Myth: You can enroll without UAE MOE Equivalency. Reality: UAE MOE Equivalency is legally mandatory for formal matriculation and degree conferral."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim full living stipends exist; ZU graduate merit awards are strictly tuition waivers."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative graduate GPA of 3.20 / 4.00 throughout each semester of study to retain tuition fee waiver.",
+    "attendance_requirements": "Minimum 80% class attendance in all registered graduate modules.",
+    "academic_progress_monitoring": "Biannual GPA review at the end of each semester by the Deanship of Graduate Studies.",
+    "work_restrictions_during_study": "Classes are scheduled during evenings and weekends; international students holding UAE residency or university visa are permitted to pursue employment subject to UAE labor laws.",
+    "home_country_return_obligation": "None; graduates are free to pursue employment in the UAE or internationally.",
+    "service_obligations_or_bonds": "Zero service bond or post-graduation employment commitment.",
+    "repayment_clawback_conditions": "If graduate CGPA drops below 3.20 / 4.00, the merit discount is revoked for subsequent semesters without retroactive payback.",
+    "rules_for_changing_university": "Non-transferable; scholarship applies solely to registered study at Zayed University.",
+    "rules_for_changing_major": "Changing major requires re-application and approval from both academic colleges and scholarship committee.",
+    "extension_policy": "Scholarship covers only the standard normative semester sequence; extra remedial semesters are billed at full non-discounted rate."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Zayed University Deanship of Graduate Studies Tuition Fees & Financial Support",
+      "source_url": "https://www.zu.ac.ae/main/en/graduate_programs/tuition_fees.aspx",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Zayed University Graduate Admission Requirements",
+      "source_url": "https://www.zu.ac.ae/main/en/graduate_programs/admission_requirements.aspx",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

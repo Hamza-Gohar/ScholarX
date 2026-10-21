@@ -1,0 +1,286 @@
+{
+  "scholarship_id": "SCH-EU-012",
+  "basic_details": {
+    "scholarship_name": "Romanian Government ARICE / MFA Scholarship Programme",
+    "offering_entity": "Romanian Ministry of Foreign Affairs (MFA) & Agency for Investments and Foreign Trade (ARICE)",
+    "host_country": "Romania",
+    "host_institutions_covered": "All accredited Romanian State Universities (University of Bucharest, POLITEHNICA Bucharest, Babeș-Bolyai, Technical University of Cluj-Napoca, Alexandru Ioan Cuza)",
+    "degree_levels": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "major_restrictions": "Open to almost all academic fields: Engineering, Computer Science, Architecture, Agriculture, Veterinary Medicine, Economics, Humanities, Political Science. Excludes Medicine, Dental Medicine, and Pharmacy.",
+    "number_of_awards_total": "~500 scholarships awarded annually across non-EU partner nations",
+    "number_of_awards_pakistan": "Open to Pakistan as an eligible non-EU partner state (~30 to 50 Pakistani students selected annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Bachelor's (3-6 years) + 1 preparatory year; Master's (1.5-2 years) + 1 preparatory year; PhD (3-4 years)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of non-EU countries (Pakistani citizens eligible; dual Romanian citizens strictly ineligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 35,
+    "age_limit_postgrad": 45,
+    "age_limit_notes": "Undergraduate applicants under 35; PhD applicants under 45 years of age.",
+    "academic_qualifications": "12 years (HSSC/FSc/A-Levels) for Bachelor's; 16 years (BS) for Master's; 18 years (MS/MPhil) for PhD.",
+    "minimum_gpa_percentage": 70.0,
+    "minimum_gpa_scale": 2.8,
+    "grading_conversion_notes": "Minimum grade 7.00 out of 10.00 (Romanian grading system, equivalent to at least 70% or 2.80/4.00 CGPA).",
+    "subject_background_prerequisites": "Secondary school or university education in relevant academic subjects.",
+    "current_education_status": "Graduated or in final year of study.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Academic record carries the overwhelming selection weight.",
+    "english_proficiency": {
+      "test_required": false,
+      "ielts_minimum": null,
+      "toefl_minimum": null,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": true,
+      "notes": "No English test required. Studies are conducted in the Romanian language, preceded by a fully funded 1-year preparatory Romanian language course."
+    },
+    "other_language_requirements": "Preparatory year of Romanian language is mandatory (unless applicant already holds a Romanian language proficiency certificate B2).",
+    "gender_specific_requirements": "Equal opportunity; all eligible candidates welcome.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Cultural diplomacy and academic exchange.",
+    "previous_scholarship_restrictions": "Ineligible if already benefiting from another Romanian state scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% tuition fees covered for the preparatory language year and the entire duration of the degree program.",
+      "amount": "€2,500 to €5,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "No university admission application fees; managed via ARICE/MFA centralized platform.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "FREE DORMITORY",
+      "details": "Free student hostel / university dormitory accommodation provided through the Romanian Ministry of Education budget.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly allowance to cover personal study expenses.",
+      "amount": "Bachelor: 65 EUR/mo; Master: 75 EUR/mo; PhD: 85 EUR/mo (subsidized alongside free dorm and tuition)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International airfare from Pakistan to Romania is paid by student/family.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "WAIVED",
+      "details": "Romanian long-stay student visa (type D/SD) is issued free of charge for scholarship holders.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Medical assistance in case of medical-surgical emergencies and acute illnesses provided by the Romanian state.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Access to subsidized university cafeterias and canteens across Romanian campuses.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Handled through personal budget.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Departmental research facilities accessible for PhD scholars.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Domestic public transport and student train travel heavily discounted (50%–90% off) by Romanian student law.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 12000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Apply for up to two universities and study options via the central portal.",
+    "participating_institutions": [
+      "National University of Science and Technology POLITEHNICA Bucharest",
+      "University of Bucharest",
+      "Babeș-Bolyai University (Cluj-Napoca)",
+      "Technical University of Cluj-Napoca",
+      "Alexandru Ioan Cuza University (Iași)",
+      "Gheorghe Asachi Technical University of Iași",
+      "West University of Timișoara"
+    ],
+    "university_rankings_scope": "Leading national public universities in Romania with strong engineering and science faculties.",
+    "available_majors": [
+      "Computer Science, Software Engineering, Civil Engineering, Mechanical Engineering, Electrical Engineering, Architecture, Agriculture, Veterinary Medicine, Economics, Business Administration, International Relations, Law, Physics, Chemistry, Biology"
+    ],
+    "english_taught_program_availability": false,
+    "program_duration": "Preparatory year (1 yr) + Bachelor's (3-4 yrs) / Master's (2 yrs) / PhD (3-4 yrs)",
+    "admission_requirements_summary": "Handled centrally by the Ministry of Foreign Affairs / ARICE and Ministry of Education; letter of acceptance issued directly.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "POLITEHNICA Bucharest and Babeș-Bolyai in Cluj-Napoca are most competitive for engineering and computer science.",
+    "strategic_program_match_advice": "Learning Romanian in the preparatory year is mandatory and an incredible cultural asset for careers in the European Union."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://arice.gov.ro/1/burse-arice/",
+    "portal_system_name": "ARICE / Study in Romania MFA Application System",
+    "account_creation_instructions": "Register on the official ARICE scholarship portal (studyinromania.gov.ro or arice.gov.ro), select degree level and target universities.",
+    "step_by_step_workflow": [
+      "1. Register on the official portal during open window (January-March).",
+      "2. Upload certified copies of educational diplomas, transcripts, and birth certificate.",
+      "3. Upload Curriculum Vitae (Europass format) and Letter of Intent / Motivation Letter.",
+      "4. Submit complete electronic dossier by deadline (typically late April).",
+      "5. Evaluation board reviews academic scores and documents in May/June.",
+      "6. Results announced in July; Ministry of Education issues official Letter of Acceptance.",
+      "7. Apply for Romanian long-stay study visa (D/SD) free of charge at Romanian Embassy in Islamabad."
+    ],
+    "university_vs_scholarship_routing": "Direct centralized application through the ARICE / MFA portal.",
+    "recommendation_letters_submission_method": "Letters of recommendation uploaded directly by applicant if requested.",
+    "personal_statement_prompts": "Letter of Intent detailing your academic motivation, reasons for choosing Romania, and future career plans.",
+    "study_plan_research_proposal_requirements": "PhD applicants must upload a detailed research project (3-5 pages) approved by a Romanian doctoral supervisor.",
+    "cv_format_requirements": "Standard Europass CV format in English or French.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interviews; selection is based strictly on academic dossier and grade averages.",
+    "standardized_tests": "None; no IELTS/TOEFL required.",
+    "application_fee_amount": "$0 (100% Free).",
+    "attestation_requirements": "Diplomas and transcripts must be authenticated by IBCC/HEC and MOFA Pakistan before visa issuance.",
+    "translation_requirements": "Authorized translations into English, French, Spanish, or Romanian.",
+    "final_submission_method": "100% Online via ARICE portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Educational Diplomas & Certificates",
+      "mandatory": true,
+      "specification": "Matric/FSc for Bachelor's; BS degree for Master's; MS/MPhil for PhD",
+      "pakistan_specific_instruction": "Attested by IBCC / HEC Pakistan and Ministry of Foreign Affairs (MOFA)"
+    },
+    {
+      "document_name": "Academic Transcripts & Mark Sheets",
+      "mandatory": true,
+      "specification": "Transcripts showing all subjects and grades earned with official grading scale",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "Birth Certificate",
+      "mandatory": true,
+      "specification": "NADRA computerized birth certificate",
+      "pakistan_specific_instruction": "Translated and authenticated"
+    },
+    {
+      "document_name": "Passport Copy",
+      "mandatory": true,
+      "specification": "Valid Pakistani passport photo page",
+      "pakistan_specific_instruction": "Must be valid for at least 1 year past entry date"
+    },
+    {
+      "document_name": "Medical Certificate",
+      "mandatory": true,
+      "specification": "Official medical certificate proving applicant is fit for study and free of infectious diseases",
+      "pakistan_specific_instruction": "Issued by registered Pakistani government hospital"
+    },
+    {
+      "document_name": "Europass Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Standard Europass format in English",
+      "pakistan_specific_instruction": "Detailing educational history and extracurricular activities"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2027-01-15",
+    "application_deadline": "2027-04-30",
+    "university_admission_deadline": "N/A (Centralized)",
+    "document_submission_deadline": "2027-04-30",
+    "recommendation_letters_deadline": "2027-04-30",
+    "interview_period": "N/A (No interview)",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-07-15",
+    "visa_application_window": "July to August 2027",
+    "semester_commencement": "October 2027",
+    "annual_cycle_notes": "Opens annually in January and closes late April. Academic year begins October 1 across Romania."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "60% (Overall grade point average across secondary or university education)",
+    "extracurricular_and_leadership_weight": "10% (Extracurricular background and honors)",
+    "research_experience_weight": "15% (For PhD candidates: quality of proposed research plan)",
+    "work_experience_weight": "5% (Professional experience)",
+    "personal_statement_weight": "10% (Letter of Intent clarity)",
+    "recommendations_weight": "0%",
+    "interview_weight": "0%",
+    "test_scores_weight": "0%",
+    "financial_need_weight": "0%",
+    "selection_panel_composition": "Joint commission composed of representatives of the Ministry of Foreign Affairs, Ministry of Economy, and Ministry of Education.",
+    "evaluation_methodology": "Scoring of academic grades: Candidates are ranked based on GPA and allocated to available university seats."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~5,000 to 7,000 applications globally",
+    "total_scholarships_awarded": "~500 scholarships awarded annually",
+    "acceptance_rate_global": "~8% to 10%",
+    "acceptance_rate_pakistan": "~5% (Moderately Competitive)",
+    "typical_successful_applicant_gpa": "3.20 to 3.75 / 4.00 CGPA or 75%+ marks",
+    "typical_academic_and_research_profile": "Solid academic students seeking quality European education with low living overhead.",
+    "common_backgrounds_of_winners": "Students from all provinces of Pakistan (Punjab, Sindh, KP, Balochistan, Islamabad) enrolling in engineering, IT, and business.",
+    "high_representation_countries": "Pakistan, Morocco, Egypt, Jordan, Nigeria, Vietnam, Brazil.",
+    "competitiveness_tier": "MODERATE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Pakistani education agents charging PKR 300,000 to 500,000 claiming they have special quota links to the Romanian Embassy."
+    ],
+    "application_fee_warning": "The Romanian Government scholarship application is 100% FREE. Never pay any agent.",
+    "agent_and_intermediary_warnings": "Apply directly on the official Romanian government portal without intermediaries.",
+    "hidden_costs_breakdown": [
+      "International flight ticket to Bucharest (~PKR 180,000 to 250,000).",
+      "HEC / IBCC / MOFA attestation and translation fees in Pakistan (~PKR 30,000).",
+      "Monthly pocket money buffer (since the ~€65-85 stipend covers only basic expenses, students need ~€100-150/mo extra for food)."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You will study in English. (Fact: Romanian government scholarships are almost exclusively in Romanian language; the 1-year language prep year is mandatory).",
+      "MYTH: You can study MBBS/Medicine. (Fact: Medicine, Dentistry, and Pharmacy are strictly excluded from this scholarship)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Agents falsely claim the stipend is €800/month; the official government stipend is €65 to €85/month alongside free tuition and free dorm."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass all exams in the Romanian language preparatory year to proceed to the degree; must earn all required credits each academic year.",
+    "attendance_requirements": "Full-time physical attendance at host Romanian university.",
+    "academic_progress_monitoring": "Failing an academic year results in permanent loss of scholarship.",
+    "work_restrictions_during_study": "International students in Romania are legally permitted to work up to 4 hours per day (part-time) with a work permit.",
+    "home_country_return_obligation": "None; Romania is an EU member state and graduates can seek employment or pursue further studies in Europe.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Failing the preparatory language year or academic expulsion terminates scholarship benefits.",
+    "rules_for_changing_university": "Changing universities requires Ministry of Education approval and is generally only permitted after the preparatory year.",
+    "rules_for_changing_major": "Not permitted once degree program begins.",
+    "extension_policy": "No extensions beyond normal study duration."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Romanian Agency for Investments and Foreign Trade (ARICE) - Scholarships Portal",
+      "source_url": "https://arice.gov.ro/1/burse-arice/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact breakdown of country quotas between partner nations",
+        "Internal committee scoring sheets"
+      ]
+    },
+    {
+      "source_name": "Romanian Ministry of Foreign Affairs (MFA) - Scholarships Portal",
+      "source_url": "https://www.mae.ro/en/node/10251",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Allocation matrix of spots per individual Romanian university"
+      ]
+    }
+  ]
+}

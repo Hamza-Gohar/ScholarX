@@ -1,0 +1,82 @@
+{
+  "student_id": "std-pk-bba-004",
+  "session_id": "sess-demo-004",
+  "personal": {
+    "name": "Ayesha Malik",
+    "nationality": "PK",
+    "country_of_residence": "PK",
+    "city": "Faisalabad",
+    "province": "Punjab",
+    "age": 22,
+    "date_of_birth": "2004-08-14",
+    "gender": "Female",
+    "cnic": "33100-7654321-4",
+    "passport_number": "GH1122334",
+    "passport_valid_until": "2034-08-14"
+  },
+  "academic": {
+    "current_level": "Bachelor's / BS / BE / BBA",
+    "education_system": "Pakistani",
+    "years_of_education": 16,
+    "field_of_study": "Business Administration",
+    "board_university": "Lahore School of Economics (LSE), Lahore",
+    "gpa_percentage": 76.0,
+    "gpa_4_scale": 3.35,
+    "uk_classification": "Upper Second Class Honours (2:1)",
+    "institution": "Lahore School of Economics",
+    "graduation_year": 2026,
+    "subjects": ["Marketing", "Financial Management", "Data Analytics in Business", "Operations Strategy"],
+    "relevant_courses": ["Business Analytics", "Strategic Marketing", "Econometrics"],
+    "gap_years": 0,
+    "hec_attestation_done": false,
+    "ibcc_equivalence_done": false
+  },
+  "language": {
+    "english_proficiency_test": "IELTS",
+    "ielts_overall": 6.5,
+    "ielts_subbands": { "L": 7.0, "R": 6.5, "W": 6.5, "S": 6.5 },
+    "toefl_score": null,
+    "duolingo_score": null,
+    "medium_of_instruction_english": true,
+    "moi_certificate_available": true,
+    "native_languages": ["Urdu", "Punjabi"],
+    "has_english_test": true
+  },
+  "standardized_tests": {
+    "hec_hat": 70.0,
+    "hec_usat": null,
+    "gre": null,
+    "sat": null,
+    "gat_general": 74.0,
+    "gat_subject": null,
+    "nts_nat": null
+  },
+  "preferences": {
+    "target_degree_level": "Master's",
+    "target_fields": ["Management", "Marketing Analytics", "Business Analytics"],
+    "funding_requirement": "FULL",
+    "budget_tier": "LOW",
+    "max_out_of_pocket_pkr": 180000,
+    "willing_to_relocate": true,
+    "preferred_regions": ["Europe", "MENA", "Asia"],
+    "excluded_regions": [],
+    "constraints": []
+  },
+  "documents": {
+    "transcript": { "uploaded": true, "quality": "GOOD", "confidence": 0.95, "filename": "LSE_Transcript_BBA.pdf" },
+    "cv": { "uploaded": true, "quality": "GOOD", "confidence": 0.92, "filename": "Ayesha_Malik_Resume.pdf" },
+    "passport": { "uploaded": true, "quality": "GOOD", "confidence": 0.98, "filename": "Passport_Ayesha.pdf" },
+    "ielts_certificate": { "uploaded": true, "quality": "GOOD", "confidence": 0.97, "filename": "IELTS_Score.pdf" },
+    "motivation_letter": { "uploaded": false, "quality": null, "confidence": null },
+    "recommendation_letters_count": 2,
+    "financial_documents": { "uploaded": false },
+    "police_clearance": { "uploaded": false },
+    "medical_certificate": { "uploaded": false },
+    "hec_attestation": { "uploaded": false },
+    "ibcc_equivalence": { "uploaded": false }
+  },
+  "profile_completeness": 78,
+  "missing_required": [],
+  "missing_optional": ["motivation_letter", "hec_attestation"],
+  "extraction_warnings": []
+}

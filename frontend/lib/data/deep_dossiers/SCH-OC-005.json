@@ -1,0 +1,264 @@
+{
+  "scholarship_id": "SCH-OC-005",
+  "basic_details": {
+    "scholarship_name": "Australian National University (ANU) AGRTP International Postgraduate Award",
+    "offering_entity": "Australian National University (ANU) & Australian Government Department of Education (AGRTP)",
+    "host_country": "Australia",
+    "host_institutions_covered": "Australian National University (Acton Campus, Canberra)",
+    "degree_levels": [
+      "Master of Philosophy (MPhil)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Open to all research disciplines across ANU Colleges: Engineering, Computing & Cybernetics, Health & Medicine, Science, Arts & Social Sciences, Asia & the Pacific, Business & Economics, Law.",
+    "number_of_awards_total": "~300 to 400 RTP and university awards annually",
+    "number_of_awards_pakistan": "Open globally to all international researchers based on competitive merit",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years for MPhil; up to 3.5 to 4 years for PhD"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International citizens of all countries including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limits.",
+    "academic_qualifications": "Bachelor's degree with at least upper second-class or first-class honours (H1) or research Master's degree with substantial thesis component.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Minimum equivalent to ANU First Class Honours (80%+ / 3.70+ / 4.00 CGPA).",
+    "subject_background_prerequisites": "Advanced preparation in the relevant research discipline.",
+    "current_education_status": "Graduated or in final semester of research master's or 4-year honours bachelor's degree.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Refereed scientific publications, international conference talks, and relevant laboratory experience provide significant competitive advantage.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 80,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic 6.5 (minimum 6.0 each band) or TOEFL iBT 80 (reading/writing 20, listening/speaking 18)."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "Equal opportunity; diversity encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Elite research aptitude and academic excellence.",
+    "previous_scholarship_restrictions": "Must not have already completed a doctorate.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full international tuition fee offset covering all course fees for standard duration.",
+      "amount": "AUD $44,000 to $54,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "ANU online application fee (AUD $110) paid by candidate.",
+      "amount": "AUD $110"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered through living allowance.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Tax-free living stipend paid fortnightly.",
+      "amount": "AUD $36,652 / year (~AUD $3,054 / month or ~PKR 565,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Travel and relocation grant paid upon relocation to Canberra.",
+      "amount": "Up to AUD $2,500 relocation reimbursement"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Australian student visa application fee paid by student.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full Overseas Student Health Cover (OSHC) Single policy covered for the visa duration.",
+      "amount": "AUD $680 / year"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "High-performance compute clusters and research infrastructure provided by college.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "ANU College travel grants available for international conference attendance.",
+      "amount": "Up to AUD $3,000"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Included in relocation allowance.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 58000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: Australian National University (Canberra - Australia's national university).",
+    "participating_institutions": [
+      "Australian National University"
+    ],
+    "university_rankings_scope": "QS World Rank #30; consistently ranked #1 in Australia for research impact.",
+    "available_majors": [
+      "Computer Science, Cybernetics, Robotics, Machine Learning, Electrical Engineering, Physics & Astronomy, Chemistry, Environmental Sciences, Biology, Economics, Public Policy, Law, International Relations, Asia-Pacific Studies"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years for MPhil; 3.5 to 4 years for PhD",
+    "admission_requirements_summary": "Automatic consideration for all applicants submitting a complete research degree application before the international deadline.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Securing prior supervisor agreement in principle is required before application.",
+    "strategic_program_match_advice": "ANU's College of Engineering, Computing & Cybernetics (CECC) and College of Science have world-leading laboratories; link your proposal with their core research clusters."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.anu.edu.au/study/scholarships/find-a-scholarship/australian-government-research-training-program-agrtp-stipend",
+    "portal_system_name": "ANU Postgraduate Online Application Portal",
+    "account_creation_instructions": "Register on the ANU application portal, select PhD/MPhil course, and upload research proposal and academic credentials.",
+    "step_by_step_workflow": [
+      "1. Contact potential ANU supervisor and secure written support (June-July).",
+      "2. Develop rigorous 2,000-word Research Proposal.",
+      "3. Submit formal online application for research degree by international deadline (August 31).",
+      "4. Opt in for consideration for AGRTP / University Research Scholarships.",
+      "5. Upload academic transcripts, grading scales, publications, and English test scores.",
+      "6. Referees submit online reference reports by deadline.",
+      "7. Central scholarship committee outcomes released in October/November for early 2027 intake."
+    ],
+    "university_vs_scholarship_routing": "Combined single application for course admission and scholarship.",
+    "recommendation_letters_submission_method": "Submitted online by referees via secure electronic referee system.",
+    "personal_statement_prompts": "Demonstrate your research background, research capability, and future contribution to scientific knowledge.",
+    "study_plan_research_proposal_requirements": "Structured research proposal outlining problem statement, research questions, literature review, methodology, and timeline.",
+    "cv_format_requirements": "Academic CV listing academic qualifications, research publications, conference presentations, awards, and laboratory experience.",
+    "interviews_conducted": true,
+    "interview_format_details": "Supervisors conduct video interview before endorsing the application.",
+    "standardized_tests": "GRE not required; English proficiency test required.",
+    "application_fee_amount": "AUD $110.",
+    "attestation_requirements": "Certified copies of degree certificates and transcripts; HEC attestation required.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "100% Online via ANU portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Research Proposal",
+      "mandatory": true,
+      "specification": "Structured proposal (around 2,000 words) with literature review and methodology",
+      "pakistan_specific_instruction": "Developed in coordination with prospective ANU supervisor"
+    },
+    {
+      "document_name": "Written Supervisor Endorsement",
+      "mandatory": true,
+      "specification": "Formal confirmation from an ANU academic willing to supervise your research",
+      "pakistan_specific_instruction": "Required before application submission"
+    },
+    {
+      "document_name": "Academic Transcripts & Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts for all university-level studies",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "Two Academic Referee Reports",
+      "mandatory": true,
+      "specification": "Submitted directly by former academic supervisors",
+      "pakistan_specific_instruction": "From professors who supervised your BS/MS thesis"
+    },
+    {
+      "document_name": "English Language Test Score",
+      "mandatory": true,
+      "specification": "IELTS Academic (6.5+) or TOEFL iBT (80+)",
+      "pakistan_specific_instruction": "Electronic score report sent to ANU"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-05-01",
+    "application_deadline": "2026-08-31",
+    "university_admission_deadline": "2026-08-31",
+    "document_submission_deadline": "2026-08-31",
+    "recommendation_letters_deadline": "2026-09-07",
+    "interview_period": "September to October 2026",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2026-11-30",
+    "visa_application_window": "December 2026 to January 2027",
+    "semester_commencement": "February/March 2027",
+    "annual_cycle_notes": "Annual round for international applicants strictly closes August 31 for commencement in Semester 1 of following year."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (First Class Honours H1 equivalent GPA, academic standing)",
+    "extracurricular_and_leadership_weight": "5% (Secondary)",
+    "research_experience_weight": "40% (Peer-reviewed publications, thesis quality, research potential)",
+    "work_experience_weight": "5% (Relevant research laboratory or industry experience)",
+    "personal_statement_weight": "5% (Proposal quality)",
+    "recommendations_weight": "5% (Referee evaluation)",
+    "interview_weight": "Supervisor recommendation",
+    "test_scores_weight": "Threshold required",
+    "financial_need_weight": "0% (Purely merit-based)",
+    "selection_panel_composition": "College Scholarships Committees and University Higher Degree Research Committee.",
+    "evaluation_methodology": "Strict competitive merit ranking based on academic score and verified research output score."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,500 international applicants across all disciplines",
+    "total_scholarships_awarded": "~250 international awards conferred annually",
+    "acceptance_rate_global": "~7%",
+    "acceptance_rate_pakistan": "~3% to 4% (Highly Competitive)",
+    "typical_successful_applicant_gpa": "3.80 to 4.00 CGPA",
+    "typical_academic_and_research_profile": "First-class academic record with at least one first-author publication in a recognized international journal.",
+    "common_backgrounds_of_winners": "Graduates of top Pakistani universities (NUST, LUMS, Quaid-i-Azam, UET Lahore, GIKI).",
+    "high_representation_countries": "China, India, Pakistan, Iran, USA, UK, Singapore.",
+    "competitiveness_tier": "VERY HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Agencies claiming they can secure ANU doctoral admission without academic supervisor endorsement."
+    ],
+    "application_fee_warning": "ANU application fee is AUD $110; scholarship consideration is automatic and free.",
+    "agent_and_intermediary_warnings": "Never pay third parties; ANU requires direct academic correspondence between student and supervisor.",
+    "hidden_costs_breakdown": [
+      "Australian Student Visa (Subclass 500) application fee (AUD $1,600).",
+      "English language test fees (IELTS/TOEFL).",
+      "Initial relocation expenses prior to first stipend payment."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can apply without contacting a supervisor. (Fact: Applications without confirmed supervisor support are automatically declined).",
+      "MYTH: Coursework students can get this scholarship. (Fact: Strictly for higher degree research candidates)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals quote outdated stipend rates; official rate is indexed at AUD $36,652/year."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory research progress in annual milestone reviews.",
+    "attendance_requirements": "Full-time physical research attendance on campus in Canberra.",
+    "academic_progress_monitoring": "Annual progress reviews submitted by supervisory panel to the college dean.",
+    "work_restrictions_during_study": "Permitted to undertake up to standard research assistant/tutoring hours (typically up to 8 hrs/week during normal business hours).",
+    "home_country_return_obligation": "None; scholars are eligible for Australian Temporary Graduate Visa (Subclass 485) post-PhD.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Funding terminated if candidate fails research milestones or withdraws from candidature.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Requires approval from supervisory panel and college dean.",
+    "extension_policy": "PhD candidates may receive up to 6 months extension for documented research delays."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Australian National University - AGRTP International Postgraduate Award Portal",
+      "source_url": "https://www.anu.edu.au/study/scholarships/find-a-scholarship/australian-government-research-training-program-agrtp-stipend",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "College-by-college internal funding allocation quotas",
+        "Specific publication scoring multiplier values"
+      ]
+    }
+  ]
+}

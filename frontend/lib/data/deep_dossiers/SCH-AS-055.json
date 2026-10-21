@@ -1,0 +1,289 @@
+{
+  "scholarship_id": "SCH-AS-055",
+  "basic_details": {
+    "scholarship_name": "University of Tsukuba MEXT Special Recommendation Science & Technology Award (University Recommendation IGP)",
+    "offering_entity": "Ministry of Education, Culture, Sports, Science and Technology (MEXT), Japan & University of Tsukuba",
+    "host_country": "Japan",
+    "host_institutions_covered": "University of Tsukuba (Tsukuba Science City, Ibaraki Prefecture, Japan)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Graduate School of Science and Technology (Pure and Applied Sciences, Systems and Information Engineering, Life and Environmental Sciences), Graduate School of Comprehensive Human Sciences (Informatics, Medical Sciences), and International Degree Programs.",
+    "number_of_awards_total": "~80 to 110 MEXT University Recommendation scholarships awarded annually across graduate divisions",
+    "number_of_awards_pakistan": "Open to designated diplomatic partner countries; typically 12 to 18 Pakistani STEM researchers selected annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "2 years for Master's; 3 to 4 years for PhD",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "JPY 144,000 / month for Master's (~PKR 273,600 / month); JPY 145,000 / month for PhD (~PKR 275,500 / month) plus 100% tuition waiver and round-trip international airfare"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of countries with official diplomatic relations with Japan (Pakistan fully eligible; Japanese dual citizens ineligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Applicants must be born on or after April 2, 1991 (under 35 years old at commencement per MEXT statutory guidelines).",
+    "academic_qualifications": "16 years of formal education (Bachelor's degree) for Master's; 18 years of education (Master's degree) for PhD from an accredited university with minimum MEXT Grade Point Coefficient of 2.30 out of 3.00.",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 2.3,
+    "grading_conversion_notes": "Minimum MEXT GPA calculation of 2.30 out of 3.00; competitive applicants at Tsukuba typically possess MEXT GPA >= 2.65 / 3.00.",
+    "subject_background_prerequisites": "Physics, chemistry, materials science, computer science, electrical engineering, systems engineering, biotechnology, or environmental sciences.",
+    "current_education_status": "Graduated or final-year students completing degree requirements before arrival in Japan (late September).",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior laboratory research experience, computational modeling expertise, or published scientific papers strongly advantageous.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "CEFR Level B2 or higher in English (IELTS Academic 6.5+, TOEFL iBT 80+) or official English Medium of Instruction (MOI) certificate; JLPT N2+ accepted for Japanese-medium programs.",
+    "other_language_requirements": "Japanese language proficiency is not required for English-taught international programs.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must establish contact with a Tsukuba prospective faculty advisor and obtain an official Letter of Provisional Acceptance prior to institutional nomination.",
+    "previous_scholarship_restrictions": "Previous MEXT recipients are ineligible unless at least 3 years have elapsed since prior award completion.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full waiver of entrance examination fee (JPY 30,000), admission matriculation fee (JPY 282,000), and annual tuition fees (JPY 535,800/year).",
+      "amount": "100% covered (~JPY 847,800 first-year value; ~PKR 1,610,000)"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Screening and entrance examination fees are completely waived for MEXT scholarship nominees.",
+      "amount": "100% waived (JPY 30,000 value)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized international student dormitory housing at University of Tsukuba Global Village or Ichinoya / Hirasuna residences (approx. JPY 18,000 to 35,000 / month).",
+      "amount": "Subsidized campus residence hall housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Disbursed monthly: JPY 144,000 / month for Master's (~PKR 273,600 / month); JPY 145,000 / month for PhD (~PKR 275,500 / month) plus designated regional allowance top-up (JPY 2,000 to 3,000/month).",
+      "amount": "JPY 144,000 to 148,000 / month"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Economy-class round-trip international flight ticket between Islamabad/Karachi/Lahore and Tokyo Narita/Haneda airport fully covered by MEXT.",
+      "amount": "100% covered round-trip international flights"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Japanese Student Visa issued free of charge for MEXT government scholars at the Embassy of Japan in Islamabad or Consulate-General in Karachi.",
+      "amount": "100% covered / fee exempt"
+    },
+    "health_insurance": {
+      "status": "SUBSIDIZED",
+      "details": "Enrolled in Japan National Health Insurance (NHI) covering 70% of medical costs; subsidized monthly premium (approx. JPY 2,000/month) paid from stipend.",
+      "amount": "Subsidized National Health Insurance"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized university dining halls across Tsukuba campus, including halal-friendly dining options at Central Cafeteria.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to Tsukuba Science City research institutes, AIST (National Institute of Advanced Industrial Science and Technology), and KEK high-energy accelerator facilities.",
+      "amount": "100% covered national laboratory research access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Laboratory research grants and JSPS research project funds cover domestic and international conference participation.",
+      "amount": "Lab grant-funded conference travel"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Campus bus network connecting all university areas, plus student discount commuter passes on the Tsukuba Express (TX) railway to Tokyo.",
+      "amount": "Campus bus transit & railway student discounts"
+    },
+    "total_estimated_value_usd_per_year": 24000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single premier Japanese National University Corporation (University of Tsukuba, Tsukuba Science City).",
+    "participating_institutions": [
+      "University of Tsukuba (Tsukuba Science City, Ibaraki Prefecture, Japan)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #355, Top 10 in Japan; designated Top Global University, home to 3 Nobel laureates and situated at the heart of Tsukuba Science City holding over 300 research institutes.",
+    "available_majors": [
+      "Master's / PhD in Pure and Applied Sciences (Physics, Chemistry, Materials)",
+      "Master's / PhD in Systems and Information Engineering (Computer Science, Intelligent Interaction)",
+      "Master's / PhD in Life and Environmental Sciences (Agro-Bioresources, Geosciences)",
+      "Master's / PhD in Comprehensive Human Sciences (Informatics, Medical Sciences)",
+      "Master's / PhD in Empowerment Informatics",
+      "Master's / PhD in International Agricultural Sciences"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 to 4 years",
+    "admission_requirements_summary": "Bachelor's / Master's degree with MEXT GPA >= 2.30/3.00, academic transcripts, research plan (Kenkyu Keikakusho), Letter of Provisional Acceptance from Tsukuba professor, Dean's recommendation letter, English proficiency score (IELTS 6.5+ / TOEFL 80+ / MOI), and thesis summary.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Systems and Information Engineering (AI, robotics) and Life Sciences are highly competitive; securing an official Letter of Provisional Acceptance from a Tsukuba professor is the essential prerequisite.",
+    "strategic_program_match_advice": "Leverage Tsukuba's joint laboratories with AIST and RIKEN; contact faculty members early (October-November) with a tailored research proposal citing their recent publications."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.tsukuba.ac.jp/en/admissions/financial-scholarships/mext/",
+    "portal_system_name": "University of Tsukuba Web Entry System & MEXT University Recommendation Track",
+    "account_creation_instructions": "Establish contact with prospective advisor, obtain Letter of Provisional Acceptance, submit application package via departmental graduate office, and complete University Web Entry registration.",
+    "step_by_step_workflow": [
+      "Step 1: Identify and email prospective Tsukuba academic advisors with CV, transcripts, and research proposal (October-November).",
+      "Step 2: Participate in informal interview and obtain signed Letter of Provisional Acceptance.",
+      "Step 3: Complete MEXT University Recommendation application form and compile certified dossiers (December-January).",
+      "Step 4: Prospective supervisor submits internal nomination dossier to Tsukuba Graduate School Selection Board.",
+      "Step 5: University conducts internal screening and submits institutional recommendation list to MEXT Tokyo (March).",
+      "Step 6: MEXT Tokyo officially ratifies scholarship nominations (June).",
+      "Step 7: University issues Certificate of Eligibility (COE) and flight e-tickets; apply for Japanese visa at embassy.",
+      "Step 8: Fly to Tokyo Narita/Haneda in late September and start autumn semester on October 1."
+    ],
+    "university_vs_scholarship_routing": "Integrated University Recommendation Track (Daigaku Suisen): Admission and MEXT scholarship are evaluated as a single integrated package.",
+    "recommendation_letters_submission_method": "Formal recommendation letter addressed to the President of University of Tsukuba issued by Dean or higher authority of applicant's home institution.",
+    "personal_statement_prompts": "Field of Study and Research Program Plan (MEXT prescribed form) detailing background, motivation, research objectives, and methodology in Japan.",
+    "study_plan_research_proposal_requirements": "Structured academic proposal following MEXT Kenkyu Keikakusho format describing past research, proposed research in Japan, and anticipated scholarly contributions.",
+    "cv_format_requirements": "Standard academic CV detailing education, thesis title, technical skills, publications, and conference presentations.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview conducted via Zoom by prospective supervisor and departmental committee evaluating research aptitude.",
+    "standardized_tests": "IELTS 6.5+, TOEFL 80+, or official English Medium of Instruction (MOI) certificate accepted.",
+    "application_fee_amount": "JPY 0 (Exempted for MEXT scholarship nominees)",
+    "attestation_requirements": "Certified true copies of transcripts and degree certificates; HEC and MoFA attestations recommended for Pakistani credentials.",
+    "translation_requirements": "Certified English or Japanese translation for all non-English/non-Japanese documents.",
+    "final_submission_method": "Electronic submission via Tsukuba Web Entry / departmental graduate office followed by postal dispatch of original documents if requested."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "MEXT Application Form for University Recommendation",
+      "mandatory": true,
+      "specification": "Official Japanese Ministry prescribed form completed in English or Japanese with passport-style photo.",
+      "pakistan_specific_instruction": "Standard official MEXT form."
+    },
+    {
+      "document_name": "Field of Study and Research Plan (Kenkyu Keikakusho)",
+      "mandatory": true,
+      "specification": "Detailed research plan following official MEXT template detailing past research and proposed research in Japan.",
+      "pakistan_specific_instruction": "Structured scholarly proposal."
+    },
+    {
+      "document_name": "Official Academic Transcripts with Grading Legend",
+      "mandatory": true,
+      "specification": "Complete university transcripts showing course grades, credits, and grading system for MEXT GPA calculation.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Letter of Recommendation from Dean or Higher Authority",
+      "mandatory": true,
+      "specification": "Recommendation letter addressed to the President of University of Tsukuba signed by university Dean or Rector.",
+      "pakistan_specific_instruction": "On institutional letterhead with official seal."
+    },
+    {
+      "document_name": "Abstract of Bachelor's / Master's Thesis",
+      "mandatory": true,
+      "specification": "Concise summary (1-2 pages) of previous graduation thesis or major research publications.",
+      "pakistan_specific_instruction": "Summary of final year project or thesis."
+    },
+    {
+      "document_name": "Certificate of Language Proficiency",
+      "mandatory": true,
+      "specification": "IELTS 6.5+, TOEFL iBT 80+, or official English Medium of Instruction (MOI) certificate demonstrating CEFR B2+.",
+      "pakistan_specific_instruction": "MOI certificate or official test score."
+    },
+    {
+      "document_name": "Tsukuba Faculty Letter of Provisional Acceptance",
+      "mandatory": true,
+      "specification": "Signed letter from Tsukuba faculty member committing to supervise the applicant upon MEXT approval.",
+      "pakistan_specific_instruction": "Obtained directly from prospective Tsukuba professor."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "October 15",
+    "application_deadline": "January 15",
+    "university_admission_deadline": "January 15",
+    "document_submission_deadline": "January 15",
+    "recommendation_letters_deadline": "January 15",
+    "interview_period": "January 20 - February 15",
+    "shortlist_announcement": "March (University nomination to MEXT) / June (MEXT Tokyo final ratification)",
+    "final_result_acceptance_deadline": "June 30",
+    "visa_application_window": "July - August",
+    "semester_commencement": "October 1 (Autumn intake)",
+    "annual_cycle_notes": "Single annual admission cycle for October matriculation; faculty contact must begin 10 to 12 months prior."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (MEXT GPA coefficient calculation >= 2.30/3.00, academic consistency)",
+    "extracurricular_and_leadership_weight": "0% (Not evaluated in MEXT academic screening)",
+    "research_experience_weight": "40% (Research proposal rigor, previous thesis, supervisor endorsement)",
+    "work_experience_weight": "5% (Relevant scientific laboratory or technical industry experience)",
+    "personal_statement_weight": "5% (Study plan clarity and intent)",
+    "recommendations_weight": "5% (Dean's official recommendation)",
+    "interview_weight": "10% (Technical interview with prospective Tsukuba faculty advisor)",
+    "test_scores_weight": "0% (Language proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure academic excellence and research merit)",
+    "selection_panel_composition": "Tsukuba Graduate School Academic Board, Global Commons Bureau, and Japanese Ministry of Education (MEXT) Selection Committee.",
+    "evaluation_methodology": "Rigorous academic assessment prioritizing candidates with top MEXT GPA coefficients (above 2.50/3.00), strong publication potential, and supervisor backing."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,000 to 1,300 applicants across graduate divisions",
+    "total_scholarships_awarded": "~80 to 110 MEXT University Recommendation awards annually",
+    "acceptance_rate_global": "~8.0% to 10.0%",
+    "acceptance_rate_pakistan": "~12.0% to 16.0% for applicants with professor provisional acceptance and MEXT GPA >= 2.60",
+    "typical_successful_applicant_gpa": "MEXT GPA coefficient >= 2.60 / 3.00 (approx. CGPA >= 3.50 / 4.00), accompanied by strong thesis research or publications",
+    "typical_academic_and_research_profile": "STEM graduates with strong laboratory foundations, clear research alignment with Tsukuba science clusters, and professor acceptance.",
+    "common_backgrounds_of_winners": "Graduates from leading Pakistani universities (NUST, Quaid-i-Azam, FAST-NUCES, UET Lahore, COMSATS, PIEAS, GIKI).",
+    "high_representation_countries": "Pakistan, Vietnam, Indonesia, China, Bangladesh, Malaysia, Thailand, Egypt, Nigeria.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only consult official websites at tsukuba.ac.jp and mext.go.jp.",
+      "Beware of unauthorized agents claiming to sell MEXT recommendation seats; MEXT awards are strictly managed between universities and the Japanese government."
+    ],
+    "application_fee_warning": "No application or examination fee is charged for MEXT scholarship nominees.",
+    "agent_and_intermediary_warnings": "Commercial agent proposals are strictly rejected; applicants must author their own Kenkyu Keikakusho research plan.",
+    "hidden_costs_breakdown": [
+      "Application fee: JPY 0 (Waived).",
+      "HEC document attestation in Pakistan: ~PKR 10,000 to 20,000.",
+      "Medical checkup for COE processing: ~PKR 15,000 to 25,000.",
+      "Initial pocket money before first stipend deposit: ~JPY 100,000 (~PKR 190,000).",
+      "National Health Insurance monthly premium: ~JPY 2,000/month (~PKR 3,800/month)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Japanese language fluency is mandatory. Reality: All STEM graduate programs at Tsukuba are conducted entirely in English.",
+      "Myth: You can apply without professor endorsement. Reality: University recommendation track requires prior provisional acceptance from a Tsukuba faculty professor."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs suggest age limit can be relaxed; MEXT statutory age cutoff (born on or after April 2, 1991) is strictly enforced without exception."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain MEXT Grade Point Coefficient of at least 2.30 out of 3.00 throughout degree study.",
+    "attendance_requirements": "Full-time physical research residency in Tsukuba; mandatory monthly signing of scholarship register at the university academic office to receive stipend.",
+    "academic_progress_monitoring": "Annual academic progress review submitted to MEXT via the University Graduate School.",
+    "work_restrictions_during_study": "Part-time work strictly restricted; requires special immigration permit (Shikakugai Katsudo Kyoka) and written consent from academic supervisor (maximum 28 hours/week during breaks, typically discouraged during term).",
+    "home_country_return_obligation": "None; scholars are free to seek international corporate employment, post-docs in Japan, or return to Pakistan.",
+    "service_obligations_or_bonds": "Zero service bond or repayment obligation.",
+    "repayment_clawback_conditions": "Scholarship is immediately terminated if GPA falls below 2.30, unexcused absence from Japan occurs, or disciplinary expulsion occurs.",
+    "rules_for_changing_university": "Strictly prohibited to transfer to another Japanese university under MEXT University Recommendation regulations.",
+    "rules_for_changing_major": "Major or laboratory changes are generally not permitted once enrolled.",
+    "extension_policy": "Extensions from Master's to PhD are highly competitive and require separate MEXT institutional recommendation screening."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Tsukuba International Admissions & MEXT",
+      "source_url": "https://www.tsukuba.ac.jp/en/admissions/financial-scholarships/mext/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Japanese Ministry of Education (MEXT) Official Guide",
+      "source_url": "https://www.mext.go.jp/en/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

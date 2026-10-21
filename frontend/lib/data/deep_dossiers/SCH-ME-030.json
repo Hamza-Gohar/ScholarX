@@ -1,0 +1,284 @@
+{
+  "scholarship_id": "SCH-ME-030",
+  "basic_details": {
+    "scholarship_name": "United Arab Emirates University (UAEU) PhD Full Scholarship",
+    "offering_entity": "United Arab Emirates University (UAEU) College of Graduate Studies",
+    "host_country": "United Arab Emirates",
+    "host_institutions_covered": "United Arab Emirates University Main Campus (Al Ain, Abu Dhabi Emirate, UAE)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Open to all PhD programs across College of Engineering, College of Information Technology (CIT), College of Science, College of Agriculture and Veterinary Medicine, College of Medicine and Health Sciences, College of Business and Economics, and College of Education.",
+    "number_of_awards_total": "~40 to 60 prestigious fully funded PhD scholarships awarded annually across all colleges",
+    "number_of_awards_pakistan": "Open international competition; Pakistani doctoral scholars represent a prominent contingent (~5 to 10 awards annually in computing, engineering, and sciences)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 4 years (48 months) of full-time doctoral research, subject to satisfactory annual research progress"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to outstanding national and international applicants globally (Pakistan eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No formal age limit; evaluated on academic and research excellence.",
+    "academic_qualifications": "A Master's degree (18 years education) from an HEC-recognized university with an outstanding academic record (minimum CGPA 3.50 / 4.00; competitive admits typically 3.70+ / 4.00).",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum Master's CGPA of 3.50 / 4.00 or equivalent; strong Bachelor's record (minimum 3.00 / 4.00) also required.",
+    "subject_background_prerequisites": "Relevant Bachelor's and Master's degrees in the applied research discipline.",
+    "current_education_status": "Master's students in their final semester can apply conditionally with expected graduation certification.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Substantial research experience, first-author journal publications (Scopus/Web of Science), or conference presentations strongly prioritized.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 79,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 (with minimum 6.0 in each skill), TOEFL iBT minimum 79, or EmSAT English score of 1550+. Official test score is mandatory.",
+    "other_language_requirements": "None; instruction and research conducted entirely in English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants apply for the PhD Scholarship during the general UAEU online graduate admissions application process.",
+    "previous_scholarship_restrictions": "Cannot hold any concurrent fellowship or employment without explicit university approval.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition fee waiver for the complete 4-year doctoral candidature (AED 120,000 to 180,000 total degree value).",
+      "amount": "100% covered (~AED 40,000 / year; ~PKR 3,040,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "PAID BY APPLICANT",
+      "details": "UAEU graduate admissions application fee of AED 200 (~USD 55; ~PKR 15,200) paid online.",
+      "amount": "AED 200 (~PKR 15,200)"
+    },
+    "accommodation": {
+      "status": "100% COVERED",
+      "details": "Free furnished on-campus housing provided in UAEU graduate residence halls in Al Ain, or housing allowance (for married students with approval) of up to AED 1,500 / month.",
+      "amount": "100% covered housing"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Monthly tax-free living stipend: AED 6,000 / month (~USD 1,630 / month; ~PKR 456,000 / month) for single students; up to AED 7,500 / month (~USD 2,040 / month; ~PKR 570,000 / month) for students eligible for package enhancements.",
+      "amount": "AED 6,000 to 7,500 / month (~PKR 456,000 to 570,000 / mo)"
+    },
+    "airfare": {
+      "status": "PARTIAL",
+      "details": "Initial one-way flight ticket to the UAE and return flight ticket upon graduation provided under the international student package.",
+      "amount": "Inbound and outbound international flights"
+    },
+    "visa_fee": {
+      "status": "100% COVERED",
+      "details": "UAE Student Residence Visa sponsorship, medical examination, and Emirates ID card fees arranged and fully funded by UAEU.",
+      "amount": "100% covered by UAEU"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Comprehensive health insurance policy (Daman National Health Insurance) covering medical, inpatient, outpatient, and emergency care in the UAE.",
+      "amount": "100% covered health insurance"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "On-campus food court and diverse dining options; monthly living costs easily covered from the AED 6,000/month stipend.",
+      "amount": "Covered from monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "100% COVERED",
+      "details": "Comprehensive access to UAEU National Library, scientific computing resources, and state-of-the-art research laboratories.",
+      "amount": "100% covered institutional resources"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Financial support for research project consumables and international conference attendance (up to AED 3,000 per conference).",
+      "amount": "Up to AED 3,000 conference travel grant"
+    },
+    "travel_transit_allowance": {
+      "status": "100% COVERED",
+      "details": "Free university campus shuttle service operating across all campus sectors in Al Ain.",
+      "amount": "100% free campus shuttle transport"
+    },
+    "total_estimated_value_usd_per_year": 32000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (United Arab Emirates University, Al Ain)",
+    "participating_institutions": [
+      "United Arab Emirates University (UAEU) - UAE National Flagship (Al Ain, Abu Dhabi, UAE)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #261 worldwide, Times Higher Education #301-350, #1 comprehensive research university in the UAE.",
+    "available_majors": [
+      "PhD in Computer Science and Information Technology",
+      "PhD in Electrical Engineering",
+      "PhD in Mechanical Engineering",
+      "PhD in Civil Engineering",
+      "PhD in Chemical and Petroleum Engineering",
+      "PhD in Materials Science and Engineering",
+      "PhD in Biomedical Sciences",
+      "PhD in Chemistry",
+      "PhD in Physics",
+      "PhD in Horticultural and Agricultural Sciences",
+      "PhD in Business Administration (Finance, Management)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "4 years (full-time PhD)",
+    "admission_requirements_summary": "Online UAEU graduate application, research proposal, Master's and Bachelor's transcripts with minimum CGPA 3.50/4.00, official IELTS/TOEFL score report, two academic letters of recommendation, CV, and interview.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "College of Information Technology and College of Engineering receive the highest volume of international applications; having an identified UAEU professor supporting your research proposal is decisive.",
+    "strategic_program_match_advice": "Reach out to potential faculty advisors at UAEU before applying. Align your proposed doctoral topic with UAE national priority research sectors (artificial intelligence, water security, renewable energy, and space exploration)."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.uaeu.ac.ae/en/cgs/scholarship.shtml & https://www.uaeu.ac.ae/en/admission/",
+    "portal_system_name": "UAEU College of Graduate Studies Online Application System",
+    "account_creation_instructions": "Register an account on the UAEU Graduate Admissions Portal, select the PhD program, tick the option for the 'Full PhD Scholarship', and upload all academic credentials.",
+    "step_by_step_workflow": [
+      "Step 1: Contact potential doctoral supervisors at UAEU to discuss research proposal alignment (October - December).",
+      "Step 2: Take IELTS (min 6.5) or TOEFL (min 79) and obtain official test report.",
+      "Step 3: Register on the UAEU Graduate Admissions portal and complete the online application.",
+      "Step 4: Upload Bachelor's and Master's degrees, transcripts, research proposal, CV, and passport copy.",
+      "Step 5: Pay the application fee of AED 200 online via credit card.",
+      "Step 6: Referees submit recommendations directly through the automated UAEU referee portal.",
+      "Step 7: College Graduate Studies Committee reviews applications and conducts video interviews (February - April).",
+      "Step 8: Final admission and scholarship award decisions announced (May - June).",
+      "Step 9: Complete UAE student visa formalities, receive flight booking, and matriculate at UAEU in August."
+    ],
+    "university_vs_scholarship_routing": "Integrated Track: The PhD scholarship application is embedded directly within the online graduate admission process.",
+    "recommendation_letters_submission_method": "Submitted online by referees via secure automated links generated upon application fee payment.",
+    "personal_statement_prompts": "Statement of purpose detailing academic background, research objectives, rationale for choosing UAEU, and post-PhD career goals.",
+    "study_plan_research_proposal_requirements": "Structured 3 to 5-page doctoral research proposal outlining problem statement, literature review, research questions, methodology, and expected timeline.",
+    "cv_format_requirements": "Academic CV detailing publications (with DOI and indexation status), research experience, and awards.",
+    "interviews_conducted": true,
+    "interview_format_details": "30-minute online video interview via Microsoft Teams with a departmental faculty panel evaluating research competence and proposal feasibility.",
+    "standardized_tests": "IELTS Academic (min 6.5) or TOEFL iBT (min 79) mandatory; GRE optional but recommended for engineering applicants.",
+    "application_fee_amount": "AED 200 (~USD 55; ~PKR 15,200)",
+    "attestation_requirements": "Degrees and transcripts must be attested by HEC Pakistan, MoFA, and the UAE Embassy in Islamabad upon final admission offer.",
+    "translation_requirements": "Certified English translation required for any documents not in English.",
+    "final_submission_method": "100% digital submission via the UAEU graduate admissions portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Master's and Bachelor's Degrees and Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts and degrees with minimum Master's CGPA 3.50/4.00.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan with official grading scale explanation."
+    },
+    {
+      "document_name": "Doctoral Research Proposal",
+      "mandatory": true,
+      "specification": "Detailed 3-5 page research proposal outlining research methodology and novelty.",
+      "pakistan_specific_instruction": "Synergy with UAEU research centers (e.g. Zayed Center for Health Sciences, Emirates Center for Energy and Environment) strongly advised."
+    },
+    {
+      "document_name": "Official English Proficiency Score Report",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5 with 6.0 in all bands), TOEFL iBT (min 79), or EmSAT 1550+.",
+      "pakistan_specific_instruction": "Test report must be valid within 2 years of application."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from academic professors who taught or supervised the applicant.",
+      "pakistan_specific_instruction": "Must be sent from official institutional email addresses."
+    },
+    {
+      "document_name": "Academic CV and Research Publications",
+      "mandatory": true,
+      "specification": "Detailed CV including copies of published journal/conference papers.",
+      "pakistan_specific_instruction": "Highlight papers indexed in Scopus or Web of Science."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Color copy of passport identification page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Pakistani passport must have validity through late 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "November 1 (Fall Intake) / June 1 (Spring Intake)",
+    "application_deadline": "February 28 (Fall Intake) / September 30 (Spring Intake)",
+    "university_admission_deadline": "February 28 / September 30",
+    "document_submission_deadline": "February 28 / September 30",
+    "recommendation_letters_deadline": "March 10 / October 10",
+    "interview_period": "March - April (Fall) / October - November (Spring)",
+    "shortlist_announcement": "May (Fall) / December (Spring)",
+    "final_result_acceptance_deadline": "June 15 / December 20",
+    "visa_application_window": "June 15 - July 30 / December 20 - January 10",
+    "semester_commencement": "Late August (Fall) / Early January (Spring)",
+    "annual_cycle_notes": "Main intake is Fall semester (commencing August). Highly competitive selection process."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Master's GPA and academic distinction)",
+    "extracurricular_and_leadership_weight": "5% (Leadership and professional service)",
+    "research_experience_weight": "35% (Prior journal publications, proposal quality, and research match)",
+    "work_experience_weight": "5% (Laboratory/technical experience)",
+    "personal_statement_weight": "5% (Statement of purpose clarity)",
+    "recommendations_weight": "10% (Academic referee assessments)",
+    "interview_weight": "10% (Technical interview defense)",
+    "test_scores_weight": "0% (English meets required benchmark)",
+    "financial_need_weight": "0% (Exclusively merit and research-excellence based)",
+    "selection_panel_composition": "College Graduate Studies Committee, Departmental Review Panel, and Dean of the College of Graduate Studies.",
+    "evaluation_methodology": "Two-phase evaluation: academic credential and publication review followed by departmental faculty video interview."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,500 international doctoral applicants globally",
+    "total_scholarships_awarded": "~40 to 60 full PhD scholarships awarded annually",
+    "acceptance_rate_global": "~2.0% to 3.0%",
+    "acceptance_rate_pakistan": "~4.0% among competitive applicants with published papers",
+    "typical_successful_applicant_gpa": "Master's CGPA 3.70+ / 4.00 from leading Pakistani universities (NUST, QAU, GIKI, PIEAS, FAST, UET)",
+    "typical_academic_and_research_profile": "Graduates with at least 1-2 published papers in Scopus-indexed journals and a well-developed research plan aligned with UAEU priority areas.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani top engineering, computer science, and life science programs.",
+    "high_representation_countries": "UAE, Pakistan, Egypt, India, Jordan, Iran, Nigeria, Algeria, Lebanon.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of unsolicited emails or third-party agencies claiming to provide guaranteed UAEU scholarships.",
+      "Applications are processed exclusively through uaeu.ac.ae."
+    ],
+    "application_fee_warning": "UAEU charges an official AED 200 application fee paid directly via the university portal; never pay agents.",
+    "agent_and_intermediary_warnings": "UAEU does not authorize any educational agents for scholarship recruitment.",
+    "hidden_costs_breakdown": [
+      "Application fee: AED 200 (~PKR 15,200).",
+      "IELTS/TOEFL exam fee: ~PKR 60,000.",
+      "Degree attestation in Pakistan (HEC and MoFA) and UAE Embassy legalization: ~PKR 35,000 to 45,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: The PhD scholarship is only open to UAE citizens. Reality: UAEU PhD Full Scholarships are explicitly open to top international candidates globally.",
+      "Myth: You do not need published papers. Reality: Given extreme competition, having at least one peer-reviewed publication significantly elevates your admission probability."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim GRE is mandatory; GRE is optional for most UAEU PhD programs."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.00 / 4.00 in doctoral coursework throughout candidature.",
+    "attendance_requirements": "Full-time on-campus presence and commitment to research, including fulfilling required Graduate Teaching Assistant (GTA) duties (up to 6 hours per week).",
+    "academic_progress_monitoring": "Annual progress reports reviewed by the supervisory committee and the College of Graduate Studies.",
+    "work_restrictions_during_study": "Scholars may not hold external employment during the scholarship tenure.",
+    "home_country_return_obligation": "No mandatory return requirement; graduates are eligible for UAE Golden Visas (PhD holders category) or global careers.",
+    "service_obligations_or_bonds": "Zero service bond or repayment obligation.",
+    "repayment_clawback_conditions": "Scholarship terminated if student fails the comprehensive examination twice, fails to make research progress, or engages in academic misconduct.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Major changes are generally not permitted once admitted to the PhD program.",
+    "extension_policy": "Scholarship duration is strictly capped at 4 years (8 semesters); extensions beyond year 4 must be funded by research grants."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "United Arab Emirates University (UAEU) PhD Full Scholarship Portal",
+      "source_url": "https://www.uaeu.ac.ae/en/cgs/scholarship.shtml",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "UAEU Graduate Admissions Guide",
+      "source_url": "https://www.uaeu.ac.ae/en/admission/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

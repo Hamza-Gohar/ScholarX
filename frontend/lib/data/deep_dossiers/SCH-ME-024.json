@@ -1,0 +1,280 @@
+{
+  "scholarship_id": "SCH-ME-024",
+  "basic_details": {
+    "scholarship_name": "Shaqra University International Student Scholarship (Kingdom of Saudi Arabia)",
+    "offering_entity": "Ministry of Education of Saudi Arabia & Shaqra University (SU)",
+    "host_country": "Saudi Arabia",
+    "host_institutions_covered": "Shaqra University Main Campus (College of Computing and Information Technology, Shaqra, Riyadh Province, Kingdom of Saudi Arabia)",
+    "degree_levels": [
+      "Bachelor of Science (BSc)",
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "College of Computing and Information Technology (Computer Science, Information Technology, Cyber Security), College of Engineering, College of Science and Humanities, and College of Business Administration (clinical medical and health colleges reserved for Saudi nationals).",
+    "number_of_awards_total": "~180 to 260 external government scholarships awarded annually across university faculties",
+    "number_of_awards_pakistan": "High quota allocation for Pakistani students; Pakistani scholars form a key international student demographic in Shaqra (~30 to 45 awards annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "4 to 5 years for Bachelor's; 2 years for Master's (plus 1-year Arabic language preparatory institute if required)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International applicants holding non-Saudi citizenship (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 25,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Undergraduate candidates must be aged 17 to 25 years; Master's candidates must be under 35 years of age at application.",
+    "academic_qualifications": "HSSC / Intermediate (Pre-Engineering, ICS, or General Science) or Cambridge A-Levels for Bachelor's (minimum 80% marks or Grade B); recognized 16-year Bachelor's degree (BS / BE / BSc) in Computer Science, IT, or Engineering for Master's from an HEC-recognized institution with minimum CGPA 3.00 / 4.00 or Very Good (Jayyid Jiddan) standing.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Transcripts evaluated on the standard Saudi 5.0 GPA scale (minimum 3.75 / 5.00 equivalent).",
+    "subject_background_prerequisites": "Pre-Engineering or ICS prerequisite for College of Computing and Information Technology and College of Engineering.",
+    "current_education_status": "Applicants must have graduated and possess original marksheets and provisional/final certificates prior to portal registration.",
+    "graduation_year_restrictions": "High school / intermediate certificate must have been issued within the past 3 to 5 years.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not required; tech internships or open source development projects strengthen postgraduate applications.",
+    "english_test_required": false,
+    "ielts_minimum": 5.5,
+    "toefl_minimum": 65,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "College of Computing and Information Technology programs are taught in English (MOI certificate from Pakistani university accepted; IELTS 5.5+ or TOEFL 65 recommended). Sharia and Humanities tracks require Arabic proficiency or enrollment in the university Arabic Institute.",
+    "other_language_requirements": "Preparatory Arabic language program available for students enrolled in Arabic-medium humanities courses.",
+    "gender_specific_requirements": "Female applicants must have a legal male guardian (Mahram) residing with valid Iqama in Saudi Arabia or obtain admission under institutional residential guardianship in monitored female student halls.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Application processing through the Saudi Ministry of Education unified portal 'Study in Saudi' (studyinsaudi.moe.gov.sa).",
+    "previous_scholarship_restrictions": "Applicant must not have previously held or been dismissed from another Saudi government university scholarship.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for all required academic semesters at Shaqra University.",
+      "amount": "100% covered (~SAR 25,000 to 38,000 / year value; ~PKR 1,875,000 to 2,850,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Completely free online application through the official Ministry of Education 'Study in Saudi' portal.",
+      "amount": "SAR 0 (100% free)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Free fully furnished on-campus student residential dormitories in Shaqra (Riyadh Province), including all utility costs, air conditioning, internet connectivity, and maintenance.",
+      "amount": "100% covered free dormitory accommodation"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Tax-free monthly living stipend disbursed directly into student bank accounts: SAR 840 / month for undergraduate students (~PKR 63,000 / month); SAR 900 to 1,000 / month for postgraduate students (~PKR 67,500 to 75,000 / month).",
+      "amount": "SAR 840 to 1,000 / month (~PKR 63,000 to 75,000 / mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Free annual economy-class round-trip airfare ticket between Pakistan and King Khalid International Airport (RUH) in Riyadh provided by the university at the end of each academic year.",
+      "amount": "100% covered annual round-trip flight ticket"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Saudi student study visa authorization and governmental Iqama issuance covered fully by the Kingdom of Saudi Arabia.",
+      "amount": "100% free / government covered"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive 100% free medical care provided at Shaqra University Medical Center and public hospitals throughout the Riyadh region.",
+      "amount": "100% covered free healthcare"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Heavily subsidized campus dining facilities offering three balanced meals daily at SAR 3 to 6 per meal; fully payable from monthly stipend.",
+      "amount": "Subsidized campus meals (~SAR 5 per meal)"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Free textbook lending and digital repository access via the Shaqra Central University Library and Saudi Digital Library.",
+      "amount": "100% covered library access & book allowance"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Postgraduate thesis printing grant (SAR 3,000 for Master's) and university research incentives for high-impact computer science publications.",
+      "amount": "SAR 3,000 thesis grant & publication awards"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free university transit bus service between dormitories, College of Computing, campus facilities, and Shaqra town center.",
+      "amount": "100% free university shuttle transport"
+    },
+    "total_estimated_value_usd_per_year": 16000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host institution (Shaqra University, Shaqra, Riyadh Province, Saudi Arabia).",
+    "participating_institutions": [
+      "Shaqra University (College of Computing and Information Technology, Shaqra Campus, Riyadh Province, Saudi Arabia)"
+    ],
+    "university_rankings_scope": "Comprehensive public university in Riyadh Province established in 2009; QS Arab Region #111-120; accredited by the National Center for Academic Accreditation and Assessment (NCAAA).",
+    "available_majors": [
+      "Computer Science (College of Computing and Information Technology)",
+      "Information Technology & Networks",
+      "Cyber Security & Digital Forensics",
+      "Computer Engineering",
+      "Civil & Electrical Engineering",
+      "Mathematics and Physics",
+      "Business Administration & Accounting"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Bachelor's: 4 to 5 years; Master's: 2 years (plus optional 1-year Arabic foundation if needed)",
+    "admission_requirements_summary": "Unified application via 'Study in Saudi' platform, high school / intermediate or bachelor's diploma with minimum 80% marks, attested transcripts, medical fitness certificate, police clearance certificate, two recommendation letters, and valid passport copy.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "College of Computing and Information Technology in Shaqra attracts substantial applicant interest due to Riyadh province proximity; strong intermediate scores (85%+) in mathematics/physics ensure competitive edge.",
+    "strategic_program_match_advice": "Ensure complete sequential attestations (IBCC/HEC then MoFA Pakistan) are stamped before scanning documents to guarantee seamless verification on the Study in Saudi portal."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://studyinsaudi.moe.gov.sa/ & https://www.su.edu.sa/",
+    "portal_system_name": "Study in Saudi Official Platform (Ministry of Education, Kingdom of Saudi Arabia)",
+    "account_creation_instructions": "Register on the 'Study in Saudi' portal (https://studyinsaudi.moe.gov.sa/), choose 'External Scholarship (منحة خارجية)', select Shaqra University as first priority, choose College of Computing and Information Technology, and upload attested document scans.",
+    "step_by_step_workflow": [
+      "Step 1: Attest intermediate marksheets/certificates via IBCC or degree via HEC, and verify through Ministry of Foreign Affairs (MoFA) Pakistan.",
+      "Step 2: Obtain police character clearance certificate and complete medical diagnostic tests (HIV, Hep B/C, TB).",
+      "Step 3: Register an account on the Saudi Ministry of Education Study in Saudi portal (https://studyinsaudi.moe.gov.sa/).",
+      "Step 4: Select Shaqra University, choose College of Computing and Information Technology and academic major, and upload scanned documents in PDF format.",
+      "Step 5: Shaqra University Deanship of Admission reviews profiles and submits nominations to the Ministry of Education.",
+      "Step 6: Saudi MOFA generates electronic visa authorization slip (Tafweez).",
+      "Step 7: Submit passport for visa stamping at Etimad / VFS Tasheel center in Islamabad/Karachi/Lahore; university issues flight ticket to Riyadh."
+    ],
+    "university_vs_scholarship_routing": "Unified Government System: Single application via the Study in Saudi portal simultaneously handles academic university admission and full government scholarship award.",
+    "recommendation_letters_submission_method": "Uploaded as attested scanned PDF documents on official institutional letterhead bearing referee contact details and official stamps.",
+    "personal_statement_prompts": "Personal motivation statement outlining interest in computing, academic goals, and why the applicant chose Shaqra University in Saudi Arabia.",
+    "study_plan_research_proposal_requirements": "For Master's applicants: 2 to 3-page research proposal detailing chosen research questions in computer science or networking.",
+    "cv_format_requirements": "Standard professional CV listing educational history, academic grades, technical proficiencies, and extracurricular honors.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interview required; admission and scholarship decisions are based on academic excellence and document verification.",
+    "standardized_tests": "English proficiency certificate (IELTS/TOEFL) or Medium of Instruction (MOI) letter; no GRE/GAT mandatory.",
+    "application_fee_amount": "SAR 0 (100% free of charge)",
+    "attestation_requirements": "IBCC (for Matric/Inter), HEC (for Bachelor degrees), and Ministry of Foreign Affairs (MoFA) Pakistan attestations are strictly mandatory.",
+    "translation_requirements": "Certified English or Arabic translations of all academic certificates, marksheets, and police clearance reports.",
+    "final_submission_method": "100% online submission via the Ministry of Education Study in Saudi portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Attested Educational Certificates and Transcripts",
+      "mandatory": true,
+      "specification": "Intermediate (FSc Pre-Engineering/ICS) for Bachelor's or BS transcript for Master's with minimum 80% marks.",
+      "pakistan_specific_instruction": "Attested by IBCC (for school/college) or HEC (for degrees) and verified by MoFA Pakistan."
+    },
+    {
+      "document_name": "Police Character Clearance Certificate",
+      "mandatory": true,
+      "specification": "Official police certificate confirming no criminal record, issued within 6 months of application.",
+      "pakistan_specific_instruction": "Issued by Police Khidmat Markaz / District Police Office and attested by MoFA Pakistan."
+    },
+    {
+      "document_name": "Medical Fitness Examination Certificate",
+      "mandatory": true,
+      "specification": "Comprehensive medical fitness report confirming freedom from infectious diseases (HIV, Hepatitis B/C, Tuberculosis).",
+      "pakistan_specific_instruction": "Issued by an authorized diagnostic laboratory and signed by a registered physician."
+    },
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color scan of passport bio-data page with at least 2 years validity.",
+      "pakistan_specific_instruction": "Valid Pakistani passport extending through late 2028 or beyond."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Letters from former teachers or professors attesting to character, academic competence, and motivation.",
+      "pakistan_specific_instruction": "Printed on official institutional letterhead with official stamps and referee details."
+    },
+    {
+      "document_name": "Recent Color Photographs",
+      "mandatory": true,
+      "specification": "Passport-sized photographs (4x6 cm) with white background matching Saudi visa specifications.",
+      "pakistan_specific_instruction": "Clear digital scans without tinted glasses."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "May 1",
+    "application_deadline": "July 15",
+    "university_admission_deadline": "July 15",
+    "document_submission_deadline": "July 15",
+    "recommendation_letters_deadline": "July 15",
+    "interview_period": "Not applicable (dossier evaluation)",
+    "shortlist_announcement": "November - December",
+    "final_result_acceptance_deadline": "January",
+    "visa_application_window": "January - February",
+    "semester_commencement": "Late August / September (Fall semester intake)",
+    "annual_cycle_notes": "Saudi external scholarship portal operates annually from May to July. Ministry nominations, security verification, and MOFA visa processing take 4 to 6 months."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "60% (High school / Intermediate aggregate marks or Bachelor CGPA)",
+    "extracurricular_and_leadership_weight": "10% (General conduct, character references, community activities)",
+    "research_experience_weight": "15% (For postgraduate applicants: research proposal, publications, or coding portfolio)",
+    "work_experience_weight": "0% (Not required for undergraduate admissions)",
+    "personal_statement_weight": "10% (Motivation letter clarity and academic intent)",
+    "recommendations_weight": "5% (Academic referee appraisals)",
+    "interview_weight": "0% (Evaluation based on certified application dossier)",
+    "test_scores_weight": "0% (Qualifying check only; no specific score weight)",
+    "financial_need_weight": "0% (Merit-based competition governed by bilateral national quotas)",
+    "selection_panel_composition": "Shaqra University Deanship of Admission and Registration in coordination with the Saudi Ministry of Education External Scholarship Directorate.",
+    "evaluation_methodology": "Points-based merit ranking evaluated from certified grades, document authentication, and bilateral country quota distribution."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~12,000 to 20,000 international applicants across the Study in Saudi portal",
+    "total_scholarships_awarded": "~180 to 260 international scholarships awarded at Shaqra University annually",
+    "acceptance_rate_global": "~1.5% to 2.2%",
+    "acceptance_rate_pakistan": "~4.5% to 6.5% (Pakistan is granted one of the highest external scholarship quotas in the Kingdom)",
+    "typical_successful_applicant_gpa": "Marks >= 85% in FSc / ICS / A-Levels or CGPA >= 3.4 / 4.0 in Bachelor degree",
+    "typical_academic_and_research_profile": "Students with top grades in mathematics and sciences, complete IBCC/HEC and MoFA attestations, clean criminal records, and strong references.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani intermediate boards (FBISE, BISE Lahore, BISE Gujranwala, BISE Faisalabad) and science universities.",
+    "high_representation_countries": "Pakistan, Yemen, Egypt, Sudan, Indonesia, Bangladesh, Jordan, Nigeria.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of unauthorized visa agents claiming to sell guaranteed Saudi university admissions or study visas.",
+      "The official and ONLY valid application portal is https://studyinsaudi.moe.gov.sa/."
+    ],
+    "application_fee_warning": "The Saudi government and Shaqra University NEVER charge any fee for scholarship application, processing, or visa authorization.",
+    "agent_and_intermediary_warnings": "Shaqra University does not authorize or partner with private consultants or recruitment agencies.",
+    "hidden_costs_breakdown": [
+      "IBCC, HEC, and MoFA degree attestations in Pakistan: ~PKR 15,000 to 25,000.",
+      "Medical diagnostic testing and blood screening in Pakistan: ~PKR 10,000 to 15,000.",
+      "Saudi Visa Center (Etimad / VFS Tasheel) biometric service fee: ~PKR 12,000 to 18,000.",
+      "Initial pocket money before first monthly stipend disbursement in Shaqra: ~SAR 500 (~PKR 37,500)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Shaqra is an isolated campus without modern technology facilities. Reality: Shaqra University has state-of-the-art computing laboratories and high-speed network infrastructure located near Riyadh.",
+      "Myth: Students cannot travel to Riyadh or Makkah. Reality: Students have freedom of domestic travel and access subsidized rail/bus transit across the Kingdom."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial websites advertise deadlines in December; official Saudi admissions strictly open in May and close in July."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 2.75 / 5.0 (Grade Good / Jayyid) each academic semester to retain full scholarship benefits.",
+    "attendance_requirements": "Minimum 75% classroom and laboratory attendance required; falling below 75% results in course denial (Hirman) and stipend suspension.",
+    "academic_progress_monitoring": "Semester-by-semester academic audit conducted by the Deanship of Student Affairs prior to releasing tickets and monthly stipends.",
+    "work_restrictions_during_study": "Off-campus employment is strictly prohibited under Saudi student visa (Iqama) regulations.",
+    "home_country_return_obligation": "Scholars are expected to return to Pakistan upon graduation; the university issues a final exit visa and complimentary return air ticket.",
+    "service_obligations_or_bonds": "Zero service bond or repayment obligation.",
+    "repayment_clawback_conditions": "Scholarship is terminated and the student is repatriated if dismissed for academic failure, disciplinary infractions, or violation of Saudi laws.",
+    "rules_for_changing_university": "Transferring between Saudi universities is strictly prohibited under the external scholarship charter.",
+    "rules_for_changing_major": "Permitted only within the same faculty during the first academic year with approval of the College Dean.",
+    "extension_policy": "Maximum extension of one additional semester may be approved upon Dean's recommendation in case of justified academic delay."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Study in Saudi Official Portal (Ministry of Education, KSA)",
+      "source_url": "https://studyinsaudi.moe.gov.sa/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Shaqra University Deanship of Admission and Registration",
+      "source_url": "https://www.su.edu.sa/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "scholarship_id": "SCH-ME-006",
+  "basic_details": {
+    "scholarship_name": "Islamic Development Bank (IsDB) Scholarship Programme",
+    "offering_entity": "Islamic Development Bank (IsDB, Jeddah, Saudi Arabia)",
+    "host_country": "Global (Top Universities in 57 IsDB Member Countries and Partner Institutions Worldwide)",
+    "host_institutions_covered": "Top universities in IsDB member countries and prestigious partner universities worldwide (Cambridge, Oxford, Queen Mary, McGill, ITU Turkey, UTM Malaysia)",
+    "degree_levels": [
+      "Undergraduate (Bachelor's)",
+      "Master's",
+      "PhD",
+      "Post-Doctoral Research"
+    ],
+    "major_restrictions": "Development-focused fields: Sustainability Sciences, Clean Energy, Climate Change, Agriculture and Food Security, Water and Sanitation, Healthcare and Medicine, ICT and AI, Islamic Economics, Finance and Banking, Infrastructure Development.",
+    "number_of_awards_total": "~500 to 600 scholarships awarded annually across 57 member countries",
+    "number_of_awards_pakistan": "Open to Pakistan as a founding member country (~20 to 30 Pakistani scholars selected annually across all levels)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Bachelor's: 4 years; Master's: 2 years; PhD: 3 to 4 years; Post-Doc: 6 to 12 months"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizen of an IsDB member country (Pakistani citizens eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 24,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Undergraduate: under 24; Master's: under 30; PhD: under 35; Post-Doctoral: under 40 years of age.",
+    "academic_qualifications": "12 years for Bachelor's; 16 years for Master's; 18 years for PhD with superior academic standing (at least 'Very Good' / 80%+).",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum 3.50 / 4.00 CGPA or equivalent top 10% class standing.",
+    "subject_background_prerequisites": "Prerequisites corresponding to designated development disciplines.",
+    "current_education_status": "Graduated or in final semester of degree.",
+    "graduation_year_restrictions": "None, provided age criteria are respected.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Work experience in public service or community development sectors evaluated favorably for Master's and PhD.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 85,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": true,
+      "notes": "Language requirement depends on destination university (IELTS 6.5+ or TOEFL 85+ for UK/Canada/Malaysia programs)."
+    },
+    "other_language_requirements": "Language of instruction of destination university.",
+    "gender_specific_requirements": "Equal opportunity; women and marginalized groups actively encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Development impact and formal undertaking to return to home country and contribute to national development (structured as Qard Hasan / interest-free development investment).",
+    "previous_scholarship_restrictions": "Cannot hold another scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition fees paid directly to the host university by the Islamic Development Bank.",
+      "amount": "Full coverage"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "University application fees paid by candidate unless waived.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered via monthly living allowance.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly living allowance commensurate with the cost of living in the host country (e.g. £1,200/mo in UK, CAD $1,600/mo in Canada, RM 2,000/mo in Malaysia).",
+      "amount": "Local currency equivalent commensurate with host city cost of living"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Economy class return airfare ticket between Pakistan and the host country at beginning and end of study.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Student visa fees reimbursed upon submission of official receipts.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive health and medical insurance provided throughout the study tenure.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly living allowance.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Annual books and clothing allowance provided directly to student.",
+      "amount": "Annual grant"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Special grant available for conference attendance and thesis preparation for PhD and Post-Doc scholars.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Installation allowance provided upon initial arrival.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 35000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Apply for study in top 10 universities in home country or renowned partner universities worldwide.",
+    "participating_institutions": [
+      "University of Cambridge (UK)",
+      "University of Oxford (UK)",
+      "Queen Mary University of London (UK)",
+      "McGill University (Canada)",
+      "Istanbul Technical University (Turkey)",
+      "Universiti Teknologi Malaysia (UTM)",
+      "Top universities in Pakistan (NUST, Quaid-i-Azam, Aga Khan University)"
+    ],
+    "university_rankings_scope": "Premier global universities and top-tier institutions in IsDB member states.",
+    "available_majors": [
+      "Clean Energy & Renewable Power, Sustainable Agriculture, Climate Science, Water Engineering, Public Health, Biomedical Sciences, Artificial Intelligence, Data Science, Islamic Economics & Finance, Law & Governance"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Bachelor's: 4 years; Master's: 2 years; PhD: 3 to 4 years",
+    "admission_requirements_summary": "Two pathways: Apply with an existing admission offer from an approved university, or apply for IsDB placement in partner universities.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Holding an unconditional admission offer from a top university significantly strengthens the IsDB scholarship application.",
+    "strategic_program_match_advice": "Align your proposed degree explicitly with the UN Sustainable Development Goals (SDGs) and Pakistan's socio-economic development plan."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.isdb.org/scholarships",
+    "portal_system_name": "IsDB Scholarship Online Portal",
+    "account_creation_instructions": "Register on the IsDB scholarship platform (Opens December/January), complete profile, upload academic dossier, and submit before deadline.",
+    "step_by_step_workflow": [
+      "1. Check eligibility and program guidelines on the IsDB portal (Opens December/January).",
+      "2. Create account on the IsDB scholarship portal and complete the online application form.",
+      "3. Upload certified transcripts, degree certificates, CV, and Statement of Purpose.",
+      "4. Upload proof of admission if you already have an offer from a top university.",
+      "5. Submit online application before the annual deadline (typically late February).",
+      "6. IsDB selection panels screen applications and conduct interviews in April/May.",
+      "7. Final award decisions announced in July/August; placement confirmed."
+    ],
+    "university_vs_scholarship_routing": "Direct centralized application via IsDB portal.",
+    "recommendation_letters_submission_method": "Two recommendation letters uploaded directly during portal application.",
+    "personal_statement_prompts": "Address your academic motivation, how your degree aligns with IsDB development goals, and your commitment to return to Pakistan.",
+    "study_plan_research_proposal_requirements": "Research proposal required for PhD and Post-Doctoral applicants.",
+    "cv_format_requirements": "Standard academic and professional resume.",
+    "interviews_conducted": true,
+    "interview_format_details": "Selection committee or national counter-part agency conducts video/in-person interview in April/May.",
+    "standardized_tests": "Language proficiency test (IELTS/TOEFL) matching target university standards.",
+    "application_fee_amount": "$0 (100% Free).",
+    "attestation_requirements": "Transcripts certified by degree institutions; HEC attestation required.",
+    "translation_requirements": "Certified English, Arabic, or French translations.",
+    "final_submission_method": "100% Online via IsDB portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Educational Diplomas & Transcripts",
+      "mandatory": true,
+      "specification": "Complete certificates and mark sheets showing all grades and GPA",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "Statement of Purpose",
+      "mandatory": true,
+      "specification": "Detailed essay outlining academic background and development contribution",
+      "pakistan_specific_instruction": "Clear focus on socio-economic impact in Pakistan"
+    },
+    {
+      "document_name": "Two Recommendation Letters",
+      "mandatory": true,
+      "specification": "From former professors or professional supervisors on letterhead",
+      "pakistan_specific_instruction": "Signed and stamped"
+    },
+    {
+      "document_name": "Proof of Admission (if available)",
+      "mandatory": false,
+      "specification": "Offer letter from an approved top university",
+      "pakistan_specific_instruction": "From top 10 Pakistani university or top international partner"
+    },
+    {
+      "document_name": "Medical Certificate",
+      "mandatory": true,
+      "specification": "Official medical certificate proving fitness for study",
+      "pakistan_specific_instruction": "Issued by registered government hospital"
+    },
+    {
+      "document_name": "Passport Copy & CNIC",
+      "mandatory": true,
+      "specification": "Valid Pakistani passport and national identity card",
+      "pakistan_specific_instruction": "Scanned copy of NADRA smart card and passport"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-12-15",
+    "application_deadline": "2027-02-28",
+    "university_admission_deadline": "N/A (Managed in parallel)",
+    "document_submission_deadline": "2027-02-28",
+    "recommendation_letters_deadline": "2027-02-28",
+    "interview_period": "April to May 2027",
+    "shortlist_announcement": "June 2027",
+    "final_result_acceptance_deadline": "2027-07-31",
+    "visa_application_window": "July to August 2027",
+    "semester_commencement": "September/October 2027",
+    "annual_cycle_notes": "Application window is strictly December to late February each year. Final awards announced in July."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Superior academic record, GPA, academic honors)",
+    "extracurricular_and_leadership_weight": "15% (Leadership track record and community commitment)",
+    "research_experience_weight": "20% (For PhD: quality and developmental relevance of research proposal)",
+    "work_experience_weight": "5% (Professional experience in development sectors)",
+    "personal_statement_weight": "10% (Development impact of proposed study on home country)",
+    "recommendations_weight": "10% (Referee appraisals)",
+    "interview_weight": "Conducted in final round",
+    "test_scores_weight": "Language threshold required",
+    "financial_need_weight": "0% (Merit and development impact driven)",
+    "selection_panel_composition": "IsDB International Selection Committee composed of distinguished scholars and development experts.",
+    "evaluation_methodology": "Two-phase review: Technical evaluation of academic dossier and developmental alignment; final panel interview."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~15,000+ applications across 57 IsDB member countries",
+    "total_scholarships_awarded": "~500 to 600 scholarships awarded annually",
+    "acceptance_rate_global": "~3.5%",
+    "acceptance_rate_pakistan": "~2% to 3% (Highly Competitive)",
+    "typical_successful_applicant_gpa": "3.60 to 4.00 CGPA",
+    "typical_academic_and_research_profile": "Top-tier students with strong academic backgrounds, social impact initiatives, and clear development roadmaps.",
+    "common_backgrounds_of_winners": "Graduates of leading Pakistani universities (NUST, LUMS, Quaid-i-Azam, Aga Khan University, UET) in STEM, medicine, and economics.",
+    "high_representation_countries": "Pakistan, Turkey, Malaysia, Indonesia, Egypt, Bangladesh, Nigeria, Morocco.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Fraudulent websites claiming to charge fees for IsDB scholarship processing."
+    ],
+    "application_fee_warning": "The IsDB scholarship application is 100% FREE on the official portal.",
+    "agent_and_intermediary_warnings": "Never work through commercial consultants; apply directly on the IsDB portal.",
+    "hidden_costs_breakdown": [
+      "HEC attestation fees in Islamabad.",
+      "Medical checkup costs."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: IsDB is a religious grant for theological studies. (Fact: Over 90% of IsDB scholarships are awarded in STEM, Medicine, Agriculture, AI, and Engineering).",
+      "MYTH: You cannot study in Western countries. (Fact: IsDB partners directly with Cambridge, Oxford, McGill, Queen Mary, and leading European universities)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "External blogs state this is a loan; IsDB scholarships operate as interest-free grants (Qard Hasan) where repayment is reinvested into the local community fund after return."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain high academic standing and pass all courses each semester.",
+    "attendance_requirements": "Full-time physical residence and attendance at designated host university.",
+    "academic_progress_monitoring": "Host universities submit semi-annual academic progress reports to the IsDB Scholarship Division.",
+    "work_restrictions_during_study": "Scholars may not work during their study period without prior approval from IsDB.",
+    "home_country_return_obligation": "MANDATORY Return: Scholars must return to their home country upon completion to serve in their profession and contribute to socio-economic development.",
+    "service_obligations_or_bonds": "Obligated to return home and repay the cost of the scholarship in easy installments to a local IsDB community trust fund (so another student can benefit).",
+    "repayment_clawback_conditions": "Failing to return home or abandoning studies requires immediate full refund of all scholarship expenses.",
+    "rules_for_changing_university": "Strictly prohibited without prior IsDB approval.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "Extensions are strictly granted only for documented academic research delays approved by IsDB."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Islamic Development Bank (IsDB) - Scholarship Programmes Official Portal",
+      "source_url": "https://www.isdb.org/scholarships",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Country-by-country candidate quota allocation formula among the 57 member states",
+        "Selection committee interview scoring rubrics"
+      ]
+    }
+  ]
+}

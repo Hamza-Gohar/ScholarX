@@ -1,0 +1,293 @@
+{
+  "scholarship_id": "SCH-EU-062",
+  "basic_details": {
+    "scholarship_name": "Avicenna Studienwerk International Fellowship (Begabtenförderungswerk)",
+    "offering_entity": "Avicenna-Studienwerk e.V. (Funded by Federal Ministry of Education and Research - BMBF)",
+    "host_country": "Germany",
+    "host_institutions_covered": "All State-accredited German Universities and Technical Universities (TU9, Flagship Universities across Germany)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD / Promotion)",
+      "Master of Science (MSc / MA)"
+    ],
+    "major_restrictions": "All Academic Disciplines with special emphasis on Computer Science, Artificial Intelligence & Ethics, Engineering, Social Sciences, Natural Sciences, and Humanities.",
+    "number_of_awards_total": "~80 to 100 graduate and doctoral scholars accepted annually nationwide",
+    "number_of_awards_pakistan": "Open internationally to Muslim students and non-Muslim scholars of Islamic studies; typically 5 to 10 Pakistani candidates selected per cycle",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Standard period of study (up to 24 months for Master's, up to 36 months for PhD with 1-year extension possible)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "German citizens, EU nationals, and international students from all countries including Pakistan with German university admission/enrollment"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 38,
+    "age_limit_notes": "No statutory strict age limit, but candidates must be early-career researchers or enrolled graduate students within normative semesters.",
+    "academic_qualifications": "Recognized 16-year Bachelor's degree (for Master's track) or 18-year Master's degree (for PhD track) with outstanding academic grades (minimum German GPA 2.0 or CGPA >= 3.40/4.00) from HEC-recognized institutions.",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.4,
+    "grading_conversion_notes": "German scale 1.0-2.0 or minimum CGPA 3.40 / 4.00; top 15% academic standing.",
+    "subject_background_prerequisites": "Relevant undergraduate degree matching chosen master's or PhD program in German university.",
+    "current_education_status": "Either holding unconditional admission offer or currently enrolled in the 1st or 2nd semester of a master's or PhD program at an accredited German institution.",
+    "graduation_year_restrictions": "Recent graduation within the past 4 years.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Active volunteerism, community engagement, interfaith dialogue, civic initiatives, or social responsibility strongly emphasized.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "For English-taught programs: IELTS 6.5+ or TOEFL 80+ / MOI certificate accepted. For German-taught programs: CEFR B2/C1 certificate (TestDaF 4x4 or DSH-2). Candidates must be willing to learn German for Foundation network activities.",
+    "other_language_requirements": "Willingness to achieve conversational German (B1) for seminar participation.",
+    "gender_specific_requirements": "Open equally to women and men; women in STEM strongly encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Muslim students and doctoral candidates of all disciplines, or non-Muslims focusing on Islamic theology/studies, who demonstrate social commitment.",
+    "previous_scholarship_restrictions": "Cannot simultaneously receive funding from another German Begabtenförderungswerk (e.g. DAAD, Konrad Adenauer, Friedrich Ebert).",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "Public German universities charge zero tuition fees; Avicenna covers full semester contribution fees if eligible.",
+      "amount": "100% Free Tuition at German State Universities"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Avicenna portal application is completely free of charge.",
+      "amount": "EUR 0 (Free)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Scholars access subsidized university student housing (Studierendenwerk dorms EUR 280-420/month) paid via living allowance.",
+      "amount": "Subsidized student housing prioritized"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Master's: EUR 934/month base allowance + EUR 300/month flat-rate study costs; PhD: EUR 1,400/month base + EUR 100/month research cost allowance.",
+      "amount": "EUR 1,234/mo (Master's) | EUR 1,500/mo (PhD) (~PKR 370,000 - 450,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Initial international flight from Pakistan to Germany is self-funded, but international conference travel grants are available upon application.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "German national study visa application fee (~EUR 75) paid by applicant at German Embassy Islamabad/Karachi (fee waiver often granted with official BMBF scholarship confirmation letter).",
+      "amount": "€75 borne by candidate (or waived)"
+    },
+    "health_insurance": {
+      "status": "SUBSIDIZED",
+      "details": "Health and long-term care insurance subsidy up to EUR 120 / month provided directly.",
+      "amount": "Up to EUR 120 / month direct health subsidy"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized university dining hall (Mensa) access across German campus locations.",
+      "amount": "Subsidized campus Mensa dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "EUR 300 / month flat-rate study materials allowance for master's; EUR 100 / month for PhD candidates.",
+      "amount": "EUR 100 - 300 / month study material grant"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Doctoral scholars receive research allowances and special travel funds for field research abroad.",
+      "amount": "Up to EUR 1,500 / year project research funding"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Semester ticket (Deutschlandticket integration) providing free public regional rail and urban transit across Germany.",
+      "amount": "Free regional & urban transit via semester ticket"
+    },
+    "total_estimated_value_usd_per_year": 22000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple host institutions (any recognized public university or technical university in Germany).",
+    "participating_institutions": [
+      "Technical University of Munich (TUM)",
+      "RWTH Aachen University",
+      "Heidelberg University",
+      "LMU Munich",
+      "Technical University of Berlin (TU Berlin)",
+      "Karlsruhe Institute of Technology (KIT)",
+      "University of Bonn",
+      "University of Göttingen"
+    ],
+    "university_rankings_scope": "All top-tier German universities; renowned across AI, computer science, mechanical engineering, life sciences, and social sciences.",
+    "available_majors": [
+      "MSc / PhD in Computer Science & Artificial Intelligence",
+      "MSc / PhD in Software Systems Engineering",
+      "MSc / PhD in Electrical and Computer Engineering",
+      "MSc / PhD in Biomedical Sciences & Biotechnology",
+      "MSc / PhD in Public Policy, Economics & Management",
+      "MSc / PhD in Philosophy, Ethics & Islamic Studies"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 years (extensible to 4 years)",
+    "admission_requirements_summary": "Recognized 16-year Bachelor's (CGPA >= 3.40/4.00) or 18-year Master's degree, proof of admission/enrollment at a German university (or doctoral supervision confirmation), CV, two academic references, one civic engagement reference, and interview.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Securing university admission or supervisor agreement is required first; TU Munich and RWTH Aachen have highly competitive direct admissions.",
+    "strategic_program_match_advice": "Highlight interdisciplinary relevance and societal commitment; connect technical focus with ethical implications and civic values."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://bewerbung.avicenna-studienwerk.de/",
+    "portal_system_name": "Avicenna Online Application Portal",
+    "account_creation_instructions": "Register on the Avicenna application portal during active intake window, upload personal statement, academic transcripts, German enrollment/admission certificate, and register two academic referees and one civic referee.",
+    "step_by_step_workflow": [
+      "Step 1: Secure admission to or enrollment at an accredited German university for master's or obtain doctoral supervision confirmation (Betreuungszusage).",
+      "Step 2: Prepare German-standard CV (Europass format), motivation letter reflecting academic goals and civic engagement, and academic transcripts.",
+      "Step 3: Register two academic referees and one civic/social engagement referee on the portal.",
+      "Step 4: Submit online application via Avicenna application portal between December 1 and February 1 (or June 1 to August 1 for summer intake).",
+      "Step 5: Undergo independent academic dossier evaluation by university professors and foundation experts.",
+      "Step 6: Shortlisted candidates attend in-person or virtual selection interviews in Germany (panel interview evaluating academic competence, personality, and values).",
+      "Step 7: Receive formal scholarship award decision from the independent selection committee in July/August."
+    ],
+    "university_vs_scholarship_routing": "Separate Routing: Candidates must first secure admission/supervision at an accredited German university, then apply independently to Avicenna-Studienwerk for fellowship funding.",
+    "recommendation_letters_submission_method": "Submitted online by two university professors and one civic/community leadership referee.",
+    "personal_statement_prompts": "Detailed personal statement outlining academic goals, scholarly curiosity, and demonstrated commitment to community, civic engagement, or interfaith dialogue.",
+    "study_plan_research_proposal_requirements": "PhD applicants must submit a 5 to 10-page research proposal detailing objectives, state of research, methodology, and work plan.",
+    "cv_format_requirements": "Tabular academic CV in Europass format detailing education, awards, publications, and volunteer/civic work.",
+    "interviews_conducted": true,
+    "interview_format_details": "Comprehensive selection interview weekend comprising individual interview and panel discussion assessing intellectual maturity and social commitment.",
+    "standardized_tests": "IELTS 6.5+ or TOEFL 80+ for English programs; CEFR B2/C1 for German-taught degrees.",
+    "application_fee_amount": "€0 (Completely free to apply)",
+    "attestation_requirements": "HEC and MoFA attested degrees and transcripts from Pakistan.",
+    "translation_requirements": "Certified English or German translation for all academic records.",
+    "final_submission_method": "Online submission via Avicenna application portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Letter of Motivation",
+      "mandatory": true,
+      "specification": "Detailed 2 to 3-page statement explaining academic ambitions, personal trajectory, and commitment to civic/social engagement.",
+      "pakistan_specific_instruction": "Clearly highlight leadership initiatives and community service in Pakistan or internationally."
+    },
+    {
+      "document_name": "Tabular Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Tabular CV in Europass format detailing academic history, publications, honors, and civic volunteering.",
+      "pakistan_specific_instruction": "Standard Europass CV format."
+    },
+    {
+      "document_name": "University Admission or Enrollment Certificate (Immatrikulationsbescheinigung)",
+      "mandatory": true,
+      "specification": "Proof of university admission or current enrollment at a German university (or doctoral supervisor letter).",
+      "pakistan_specific_instruction": "Obtained from host German university."
+    },
+    {
+      "document_name": "Academic Transcripts & Degrees",
+      "mandatory": true,
+      "specification": "Certified copies of Bachelor's/Master's degrees and semester-by-semester grade sheets with minimum CGPA 3.40 / 4.00.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential recommendation letters from university professors assessing academic excellence and research potential.",
+      "pakistan_specific_instruction": "On official university letterhead with institutional email addresses."
+    },
+    {
+      "document_name": "Civic / Social Engagement Recommendation Letter",
+      "mandatory": true,
+      "specification": "Reference letter from an NGO, civil society organization, or volunteer initiative confirming applicant's civic contributions.",
+      "pakistan_specific_instruction": "Signed letter from community organization or student society."
+    },
+    {
+      "document_name": "Research Proposal (PhD Candidates Only)",
+      "mandatory": false,
+      "specification": "Structured 5 to 10-page PhD research proposal including literature review, methodology, and timeline.",
+      "pakistan_specific_instruction": "Include preliminary bibliography and research methodology."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-12-01",
+    "application_deadline": "2027-02-01",
+    "university_admission_deadline": "Concurrent with or prior to Avicenna application",
+    "document_submission_deadline": "2027-02-01",
+    "recommendation_letters_deadline": "2027-02-15",
+    "interview_period": "April to May 2027",
+    "shortlist_announcement": "Late May 2027",
+    "final_result_acceptance_deadline": "Within 3 weeks of award notification",
+    "visa_application_window": "June to August 2027",
+    "semester_commencement": "2027-10-01",
+    "annual_cycle_notes": "Avicenna conducts two application rounds per year (deadlines February 1 for winter semester and August 1 for summer semester)."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Academic transcript excellence, degree honors, and intellectual capability)",
+    "extracurricular_and_leadership_weight": "25% (Demonstrated civic engagement, volunteer initiatives, and alignment with foundation values)",
+    "research_experience_weight": "20% (Quality of study plan, research orientation, or PhD project feasibility)",
+    "work_experience_weight": "5% (Professional practice and community leadership)",
+    "personal_statement_weight": "5% (Clarity of motivation essay and personal trajectory)",
+    "recommendations_weight": "5% (Quality of academic and civic references)",
+    "interview_weight": "5% (Personal maturity, articulation, critical thinking, and social awareness in interview)",
+    "test_scores_weight": "0% (Language proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Need-blind merit and civic commitment evaluation)",
+    "selection_panel_composition": "Independent selection committee comprising German university professors, Islamic scholars, and civil society representatives.",
+    "evaluation_methodology": "Two-stage evaluation: formal and academic dossier review followed by selection interview weekend."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~800 to 1,200 applicants nationwide across both cycles",
+    "total_scholarships_awarded": "~80 to 100 fellowships awarded annually",
+    "acceptance_rate_global": "~8% to 10%",
+    "acceptance_rate_pakistan": "~12% to 18% for shortlisted applicants with strong GPAs and active community engagement",
+    "typical_successful_applicant_gpa": "3.65 / 4.00 (German grade 1.6 or better)",
+    "typical_academic_and_research_profile": "Scholars in STEM, medicine, social sciences, or law with top-tier grades and documented civic responsibility.",
+    "common_backgrounds_of_winners": "Graduates from NUST, LUMS, FAST, Quaid-i-Azam University, UET, and Aga Khan University.",
+    "high_representation_countries": "Germany, Pakistan, Turkey, Syria, Egypt, Bosnia, Iran, Morocco.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply via official domain https://bewerbung.avicenna-studienwerk.de/.",
+      "Beware of third-party agencies claiming to sell foundation sponsorships or guarantee admissions."
+    ],
+    "application_fee_warning": "Avicenna-Studienwerk never charges any fee for applying or processing applications.",
+    "agent_and_intermediary_warnings": "No recruitment agents or consultancies are authorized. Direct individual application is strictly mandatory.",
+    "hidden_costs_breakdown": [
+      "Application fee: €0 (Free).",
+      "German National Visa fee: €75 (~PKR 23,000) (often waived with official BMBF scholarship confirmation).",
+      "HEC and MoFA document attestations in Pakistan: ~PKR 15,000 to 25,000.",
+      "One-way flight to Germany: ~PKR 150,000 to 220,000.",
+      "Initial living deposit before first stipend disbursement: ~€500 (~PKR 150,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: The fellowship is only for Islamic theological studies. Reality: The majority of fellows study STEM, medicine, and engineering at German universities.",
+      "Myth: Non-German speakers cannot apply. Reality: English-medium master's and doctoral scholars are fully eligible with willingness to learn German."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs state that German fluency is mandatory at application; official guidelines confirm that English-speaking international students enrolled in English programs are fully eligible."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain minimum 2.0 German grade average and satisfactory progress in research/coursework.",
+    "attendance_requirements": "Active participation in the Foundation's ideational support program, including at least two mandatory foundation academies/seminars per year.",
+    "academic_progress_monitoring": "Annual progress reports and grade transcripts submitted to foundation advisors.",
+    "work_restrictions_during_study": "Part-time academic work (up to 10 hours/week) permitted with foundation approval; commercial full-time employment prohibited.",
+    "home_country_return_obligation": "None; zero service bond or return obligation (scholars may utilize Germany's 18-month jobseeker visa or work globally).",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Revocation of fellowship in case of falsified documentation, severe academic misconduct, or abandonment of study without valid cause.",
+    "rules_for_changing_university": "Changing universities within Germany is permitted upon timely notification and approval.",
+    "rules_for_changing_major": "Subject change allowed within the first two semesters subject to Foundation committee review.",
+    "extension_policy": "Standard tenure is 24 months for Master's and 36 months for PhD; up to 12 months extension possible for doctoral completion upon application."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Avicenna-Studienwerk Official Portal",
+      "source_url": "https://www.avicenna-studienwerk.de/en/application/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Federal Ministry of Education and Research (BMBF) Begabtenförderungswerke",
+      "source_url": "https://www.bmbf.de/bmbf/en/education/higher-education/funding-talented-students/funding-talented-students.html",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

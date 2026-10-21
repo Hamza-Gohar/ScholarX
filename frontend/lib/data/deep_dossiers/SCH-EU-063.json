@@ -1,0 +1,280 @@
+{
+  "scholarship_id": "SCH-EU-063",
+  "basic_details": {
+    "scholarship_name": "University of Eastern Finland (UEF) Finland Scholarship & Master's Tuition Waivers",
+    "offering_entity": "University of Eastern Finland (UEF) & Finnish Ministry of Education and Culture",
+    "host_country": "Finland",
+    "host_institutions_covered": "University of Eastern Finland (Joensuu and Kuopio Campuses)",
+    "degree_levels": [
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "Information Technology (Intelligent Systems), Medical Physics, Speech and Language Technology, Environmental Forestry, and Public Health.",
+    "number_of_awards_total": "~40 to 60 full tuition waivers plus Finland Scholarship cash grants awarded annually",
+    "number_of_awards_pakistan": "Open globally to non-EU/EEA students; typically 6 to 12 Pakistani students secure awards across computing and natural sciences",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "24 months (2 academic years)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of non-EU/EEA countries subject to Finnish tuition fees, including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction under Finnish higher education law.",
+    "academic_qualifications": "Recognized 4-year Bachelor of Science (BS / BSc 16-year) degree from an HEC-recognized university in Computer Science, Software Engineering, Electrical Engineering, Physics, or related quantitative field with minimum CGPA 3.10 / 4.00 (74%+).",
+    "minimum_gpa_percentage": 74.0,
+    "minimum_gpa_scale": 3.1,
+    "grading_conversion_notes": "Minimum CGPA 3.10 / 4.00 or 74%; competitive applicants for the Finland Scholarship cash grant hold CGPA >= 3.50 / 4.00.",
+    "subject_background_prerequisites": "Sufficient prior university coursework in programming, discrete mathematics, data structures, and algorithms (minimum 60 ECTS in computing/relevant fields).",
+    "current_education_status": "Graduated or enrolled in final undergraduate semester graduating by July 31 preceding autumn intake.",
+    "graduation_year_restrictions": "No restriction on graduation year.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Relevant research publications, software development projects, or tech internships strengthen ranking.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic overall minimum 6.5 with at least 5.5 in writing, TOEFL iBT minimum 90 with at least 20 in writing, or PTE Academic minimum 62. Medium of Instruction (MOI) certificates are not accepted by Finnish National Agency for Education.",
+    "other_language_requirements": "No Finnish language requirement; international master's degrees are taught 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Ranked purely on academic excellence and admission competition scores within Studyinfo.fi portal.",
+    "previous_scholarship_restrictions": "Students who have already completed a master's degree on a Finnish state scholarship may receive lower priority.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for the standard 2-year duration (EUR 10,000 / year value).",
+      "amount": "EUR 20,000 (100% 2-Year Tuition Waiver)"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Application via national Studyinfo.fi joint application portal is free of charge for degree programmes.",
+      "amount": "EUR 0"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Furnished student apartments arranged via Joensuun Elli or Kuopas student housing foundations (EUR 250 - 380 / month).",
+      "amount": "Subsidized student apartments in Joensuu/Kuopio"
+    },
+    "monthly_stipend": {
+      "status": "SUBSIDIZED",
+      "details": "EUR 5,000 Finland Scholarship cash grant disbursed upon arrival in Finland for initial living expenses (~EUR 500-600/month equivalent for first year). Part-time student work allowed up to 30 hrs/week.",
+      "amount": "EUR 5,000 lump sum relocation cash grant"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International airfare between Pakistan and Helsinki/Kuopio/Joensuu is covered by the student.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Finnish residence permit application fee (~EUR 350 online) paid by applicant to Finnish Immigration Service (Migri).",
+      "amount": "EUR 350 student residence permit fee"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive primary and secondary healthcare provided by Finnish Student Health Service (FSHS / YTHS) via mandatory student union fee (~EUR 36/semester).",
+      "amount": "FSHS Healthcare included"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized student campus restaurants across Finnish universities (~EUR 2.95 to 3.50 per meal).",
+      "amount": "Subsidized Finnish campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Course textbooks and digital academic papers freely accessible via UEF Library and FinELib consortium.",
+      "amount": "100% Free digital and physical library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "NOT_COVERED",
+      "details": "Standard master's thesis research covered within laboratory facilities.",
+      "amount": "University lab resources provided"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized student public bus transportation in Joensuu and Kuopio regions.",
+      "amount": "Subsidized municipal transit"
+    },
+    "total_estimated_value_usd_per_year": 18000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university with multiple campus locations (Joensuu and Kuopio Campuses, Finland).",
+    "participating_institutions": [
+      "University of Eastern Finland - Joensuu Campus",
+      "University of Eastern Finland - Kuopio Campus"
+    ],
+    "university_rankings_scope": "Top 350 globally (Times Higher Education); top 5 in Finland for computer science, forestry, and environmental sciences.",
+    "available_majors": [
+      "MSc in Information Technology (Intelligent Systems & Data Engineering)",
+      "MSc in Medical Physics and Biomedical Engineering",
+      "MSc in Speech and Language Processing",
+      "MSc in Environmental Forestry and Bioeconomy",
+      "MSc in Public Health and Epidemiology"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (120 ECTS credits)",
+    "admission_requirements_summary": "Bachelor degree in Computing, Physics, or Engineering (minimum CGPA 3.10 / 4.00), official IELTS Academic (min 6.5) or TOEFL iBT (min 90), CV, and motivational letter via Studyinfo.fi.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Joint unified application; Intelligent Systems track is highly competitive requiring strong math and programming credits.",
+    "strategic_program_match_advice": "Ensure undergraduate transcript reflects at least 60 ECTS in computer science and quantitative coursework."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://opintopolku.fi/konfo/en/",
+    "portal_system_name": "Finnish National Joint Application Portal (Studyinfo.fi)",
+    "account_creation_instructions": "Create an account on Studyinfo.fi, fill the joint degree application form, select UEF master's degree programs, select the Finland Scholarship/Waiver consideration box, and upload attested academic documents and language score report.",
+    "step_by_step_workflow": [
+      "Step 1: Review program requirements on UEF official website and prepare electronic copies of degree documents and official English score report (IELTS/TOEFL).",
+      "Step 2: Apply online through Finnish National Joint Application Portal (Studyinfo.fi / Opintopolku.fi) between January 7 and January 21.",
+      "Step 3: Select the Finland Scholarship / UEF Tuition Waiver option directly on the joint application form (no separate scholarship application required).",
+      "Step 4: Upload certified academic transcripts, degree certificates, grading scale, CV, and motivational letter by the document deadline (late January).",
+      "Step 5: Take program-specific online aptitude test or video interview if required by the School of Computing.",
+      "Step 6: Receive admission and scholarship decision via Studyinfo portal in late March to mid-April.",
+      "Step 7: Accept the study place electronically and register at UEF before the confirmation deadline (mid-July).",
+      "Step 8: Apply for Finnish Residence Permit for Studies (Migri) via Enter Finland portal using the official UEF admission and scholarship award certificate."
+    ],
+    "university_vs_scholarship_routing": "Integrated Routing: One single unified application through Studyinfo.fi covers both degree admission and the Finland Scholarship / UEF Tuition Waiver.",
+    "recommendation_letters_submission_method": "Uploaded directly by the applicant or sent via electronic referee link if requested by the specific department.",
+    "personal_statement_prompts": "Program-specific motivation statement explaining academic background, quantitative skills, and career plans in Finland/internationally.",
+    "study_plan_research_proposal_requirements": "Preliminary study interest statement outlining selected elective modules and intended thesis area.",
+    "cv_format_requirements": "Concise 1 to 2-page CV outlining academic qualifications, technical skills, projects, and certifications.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online video interview or timed written questionnaire for certain computing master's programmes.",
+    "standardized_tests": "IELTS Academic 6.5+ (min 5.5 writing) or TOEFL iBT 90+ (min 20 writing).",
+    "application_fee_amount": "€0 (Free application via Studyinfo.fi)",
+    "attestation_requirements": "HEC degree attestation required for Pakistani applicants.",
+    "translation_requirements": "Certified English translation for all official records.",
+    "final_submission_method": "Electronic submission via Studyinfo.fi portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor Degree Certificate",
+      "mandatory": true,
+      "specification": "Official undergraduate degree certificate awarded by HEC-recognized Pakistani university with English translation.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcript",
+      "mandatory": true,
+      "specification": "Complete transcript of records indicating course titles, credit hours, and individual grades.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "English Language Test Certificate",
+      "mandatory": true,
+      "specification": "Official IELTS Academic (minimum 6.5) or TOEFL iBT (minimum 90) scorecard sent directly to UEF institutional code.",
+      "pakistan_specific_instruction": "Verified electronic test score."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Updated CV detailing technical skills, academic projects, and software tools.",
+      "pakistan_specific_instruction": "Clear tabular layout."
+    },
+    {
+      "document_name": "Letter of Motivation",
+      "mandatory": true,
+      "specification": "Statement outlining interest in UEF master's track and future career alignment.",
+      "pakistan_specific_instruction": "Program-specific motivation essay."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Valid Pakistani passport copy valid for at least 2 years.",
+      "pakistan_specific_instruction": "High-resolution color scan."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2027-01-07",
+    "application_deadline": "2027-01-21",
+    "university_admission_deadline": "2027-01-21",
+    "document_submission_deadline": "2027-01-28",
+    "recommendation_letters_deadline": "2027-01-28",
+    "interview_period": "February to March 2027",
+    "shortlist_announcement": "Late March 2027",
+    "final_result_acceptance_deadline": "2027-07-10",
+    "visa_application_window": "April to July 2027",
+    "semester_commencement": "2027-09-01",
+    "annual_cycle_notes": "Finnish national joint application strictly follows January admission window; late submissions are not accepted under any circumstances."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "55% (Prior undergraduate GPA and mathematical/computing course grades)",
+    "extracurricular_and_leadership_weight": "5% (Extracurricular achievements and community projects)",
+    "research_experience_weight": "20% (Relevance of previous curriculum and quality of academic background)",
+    "work_experience_weight": "5% (Industry internships or software engineering work)",
+    "personal_statement_weight": "10% (Program motivation and alignment with UEF research priorities)",
+    "recommendations_weight": "0% (Not scored separately)",
+    "interview_weight": "5% (Program entrance assessment or motivation video)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Purely merit-based evaluation)",
+    "selection_panel_composition": "UEF Departmental Admissions Board comprising university professors and program directors.",
+    "evaluation_methodology": "Point-based scoring system evaluating academic suitability, GPA, and motivation."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,200 international applicants across UEF English master's programmes",
+    "total_scholarships_awarded": "~40 to 60 full tuition waivers plus Finland Scholarships annually",
+    "acceptance_rate_global": "~18%",
+    "acceptance_rate_pakistan": "~22% to 26% for qualified computing candidates with CGPA >= 3.20",
+    "typical_successful_applicant_gpa": "3.45 / 4.00 (80% percentile)",
+    "typical_academic_and_research_profile": "Graduates in computer science, software engineering, or physics with solid foundational math and coding skills.",
+    "common_backgrounds_of_winners": "Graduates from NUST, FAST-NUCES, COMSATS, UET Lahore, and Ghulam Ishaq Khan Institute (GIKI).",
+    "high_representation_countries": "Pakistan, India, Bangladesh, Nigeria, Vietnam, China, Nepal.",
+    "competitiveness_tier": "MODERATE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply via the official government portal Studyinfo.fi (opintopolku.fi) or uef.fi.",
+      "Never pay any fee for scholarship application submission."
+    ],
+    "application_fee_warning": "Application through Studyinfo.fi is 100% free; beware of agents charging submission fees.",
+    "agent_and_intermediary_warnings": "UEF does not use third-party admission agents. Applications made via agents have no special preference and risk disqualification if forged.",
+    "hidden_costs_breakdown": [
+      "Application fee: €0 (Free).",
+      "Mandatory Student Union membership fee: ~EUR 72 per year.",
+      "Living costs for year 2 in Finland: EUR 600 - 800 per month (offset by part-time employment).",
+      "Finnish Residence Permit application fee: ~EUR 350.",
+      "Flight from Pakistan to Finland: ~PKR 160,000 to 230,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You cannot work in Finland during studies. Reality: International students in Finland are legally permitted to work up to 30 hours per week during term time and full-time during holidays.",
+      "Myth: Tuition waivers are for 1 year only. Reality: The waiver automatically extends to year 2 upon completing 55 ECTS credits."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial educational agents advertise that MOI English certificates are accepted; UEF and Finnish National Board of Education strictly require IELTS/TOEFL/PTE."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must complete a minimum of 55 ECTS credits in the first academic year with good grades to maintain 100% tuition waiver in year 2.",
+    "attendance_requirements": "Active participation in scheduled lectures, seminars, and laboratory practical sessions.",
+    "academic_progress_monitoring": "Annual progress review by the Student and Learning Services office.",
+    "work_restrictions_during_study": "Up to 30 hours per week permitted during teaching periods; unlimited hours during summer vacation.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Revocation of scholarship if student fails to meet annual credit progression without verified medical/compassionate grounds.",
+    "rules_for_changing_university": "Tuition waiver is non-transferable to other Finnish universities.",
+    "rules_for_changing_major": "Changing degree program requires applying as a new applicant in the next joint application cycle.",
+    "extension_policy": "Tuition waiver is granted strictly for the standard 2-year duration (120 ECTS)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Eastern Finland Official Scholarships Page",
+      "source_url": "https://www.uef.fi/en/scholarships-and-tuition-fees",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Studyinfo.fi Finnish National Application Service",
+      "source_url": "https://opintopolku.fi/konfo/en/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

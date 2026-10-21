@@ -1,0 +1,285 @@
+{
+  "scholarship_id": "SCH-AM-048",
+  "basic_details": {
+    "scholarship_name": "University of Alberta Graduate Entrance Scholarship & Centenary Award",
+    "offering_entity": "Faculty of Graduate & Postdoctoral Studies (GPS), University of Alberta",
+    "host_country": "Canada",
+    "host_institutions_covered": "University of Alberta (Edmonton, Alberta, Canada)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "All thesis-based master's and doctoral programs across Faculty of Science (Computing Science, AI via Amii), Faculty of Engineering (Biomedical, Chemical, Mechanical, Civil), Agricultural, Life & Environmental Sciences, and Medicine & Dentistry.",
+    "number_of_awards_total": "~150 to 200 graduate entrance scholarships awarded annually",
+    "number_of_awards_pakistan": "Open globally on merit; Pakistani graduate researchers frequently secure awards in Computing Science and Chemical Engineering (~15 to 25 awards annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years for thesis Master's; up to 4 years for PhD",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "CAD 17,500 / year (Master's) to CAD 21,000 / year (Doctoral) stipend plus CAD 10,000 international tuition differential top-up (~CAD 2,290 / month total funding; ~PKR 470,000 / month)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International students of all citizenships including Pakistan and Canadian domestic scholars"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction; evaluation based on undergraduate and graduate academic GPA and research achievement.",
+    "academic_qualifications": "Recognized 16-year Bachelor's degree with minimum admission GPA of 3.70 / 4.00 (or first-class standing / 80%+) for Master's; 18-year Master's degree with minimum GPA 3.70 / 4.00 for PhD from an HEC-recognized university.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Minimum admission GPA of 3.7 / 4.0 in final two years of study; competitive applicants typically hold 3.8+ / 4.0.",
+    "subject_background_prerequisites": "Undergraduate degree in relevant discipline (computer science, engineering, biological sciences, physical sciences) with thesis component.",
+    "current_education_status": "Graduated or final-year undergraduate/master's students completing degree prior to Canadian fall intake.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Research publications, software repository contributions, or laboratory research assistantships carry significant weight.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": true,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 (no band below 6.0), TOEFL iBT minimum 90 (subscores 21+), or Duolingo English Test 120+ mandatory.",
+    "other_language_requirements": "GRE General recommended but not mandatory for Computing Science and Engineering.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must be admitted to an eligible full-time thesis-based graduate program and nominated by their academic department.",
+    "previous_scholarship_restrictions": "Cannot be combined with another major tri-agency award (CIHR, NSERC, SSHRC) or Vanier CGS without reduction.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full international tuition differential fee covered via CAD 10,000 top-up grant plus departmental tuition remission.",
+      "amount": "100% covered (~CAD 9,500 to 11,000 / year value; ~PKR 1,950,000 to 2,250,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Non-refundable graduate application fee of CAD 135 paid online upon application submission.",
+      "amount": "CAD 135 (~PKR 27,500) application fee"
+    },
+    "accommodation": {
+      "status": "NOT_COVERED",
+      "details": "Graduate student residence or off-campus housing in Edmonton arranged independently; easily covered by the combined stipend.",
+      "amount": "Funded from stipend (~CAD 800 to 1,200 / month rent in Edmonton)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Annual stipend of CAD 17,500 (Master's) or CAD 21,000 (Doctoral) supplemented by departmental GRA/GTA appointments for a total guaranteed funding of CAD 26,000 to 32,000 / year.",
+      "amount": "CAD 2,160 to 2,660 / month total guaranteed funding (~PKR 440,000 to 545,000 / mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Relocation flights to Edmonton are self-funded or subsidized by supervisor project travel funds.",
+      "amount": "Not covered in central award"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Canadian Study Permit (~CAD 150) and biometrics fee (~CAD 85) paid directly to Immigration, Refugees and Citizenship Canada (IRCC).",
+      "amount": "Approx. CAD 235 borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "University of Alberta Student Union Health and Dental Plan plus Alberta Health Care Insurance Plan (AHCIP) coverage provided to international students holding 12+ month study permits at zero premium cost.",
+      "amount": "100% covered provincial healthcare (AHCIP)"
+    },
+    "food_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Daily groceries and campus dining funded from monthly stipend.",
+      "amount": "Covered via stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Departmental research workstations, high-performance computing clusters (Compute Canada / Amii resources), and library repositories provided.",
+      "amount": "100% covered computing and library infrastructure"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "GPS Graduate Student Travel Awards provide up to CAD 1,500 per year for presenting research papers at national and international conferences.",
+      "amount": "Up to CAD 1,500 / year travel award"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Edmonton Transit Service (ETS) Universal Transit Pass (U-Pass) included in student fees providing unlimited bus and LRT transit throughout Edmonton.",
+      "amount": "100% unlimited citywide U-Pass transit"
+    },
+    "total_estimated_value_usd_per_year": 27500
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single Canadian U15 research powerhouse (University of Alberta).",
+    "participating_institutions": [
+      "University of Alberta (North Campus, Edmonton, Alberta, Canada)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #96, CSRankings #1 in Canada and Top 5 globally for Artificial Intelligence and Machine Learning (home to Amii - Alberta Machine Intelligence Institute).",
+    "available_majors": [
+      "MSc / PhD in Computing Science (AI, Machine Learning, Reinforcement Learning)",
+      "MSc / PhD in Electrical and Computer Engineering",
+      "MSc / PhD in Biomedical Engineering",
+      "MSc / PhD in Chemical and Materials Engineering",
+      "MSc / PhD in Mechanical Engineering",
+      "MSc / PhD in Biological Sciences (Genetics, Microbiology)",
+      "MSc / PhD in Physics and Geophysics",
+      "MSc / PhD in Pharmacology and Oncology"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 4 years",
+    "admission_requirements_summary": "Bachelor's or Master's degree with minimum GPA 3.70 / 4.0, verified transcripts, IELTS 6.5+ or TOEFL 90+, three academic letters of recommendation, CV, statement of purpose, and prospective supervisor support.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Department of Computing Science (Amii AI lab) is globally ultra-competitive with acceptance rates below 5%; securing supervisor confirmation prior to applying is strongly encouraged.",
+    "strategic_program_match_advice": "Highlight prior machine learning projects or engineering thesis work; reference specific UofA research laboratories (Amii, NanoFAB, NRC Nanotechnology) in your research statement."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.ualberta.ca/en/graduate-studies/prospective-students/apply-for-admission.html",
+    "portal_system_name": "University of Alberta Graduate Online Application System (GSMS)",
+    "account_creation_instructions": "Create an applicant profile on GSMS portal, select thesis-based graduate program, identify potential supervisors, upload academic transcripts, English scores, CV, statement of intent, and pay CAD 135 application fee.",
+    "step_by_step_workflow": [
+      "Step 1: Identify eligible thesis supervisor in target academic department and make email contact with CV and research abstract.",
+      "Step 2: Ensure valid IELTS (6.5+), TOEFL (90+), or Duolingo (120+) score report is ready.",
+      "Step 3: Submit online admission application via GSMS portal and pay CAD 135 fee.",
+      "Step 4: Upload official transcripts, CV, statement of intent, and referee contact details.",
+      "Step 5: Referees submit electronic assessment letters directly into the GSMS portal.",
+      "Step 6: Departmental graduate admissions committee reviews application, offers admission, and automatically nominates top candidates to Faculty of GPS for Graduate Entrance Scholarship.",
+      "Step 7: GPS awards entrance scholarship; department supplements with GRA/GTA funding package.",
+      "Step 8: Accept offer, receive provincial attestation letter (PAL), and apply for Canadian Study Permit."
+    ],
+    "university_vs_scholarship_routing": "Integrated Departmental Nomination: Applicants are automatically considered and nominated by their admitting department without separate scholarship application.",
+    "recommendation_letters_submission_method": "Submitted electronically via automated referee appraisal links generated by GSMS.",
+    "personal_statement_prompts": "Statement of intent (1 to 2 pages) describing research experience, academic goals, alignment with faculty research, and long-term career objectives.",
+    "study_plan_research_proposal_requirements": "Brief 1 to 2-page research summary outlining target research area, methodologies, and proposed contribution.",
+    "cv_format_requirements": "Standard academic CV highlighting degree coursework, GPA, publications, software libraries, and research projects.",
+    "interviews_conducted": true,
+    "interview_format_details": "Supervisory video interview via Zoom/Google Meet to evaluate technical competency and research synergy.",
+    "standardized_tests": "IELTS Academic 6.5+ or TOEFL iBT 90+ mandatory; GRE optional.",
+    "application_fee_amount": "CAD 135 (approx. USD 100 / ~PKR 27,500)",
+    "attestation_requirements": "Official HEC Pakistan verified transcripts required upon conditional admission offer.",
+    "translation_requirements": "Official certified English translation of non-English academic documents.",
+    "final_submission_method": "100% online submission via University of Alberta GSMS portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Bachelor's / Master's degree with minimum GPA 3.7 / 4.0 in final two years of full-time study.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "English Language Proficiency Test Score Report",
+      "mandatory": true,
+      "specification": "IELTS Academic (minimum 6.5, no band < 6.0) or TOEFL iBT (minimum 90) or Duolingo (120+).",
+      "pakistan_specific_instruction": "Official electronic score report submitted to University of Alberta."
+    },
+    {
+      "document_name": "Three Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential referee appraisals from university professors familiar with research capacity.",
+      "pakistan_specific_instruction": "Submitted via automated institutional email links."
+    },
+    {
+      "document_name": "Statement of Purpose / Research Intent",
+      "mandatory": true,
+      "specification": "1 to 2-page statement outlining research background, objectives, and faculty alignment.",
+      "pakistan_specific_instruction": "Tailored to University of Alberta research groups."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Detailed academic CV detailing research, awards, and technical expertise.",
+      "pakistan_specific_instruction": "Highlighting research experience."
+    },
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport personal bio-data page valid for minimum 1 year.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "September 1",
+    "application_deadline": "December 15 (Early / International round) / January 15 (Final department round)",
+    "university_admission_deadline": "January 15",
+    "document_submission_deadline": "January 15",
+    "recommendation_letters_deadline": "January 22",
+    "interview_period": "January - February",
+    "shortlist_announcement": "Late February - March",
+    "final_result_acceptance_deadline": "April 15",
+    "visa_application_window": "April - June",
+    "semester_commencement": "Early September (Fall intake)",
+    "annual_cycle_notes": "Main intake starts in September (Fall). Thesis-based programs strongly prioritize applications submitted by December 15."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Undergraduate / graduate GPA, academic transcript rigor)",
+    "extracurricular_and_leadership_weight": "5% (Community engagement and academic leadership)",
+    "research_experience_weight": "35% (Prior research thesis, publications, and laboratory projects)",
+    "work_experience_weight": "5% (Industry software or engineering experience)",
+    "personal_statement_weight": "5% (Clarity and focus of statement of intent)",
+    "recommendations_weight": "5% (Referee appraisals of research potential)",
+    "interview_weight": "5% (Supervisor technical discussion and mutual fit)",
+    "test_scores_weight": "0% (English proficiency is a mandatory threshold)",
+    "financial_need_weight": "0% (Pure academic excellence and research merit)",
+    "selection_panel_composition": "Departmental Graduate Admissions Committee and Faculty of Graduate & Postdoctoral Studies (GPS) Awards Committee.",
+    "evaluation_methodology": "Competitive multi-tiered ranking based on admission GPA, research track record, and supervisor sponsorship."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~5,000 to 7,500 thesis graduate applicants",
+    "total_scholarships_awarded": "~150 to 200 graduate entrance scholarships across university",
+    "acceptance_rate_global": "~3.5% to 5.0%",
+    "acceptance_rate_pakistan": "~4.0% to 6.5% for applicants with GPA >= 3.7 and published research",
+    "typical_successful_applicant_gpa": "Undergraduate CGPA >= 3.80 / 4.00, often with conference or journal publications",
+    "typical_academic_and_research_profile": "Top-tier graduates from recognized universities with strong coding or laboratory skills, clear research focus, and supervisor backing.",
+    "common_backgrounds_of_winners": "Graduates from premier Pakistani universities (NUST, FAST-NUCES, LUMS, GIKI, UET Lahore, Quaid-i-Azam, COMSATS).",
+    "high_representation_countries": "Canada, Pakistan, India, China, Iran, Nigeria, Bangladesh, Turkey, USA.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Apply strictly through the official ualberta.ca website.",
+      "Beware of immigration agencies claiming to guarantee Canadian university admissions or scholarships."
+    ],
+    "application_fee_warning": "Application fee of CAD 135 is paid exclusively via the official online application portal.",
+    "agent_and_intermediary_warnings": "University of Alberta does not employ educational agents for thesis-based graduate admissions.",
+    "hidden_costs_breakdown": [
+      "Application fee: CAD 135 (~PKR 27,500).",
+      "Canadian Study Permit & biometrics fee: CAD 235 (~PKR 48,000).",
+      "IELTS or TOEFL test fees: ~PKR 55,000 to 65,000.",
+      "Initial relocation airfare to Edmonton: ~PKR 250,000 to 350,000.",
+      "Winter clothing and initial setup in Edmonton (-30°C winter climate): ~CAD 1,000 (~PKR 205,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You can get funded without a supervisor. Reality: In thesis-based programs (especially Computing Science), having a committed faculty supervisor is practically essential for funding.",
+      "Myth: Edmonton is too expensive for students. Reality: Edmonton has significantly lower rental and living costs compared to Toronto or Vancouver, making stipends go much further."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim funding is automatic for all admitted students; guaranteed funding packages apply strictly to thesis-based programs, not course-based Master's."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative graduate GPA of 3.0 / 4.0 throughout each academic year.",
+    "attendance_requirements": "Full-time on-campus residency in Edmonton and active engagement in thesis research and coursework.",
+    "academic_progress_monitoring": "Annual progress report submitted jointly with supervisor to the Department Graduate Coordinator and GPS.",
+    "work_restrictions_during_study": "Teaching Assistant (TA) or Research Assistant (RA) appointments are limited to a maximum of 12 hours per week during academic terms to ensure focus on thesis research.",
+    "home_country_return_obligation": "None; graduates are eligible for a 3-year Canadian Post-Graduation Work Permit (PGWP).",
+    "service_obligations_or_bonds": "Obligation to fulfill assigned GRA/GTA duties up to 12 hours/week.",
+    "repayment_clawback_conditions": "Scholarship funding ceases if student switches to part-time study, withdraws, or fails to maintain academic good standing.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Requires approval from current supervisor, new department, and Faculty of GPS.",
+    "extension_policy": "Stipend support beyond the standard guaranteed period (2 years MSc, 4 years PhD) is at the discretion of the supervisor's research grants."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Alberta Graduate Entrance Scholarship Official Page",
+      "source_url": "https://www.ualberta.ca/en/graduate-studies/awards-and-funding/scholarships/university-of-alberta-graduate-entrance-scholarship.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Faculty of Graduate & Postdoctoral Studies (GPS) Financial Support",
+      "source_url": "https://www.ualberta.ca/en/graduate-studies/awards-and-funding/index.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

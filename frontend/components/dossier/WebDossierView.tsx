@@ -141,15 +141,20 @@ export function getScholarshipBriefInfo(
   let languageDescription = "Pakistani English Medium of Instruction (MOI) Certificate accepted. All coursework taught in English.";
 
   // Normalize candidate field dynamically
-  let targetField = (targetFieldInput || "All Academic Disciplines").trim();
+  let targetField = (targetFieldInput || "Computer Science").trim();
   if (targetField.includes(",")) {
-    targetField = targetField.split(",")[0].trim() || "All Academic Disciplines";
+    targetField = targetField.split(",")[0].trim() || "Computer Science";
   }
+  const lowerField = targetField.toLowerCase();
   if (
-    targetField.toLowerCase().includes("all fields") ||
-    targetField.toLowerCase().includes("all academic")
+    lowerField === "specialized studies" ||
+    lowerField === "specialized discipline" ||
+    lowerField.includes("all fields") ||
+    lowerField.includes("all academic")
   ) {
-    targetField = "Interdisciplinary Studies";
+    targetField = "Computer Science";
+  } else if (lowerField === "computer science" || lowerField === "cs") {
+    targetField = "Computer Science";
   } else if (targetField.length > 45) {
     targetField = targetField.slice(0, 42) + "...";
   }
@@ -657,26 +662,49 @@ export const WebDossierView: React.FC<WebDossierViewProps> = ({
     : (rawTargetDegree || "Master's Degree");
 
   const initialField = React.useMemo(() => {
-    const raw =
-      profile?.preferences?.target_fields?.[0] ||
+    let raw =
       profile?.academic?.field_of_study ||
+      profile?.preferences?.target_fields?.[0] ||
       profile?.preferences?.studyField ||
       profile?.field ||
       dossier?.field ||
       opp?.fieldOfStudy ||
-      (opp as any)?.field_of_study ||
-      "All Academic Disciplines";
-    if (typeof raw === "string") {
-      const trimmed = raw.trim();
-      if (trimmed.includes(",")) {
-        return trimmed.split(",")[0].trim() || "All Academic Disciplines";
-      }
-      if (trimmed.toLowerCase().includes("all fields") || trimmed.toLowerCase().includes("all academic")) {
-        return "Interdisciplinary Studies";
-      }
-      return trimmed;
+      (opp as any)?.field_of_study;
+
+    // Safety fallback to last saved profile in browser storage
+    if (!raw && typeof window !== "undefined") {
+      try {
+        const stored = localStorage.getItem("scholarx_last_profile");
+        if (stored) {
+          const parsed = JSON.parse(stored);
+          raw =
+            parsed?.academic?.field_of_study ||
+            parsed?.preferences?.target_fields?.[0] ||
+            parsed?.field;
+        }
+      } catch {}
     }
-    return "All Academic Disciplines";
+
+    if (typeof raw === "string") {
+      let trimmed = raw.trim();
+      if (trimmed.includes(",")) {
+        trimmed = trimmed.split(",")[0].trim();
+      }
+      const lower = trimmed.toLowerCase();
+      if (
+        lower === "specialized studies" ||
+        lower === "specialized discipline" ||
+        lower.includes("all fields") ||
+        lower.includes("all academic")
+      ) {
+        return "Computer Science";
+      }
+      if (lower === "computer science" || lower === "cs") {
+        return "Computer Science";
+      }
+      return trimmed || "Computer Science";
+    }
+    return "Computer Science";
   }, [profile, dossier?.field, opp]);
 
   const [activeField, setActiveField] = React.useState<string>(initialField);
@@ -1140,8 +1168,8 @@ export const WebDossierView: React.FC<WebDossierViewProps> = ({
             </span>
           </div>
 
-          <div className="bg-white rounded-xl border border-[#E7E5E4] overflow-hidden shadow-sm">
-            <div className="overflow-x-auto touch-scroll dossier-scroll w-full print:overflow-visible">
+          <div className="bg-white rounded-xl border border-[#E7E5E4] overflow-clip shadow-sm">
+            <div className="overflow-x-auto w-full touch-pan-y dossier-table-scroll print:overflow-visible">
               <table className="w-full text-left text-xs font-sans min-w-[720px] print:min-w-0 print:table-fixed print:text-[10px]">
                 <thead>
                   <tr className="bg-[#FAFAF9] border-b border-[#E7E5E4] text-[#78716C] font-mono text-[11px] print:text-[9.5px]">
@@ -1252,7 +1280,7 @@ export const WebDossierView: React.FC<WebDossierViewProps> = ({
               </div>
             </div>
 
-            <div className="overflow-x-auto touch-scroll dossier-scroll w-full print:overflow-visible">
+            <div className="overflow-x-auto w-full touch-pan-y dossier-table-scroll print:overflow-visible">
               <table className="w-full text-left text-xs font-sans min-w-[660px] print:min-w-0 print:table-fixed print:text-[10px]">
                 <thead>
                   <tr className="border-b border-[#E7E5E4] text-[#78716C] font-mono text-[11px] print:text-[9.5px]">
@@ -1612,7 +1640,7 @@ export const WebDossierView: React.FC<WebDossierViewProps> = ({
                 </span>
               </div>
 
-              <div className="overflow-x-auto touch-scroll dossier-scroll w-full print:overflow-visible">
+              <div className="overflow-x-auto w-full touch-pan-y dossier-table-scroll print:overflow-visible">
                 <table className="w-full text-left text-xs font-sans min-w-[700px] print:min-w-0 print:table-fixed">
                   <thead>
                     <tr className="border-b border-[#E7E5E4] text-[#44403C] font-mono text-xs print:text-[11px]">

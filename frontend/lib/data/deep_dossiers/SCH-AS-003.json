@@ -1,0 +1,282 @@
+{
+  "scholarship_id": "SCH-AS-003",
+  "basic_details": {
+    "scholarship_name": "Global Korea Scholarship (GKS / KGSP)",
+    "offering_entity": "National Institute for International Education (NIIED), Ministry of Education, Republic of Korea",
+    "host_country": "South Korea",
+    "host_institutions_covered": "Accredited Universities in South Korea across Type A (Seoul Metropolitan) and Type B (Regional) (Seoul National University, KAIST, Yonsei, Korea University, POSTECH, Sungkyunkwan, Pusan National, Kyungpook)",
+    "degree_levels": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "major_restrictions": "Eligible for almost all academic majors offered by participating Korean universities, with an emphasis on STEM, Engineering, Natural Sciences, Humanities, Social Sciences, and Business.",
+    "number_of_awards_total": "~2,200 graduate scholars and ~500 undergraduate scholars admitted globally each year",
+    "number_of_awards_pakistan": "~30 to 45 awards for Pakistan annually (split across Embassy Track and University Track)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Undergraduate: 5 years (1 yr Korean + 4 yrs BS); Master's: 3 years (1 yr Korean + 2 yrs MS); PhD: 4 years (1 yr Korean + 3 yrs PhD)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of Pakistan (applicants and their parents must hold non-Korean citizenship)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 24,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "Undergraduate: Under 25 years on March 1 of entry year. Graduate: Under 40 years on September 1 of entry year (up to 45 for university faculty members).",
+    "academic_qualifications": "High school diploma for Undergraduate; Bachelor's degree (16 years education) for Master's; Master's degree (18 years education) for PhD.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.2,
+    "grading_conversion_notes": "STRICT MANDATORY CUTOFF: Cumulative GPA must be above 80% marks OR CGPA 3.20/4.00, or ranked within the top 20% of class.",
+    "subject_background_prerequisites": "Relevant undergraduate degree matching proposed graduate program.",
+    "current_education_status": "Must have completed required degree by application deadline (result-awaiting applicants must provide official graduation certificate by July 31).",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not required.",
+    "english_test_required": false,
+    "ielts_minimum": null,
+    "toefl_minimum": null,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "English test scores (IELTS/TOEFL) are not strictly mandatory for NIIED, but provide substantial bonus points. Korean proficiency (TOPIK Level 3+) provides significant bonus points.",
+    "other_language_requirements": "Mandatory 1-year Korean Language Program at a designated language institute in Korea; must achieve TOPIK Level 3 before degree program starts.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants can apply through EITHER the Embassy Track (apply to Korean Embassy in Islamabad) OR the University Track (apply directly to one Korean university). Applying to both tracks in the same year results in automatic disqualification.",
+    "previous_scholarship_restrictions": "Former GKS scholars who attained TOPIK Level 5+ can reapply once at a higher degree level.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition fee and admission fee paid directly by NIIED and the host Korean university."
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Exempt or paid directly by NIIED."
+    },
+    "accommodation": {
+      "status": "MONTHLY ALLOWANCE",
+      "details": "Covered via monthly living stipend; university dormitory rooms provided at subsidized rates."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly allowance paid directly to scholar.",
+      "amount": "KRW 900,000/mo (Undergrad), KRW 1,000,000/mo (Master's/PhD) (~PKR 210,000 to 230,000/mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Actual economy class round-trip flight ticket between Pakistan and Incheon International Airport provided by NIIED."
+    },
+    "visa_fee": {
+      "status": "WAIVED",
+      "details": "Korean D-2 / D-4 Student Visa issued with fee waiver at the Embassy of the Republic of Korea in Islamabad."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full National Health Insurance (NHIS) premiums in South Korea covered throughout the grant period."
+    },
+    "food_allowance": {
+      "status": "INCLUDED IN STIPEND",
+      "details": "Subsidized campus cafeterias."
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Research allowance granted per semester: KRW 210,000 (Humanities/Social Sciences) to KRW 240,000 (STEM).",
+      "amount": "KRW 210,000 to 240,000 / semester"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Thesis printing fee grant (KRW 500,000 to 800,000) reimbursed upon thesis completion.",
+      "amount": "KRW 500,000 to 800,000 one-off"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Settlement allowance of KRW 200,000 upon arrival, and Korean Proficiency Grant of KRW 100,000/month for scholars holding TOPIK Level 5 or 6.",
+      "amount": "KRW 200,000 one-off arrival + KRW 100,000/mo TOPIK bonus"
+    },
+    "total_estimated_value_usd_per_year": 26000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Embassy Track: Choose up to THREE universities (at least one must be a Regional Type B university). University Track: Choose ONE university directly.",
+    "participating_institutions": [
+      "Seoul National University, KAIST, Yonsei University, Korea University, POSTECH, Sungkyunkwan University, Hanyang University, Pusan National University, Kyungpook National University, UNIST, GIST"
+    ],
+    "university_rankings_scope": "SKY universities and top Korean STEM powerhouses (QS World Top 50 to 300).",
+    "available_majors": [
+      "Semiconductor Engineering",
+      "Artificial Intelligence",
+      "Bioengineering",
+      "Robotics",
+      "Renewable Energy",
+      "Korean Studies",
+      "International Relations",
+      "Computer Science",
+      "Economics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Undergraduate: 5 years; Master's: 3 years; PhD: 4 years",
+    "admission_requirements_summary": "Undergraduate/Master's transcripts with GPA > 80%, personal statement, statement of purpose, 1 recommendation letter, medical examination.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "In the Embassy Track, choosing 3 Type A universities in Seoul leads to rejection; NIIED strictly requires at least ONE Type B (regional) university among your 3 choices.",
+    "strategic_program_match_advice": "University Track candidates applying to regional institutions (e.g. Pusan, Kyungpook, Chonnam) or STEM specialized institutes (UNIST, GIST, DGIST) often face significantly higher acceptance rates than Seoul-based tracks."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.studyinkorea.go.kr/",
+    "portal_system_name": "Study in Korea Official Portal & Embassy of the Republic of Korea in Pakistan",
+    "account_creation_instructions": "Review NIIED guidelines on Study in Korea portal; submit documents to Korean Embassy in Islamabad (Embassy Track) OR directly to the Korean university (University Track).",
+    "step_by_step_workflow": [
+      "1. Choose between Embassy Track or University Track (never both).",
+      "2. Download official GKS Application Form, Personal Statement, and Statement of Purpose forms.",
+      "3. Secure 1 recommendation letter in a sealed and signed envelope.",
+      "4. Obtain Apostille / Consular attestation from the Korean Embassy in Islamabad on all degrees and transcripts.",
+      "5. Submit complete dossier to Korean Embassy Islamabad (mid-March) or to Korean University (March/April).",
+      "6. 1st Round Selection: Embassy/University interviews and reviews dossiers (April).",
+      "7. 2nd Round Selection: NIIED Central Selection Committee reviews shortlisted candidates in Seoul (May).",
+      "8. 3rd Round Selection (Embassy Track only): The 3 chosen universities review candidate dossiers (May/June).",
+      "9. Final successful scholars announced by NIIED on Study in Korea portal in late June.",
+      "10. Apply for Korean D-2 / D-4 visa at Korean Embassy in Islamabad (July/August).",
+      "11. Depart for Korea in late August."
+    ],
+    "university_vs_scholarship_routing": "Embassy Track (Embassy -> NIIED -> University) OR University Track (University -> NIIED).",
+    "recommendation_letters_submission_method": "One official recommendation letter submitted in a sealed envelope with referee's signature across the flap.",
+    "personal_statement_prompts": "Personal Statement (Form 2): Family background, formative experiences, motivations, achievements. Statement of Purpose (Form 3): Goal of study, detailed study plan in Korea, and post-graduation plan.",
+    "study_plan_research_proposal_requirements": "Detailed study plan required; research proposal required for PhD applicants.",
+    "cv_format_requirements": "Embedded in standard GKS Form 1.",
+    "interviews_conducted": true,
+    "interview_format_details": "15-20 minute interview in English/Korean conducted by Korean diplomats and cultural attachés at the Embassy of the Republic of Korea in Islamabad (or online for University Track).",
+    "standardized_tests": "No standardized tests required by NIIED; IELTS/TOEFL and TOPIK scores provide valuable bonus points.",
+    "application_fee_amount": "KRW 0 / PKR 0 (100% FREE application process).",
+    "attestation_requirements": "MANDATORY: Educational documents (degree and transcripts) must be consular authenticated / legalized by the Embassy of the Republic of Korea in Islamabad.",
+    "translation_requirements": "Documents not in English or Korean must be submitted with certified, notarized translations.",
+    "final_submission_method": "Hardcopy original packet + 3 photocopy sets delivered by post/courier."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "GKS Application Form (Form 1)",
+      "mandatory": true,
+      "specification": "Official prescribed form with photograph",
+      "pakistan_specific_instruction": "Typed and signed by applicant"
+    },
+    {
+      "document_name": "Personal Statement (Form 2)",
+      "mandatory": true,
+      "specification": "Narrative essay on background and motivations",
+      "pakistan_specific_instruction": "Max 2 pages; clearly express affinity for Korean culture and research"
+    },
+    {
+      "document_name": "Statement of Purpose (Form 3)",
+      "mandatory": true,
+      "specification": "Detailed study and career plan",
+      "pakistan_specific_instruction": "Must include language study plan and specific degree roadmap"
+    },
+    {
+      "document_name": "One Letter of Recommendation (Form 5)",
+      "mandatory": true,
+      "specification": "Submitted in a sealed envelope signed across the flap by the recommender",
+      "pakistan_specific_instruction": "From academic advisor or department head"
+    },
+    {
+      "document_name": "Consular Authenticated Degree Certificate & Transcript",
+      "mandatory": true,
+      "specification": "Must be attested by HEC, MOFA, and Consular Legalized by Korean Embassy Islamabad",
+      "pakistan_specific_instruction": "Strict NIIED requirement; regular photocopies without authentication are rejected"
+    },
+    {
+      "document_name": "Proof of Citizenship & Family Relations",
+      "mandatory": true,
+      "specification": "Applicant's and parents' passports, NADRA Family Registration Certificate (FRC)",
+      "pakistan_specific_instruction": "FRC issued by NADRA proves non-Korean parentage"
+    },
+    {
+      "document_name": "Valid English / Korean Test Score Reports",
+      "mandatory": false,
+      "specification": "Official IELTS, TOEFL, or TOPIK score certificates",
+      "pakistan_specific_instruction": "Strongly recommended for bonus points in competitive screening"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Mid-February for Graduate; September for Undergraduate annually",
+    "application_deadline": "Early to mid-March for Graduate; October for Undergraduate annually",
+    "university_admission_deadline": "Handled internally during 3rd round (May/June)",
+    "document_submission_deadline": "Coincides with Embassy/University deadline",
+    "recommendation_letters_deadline": "Coincides with application deadline",
+    "interview_period": "Late March to early April (1st round interviews in Islamabad)",
+    "shortlist_announcement": "Mid-May (2nd round NIIED results); Late June (Final results)",
+    "final_result_acceptance_deadline": "Late June annually",
+    "visa_application_window": "July - August (Korean Embassy Islamabad)",
+    "semester_commencement": "September 1 (Fall Semester) for Graduate; March 1 for Undergraduate",
+    "annual_cycle_notes": "Apostille/Consular legalization at the Korean Embassy in Islamabad requires 2-3 weeks; initiate degree attestation early."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (CGPA rigor, consistent marks across all years)",
+    "extracurricular_and_leadership_weight": "10% (Adaptability, cultural curiosity)",
+    "research_experience_weight": "15% (Relevance of past projects and publications)",
+    "work_experience_weight": "5% (Industry experience)",
+    "personal_statement_weight": "15% (Quality and sincerity of personal statement)",
+    "recommendations_weight": "5% (Recommendation letter strength)",
+    "interview_weight": "15% (Oral interview in Islamabad evaluating confidence and English fluency)",
+    "test_scores_weight": "Bonus points (up to 10-20% boost) awarded for TOPIK Level 3+ and IELTS 7.0+",
+    "financial_need_weight": "0% (Pure bilateral government merit)",
+    "selection_panel_composition": "1st Round: Korean diplomats in Islamabad; 2nd Round: NIIED Selection Committee in Seoul; 3rd Round: University Department Admissions Professors.",
+    "evaluation_methodology": "Three-tier selection: Embassy screening -> NIIED central qualification -> University admissions verification."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,500 to 4,000 applicants in Pakistan",
+    "total_scholarships_awarded": "~30 to 45 scholars selected annually",
+    "acceptance_rate_global": "~3.5%",
+    "acceptance_rate_pakistan": "~1.0% to 1.5% (Extremely Competitive)",
+    "typical_successful_applicant_gpa": "3.50 to 3.95 / 4.00 CGPA (strictly above 80% percentile)",
+    "typical_academic_and_research_profile": "Consistent high grades, clear motivation to study in South Korea, well-formatted consular documents, IELTS 7.0+ or basic Korean.",
+    "common_backgrounds_of_winners": "Graduates of NUST, LUMS, FAST, UET, GIKI, COMSATS, Quaid-i-Azam, and Fatima Jinnah Women University.",
+    "high_representation_countries": "Reserved exclusively for Pakistan under bilateral quota.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Agents claiming they can guarantee GKS scholarships for money. NIIED selections are 100% government-controlled and audited.",
+      "Unofficial agencies claiming TOPIK requirement is waived permanently."
+    ],
+    "application_fee_warning": "GKS application is 100% FREE. Never pay any fee for NIIED forms.",
+    "agent_and_intermediary_warnings": "Never hire an agent. Discrepancies in notarized documents result in criminal forgery blacklisting.",
+    "hidden_costs_breakdown": [
+      "Consular legalization fees at the Korean Embassy in Islamabad (~$4 to $8 per document).",
+      "HEC and MOFA attestation fees in Pakistan (PKR 8,000 to 15,000).",
+      "NADRA Family Registration Certificate (FRC) fees (~PKR 1,000).",
+      "International courier charges (DHL/FedEx) if applying via University Track directly to South Korea (PKR 8,000 to 12,000)."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can skip the 1-year Korean language course. (Fact: The only way to skip the 1-year language course is if you already hold TOPIK Level 5 or 6 before arriving in Korea).",
+      "MYTH: You can stay in Korea if you fail TOPIK Level 3 after 1 year. (Fact: If a scholar fails to achieve TOPIK Level 3 after 1 year of language training, the scholarship is officially CANCELLED and they must return home)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some third-party blogs claim you can apply to both Embassy and University tracks. Applying to both leads to immediate disqualification by NIIED."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain cumulative GPA above 80% (2.64/4.00 or B-grade) each semester in Korean university coursework.",
+    "attendance_requirements": "Mandatory 80%+ attendance in both Korean language institute and degree program.",
+    "academic_progress_monitoring": "Semi-annual grade and attendance evaluation submitted to NIIED.",
+    "work_restrictions_during_study": "Part-time student employment permitted up to 20-25 hours per week during degree program with university approval and immigration permit; STRICTLY PROHIBITED during the initial 1-year Korean language program.",
+    "home_country_return_obligation": "No mandatory statutory home return restriction enforced by Korea; scholars can transition to the Korean D-10 Job Seeker Visa or E-7 Professional Employment Visa upon graduation.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Scholars who withdraw voluntarily within the first 3 months must reimburse all expenses including airfare and stipend.",
+    "rules_for_changing_university": "Strictly prohibited.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "No extensions allowed beyond the designated degree period."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "National Institute for International Education (NIIED) - Official Study in Korea Portal",
+      "source_url": "https://www.studyinkorea.go.kr/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact interview scoring formula used by the Korean Embassy in Islamabad",
+        "Distribution of university track seats among specific Korean institutions"
+      ]
+    }
+  ]
+}

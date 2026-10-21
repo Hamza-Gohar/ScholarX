@@ -1,0 +1,264 @@
+{
+  "scholarship_id": "SCH-EU-016",
+  "basic_details": {
+    "scholarship_name": "ETH Zurich Excellence Scholarship & Opportunity Programme (ESOP)",
+    "offering_entity": "ETH Zurich (Swiss Federal Institute of Technology) & ETH Foundation",
+    "host_country": "Switzerland",
+    "host_institutions_covered": "ETH Zurich (Zentrum and Hönggerberg campuses, Zurich, Switzerland)",
+    "degree_levels": [
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "Open to all Master's degree programs at ETH Zurich across Engineering, Natural Sciences, Computer Science, Mathematics, Architecture, and Management.",
+    "number_of_awards_total": "~50 to 60 ESOP scholarships awarded annually across all departments",
+    "number_of_awards_pakistan": "Open globally; highly competitive; awarded purely on absolute academic and research brilliance",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Full regular duration of the Master's program (3 to 4 semesters / 1.5 to 2 years)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international students of all nationalities (including Pakistan)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limits.",
+    "academic_qualifications": "16 years of education (4-year Bachelor's degree) from an accredited university with outstanding results.",
+    "minimum_gpa_percentage": 90.0,
+    "minimum_gpa_scale": 3.85,
+    "grading_conversion_notes": "Must rank in the top 10% of their Bachelor's degree program (Grade A or equivalent, minimum 3.85 / 4.00 CGPA).",
+    "subject_background_prerequisites": "Rigorous undergraduate foundation in the exact discipline applied for.",
+    "current_education_status": "Graduated or in final semester of undergraduate study.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior research experience, scientific publications, and international academic competition awards significantly enhance chances.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 7.0,
+      "toefl_minimum": 100,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic minimum 7.0 overall or TOEFL iBT minimum 100."
+    },
+    "other_language_requirements": "German not required for English-taught Master's programs (almost all MSc programs at ETH are in English).",
+    "gender_specific_requirements": "Equal opportunity; diversity encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Elite academic merit and research potential; mandatory pre-proposal for master's thesis required.",
+    "previous_scholarship_restrictions": "Cannot hold another major scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition fee waiver (ETH Zurich semester tuition fees of CHF 730/semester fully waived).",
+      "amount": "CHF 1,460 / year"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "ETH Zurich graduate application fee (CHF 150) paid by applicant.",
+      "amount": "CHF 150"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered through living allowance.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Comprehensive living and study expenses grant paid at the beginning of each semester.",
+      "amount": "CHF 12,000 / semester (CHF 24,000 / year ~CHF 2,000 / month or ~PKR 625,000 / month)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International flights to Zurich covered from living allowance.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Swiss national visa fee and biometric residence permit fees in Canton Zurich (~CHF 150) paid by student.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "SUBSIDIZED_VIA_STIPEND",
+      "details": "Swiss student health insurance (Swisscare, ~CHF 65-80/month) paid from stipend.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Covered via living allowance.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Departmental research laboratory funds available for thesis work.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Swiss Half-Fare travelcard can be purchased from living allowance.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 30000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: ETH Zurich (Consistently ranked Top 10 in the world in QS and THE rankings).",
+    "participating_institutions": [
+      "ETH Zurich (Departments of Computer Science, Information Technology & EE, Mechanical & Process Eng, Physics, Chemistry, Mathematics, Architecture, Biosystems Science & Eng)"
+    ],
+    "university_rankings_scope": "World #7 in QS World University Rankings; #1 in continental Europe.",
+    "available_majors": [
+      "Computer Science, Data Science, Cyber Security, Robotics, Systems & Control, Electrical Engineering & IT, Mechanical Engineering, Quantum Engineering, Physics, Mathematics, Chemical & Bioengineering, Biotechnology, Materials Science, Architecture"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "3 to 4 semesters (1.5 to 2 years, 90 to 120 ECTS)",
+    "admission_requirements_summary": "Apply for the Master's degree program via the online portal and select the ESOP application option; submit additional pre-proposal for master's thesis.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Computer Science, Data Science, and Robotics are among the most selective departments in Europe.",
+    "strategic_program_match_advice": "The master's thesis pre-proposal is the crucial differentiator; write a rigorous 2-page research proposal following scientific citation standards."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarships.html",
+    "portal_system_name": "ETH Zurich eApply Online Application System",
+    "account_creation_instructions": "Register on eApply, submit master's application, upload ESOP pre-proposal, and nominate two academic referees.",
+    "step_by_step_workflow": [
+      "1. Check admission prerequisites and prepare academic documents (September-October).",
+      "2. Formulate 2-page pre-proposal for master's thesis following official ETH guidance.",
+      "3. Create account on ETH Zurich eApply portal (Window opens November 1).",
+      "4. Check the box to apply for the Excellence Scholarship & Opportunity Programme (ESOP).",
+      "5. Upload pre-proposal, CV, transcripts, ranking certificate, and two referee contacts.",
+      "6. Submit online application by strict deadline (November 30).",
+      "7. Departmental admission committees review dossiers in January/February.",
+      "8. Central Rector's Scholarship Committee decisions released by mid-March."
+    ],
+    "university_vs_scholarship_routing": "Integrated single application via ETH eApply system.",
+    "recommendation_letters_submission_method": "Submitted online by referees via confidential electronic link sent by ETH Zurich.",
+    "personal_statement_prompts": "Address your scientific motivations, future career vision, and reasons for selecting ETH Zurich.",
+    "study_plan_research_proposal_requirements": "MANDATORY: 2-page Master's Thesis Pre-Proposal outlining research topic, scientific questions, methodology, and relevance.",
+    "cv_format_requirements": "Clear, concise academic CV detailing education, publications, awards, and technical competencies.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interviews; decisions based strictly on evaluation of written dossier and thesis pre-proposal.",
+    "standardized_tests": "GRE General test required or strongly recommended by some departments (e.g., Computer Science); English proficiency test required.",
+    "application_fee_amount": "CHF 150 (paid via credit card on eApply).",
+    "attestation_requirements": "Certified transcripts and degree certificates; HEC attestation required.",
+    "translation_requirements": "Certified translations into English or German.",
+    "final_submission_method": "100% Online via eApply."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Master's Thesis Pre-Proposal",
+      "mandatory": true,
+      "specification": "Strict 2-page scientific proposal detailing potential master's thesis research topic",
+      "pakistan_specific_instruction": "Original independent research proposal; must include bibliography"
+    },
+    {
+      "document_name": "Official Academic Transcripts & Ranking Certificate",
+      "mandatory": true,
+      "specification": "Transcripts showing all courses, credits, and official certificate showing top 10% class rank",
+      "pakistan_specific_instruction": "Rank certificate signed by university dean or registrar"
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Submitted directly by university research professors",
+      "pakistan_specific_instruction": "From professors who supervised your undergraduate research"
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Academic CV highlighting awards and publications",
+      "pakistan_specific_instruction": "Highlighting Olympiads, hackathons, and research output"
+    },
+    {
+      "document_name": "English Proficiency Score",
+      "mandatory": true,
+      "specification": "IELTS Academic (7.0+) or TOEFL iBT (100+)",
+      "pakistan_specific_instruction": "Electronic score report sent to ETH Zurich"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-11-01",
+    "application_deadline": "2026-11-30",
+    "university_admission_deadline": "2026-11-30",
+    "document_submission_deadline": "2026-11-30",
+    "recommendation_letters_deadline": "2026-11-30",
+    "interview_period": "N/A (No interview)",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-04-15",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "September 2027",
+    "annual_cycle_notes": "Application window is strictly 1 month: opens November 1 and closes November 30 for all international applicants."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "45% (Exceptional academic record, straight A grades, top 10% class ranking)",
+    "extracurricular_and_leadership_weight": "5% (Secondary to scientific excellence)",
+    "research_experience_weight": "30% (Quality, scientific rigor, and feasibility of master's thesis pre-proposal)",
+    "work_experience_weight": "0%",
+    "personal_statement_weight": "10% (Clarity of vision and purpose)",
+    "recommendations_weight": "10% (Strength of professor endorsements)",
+    "interview_weight": "0%",
+    "test_scores_weight": "Language and GRE scores evaluated",
+    "financial_need_weight": "0% (Exclusively merit-based)",
+    "selection_panel_composition": "Departmental Admissions Committees and the Central Admissions Committee headed by the ETH Zurich Rector.",
+    "evaluation_methodology": "Two-tier review: Department evaluates subject compatibility and thesis pre-proposal; Rector's Committee awards ESOP to the highest-ranking candidates."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~4,000 to 5,000 international master's applications across all departments",
+    "total_scholarships_awarded": "~50 to 60 ESOP scholarships awarded annually across entire university",
+    "acceptance_rate_global": "~1.0% to 1.2%",
+    "acceptance_rate_pakistan": "~0.5% (Extremely Selective)",
+    "typical_successful_applicant_gpa": "3.90 to 4.00 CGPA (Top 1% to 3% of graduating cohort)",
+    "typical_academic_and_research_profile": "Medal-winning students with near-perfect GPAs, research publications, and deeply sophisticated thesis pre-proposals.",
+    "common_backgrounds_of_winners": "Graduates of top Pakistani institutions (LUMS, NUST, GIKI) with exceptional mathematical and engineering credentials.",
+    "high_representation_countries": "Switzerland, Germany, China, India, USA, Italy, Pakistan.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Commercial sites offering pre-written ETH thesis proposals; plagiarism is checked via Turnitin and leads to permanent ban."
+    ],
+    "application_fee_warning": "Pay the CHF 150 application fee only on the official ETH eApply platform.",
+    "agent_and_intermediary_warnings": "ETH Zurich does not work with any commercial agencies or consultants.",
+    "hidden_costs_breakdown": [
+      "ETH application fee (CHF 150, ~PKR 48,000).",
+      "Swiss visa application and biometric residence permit fees (~CHF 150).",
+      "High initial living expenses buffer in Zurich before first semester stipend installment."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can submit the thesis pre-proposal after getting admitted. (Fact: The pre-proposal MUST be submitted with the initial application in November; late submissions not accepted).",
+      "MYTH: You must speak German. (Fact: Nearly all MSc programs in engineering, CS, and natural sciences at ETH Zurich are taught 100% in English)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently claim tuition in Switzerland is free; while Swiss tuition is low (CHF 730/sem), living costs in Zurich are among the highest in the world (~CHF 2,000/month), which ESOP fully covers."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain top academic performance (Grade average minimum 5.0 out of 6.0 in the Swiss grading system).",
+    "attendance_requirements": "Full-time physical enrollment on campus in Zurich.",
+    "academic_progress_monitoring": "Semester-by-semester credit review; failure to maintain grade standard results in suspension of stipend.",
+    "work_restrictions_during_study": "Permitted to work up to 15 hours/week during term under Swiss student residence permit, but ESOP explicitly discourages outside employment.",
+    "home_country_return_obligation": "None; scholars can apply for a 6-month Swiss residence permit extension to seek employment post-graduation.",
+    "service_obligations_or_bonds": "None; participation in ETH Foundation networking events.",
+    "repayment_clawback_conditions": "Failing courses or withdrawing from degree terminates funding.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Requires approval from both departmental directors of studies.",
+    "extension_policy": "Strict maximum duration of regular study period (max 4 semesters)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "ETH Zurich - Excellence Scholarship & Opportunity Programme Official Portal",
+      "source_url": "https://ethz.ch/students/en/studies/financial/scholarships/excellencescholarships.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Department-by-department allocation quota numbers for ESOP awards",
+        "Evaluation scoring sheet details for thesis pre-proposals"
+      ]
+    }
+  ]
+}

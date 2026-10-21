@@ -1,0 +1,285 @@
+{
+  "scholarship_id": "SCH-EU-090",
+  "basic_details": {
+    "scholarship_name": "Erasmus Mundus Joint Master in Cloud Computing and Services (MSc Cloud)",
+    "offering_entity": "European Education and Culture Executive Agency (EACEA) & MSc Cloud Consortium",
+    "host_country": "France / Finland / Germany",
+    "host_institutions_covered": "Université de Rennes (France), Aalto University (Finland), Technische Universität Berlin (TU Berlin, Germany)",
+    "degree_levels": [
+      "Master of Science (MSc / Double Degree)"
+    ],
+    "major_restrictions": "Cloud Computing, Distributed Systems, Edge Computing, Large-Scale Infrastructure, Cloud Security, and High-Performance Networking.",
+    "number_of_awards_total": "~18 to 22 prestigious Erasmus Mundus scholarship grants awarded globally per cohort",
+    "number_of_awards_pakistan": "Open globally under Partner Country quota; typically 2 to 4 Pakistani scholars selected per intake",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "24 months (2 full academic years across at least two European countries)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to candidates from all countries worldwide, including Pakistan (Partner Country category)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction under Erasmus Mundus programme regulations.",
+    "academic_qualifications": "Recognized 4-year Bachelor of Science (BS / BSc 16-year) in Computer Science, Software Engineering, Computer Engineering, or Information Technology with minimum CGPA 3.30 / 4.00 (75%+).",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Minimum CGPA 3.30 / 4.00; competitive candidates typically hold CGPA >= 3.65 / 4.00.",
+    "subject_background_prerequisites": "Substantial university coursework in distributed systems, operating systems, computer networks, algorithms, databases, and Python/Java programming.",
+    "current_education_status": "Graduated or enrolled in final undergraduate year graduating prior to July 31 preceding September intake.",
+    "graduation_year_restrictions": "No restriction on year of graduation.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Practical experience with cloud architectures (AWS, Azure, GCP), Docker, Kubernetes, or DevOps tools strongly strengthens application.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 92,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 (no band below 6.0) or TOEFL iBT minimum 92 (no section below 20). MOI certificates are not accepted by MSc Cloud consortium.",
+    "other_language_requirements": "Consortium languages (French, Finnish, German) are not required; instruction is 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Erasmus Mundus NDICI / IPA III Partner Country scholarship quota applies to Pakistani nationals.",
+    "previous_scholarship_restrictions": "Candidates who have previously benefited from an Erasmus Mundus Master or Doctoral scholarship are ineligible.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver across all partner universities (worth EUR 18,000 for non-EU students).",
+      "amount": "EUR 18,000 (100% Full Tuition Waiver)"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Direct application via MSc Cloud consortium portal is completely free.",
+      "amount": "EUR 0"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Covered directly from the EUR 1,400 / month living allowance; partner universities assist with student residence reservations.",
+      "amount": "Fully funded via living stipend"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "EUR 1,400 / month tax-free living allowance for up to 24 months (total EUR 33,600 | ~PKR 425,000 / month).",
+      "amount": "EUR 1,400 / month (~PKR 425,000/mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "EUR 3,000 per year travel and mobility contribution for Partner Country students living >4,000 km away.",
+      "amount": "EUR 6,000 total (EUR 3,000/year)"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "EUR 1,000 installation grant covers visa processing, medical attestations, and initial arrival logistics.",
+      "amount": "EUR 1,000 installation grant"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full worldwide comprehensive health, emergency, and travel insurance meeting Erasmus+ requirements.",
+      "amount": "100% Comprehensive Erasmus+ Insurance"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly EUR 1,400 living stipend plus access to subsidized campus dining across France, Finland, and Germany.",
+      "amount": "Fully funded via living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full digital access to cloud computing labs, virtual machine testbeds, and academic library repositories.",
+      "amount": "Full university library and cloud testbed access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Master thesis internship placements in partner industrial research labs (Nokia Bell Labs, Orange, OVHcloud, SAP).",
+      "amount": "Funded cloud research internships"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Mobility travel grant between consortium host nations.",
+      "amount": "Covered via Erasmus mobility travel budget"
+    },
+    "total_estimated_value_usd_per_year": 28000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple host institutions (Université de Rennes - France, Aalto University - Finland, TU Berlin - Germany).",
+    "participating_institutions": [
+      "Université de Rennes (Rennes, France)",
+      "Aalto University (Espoo/Helsinki, Finland)",
+      "Technische Universität Berlin (TU Berlin - Berlin, Germany)"
+    ],
+    "university_rankings_scope": "Premier European technical institutions in distributed computing, cloud telecommunications, and edge systems.",
+    "available_majors": [
+      "Track 1: Cloud & Network Infrastructures (Rennes & Aalto)",
+      "Track 2: Large-Scale Distributed Cloud Systems (Rennes & TU Berlin)",
+      "Track 3: Cloud Security & Trustworthy Computing (Aalto & TU Berlin)",
+      "Semester 4: Master Thesis Internship with Industrial Partner or Research Lab"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (120 ECTS credits)",
+    "admission_requirements_summary": "Bachelor degree in Computing/Engineering (CGPA >= 3.30/4.00), official IELTS (min 6.5) or TOEFL (min 92), CV, statement of purpose, two academic references via online portal.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Single consolidated application for the entire consortium; solid background in networks and Linux systems is required.",
+    "strategic_program_match_advice": "Highlight hands-on cloud deployment experience (containers, orchestration, microservices architectures) alongside theoretical systems knowledge."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://msc-cloud.univ-rennes.fr/",
+    "portal_system_name": "MSc Cloud Consortium Online Application Portal",
+    "account_creation_instructions": "Register on the MSc Cloud portal, select preferred study track, complete academic history, upload transcripts, CV, statement of purpose, English test score, and register two referees before January 15.",
+    "step_by_step_workflow": [
+      "Step 1: Review MSc Cloud mobility tracks, curriculum modules, and admission criteria on univ-rennes.fr.",
+      "Step 2: Prepare attested academic transcripts, degree certificate, Europass CV, statement of purpose, and IELTS/TOEFL scorecard.",
+      "Step 3: Register on the MSc Cloud online application portal.",
+      "Step 4: Fill application details and submit all required documents before January 15.",
+      "Step 5: Consortium Selection Committee reviews applications and scores candidates based on technical background and academic grades.",
+      "Step 6: Shortlisted candidates attend an online technical interview in February.",
+      "Step 7: Consortium publishes initial ranking and sends scholarship nominations to EACEA in March.",
+      "Step 8: Final scholarship award notification delivered in April; visa documentation and acceptance letters dispatched."
+    ],
+    "university_vs_scholarship_routing": "Integrated Routing: Single consolidated application for both degree admission and Erasmus Mundus scholarship funding.",
+    "recommendation_letters_submission_method": "Submitted online by two university academic professors directly via referee invitation link.",
+    "personal_statement_prompts": "Max 2-page statement explaining motivation for cloud computing, chosen study track, relevant software/systems projects, and career goals.",
+    "study_plan_research_proposal_requirements": "Brief outline of desired thesis area within cloud infrastructure, serverless architectures, or edge computing.",
+    "cv_format_requirements": "Europass format CV highlighting programming languages, cloud platforms, DevOps tools, and academic honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview with consortium professors testing distributed systems, networking, and programming concepts.",
+    "standardized_tests": "IELTS Academic 6.5+ (min 6.0 each) or TOEFL iBT 92+ (min 20 each).",
+    "application_fee_amount": "€0 (Completely free to apply)",
+    "attestation_requirements": "HEC degree attestation required for Pakistani applicants.",
+    "translation_requirements": "Official English translation for all academic records.",
+    "final_submission_method": "Online submission via MSc Cloud consortium portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor Degree Certificate",
+      "mandatory": true,
+      "specification": "HEC-attested undergraduate degree in Computer Science, Software Engineering, or Computer Engineering.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts showing all subjects, grades, and CGPA (min 3.30 / 4.00).",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Europass format CV highlighting systems skills, cloud projects, and certifications.",
+      "pakistan_specific_instruction": "Standard Europass layout."
+    },
+    {
+      "document_name": "Statement of Purpose",
+      "mandatory": true,
+      "specification": "Structured statement of purpose detailing interest in cloud computing and chosen mobility track.",
+      "pakistan_specific_instruction": "Highlight systems and networking background."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from university professors submitted directly via portal.",
+      "pakistan_specific_instruction": "On official institutional letterhead."
+    },
+    {
+      "document_name": "English Language Test Scorecard",
+      "mandatory": true,
+      "specification": "Official IELTS (min 6.5) or TOEFL iBT (min 92) certificate.",
+      "pakistan_specific_instruction": "Valid test score report."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Clear color copy of valid Pakistani passport.",
+      "pakistan_specific_instruction": "Valid for at least 2 years."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-15",
+    "application_deadline": "2027-01-15",
+    "university_admission_deadline": "2027-01-15",
+    "document_submission_deadline": "2027-01-15",
+    "recommendation_letters_deadline": "2027-01-25",
+    "interview_period": "February 2027",
+    "shortlist_announcement": "Mid March 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "2027-09-01",
+    "annual_cycle_notes": "Scholarship applications close January 15; self-funded applications accepted until May."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "45% (Academic performance, mathematical rigor, and computing foundation)",
+    "extracurricular_and_leadership_weight": "5% (Extracurricular leadership, open source projects, tech communities)",
+    "research_experience_weight": "25% (Quality of statement of purpose, systems projects, and research orientation)",
+    "work_experience_weight": "5% (Cloud engineering internships, DevOps, or system administration)",
+    "personal_statement_weight": "10% (Clarity of vision and alignment with consortium tracks)",
+    "recommendations_weight": "5% (Academic referee appraisals)",
+    "interview_weight": "5% (Online technical interview probing networking and distributed systems)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure merit evaluation)",
+    "selection_panel_composition": "Joint Academic Selection Committee comprising professors from Université de Rennes, Aalto, and TU Berlin.",
+    "evaluation_methodology": "Consortium scoring grid evaluating previous curriculum match, GPA, SOP, references, and interview performance."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,400 to 1,900 worldwide applications",
+    "total_scholarships_awarded": "~18 to 22 scholarships per cohort",
+    "acceptance_rate_global": "~5.0%",
+    "acceptance_rate_pakistan": "~5% to 8% among qualified computer science and software engineering graduates",
+    "typical_successful_applicant_gpa": "3.70 / 4.00 accompanied by practical systems experience",
+    "typical_academic_and_research_profile": "Graduates in computer science or software engineering with solid understanding of operating systems, networking, and cloud platforms.",
+    "common_backgrounds_of_winners": "Graduates from NUST, FAST-NUCES, COMSATS, UET Lahore, and GIKI.",
+    "high_representation_countries": "Pakistan, India, Nigeria, Brazil, Turkey, Colombia, Vietnam, Indonesia.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply via the official MSc Cloud portal https://msc-cloud.univ-rennes.fr/.",
+      "Beware of fraudulent consultants claiming backdoor entry into Erasmus Mundus programs."
+    ],
+    "application_fee_warning": "Applying for the MSc Cloud Erasmus Mundus scholarship is completely free.",
+    "agent_and_intermediary_warnings": "No recruitment agencies or educational consultants are affiliated with the MSc Cloud consortium.",
+    "hidden_costs_breakdown": [
+      "Application fee: €0 (Free).",
+      "Apostille and HEC degree attestation charges in Pakistan: ~PKR 15,000 - 25,000.",
+      "Initial visa application fee in Islamabad prior to arrival (reimbursed via €1,000 installation grant).",
+      "Transit travel between consortium partner countries (subsidized by €3,000/year travel grant)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Knowledge of French or Finnish is mandatory. Reality: Coursework across Rennes, Aalto, and TU Berlin is conducted 100% in English.",
+      "Myth: Commercial cloud certifications are required. Reality: Strong theoretical grasp of distributed systems, algorithms, and networking is what is evaluated."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sources claim MOI is acceptable; the MSc Cloud consortium strictly enforces official IELTS or TOEFL score reports."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must successfully earn 60 ECTS credits each academic year to progress between mobility tracks.",
+    "attendance_requirements": "Mandatory full-time attendance across all consortium university modules and partner company workshops.",
+    "academic_progress_monitoring": "Joint Consortium Academic Board monitoring at the end of each semester.",
+    "work_restrictions_during_study": "Scholars may not engage in full-time outside employment that compromises academic participation.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Revocation of scholarship and recovery of unspent funds in case of withdrawal or academic misconduct.",
+    "rules_for_changing_university": "Mobility tracks are determined upon admission; changes permitted only under exceptional academic circumstances with board approval.",
+    "rules_for_changing_major": "Not applicable to joint master's programme.",
+    "extension_policy": "Funding is strictly capped at 24 months."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "MSc Cloud Official Erasmus Mundus Consortium Portal",
+      "source_url": "https://msc-cloud.univ-rennes.fr/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "European Commission EACEA Erasmus Mundus Catalogue",
+      "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "scholarship_id": "SCH-EU-013",
+  "basic_details": {
+    "scholarship_name": "SBW Berlin International Scholarship for Social Development",
+    "offering_entity": "SBW Berlin gGmbH (Non-profit organization supported by social initiatives and Berlin institutional partners)",
+    "host_country": "Germany",
+    "host_institutions_covered": "State-recognized universities and universities of applied sciences in Berlin and Potsdam (e.g., TU Berlin, HU Berlin, FU Berlin, University of Potsdam, HTW Berlin, BHT)",
+    "degree_levels": [
+      "Bachelor of Science (BSc)",
+      "Bachelor of Arts (BA)",
+      "Master of Science (MSc)",
+      "Master of Arts (MA)"
+    ],
+    "major_restrictions": "All academic disciplines offered at Berlin and Potsdam public institutions, with prioritized focus on Computer Science, Data Science, Environmental Engineering, Renewable Energy, Public Health, and Social Development.",
+    "number_of_awards_total": "~20 to 30 international scholarship recipients actively supported per academic year",
+    "number_of_awards_pakistan": "Open global competition; Pakistani students with verified social impact track records secure ~2 to 4 awards annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Nominal duration of study program (up to 3-4 years for Bachelor's; up to 2 years for Master's), contingent upon maintaining academic standards and social project milestones"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of developing and emerging countries with severe financial need (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 30,
+    "age_limit_postgrad": 30,
+    "age_limit_notes": "Applicants must be between 18 and 30 years old at the time of application.",
+    "academic_qualifications": "Intermediate/HSSC or A-Levels with at least 80% aggregate (or 3.5/4.0 equivalent) for Bachelor's; a recognized 4-year Bachelor's degree (16 years education) with minimum CGPA 3.30 / 4.00 (or equivalent German grade 2.0 or better) from an HEC-recognized university in Pakistan for Master's programs.",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Minimum German academic grade equivalent of 2.0 or better on the Bavarian formula (where 1.0 is highest and 4.0 is passing).",
+    "subject_background_prerequisites": "Prerequisites corresponding to the targeted university program in Berlin/Potsdam; foundational coursework in quantitative, scientific, or social methodologies.",
+    "current_education_status": "Students who hold a valid admission letter or are in the process of applying to a public university in Berlin/Potsdam, or currently enrolled in the 1st or 2nd semester.",
+    "graduation_year_restrictions": "None, as long as age limit (<30 years) is respected.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Substantial documented record of volunteer work, community development, NGO service, or civic initiatives in Pakistan is mandatory.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "Official IELTS (min 6.5) or TOEFL iBT (min 90) for English-taught degrees; TestDaF (min TDN 4) or Goethe C1 certificate for German-taught degrees.",
+    "other_language_requirements": "German language skills at A1/A2 level are advantageous for daily integration in Berlin student housing.",
+    "gender_specific_requirements": null,
+    "financial_need_required": true,
+    "special_eligibility_categories": "Applicants must submit a detailed proposal for a social non-profit project that addresses a developmental, educational, environmental, or technological challenge in Pakistan, which they pledge to implement upon return.",
+    "previous_scholarship_restrictions": "Cannot hold another full living stipend scholarship simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "Public universities in Berlin/Potsdam charge zero tuition fees; SBW Berlin covers semester administrative and public transport contributions (Semesterbeitrag ~€315 per semester).",
+      "amount": "100% covered (~€630 / year; ~PKR 190,000 / year value)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Uni-Assist evaluation fees (~€75 for first application, €30 for each additional) must be covered independently by the applicant.",
+      "amount": "€75 (~PKR 23,000 out-of-pocket)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Fully furnished single room provided free of charge in SBW Berlin's dedicated student residences/apartments in Berlin.",
+      "amount": "100% covered (market rental value ~€550 - €700 / month in Berlin)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly personal living allowance of €480 to €550 per month to cover food, groceries, books, and daily personal necessities.",
+      "amount": "€480 - €550 / month (~PKR 145,000 - 165,000 / month; €5,760 - €6,600 / year)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Reimbursement of inbound economy airfare from Pakistan to Berlin at program commencement and return flight upon graduation.",
+      "amount": "€1,200 total value (~PKR 360,000 round-trip economy flights)"
+    },
+    "visa_fee": {
+      "status": "REIMBURSED",
+      "details": "German national student visa application fee (€75) and Berlin foreigners authority residence permit fee (Aufenthaltstitel ~€100) are reimbursed upon arrival in Berlin.",
+      "amount": "€175 total (~PKR 53,000 value)"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Mandatory German statutory health and nursing care insurance (Techniker Krankenkasse, AOK, or Barmer) fully paid by the scholarship.",
+      "amount": "€125 - €130 / month (~PKR 38,000 / month; ~€1,520 / year value)"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Included within the monthly personal living allowance of €480 - €550.",
+      "amount": "Included in monthly living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "PARTIAL",
+      "details": "Covered within monthly stipend; special technical project materials can be granted upon written application.",
+      "amount": "Included in living stipend"
+    },
+    "research_funding_conference_grant": {
+      "status": "PARTIAL",
+      "details": "Discretionary grant available to present academic research or project results at European academic conferences or social development forums.",
+      "amount": "Up to €500 per year upon application"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Berlin public transit pass (Semesterticket) integrated into university semester fee, enabling unlimited travel on U-Bahn, S-Bahn, buses, and trams across Berlin and nationwide regional trains.",
+      "amount": "100% covered via semester contribution"
+    },
+    "total_estimated_value_usd_per_year": 20000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple state-recognized universities and universities of applied sciences located exclusively in Berlin and Potsdam.",
+    "participating_institutions": [
+      "Technical University of Berlin (TU Berlin)",
+      "Humboldt University of Berlin (HU Berlin)",
+      "Free University of Berlin (FU Berlin)",
+      "University of Potsdam",
+      "Berlin University of Applied Sciences and Technology (BHT)",
+      "HTW Berlin - University of Applied Sciences for Engineering and Economics"
+    ],
+    "university_rankings_scope": "Top 100 globally for TU Berlin and HU Berlin; premier research universities across Germany and Europe.",
+    "available_majors": [
+      "Computer Science and Data Engineering",
+      "Software Systems and Media Informatics",
+      "Renewable Energy and Clean Technology",
+      "Environmental Engineering",
+      "Public Health and Biotechnology",
+      "Economics and International Development",
+      "Urban Sustainability and Architecture"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Bachelor's: 3 to 4 years; Master's: 2 years (4 semesters)",
+    "admission_requirements_summary": "Bachelor's requires Abitur-equivalent secondary qualification (HSSC + 1 year university or Studienkolleg); Master's requires recognized 4-year HEC Bachelor's with 180-240 ECTS equivalence, English proficiency (IELTS 6.5+), and course-specific subject credits.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "TU Berlin and HU Berlin Computer Science and Data Engineering programs have competitive NC (Numerus Clausus) cutoffs requiring top 10% academic ranks; University of Potsdam and applied science universities (HTW, BHT) offer slightly higher acceptance rates for qualified candidates.",
+    "strategic_program_match_advice": "Pakistani applicants should simultaneously apply for admission through Uni-Assist / university direct portals while submitting the SBW Berlin application, emphasizing how their academic studies will directly enable the execution of their proposed non-profit social initiative in Pakistan."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://sbw.berlin/en/sbw-berlin-scholarship/",
+    "portal_system_name": "SBW Berlin Online Application Portal",
+    "account_creation_instructions": "Register on the SBW Berlin portal, download the application guidelines and official application form, and submit online together with supporting documentation.",
+    "step_by_step_workflow": [
+      "Step 1: Secure admission or submit active application for an accredited degree program at a public university in Berlin or Potsdam (via Uni-Assist or direct university portal).",
+      "Step 2: Formulate a detailed project proposal (2 to 5 pages) outlining a non-profit social development project to be implemented in Pakistan after graduation.",
+      "Step 3: Obtain a letter of recommendation from an established non-profit organization or civic body in Pakistan confirming social commitment and project feasibility.",
+      "Step 4: Complete the official SBW Berlin application form and upload CV, academic transcripts, family financial disclosure, proof of income, and project proposal.",
+      "Step 5: Shortlisted applicants undergo a virtual video interview with the SBW Berlin selection committee assessing motivation, character, and project viability.",
+      "Step 6: Successful candidates receive the formal scholarship contract, allowing them to secure the German student visa without opening a blocked bank account (Sperrkonto)."
+    ],
+    "university_vs_scholarship_routing": "Dual Track: University admission must be pursued independently through Uni-Assist or university direct portals in parallel with the SBW scholarship application.",
+    "recommendation_letters_submission_method": "Uploaded directly via the online portal along with applicant documents, signed on official non-profit organization letterhead.",
+    "personal_statement_prompts": "Personal motivation essay explaining reasons for choosing Berlin, dedication to social progress, and personal background.",
+    "study_plan_research_proposal_requirements": "Structured non-profit social project proposal (2-5 pages) addressing community development, educational reform, environmental sustainability, or tech innovation in Pakistan.",
+    "cv_format_requirements": "Europass or standard professional CV highlighting social work, volunteer activities, and academic history.",
+    "interviews_conducted": true,
+    "interview_format_details": "30-minute structured video interview via Zoom focusing on the applicant's motivation, personal values, and practical feasibility of the return project.",
+    "standardized_tests": "IELTS Academic (min 6.5) or TOEFL iBT (min 90) for English programs; TestDaF (TDN 4) or Goethe C1 for German programs.",
+    "application_fee_amount": "€0 (Free for scholarship; Uni-Assist university fee ~€75)",
+    "attestation_requirements": "Matriculation, Intermediate, and Bachelor's degrees must be verified by IBCC, HEC Pakistan, and MOFA.",
+    "translation_requirements": "Certified English or German translation required for all official Urdu documents.",
+    "final_submission_method": "Online upload via the official SBW Berlin scholarship portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts for HSSC or Bachelor's degree with minimum German equivalent grade 2.0.",
+      "pakistan_specific_instruction": "Attested copies from IBCC, HEC, and MOFA Pakistan."
+    },
+    {
+      "document_name": "Social Non-Profit Project Proposal",
+      "mandatory": true,
+      "specification": "2-5 page proposal detailing a non-profit social development initiative to be executed in Pakistan.",
+      "pakistan_specific_instruction": "Must address concrete community challenges in education, healthcare, technology, or environment."
+    },
+    {
+      "document_name": "Recommendation Letter from Non-Profit Organization",
+      "mandatory": true,
+      "specification": "Signed letter from a registered NGO, civic society, or community organization verifying voluntary work.",
+      "pakistan_specific_instruction": "Must be printed on official NGO letterhead with contact phone and email."
+    },
+    {
+      "document_name": "Proof of Low Family Income / Financial Hardship",
+      "mandatory": true,
+      "specification": "Official household income statements, salary slips, or bank statements proving financial need.",
+      "pakistan_specific_instruction": "Salary certificates or FBR tax returns showing low-to-modest family income."
+    },
+    {
+      "document_name": "University Admission Letter or Application Confirmation",
+      "mandatory": true,
+      "specification": "Proof of application or acceptance letter from an accredited university in Berlin or Potsdam.",
+      "pakistan_specific_instruction": "Uni-Assist confirmation or direct university application voucher."
+    },
+    {
+      "document_name": "Official English or German Language Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5) / TOEFL iBT (min 90) or TestDaF / Goethe C1.",
+      "pakistan_specific_instruction": "Must be valid at the time of application submission."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "November 15 (Summer) / May 15 (Winter)",
+    "application_deadline": "December 31 (Summer) / June 30 (Winter)",
+    "university_admission_deadline": "January 15 (Summer) / July 15 (Winter)",
+    "document_submission_deadline": "December 31 (Summer) / June 30 (Winter)",
+    "recommendation_letters_deadline": "December 31 (Summer) / June 30 (Winter)",
+    "interview_period": "January - February (Summer) / July - August (Winter)",
+    "shortlist_announcement": "Mid-February (Summer) / Mid-August (Winter)",
+    "final_result_acceptance_deadline": "Late February (Summer) / Late August (Winter)",
+    "visa_application_window": "February - March (Summer) / August - September (Winter)",
+    "semester_commencement": "April 1 (Summer Semester) / October 1 (Winter Semester)",
+    "annual_cycle_notes": "Operates biannual admission cycles corresponding to German university Winter and Summer semesters."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Academic excellence and grade point average)",
+    "extracurricular_and_leadership_weight": "15% (Demonstrated voluntary community service record)",
+    "research_experience_weight": "0% (Not primarily research-focused)",
+    "work_experience_weight": "5% (Practical experience in social sector)",
+    "personal_statement_weight": "15% (Clarity of motivation and personal alignment)",
+    "recommendations_weight": "10% (Endorsement from recognized non-profit organization)",
+    "interview_weight": "25% (Performance in online panel interview)",
+    "test_scores_weight": "0% (Language proficiency fulfills qualification threshold)",
+    "financial_need_weight": "Pre-screening eligibility gate (Must prove low household income)",
+    "selection_panel_composition": "Executive leadership of SBW Berlin, university academic representatives, and social development experts.",
+    "evaluation_methodology": "Two-phase evaluation: formal audit of academic marks and financial need, followed by a 30-minute interview interrogating project viability."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,000 international applications worldwide per cycle",
+    "total_scholarships_awarded": "~20 to 30 active scholars funded per year",
+    "acceptance_rate_global": "~1.5% to 2.0%",
+    "acceptance_rate_pakistan": "~2.0% to 3.5% among eligible applicants with proven NGO credentials",
+    "typical_successful_applicant_gpa": "Undergraduate CGPA 3.40+ / 4.00 or HSSC 80%+ marks",
+    "typical_academic_and_research_profile": "Academically strong students with 2+ years of demonstrable community volunteer service and concrete non-profit initiatives.",
+    "common_backgrounds_of_winners": "Graduates active in local social entrepreneurship, community education, and civic impact.",
+    "high_representation_countries": "Pakistan, India, Nigeria, Ghana, Kenya, Colombia, Syria, Ukraine.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of unauthorized agents claiming to sell guaranteed SBW Berlin scholarship placements.",
+      "Official applications are accepted only via https://sbw.berlin/en/sbw-berlin-scholarship/."
+    ],
+    "application_fee_warning": "SBW Berlin does NOT charge any application fee. Any request for money is fraudulent.",
+    "agent_and_intermediary_warnings": "SBW Berlin does not collaborate with any commercial educational agents or consultants.",
+    "hidden_costs_breakdown": [
+      "Uni-Assist university application fee: €75 (~PKR 23,000).",
+      "IELTS/TOEFL examination registration: ~PKR 60,000.",
+      "German student visa appointment and courier fees: ~PKR 25,000.",
+      "Initial pocket money before first stipend transfer: ~€300 (~PKR 90,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You can apply to SBW Berlin for universities across any German state. Reality: SBW Berlin strictly covers universities located in Berlin and Potsdam.",
+      "Myth: You do not need to return to your home country. Reality: A core requirement is the commitment to implement the non-profit project in your home country upon graduation."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs suggest age limit is 35; official guidelines enforce a strict maximum age limit of 30 years at application."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic performance and earn minimum 30 ECTS per semester without fail grades.",
+    "attendance_requirements": "Full-time physical enrollment and regular attendance at the host university in Berlin or Potsdam.",
+    "academic_progress_monitoring": "Biannual submission of official grade transcripts and social project progress reports to the SBW committee.",
+    "work_restrictions_during_study": "Part-time student employment permitted up to legal German limit (140 full days / 280 half days per year), but must not interfere with studies.",
+    "home_country_return_obligation": "Moral and contractual pledge to return to Pakistan upon graduation to execute the proposed social project or collaborate with a partner NGO.",
+    "service_obligations_or_bonds": "Active participation in SBW Berlin community events and workshops during study in Germany.",
+    "repayment_clawback_conditions": "Revocation of fellowship and potential clawback if applicant falsifies financial records or discontinues studies without cause.",
+    "rules_for_changing_university": "Transferring to a university outside Berlin or Potsdam is strictly prohibited and results in immediate termination.",
+    "rules_for_changing_major": "Permitted only with prior written consent from SBW Berlin management.",
+    "extension_policy": "Maximum extension of one semester may be granted upon documented medical or academic hardship."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "SBW Berlin Official Scholarship Portal",
+      "source_url": "https://sbw.berlin/en/sbw-berlin-scholarship/",
+      "source_type": "OFFICIAL_COMMISSION",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "SBW Berlin Official Guidelines and Project Criteria",
+      "source_url": "https://sbw.berlin/wp-content/uploads/2023/10/SBW_Berlin_Scholarship_Guidelines.pdf",
+      "source_type": "OFFICIAL_COMMISSION",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

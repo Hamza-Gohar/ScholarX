@@ -1,0 +1,295 @@
+{
+  "scholarship_id": "SCH-EU-071",
+  "basic_details": {
+    "scholarship_name": "Leiden University Excellence Scholarship (LExS)",
+    "offering_entity": "Leiden University (Faculty of Science & Leiden Institute of Advanced Computer Science - LIACS)",
+    "host_country": "Netherlands",
+    "host_institutions_covered": "Leiden University (Leiden and The Hague Campuses, Netherlands)",
+    "degree_levels": [
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "All English-taught Master of Science programmes, including Computer Science (Data Science, Advanced Computing and Systems, Artificial Intelligence), ICT in Business and the Public Sector, and Media Technology.",
+    "number_of_awards_total": "~50 to 70 LExS awards distributed across all Leiden University faculties annually",
+    "number_of_awards_pakistan": "Open global merit competition; typically 2 to 5 high-achieving Pakistani graduates selected annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years (standard duration of Master's programme; 120 ECTS credits), subject to satisfactory progress"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Non-EEA/non-EU international students liable for non-EU tuition fees"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction.",
+    "academic_qualifications": "A recognized 4-year Bachelor's degree (16 years education) in Computer Science, Software Engineering, or related STEM discipline from an HEC-recognized university with outstanding academic record (ranked within top 10% of graduating cohort; minimum 82% aggregate or CGPA 3.50 / 4.00).",
+    "minimum_gpa_percentage": 82.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Leiden University evaluates international degrees against Dutch WO Bachelor level (comparable to 8.0+ on Dutch 10-point scale).",
+    "subject_background_prerequisites": "Rigorous undergraduate training in algorithms, discrete mathematics, computer architecture, databases, and software engineering.",
+    "current_education_status": "Final-year undergraduate students can apply conditionally; degree completion certificate required before August.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; technical research projects and academic publications significantly strengthen the application.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic min 6.5 (all bands 6.0+) or TOEFL iBT min 90 (components 20+). Medium of Instruction letters not accepted for degrees from Pakistan.",
+    "other_language_requirements": "None; instruction and research conducted entirely in English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "LExS is awarded across three tiers: Tier 1 covers full tuition + EUR 15,000 living allowance; Tier 2 covers full tuition; Tier 3 covers partial tuition (EUR 10,000).",
+    "previous_scholarship_restrictions": "Cannot be combined with other full Dutch scholarships (e.g. NL Scholarship).",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full tuition waiver covering non-EU international graduate tuition (~EUR 19,600 to 21,300 / year value; ~PKR 6,100,000 to 6,600,000 / year).",
+      "amount": "100% covered (~EUR 20,500 / year; ~PKR 6,355,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Leiden University non-refundable application fee of EUR 100 paid online via uSis portal.",
+      "amount": "EUR 100 (~PKR 31,000)"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Leiden Housing Office assists international students with DUWO student accommodations in Leiden and The Hague; single student rooms average EUR 450 to 750/month.",
+      "amount": "Paid from allowance (~EUR 600 / month; ~PKR 186,000 / mo)"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Tier 1 LExS recipients receive an annual living allowance of EUR 15,000 / year (~EUR 1,250 / month; ~PKR 387,500 / month). Tier 2 and Tier 3 winners cover living expenses through family funds or NL Scholarship supplements.",
+      "amount": "Up to EUR 15,000 / year (~PKR 4,650,000 / year)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel between Pakistan and Amsterdam Schiphol Airport (AMS) is self-funded.",
+      "amount": "Self-funded (~PKR 250,000 to 380,000 round-trip value)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Dutch residence permit (VVR) and entry visa (MVV) fee of EUR 228 paid to IND via Leiden University visa services.",
+      "amount": "EUR 228 (~PKR 70,700)"
+    },
+    "health_insurance": {
+      "status": "NOT_COVERED",
+      "details": "International student health insurance (e.g. Aon Student Insurance or OOM, ~EUR 45 to 60/month; ~EUR 600/year) required for residence in the Netherlands.",
+      "amount": "Self-funded (~EUR 600 / year; ~PKR 186,000 / year)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Food and living expenses covered comfortably by the EUR 15,000/year living allowance.",
+      "amount": "Covered from stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "100% COVERED",
+      "details": "Full access to Leiden University Library resources, digital journals, compute servers, and LIACS laboratories.",
+      "amount": "Covered by university facilities"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "LIACS faculty travel grants available for Master's thesis students presenting papers at academic conferences.",
+      "amount": "Up to EUR 1,000 per conference presentation"
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "NS train and regional public transit fares paid by student; bike commuting is standard across Leiden.",
+      "amount": "Self-funded / bicycle commuting"
+    },
+    "total_estimated_value_usd_per_year": 38000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single historic Dutch research university: Leiden University (Leiden / The Hague, Netherlands)",
+    "participating_institutions": [
+      "Leiden University - Faculty of Science",
+      "Leiden Institute of Advanced Computer Science (LIACS)",
+      "Leiden Centre of Data Science (LCDS)",
+      "Gorlaeus Building Research Complex"
+    ],
+    "university_rankings_scope": "Top 100 global university (QS World #141, THE World #77); oldest university in the Netherlands (founded 1575) and leading research center in algorithms, data science, and AI.",
+    "available_majors": [
+      "MSc in Computer Science: Artificial Intelligence",
+      "MSc in Computer Science: Data Science",
+      "MSc in Computer Science: Advanced Computing and Systems",
+      "MSc in Computer Science: Foundations of Computing",
+      "MSc in ICT in Business and the Public Sector",
+      "MSc in Media Technology"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (120 ECTS credits).",
+    "admission_requirements_summary": "4-year BS in CS/STEM with 3.5+ GPA, motivation letter, CV, 2 recommendation letters, and IELTS 6.5+ or TOEFL 90+. LExS motivation letter required.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Data Science and AI specializations attract highest applicant volume; Advanced Computing and Systems, ICT in Business, and Foundations offer slightly higher admit rates.",
+    "strategic_program_match_advice": "In the LExS application section of uSis, upload a dedicated 500-word LExS motivation letter specifically articulating academic excellence and why you deserve this prestigious award."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.universiteitleiden.nl/en/education/admission-and-application/masters",
+    "portal_system_name": "Studielink & Leiden University uSis Application Portal",
+    "account_creation_instructions": "Register first on Studielink.nl to submit study enrolment, then receive login credentials for the Leiden uSis application portal, upload documents, and apply for LExS.",
+    "step_by_step_workflow": [
+      "Step 1 (October - January): Register on Studielink.nl and submit study enrolment for Leiden Master's programme.",
+      "Step 2 (In uSis portal): Complete application profile and upload degree certificates, transcripts, CV, and motivation letter.",
+      "Step 3 (Scholarship section): In the scholarship section of the uSis application, indicate that you wish to apply for the LExS.",
+      "Step 4 (LExS motivation letter): Upload a separate LExS motivation letter (max 500 words) outlining your academic excellence.",
+      "Step 5 (By 1 February): Pay EUR 100 application fee and submit application before strict LExS deadline.",
+      "Step 6 (March - April): Faculty selection committee reviews dossiers and ranks LExS candidates.",
+      "Step 7 (Late April - Early May): Official admission decision and LExS award notification released.",
+      "Step 8 (May - June): Accept scholarship offer, submit financial guarantee (if applicable), and initiate Dutch MVV visa process."
+    ],
+    "university_vs_scholarship_routing": "Integrated application: LExS application is submitted directly within the uSis online admissions portal simultaneously with the master's application.",
+    "recommendation_letters_submission_method": "Two academic recommendation letters uploaded directly by applicant or submitted via referee email in uSis.",
+    "personal_statement_prompts": "Program motivation letter plus separate LExS motivation letter (max 500 words) answering: (1) Academic achievements and class ranking, (2) Relevance of target master's to future goals, (3) Why you merit an excellence scholarship.",
+    "study_plan_research_proposal_requirements": "Not required at Master's level; concise research interests outline integrated into motivation letter.",
+    "cv_format_requirements": "1 to 2 page academic CV detailing education, technical competencies, programming skills, capstone projects, and academic honors.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interviews; decisions are based purely on academic evaluation of the submitted dossier.",
+    "standardized_tests": "IELTS Academic (6.5+) or TOEFL iBT (90+). GRE is NOT required.",
+    "application_fee_amount": "EUR 100 (Non-refundable)",
+    "attestation_requirements": "Certified scans uploaded with application; official degree certificates verified upon arrival.",
+    "translation_requirements": "Certified English translations required for all non-English documents.",
+    "final_submission_method": "100% digital submission via Studielink and Leiden uSis portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Bachelor's Degree Certificate",
+      "mandatory": true,
+      "specification": "Scanned color copy of original Bachelor's degree certificate and official English translation.",
+      "pakistan_specific_instruction": "Pakistani applicants submit 4-year BS degree certificate; HEC attestation recommended."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete consolidated semester transcripts detailing all completed course units, grades, and grading scale.",
+      "pakistan_specific_instruction": "Ensure transcript clearly states credit hours and grading scale (CGPA out of 4.0)."
+    },
+    {
+      "document_name": "LExS Motivation Letter",
+      "mandatory": true,
+      "specification": "Max 500-word essay explaining academic excellence, ranking within graduating class, and alignment with Leiden.",
+      "pakistan_specific_instruction": "Provide proof of class rank or percentile if available from your Pakistani university registrar."
+    },
+    {
+      "document_name": "Program Statement of Purpose",
+      "mandatory": true,
+      "specification": "1-2 page essay articulating academic background, technical interests, and motivation for the specific master's track.",
+      "pakistan_specific_instruction": "Highlight final-year project (FYP) and technical tools used."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "1 to 2 page CV detailing academic background, programming proficiencies, capstone projects, and distinctions.",
+      "pakistan_specific_instruction": "Clearly link GitHub repositories, hackathons, and published work."
+    },
+    {
+      "document_name": "Letters of Recommendation (Two)",
+      "mandatory": true,
+      "specification": "Two academic reference letters from university professors assessing analytical and intellectual capacity.",
+      "pakistan_specific_instruction": "Referees must submit from institutional email addresses (.edu.pk)."
+    },
+    {
+      "document_name": "English Language Proficiency Test Report",
+      "mandatory": true,
+      "specification": "Official IELTS Academic TRF (6.5+) or TOEFL iBT score report (90+).",
+      "pakistan_specific_instruction": "Must be valid through application deadline; MOI letters strictly not accepted."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "1 October 2025",
+    "application_deadline": "1 February 2026 (Strict LExS deadline for September intake)",
+    "university_admission_deadline": "1 February 2026",
+    "document_submission_deadline": "1 February 2026",
+    "recommendation_letters_deadline": "1 February 2026",
+    "interview_period": "N/A (Decisions based on file review)",
+    "shortlist_announcement": "Late April to Early May 2026",
+    "final_result_acceptance_deadline": "Mid-May 2026",
+    "visa_application_window": "May to July 2026",
+    "semester_commencement": "Early September 2026",
+    "annual_cycle_notes": "Strict 1 February deadline for September intake. Applicants who miss this deadline cannot be considered for LExS."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "60% (Academic excellence, CGPA, grades in mathematics and core computing coursework, university prestige)",
+    "extracurricular_and_leadership_weight": "5% (Leadership, academic competitions, extracurricular contributions)",
+    "research_experience_weight": "10% (Technical projects, bachelor's thesis, publications)",
+    "work_experience_weight": "5% (Relevant industry software experience)",
+    "personal_statement_weight": "10% (Quality of LExS motivation letter and program SOP)",
+    "recommendations_weight": "10% (Strength of professor endorsements)",
+    "interview_weight": "0% (No interviews conducted)",
+    "test_scores_weight": "Threshold requirement (IELTS 6.5 / TOEFL 90 compliance)",
+    "financial_need_weight": "0% (Purely merit-based academic scholarship)",
+    "selection_panel_composition": "Faculty of Science LExS Selection Committee and LIACS Admissions Board.",
+    "evaluation_methodology": "Competitive merit ranking: Faculty committees evaluate candidates primarily on academic performance (top 10% cutoff) and quality of motivation letter. Top candidates are awarded Tier 1 or Tier 2 LExS packages."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "2,500+ international applicants across Leiden University Master's programmes",
+    "total_scholarships_awarded": "~50 to 70 LExS awards across all tiers university-wide",
+    "acceptance_rate_global": "~2% to 3% for LExS scholarship recipients",
+    "acceptance_rate_pakistan": "~2% to 3% among qualified Pakistani STEM applicants",
+    "typical_successful_applicant_gpa": "3.80+ / 4.00 CGPA (85%+ aggregate / top 5% of class)",
+    "typical_academic_and_research_profile": "Undergraduate degree in CS/SE from premier university (FAST, NUST, LUMS, GIKI, UET), top 5% standing, outstanding algorithm grades, compelling LExS essay, IELTS 7.5+.",
+    "common_backgrounds_of_winners": "Graduates of NUST, FAST-NUCES, LUMS, and GIKI.",
+    "high_representation_countries": "China, India, United States, Pakistan, Indonesia, Brazil, Turkey",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Commercial education recruiters charging fees claiming guaranteed admission or scholarships at Leiden. Admissions are handled strictly via Studielink and uSis."
+    ],
+    "application_fee_warning": "Leiden application fee is EUR 100 paid online via uSis. Never pay fees to external agents.",
+    "agent_and_intermediary_warnings": "Leiden University does not work with education recruitment agents. Plagiarized statements result in immediate rejection.",
+    "hidden_costs_breakdown": [
+      "Application fee: EUR 100 (~PKR 31,000).",
+      "Dutch MVV/VVR visa fee: EUR 228 (~PKR 70,700).",
+      "Health insurance: ~EUR 600 / year (~PKR 186,000).",
+      "Flight ticket from Pakistan to Amsterdam: ~PKR 250,000 to 380,000.",
+      "First month's rent and housing deposit in Leiden/The Hague: ~EUR 1,200 (~PKR 372,000)."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: All LExS winners receive a full living allowance. (FACT: LExS has multiple tiers; only top Tier 1 winners receive the EUR 15,000 living allowance, while Tier 2 covers tuition only).",
+      "CLAIM: You can apply for LExS after being admitted. (FACT: LExS application MUST be indicated and submitted by the 1 February deadline simultaneously with admission)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some online forums report that the general application deadline is 1 April. While general non-visa applications close later, the strict LExS scholarship deadline is ALWAYS 1 February."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic performance and complete at least 60 ECTS credits during Year 1 to renew the scholarship for Year 2.",
+    "attendance_requirements": "Full-time physical enrollment at Leiden University.",
+    "academic_progress_monitoring": "Annual progress reviews conducted by the Faculty of Science.",
+    "work_restrictions_during_study": "Dutch student visa permits part-time work of up to 16 hours per week (work permit required from employer) or full-time during summer months.",
+    "home_country_return_obligation": "None. International graduates qualify for the Dutch 1-year Orientation Year visa (Zoekjaar) to seek employment or launch a startup.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "No clawback of previously awarded funds; academic failure results in cancellation of scholarship for Year 2.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Changing programme requires formal re-application.",
+    "extension_policy": "Scholarship is granted for the nominal 2-year duration (120 ECTS) and cannot be extended."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Leiden University Excellence Scholarship (LExS) Official Portal",
+      "source_url": "https://www.universiteitleiden.nl/en/scholarships/sea/leiden-university-excellence-scholarship-lexs",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact breakdown of Tier 1 vs Tier 2 vs Tier 3 awards allocated to Faculty of Science.",
+        "Country-level breakdown of scholarship awardees.",
+        "Internal waitlist clearance procedures for declined scholarship offers."
+      ]
+    },
+    {
+      "source_name": "Leiden Institute of Advanced Computer Science (LIACS)",
+      "source_url": "https://www.universiteitleiden.nl/en/science/computer-science",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Average lab-by-lab research assistantship wages for second-year master's students.",
+        "Detailed statistics on non-EU applicant pools per computing specialization."
+      ]
+    }
+  ]
+}

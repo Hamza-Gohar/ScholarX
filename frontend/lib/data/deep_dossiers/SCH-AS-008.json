@@ -1,0 +1,274 @@
+{
+  "scholarship_id": "SCH-AS-008",
+  "basic_details": {
+    "scholarship_name": "Government of Brunei Darussalam Scholarship (BDGS)",
+    "offering_entity": "Ministry of Foreign Affairs (MFA), Government of Brunei Darussalam",
+    "host_country": "Brunei Darussalam",
+    "host_institutions_covered": "Universiti Brunei Darussalam (UBD), Universiti Islam Sultan Sharif Ali (UNISSA), Universiti Teknologi Brunei (UTB), and Politeknik Brunei (PB)",
+    "degree_levels": [
+      "Undergraduate (Bachelor's)",
+      "Master's",
+      "Diploma"
+    ],
+    "major_restrictions": "Open to degree programs offered across the 4 institutions: Engineering, Computer Science, Business, Economics, Petroleum Geosciences, Public Policy, Islamic Studies, Islamic Finance, Health Sciences.",
+    "number_of_awards_total": "~100 to 150 scholarships awarded annually across ASEAN, Commonwealth, and OIC member countries",
+    "number_of_awards_pakistan": "Open to Pakistan as an eligible OIC and Commonwealth member state (~5 to 10 Pakistani students selected annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Diploma (3 years); Bachelor's (4 years); Master's (1 to 2 years)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of ASEAN, Commonwealth, and OIC member countries (Pakistani citizens eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 25,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Undergraduate and Diploma: between 18 and 25 years of age; Master's: maximum 35 years of age on July 1 of award year.",
+    "academic_qualifications": "12 years (FSc/A-Levels) for Bachelor's; 16 years (Bachelor's) for Master's from an accredited institution.",
+    "minimum_gpa_percentage": 70.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum 3.00 / 4.00 CGPA or equivalent Second Class Upper / 70%+ marks.",
+    "subject_background_prerequisites": "Prerequisites corresponding to chosen degree faculty.",
+    "current_education_status": "Graduated or in final semester of degree.",
+    "graduation_year_restrictions": "None, provided age limits are respected.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Academic grades carry primary weight.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.0,
+      "toefl_minimum": 75,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": true,
+      "notes": "Credit 6 in GCE O-Level English, IELTS Academic 6.0+, TOEFL 75+, or university English proficiency certificate."
+    },
+    "other_language_requirements": "English; Arabic required for Islamic Studies programs at UNISSA.",
+    "gender_specific_requirements": "Equal opportunity; all eligible candidates welcome.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must be nominated by their home government (Ministry of Foreign Affairs or designated agency in Pakistan).",
+    "previous_scholarship_restrictions": "Cannot hold another scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% tuition, admission, examination, registration, and orientation fees fully waived.",
+      "amount": "BND $8,000 to $16,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "No application fees charged.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "FREE DORMITORY",
+      "details": "Free accommodation at the residential college of the host university or polytechnic.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly personal subsistence allowance paid directly to student.",
+      "amount": "BND $500 / month (~PKR 110,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Economy class return airfare to Brunei Darussalam at the beginning and end of study.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Student visa and student pass fees in Brunei Darussalam covered.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive medical insurance provided throughout the scholarship period.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Monthly meals allowance of BND $150/month provided in addition to personal allowance.",
+      "amount": "BND $150 / month (~PKR 33,000 / month)"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Annual book allowance paid directly to scholar.",
+      "amount": "BND $600 / year (~PKR 132,000 / year)"
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Host university research laboratories accessible.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Baggage allowance for shipping personal effects upon completion (up to BND $500).",
+      "amount": "BND $500"
+    },
+    "total_estimated_value_usd_per_year": 16000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Apply for up to two program choices across the 4 participating institutions.",
+    "participating_institutions": [
+      "Universiti Brunei Darussalam (UBD - World Top 400)",
+      "Universiti Teknologi Brunei (UTB - Engineering & Tech)",
+      "Universiti Islam Sultan Sharif Ali (UNISSA - Islamic Studies & Law)",
+      "Politeknik Brunei (PB - Technical Diplomas)"
+    ],
+    "university_rankings_scope": "UBD is QS World Rank #387; UTB is World Top 500.",
+    "available_majors": [
+      "Computer Science, Electrical & Electronic Engineering, Mechanical Engineering, Civil Engineering, Petroleum Engineering, Chemical Engineering, Business Administration, Economics, Public Policy, Biomedical Sciences, Islamic Finance, Shariah Law"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Diploma: 3 years; Bachelor's: 4 years; Master's: 1 to 2 years",
+    "admission_requirements_summary": "Download official BDGS application form, fill out choices, obtain home government endorsement, and submit via email/portal to MFA Brunei.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Universiti Teknologi Brunei (UTB) and Universiti Brunei Darussalam (UBD) are the premier choices for engineering and sciences.",
+    "strategic_program_match_advice": "Ensure Section C of the application form is endorsed by the Ministry of Foreign Affairs (MOFA) Pakistan or the HEC."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.mfa.gov.bn/Pages/bdgs/bdgs2024.aspx",
+    "portal_system_name": "Ministry of Foreign Affairs Brunei BDGS Online Submission",
+    "account_creation_instructions": "Download the official application form from the MFA Brunei website, complete all sections, attach documents, and submit via the specified online portal or email.",
+    "step_by_step_workflow": [
+      "1. Download the official BDGS Application Form from MFA Brunei website (Opens January).",
+      "2. Complete the form and choose up to two degree programs from UBD, UTB, UNISSA, or PB.",
+      "3. Secure Statement of Purpose and certified academic transcripts.",
+      "4. Submit the form to MOFA Pakistan / HEC for official government endorsement (Section C).",
+      "5. Email/upload the complete endorsed application to queriesbdgs2024@mfa.gov.bn by deadline (mid-February).",
+      "6. Shortlisted applicants may be invited to sit an interview/written test by Brunei selection panel.",
+      "7. Award letters issued in June/July; semester commences in August."
+    ],
+    "university_vs_scholarship_routing": "Direct application via MFA Brunei; admissions are processed centrally.",
+    "recommendation_letters_submission_method": "Two referee assessments submitted with the application dossier.",
+    "personal_statement_prompts": "Statement of Purpose describing academic interests, why you chose Brunei, and how your studies will benefit your home country.",
+    "study_plan_research_proposal_requirements": "Research proposal required for Master's by Research candidates.",
+    "cv_format_requirements": "Standard academic CV.",
+    "interviews_conducted": true,
+    "interview_format_details": "Selection committee or host university conducts virtual interview for shortlisted candidates in April/May.",
+    "standardized_tests": "English test (IELTS 6.0+ or TOEFL 75+).",
+    "application_fee_amount": "$0 (100% Free).",
+    "attestation_requirements": "Certificates and transcripts must be certified; HEC attestation required.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "Submitted electronically via email / portal to MFA Brunei."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "BDGS Application Form with Government Endorsement",
+      "mandatory": true,
+      "specification": "Official form completed and endorsed by Ministry of Foreign Affairs (MOFA) Pakistan",
+      "pakistan_specific_instruction": "Section C stamped by MOFA / HEC Islamabad"
+    },
+    {
+      "document_name": "Certified Educational Diplomas & Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts and certificates showing all grades",
+      "pakistan_specific_instruction": "Attested by HEC / IBCC Pakistan"
+    },
+    {
+      "document_name": "Statement of Purpose",
+      "mandatory": true,
+      "specification": "Personal essay detailing motivation and study plan",
+      "pakistan_specific_instruction": "Clearly stating why Brunei is your choice"
+    },
+    {
+      "document_name": "Two Referee Assessment Reports",
+      "mandatory": true,
+      "specification": "Completed referee forms on official letterhead",
+      "pakistan_specific_instruction": "From teachers or university professors"
+    },
+    {
+      "document_name": "Certified Birth Certificate & Passport Copy",
+      "mandatory": true,
+      "specification": "Certified copies of NADRA birth certificate and passport",
+      "pakistan_specific_instruction": "Passport must be valid for at least 12 months"
+    },
+    {
+      "document_name": "Police Clearance Certificate",
+      "mandatory": true,
+      "specification": "Security clearance proving non-criminal record",
+      "pakistan_specific_instruction": "Issued by local Pakistani police department"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2027-01-10",
+    "application_deadline": "2027-02-15",
+    "university_admission_deadline": "2027-02-15",
+    "document_submission_deadline": "2027-02-15",
+    "recommendation_letters_deadline": "2027-02-15",
+    "interview_period": "April to May 2027",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-07-15",
+    "visa_application_window": "July to August 2027",
+    "semester_commencement": "August 2027",
+    "annual_cycle_notes": "Application window is strictly January to mid-February each year. Academic year starts in August."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "50% (Academic grades, transcript performance, qualification relevance)",
+    "extracurricular_and_leadership_weight": "10% (Extracurricular background)",
+    "research_experience_weight": "10% (For Master's research candidates)",
+    "work_experience_weight": "5% (Work experience)",
+    "personal_statement_weight": "15% (Statement of Purpose clarity)",
+    "recommendations_weight": "10% (Referee appraisals)",
+    "interview_weight": "Evaluated in interview round",
+    "test_scores_weight": "Language threshold required",
+    "financial_need_weight": "0% (Merit and bilateral cooperation)",
+    "selection_panel_composition": "MFA Brunei Scholarship Selection Committee in collaboration with university admissions boards.",
+    "evaluation_methodology": "Assessment of academic merit and strategic country representation among OIC and Commonwealth states."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,000 to 4,000 applications globally across OIC/Commonwealth countries",
+    "total_scholarships_awarded": "~100 to 150 scholarships awarded annually",
+    "acceptance_rate_global": "~3% to 4%",
+    "acceptance_rate_pakistan": "~2% to 3% (Competitive)",
+    "typical_successful_applicant_gpa": "3.30 to 3.80 / 4.00 CGPA or 75%+ marks",
+    "typical_academic_and_research_profile": "Well-rounded students with solid academic records in engineering, business, or Islamic studies.",
+    "common_backgrounds_of_winners": "Students from all provinces of Pakistan seeking quality funded education in a secure, tax-free Islamic country.",
+    "high_representation_countries": "Malaysia, Indonesia, Pakistan, Bangladesh, Nigeria, Maldives, Oman.",
+    "competitiveness_tier": "VERY HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Scam emails asking for visa deposits or processing fees for Brunei scholarships."
+    ],
+    "application_fee_warning": "The Government of Brunei Darussalam scholarship application is 100% FREE.",
+    "agent_and_intermediary_warnings": "Never work through agents; apply directly to MFA Brunei.",
+    "hidden_costs_breakdown": [
+      "HEC / MOFA attestation and courier fees in Pakistan.",
+      "Medical checkup expenses prior to departure.",
+      "Personal incidentals in Brunei."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You cannot apply without a government job. (Fact: Open to all private and public students; only government endorsement on Section C is required).",
+      "MYTH: Only Islamic studies are taught. (Fact: High-tech Engineering, Petroleum Geoscience, and Computer Science are taught in English)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some websites state PhD is covered; BDGS officially covers Diploma, Bachelor's, and Master's degrees only."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic performance and pass all examinations in accordance with university rules.",
+    "attendance_requirements": "Full-time physical residence and attendance in Brunei Darussalam.",
+    "academic_progress_monitoring": "Host universities submit regular progress reports to the Ministry of Foreign Affairs.",
+    "work_restrictions_during_study": "Scholars are strictly prohibited from engaging in any paid employment during the scholarship tenure.",
+    "home_country_return_obligation": "MANDATORY Return: Scholars must return to their home country immediately upon completion of their study program.",
+    "service_obligations_or_bonds": "Obligated to return home; no right to seek employment or permanent stay in Brunei Darussalam.",
+    "repayment_clawback_conditions": "Expulsion, academic failure, or breach of regulations requires full repayment of scholarship costs.",
+    "rules_for_changing_university": "Strictly prohibited.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "No extensions beyond the standard program period."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Ministry of Foreign Affairs Brunei Darussalam - BDGS Official Portal",
+      "source_url": "https://www.mfa.gov.bn/Pages/bdgs/bdgs2024.aspx",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Specific country quota allocations among OIC member states",
+        "Interview grading sheet rubrics"
+      ]
+    }
+  ]
+}

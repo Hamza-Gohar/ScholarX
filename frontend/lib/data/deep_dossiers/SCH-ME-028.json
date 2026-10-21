@@ -1,0 +1,297 @@
+{
+  "scholarship_id": "SCH-ME-028",
+  "basic_details": {
+    "scholarship_name": "New York University Abu Dhabi (NYUAD) Global Leaders Fellowship & Financial Aid",
+    "offering_entity": "New York University Abu Dhabi (NYUAD) & Abu Dhabi Department of Education and Knowledge (ADEK)",
+    "host_country": "United Arab Emirates",
+    "host_institutions_covered": "New York University Abu Dhabi (Saadiyat Island Campus, Abu Dhabi, UAE)",
+    "degree_levels": [
+      "Bachelor of Arts (BA)",
+      "Bachelor of Science (BS)"
+    ],
+    "major_restrictions": "Open to all 26 undergraduate majors across Engineering (Computer, Electrical, Mechanical, Civil, General), Science (Biology, Chemistry, Computer Science, Data Science, Mathematics, Physics, Psychology), Social Sciences (Economics, Political Science, SRPP), and Arts & Humanities.",
+    "number_of_awards_total": "~400 to 500 undergraduate scholars supported annually with comprehensive need-based institutional fellowship awards",
+    "number_of_awards_pakistan": "Extremely prestigious cohort; Pakistani high school scholars secure ~15 to 25 full fellowship awards annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "4 years of full-time undergraduate study, including 2 study-abroad semesters within NYU's global network (New York, Paris, London, Tokyo, etc.)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to outstanding students of all nationalities globally (Pakistan eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No formal age limit; applicants are typically graduating high school seniors or gap year students.",
+    "academic_qualifications": "High school diploma / Intermediate (FSc/ICS) with 90%+ marks, or A-Levels with minimum AAA / A*AA grades, or International Baccalaureate (IB) 38+ points. Class rank typically in the top 1-2%.",
+    "minimum_gpa_percentage": 90.0,
+    "minimum_gpa_scale": 3.8,
+    "grading_conversion_notes": "Holistic review of high school transcript (Grades 9-12); unweighted GPA equivalent of 3.8+ / 4.00.",
+    "subject_background_prerequisites": "Rigorous coursework in mathematics, natural sciences, and humanities.",
+    "current_education_status": "High school seniors in their final year can apply with predicted grades; gap year students eligible.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Extraordinary extracurricular leadership, Olympiad awards, debate championships, or social impact initiatives strongly emphasized.",
+    "english_test_required": true,
+    "ielts_minimum": 7.5,
+    "toefl_minimum": 100,
+    "duolingo_accepted": true,
+    "moi_certificate_accepted": true,
+    "language_notes": "TOEFL iBT min 100, IELTS Academic min 7.5, Duolingo English Test (DET) min 130, or Cambridge English C1/C2. English proficiency waiver available if applicant's secondary education was entirely in English.",
+    "other_language_requirements": "None; instruction is entirely in English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": true,
+    "special_eligibility_categories": "Fellowship is awarded based on demonstrated financial need (CSS Profile) combined with academic and leadership excellence; NYUAD meets 100% of demonstrated financial need.",
+    "previous_scholarship_restrictions": "None.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full tuition fee waiver for the complete 4-year undergraduate degree (~USD 60,000 / year value).",
+      "amount": "100% covered (~USD 60,000 / year; ~PKR 16,800,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Common Application fee of USD 80 can be waived via Common App Fee Waiver for students demonstrating financial need.",
+      "amount": "USD 0 (Fee waiver available)"
+    },
+    "accommodation": {
+      "status": "100% COVERED",
+      "details": "100% covered modern single/double student residential housing on Saadiyat Island Campus (~USD 12,000 / year value), including utilities, Wi-Fi, air conditioning, and cleaning.",
+      "amount": "100% covered (~USD 12,000 / year; ~PKR 3,360,000 / year)"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Comprehensive personal allowance and campus life stipend of ~AED 1,500 to 2,500 / month (~USD 400 to 680 / month; ~PKR 112,000 to 190,000 / month) to cover books, local transport, and miscellaneous personal expenses.",
+      "amount": "~AED 2,000 / month (~PKR 150,000 / mo)"
+    },
+    "airfare": {
+      "status": "100% COVERED",
+      "details": "Two economy-class round-trip flights per academic year between Pakistan and Abu Dhabi, plus fully covered airfare and accommodations for January Term (J-Term) global study courses worldwide.",
+      "amount": "100% covered round-trip flights + J-Term travel"
+    },
+    "visa_fee": {
+      "status": "100% COVERED",
+      "details": "UAE Student Residence Visa application, medical fitness screening, and Emirates ID fees fully sponsored and managed by NYUAD.",
+      "amount": "100% covered by NYUAD"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Comprehensive worldwide international health insurance policy (Abu Dhabi National Insurance Company - ADNIC) covering inpatient, outpatient, emergency medical evacuation, and dental/vision.",
+      "amount": "100% covered worldwide health insurance"
+    },
+    "food_allowance": {
+      "status": "100% COVERED",
+      "details": "Full university meal plan (Falcon Dinar dining plan) covering 3 full meals per day across campus dining halls, cafes, and halal dining venues (~USD 6,000 / year value).",
+      "amount": "100% covered campus meal plan"
+    },
+    "books_and_materials_allowance": {
+      "status": "100% COVERED",
+      "details": "Dedicated course materials allowance and lab supply grant (~USD 1,000 / year) plus high-spec engineering laptop loan/issuance.",
+      "amount": "100% covered books & materials"
+    },
+    "research_funding_conference_grant": {
+      "status": "100% COVERED",
+      "details": "Summer research grants (up to USD 4,000), Capstone project funding, and undergraduate conference presentation travel grants.",
+      "amount": "Up to USD 4,000 summer research grant"
+    },
+    "travel_transit_allowance": {
+      "status": "100% COVERED",
+      "details": "Free university shuttles connecting Saadiyat Island Campus to downtown Abu Dhabi, malls, and cultural districts.",
+      "amount": "100% free university shuttle transport"
+    },
+    "total_estimated_value_usd_per_year": 85000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single portal university with global rotation (NYU Abu Dhabi + NYU Global Network)",
+    "participating_institutions": [
+      "New York University Abu Dhabi (Saadiyat Island Campus, Abu Dhabi, UAE)",
+      "NYU Washington Square (New York City, USA)",
+      "NYU Shanghai (Pudong, Shanghai, China)",
+      "NYU Global Academic Centers (London, Paris, Berlin, Madrid, Florence, Buenos Aires, Sydney, Accra)"
+    ],
+    "university_rankings_scope": "NYU ranked #38 QS World University Rankings, #32 Times Higher Education, #16 US News Global. NYUAD degrees are awarded directly by New York University.",
+    "available_majors": [
+      "Computer Science",
+      "Computer Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Data Science",
+      "Economics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics",
+      "Social Research and Public Policy (SRPP)",
+      "Interactive Media",
+      "Political Science"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "4 years (full-time undergraduate)",
+    "admission_requirements_summary": "Common Application submission, NYU-specific supplement, high school transcripts (Grades 9-12), counselor recommendation, two teacher recommendations, SAT/ACT (optional), English proficiency test (TOEFL/IELTS/DET), and CSS Profile for financial aid.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "NYUAD is one of the most selective undergraduate institutions on earth (acceptance rate ~3-4%); shortlisted finalists are flown all-expenses-paid to Abu Dhabi for the renowned 'Candidate Weekend' before final admission offers are rendered.",
+    "strategic_program_match_advice": "Focus heavily on unique intellectual curiosity and global citizenship in the Common App essays. If NYUAD is your unequivocal first choice, applying Early Decision (ED1 or ED2) significantly maximizes admission probability."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.commonapp.org/ & https://nyuad.nyu.edu/",
+    "portal_system_name": "The Common Application & College Board CSS Profile",
+    "account_creation_instructions": "Create account on Common App, add New York University, select Abu Dhabi campus as primary campus of interest, and complete the CSS Profile on cssprofile.collegeboard.org.",
+    "step_by_step_workflow": [
+      "Step 1: Complete Common Application profile, activities list, personal essay, and NYU-specific essay prompts (August - October).",
+      "Step 2: Submit official secondary school transcripts (Grades 9-11 and Grade 12 first-term / predicted grades) via school counselor.",
+      "Step 3: Have academic teachers submit two detailed recommendation letters.",
+      "Step 4: Complete and submit the CSS Profile for financial aid, uploading parent income tax returns and salary certificates to IDOC.",
+      "Step 5: Submit application by deadline: Early Decision 1 (Nov 1), Early Decision 2 (Jan 1), or Regular Decision (Jan 5).",
+      "Step 6: Selected semifinalists receive invitations to NYUAD 'Candidate Weekend' (all-expenses-paid visit to Abu Dhabi or virtual immersive experience).",
+      "Step 7: Admissions committee renders final admission and comprehensive fellowship package (mid-December for ED1, mid-February for ED2, late March for RD).",
+      "Step 8: Sign enrollment agreement, submit visa documentation to NYUAD Student Mobility Office.",
+      "Step 9: Arrive in Abu Dhabi in late August for the international student orientation program (Marhaba Week)."
+    ],
+    "university_vs_scholarship_routing": "Integrated Track: Admission automatically qualifies students for 100% need-met financial aid via the CSS Profile.",
+    "recommendation_letters_submission_method": "Submitted online by school counselor and teachers directly through Common Application portal.",
+    "personal_statement_prompts": "Common App personal statement (650 words) plus NYU supplemental essay exploring why NYU's global network and Abu Dhabi campus uniquely resonate with applicant's intellectual ambitions.",
+    "study_plan_research_proposal_requirements": "Not required for undergraduates; evaluated on academic passion and extracurricular depth.",
+    "cv_format_requirements": "Embedded Common App activities sheet (up to 10 activities with detailed descriptions of impact and hours).",
+    "interviews_conducted": true,
+    "interview_format_details": "Extensive interviews and collaborative group activities conducted during the exclusive NYUAD 'Candidate Weekend' by faculty and admissions deans.",
+    "standardized_tests": "Test-Optional (SAT/ACT not mandatory; competitive applicants submitting scores typically present SAT 1480-1560 or ACT 33-35).",
+    "application_fee_amount": "USD 80 (Fee waiver available via Common App for financial hardship)",
+    "attestation_requirements": "Final high school diploma and transcripts must be authenticated by IBCC/British Council, MoFA Pakistan, and the UAE Embassy in Islamabad upon enrollment.",
+    "translation_requirements": "Certified English translation required for any documents not in English.",
+    "final_submission_method": "100% online submission via Common App and CSS Profile."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Common Application with NYU Supplement",
+      "mandatory": true,
+      "specification": "Completed online Common Application specifying NYU Abu Dhabi as primary campus.",
+      "pakistan_specific_instruction": "Ensure applicant legal name matches Pakistani passport exactly."
+    },
+    {
+      "document_name": "Secondary School Transcripts (Grades 9-12)",
+      "mandatory": true,
+      "specification": "Official academic transcripts for Grades 9, 10, 11, and predicted/mid-year Grade 12 results.",
+      "pakistan_specific_instruction": "Matric/FSc mark sheets or O/A Level statement of results uploaded by school counselor."
+    },
+    {
+      "document_name": "Counselor Recommendation and School Report",
+      "mandatory": true,
+      "specification": "Official school profile and comprehensive recommendation letter from secondary school counselor.",
+      "pakistan_specific_instruction": "Must include grading scale explanation and class ranking where available."
+    },
+    {
+      "document_name": "Two Teacher Evaluation Letters",
+      "mandatory": true,
+      "specification": "Letters from academic teachers who taught core subjects in Grade 11 or 12.",
+      "pakistan_specific_instruction": "Submitted via Common App by Pakistani school faculty."
+    },
+    {
+      "document_name": "College Board CSS Profile and Tax Documentation",
+      "mandatory": true,
+      "specification": "Completed CSS Profile detailing household income and assets, with supporting tax returns submitted via IDOC.",
+      "pakistan_specific_instruction": "FBR tax returns, bank statements, or employer salary slips translated and uploaded."
+    },
+    {
+      "document_name": "English Proficiency Test Score Report",
+      "mandatory": true,
+      "specification": "TOEFL iBT (min 100), IELTS Academic (min 7.5), Duolingo English Test (min 130), or Cambridge C1/C2.",
+      "pakistan_specific_instruction": "Waiver granted if secondary schooling was in English medium."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Scanned copy of passport photo page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Pakistani passport must have validity extending into late 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "August 1",
+    "application_deadline": "November 1 (Early Decision 1) / January 1 (Early Decision 2) / January 5 (Regular Decision)",
+    "university_admission_deadline": "November 1 / January 1 / January 5",
+    "document_submission_deadline": "November 15 / January 15 / January 15",
+    "recommendation_letters_deadline": "November 15 / January 15 / January 15",
+    "interview_period": "Late November (ED1) / Mid-January (ED2) / Late February (RD) - Candidate Weekend",
+    "shortlist_announcement": "December 15 (ED1) / February 15 (ED2) / Late March (RD)",
+    "final_result_acceptance_deadline": "January 15 (ED1) / March 1 (ED2) / May 1 (RD)",
+    "visa_application_window": "May 1 - July 15",
+    "semester_commencement": "Late August",
+    "annual_cycle_notes": "Highly structured US admissions timeline. Early Decision (ED1/ED2) is binding and offers significantly higher acceptance rates than Regular Decision."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (High school transcript rigor, grades, and intellectual curiosity)",
+    "extracurricular_and_leadership_weight": "25% (Exceptional leadership, social initiatives, and national/international awards)",
+    "research_experience_weight": "5% (Olympiad/science fair projects where applicable)",
+    "work_experience_weight": "5% (Community engagement, internships, or entrepreneurship)",
+    "personal_statement_weight": "15% (Common App essay and NYU supplemental essay authenticity)",
+    "recommendations_weight": "10% (Counselor and teacher evaluations)",
+    "interview_weight": "5% (Candidate Weekend faculty and student interviews)",
+    "test_scores_weight": "0% (Test-optional policy)",
+    "financial_need_weight": "0% (Need-blind / meet-100%-of-need financial aid policy)",
+    "selection_panel_composition": "NYUAD Admissions Committee, Deans of Academic Divisions, and Global Undergraduate Admissions Board.",
+    "evaluation_methodology": "Holistic review assessing intellectual distinction, leadership promise, intercultural sensitivity, and community contribution."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~18,000 to 22,000 applicants globally competing for NYU Abu Dhabi",
+    "total_scholarships_awarded": "~400 to 500 undergraduate fellowship packages awarded annually",
+    "acceptance_rate_global": "~3.0% to 4.0%",
+    "acceptance_rate_pakistan": "~4.0% to 5.5% among elite applicants invited to Candidate Weekend",
+    "typical_successful_applicant_gpa": "Top 1-2% of graduating class, A*A*A in A-Levels, 92%+ in FSc/Matric, or SAT 1500+",
+    "typical_academic_and_research_profile": "World-class intellectual vitality combined with extraordinary extracurricular leadership (national debate champions, non-profit founders, Olympiad medalists).",
+    "common_backgrounds_of_winners": "Graduates of top Pakistani schools (Aitchison, KGS, Cedar, Nixor, Roots, Beaconhouse, LGS) and high-achieving public sector college students.",
+    "high_representation_countries": "USA, UAE, Pakistan, India, China, South Korea, Egypt, Jordan, Germany, Brazil.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of unauthorized agents claiming to sell admission or scholarship packages to NYU Abu Dhabi.",
+      "Applications are handled exclusively via Common App (commonapp.org) and nyuad.nyu.edu."
+    ],
+    "application_fee_warning": "Common App charges an USD 80 fee, but fee waivers are readily granted to international students demonstrating financial need. Never pay third-party agents.",
+    "agent_and_intermediary_warnings": "NYU does not work with commercial placement agencies or educational brokers under any circumstances.",
+    "hidden_costs_breakdown": [
+      "CSS Profile fee: USD 25 for first school, USD 16 per additional school (waivers available for qualifying low-income applicants).",
+      "Standardized testing fees if taking SAT (~USD 110) or IELTS/TOEFL (~PKR 60,000).",
+      "Attestation of educational records in Pakistan upon final admission (~PKR 25,000 to 35,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: NYUAD only awards scholarships to UAE nationals. Reality: Over 85% of NYUAD students are international from 120+ nations, and virtually all eligible internationals receive full need-based financial aid.",
+      "Myth: You cannot study abroad on the scholarship. Reality: The fellowship fully covers tuition and living stipends for up to 2 semesters at any NYU global site (New York, Paris, Florence, London, etc.) plus January Term travel."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial forums claim SAT scores are mandatory; NYU maintains a strict Test-Optional policy for all undergraduate applicants."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic progress (minimum cumulative GPA of 2.0 / 4.0 for Good Standing; competitive standing 3.0+).",
+    "attendance_requirements": "Full-time enrollment (minimum 12-16 credits per semester) and active campus participation.",
+    "academic_progress_monitoring": "Semester-end academic progress review by the Dean of Students and Academic Advising.",
+    "work_restrictions_during_study": "On-campus student employment permitted up to 20 hours per week during term; off-campus employment restricted under UAE student visa regulations.",
+    "home_country_return_obligation": "No mandatory return requirement; graduates are eligible for UAE Golden Visa (top university graduate category) or international careers globally.",
+    "service_obligations_or_bonds": "Zero service bond or repayment obligation attached to the fellowship.",
+    "repayment_clawback_conditions": "Aid terminated if student is dismissed for academic dishonesty, code of conduct violations, or unapproved withdrawal.",
+    "rules_for_changing_university": "Non-transferable to other non-NYU institutions.",
+    "rules_for_changing_major": "Students declare majors at the end of their second year; changing majors within NYUAD is fully permitted without loss of aid.",
+    "extension_policy": "Financial aid covers 8 consecutive semesters (4 years); medical or approved academic leaves are reviewed by the Financial Aid Committee."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "New York University Abu Dhabi Financial Aid & Scholarships Portal",
+      "source_url": "https://nyuad.nyu.edu/en/admissions/undergraduate/financial-aid.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "NYU Global Undergraduate Admissions",
+      "source_url": "https://www.nyu.edu/admissions/undergraduate-admissions.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "scholarship_id": "SCH-EU-059",
+  "basic_details": {
+    "scholarship_name": "Erasmus Mundus Joint Master in Applied Cybersecurity (CyberMACS)",
+    "offering_entity": "European Commission (EACEA) & CyberMACS Consortium (Kadir Has University, University of Bremen, University of Pristina)",
+    "host_country": "Europe (Turkey, Germany, Kosovo)",
+    "host_institutions_covered": "CyberMACS Consortium: Kadir Has University (Turkey - Year 1), University of Bremen (Germany - Year 2 Track), University of Pristina (Kosovo - Year 2 Track)",
+    "degree_levels": [
+      "Master of Science (MSc Joint / Double Degree)"
+    ],
+    "major_restrictions": "Applied Cybersecurity, Information Security, Network Security, Cryptography, Cloud Security, IoT Security, and Digital Forensics.",
+    "number_of_awards_total": "~20 to 25 fully funded Erasmus Mundus scholarships awarded annually to top global applicants",
+    "number_of_awards_pakistan": "Open globally; typically 2 to 4 Pakistani computer science and cybersecurity scholars selected annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "24 months (2-year joint Master's program)",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "€1,400 / month tax-free living allowance (~PKR 420,000 / month) for 24 months (€33,600 total living stipend), plus 100% full participation fee waiver (€18,000 total), worldwide health insurance, and full relocation support"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to applicants of all nationalities worldwide including Pakistan (Partner Country scholarship track)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "No statutory maximum age limit.",
+    "academic_qualifications": "Completed recognized 16-year Bachelor's degree (BSc / BS / BEng) in Computer Science, Software Engineering, Computer Engineering, Information Technology, or closely related field with minimum CGPA 3.00/4.00 (or equivalent 75% marks) from an HEC-recognized university.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum CGPA 3.00 / 4.00; competitive applicants typically hold CGPA >= 3.40 / 4.00 with solid programming foundations.",
+    "subject_background_prerequisites": "Computer networks, operating systems, algorithms, discrete mathematics, and computer architecture.",
+    "current_education_status": "Graduated or final-year undergraduate students completing degree requirements before July 31 of enrollment year.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Work experience or practical projects in ethical hacking, network defense, penetration testing, or CTF competitions are advantageous.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.5 (6.0 in all bands), TOEFL iBT minimum 80, PTE Academic minimum 60, or recognized English Medium of Instruction (MOI) certificate from an accredited degree-granting institution.",
+    "other_language_requirements": "None; 100% of the program is conducted in English across all partner universities.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates apply via the CyberMACS online portal and select 'Apply for Erasmus Mundus Scholarship'.",
+    "previous_scholarship_restrictions": "Previous recipients of an Erasmus Mundus Joint Master Degree (EMJMD) scholarship are ineligible.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full coverage of university tuition and participation fees across all consortium partner universities.",
+      "amount": "100% covered (€9,000 / year value; €18,000 total)"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Applying to CyberMACS is completely free of charge.",
+      "amount": "€0 (Free application)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized student dormitories arranged in Istanbul (Year 1) and Bremen/Pristina (Year 2) (approx. €250 to €450 / month), paid easily from living stipend.",
+      "amount": "Subsidized student housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Flat monthly living allowance of €1,400 / month (~PKR 420,000 / month) disbursed directly to student's European bank account for the entire 24-month duration.",
+      "amount": "€1,400 / month (€33,600 total)"
+    },
+    "airfare": {
+      "status": "SUBSIDIZED",
+      "details": "International mobility and travel expenses between host countries covered via the monthly €1,400 Erasmus Mundus allowance package.",
+      "amount": "Covered via €1,400/month stipend"
+    },
+    "visa_fee": {
+      "status": "SUBSIDIZED",
+      "details": "Consortium provides official visa support letters; visa fees paid from monthly living allowance.",
+      "amount": "Covered via monthly stipend"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full worldwide medical, travel, and accident insurance compliant with EACEA standards provided for 24 months.",
+      "amount": "100% covered EACEA comprehensive healthcare"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Affordable student dining across host campuses; monthly stipend easily covers all food expenses.",
+      "amount": "Covered via monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to specialized cyber ranges, penetration testing labs, hardware security platforms, and digital libraries.",
+      "amount": "100% covered cyber range & lab infrastructure access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Winter/Summer schools, industry internship placement, and master's thesis research with corporate security partners fully funded.",
+      "amount": "Fully funded seasonal schools & thesis placements"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Subsidized local transit passes (including German Semesterticket in Bremen) provided during study terms.",
+      "amount": "Subsidized regional transit"
+    },
+    "total_estimated_value_usd_per_year": 30000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple host institutions across Europe (CyberMACS Consortium).",
+    "participating_institutions": [
+      "Kadir Has University (Istanbul, Turkey - Year 1)",
+      "University of Bremen (Bremen, Germany - Year 2)",
+      "University of Pristina (Pristina, Kosovo - Year 2)"
+    ],
+    "university_rankings_scope": "Premier European cybersecurity consortium supported by the European Union Erasmus+ program.",
+    "available_majors": [
+      "Joint Master in Applied Cybersecurity (Security Architecture & Cryptography)",
+      "Joint Master in Applied Cybersecurity (Cloud & IoT Security - Bremen Track)",
+      "Joint Master in Applied Cybersecurity (Critical Infrastructure Defense - Pristina Track)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (Master of Science Joint/Double Degree)",
+    "admission_requirements_summary": "Bachelor's degree in CS/IT/Engineering with CGPA >= 3.00/4.00, academic transcripts, two letters of recommendation, motivation letter, CV, and English proficiency certificate (IELTS 6.5+ / TOEFL 80+ / MOI).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Consortium receives applications centrally; candidates are evaluated globally for Erasmus Mundus scholarship ranking.",
+    "strategic_program_match_advice": "Highlight hands-on technical projects: network packet analysis (Wireshark), cryptography implementations, vulnerability assessments, or CTF achievements."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://cybermacs.khas.edu.tr/",
+    "portal_system_name": "CyberMACS Online Application Portal",
+    "account_creation_instructions": "Register on the CyberMACS portal during open intake (November to January), fill out application form, select Erasmus Mundus scholarship track, upload credentials, and register recommenders.",
+    "step_by_step_workflow": [
+      "Step 1: Check admission prerequisites and required documents on cybermacs.khas.edu.tr.",
+      "Step 2: Register on CyberMACS application portal (open November).",
+      "Step 3: Complete online application and write motivation statement detailing cybersecurity interest.",
+      "Step 4: Upload transcripts, degree certificate, CV, and English proficiency proof.",
+      "Step 5: Register two academic referees who submit evaluation letters online.",
+      "Step 6: Consortium Academic Board evaluates applications and shortlists candidates.",
+      "Step 7: Shortlisted candidates participate in online technical interview via Zoom in February.",
+      "Step 8: Final scholarship results announced in March/April.",
+      "Step 9: Apply for visas and travel to Istanbul, Turkey in September for Year 1."
+    ],
+    "university_vs_scholarship_routing": "Integrated Consortium Route: Admission and Erasmus Mundus scholarship are evaluated together in a single application.",
+    "recommendation_letters_submission_method": "Submitted online by two academic referees via confidential email links generated by CyberMACS portal.",
+    "personal_statement_prompts": "Motivation Letter (max 1,000 words) describing your passion for cybersecurity, technical background, career goals, and how CyberMACS aligns with your ambitions.",
+    "study_plan_research_proposal_requirements": "Summary of final-year undergraduate project or technical cybersecurity portfolio.",
+    "cv_format_requirements": "Europass CV format detailing education, programming proficiencies, certifications (e.g. CEH, CompTIA), and publications.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview via Zoom conducted by Consortium Academic Committee evaluating networking, operating systems, and security concepts.",
+    "standardized_tests": "IELTS Academic 6.5+, TOEFL iBT 80+, PTE 60+, or official English Medium of Instruction (MOI) certificate accepted.",
+    "application_fee_amount": "€0 (Completely free to apply)",
+    "attestation_requirements": "Certified true copies of transcripts and degree certificates; HEC and MoFA attestations required for Pakistani credentials.",
+    "translation_requirements": "Certified official English translation for all non-English documents.",
+    "final_submission_method": "Online submission via CyberMACS portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificate",
+      "mandatory": true,
+      "specification": "Complete Bachelor's degree certificate and transcripts with grading scale and CGPA >= 3.00/4.00.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Motivation Letter",
+      "mandatory": true,
+      "specification": "Detailed essay (max 1,000 words) explaining technical background, cybersecurity interest, and career goals.",
+      "pakistan_specific_instruction": "Structured essay formatted in English."
+    },
+    {
+      "document_name": "Two Academic Reference Letters",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from university professors on institutional letterhead.",
+      "pakistan_specific_instruction": "Signed and stamped with official university seals."
+    },
+    {
+      "document_name": "English Language Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic 6.5+ (6.0 in all bands), TOEFL iBT 80+, or official MOI certificate.",
+      "pakistan_specific_instruction": "Official test report or MOI letter."
+    },
+    {
+      "document_name": "Europass Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Standard Europass CV detailing education, programming languages, security tools, and projects.",
+      "pakistan_specific_instruction": "Europass format."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "November 1",
+    "application_deadline": "January 15 (Strict annual Erasmus Mundus scholarship deadline)",
+    "university_admission_deadline": "January 15",
+    "document_submission_deadline": "January 15",
+    "recommendation_letters_deadline": "January 22",
+    "interview_period": "February",
+    "shortlist_announcement": "Mid March - Early April",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "May - July",
+    "semester_commencement": "September (Year 1 in Istanbul, Turkey)",
+    "annual_cycle_notes": "Single annual admission cycle for autumn intake; application call runs November to mid-January."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Bachelor's GPA, foundational computing grades, mathematics)",
+    "extracurricular_and_leadership_weight": "5% (Initiative, teamwork, problem-solving mindset)",
+    "research_experience_weight": "30% (Technical projects, cybersecurity portfolio, undergraduate thesis)",
+    "work_experience_weight": "10% (Practical industry internships, ethical hacking, or security roles)",
+    "personal_statement_weight": "10% (Quality, clarity, and technical coherence of motivation letter)",
+    "recommendations_weight": "5% (Academic referee evaluation)",
+    "interview_weight": "0% (Interview performance validates technical competence)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Need-blind pure merit evaluation)",
+    "selection_panel_composition": "CyberMACS Consortium Selection Board representing all three partner universities.",
+    "evaluation_methodology": "Two-tier holistic evaluation selecting top applicants globally based on academic merit and technical potential."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,200 to 1,600 global applicants for CyberMACS",
+    "total_scholarships_awarded": "~20 to 25 Erasmus Mundus scholarships annually",
+    "acceptance_rate_global": "~1.5% to 2.0%",
+    "acceptance_rate_pakistan": "~2.0% to 3.5% for applicants with strong computing foundations and CGPA >= 3.40",
+    "typical_successful_applicant_gpa": "Undergraduate CGPA >= 3.50 / 4.00, accompanied by strong practical security projects or certifications",
+    "typical_academic_and_research_profile": "Graduates in computer science, software engineering, or IT with solid coding skills in Python/C++ and practical network defense understanding.",
+    "common_backgrounds_of_winners": "Graduates from top Pakistani universities (FAST-NUCES, NUST, UET Lahore, COMSATS, GIKI, Quaid-i-Azam).",
+    "high_representation_countries": "Pakistan, India, Nigeria, Bangladesh, Turkey, Brazil, Egypt, Indonesia.",
+    "competitiveness_tier": "MOST_COMPETITIVE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portal cybermacs.khas.edu.tr.",
+      "Erasmus Mundus programs never charge application fees or work with private recruitment agents."
+    ],
+    "application_fee_warning": "Applying to CyberMACS is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Commercial agency written statements are disqualified; personal technical knowledge is tested during video interviews.",
+    "hidden_costs_breakdown": [
+      "Application fee: €0 (Free).",
+      "Turkish Student Visa fee in Pakistan: ~PKR 25,000.",
+      "German National Visa fee in Year 2: ~€75 (~PKR 23,000).",
+      "HEC document attestation in Pakistan: ~PKR 15,000.",
+      "One-way flight to Istanbul: ~PKR 100,000 to 140,000 (reimbursed via monthly stipend)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You need Turkish or German fluency. Reality: 100% of the program is conducted in English.",
+      "Myth: Work experience is mandatory. Reality: Fresh graduates with strong final-year projects are fully competitive."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sites cite old EMJMD travel grant rules; the new Erasmus Mundus model provides a flat €1,400/month stipend encompassing living, travel, and installation."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain satisfactory academic standing and pass all coursework modules (minimum 60 ECTS credits per year).",
+    "attendance_requirements": "Full-time physical attendance at designated consortium universities (Year 1 in Turkey; Year 2 in Germany or Kosovo).",
+    "academic_progress_monitoring": "Semester-by-semester credit evaluation by Consortium Joint Academic Committee.",
+    "work_restrictions_during_study": "Scholars may not engage in full-time commercial employment during the 24-month funded scholarship period.",
+    "home_country_return_obligation": "None; zero service bond or return obligation (scholars may pursue international doctorates or industrial careers).",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Scholarship is cancelled if candidate abandons studies or fails academic examinations across consecutive attempts.",
+    "rules_for_changing_university": "Mandatory mobility between partner institutions according to designated study tracks.",
+    "rules_for_changing_major": "Fixed curriculum in Applied Cybersecurity.",
+    "extension_policy": "Scholarship tenure is strictly 24 months; no extensions permitted."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "CyberMACS Erasmus Mundus Official Portal",
+      "source_url": "https://cybermacs.khas.edu.tr/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "European Commission Erasmus Mundus Catalogue",
+      "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

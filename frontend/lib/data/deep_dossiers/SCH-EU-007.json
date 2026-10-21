@@ -1,0 +1,263 @@
+{
+  "scholarship_id": "SCH-EU-007",
+  "basic_details": {
+    "scholarship_name": "Commonwealth Master's and PhD Scholarships (UK)",
+    "offering_entity": "Commonwealth Scholarship Commission in the UK (CSC) & UK Foreign, Commonwealth and Development Office (FCDO)",
+    "host_country": "United Kingdom",
+    "host_institutions_covered": "Participating UK Higher Education Institutions with CSC joint-funding agreements",
+    "degree_levels": [
+      "Master's",
+      "PhD"
+    ],
+    "major_restrictions": "Must align with one of six Commonwealth Development Themes: 1) Science and tech for development, 2) Health systems, 3) Global prosperity, 4) Peace and governance, 5) Resilience and crisis response, 6) Access and inclusion.",
+    "number_of_awards_total": "~800 scholars and fellows funded globally each year",
+    "number_of_awards_pakistan": "~25 to 40 awards for Pakistan annually via national nominating agencies",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "12 months for Master's; up to 36 months for PhD"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizen of or refugee in an eligible Commonwealth country (Pakistan is eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No upper age limit.",
+    "academic_qualifications": "Minimum upper second-class (2:1) first degree (16 years education for Master's); relevant Master's (18 years education) for PhD.",
+    "minimum_gpa_percentage": 65.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum 2:1 honours equivalent; HEC criteria typically require minimum 65% or 3.0/4.0 CGPA.",
+    "subject_background_prerequisites": "Course aligned with one of the 6 CSC development themes.",
+    "current_education_status": "Degree completed by start of UK academic year.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Work experience is not mandatory, but professional experience in development or research is heavily valued.",
+    "english_test_required": false,
+    "ielts_minimum": null,
+    "toefl_minimum": null,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "CSC does not require an English test directly; applicants must meet the individual English language conditions of their selected UK universities.",
+    "other_language_requirements": "None.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": true,
+    "special_eligibility_categories": "Candidates must sign a declaration confirming they could NOT afford to study in the UK without this scholarship.",
+    "previous_scholarship_restrictions": "Cannot have previously studied for 1+ academic years in a high-income country.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full approved university tuition fees covered under CSC agreement."
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "University application fees paid by applicant."
+    },
+    "accommodation": {
+      "status": "MONTHLY ALLOWANCE",
+      "details": "Provided within the monthly living stipend."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly living stipend paid directly by CSC.",
+      "amount": "£1,347 / month outside London; £1,652 / month inside London (~PKR 490,000 to 600,000)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Approved economy class air travel from Pakistan to the UK and return flight upon completion."
+    },
+    "visa_fee": {
+      "status": "REIMBURSED",
+      "details": "UK Student Route visa application fee reimbursed."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Access to NHS covered; immigration health surcharge handled via CSC exemption."
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Included in monthly living allowance."
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Study travel grant towards the cost of study-related travel in the UK or overseas.",
+      "amount": "Variable study travel grant"
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Fieldwork travel grant for PhD candidates to return to Pakistan for data collection."
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Warm clothing allowance (£500–£550) upon initial arrival in the UK.",
+      "amount": "£500 to £550 one-off"
+    },
+    "total_estimated_value_usd_per_year": 50000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Applicants may list up to 3 UK university course choices on their CSC application form.",
+    "participating_institutions": [
+      "UK Universities having part-funding agreements with CSC (Cambridge, Oxford, Imperial, Edinburgh, Manchester, Birmingham, Glasgow, Leeds, Sussex, etc.)"
+    ],
+    "university_rankings_scope": "UK top-ranked universities.",
+    "available_majors": [
+      "Development Studies",
+      "Public Health",
+      "Renewable Energy",
+      "Environmental Science",
+      "Agriculture",
+      "Data Science",
+      "Economics",
+      "Education"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "12 months for Master's; 36 months for PhD",
+    "admission_requirements_summary": "Undergraduate degree, personal statement, development impact plan, references.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Applicants do not need university admission at initial nomination, but must secure university offers before CSC final confirmation.",
+    "strategic_program_match_advice": "Explicitly align your course and proposal with the UN Sustainable Development Goals (SDGs) and Pakistani National Priorities."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/",
+    "portal_system_name": "CSC Online Application System (OAS) & HEC Pakistan Portal",
+    "account_creation_instructions": "Dual submission process: Apply on CSC OAS portal AND on HEC Pakistan scholarship portal.",
+    "step_by_step_workflow": [
+      "1. Apply via CSC OAS (opens September).",
+      "2. Apply via HEC Pakistan portal (scholarship.hec.gov.pk) under Commonwealth nominating category.",
+      "3. Take HEC HAT test (Higher Education Aptitude Test) organized by ETC Pakistan.",
+      "4. Upload Development Impact statements addressing local and national impact.",
+      "5. Two reference letters uploaded directly by referees to CSC OAS.",
+      "6. Submit both applications before respective deadlines (mid-October for CSC; October for HEC).",
+      "7. HEC screens applicants based on HAT scores and academic merit to create national nomination list.",
+      "8. Nominated candidates' applications sent to CSC UK for final central selection review.",
+      "9. CSC announces final awards in May/June.",
+      "10. Finalists secure unconditional university offers, obtain visas, and depart in September."
+    ],
+    "university_vs_scholarship_routing": "Dual routing: Nominated via HEC Pakistan to CSC UK; apply separately to UK universities.",
+    "recommendation_letters_submission_method": "Submitted online by referees directly via CSC OAS.",
+    "personal_statement_prompts": "Detailed Development Impact Statement in 4 parts: 1) Impact on development within 2 years, 2) Impact in 5-10 years, 3) How impact will be measured, 4) Relevance to national development priorities in Pakistan.",
+    "study_plan_research_proposal_requirements": "Comprehensive research proposal required for PhD applicants including methodology, ethics, and developmental significance.",
+    "cv_format_requirements": "Complete employment and education history in CSC OAS format.",
+    "interviews_conducted": false,
+    "interview_format_details": "CSC UK does not conduct interviews for general Master's/PhD; selection is 100% paper and dossier evaluation. HEC may conduct interviews for specific nominations.",
+    "standardized_tests": "HEC HAT test required in Pakistan for national shortlisting.",
+    "application_fee_amount": "£0.00 / PKR 0 to CSC (HEC charges nominal HAT test fee ~PKR 2,000).",
+    "attestation_requirements": "HEC attestation of degrees required prior to departure.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "Dual online portal submission (CSC OAS + HEC Portal)."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Pakistani Passport / Proof of Citizenship",
+      "mandatory": true,
+      "specification": "Scanned copy of valid passport information page",
+      "pakistan_specific_instruction": "Required to prove citizenship and residency"
+    },
+    {
+      "document_name": "Degree Transcripts & Certificates",
+      "mandatory": true,
+      "specification": "Complete university transcripts with grading key",
+      "pakistan_specific_instruction": "Must be recognized by HEC Pakistan"
+    },
+    {
+      "document_name": "Two Letters of Reference",
+      "mandatory": true,
+      "specification": "Submitted directly by referees on institutional letterhead",
+      "pakistan_specific_instruction": "Must be provided via online portal"
+    },
+    {
+      "document_name": "Development Impact Statement",
+      "mandatory": true,
+      "specification": "Exhaustive 4-part plan linking study to Pakistani socioeconomic growth",
+      "pakistan_specific_instruction": "Crucial scoring factor for CSC panel"
+    },
+    {
+      "document_name": "HEC HAT Test Score Card",
+      "mandatory": true,
+      "specification": "Valid Higher Education Aptitude Test result",
+      "pakistan_specific_instruction": "Mandatory for HEC Pakistan nomination shortlist"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Early September annually (e.g., 2026-09-08)",
+    "application_deadline": "Mid-October annually (e.g., 2026-10-17)",
+    "university_admission_deadline": "December - February following submission",
+    "document_submission_deadline": "Coincides with CSC deadline",
+    "recommendation_letters_deadline": "Late October",
+    "interview_period": "N/A (Dossier-based evaluation)",
+    "shortlist_announcement": "HEC nominations announced December; CSC final results announced May/June",
+    "final_result_acceptance_deadline": "June annually",
+    "visa_application_window": "July - August",
+    "semester_commencement": "September / October of departure year",
+    "annual_cycle_notes": "Being nominated by HEC does NOT guarantee the scholarship; CSC UK makes final selections based on global development scoring."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "33% (Academic merit of the candidate)",
+    "extracurricular_and_leadership_weight": "10% (Leadership and potential for influence)",
+    "research_experience_weight": "15% (Quality of study plan / research proposal)",
+    "work_experience_weight": "10% (Development-related professional exposure)",
+    "personal_statement_weight": "25% (Potential impact on the development of the home country)",
+    "recommendations_weight": "7% (Referee verification)",
+    "interview_weight": "0% (No interview)",
+    "test_scores_weight": "Screening filter via HEC HAT in Pakistan",
+    "financial_need_weight": "Gatekeeper requirement (declaration of inability to self-fund)",
+    "selection_panel_composition": "Independent panels of senior UK academic subject specialists appointed by CSC.",
+    "evaluation_methodology": "Scoring across 3 core criteria: 1) Academic merit, 2) Quality of study plan, 3) Potential development impact on the home country."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~15,000 to 20,000 applicants globally; ~2,000 in Pakistan",
+    "total_scholarships_awarded": "~800 globally; ~30 in Pakistan",
+    "acceptance_rate_global": "~4.0%",
+    "acceptance_rate_pakistan": "~1.5% (Highly Competitive)",
+    "typical_successful_applicant_gpa": "3.50 to 3.80 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Solid academic foundation with strong focus on poverty reduction, public health, climate, or sustainable industrialization.",
+    "common_backgrounds_of_winners": "Public sector researchers, university lecturers, civil servants, NGO workers, and environmental scientists.",
+    "high_representation_countries": "Pakistan, Nigeria, Kenya, Bangladesh, India.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Scam agencies charging 'nomination processing fees' claiming guaranteed HEC quotas. HEC and CSC applications are free/nominal."
+    ],
+    "application_fee_warning": "CSC charges NO application fee whatsoever.",
+    "agent_and_intermediary_warnings": "CSC applications must be submitted solely by the candidate.",
+    "hidden_costs_breakdown": [
+      "HEC HAT test registration fee (PKR 2,000).",
+      "IELTS/English test fees required by UK universities.",
+      "Tuberculosis screening certificate fee (IOM clinics PKR 15,000 to 20,000)."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: An HEC nomination guarantees a scholarship. (Fact: HEC nominates ~2x the quota; CSC UK rejects around 50% of national nominees during the final central review)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some third parties claim work experience is mandatory; official CSC rules do not require work experience for Master's courses."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain satisfactory academic progress as certified by the host institution.",
+    "attendance_requirements": "Full-time physical attendance in the UK.",
+    "academic_progress_monitoring": "Annual progress reports submitted by university supervisors to CSC.",
+    "work_restrictions_during_study": "Part-time employment allowed up to 20 hours/week under UK visa rules, subject to academic supervisor approval.",
+    "home_country_return_obligation": "MANDATORY Return: Must return to home country upon completion of the award. Ineligible for UK graduate work route visas.",
+    "service_obligations_or_bonds": "Agreement to return and apply skills to home country development.",
+    "repayment_clawback_conditions": "Failure to complete degree or failure to return to home country triggers repayment obligation.",
+    "rules_for_changing_university": "Changing institutions is not allowed without express prior permission from CSC.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "Extensions are rarely granted; PhD funding capped strictly at 36 months."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Commonwealth Scholarship Commission in the UK (CSC) - Official Masters Page",
+      "source_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact percentage cutoff of HEC HAT score required for Pakistan national nomination list",
+        "Score sheets of independent academic reviewers in the UK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "scholarship_id": "SCH-AM-013",
+  "basic_details": {
+    "scholarship_name": "Purdue University Computer Science Graduate Assistantship (GRA/GTA)",
+    "offering_entity": "Purdue University (West Lafayette, Indiana, USA) & Department of Computer Science / College of Engineering",
+    "host_country": "United States",
+    "host_institutions_covered": "Purdue University (West Lafayette Main Campus, Indiana, USA)",
+    "degree_levels": [
+      "Master of Science with Thesis (MS)",
+      "Doctoral / PhD"
+    ],
+    "major_restrictions": "Open to graduate research degrees in Computer Science and College of Engineering: Artificial Intelligence & Machine Learning, Computer Systems & Networking, Information Security (CERIAS), Software Engineering, Robotics, Database Systems, Computer Graphics & Visualization, and Electrical & Computer Engineering.",
+    "number_of_awards_total": "~120 to 150 Graduate Research Assistantships (GRA) and Graduate Teaching Assistantships (GTA) awarded annually to incoming and continuing graduate students",
+    "number_of_awards_pakistan": "Open international competition; Pakistani graduates in CS and EE compete actively (typically 4 to 8 assistantships awarded/yr)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Full duration of degree: up to 5 years for PhD; up to 2 years for MS Thesis, subject to satisfactory academic and research progress"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international and domestic applicants of all nationalities"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction.",
+    "academic_qualifications": "Completed 4-year Bachelor's degree (16 years education) in Computer Science, Software Engineering, Electrical Engineering, or Mathematics with minimum 3.50 / 4.00 CGPA (3.75+ competitive from recognized Pakistani universities like NUST, FAST-NUCES, LUMS, GIKI, UET, QAU).",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum undergraduate GPA of 3.5/4.00 required; 3.75+ recommended for PhD fellowship and assistantship consideration.",
+    "subject_background_prerequisites": "Rigorous coursework in Data Structures, Algorithms, Operating Systems, Computer Architecture, Discrete Mathematics, and Linear Algebra.",
+    "current_education_status": "Graduated or currently in final semester of undergraduate/master's degree graduating before August intake.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior research experience, publications in IEEE/ACM venues, open-source projects, and software internships significantly boost admission probability.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 80,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "TOEFL iBT min 80 (Writing 22, Speaking 18, Listening 14, Reading 19) or IELTS Academic min 6.5 (subscores 6.0+). Speaking score of 27+ TOEFL or 8.0 IELTS qualifies for immediate Teaching Assistantship eligibility."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Elite graduate researchers in Computer Science, AI, and Cybersecurity.",
+    "previous_scholarship_restrictions": "Must not hold an external fellowship that restricts working as a graduate assistant.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition waiver provided (out-of-state/international tuition ~$30,000/year waived; student pays minimal student fee of ~$300/semester).",
+      "amount": "100% covered (~$30,000 / year value; ~PKR 8,350,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Purdue Graduate School international application fee ($75) paid by applicant.",
+      "amount": "$75 (~PKR 21,000)"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Paid out of monthly assistantship stipend; on-campus graduate apartments or private apartments in West Lafayette/Lafayette (~$550 to $850/month).",
+      "amount": "Paid from stipend (~$600 to $850 / month)"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "GRA/GTA salary of $2,400 to $2,900 / month (~$24,000 to $32,000 / year; ~PKR 670,000 to 810,000 / month) provided as living support.",
+      "amount": "$24,000 to $32,000 / year (~PKR 6,680,000 to 8,900,000 / year)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Travel expenses to West Lafayette are self-funded.",
+      "amount": "Self-funded (~PKR 250,000 to 350,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "US F-1 Visa application fee ($185) and SEVIS I-901 fee ($350) paid by applicant to US Department of State.",
+      "amount": "$535 (~PKR 149,000)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Purdue Graduate Staff Medical Insurance Plan provides subsidized health, vision, and dental coverage (university pays ~85-90% of the premium; student pays ~$25/month).",
+      "amount": "~$2,400 / year value (~PKR 670,000)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Meals and groceries covered by monthly stipend (~$300 to $450/month).",
+      "amount": "Included in monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "PROVIDED_BY_FACULTY",
+      "details": "Research laboratories provide high-end GPU workstations, supercomputing access (RCAC clusters - Bell, Negishi), and software licenses.",
+      "amount": "Provided by department"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Department and supervising professor cover travel, registration, and lodging for presenting papers at premier conferences (e.g. NeurIPS, S&P, USENIX, SIGMOD).",
+      "amount": "Up to $2,500 per conference"
+    },
+    "travel_transit_allowance": {
+      "status": "100% COVERED",
+      "details": "CityBus public transit throughout West Lafayette and Lafayette is completely free for all Purdue students with student ID card.",
+      "amount": "$0 (Free local public transit)"
+    },
+    "total_estimated_value_usd_per_year": 58000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution (Purdue University, West Lafayette, Indiana - Top 20 CS Globally, Top 4 Engineering in USA)",
+    "participating_institutions": [
+      "Purdue University (Department of Computer Science, Lawson Computer Science Building)"
+    ],
+    "university_rankings_scope": "US News #18 in Computer Science, #4 in Engineering, World Top 50; home to the nation's first Computer Science department (founded 1962).",
+    "available_majors": [
+      "Computer Science (Machine Learning, Deep Learning, NLP)",
+      "Cybersecurity and Information Security (CERIAS)",
+      "Computer Systems, Operating Systems and Networks",
+      "Software Engineering and Programming Languages",
+      "Database Systems and Data Mining",
+      "Robotics, Autonomous Systems and Computer Vision",
+      "Theory of Computation and Algorithms",
+      "Electrical and Computer Engineering"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Doctor of Philosophy (PhD): 4 to 5 years; Master of Science (MS Thesis): 2 years.",
+    "admission_requirements_summary": "Bachelor's degree with 3.5+ CGPA, competitive GRE scores (Quantitative 164+ recommended), strong statement of purpose, 3 academic recommendation letters, and English test score.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "PhD applicants are universally considered for full funding (GRA/GTA/Fellowships); terminal coursework MS applicants rarely receive funding.",
+    "strategic_program_match_advice": "Apply directly to the PhD program if seeking full funding. Identify 2-3 specific Purdue CS faculty members whose research aligns with yours, reference their papers in your Statement of Purpose, and apply before the December 15 priority deadline."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.cs.purdue.edu/graduate/admission/index.html",
+    "portal_system_name": "Purdue Graduate School Online Application Portal (Slate)",
+    "account_creation_instructions": "Create an account on the Purdue Slate admissions portal, select 'Computer Science', choose degree objective (PhD or MS), and submit required documents.",
+    "step_by_step_workflow": [
+      "Step 1: Review faculty research areas on the Purdue CS website and select 3 faculty members of interest.",
+      "Step 2: Create a candidate account on the Purdue Slate application system.",
+      "Step 3: Upload unofficial transcripts from all universities attended.",
+      "Step 4: Upload your Statement of Purpose detailing research interests, previous projects, and faculty alignment.",
+      "Step 5: Provide contact emails for 3 academic referees who will submit letters of recommendation online.",
+      "Step 6: Submit official TOEFL/IELTS test scores and GRE scores (institutional code 1631).",
+      "Step 7: Pay the $75 application fee and submit the application before December 15 for priority funding review.",
+      "Step 8: Faculty admissions committee evaluates applications in January and February.",
+      "Step 9: Assistantship/Fellowship offer letters released via email in February and March.",
+      "Step 10: Formally accept the offer before the April 15 national decision deadline, receive Form I-20, and apply for US F-1 visa."
+    ],
+    "university_vs_scholarship_routing": "100% integrated: all PhD applicants are automatically considered for GRA, GTA, and Purdue Doctoral Fellowships with no separate application.",
+    "recommendation_letters_submission_method": "Three confidential reference letters submitted online by referees through the Slate portal.",
+    "personal_statement_prompts": "Statement of Purpose (1-2 pages): Detail your technical background, research accomplishments, why you want to study at Purdue, and specific faculty you wish to work with.",
+    "study_plan_research_proposal_requirements": "Not required as a standalone document; research goals and methodology are integrated into the Statement of Purpose.",
+    "cv_format_requirements": "Academic CV detailing publications, technical projects, open-source code, awards, GPA, and programming competencies.",
+    "interviews_conducted": true,
+    "interview_format_details": "Short technical/research interview (20-30 minutes via Zoom) conducted by interested faculty members prior to formal admission offers.",
+    "standardized_tests": "GRE General recommended (Quantitative 164+ competitive; verbal 154+). TOEFL iBT (80+, subscores required) or IELTS (6.5+).",
+    "application_fee_amount": "$75 (Purdue Graduate School application fee)",
+    "attestation_requirements": "Scanned unofficial transcripts uploaded at application; official HEC-attested transcripts and degree certificates required upon enrollment.",
+    "translation_requirements": "Certified English translations for all non-English documents.",
+    "final_submission_method": "100% online through Purdue Slate portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport identification page.",
+      "pakistan_specific_instruction": "Ensure name format matches educational documents."
+    },
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificate",
+      "mandatory": true,
+      "specification": "Complete transcripts of Bachelor's and Master's degrees showing all semester courses, credits, and grades.",
+      "pakistan_specific_instruction": "Higher Education Commission (HEC) Pakistan attested documents."
+    },
+    {
+      "document_name": "Statement of Purpose (SOP)",
+      "mandatory": true,
+      "specification": "1 to 2 page essay outlining technical background, research goals, and alignment with Purdue faculty.",
+      "pakistan_specific_instruction": "Mention 2-3 specific Purdue CS professors and their recent papers."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Academic CV detailing publications, research projects, technical skills, and honors.",
+      "pakistan_specific_instruction": "Highlight first-author papers, IEEE/ACM publications, and GitHub repositories."
+    },
+    {
+      "document_name": "Three Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential academic recommendation letters from professors who can evaluate research capability.",
+      "pakistan_specific_instruction": "Referees must submit from institutional email addresses."
+    },
+    {
+      "document_name": "Official English Proficiency Score Report",
+      "mandatory": true,
+      "specification": "Official TOEFL iBT (80+) or IELTS Academic (6.5+) report sent to institution code 1631.",
+      "pakistan_specific_instruction": "Aim for TOEFL speaking 27+ for direct GTA qualification."
+    },
+    {
+      "document_name": "Official GRE Score Report",
+      "mandatory": false,
+      "specification": "Official GRE General score report sent to institution code 1631.",
+      "pakistan_specific_instruction": "Competitive Quantitative score is 164+."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "1 September",
+    "application_deadline": "15 December (Strict priority deadline for Fall admission and funding consideration)",
+    "university_admission_deadline": "15 December",
+    "document_submission_deadline": "15 December",
+    "recommendation_letters_deadline": "15 December",
+    "interview_period": "January - February (Zoom interviews with prospective advisors)",
+    "shortlist_announcement": "February - March",
+    "final_result_acceptance_deadline": "15 April (Council of Graduate Schools national resolution deadline)",
+    "visa_application_window": "May - July (US F-1 visa processing at US Embassy Islamabad/Consulate Karachi)",
+    "semester_commencement": "Mid-August (Fall semester)",
+    "annual_cycle_notes": "Main intake starts in August (Fall semester). Applications submitted after 15 December are rarely considered for financial support."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Undergraduate/Master's GPA and performance in core CS/math coursework)",
+    "extracurricular_and_leadership_weight": "5% (Student leadership, mentoring)",
+    "research_experience_weight": "30% (Prior research publications, technical reports, and software project depth)",
+    "work_experience_weight": "5% (Industry software engineering or R&D experience)",
+    "personal_statement_weight": "15% (Statement of Purpose quality, clarity of research vision, and advisor match)",
+    "recommendations_weight": "10% (Faculty referee appraisals of independent research aptitude)",
+    "interview_weight": "Decisive factor during advisor interviews",
+    "test_scores_weight": "Threshold requirement (GRE/TOEFL compliance)",
+    "financial_need_weight": "0% (Exclusively merit and research capability based)",
+    "selection_panel_composition": "Purdue CS Graduate Admissions Committee and individual faculty principal investigators.",
+    "evaluation_methodology": "Two-phase review: The admissions committee first evaluates academic rigor, GPA, and test scores to establish an admissible pool. Individual faculty advisors then review applicant SOPs and portfolios to select research assistants for their labs, extending full GRA/GTA funding packages to admitted PhD candidates."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,500 to 3,500 applicants apply to Purdue CS graduate programs annually",
+    "total_scholarships_awarded": "~120 to 150 funded assistantships and fellowships awarded annually",
+    "acceptance_rate_global": "~5% to 8% for PhD with funding",
+    "acceptance_rate_pakistan": "~4% to 6% (Strong for top-tier graduates of FAST, NUST, LUMS, GIKI with research papers)",
+    "typical_successful_applicant_gpa": "3.80+ / 4.00 CGPA (85%+ aggregate, GRE Quantitative 165+)",
+    "typical_academic_and_research_profile": "Graduates with solid algorithmic foundations, published papers in conferences or journals, and clear research alignment with a Purdue faculty lab.",
+    "common_backgrounds_of_winners": "Graduates in Computer Science, Software Engineering, Electrical Engineering, and Applied Mathematics.",
+    "high_representation_countries": "USA, China, India, Pakistan, South Korea, Iran, Turkey.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Scam consultants promising guaranteed Purdue assistantships. Funding is awarded solely through the department and faculty research grants."
+    ],
+    "application_fee_warning": "Purdue Graduate School charges a legitimate $75 fee via the Slate portal. Never pay external handling fees.",
+    "agent_and_intermediary_warnings": "Do not use consultants to write your SOP. Admissions committees immediately detect outsourced or boilerplate statements.",
+    "hidden_costs_breakdown": [
+      "US F-1 Visa fee ($185) and SEVIS I-901 fee ($350).",
+      "Flight tickets between Pakistan and Chicago O'Hare / Indianapolis (~PKR 250,000 - 350,000).",
+      "Shuttle from Chicago O'Hare to West Lafayette (Reindeer Shuttle / Lafayette Limo ~$60 - $70).",
+      "Initial apartment security deposit (~$600 - $1,000) before first monthly stipend check."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: MS students receive guaranteed funding. (FACT: Coursework MS students are rarely funded; full assistantships are prioritized for PhD students).",
+      "CLAIM: You must have an MS to apply for a PhD. (FACT: Direct-entry PhD from a 4-year Bachelor's degree is common and fully supported)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party websites cite outdated stipend rates below $20,000; current Purdue CS base assistantship stipends range from $24,000 to $32,000/year."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.00 / 4.00 in all graduate coursework to remain in good standing.",
+    "attendance_requirements": "Full-time physical research and teaching duties (20 hours/week appointment) on the West Lafayette campus.",
+    "academic_progress_monitoring": "Annual progress review conducted by the graduate advisor and doctoral advisory committee.",
+    "work_restrictions_during_study": "Under US F-1 visa regulations, students may work a maximum of 20 hours/week on campus during academic semesters (covered completely by the 0.50 FTE assistantship).",
+    "home_country_return_obligation": "None. F-1 STEM graduates are eligible for 36 months of Optional Practical Training (OPT) in the United States post-graduation.",
+    "service_obligations_or_bonds": "None; scholars fulfill 20 hours/week of research or teaching assistantship duties.",
+    "repayment_clawback_conditions": "Assistantship funding is terminated if GPA falls below 3.00 or research performance is unsatisfactory; no clawback of past disbursed wages.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Requires approval from old and new departments.",
+    "extension_policy": "Assistantships are renewed annually subject to satisfactory progress and faculty grant availability, typically up to 5 years for PhD."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Purdue University Department of Computer Science - Graduate Financial Support Portal",
+      "source_url": "https://www.cs.purdue.edu/graduate/admission/financial-support.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact ratio of GRA vs GTA appointments awarded to first-year PhD students.",
+        "Departmental quota distribution between AI/ML and systems laboratories.",
+        "Internal GRE Quantitative score percentile cut-off."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "scholarship_id": "SCH-AS-082",
+  "basic_details": {
+    "scholarship_name": "Chulalongkorn University Graduate Scholarship for Non-ASEAN Countries",
+    "offering_entity": "Chulalongkorn University Graduate School & Office of International Affairs",
+    "host_country": "Thailand",
+    "host_institutions_covered": "Chulalongkorn University Main Campus (Pathumwan, Bangkok, Thailand)",
+    "degree_levels": [
+      "Master's Degree",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Faculty of Engineering, Faculty of Science, Faculty of Pharmaceutical Sciences, Faculty of Allied Health Sciences, Petroleum and Petrochemical College (PPC), and Chulalongkorn School of Integrated Innovation (ScII) - all international graduate degree programs.",
+    "number_of_awards_total": "~50 to 80 Graduate Scholarships for Non-ASEAN Countries awarded annually",
+    "number_of_awards_pakistan": "Open to non-ASEAN developing nations; typically 6 to 12 Pakistani researchers in engineering, petroleum, and health sciences selected annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years for Master's; up to 3 years for PhD",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "Monthly living stipend of THB 16,000 / month (~PKR 120,000 / month) plus 100% full tuition fee waiver, economy class round-trip airfare, and accommodation allowance of THB 7,000 / month at Chulalongkorn University International House (CU iHouse)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International graduate students from non-ASEAN countries (Pakistan fully eligible; ASEAN citizens apply under separate ASEAN track)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "Applicants must not be over 40 years of age at the time of application.",
+    "academic_qualifications": "Completed recognized 16-year Bachelor's degree (for Master's) with minimum CGPA 3.25/4.00, or completed recognized 18-year Master's degree (for PhD) with minimum CGPA 3.50/4.00 from an HEC-recognized university.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.25,
+    "grading_conversion_notes": "Minimum CGPA 3.25 / 4.00 for Master's; minimum CGPA 3.50 / 4.00 for PhD; competitive applicants typically hold CGPA >= 3.55 / 4.00.",
+    "subject_background_prerequisites": "Chemical engineering, petroleum engineering, electrical engineering, computer science, biomedical engineering, pharmaceutical sciences, chemistry, or materials science.",
+    "current_education_status": "Graduated or final-year undergraduate/master's students completing degree requirements before semester commencement.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior scientific publications in peer-reviewed journals provide a significant competitive advantage.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 79,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.0, TOEFL iBT minimum 79, CU-TEP minimum 75, or official English Medium of Instruction (MOI) certificate from an accredited degree-granting institution.",
+    "other_language_requirements": "Thai language proficiency is NOT required; all international degree programs are taught 100% in English.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants apply through their target Chulalongkorn faculty/program, which then nominates shortlisted candidates to the Office of International Affairs.",
+    "previous_scholarship_restrictions": "Cannot hold another concurrent scholarship or fellowship covering identical tuition and living costs.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver and special academic fees covered for standard degree duration at Chulalongkorn University.",
+      "amount": "100% covered (~THB 300,000 to 500,000 / year value; ~PKR 2,250,000 to 3,750,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Chulalongkorn faculty application processing fee of THB 1,000 paid during online portal submission.",
+      "amount": "THB 1,000 (~PKR 7,500)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Dedicated monthly accommodation allowance of THB 7,000 / month provided to cover room rental at Chulalongkorn University International House (CU iHouse).",
+      "amount": "THB 7,000 / month accommodation allowance"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living stipend of THB 16,000 / month (~PKR 120,000 / month) disbursed directly to the scholar's bank account.",
+      "amount": "THB 16,000 / month"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Economy-class round-trip international airfare between Pakistan and Bangkok Suvarnabhumi Airport provided by the scholarship.",
+      "amount": "100% covered round-trip international flights"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Thai Non-Immigrant ED Student Visa fee paid directly to the Royal Thai Embassy in Islamabad or Consulate in Karachi.",
+      "amount": "Approx. PKR 15,000 borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Chulalongkorn University Health Service Center healthcare and comprehensive group medical insurance plan.",
+      "amount": "100% covered medical insurance"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized cafeterias across Chulalongkorn campus, including certified halal dining options; meals cost THB 35 to 60.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to Chulalongkorn Central Library (Thailand's premier academic library), supercomputing resources, and national petrochemical testing centers.",
+      "amount": "100% covered library & laboratory access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Graduate School Overseas Presentation Grant supports international conference presentation of thesis research.",
+      "amount": "Up to THB 20,000 conference travel funding"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free CU Pop Bus (electric shuttle transit) connecting all campus faculties, CU iHouse, Siam BTS station, and Sam Yan MRT station.",
+      "amount": "Free campus electric shuttle network"
+    },
+    "total_estimated_value_usd_per_year": 21000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single Thailand #1 premier flagship comprehensive university (Chulalongkorn University - Chula).",
+    "participating_institutions": [
+      "Chulalongkorn University Main Campus (Pathumwan, Central Bangkok, Thailand)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #229 globally, #1 in Thailand for 15 consecutive years; world-renowned for chemical engineering, petroleum technology, medicine, and materials science.",
+    "available_majors": [
+      "Master's / PhD in Chemical Engineering",
+      "Master's / PhD in Petroleum and Petrochemical Technology (PPC)",
+      "Master's / PhD in Biomedical Engineering",
+      "Master's / PhD in Computer Science and Information Technology",
+      "Master's / PhD in Pharmaceutical Sciences and Technology",
+      "Master's / PhD in Materials Science and Engineering",
+      "Master's / PhD in Environmental Management"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 years",
+    "admission_requirements_summary": "Bachelor's / Master's degree with CGPA >= 3.25/4.00 (Master's) or 3.50/4.00 (PhD), academic transcripts, research proposal, two recommendation letters, medical certificate, and English proficiency test (IELTS 6.0+ / TOEFL 79+ / MOI).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Petroleum and Petrochemical College (PPC, partnered with Univ of Michigan and Univ of Oklahoma) and Faculty of Engineering are highly selective; contacting prospective supervisors in advance strongly aids faculty nomination.",
+    "strategic_program_match_advice": "Focus research proposals on polymer chemistry, sustainable petrochemicals, biomaterials, or green energy catalysis where Chulalongkorn leads Southeast Asia."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "http://www.academic.chula.ac.th/scholarship02.html & https://www.inter.chula.ac.th/",
+    "portal_system_name": "Chulalongkorn University International Graduate Scholarship Application System",
+    "account_creation_instructions": "Identify target international program, download Non-ASEAN scholarship application form, submit admission and scholarship dossier to the program coordinator/faculty by the deadline.",
+    "step_by_step_workflow": [
+      "Step 1: Check target international graduate program at Chulalongkorn University and contact program coordinator.",
+      "Step 2: Complete the Application Form for Graduate Scholarship Programme for Non-ASEAN Countries.",
+      "Step 3: Compile transcripts, degree certificates, research proposal, medical certificate, CV, and English test scores.",
+      "Step 4: Submit complete application dossier to the relevant Faculty/Program at Chulalongkorn University before the faculty deadline (typically February-March).",
+      "Step 5: Faculty evaluates academic credentials and conducts online technical interviews.",
+      "Step 6: Faculty selects top candidates and nominates them to the University Scholarship Committee.",
+      "Step 7: Office of International Affairs issues official award notification in May.",
+      "Step 8: Receive admission letter, apply for Thai Non-Immigrant ED Visa at Thai Embassy in Islamabad, and book flight provided by Chulalongkorn."
+    ],
+    "university_vs_scholarship_routing": "Integrated Faculty-to-University Route: Application submitted directly to target faculty, which screens applicants and forwards nominations to central university scholarship board.",
+    "recommendation_letters_submission_method": "Submitted as two confidential recommendation letters signed by university professors in sealed envelopes or sent directly via official institutional email.",
+    "personal_statement_prompts": "Statement of Purpose describing academic background, research interests, career vision, and why Chulalongkorn University is the desired destination.",
+    "study_plan_research_proposal_requirements": "Structured research proposal (2-4 pages) detailing problem formulation, methodology, literature review, and anticipated contributions.",
+    "cv_format_requirements": "Comprehensive academic CV detailing education, laboratory techniques, research publications, and awards.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview via Zoom conducted by prospective supervisor and departmental doctoral admission committee.",
+    "standardized_tests": "IELTS Academic 6.0+, TOEFL iBT 79+, CU-TEP 75+, or English Medium of Instruction (MOI) certificate accepted.",
+    "application_fee_amount": "THB 1,000 (approx. USD 30 / ~PKR 7,500)",
+    "attestation_requirements": "Certified true copies of transcripts and degree certificates; HEC and MoFA attestations recommended for Pakistani credentials.",
+    "translation_requirements": "Certified official English translation for all non-English documents.",
+    "final_submission_method": "Submission of application dossier to target faculty/program graduate office."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete Bachelor's / Master's degree certificates and transcripts with CGPA >= 3.25 (Master's) or 3.50 (PhD).",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Non-ASEAN Scholarship Application Form",
+      "mandatory": true,
+      "specification": "Official prescribed application form completed in English with passport-style photograph.",
+      "pakistan_specific_instruction": "Standard official Chulalongkorn template."
+    },
+    {
+      "document_name": "Detailed Statement of Purpose and Research Proposal",
+      "mandatory": true,
+      "specification": "2-4 page structured proposal outlining proposed research problem and methodology.",
+      "pakistan_specific_instruction": "Structured scholarly proposal."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from academic professors on institutional letterhead.",
+      "pakistan_specific_instruction": "Signed and stamped with official university seals."
+    },
+    {
+      "document_name": "Medical Certificate Form",
+      "mandatory": true,
+      "specification": "Official medical certificate completed and signed by an authorized physician within past 6 months.",
+      "pakistan_specific_instruction": "Issued by recognized hospital or diagnostic laboratory."
+    },
+    {
+      "document_name": "English Language Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic 6.0+, TOEFL iBT 79+, CU-TEP 75+, or official English Medium of Instruction (MOI) certificate.",
+      "pakistan_specific_instruction": "Score report or MOI letter."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV) and Passport Copy",
+      "mandatory": true,
+      "specification": "Academic resume and clear color copy of international passport bio-data page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "December 1",
+    "application_deadline": "February 28 (Faculty submission deadline for August intake)",
+    "university_admission_deadline": "February 28",
+    "document_submission_deadline": "February 28",
+    "recommendation_letters_deadline": "March 5",
+    "interview_period": "March - April",
+    "shortlist_announcement": "Mid May",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "June - July",
+    "semester_commencement": "August 1 (Fall intake)",
+    "annual_cycle_notes": "Single annual admission cycle for August intake; application deadline to faculties is strictly late February."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Prior CGPA, academic consistency in STEM fields)",
+    "extracurricular_and_leadership_weight": "5% (Teamwork, communication, and intercultural adaptability)",
+    "research_experience_weight": "35% (Research proposal rigor, engineering problem solving, and technical depth)",
+    "work_experience_weight": "5% (Professional engineering or laboratory experience)",
+    "personal_statement_weight": "5% (Clarity of vision and alignment with faculty priorities)",
+    "recommendations_weight": "5% (Academic referee evaluation)",
+    "interview_weight": "10% (Technical interview performance with prospective supervisor and faculty panel)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Purely merit-driven based on academic CGPA)",
+    "selection_panel_composition": "Faculty Graduate Committee, School Deans, and Chulalongkorn University Scholarship Selection Board.",
+    "evaluation_methodology": "Two-stage evaluation: departmental technical vetting of research alignment followed by central university award confirmation."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~800 to 1,200 non-ASEAN applicants across faculties",
+    "total_scholarships_awarded": "~50 to 80 Non-ASEAN scholarship awards annually",
+    "acceptance_rate_global": "~6.0% to 7.5%",
+    "acceptance_rate_pakistan": "~10.0% to 14.0% for candidates with strong engineering/science backgrounds and CGPA >= 3.55",
+    "typical_successful_applicant_gpa": "Undergraduate/Master's CGPA >= 3.55 / 4.00, accompanied by strong laboratory foundations",
+    "typical_academic_and_research_profile": "Graduates in chemical engineering, petroleum, materials, computing, or pharmaceutical sciences with solid research proposals.",
+    "common_backgrounds_of_winners": "Graduates from top Pakistani universities (NUST, UET Lahore, NED Karachi, Quaid-i-Azam, FAST-NUCES, COMSATS).",
+    "high_representation_countries": "Pakistan, India, Bangladesh, Nepal, Sri Lanka, Egypt, Nigeria, Russia, Turkey.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portals academic.chula.ac.th and inter.chula.ac.th.",
+      "Chulalongkorn does not work with third-party agents; all applications must be submitted directly to target faculties."
+    ],
+    "application_fee_warning": "Faculty application processing fee of THB 1,000 is paid directly through secure university banking channels.",
+    "agent_and_intermediary_warnings": "Commercial agency written proposals are rejected; applicants must write their own research proposals.",
+    "hidden_costs_breakdown": [
+      "Application fee: THB 1,000 (~PKR 7,500).",
+      "Thai Student Visa fee in Pakistan: ~PKR 15,000.",
+      "HEC document attestation in Pakistan: ~PKR 10,000 to 15,000.",
+      "Initial pocket money before first stipend cycle: ~THB 10,000 (~PKR 75,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Thai language is required. Reality: All international programs at Chulalongkorn are conducted 100% in English.",
+      "Myth: Flights are self-funded. Reality: The Non-ASEAN scholarship explicitly covers economy class round-trip international airfare."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sites suggest accommodation is not funded; the scholarship provides a dedicated THB 7,000/month accommodation allowance."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain minimum semester GPA of 3.25 out of 4.00 throughout degree study.",
+    "attendance_requirements": "Full-time physical research presence at Chulalongkorn campus; residence at CU iHouse or nearby university housing.",
+    "academic_progress_monitoring": "Semi-annual progress report evaluated by academic advisor and presented to Graduate School.",
+    "work_restrictions_during_study": "Scholars may not engage in outside employment during the study period.",
+    "home_country_return_obligation": "None; scholars are free to seek international careers, postdoc opportunities, or industrial employment globally upon graduation.",
+    "service_obligations_or_bonds": "Zero national service bond.",
+    "repayment_clawback_conditions": "Termination of scholarship if GPA falls below required standard or for academic misconduct.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Field of study cannot be changed after enrollment.",
+    "extension_policy": "Maximum tenure is 2 years (Master's) and 3 years (PhD); extensions are generally not funded by the scholarship."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Chulalongkorn University Graduate Scholarship for Non-ASEAN Countries",
+      "source_url": "http://www.academic.chula.ac.th/scholarship02.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Chulalongkorn University Office of International Affairs",
+      "source_url": "https://www.inter.chula.ac.th/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

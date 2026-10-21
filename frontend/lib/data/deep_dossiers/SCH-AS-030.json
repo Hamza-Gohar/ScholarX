@@ -1,0 +1,300 @@
+{
+  "scholarship_id": "SCH-AS-030",
+  "basic_details": {
+    "scholarship_name": "Fudan University Chinese Government Scholarship (CSC High-Level Postgraduate Program)",
+    "offering_entity": "China Scholarship Council (CSC) & Fudan University (School of Computer Science)",
+    "host_country": "China",
+    "host_institutions_covered": "Fudan University Handan & Jiangwan Campuses (Shanghai, China)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "School of Computer Science, Academy for Engineering & Technology, and School of Data Science: Computer Science and Technology, Software Engineering, Artificial Intelligence, and Big Data Systems.",
+    "number_of_awards_total": "~70 to 100 full CSC scholarship seats allocated to Fudan University across all postgraduate faculties annually",
+    "number_of_awards_pakistan": "Open global merit competition; Pakistani students secure ~6 to 12 fully funded seats annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2-3 years for Master's; up to 4 years for PhD, renewed annually through CSC Annual Review"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Non-Chinese citizens in good health holding a valid passport"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "CSC statutory age limits: under 35 years of age for Master's applicants; under 40 years of age for Doctoral applicants.",
+    "academic_qualifications": "A recognized 4-year Bachelor's degree (16 years education) for Master's; recognized Master's degree (18 years education) for PhD in Computer Science, Software Engineering, or related STEM field from an HEC-recognized university with high academic standing (minimum 80% aggregate or CGPA 3.40 / 4.00; competitive admits typically 3.65+ / 4.00).",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.4,
+    "grading_conversion_notes": "Transcripts are evaluated rigorously on mathematics and computing foundations; admissions committee looks for strong grades in algorithms, programming, and discrete math.",
+    "subject_background_prerequisites": "Substantial coursework in programming, data structures, algorithms, discrete mathematics, computer architecture, and linear algebra.",
+    "current_education_status": "Students in their final undergraduate or master's year can apply; degree completion certificate required before September registration.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior academic publications or strong final-year research thesis significantly enhance competitiveness.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "For English-taught programs: IELTS Academic min 6.5, TOEFL iBT min 90, or institutional English Medium of Instruction (MOI) certificate. For Chinese-taught programs: HSK Level 5 or 6 required.",
+    "other_language_requirements": "None for English-taught graduate streams. Basic Chinese language courses provided.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates apply through CSC Type B (University Program) using Fudan University agency code (10246). Pre-acceptance from a Fudan professor is strongly recommended.",
+    "previous_scholarship_restrictions": "Cannot hold another Chinese government or university scholarship simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% tuition waiver covering full postgraduate tuition fees (~CNY 30,000 to CNY 38,000 / year value).",
+      "amount": "100% covered (~CNY 34,000 / year; ~PKR 1,326,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Fudan University international student online application fee of CNY 800 paid online via credit card.",
+      "amount": "CNY 800 (~PKR 31,200)"
+    },
+    "accommodation": {
+      "status": "100% COVERED",
+      "details": "Free on-campus accommodation in Fudan Foreign Student Dormitory (Handan or Jiangwan campus) in a twin room (Master's) or single room (PhD); or a monthly housing subsidy of CNY 700 (Master's) / CNY 1,000 (PhD) if living off campus.",
+      "amount": "100% free dormitory room (~CNY 1,500 / mo value)"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Monthly living stipend provided by CSC: CNY 3,000 / month for Master's students (~USD 420 / month; ~PKR 117,000 / month); CNY 3,500 / month for PhD students (~USD 490 / month; ~PKR 136,500 / month) tax-free.",
+      "amount": "CNY 3,000 to 3,500 / month (~PKR 117,000 to 136,500 / mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel between Pakistan and Shanghai Pudong International Airport (PVG) is self-funded.",
+      "amount": "Self-funded (~PKR 180,000 to 280,000 round-trip value)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Chinese Student Visa (X1 Visa) application fee paid to Chinese Visa Application Service Center in Islamabad/Karachi (~PKR 12,000 to 16,000).",
+      "amount": "~PKR 14,000"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Comprehensive Medical Insurance Scheme for International Students in China (Ping An Insurance, CNY 800/year value) fully provided by CSC.",
+      "amount": "100% covered (CNY 800 / year value)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Subsidized campus canteens (Danzhong, Beiyuan, Jiangwan) offer diverse meals for CNY 15 to 25 per meal; covered comfortably from stipend.",
+      "amount": "Covered from monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "100% COVERED",
+      "details": "Full access to Fudan University Library system, Jiangwan compute clusters, and School of Computer Science laboratories.",
+      "amount": "Covered by university facilities"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Faculty research grants cover travel and registration for students presenting papers at academic conferences.",
+      "amount": "Covered by supervisor project grants"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Shanghai Metro and public transit card provides heavily subsidized transit throughout Shanghai (metro fares start at CNY 3).",
+      "amount": "Subsidized Shanghai public transit"
+    },
+    "total_estimated_value_usd_per_year": 16000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single leading Chinese C9 League research university: Fudan University (Shanghai, China)",
+    "participating_institutions": [
+      "Fudan University - School of Computer Science",
+      "Academy for Engineering and Technology (Jiangwan Campus)",
+      "Shanghai Key Laboratory of Intelligent Information Processing",
+      "Fudan Institute of Artificial Intelligence"
+    ],
+    "university_rankings_scope": "Top 40 global university (QS World #39, THE World #44); member of China's elite C9 League and Shanghai's premier research institution in AI, natural language processing (MOSS model), and data science.",
+    "available_majors": [
+      "Master / PhD in Computer Science and Technology",
+      "Master / PhD in Software Engineering",
+      "Master / PhD in Artificial Intelligence",
+      "Master / PhD in Data Science and Technology",
+      "Master / PhD in Information Security"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 to 3 years; PhD: 3 to 4 years full-time.",
+    "admission_requirements_summary": "4-year BS (for MS) or MS (for PhD) in CS/STEM with 3.4+ GPA, research proposal (1,000+ words), 2 recommendation letters from professors, CV, physical exam form, and IELTS 6.5+ or TOEFL 90+ or MOI certificate.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Natural Language Processing and Computer Vision labs are intensely competitive; Software Engineering, Data Systems, and Information Security offer slightly higher selection ratios for well-prepared applicants.",
+    "strategic_program_match_advice": "Connecting with a professor at Fudan's School of Computer Science and securing a preliminary Acceptance Letter before submitting the online application gives an immense competitive advantage in the CSC nomination ranking."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://istudent.fudan.edu.cn/apply/",
+    "portal_system_name": "Fudan University International Student Application Portal & CSC Portal",
+    "account_creation_instructions": "Submit applications on TWO portals: (1) CSC portal (campuschina.org) using Fudan Agency Code 10246 (Program Category B); (2) Fudan portal (istudent.fudan.edu.cn/apply), upload all documents, and pay the Fudan application fee.",
+    "step_by_step_workflow": [
+      "Step 1 (October - December): Explore research laboratories in Fudan School of Computer Science and email professors to secure a pre-acceptance letter.",
+      "Step 2 (CSC Portal): Register on campuschina.org, choose Category B, enter Agency Code 10246 (Fudan University), and complete the CSC form.",
+      "Step 3 (Fudan Portal): Register on istudent.fudan.edu.cn/apply, fill out the international graduate application, and select Chinese Government Scholarship.",
+      "Step 4 (Upload documents): Upload transcripts, degree certificates, study plan (1,000+ words), CV, 2 recommendation letters, Foreigner Physical Examination Form, and police clearance certificate.",
+      "Step 5 (By deadline): Pay CNY 800 application fee on the Fudan portal and submit before the January deadline.",
+      "Step 6 (February - March): School of Computer Science evaluates dossiers and conducts virtual technical interviews.",
+      "Step 7 (April - May): Fudan University nominates selected candidates to the China Scholarship Council for final approval.",
+      "Step 8 (June - July): Official admission packet and JW201 visa form dispatched; apply for Chinese X1 Visa."
+    ],
+    "university_vs_scholarship_routing": "Dual-portal application: Candidate must apply on the CSC portal (Agency Code 10246) AND the Fudan admissions portal simultaneously.",
+    "recommendation_letters_submission_method": "Two recommendation letters from professors or associate professors uploaded directly to both portals.",
+    "personal_statement_prompts": "Study Plan / Research Proposal (over 1,000 words) in English detailing academic background, research objectives, methodology, and why Fudan.",
+    "study_plan_research_proposal_requirements": "Structured research proposal outlining specific research questions, theoretical framework, methodology, and proposed supervisor alignment.",
+    "cv_format_requirements": "Detailed academic CV listing education, technical proficiencies, research publications, and capstone projects.",
+    "interviews_conducted": true,
+    "interview_format_details": "20-30 minute virtual technical interview via Tencent Meeting / Zoom conducted by the departmental admissions committee evaluating academic background and research motivation.",
+    "standardized_tests": "IELTS Academic (6.5+), TOEFL iBT (90+), or English Medium of Instruction (MOI) certificate. GRE is NOT required.",
+    "application_fee_amount": "CNY 800 (Non-refundable)",
+    "attestation_requirements": "Notarized copies of degree and transcripts uploaded; HEC attestation and MOFA attestation recommended for Pakistani credentials.",
+    "translation_requirements": "Notarized Chinese or English translations required for all non-English documents.",
+    "final_submission_method": "Dual digital submission via campuschina.org and istudent.fudan.edu.cn/apply."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Notarized Highest Degree Certificate",
+      "mandatory": true,
+      "specification": "Notarized copy of Bachelor's degree (for MS) or Master's degree (for PhD) certificate and official English translation.",
+      "pakistan_specific_instruction": "Pakistani applicants submit HEC-attested degree certificates; provisional certificate accepted for final-year students."
+    },
+    {
+      "document_name": "Notarized Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete consolidated semester transcripts detailing all completed course units, grades, and grading scale.",
+      "pakistan_specific_instruction": "Ensure transcript clearly states credit hours and grading scale (CGPA out of 4.0)."
+    },
+    {
+      "document_name": "Research Proposal / Study Plan",
+      "mandatory": true,
+      "specification": "Comprehensive research statement (over 1,000 words) in English detailing research objectives and methodology.",
+      "pakistan_specific_instruction": "Focus on computational research questions and cite target Fudan CS faculty papers."
+    },
+    {
+      "document_name": "Letters of Recommendation (Two)",
+      "mandatory": true,
+      "specification": "Two recommendation letters signed by full professors or associate professors detailing academic competence.",
+      "pakistan_specific_instruction": "Referees must be professors; include official institutional email and phone number."
+    },
+    {
+      "document_name": "Foreigner Physical Examination Form",
+      "mandatory": true,
+      "specification": "Completed official Chinese Foreigner Physical Examination Form with hospital stamp, physician signature, and lab reports.",
+      "pakistan_specific_instruction": "Must be completed at an accredited government hospital in Pakistan within 6 months of submission."
+    },
+    {
+      "document_name": "Non-Criminal Record Certificate (Police Clearance)",
+      "mandatory": true,
+      "specification": "Official police clearance certificate issued by local police authorities within 6 months.",
+      "pakistan_specific_instruction": "Obtain police character certificate from local district police office in Pakistan."
+    },
+    {
+      "document_name": "English Language Proficiency Certificate or MOI",
+      "mandatory": true,
+      "specification": "Official IELTS (6.5+), TOEFL (90+), or official Medium of Instruction (MOI) certificate from university registrar.",
+      "pakistan_specific_instruction": "Official English MOI letter from Pakistani university registrar is accepted for English-taught degrees."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Clear color copy of valid international passport bio-data page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Ensure passport is valid beyond intended program completion."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "15 October 2025",
+    "application_deadline": "15 January 2026 (Strict annual CSC Type B deadline)",
+    "university_admission_deadline": "15 January 2026",
+    "document_submission_deadline": "15 January 2026",
+    "recommendation_letters_deadline": "15 January 2026",
+    "interview_period": "February to March 2026",
+    "shortlist_announcement": "Late April to Mid-May 2026",
+    "final_result_acceptance_deadline": "Late June 2026",
+    "visa_application_window": "July to August 2026",
+    "semester_commencement": "Early September 2026",
+    "annual_cycle_notes": "Single annual intake for September. Strict 15 January deadline; applications on both portals must be finalized before this date."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Academic track record, undergraduate/master's GPA, mathematics and computing grades)",
+    "extracurricular_and_leadership_weight": "5% (Academic service, leadership, extracurricular distinctions)",
+    "research_experience_weight": "30% (Quality, depth, and originality of research proposal; prior publications; master's thesis)",
+    "work_experience_weight": "5% (Relevant software engineering or research lab experience)",
+    "personal_statement_weight": "10% (Clarity of purpose and institutional alignment with Fudan)",
+    "recommendations_weight": "10% (Credibility and depth of professor endorsements)",
+    "interview_weight": "5% (Technical video interview with departmental admissions committee)",
+    "test_scores_weight": "Threshold requirement (IELTS 6.5 / TOEFL 90 / MOI compliance)",
+    "financial_need_weight": "0% (Purely merit-based government scholarship)",
+    "selection_panel_composition": "Fudan School of Computer Science Admissions Committee, Graduate School, and China Scholarship Council.",
+    "evaluation_methodology": "Two-tier selection: Fudan faculty sub-committees evaluate and interview candidates, producing a prioritized nomination shortlist. The China Scholarship Council conducts final administrative review and issues formal scholarship approval."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "3,000+ international graduate applicants across Fudan University",
+    "total_scholarships_awarded": "~70 to 100 full CSC scholarship seats awarded university-wide",
+    "acceptance_rate_global": "~2.5% to 3.5% for full CSC scholarship recipients at Fudan",
+    "acceptance_rate_pakistan": "~4% to 6% among qualified Pakistani STEM applicants",
+    "typical_successful_applicant_gpa": "3.65+ / 4.00 CGPA (80%+ aggregate)",
+    "typical_academic_and_research_profile": "Undergraduate/Master's degree in CS/SE from premier university (FAST, NUST, LUMS, GIKI, UET, QAU), 1+ published research papers, strong research proposal, pre-acceptance from Fudan professor.",
+    "common_backgrounds_of_winners": "Graduates of NUST, FAST-NUCES, LUMS, GIKI, and UET Lahore.",
+    "high_representation_countries": "Pakistan, Russia, South Korea, United States, Germany, France, Thailand",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Commercial education recruiters charging large sums claiming guaranteed CSC scholarships at Fudan University. CSC applications are strictly free via campuschina.org."
+    ],
+    "application_fee_warning": "Fudan application fee is CNY 800 paid directly online. CSC portal application is 100% free. Never pay fees to external agents.",
+    "agent_and_intermediary_warnings": "Fudan University does not work with commercial recruiting agents. Direct personal application is mandatory.",
+    "hidden_costs_breakdown": [
+      "Fudan application fee: CNY 800 (~PKR 31,200).",
+      "Chinese X1 Visa fee: ~PKR 14,000.",
+      "Flight ticket from Pakistan to Shanghai: ~PKR 180,000 to 280,000.",
+      "Physical exam and police certificate costs in Pakistan: ~PKR 15,000."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: You must take HSK for all programs. (FACT: English-taught graduate programs require only IELTS/TOEFL/MOI; no Chinese language test required).",
+      "CLAIM: A pre-acceptance letter guarantees a scholarship. (FACT: Pre-acceptance is strongly helpful, but final selection is made by the university admissions committee and CSC)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some online blogs state that CSC scholarships pay for international flights. In reality, CSC Type B university scholarships do NOT cover international airfare."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must participate annually in the CSC Comprehensive Annual Review, maintaining good academic standing and passing all coursework.",
+    "attendance_requirements": "Full-time physical presence on campus in Shanghai.",
+    "academic_progress_monitoring": "Annual progress reviews and milestone evaluations submitted to the Graduate School and CSC.",
+    "work_restrictions_during_study": "International students may participate in university work-study programs or approved internships with university endorsement, but off-campus commercial employment is restricted.",
+    "home_country_return_obligation": "None. International graduates can seek employment in China under post-study work regulations or pursue post-doctoral fellowships.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "No clawback of previously awarded funds; failing the annual review results in suspension or cancellation of the scholarship.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Changing major requires joint approval from Fudan and CSC.",
+    "extension_policy": "Scholarship is granted for the nominal study period; extensions are rarely granted and require special CSC approval."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Fudan University International Students Office Official Portal",
+      "source_url": "https://iso.fudan.edu.cn/isoenglish/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Department-level CSC quota allocation between computer science and other STEM disciplines.",
+        "Country-level breakdown of scholarship awardees.",
+        "Internal ranking formula between interview performance and research proposal."
+      ]
+    },
+    {
+      "source_name": "China Scholarship Council (CSC) Official Portal",
+      "source_url": "https://www.campuschina.org/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Bilateral quota ceilings for South Asian partner nations.",
+        "Annual statutory adjustments to monthly living stipends."
+      ]
+    }
+  ]
+}

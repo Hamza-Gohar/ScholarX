@@ -1,0 +1,286 @@
+{
+  "scholarship_id": "SCH-EU-075",
+  "basic_details": {
+    "scholarship_name": "University College Dublin (UCD) Global Excellence Postgraduate Scholarship",
+    "offering_entity": "University College Dublin (UCD Global)",
+    "host_country": "Ireland",
+    "host_institutions_covered": "University College Dublin (Belfield Campus, Dublin)",
+    "degree_levels": [
+      "Master of Science (MSc / ME / MA)"
+    ],
+    "major_restrictions": "Eligible full-time taught Master's programmes in Computer Science, Information Systems, Data Analytics, Biotechnology, Electronic & Computer Engineering, and Finance.",
+    "number_of_awards_total": "~50 to 75 competitive Global Excellence Scholarships (100% and 50% tuition waivers) across UCD",
+    "number_of_awards_pakistan": "South Asia regional quota (~4 to 8 scholarships awarded to Pakistani master's students annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "12 months (1-year intensive Irish master's degree duration)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Non-EU/EEA international fee-paying applicants, including citizens of Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction under UCD admissions regulations.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (16-year BS / BSc / BE) from an HEC-recognized university with high first-class honors (minimum CGPA 3.50 / 4.00 or 78%+ equivalent to Irish First Class Honours 1.1).",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum CGPA 3.50 / 4.00; competitive 100% scholarship winners typically hold CGPA >= 3.75 / 4.00.",
+    "subject_background_prerequisites": "Undergraduate degree in Computer Science, Software Engineering, Electrical Engineering, Biotechnology, or relevant quantitative field with unconditional or conditional admission offer from UCD.",
+    "current_education_status": "Must hold an active offer of admission to an eligible full-time UCD graduate taught programme before applying for the scholarship.",
+    "graduation_year_restrictions": "No restriction on year of graduation.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Professional experience, internships, or published papers strengthen competitive scholarship evaluation.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": true,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 (no band below 6.0), TOEFL iBT minimum 90 (no section below 20), or Duolingo English Test (DET) minimum 120. MOI certificates are not accepted.",
+    "other_language_requirements": "No other language requirement; instruction is 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Merit-based excellence award evaluating academic record, global leadership, and personal scholarship essay.",
+    "previous_scholarship_restrictions": "Cannot be combined with another UCD tuition scholarship or Irish Government GOI-IES scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for the 1-year master's program (worth up to EUR 29,100 in Computer Science/Data Analytics).",
+      "amount": "100% Full Tuition Waiver (up to EUR 29,100 value)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Standard online application fee of EUR 60 payable via UCD Applications portal.",
+      "amount": "EUR 60 non-refundable application fee"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized on-campus student residences at Belfield campus prioritized for international excellence scholars.",
+      "amount": "Subsidized on-campus residence priority"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "EUR 1,000 / month living stipend (~PKR 305,000 / month) provided through combined faculty bursary and departmental sponsorship.",
+      "amount": "EUR 1,000 / month (~PKR 305,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International airfare from Pakistan to Dublin is borne by the candidate.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Irish Student Visa (Study Visa) processing fee (~EUR 60 single entry or EUR 100 multi-entry) and IRP card registration fee (EUR 300).",
+      "amount": "EUR 360-400 visa & Irish Residence Permit (IRP) fees"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Mandatory Irish private health insurance covered for international students.",
+      "amount": "100% Private Irish medical insurance covered"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized meals across UCD campus dining halls, student cafes, and Belfield kitchen facilities.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full digital access to UCD James Joyce Library and university scientific repositories.",
+      "amount": "Full university library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Master thesis project computing resources, GPU clusters, and UCD Innovation Academy workshops.",
+      "amount": "Full AI / computing lab access"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized Dublin Bus, Luas, and DART transit via Student Leap Card.",
+      "amount": "Subsidized Dublin Student Leap transit"
+    },
+    "total_estimated_value_usd_per_year": 35000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (University College Dublin - UCD, Dublin, Ireland).",
+    "participating_institutions": [
+      "University College Dublin (UCD)"
+    ],
+    "university_rankings_scope": "Top 1% university globally; #1 in Ireland for graduate employability (QS World University Rankings).",
+    "available_majors": [
+      "MSc in Computer Science (Negotiated Learning / Conversion)",
+      "MSc in Data & Computational Science",
+      "MSc in Information Systems & Digital Innovation",
+      "MSc in Electronic & Computer Engineering",
+      "MSc in Biotechnology & Biomolecular Science",
+      "MSc in Quantitative Finance"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 year (12 months full-time, 90 ECTS)",
+    "admission_requirements_summary": "Bachelor degree with CGPA >= 3.50 / 4.00, IELTS 6.5+ or TOEFL 90+ / DET 120+, CV, academic transcripts, two reference letters, and UCD admission offer.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Must hold an offer (conditional or unconditional) before the scholarship application window closes on February 28.",
+    "strategic_program_match_advice": "Focus scholarship essay on demonstrating how UCD study enables you to act as an international ambassador and solve concrete industrial challenges."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.ucd.ie/apply/",
+    "portal_system_name": "UCD Applications Portal & UCD Global Scholarship System",
+    "account_creation_instructions": "Step 1: Apply for an eligible master's programme at UCD via ucd.ie/apply and secure an offer. Step 2: Access the Global Excellence Scholarship application form in the portal and submit the 3 prescribed scholarship essay questions.",
+    "step_by_step_workflow": [
+      "Step 1: Apply online for your chosen full-time master's degree at UCD by December/January and receive an offer.",
+      "Step 2: Log into your UCD Applications portal and locate the 'Global Excellence Scholarship' section.",
+      "Step 3: Answer the three mandatory scholarship essay prompts (academic achievements, future ambitions, and role as UCD global ambassador).",
+      "Step 4: Upload supporting certificates, honors, or leadership credentials before February 28.",
+      "Step 5: UCD Regional Scholarship Committees and Faculty Panels review and rank applications in March.",
+      "Step 6: Scholarship decisions communicated in early April.",
+      "Step 7: Accept scholarship award within the specified deadline (usually 2 weeks) and pay deposit if required to secure place.",
+      "Step 8: Apply for Irish Student Study Visa at Irish Embassy / VFS Global in Islamabad/Karachi."
+    ],
+    "university_vs_scholarship_routing": "Separate Routing: Candidates must first secure admission to UCD, then submit the Global Excellence Scholarship application within the portal.",
+    "recommendation_letters_submission_method": "Submitted online by academic referees as part of the initial UCD graduate application.",
+    "personal_statement_prompts": "Three specific scholarship essay prompts: (1) Academic and extracurricular achievements, (2) Career aspirations, (3) How you will contribute as a UCD Student Ambassador.",
+    "study_plan_research_proposal_requirements": "Integrated within program admission statement.",
+    "cv_format_requirements": "Standard academic/professional CV detailing qualifications, work history, coding languages, and extracurriculars.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interview; awards decided on academic excellence and the quality of the three scholarship essays.",
+    "standardized_tests": "IELTS 6.5+ (min 6.0 each), TOEFL iBT 90+ (min 20 each), or Duolingo 120+.",
+    "application_fee_amount": "EUR 60 (course application fee; scholarship application is free)",
+    "attestation_requirements": "HEC degree attestation required for Pakistani applicants.",
+    "translation_requirements": "Certified English translation for all official records.",
+    "final_submission_method": "Online submission via UCD Applications portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor Degree Certificate",
+      "mandatory": true,
+      "specification": "HEC-attested undergraduate degree in Computer Science, Engineering, Sciences, or Finance.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Official semester-by-semester transcripts showing all subjects, grades, and CGPA (min 3.50 / 4.00).",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "UCD Master's Offer Letter",
+      "mandatory": true,
+      "specification": "Proof of conditional or unconditional admission offer to an eligible UCD full-time master's program.",
+      "pakistan_specific_instruction": "Issued by UCD Admissions."
+    },
+    {
+      "document_name": "Three Global Excellence Scholarship Essays",
+      "mandatory": true,
+      "specification": "Answers to the three prescribed prompts (max 300 words each) demonstrating excellence, leadership, and ambassadorship.",
+      "pakistan_specific_instruction": "Craft compelling answers aligned with UCD's global community."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Detailed CV highlighting academic honors, tech projects, and leadership roles.",
+      "pakistan_specific_instruction": "Professional layout."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential referee appraisals submitted via the UCD online system.",
+      "pakistan_specific_instruction": "On official institutional letterhead."
+    },
+    {
+      "document_name": "English Language Test Scorecard",
+      "mandatory": true,
+      "specification": "Official IELTS (min 6.5), TOEFL iBT (min 90), or Duolingo (min 120) certificate.",
+      "pakistan_specific_instruction": "Valid test report form."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-01",
+    "application_deadline": "2027-02-28",
+    "university_admission_deadline": "2027-02-15",
+    "document_submission_deadline": "2027-02-28",
+    "recommendation_letters_deadline": "2027-02-28",
+    "interview_period": "None (No interviews conducted)",
+    "shortlist_announcement": "Late March 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "2027-09-06",
+    "annual_cycle_notes": "Scholarship applications strictly close February 28; applicants must hold a programme offer before applying."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "50% (Undergraduate CGPA and transcript rigor)",
+    "extracurricular_and_leadership_weight": "15% (Leadership track record, extracurricular innovation, and community service)",
+    "research_experience_weight": "10% (Quality of final year project or research output)",
+    "work_experience_weight": "5% (Industry internships or software development experience)",
+    "personal_statement_weight": "20% (Quality, articulation, and vision demonstrated in the three scholarship essays)",
+    "recommendations_weight": "0% (Verification of credentials)",
+    "interview_weight": "0% (No interview conducted)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure academic excellence evaluation)",
+    "selection_panel_composition": "UCD Global Scholarship Committee and Faculty Academic Review Panels.",
+    "evaluation_methodology": "Competitive multi-stage assessment scoring academic merit and essay responses."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,500 to 3,500 international applicants across UCD master's programmes",
+    "total_scholarships_awarded": "~50 to 75 full and partial scholarships across the university",
+    "acceptance_rate_global": "~2.5%",
+    "acceptance_rate_pakistan": "~3% to 5% for applicants with CGPA >= 3.70 and strong essay profiles",
+    "typical_successful_applicant_gpa": "3.80 / 4.00 (Irish First Class Honours equivalent)",
+    "typical_academic_and_research_profile": "Graduates in computing, data science, engineering, or life sciences with top honors and proven community leadership.",
+    "common_backgrounds_of_winners": "Graduates from NUST, FAST-NUCES, LUMS, IBA Karachi, and UET Lahore.",
+    "high_representation_countries": "Pakistan, India, Nigeria, United States, Canada, China, Turkey.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portal https://www.ucd.ie/apply/.",
+      "Beware of consultancies claiming to guarantee UCD Global Excellence awards."
+    ],
+    "application_fee_warning": "UCD course application requires EUR 60; scholarship application itself has no additional fee.",
+    "agent_and_intermediary_warnings": "UCD does not consider third-party agency endorsement in scholarship scoring; essays must be authored independently.",
+    "hidden_costs_breakdown": [
+      "Course application fee: EUR 60.",
+      "Irish Study Visa fee: EUR 60 (single entry) or EUR 100 (multi-entry).",
+      "Irish Residence Permit (IRP) card: EUR 300.",
+      "Dublin rental deposit: approx. EUR 800 - 1,200.",
+      "Flight from Pakistan to Dublin: ~PKR 170,000 to 240,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You can apply for the scholarship without having an offer. Reality: The scholarship application form is only unlocked once an offer of admission is granted in the portal.",
+      "Myth: Post-study work is difficult in Ireland. Reality: Ireland grants a 2-year Third Level Graduate Scheme (stamp 1G visa) allowing graduates to work full-time in Ireland's thriving tech hub."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sources claim MOI is accepted; UCD strictly requires valid IELTS, TOEFL, or Duolingo score reports."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain good academic standing throughout the 1-year master's programme.",
+    "attendance_requirements": "Mandatory full-time attendance; participation in UCD Global Student Ambassador activities.",
+    "academic_progress_monitoring": "Continuous assessment and semester examination board reviews.",
+    "work_restrictions_during_study": "Part-time work permitted up to 20 hours per week during term time and 40 hours per week during university holidays.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Act as a UCD Global Student Ambassador representing the university at international student events.",
+    "repayment_clawback_conditions": "Revocation of scholarship if student ceases registration or violates student code of conduct.",
+    "rules_for_changing_university": "Non-transferable to other Irish universities.",
+    "rules_for_changing_major": "Subject change permitted only with approval from College Principal and UCD Global.",
+    "extension_policy": "Strictly limited to the 1-year duration of the taught master's programme."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "UCD Global Scholarships Portal",
+      "source_url": "https://www.ucd.ie/global/scholarships/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "UCD Graduate Admissions",
+      "source_url": "https://www.ucd.ie/apply/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

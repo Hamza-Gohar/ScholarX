@@ -1,0 +1,288 @@
+{
+  "scholarship_id": "SCH-AS-001",
+  "basic_details": {
+    "scholarship_name": "Chinese Government Scholarship (CSC Type A - Bilateral Program via HEC)",
+    "offering_entity": "Ministry of Education of the People's Republic of China / China Scholarship Council (CSC) & HEC Pakistan",
+    "host_country": "China",
+    "host_institutions_covered": "Accredited Chinese 'Double First-Class' Universities (Tsinghua, Peking, Zhejiang, Fudan, Shanghai Jiao Tong, Harbin IT, USTC, Beihang, Wuhan University, etc.)",
+    "degree_levels": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "major_restrictions": "Open to all disciplines: Engineering, Computer Science, Artificial Intelligence, Medicine, Natural Sciences, Agriculture, Economics, Management, Humanities.",
+    "number_of_awards_total": "~10,000 bilateral awards distributed across 180+ partner nations globally",
+    "number_of_awards_pakistan": "~200 to 300 bilateral quota awards reserved exclusively for Pakistani students annually via HEC",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Bachelor's: 4-5 years; Master's: 2-3 years; PhD: 3-4 years (includes 1 year preparatory Chinese if applicable)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of the Islamic Republic of Pakistan in good physical and mental health"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 25,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "Bachelor's: Under 25 years; Master's: Under 35 years; PhD: Under 40 years of age.",
+    "academic_qualifications": "High school certificate (HSSC/A-Levels) for BS; 16-year Bachelor's for Master's; 18-year MS/MPhil for PhD from HEC-recognized institutions.",
+    "minimum_gpa_percentage": 65.0,
+    "minimum_gpa_scale": 2.8,
+    "grading_conversion_notes": "Minimum 2.8/4.0 CGPA or 65% marks; competitive candidates typically possess 3.2+ CGPA.",
+    "subject_background_prerequisites": "Academic background aligned with intended Chinese university department.",
+    "current_education_status": "Graduated; result-awaiting students must receive final transcript before Chinese university enrollment in September.",
+    "graduation_year_restrictions": "None specified.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; research publications strongly preferred for PhD applicants.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 80,
+    "duolingo_accepted": true,
+    "moi_certificate_accepted": true,
+    "language_notes": "For English-taught programs: IELTS 6.0+, TOEFL 80+, or English Medium of Instruction (MOI) certificate from Pakistani university. For Chinese-taught programs: HSK Level 4 for BS, HSK Level 5 for MS/PhD.",
+    "other_language_requirements": "HSK certificate required for Chinese-medium degrees; 1 year Chinese language prep provided if admitted to Chinese-taught track.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Must be nominated through the Higher Education Commission (HEC) of Pakistan under Agency Number 5861.",
+    "previous_scholarship_restrictions": "Current recipients of other Chinese government scholarships cannot hold concurrent awards.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full tuition fee waiver for the entire duration of undergraduate or postgraduate studies."
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Waived under bilateral government agreement when applying via Type A (HEC)."
+    },
+    "accommodation": {
+      "status": "FREE DORMITORY",
+      "details": "Free university dormitory accommodation on campus (single room for PhD, double room for Master's/Undergrad) OR monthly housing subsidy."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly living stipend paid directly by host university.",
+      "amount": "RMB 2,500/mo (BS), RMB 3,000/mo (MS), RMB 3,500/mo (PhD) (~PKR 100,000 to 140,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International airfare between Pakistan and China is NOT covered by CSC Type A (must be borne by the student or HEC)."
+    },
+    "visa_fee": {
+      "status": "WAIVED",
+      "details": "X1 Chinese Student Visa fee waived or issued at concessionary rate upon presentation of official JW201 form."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive Medical Insurance Scheme for International Students in China (RMB 800/year value) covering hospitalization and accidental injury."
+    },
+    "food_allowance": {
+      "status": "INCLUDED IN STIPEND",
+      "details": "Subsidized meals widely available at on-campus university canteens."
+    },
+    "books_and_materials_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Covered via monthly stipend or campus library privileges."
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Funded through Chinese supervising professor's national research grants (NSFC)."
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Domestic transit in China to university city covered by student."
+    },
+    "total_estimated_value_usd_per_year": 18000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Applicants may select up to THREE target Chinese universities and disciplines in priority order on the CSC portal.",
+    "participating_institutions": [
+      "Tsinghua University, Peking University, Zhejiang University, Fudan University, Shanghai Jiao Tong, Harbin Institute of Technology, USTC, Beihang, Wuhan, Xi'an Jiaotong"
+    ],
+    "university_rankings_scope": "Top 1 to 50 in China; QS World Top 500.",
+    "available_majors": [
+      "Artificial Intelligence",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Computer Science",
+      "Materials Science",
+      "Clinical Medicine",
+      "Biotechnology",
+      "International Trade",
+      "Renewable Energy"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Bachelor's: 4-5 years; Master's: 2-3 years; PhD: 3-4 years",
+    "admission_requirements_summary": "Online CSC + HEC forms, transcripts, physical exam form, police clearance, 2 recommendation letters, study plan.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Securing a Pre-Admission Letter or Supervisor Acceptance Letter from a Chinese university professor beforehand exponentially increases selection chances for Tsinghua/Peking/Zhejiang.",
+    "strategic_program_match_advice": "Contact prospective Chinese supervisors in October/November with a strong CV and research proposal to secure an official Acceptance Letter before the HEC/CSC deadline."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.campuschina.org/",
+    "portal_system_name": "Chinese Government Scholarship Information System (CSC Portal) & HEC Pakistan Portal",
+    "account_creation_instructions": "MANDATORY DUAL APPLICATION: 1) Apply on CSC portal under Program Category 'Type A' using HEC Agency Number 5861; AND 2) Apply on HEC Scholarship portal (scholarship.hec.gov.pk).",
+    "step_by_step_workflow": [
+      "1. Search eligible universities and contact Chinese professors to request an Acceptance Letter.",
+      "2. Complete the Foreigner Physical Examination Form (with blood tests) and obtain Police Clearance Certificate.",
+      "3. Register on CSC portal (campuschina.org), select Program Category 'Type A', Agency Number 5861 (HEC).",
+      "4. Upload degree transcripts, study plan, 2 recommendation letters, physical exam, and police certificate.",
+      "5. Register on HEC portal (scholarship.hec.gov.pk) and submit application under Chinese Government Scholarship.",
+      "6. Take HEC USAT (Undergrad) or HEC HAT (Postgrad) test organized by ETC Pakistan.",
+      "7. HEC prepares national merit list based on academic formula + HAT/USAT score.",
+      "8. HEC sends top nominated dossiers to CSC Beijing in February/March.",
+      "9. CSC and Chinese universities review files and issue final admissions (June/July).",
+      "10. Universities issue official Admission Notice and JW201 Visa Form to HEC for dispatch to scholars.",
+      "11. Apply for Chinese X1 Visa at Chinese Embassy/Consulate in Pakistan and depart in August/September."
+    ],
+    "university_vs_scholarship_routing": "Integrated routing: Nominated via HEC Pakistan under Type A; CSC places candidate in one of their 3 choices.",
+    "recommendation_letters_submission_method": "Uploaded directly to the CSC and HEC portals by applicant (must be signed by full professors or associate professors).",
+    "personal_statement_prompts": "Study Plan / Research Proposal (minimum 500 words for undergrad, 800 words for postgrad, 1000+ words for PhD): Academic background, research questions, why China, and career plans.",
+    "study_plan_research_proposal_requirements": "PhD applicants must write a comprehensive research proposal endorsed by a Chinese prospective supervisor.",
+    "cv_format_requirements": "Standard academic CV.",
+    "interviews_conducted": false,
+    "interview_format_details": "Generally paper-based evaluation; some individual Chinese university professors conduct a 15-minute video interview on WeChat/Zoom before issuing an acceptance letter.",
+    "standardized_tests": "HEC HAT test (for MS/PhD) or HEC USAT (for BS) required for Pakistan national nomination.",
+    "application_fee_amount": "RMB 0 / PKR 0 on CSC portal; nominal HEC test fee (~PKR 2,000).",
+    "attestation_requirements": "HEC and MOFA attestation of degree certificates required prior to visa processing.",
+    "translation_requirements": "Notarized English or Chinese translations for non-English documents.",
+    "final_submission_method": "Dual online portal submission (CSC + HEC)."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Valid Passport Information Page",
+      "mandatory": true,
+      "specification": "Passport valid for at least 18 months",
+      "pakistan_specific_instruction": "Required for CSC portal and X1 visa"
+    },
+    {
+      "document_name": "Notarized Highest Diploma & Transcripts",
+      "mandatory": true,
+      "specification": "Degree certificate and transcript attested by HEC and notarized",
+      "pakistan_specific_instruction": "Must be recognized by HEC Pakistan"
+    },
+    {
+      "document_name": "Foreigner Physical Examination Form",
+      "mandatory": true,
+      "specification": "Standard Chinese medical form completed by physician with hospital stamp and photo",
+      "pakistan_specific_instruction": "Includes blood tests (HIV, Syphilis, Hepatitis), chest X-ray, and ECG; valid for 6 months"
+    },
+    {
+      "document_name": "Non-Criminal Record Certificate (Police Character Certificate)",
+      "mandatory": true,
+      "specification": "Issued by local police khidmat markaz / SSP office within past 6 months",
+      "pakistan_specific_instruction": "Mandatory document for Chinese visa and CSC submission"
+    },
+    {
+      "document_name": "Study Plan / Research Proposal",
+      "mandatory": true,
+      "specification": "Minimum 800 words for MS, 1,000 words for PhD in English or Chinese",
+      "pakistan_specific_instruction": "Focus on technological and academic contribution"
+    },
+    {
+      "document_name": "Two Recommendation Letters",
+      "mandatory": true,
+      "specification": "Signed by Professors or Associate Professors with institutional contacts",
+      "pakistan_specific_instruction": "Must include official university letterhead and stamps"
+    },
+    {
+      "document_name": "Pre-Admission Letter / Supervisor Acceptance Letter",
+      "mandatory": false,
+      "specification": "Official acceptance letter from a Chinese university professor/department",
+      "pakistan_specific_instruction": "Not strictly mandatory, but dramatically boosts selection chances for top universities"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "December annually (e.g., 2026-12-01)",
+    "application_deadline": "Mid-January to mid-February annually (varies slightly by HEC announcement)",
+    "university_admission_deadline": "Managed internally by CSC (March - May)",
+    "document_submission_deadline": "Coincides with HEC deadline",
+    "recommendation_letters_deadline": "Coincides with HEC deadline",
+    "interview_period": "N/A (Dossier review)",
+    "shortlist_announcement": "HEC nominations sent in March; Final admission notices in July/August",
+    "final_result_acceptance_deadline": "August annually",
+    "visa_application_window": "August (Chinese Embassy Islamabad / Consulates in Karachi & Lahore)",
+    "semester_commencement": "September (Fall Semester)",
+    "annual_cycle_notes": "Agency Number 5861 is strictly for HEC bilateral quota; applying under wrong agency number voids nomination."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Matric, Inter, and Bachelor's formula score via HEC)",
+    "extracurricular_and_leadership_weight": "5% (General profile)",
+    "research_experience_weight": "20% (Publications and quality of study plan)",
+    "work_experience_weight": "5% (Professional experience)",
+    "personal_statement_weight": "15% (Strength of research proposal)",
+    "recommendations_weight": "5% (Professor endorsements)",
+    "interview_weight": "0% (No interview)",
+    "test_scores_weight": "HEC HAT / USAT score accounts for 50% of HEC preliminary screening score!",
+    "financial_need_weight": "0% (Bilateral government quota)",
+    "selection_panel_composition": "HEC Selection Board and CSC Expert Review Panels in Beijing.",
+    "evaluation_methodology": "Dual-stage: HEC nominates top merit candidates using HAT + academic formula; CSC matches nominated students with participating Chinese universities."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~8,000 to 12,000 applicants in Pakistan across BS, MS, PhD",
+    "total_scholarships_awarded": "~200 to 300 bilateral awards for Pakistan",
+    "acceptance_rate_global": "N/A (Bilateral country quota)",
+    "acceptance_rate_pakistan": "~2.5% to 3.5% (High Competition)",
+    "typical_successful_applicant_gpa": "3.30 to 3.80 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Solid academic standing, strong score in HEC HAT (typically 70+), and a supervisor acceptance letter from a Chinese professor.",
+    "common_backgrounds_of_winners": "Graduates of NUST, UET, FAST, Quaid-i-Azam, COMSATS, Agriculture University Faisalabad, and regional public universities.",
+    "high_representation_countries": "Reserved exclusively for Pakistan under Pak-China bilateral educational exchange.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Commercial educational consultants in Pakistan charging PKR 200,000 to 500,000 claiming they 'sell CSC scholarship quotas'. CSC scholarships CANNOT be bought; selections are coordinated directly between HEC and the Chinese Ministry of Education.",
+      "Fake admission letters issued by unverified Chinese agents."
+    ],
+    "application_fee_warning": "CSC portal is 100% FREE. HEC charges only the standard test fee (~PKR 2,000).",
+    "agent_and_intermediary_warnings": "Never use third-party agents; all correspondence must be direct with professors and official portals.",
+    "hidden_costs_breakdown": [
+      "International flight ticket to China (PKR 150,000 to 220,000) is NOT covered by the scholarship.",
+      "Foreigner physical examination medical tests at private labs (PKR 12,000 to 18,000).",
+      "Police Character Certificate and MOFA attestations (PKR 5,000 to 10,000).",
+      "Initial settling cash buffer in China (RMB 2,000 to 3,000) before first stipend disbursal."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You cannot study in English in China. (Fact: Thousands of master's and PhD programs are taught 100% in English by internationally educated Chinese faculty).",
+      "MYTH: You cannot apply without a professor acceptance letter. (Fact: You CAN apply without one, but having an acceptance letter dramatically increases your placement at top C9 universities)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Agents often confuse CSC Type A (Bilateral via Embassy/HEC) with CSC Type B (Direct University application). Applying to both simultaneously increases chances."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must participate in the Annual CSC Scholarship Review; failing courses results in suspension of stipend or termination of scholarship.",
+    "attendance_requirements": "Full-time physical residence on campus in China.",
+    "academic_progress_monitoring": "Annual evaluation conducted every May by the host university international office.",
+    "work_restrictions_during_study": "Part-time on-campus work or off-campus internships permitted with formal approval from university and local Exit-Entry Bureau on student residence permit.",
+    "home_country_return_obligation": "Expected to return to Pakistan upon graduation under bilateral MoU terms, though many graduates pursue post-docs in China or abroad.",
+    "service_obligations_or_bonds": "HEC undertaking form agreeing to return.",
+    "repayment_clawback_conditions": "Expulsion or unapproved withdrawal terminates scholarship; severe violations require repayment.",
+    "rules_for_changing_university": "Strictly disallowed once placed.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "Scholarship tenure cannot be extended beyond the approved period in the initial admission notice."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "China Scholarship Council (CSC) - Official Campus China Portal",
+      "source_url": "https://www.campuschina.org/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "University-specific acceptance letter quotas per professor",
+        "Passing score criteria for institutional CSC reviews"
+      ]
+    },
+    {
+      "source_name": "Higher Education Commission (HEC) Pakistan - Chinese Government Scholarship Program",
+      "source_url": "https://scholarship.hec.gov.pk/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact annual quota distribution between BS, MS, and PhD categories"
+      ]
+    }
+  ]
+}

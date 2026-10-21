@@ -1,0 +1,286 @@
+{
+  "scholarship_id": "SCH-EU-033",
+  "basic_details": {
+    "scholarship_name": "Technical University of Darmstadt Graduate Research Fellowships & Assistantships",
+    "offering_entity": "Technische Universität Darmstadt (TU Darmstadt) - Department of Computer Science & hessian.AI (The Hessian Center for Artificial Intelligence)",
+    "host_country": "Germany",
+    "host_institutions_covered": "TU Darmstadt Main Campus & Lichtwiese Campus (Darmstadt, Hesse, Germany)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Department of Computer Science (Informatik) & Computational Engineering: Artificial Intelligence and Machine Learning, Autonomous Systems, Cyber Security & Privacy (ATHENE), Data Science, Software Engineering, and High-Performance Computing.",
+    "number_of_awards_total": "~80 to 120 graduate research assistantships (HiWi/WiMi) and DAAD STIBET/Matching-fund fellowships awarded annually across departments",
+    "number_of_awards_pakistan": "Open international merit competition; Pakistani graduate researchers secure ~8 to 14 funded positions and assistantships annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years for Master of Science; 3 to 4 years for PhD research associates (WiMi contract TV-H E13)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international students of all nationalities (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No formal age limit; evaluated on academic achievement and research potential.",
+    "academic_qualifications": "A recognized 4-year Bachelor of Science / Engineering in Computer Science, Software Engineering, or closely related field (16 years education) with minimum CGPA 3.30 / 4.00 (or equivalent German grade <= 2.2 on the Bavarian scale) from an HEC-recognized university in Pakistan. For PhD, an MS/MPhil in Computer Science (18 years education) with strong thesis and research output.",
+    "minimum_gpa_percentage": 76.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Must meet TU Darmstadt faculty entrance grade requirements (German grade 2.0 or better is highly competitive).",
+    "subject_background_prerequisites": "Rigorous foundation in theoretical computer science, algorithms and data structures, formal methods, computer networks, and linear algebra (at least 18 ECTS in theoretical CS and mathematics).",
+    "current_education_status": "Graduating seniors can apply with provisional transcript showing at least 85% of degree credits completed.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Demonstrated open-source contributions, competitive programming ranks, or published papers at top-tier venues (NeurIPS, ICML, CVPR, IEEE S&P) provide a decisive advantage.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 88,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 overall or TOEFL iBT minimum 88. TU Darmstadt strictly enforces standardized language test scores for international degree admissions.",
+    "other_language_requirements": "German language proficiency is not mandatory for English-taught MSc in Computer Science or PhD research, but basic German (A1/A2) is beneficial for campus employment.",
+    "gender_specific_requirements": null,
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates applying for PhD or WiMi research positions must secure preliminary endorsement from a TU Darmstadt professor or lab head (e.g. at hessian.AI or ATHENE National Research Center for Applied Cybersecurity).",
+    "previous_scholarship_restrictions": "Cannot hold another full German government scholarship simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "Public universities in the federal state of Hesse charge zero tuition fees for regular Master's and PhD programs. The mandatory semester fee (Semesterbeitrag ~€275 / semester) covers campus administration and student services.",
+      "amount": "100% covered (~€550 / year; ~PKR 165,000 / year value)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "TU Darmstadt application handling fee of €20 - €50 is payable by international applicants during online dossier evaluation.",
+      "amount": "€20 - €50 (~PKR 6,000 - 15,000)"
+    },
+    "accommodation": {
+      "status": "PARTIAL",
+      "details": "Priority access to student residences managed by Studierendenwerk Darmstadt (approx €320 - €480 / month for single furnished room including utilities and high-speed internet).",
+      "amount": "Subsidized rent ~€350 - €480 / month (~PKR 105,000 - 145,000 / month)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "For Master's students: Research Assistantships (HiWi) provide €600 to €1,100 per month (€13.50 - €17.50 / hour for up to 20 hours/week) plus DAAD STIBET/matching fellowships of €400 - €861/month. For PhD researchers: Full employment contract under TV-H E13 pay scale yielding €2,400 to €2,900 net per month (~PKR 720,000 - 870,000 / month).",
+      "amount": "€1,000 - €2,700 / month depending on level (~PKR 300,000 - 810,000 / month; €12,000 - €32,400 / year)"
+    },
+    "airfare": {
+      "status": "PARTIAL",
+      "details": "International mobility travel grants (€500 to €1,000) can be awarded through the TU Darmstadt International Office upon arrival.",
+      "amount": "Up to €1,000 (~PKR 300,000 one-time grant)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "German national student visa fee (€75 in Pakistan) and Darmstadt foreigners registration authority residence permit fee (~€100).",
+      "amount": "€175 (~PKR 53,000)"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "PhD research associates on TV-H E13 contracts receive statutory employer health insurance contributions (TK/AOK). Master's students pay statutory student health insurance (~€125 / month) from their assistantship salary.",
+      "amount": "Covered via employment contract / stipend"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered through monthly research assistantship earnings or fellowship stipend.",
+      "amount": "Covered via monthly earnings"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Access to state-of-the-art laboratory workstations, GPU compute clusters (hessian.AI supercomputers), and university digital library resources.",
+      "amount": "100% provided by university infrastructure"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Departmental travel funding of €1,500 to €3,000 per year to present accepted papers at premier computing and AI conferences worldwide.",
+      "amount": "€1,500 - €3,000 / year"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Semester ticket included with semester contribution grants unlimited regional public transit across the entire federal state of Hesse (including Frankfurt, Wiesbaden, Kassel) and Deutschlandticket upgrade.",
+      "amount": "100% covered via semester contribution"
+    },
+    "total_estimated_value_usd_per_year": 24000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single premier technical institution: Technical University of Darmstadt (TU Darmstadt).",
+    "participating_institutions": [
+      "Technical University of Darmstadt (TU Darmstadt, Hesse, Germany)"
+    ],
+    "university_rankings_scope": "TU Darmstadt is a founding member of the TU9 alliance of leading German Institutes of Technology; ranked among the top 10 in Germany and top 100 globally in Computer Science, Software Engineering, and AI.",
+    "available_majors": [
+      "MSc in Computer Science (Informatik)",
+      "MSc in Artificial Intelligence and Machine Learning",
+      "MSc in Autonomous Systems",
+      "MSc in Information Systems Engineering",
+      "MSc in Computational Engineering",
+      "PhD in Computer Science and Artificial Intelligence"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (4 semesters, 120 ECTS) for Master's; 3 to 4 years for PhD",
+    "admission_requirements_summary": "Recognized 4-year Bachelor's in CS or closely related discipline, proof of equivalent theoretical CS coursework, minimum GPA 3.3/4.0, and English language proficiency (IELTS 6.5 or TOEFL 88). GRE is recommended but not mandatory.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "MSc Computer Science has rigorous subject-entry vetting (the 'Eingangsprüfung' or curricular equivalence check); Pakistani applicants must demonstrate adequate theoretical computer science and mathematics credits to avoid condition courses.",
+    "strategic_program_match_advice": "Pakistani applicants with strong programming and mathematics credentials should identify research labs at hessian.AI or ATHENE and reach out to principal investigators 2-3 months prior to arrival to secure guaranteed HiWi or WiMi research contracts."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.tu-darmstadt.de/studieren/bewerben_und_einschreiben/index.en.jsp",
+    "portal_system_name": "TU Darmstadt TUCaN Online Application Portal",
+    "account_creation_instructions": "Register an applicant account on TUCaN, select the desired English-taught Master's program in Computer Science, and submit certified scans of academic records and course module descriptions.",
+    "step_by_step_workflow": [
+      "Step 1: Check curricular equivalence for MSc Computer Science against TU Darmstadt Bachelor curriculum.",
+      "Step 2: Submit application via the TU Darmstadt online portal (TUCaN) and upload certified transcripts and syllabus descriptions.",
+      "Step 3: Pay international application handling fee (€20-€50).",
+      "Step 4: Receive admission offer and curricular equivalence result (confirming no more than 30 ECTS condition courses).",
+      "Step 5: Apply for student housing via Studierendenwerk Darmstadt immediately upon receiving admission letter.",
+      "Step 6: Contact department research groups (hessian.AI, ATHENE, Telecooperation, Cryptography) for HiWi research assistantship positions.",
+      "Step 7: Apply for German student visa at German Embassy Islamabad or Consulate Karachi using admission letter and proof of funding."
+    ],
+    "university_vs_scholarship_routing": "Sequential Track: Secure formal university admission via TUCaN, followed by direct application for departmental research assistantships (HiWi/WiMi) or DAAD STIBET funding.",
+    "recommendation_letters_submission_method": "Uploaded via portal or emailed directly by professors to prospective research lab heads.",
+    "personal_statement_prompts": "Statement of academic purpose detailing technical specializations, relevant coding projects, and motivation for pursuing advanced computing at TU Darmstadt.",
+    "study_plan_research_proposal_requirements": "For PhD/WiMi positions: 3-5 page research proposal outlining research methodology and alignment with lab objectives; for MSc: detailed academic module list.",
+    "cv_format_requirements": "Detailed academic and technical CV highlighting programming languages, frameworks, open-source repositories, and publications.",
+    "interviews_conducted": true,
+    "interview_format_details": "Technical interview (30-45 minutes) via Zoom/Teams conducted by lab principal investigators assessing coding abilities and technical understanding.",
+    "standardized_tests": "IELTS Academic (min 6.5) or TOEFL iBT (min 88) mandatory; GRE General test recommended.",
+    "application_fee_amount": "€20 - €50 (~PKR 6,000 - 15,000 handling fee)",
+    "attestation_requirements": "Degrees and transcripts attested by HEC and MOFA Pakistan; Matric/Inter attested by IBCC.",
+    "translation_requirements": "Certified English or German translation of all academic records.",
+    "final_submission_method": "Online submission via the TU Darmstadt TUCaN portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts for 4-year Bachelor's in CS/SE with minimum CGPA 3.3/4.0 (German equivalent <= 2.2).",
+      "pakistan_specific_instruction": "Attested copies from HEC and MOFA Pakistan."
+    },
+    {
+      "document_name": "Curricular Module Description / Syllabus Handbook",
+      "mandatory": true,
+      "specification": "Detailed course catalog descriptions of all completed computer science, algorithms, and mathematics courses.",
+      "pakistan_specific_instruction": "Official syllabus descriptions issued or certified by your Pakistani university registrar."
+    },
+    {
+      "document_name": "Official English Proficiency Score Report",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5 overall) or TOEFL iBT (min 88).",
+      "pakistan_specific_instruction": "Score report valid at time of application."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Detailed academic and technical CV outlining software projects, skills, and publications.",
+      "pakistan_specific_instruction": "Must include links to GitHub profile and live project demos."
+    },
+    {
+      "document_name": "Statement of Academic Purpose",
+      "mandatory": true,
+      "specification": "1 to 2-page statement explaining why you are choosing TU Darmstadt and your specialization interests.",
+      "pakistan_specific_instruction": "Highlight alignment with research centers like hessian.AI or ATHENE."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": false,
+      "specification": "Confidential evaluation letters from academic professors (required for assistantship/fellowship consideration).",
+      "pakistan_specific_instruction": "Issued on institutional university letterhead."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "June 1 (Winter) / December 1 (Summer)",
+    "application_deadline": "July 15 (Winter) / January 15 (Summer)",
+    "university_admission_deadline": "July 15 (Winter) / January 15 (Summer)",
+    "document_submission_deadline": "July 15 (Winter) / January 15 (Summer)",
+    "recommendation_letters_deadline": "July 31 (Winter) / January 31 (Summer)",
+    "interview_period": "August - September (Winter) / February - March (Summer)",
+    "shortlist_announcement": "Mid-August (Winter) / Mid-February (Summer)",
+    "final_result_acceptance_deadline": "September 15 (Winter) / March 15 (Summer)",
+    "visa_application_window": "August - September (Winter) / February - March (Summer)",
+    "semester_commencement": "Mid-October (Winter Semester) / Mid-April (Summer Semester)",
+    "annual_cycle_notes": "Admits two batches per year (Winter and Summer). July 15 is the strict cutoff for Winter semester international applications."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "50% (Undergraduate GPA and curricular equivalence in theoretical CS and mathematics)",
+    "extracurricular_and_leadership_weight": "5% (Technical community leadership and hackathon participation)",
+    "research_experience_weight": "25% (Publications, thesis work, and supervisor match for assistantship positions)",
+    "work_experience_weight": "5% (Industry software engineering or data science experience)",
+    "personal_statement_weight": "10% (Clarity of academic purpose and motivation)",
+    "recommendations_weight": "5% (Academic referee appraisals)",
+    "interview_weight": "0% (Interview performance factored directly into research assistantship hiring)",
+    "test_scores_weight": "0% (English proficiency fulfills qualification threshold)",
+    "financial_need_weight": "0% (Pure academic and technical merit evaluation)",
+    "selection_panel_composition": "TU Darmstadt Computer Science Department admissions board and lab principal investigators.",
+    "evaluation_methodology": "Two-phase evaluation: academic curricular equivalence audit followed by lab-level technical vetting."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,500 to 3,500 international applicants across computer science programs",
+    "total_scholarships_awarded": "~80 to 120 assistantships and matching fellowships awarded annually",
+    "acceptance_rate_global": "~8% to 12% for program admission; ~3% to 5% for early funded assistantships",
+    "acceptance_rate_pakistan": "~6% to 10% among applicants with strong theoretical CS coursework",
+    "typical_successful_applicant_gpa": "CGPA 3.50+ / 4.00 or top 10% class rank from leading Pakistani universities (FAST-NUCES, NUST, LUMS, GIKI, UET)",
+    "typical_academic_and_research_profile": "Rigorous undergraduate computer science preparation with solid mathematical depth, high programming acumen, and research thesis experience.",
+    "common_backgrounds_of_winners": "Graduates of top Pakistani computer science, software engineering, and artificial intelligence programs.",
+    "high_representation_countries": "India, China, Pakistan, Iran, Turkey, Egypt, Nigeria, Brazil.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of private education agencies claiming to sell admissions or blocked-account waivers for TU Darmstadt.",
+      "Applications are handled exclusively via tu-darmstadt.de."
+    ],
+    "application_fee_warning": "TU Darmstadt charges only a small administrative handling fee (€20-€50); never pay large consulting sums.",
+    "agent_and_intermediary_warnings": "TU Darmstadt does not work with third-party recruitment agents.",
+    "hidden_costs_breakdown": [
+      "TUCaN application handling fee: €20 - €50 (~PKR 6,000 - 15,000).",
+      "IELTS/TOEFL exam fee: ~PKR 60,000.",
+      "Semester contribution fee: ~€275 per semester (~PKR 83,000).",
+      "German visa processing and courier fees: ~PKR 25,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: TU Darmstadt requires German proficiency for all Master's programs. Reality: MSc Computer Science and MSc Artificial Intelligence are 100% taught and examined in English.",
+      "Myth: You cannot work as a student in Germany. Reality: Research assistant (HiWi) positions are abundant at TU Darmstadt and provide flexible campus income."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim GRE is mandatory; GRE is NOT mandatory for MSc Computer Science at TU Darmstadt, though recommended."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain good academic standing and earn regular ECTS credits each semester to retain assistantship contracts.",
+    "attendance_requirements": "Full-time campus attendance in Darmstadt; regular participation in laboratory research duties.",
+    "academic_progress_monitoring": "Semester re-enrollment (Rückmeldung) contingent on module exam completions; assistantship contracts renewed based on supervisor review.",
+    "work_restrictions_during_study": "Campus research assistant (HiWi) positions can be held up to legal limits (typically 10-20 hours/week during term).",
+    "home_country_return_obligation": "Zero return obligation; graduates are eligible for Germany's 18-month post-study job seeker visa (Chancenkarte / residence permit).",
+    "service_obligations_or_bonds": "Fulfill contracted assistantship duties (research, code maintenance, or grading) diligently.",
+    "repayment_clawback_conditions": "No clawback of assistantship wages; termination occurs upon breach of employment contract or academic expulsion.",
+    "rules_for_changing_university": "Non-transferable to other universities; tied directly to TU Darmstadt.",
+    "rules_for_changing_major": "Changing major requires formal re-application to the new faculty.",
+    "extension_policy": "Assistantships can be renewed semester-by-semester throughout the regular duration of studies."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "TU Darmstadt Graduate Admissions Official Portal",
+      "source_url": "https://www.tu-darmstadt.de/studieren/bewerben_und_einschreiben/index.en.jsp",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "TU Darmstadt Department of Computer Science",
+      "source_url": "https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "hessian.AI The Hessian Center for Artificial Intelligence",
+      "source_url": "https://hessian.ai/join-us/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

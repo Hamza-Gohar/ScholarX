@@ -1,0 +1,264 @@
+{
+  "scholarship_id": "SCH-EU-023",
+  "basic_details": {
+    "scholarship_name": "Gates Cambridge Scholarship",
+    "offering_entity": "Bill & Melinda Gates Foundation & University of Cambridge",
+    "host_country": "United Kingdom",
+    "host_institutions_covered": "University of Cambridge (all 31 Cambridge Colleges)",
+    "degree_levels": [
+      "Master's (MPhil/LLM/MASt)",
+      "PhD (Doctorate)"
+    ],
+    "major_restrictions": "Open to any subject available at the University of Cambridge EXCEPT undergraduate degrees, non-degree courses, MBBChir Clinical Medicine, and part-time degrees.",
+    "number_of_awards_total": "~80 full-cost scholarships awarded annually (~25 US round, ~55 International round)",
+    "number_of_awards_pakistan": "Open globally; exceptional Pakistani scholars selected in the international round",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Full duration of the degree: 1 year for MPhil/LLM; up to 3 to 4 years for PhD"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "A citizen of any country outside the United Kingdom (Pakistani citizens eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limits.",
+    "academic_qualifications": "Completed 16 years of education (Bachelor's) for Master's; 18 years (Master's) for PhD with first-class academic standing.",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.8,
+    "grading_conversion_notes": "Equivalent to a Cambridge First Class Honours degree (minimum 3.80 / 4.00 CGPA or top 2% class ranking).",
+    "subject_background_prerequisites": "Outstanding academic background in proposed discipline with exceptional analytical and critical thinking skills.",
+    "current_education_status": "Graduated or in final year of undergraduate or master's studies.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Commitment to improving the lives of others, public leadership, and social enterprise evaluated.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 7.5,
+      "toefl_minimum": 110,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "Must satisfy Cambridge department English requirement (typically IELTS Academic 7.5 with no band below 7.0 or TOEFL iBT 110 with 25 in all components)."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "Equal opportunity; diversity encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Four core criteria: Outstanding intellectual ability, reasons for choice of course, commitment to improving the lives of others, leadership potential.",
+    "previous_scholarship_restrictions": "Cannot hold another full scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "University Composition Fee and College Fee at the appropriate international rate fully covered.",
+      "amount": "£28,000 to £44,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Cambridge graduate application fee (£65 to £75) paid by candidate (fee waivers available for eligible low-income countries upon request).",
+      "amount": "£75"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered through living allowance.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Generous maintenance allowance to cover accommodation, food, and living expenses.",
+      "amount": "£20,000 / year (~£1,666 / month or ~PKR 605,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "One economy single airfare at both the beginning and end of the course.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Inbound visa costs (UK Student Route visa) and the Immigration Health Surcharge (IHS) fully covered.",
+      "amount": "£490 visa + ~£776/year IHS"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full UK National Health Service (NHS) access via covered Immigration Health Surcharge.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Academic development funding of up to £2,000 available to attend conferences and courses.",
+      "amount": "Up to £2,000"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Fieldwork funding available for PhD research outside Cambridge.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Family allowance available (up to £11,604 for one child, £16,548 for two or more children) for scholars with dependents.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 75000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: University of Cambridge (World Top 3).",
+    "participating_institutions": [
+      "University of Cambridge (Trinity, St John's, King's, Churchill, Jesus, Clare, Queens', Fitzwilliam, all 31 colleges)"
+    ],
+    "university_rankings_scope": "QS World Rank #2; world leader in research across all humanities, social sciences, and STEM.",
+    "available_majors": [
+      "Computer Science, Advanced Computer Science, Engineering, Biotechnology, Physics, Applied Mathematics & Theoretical Physics (DAMTP), Public Health, Medical Sciences, Law (LLM), Economics, Public Policy (MPP), International Relations, History, Philosophy"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 year for MPhil/LLM; 3 to 4 years for PhD",
+    "admission_requirements_summary": "Apply for graduate admission to Cambridge via the Postgraduate Applicant Portal and complete the dedicated Gates Cambridge section.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "PhD candidates must have strong alignment with prospective Cambridge supervisor; MPhil is evaluated by departmental committee.",
+    "strategic_program_match_advice": "The 500-word Gates statement must convince the trust of your moral commitment to use your Cambridge education to improve the lives of others."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.gatescambridge.org/",
+    "portal_system_name": "University of Cambridge Postgraduate Applicant Portal",
+    "account_creation_instructions": "Register on the Cambridge Applicant Portal, choose degree course, select 'Yes' for Gates Cambridge funding, and upload Gates reference and statement.",
+    "step_by_step_workflow": [
+      "1. Choose course and check departmental deadline (Round opens September; International deadline: early December or early January depending on course).",
+      "2. Write 500-word Gates Cambridge Statement explaining how you meet the scholarship criteria.",
+      "3. Secure a dedicated Gates Cambridge Reference Letter in addition to two academic reference letters.",
+      "4. Submit complete course and scholarship application before your course deadline.",
+      "5. Academic departments rank applicants and put forward top candidates to the Gates Cambridge Trust (January).",
+      "6. Shortlisted candidates invited for a 20-25 minute panel interview in late March.",
+      "7. Final offers announced in late March/early April."
+    ],
+    "university_vs_scholarship_routing": "Integrated single application via the Cambridge Postgraduate Portal.",
+    "recommendation_letters_submission_method": "Submitted online by referees: two academic referees + one specialized Gates referee.",
+    "personal_statement_prompts": "Gates Statement (500 words): Explain why you are applying for a Gates Cambridge Scholarship and how you meet the four scholarship criteria.",
+    "study_plan_research_proposal_requirements": "PhD applicants must upload a detailed research proposal (typically 2-4 pages); MPhil applicants submit statement of interest.",
+    "cv_format_requirements": "Detailed academic CV highlighting publications, leadership roles, and volunteerism.",
+    "interviews_conducted": true,
+    "interview_format_details": "20-25 minute virtual panel interview with four distinct components: academic background, why Cambridge, commitment to improving lives, and leadership capacity.",
+    "standardized_tests": "GRE required only by a few specific departments (e.g. Economics); English language test required.",
+    "application_fee_amount": "£75.",
+    "attestation_requirements": "Certified transcripts and degree certificates; HEC attestation required.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "100% Online via Cambridge Postgraduate Portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Gates Cambridge Statement",
+      "mandatory": true,
+      "specification": "500-word statement explaining alignment with the four Gates criteria",
+      "pakistan_specific_instruction": "Authentic narrative demonstrating leadership and impact in Pakistan"
+    },
+    {
+      "document_name": "Gates Reference Letter",
+      "mandatory": true,
+      "specification": "Separate reference speaking specifically to your leadership and commitment to others",
+      "pakistan_specific_instruction": "From someone who knows your character, social initiatives, or leadership"
+    },
+    {
+      "document_name": "Two Academic Reference Letters",
+      "mandatory": true,
+      "specification": "Submitted directly by university research professors",
+      "pakistan_specific_instruction": "Speaking to academic ranking and intellectual brilliance"
+    },
+    {
+      "document_name": "Research Proposal (for PhD)",
+      "mandatory": true,
+      "specification": "Structured scientific research proposal (2-4 pages)",
+      "pakistan_specific_instruction": "Aligned with prospective Cambridge laboratory"
+    },
+    {
+      "document_name": "English Proficiency Score",
+      "mandatory": true,
+      "specification": "IELTS Academic (7.5+) or TOEFL iBT (110+)",
+      "pakistan_specific_instruction": "Official electronic score report"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-09-01",
+    "application_deadline": "2027-01-07",
+    "university_admission_deadline": "2027-01-07",
+    "document_submission_deadline": "2027-01-07",
+    "recommendation_letters_deadline": "2027-01-14",
+    "interview_period": "Late March 2027",
+    "shortlist_announcement": "Early March 2027",
+    "final_result_acceptance_deadline": "2027-04-15",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "October 2027 (Michaelmas Term)",
+    "annual_cycle_notes": "International round deadline depends on course (either December 3, 2026 or January 7, 2027). Interviews held late March."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Outstanding intellectual ability, first-class degree, rank in class)",
+    "extracurricular_and_leadership_weight": "25% (Demonstrated leadership potential and capacity to effect change)",
+    "research_experience_weight": "15% (For PhD: quality and originality of research proposal)",
+    "work_experience_weight": "5% (Social impact initiatives)",
+    "personal_statement_weight": "15% (Gates Statement articulating commitment to improving lives of others)",
+    "recommendations_weight": "10% (Quality of the dedicated Gates reference letter)",
+    "interview_weight": "Decisive in final round",
+    "test_scores_weight": "Language threshold required",
+    "financial_need_weight": "0% (Exclusively merit and leadership driven)",
+    "selection_panel_composition": "Two-tier sift: Cambridge academic departments shortlist top applicants; Gates Cambridge multidisciplinary interviewing panels conduct final interviews.",
+    "evaluation_methodology": "Equal assessment of four pillars: Intellectual Ability, Reasons for Choice of Course, Commitment to Improving Lives of Others, Leadership Potential."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~6,000 international applicants across all disciplines",
+    "total_scholarships_awarded": "~80 scholarships awarded globally (~55 in international round)",
+    "acceptance_rate_global": "~1.3%",
+    "acceptance_rate_pakistan": "~0.8% (Extremely Selective)",
+    "typical_successful_applicant_gpa": "3.85 to 4.00 CGPA",
+    "typical_academic_and_research_profile": "Scholars combining exceptional academic grades with extraordinary social impact: NGO founders, policy innovators, climate advocates, and scientific researchers.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani universities (LUMS, NUST, AKU, IBA) with prominent public service records.",
+    "high_representation_countries": "USA, India, Pakistan, Canada, China, Germany, Australia, Nigeria.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unauthorized services offering 'Gates interview prep' or essay writing."
+    ],
+    "application_fee_warning": "Pay the Cambridge application fee (£75) only on the official postgraduate portal.",
+    "agent_and_intermediary_warnings": "Never work through agents; Gates Cambridge looks for authentic personal voice and integrity.",
+    "hidden_costs_breakdown": [
+      "Cambridge application fee (£75).",
+      "English language test fees (IELTS/TOEFL).",
+      "Initial relocation buffer before first stipend release in Cambridge."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: Only PhD students are funded. (Fact: About one-third of Gates Cambridge awards go to 1-year Master's students).",
+      "MYTH: You need work experience. (Fact: Academic excellence and leadership potential are primary; work experience is not mandatory)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "External sites claim Gates pays for family in all cases; family allowance is discretionary and requires formal application."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain good academic standing and progress in accordance with University of Cambridge degree regulations.",
+    "attendance_requirements": "Full-time physical residence in Cambridge during terms (minimum terms of residence required by university statues).",
+    "academic_progress_monitoring": "Annual progress reports submitted by Cambridge faculty supervisor to the Gates Cambridge Trust.",
+    "work_restrictions_during_study": "Cambridge University policy restricts graduate students from undertaking outside employment during full-time study, except limited college supervisions/demonstrating (max 6 hrs/week).",
+    "home_country_return_obligation": "None; scholars are eligible for the UK 2-year Graduate Route visa (or 3-year for PhD) post-graduation.",
+    "service_obligations_or_bonds": "None; active engagement with the Gates Cambridge Scholars' Council and alumni network.",
+    "repayment_clawback_conditions": "Funding terminated in case of academic failure or withdrawal.",
+    "rules_for_changing_university": "Non-transferable outside Cambridge.",
+    "rules_for_changing_major": "Requires approval from both the university and the Gates Cambridge Trust.",
+    "extension_policy": "PhD scholars can apply for up to 6 months of discretionary funding extension if research delays are justified."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Gates Cambridge Trust Official Portal",
+      "source_url": "https://www.gatescambridge.org/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Departmental shortlisting cutoff rankings for candidate nomination to the Trust",
+        "Specific country quota allocations"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "scholarship_id": "SCH-OC-011",
+  "basic_details": {
+    "scholarship_name": "UNSW Sydney Scientia PhD Scholarship & Australian Government RTP",
+    "offering_entity": "University of New South Wales (UNSW Sydney, Group of Eight, Australia) in partnership with the Australian Commonwealth Government",
+    "host_country": "Australia",
+    "host_institutions_covered": "UNSW Sydney (Kensington Main Campus, Sydney, NSW, Australia)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Offered across pre-determined, high-impact strategic doctoral research projects spanning UNSW School of Computer Science and Engineering (CSE), Quantum Computing (CQC2T), Photovoltaic and Renewable Energy Engineering (SPREE), AI & Robotics, Biomedical Engineering, Materials Science, and Medicine.",
+    "number_of_awards_total": "Approximately 100 to 125 prestigious Scientia PhD Fellowships awarded annually across all faculties",
+    "number_of_awards_pakistan": "Global open competition; exceptional Pakistani researchers with peer-reviewed publications secure awards (typically 2 to 5 awardees/yr)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "4 years full-time doctoral tenure (non-extendable), subject to satisfactory annual research progress reviews"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to both international applicants and Australian/NZ citizens/permanent residents"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limit.",
+    "academic_qualifications": "Completed 4-year Bachelor's degree with First Class Honours (H1 equivalent, 85%+ or 3.80+ / 4.00 CGPA) or Master of Science by Research / MS with substantial research dissertation from an HEC-recognized institution in Pakistan (e.g. NUST, FAST-NUCES, GIKI, UET, LUMS, PIEAS). Must demonstrate superior research capacity through publications.",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.8,
+    "grading_conversion_notes": "Evaluated against UNSW Class 1 Honours standard (H1 / 85%+ equivalent).",
+    "subject_background_prerequisites": "BSc / MS in Computer Science, Quantum Information, Electrical Engineering, Photovoltaics, Materials Science, or Biomedical Engineering.",
+    "current_education_status": "Must have completed degree or be in final semester graduating prior to commencement.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Demonstrated research track record (first-author papers in indexed venues) significantly outranks general industrial experience.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 90,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic overall min 6.5 (all sub-scores 6.0+); TOEFL iBT min 90 (writing 23, others 22); or PTE Academic min 64 (54 in all skills). English Medium of Instruction certificates are not accepted."
+    },
+    "other_language_requirements": "None; all coursework, seminars, and doctoral dissertations are in English.",
+    "gender_specific_requirements": "None; equity and diversity candidates are strongly supported.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Scientia scheme targets global top-tier doctoral talent aligned with pre-defined strategic research projects.",
+    "previous_scholarship_restrictions": "Cannot hold another major Commonwealth or university scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full international tuition fee waiver for up to 4 years (AUD 52,000 to 56,000 / year waived completely).",
+      "amount": "100% covered (~AUD 54,000 / year value; ~PKR 9,990,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "100% WAIVED",
+      "details": "Application fee is waived for Scientia PhD applicants who pass Expression of Interest (EOI) stage.",
+      "amount": "AUD 125 waived value (~PKR 23,000)"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Paid from generous tax-free living stipend; modern on-campus university colleges and private Sydney apartments available.",
+      "amount": "Paid from stipend (~AUD 1,600 to 2,000 / month)"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Prestigious index-linked tax-free living allowance: AUD 42,455 per annum (~AUD 3,537 / month; ~PKR 660,000/month) for 4 full years.",
+      "amount": "AUD 42,455 / year tax-free (~PKR 7,854,000 / year)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Relocation allowance of up to AUD 2,000 provided to assist international scholars traveling from overseas to Sydney.",
+      "amount": "Up to AUD 2,000 relocation grant (~PKR 370,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Australian Subclass 500 Student Visa fee (AUD 1,600) paid directly to Department of Home Affairs.",
+      "amount": "AUD 1,600 (~PKR 296,000)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Full standard Overseas Student Health Cover (OSHC) single policy funded directly by UNSW for the 4-year student visa duration.",
+      "amount": "AUD 3,200 to 4,000 total value (~PKR 590,000 to 740,000)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Living expenses covered through the generous fortnightly stipend.",
+      "amount": "Included in monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "PROVIDED_BY_FACULTY",
+      "details": "Funded by the admitting research institute and laboratory facilities (world-class quantum cleanrooms, GPU clusters).",
+      "amount": "Covered by faculty and research center"
+    },
+    "research_funding_conference_grant": {
+      "status": "100% COVERED",
+      "details": "Dedicated Scientia Career and Research Development Support package: up to AUD 10,000 per annum (AUD 40,000 over 4 years) for international conference travel, specialized training, and research consumables.",
+      "amount": "AUD 10,000 / year dedicated career support (~PKR 1,850,000 / yr)"
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Sydney Opal card transit is self-funded (concession cards available for HDR candidates).",
+      "amount": "Self-funded (~AUD 120 / month; ~PKR 22,000 / mo)"
+    },
+    "total_estimated_value_usd_per_year": 68000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single elite Group of Eight research powerhouse: University of New South Wales (UNSW Sydney, Australia)",
+    "participating_institutions": [
+      "UNSW Sydney - Kensington Main Campus (Sydney, NSW)",
+      "Centre for Quantum Computation and Communication Technology (CQC2T - UNSW)",
+      "UNSW School of Photovoltaic and Renewable Energy Engineering (SPREE)"
+    ],
+    "university_rankings_scope": "Ranked #19 globally in QS World University Rankings 2024/2025; member of Australia's prestigious Group of Eight (Go8). Global leader in quantum computing, silicon qubits, and solar photovoltaics.",
+    "available_majors": [
+      "School of Computer Science and Engineering: Quantum Software, AI, Machine Learning, Cyber Security",
+      "Centre for Quantum Computation & Communication Technology: Silicon Quantum Computing, Nanoelectronics",
+      "School of Photovoltaic and Renewable Energy Engineering: Perovskite Solar Cells, Grid Integration",
+      "School of Electrical Engineering and Telecommunications: Systems and Control, Wireless Communications",
+      "Graduate School of Biomedical Engineering: Neural Engineering, Biomaterials, Bioprinting"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "PhD: 4 years full-time research residency.",
+    "admission_requirements_summary": "Bachelor's H1 or Master by Research with 3.8+ GPA, match with approved Scientia project, nomination from lead project supervisor, 2 referee reports, and IELTS 6.5 (TOEFL 90).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Quantum Computing and AI have extraordinary global competition; Renewable Energy Engineering and Biomedical Engineering offer slightly more specialized applicant pools.",
+    "strategic_program_match_advice": "Scientia scholarships are awarded ONLY against approved strategic projects published on the UNSW Scientia portal each cycle. Candidates must browse the project directory, identify projects matching their thesis, submit an Expression of Interest (EOI) directly to the lead supervisor, and be nominated by them to submit a formal application."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.unsw.edu.au/research/hdr/scholarships/scientia",
+    "portal_system_name": "UNSW Scientia PhD Online Portal & ApplyOnline Admissions System",
+    "account_creation_instructions": "Explore approved projects on Scientia portal, submit online Expression of Interest (EOI) to project supervisor; upon supervisor invitation, submit formal application via ApplyOnline.",
+    "step_by_step_workflow": [
+      "Step 1 (June - July): Browse approved research projects on the UNSW Scientia Portal (unsw.edu.au/research/hdr/scholarships/scientia).",
+      "Step 2 (July): Submit online Expression of Interest (EOI) for up to two projects, uploading CV, transcripts, and statement of research alignment.",
+      "Step 3 (August): Lead project supervisors evaluate EOIs, conduct technical video interviews, and nominate their top candidate.",
+      "Step 4 (Late August): Nominated candidates receive an official invitation code to lodge a formal application on UNSW ApplyOnline.",
+      "Step 5 (Mid-September): Submit complete formal application dossier including referee reports and English language test scores.",
+      "Step 6 (October - November): Central University Scientia Selection Panel reviews nominated candidates across faculties and determines awards.",
+      "Step 7 (Mid-December): Official scholarship offers released; candidates accept offer and receive electronic Confirmation of Enrolment (CoE).",
+      "Step 8 (December - January): Lodge Subclass 500 Student Visa application with Australian Department of Home Affairs.",
+      "Step 9 (February): Travel to Sydney, attend UNSW Scientia induction and HDR orientation, and commence PhD candidature."
+    ],
+    "university_vs_scholarship_routing": "Multi-stage strategic application: Project nomination by supervisor is required before formal scholarship application can proceed.",
+    "recommendation_letters_submission_method": "Two confidential academic referee reports submitted directly via the online referee portal by supervisors who know candidate's research capacity.",
+    "personal_statement_prompts": "Scientia Statement of Purpose: Address the strategic project objectives, your relevant research background, future research ambitions, and commitment to public engagement and leadership.",
+    "study_plan_research_proposal_requirements": "Tailored proposal (2-3 pages) expanding upon the advertised Scientia project description in consultation with the project supervisor.",
+    "cv_format_requirements": "Comprehensive academic CV detailing publications (with impact factors, citations, and venue ranking), patents, research awards, and code repositories.",
+    "interviews_conducted": true,
+    "interview_format_details": "In-depth 45-minute technical video interview conducted by project lead supervisor and co-supervisors assessing research mastery and vision.",
+    "standardized_tests": "IELTS Academic 6.5 (6.0 in all bands) or TOEFL iBT 90 (23 writing) or PTE 64. GRE not required.",
+    "application_fee_amount": "AUD 125 (Waived for invited Scientia applicants)",
+    "attestation_requirements": "HEC Pakistan attestation required on all degrees and transcripts, accompanied by verified certified copies.",
+    "translation_requirements": "Certified English translations for any non-English official documents.",
+    "final_submission_method": "100% digital submission via UNSW ApplyOnline portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color scan of passport bio-data page valid for at least two years.",
+      "pakistan_specific_instruction": "Ensure clear color scan of Pakistani machine-readable passport."
+    },
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Certified transcripts showing all semesters, grades, grading scale, and degree completion certificates.",
+      "pakistan_specific_instruction": "Higher Education Commission (HEC) Pakistan attested documents."
+    },
+    {
+      "document_name": "Scientia Supervisor Invitation / Endorsement",
+      "mandatory": true,
+      "specification": "Official invitation email / code generated following successful EOI review.",
+      "pakistan_specific_instruction": "Mandatory prerequisite; cannot apply on ApplyOnline without supervisor nomination."
+    },
+    {
+      "document_name": "Tailored Research Proposal",
+      "mandatory": true,
+      "specification": "Detailed 2 to 3 page proposal aligned specifically with the advertised Scientia project.",
+      "pakistan_specific_instruction": "Demonstrate technical mastery of the project's scientific objectives."
+    },
+    {
+      "document_name": "Academic Referee Reports (Two)",
+      "mandatory": true,
+      "specification": "Submitted directly by referees via UNSW referee online system.",
+      "pakistan_specific_instruction": "Must be on institutional letterhead with verified university email addresses."
+    },
+    {
+      "document_name": "English Language Proficiency Report",
+      "mandatory": true,
+      "specification": "Official IELTS, TOEFL, or PTE scorecard meeting UNSW minimum requirements.",
+      "pakistan_specific_instruction": "Direct electronic score dispatch through testing agency portal."
+    },
+    {
+      "document_name": "Curriculum Vitae and Publication Record",
+      "mandatory": true,
+      "specification": "Detailed CV listing full citations of peer-reviewed papers with DOIs and conference tiers.",
+      "pakistan_specific_instruction": "Highlight first-author papers published in CORE A*/A or Scopus Q1 journals."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "1 June 2027 (EOI opens)",
+    "application_deadline": "30 September 2027 (Formal application close)",
+    "university_admission_deadline": "30 September 2027",
+    "document_submission_deadline": "30 September 2027",
+    "recommendation_letters_deadline": "7 October 2027",
+    "interview_period": "August to September 2027",
+    "shortlist_announcement": "Mid-November 2027",
+    "final_result_acceptance_deadline": "15 December 2027",
+    "visa_application_window": "December 2027 to February 2028",
+    "semester_commencement": "Term 1 (Mid-February 2028)",
+    "annual_cycle_notes": "Scientia PhD scheme runs on a single annual cycle for Term 1 (February) commencement."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Honours 1 equivalence, CGPA in Bachelor/Master degrees, and university pedigree)",
+    "extracurricular_and_leadership_weight": "5% (Demonstrated leadership potential and public engagement capacity)",
+    "research_experience_weight": "45% (Peer-reviewed publications, master thesis quality, and synergy with the strategic project)",
+    "work_experience_weight": "5% (High-level industrial or laboratory research experience)",
+    "personal_statement_weight": "5% (Statement of research purpose and leadership vision)",
+    "recommendations_weight": "5% (Strength of academic referee appraisals)",
+    "interview_weight": "0% (Official scoring is dossier-based; supervisor interview establishes EOI nomination)",
+    "test_scores_weight": "Threshold requirement (IELTS 6.5 / TOEFL 90 compliance)",
+    "financial_need_weight": "0% (Exclusively merit and research performance based)",
+    "selection_panel_composition": "Lead Project Supervisor, Faculty Scientia Panel, and Central University Scientia Selection Board chaired by Pro Vice-Chancellor Research Training.",
+    "evaluation_methodology": "Rigorous two-phase selection: Phase 1 EOI review by project supervisor (only top 1 candidate nominated per project). Phase 2 competitive ranking by University Scientia Board evaluating research track record, academic brilliance, and alignment with UNSW strategic research priorities."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,500 to 3,500 EOIs submitted globally for ~100 Scientia fellowships",
+    "total_scholarships_awarded": "~100 to 125 fully funded Scientia PhD fellowships",
+    "acceptance_rate_global": "~3.5%",
+    "acceptance_rate_pakistan": "~3.0% (Exceptionally competitive; awarded only to Pakistan's elite research scholars)",
+    "typical_successful_applicant_gpa": "3.85+ / 4.00 CGPA (88%+ aggregate, class topper)",
+    "typical_academic_and_research_profile": "First-class academic record, 2+ peer-reviewed papers in CORE A*/A or Q1 journals, demonstrated coding/experimental mastery, and seamless project alignment.",
+    "common_backgrounds_of_winners": "Top graduates from NUST, FAST-NUCES, GIKI, UET, LUMS, and PIEAS with active research lab experience.",
+    "high_representation_countries": "China, India, United States, United Kingdom, Pakistan, Iran, Germany, Singapore",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unauthorized commercial recruiters claiming to sell UNSW Scientia scholarship slots. Scientia scholarships are awarded strictly through project supervisor EOI nomination and central faculty board review."
+    ],
+    "application_fee_warning": "Invited Scientia applicants are exempt from application fees. Do not pay fees to unauthorized recruiters.",
+    "agent_and_intermediary_warnings": "Scientia requires direct intellectual discourse with the project supervisor; using agents will lead to immediate rejection.",
+    "hidden_costs_breakdown": [
+      "Australian Student Visa (Subclass 500) application fee (AUD 1,600; ~PKR 296,000).",
+      "Biometrics and visa medical examination in Pakistan (~PKR 35,000 - 50,000).",
+      "Initial settling cash and apartment bond in Sydney before first stipend disbursement (~AUD 2,500; ~PKR 460,000)."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: You can propose any random PhD topic. (FACT: Scientia scholarships are restricted strictly to pre-approved strategic projects published on the portal).",
+      "CLAIM: English test can be waived with an MOI letter. (FACT: Official IELTS, TOEFL, or PTE test report is non-negotiable for UNSW HDR admission)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some third-party websites list the Scientia tenure as 3 years; official UNSW guidelines guarantee 4 full years of stipend and tuition waiver."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass annual candidature milestones: Confirmation Review (Year 1), Progress Review (Year 2), and Completion Review (Year 3).",
+    "attendance_requirements": "Full-time physical research residency at UNSW Kensington campus and active involvement in project laboratory activities.",
+    "academic_progress_monitoring": "Annual Research Progress Reviews submitted to Graduate Research School and approved by supervisory committee.",
+    "work_restrictions_during_study": "Full-time candidates may engage in up to 8-10 hours/week of paid academic teaching (tutoring/lab demonstrating), provided it does not delay doctoral completion.",
+    "home_country_return_obligation": "None. Graduates are eligible for Australian Subclass 485 Post-Study Work visa (3-4 years work rights) and qualify for Australia's Global Talent / Skilled Independent visa pathways.",
+    "service_obligations_or_bonds": "Zero bond or repayment conditions.",
+    "repayment_clawback_conditions": "Scholarship terminates upon withdrawal or failure of candidature milestones; past funds are not reclaimed.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Cannot switch project topics; scholarship is tied specifically to the approved Scientia research project.",
+    "extension_policy": "Strictly fixed at 4 years maximum; no extensions permitted under any circumstances."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "UNSW Sydney Scientia PhD Scholarship Scheme Official Portal",
+      "source_url": "https://www.unsw.edu.au/research/hdr/scholarships/scientia",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Specific number of projects allocated to each engineering school per annual cycle.",
+        "Exact numerical weighting between supervisor EOI recommendation score and central board score.",
+        "Historical nationality-wise breakdown of Scientia awardees."
+      ]
+    },
+    {
+      "source_name": "UNSW Graduate Research School Higher Degree by Research Guidelines",
+      "source_url": "https://www.unsw.edu.au/research/hdr/application",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Waitlist ranking criteria for unfilled Scientia project allocations.",
+        "Internal faculty budget top-up mechanisms for computing hardware."
+      ]
+    }
+  ]
+}

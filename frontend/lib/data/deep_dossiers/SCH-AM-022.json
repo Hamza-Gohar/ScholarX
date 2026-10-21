@@ -1,0 +1,288 @@
+{
+  "scholarship_id": "SCH-AM-022",
+  "basic_details": {
+    "scholarship_name": "Simon Fraser University (SFU) Computing Science Graduate Award",
+    "offering_entity": "Simon Fraser University (School of Computing Science, Faculty of Applied Sciences, Vancouver, Canada)",
+    "host_country": "Canada",
+    "host_institutions_covered": "Simon Fraser University Campuses (Burnaby Campus & Vancouver Campus, BC, Canada)",
+    "degree_levels": [
+      "Master of Science (MSc Thesis)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Restricted to thesis-based graduate degrees in Computing Science: Artificial Intelligence, Computer Vision, Graphics, Databases & Data Mining, Big Data, Systems & Networking, and Theoretical Computing Science.",
+    "number_of_awards_total": "100% of admitted thesis-based graduate students receive guaranteed full financial support (~70 to 90 funded graduate students admitted annually)",
+    "number_of_awards_pakistan": "Open international competition; Pakistani graduates in computer science and software engineering compete successfully (typically 6 to 10 awardees/yr)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years for MSc Thesis; up to 4 to 5 years for PhD, with guaranteed minimum departmental funding package"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international and domestic applicants holding a valid passport"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restriction.",
+    "academic_qualifications": "Completed 4-year Bachelor's degree (16 years education) for MSc; completed Master's degree (18 years education) for PhD from an HEC-recognized university with minimum 3.40 / 4.00 CGPA (78%+ aggregate; 3.60+ competitive from NUST, FAST-NUCES, GIKI, UET, LUMS).",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.4,
+    "grading_conversion_notes": "Minimum SFU equivalent cumulative GPA of 3.00 / 4.33 (or B average) in undergraduate degree; 3.50+ highly competitive.",
+    "subject_background_prerequisites": "BSc or MSc in Computer Science, Computer Engineering, Software Engineering, or Mathematics with strong programming and theoretical foundations.",
+    "current_education_status": "Graduating final-year students eligible; must complete degree requirements prior to September registration.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory. Research publications, open-source development, or machine learning engineering internships are highly valued.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 7.0,
+      "toefl_minimum": 93,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic overall min 7.0 (each section min 6.5) or TOEFL iBT min 93 (each section min 20). Medium of Instruction certificates are not accepted."
+    },
+    "other_language_requirements": "None; English is the official language of instruction and research.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Thesis-based researchers in computer science and applied data intelligence.",
+    "previous_scholarship_restrictions": "Cannot hold concurrent external awards exceeding university maximum allowable limits.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Tuition costs offset via departmental tuition scholarships and Graduate Research Assistantship (GRA) packages (~CAD 6,500 to CAD 8,000 / year).",
+      "amount": "100% covered (~CAD 7,500 / year value; ~PKR 1,500,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "SFU international graduate application fee (CAD 130) paid online via credit card.",
+      "amount": "CAD 130 (~PKR 26,000)"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Paid out of guaranteed living stipend; SFU Burnaby campus graduate residences or off-campus rentals in Burnaby/Vancouver average CAD 900 to 1,300/month.",
+      "amount": "Paid from stipend (~CAD 1,100 / month; ~PKR 220,000 / mo)"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Guaranteed minimum annual funding package: CAD 27,000 to CAD 32,000 / year (~CAD 2,250 to 2,666 / month; ~PKR 450,000 to 535,000/month) provided via Teaching Assistantships (TA), Research Assistantships (RA), and Graduate Fellowships.",
+      "amount": "CAD 27,000 to 32,000 / year (~PKR 5,400,000 to 6,400,000 / year)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Travel between Pakistan and Vancouver International Airport (YVR) is self-funded by student.",
+      "amount": "Self-funded (~PKR 300,000 to 450,000 round-trip value)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Canadian Study Permit application fee (CAD 150) and biometrics fee (CAD 85) paid to IRCC.",
+      "amount": "CAD 235 (~PKR 47,000)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "British Columbia Medical Services Plan (MSP, CAD 75/month) + SFU Graduate Student Society (GSS) Health and Dental Plan covered via package.",
+      "amount": "Covered (~CAD 1,500 / year value; ~PKR 300,000 / yr)"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Living expenses covered by monthly stipend package; campus cafeterias and local groceries affordable.",
+      "amount": "Covered from monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "PROVIDED_BY_FACULTY",
+      "details": "Supercomputing cluster access, GPU workstations, and lab computing facilities funded by School of Computing Science.",
+      "amount": "Covered by laboratory resources"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Graduate International Research Travel Award (GIRTA) and school grants provide up to CAD 2,500 per conference paper.",
+      "amount": "Up to CAD 2,500 per conference"
+    },
+    "travel_transit_allowance": {
+      "status": "100% COVERED",
+      "details": "TransLink U-Pass BC included in student registration, granting unlimited bus, SkyTrain, and SeaBus transit across Metro Vancouver.",
+      "amount": "Included in student fee package"
+    },
+    "total_estimated_value_usd_per_year": 34000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single leading Canadian comprehensive research university: Simon Fraser University (Vancouver, BC, Canada)",
+    "participating_institutions": [
+      "Simon Fraser University - School of Computing Science (Burnaby Campus, Metro Vancouver, BC)",
+      "SFU Big Data Hub & Visual and Interactive Computing Institute"
+    ],
+    "university_rankings_scope": "Top 125 globally for Computer Science; ranked #1 comprehensive university in Canada by Maclean's for multiple consecutive years. International powerhouse in Computer Vision, Graphics, and Databases.",
+    "available_majors": [
+      "MSc / PhD in Computing Science: Computer Vision, Graphics, & Multimedia",
+      "MSc / PhD in Computing Science: Artificial Intelligence & Machine Learning",
+      "MSc / PhD in Computing Science: Data Mining, Databases, & Big Data Analytics",
+      "MSc / PhD in Computing Science: Systems, Networking, & Cloud Architecture",
+      "MSc / PhD in Computing Science: Algorithms, Complexity, & Theoretical CS"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "MSc Thesis: 2 years (4 to 5 terms); PhD: 4 to 5 years full-time.",
+    "admission_requirements_summary": "Bachelor's or Master's in CS/STEM with 3.4+ GPA, 3 referee reports, statement of purpose, CV, prospective supervisor alignment, and IELTS 7.0 / TOEFL 93.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Computer Vision, Deep Learning, and Graphics have intense competition; Databases, Algorithms, and Software Engineering offer favorable supervisor match ratios.",
+    "strategic_program_match_advice": "Prospective students must browse the faculty research pages, select up to 3 faculty members whose work aligns with their thesis, and contact them directly before the December deadline. Securing interest from a supervisor is the key factor in receiving an admission and funding offer."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.sfu.ca/gradstudies/apply.html",
+    "portal_system_name": "Simon Fraser University Graduate Studies Online Application System",
+    "account_creation_instructions": "Register an account on the SFU Graduate Studies application portal, select School of Computing Science, specify degree stream (Thesis MSc or PhD), list target supervisors, and submit required documents.",
+    "step_by_step_workflow": [
+      "Step 1 (September - November): Review Computing Science faculty profiles; contact prospective supervisors with academic CV, transcripts, and statement of research interests.",
+      "Step 2 (October - Early December): Create application on SFU Graduate Studies portal (sfu.ca/gradstudies/apply); complete profile.",
+      "Step 3 (November - December): Upload unofficial transcripts, CV, research statement, and provide details of 3 academic referees.",
+      "Step 4 (By 15 December): Pay application fee (CAD 130) and submit application before Fall intake deadline.",
+      "Step 5 (January - February): Departmental admissions committee reviews applications; faculty supervisors review files and schedule Zoom interviews.",
+      "Step 6 (March - April): Official admission offers with guaranteed annual funding letters dispatched; accept offer via portal.",
+      "Step 7 (April - May): Apply for Canadian Study Permit via IRCC portal; complete biometrics and medical exam in Pakistan.",
+      "Step 8 (Late August / Early September): Travel to Metro Vancouver, attend SFU graduate orientation, and begin research and teaching assistantship."
+    ],
+    "university_vs_scholarship_routing": "Integrated automatic funding: All admitted thesis-based graduate students receive guaranteed departmental funding; no separate scholarship application required.",
+    "recommendation_letters_submission_method": "Three confidential academic recommendation letters submitted online via automated referee portal link.",
+    "personal_statement_prompts": "Statement of Research Interests (1-2 pages): Detail research experience, mathematical and programming strengths, intended research areas, and preferred faculty supervisors.",
+    "study_plan_research_proposal_requirements": "Structured research statement (1-2 pages) describing research interests, methodologies, and proposed supervisors.",
+    "cv_format_requirements": "Academic CV detailing programming languages, software projects, research publications, awards, and GitHub profile.",
+    "interviews_conducted": true,
+    "interview_format_details": "Technical video interviews (30-45 minutes via Zoom) conducted by prospective faculty supervisors evaluating coding, mathematical foundations, and research intuition.",
+    "standardized_tests": "IELTS 7.0 (min 6.5 in all bands) or TOEFL iBT 93 (min 20 in all bands). GRE is NOT required.",
+    "application_fee_amount": "CAD 130 (Non-refundable)",
+    "attestation_requirements": "Unofficial scans uploaded for review; official attested transcripts from HEC Pakistan required upon formal admission offer.",
+    "translation_requirements": "Certified English translations for any documents not in English.",
+    "final_submission_method": "100% digital submission via the SFU online application system."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color scan of passport bio-data page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Ensure clear color scan of Pakistani machine-readable passport."
+    },
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts of all university education with grading scale and degree completion certificates.",
+      "pakistan_specific_instruction": "HEC Pakistan attestation required on final official documents upon offer acceptance."
+    },
+    {
+      "document_name": "Statement of Research Interests",
+      "mandatory": true,
+      "specification": "Structured 1 to 2 page statement of research background, objectives, and professor alignment.",
+      "pakistan_specific_instruction": "Specifically name SFU faculty members whose lab papers you have studied."
+    },
+    {
+      "document_name": "Academic Recommendation Letters (Three)",
+      "mandatory": true,
+      "specification": "Confidential recommendation letters from former professors or research mentors.",
+      "pakistan_specific_instruction": "Must be submitted from verified institutional email accounts."
+    },
+    {
+      "document_name": "English Language Proficiency Report",
+      "mandatory": true,
+      "specification": "Official IELTS Academic (7.0+) or TOEFL iBT (93+) scorecard.",
+      "pakistan_specific_instruction": "Electronic score reporting to Simon Fraser University institutional code."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Academic CV detailing coding skills, publications, capstone projects, and GitHub links.",
+      "pakistan_specific_instruction": "Highlight contributions to open source or Scopus/IEEE papers."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "1 September 2026",
+    "application_deadline": "15 December 2026 (Fall 2027 intake)",
+    "university_admission_deadline": "15 December 2026",
+    "document_submission_deadline": "15 December 2026",
+    "recommendation_letters_deadline": "22 December 2026",
+    "interview_period": "January to February 2027",
+    "shortlist_announcement": "March to April 2027",
+    "final_result_acceptance_deadline": "15 April / 1 May 2027",
+    "visa_application_window": "April to July 2027",
+    "semester_commencement": "Early September 2027",
+    "annual_cycle_notes": "Main intake cycle is Fall (September). Spring (January) and Summer (May) intakes have very limited thesis funding openings."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (CGPA in relevant computer science and mathematics coursework, class rank)",
+    "extracurricular_and_leadership_weight": "5% (Contributions to student tech community, hackathons)",
+    "research_experience_weight": "35% (Prior thesis quality, publications, open-source repositories, and technical skills)",
+    "work_experience_weight": "5% (Industry software engineering, AI internships, or data engineering roles)",
+    "personal_statement_weight": "10% (Clarity of research vision, intellectual curiosity, and fit with department)",
+    "recommendations_weight": "5% (Strength of professor endorsements)",
+    "interview_weight": "5% (Technical interview with prospective faculty advisor)",
+    "test_scores_weight": "Threshold requirement (IELTS 7.0 / TOEFL 93 compliance)",
+    "financial_need_weight": "0% (Purely merit and research competence based)",
+    "selection_panel_composition": "School of Computing Science Graduate Admissions Committee & faculty supervisors.",
+    "evaluation_methodology": "Two-phase holistic review: Graduate admissions committee pre-screens applicants for academic and English compliance; individual faculty supervisors review applicant files and interview candidates to make binding funding and admission offers."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,200 to 1,800 international applicants across thesis MSc and PhD",
+    "total_scholarships_awarded": "~70 to 90 fully funded graduate admission offers",
+    "acceptance_rate_global": "~5.5%",
+    "acceptance_rate_pakistan": "~8.5% (Competitive placement for Pakistani computer scientists with solid coding/research credentials)",
+    "typical_successful_applicant_gpa": "3.65+ / 4.00 CGPA (82%+ aggregate)",
+    "typical_academic_and_research_profile": "Solid foundation in algorithms, mathematics, and programming; 1+ publications in indexed conferences or strong software portfolio; clear supervisor alignment.",
+    "common_backgrounds_of_winners": "BS/MS graduates in Computer Science and Software Engineering from NUST, FAST-NUCES, GIKI, UET, and LUMS.",
+    "high_representation_countries": "China, India, Pakistan, Iran, Canada, United States, Bangladesh",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Commercial agencies claiming to sell guaranteed SFU computing science scholarships. SFU conducts all admissions through its official portal."
+    ],
+    "application_fee_warning": "Standard application fee is CAD 130 paid directly in the application portal. Never pay fees to third parties.",
+    "agent_and_intermediary_warnings": "Do not hire agents; professors seek independent researchers capable of writing scientific publications.",
+    "hidden_costs_breakdown": [
+      "Application fee of CAD 130 (~PKR 26,000).",
+      "Canadian Study Permit application and biometrics fees (CAD 235; ~PKR 47,000).",
+      "Flight tickets from Pakistan to Vancouver (~PKR 300,000 - 450,000).",
+      "Initial housing deposit in Metro Vancouver (~CAD 1,800; ~PKR 360,000)."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: Professional Master's in Big Data receives guaranteed funding. (FACT: Guaranteed funding applies strictly to thesis-based MSc and PhD degrees; professional programs are self-funded).",
+      "CLAIM: Duolingo is accepted. (FACT: SFU Computing Science does NOT accept Duolingo; IELTS or TOEFL required)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some agencies advertise SFU as requiring GRE; official SFU guidelines confirm GRE is optional and not mandatory."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain minimum cumulative GPA of 3.0 / 4.33 in graduate courses and achieve satisfactory progress on thesis milestones.",
+    "attendance_requirements": "Full-time physical research residency on campus in Metro Vancouver and fulfillment of teaching assistant duties.",
+    "academic_progress_monitoring": "Annual progress reports reviewed by the Supervisory Committee and Departmental Graduate Chair.",
+    "work_restrictions_during_study": "Funded students must fulfill TA duties (typically 12 hours/week) during teaching terms; external off-campus work is restricted to avoid delaying thesis research.",
+    "home_country_return_obligation": "None. International graduates are eligible for Canada's Post-Graduation Work Permit (PGWP) of up to 3 years and British Columbia provincial nomination (BC PNP) permanent residency pathways.",
+    "service_obligations_or_bonds": "Zero service bonds or return obligations.",
+    "repayment_clawback_conditions": "Funding ceases if student withdraws or fails academic standing; past received assistantship funds are not clawed back.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Changing thesis topic or supervisor requires formal department approval.",
+    "extension_policy": "Funding is guaranteed for standard degree duration (2 years MSc, 4 years PhD); subsequent funding extensions depend on supervisor research grants."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Simon Fraser University School of Computing Science Graduate Financial Aid Portal",
+      "source_url": "https://www.sfu.ca/computing/prospective-students/graduate-students/financial-aid.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Lab-specific quota distribution of research assistantships across visual computing vs systems labs.",
+        "Exact interview scoring guidelines used by individual faculty members.",
+        "Historical applicant-to-awardee conversion rates for international applicants."
+      ]
+    },
+    {
+      "source_name": "Simon Fraser University Graduate Studies Admissions Guidelines",
+      "source_url": "https://www.sfu.ca/gradstudies/apply.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Waitlist ranking metrics and release dates for unfilled graduate slots.",
+        "Departmental top-up pools for international student health insurance coverage."
+      ]
+    }
+  ]
+}

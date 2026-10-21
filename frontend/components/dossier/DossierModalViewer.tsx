@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { createPortal } from "react-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import { CanonicalDossier } from "@/lib/ranking/types";
@@ -23,6 +23,7 @@ export const DossierModalViewer: React.FC<DossierModalViewerProps> = ({
 }) => {
   const [mounted, setMounted] = useState(false);
   const [activeTab, setActiveTab] = useState<"WEB" | "PDF">(initialTab);
+  const scrollContainerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     setMounted(true);
@@ -44,6 +45,16 @@ export const DossierModalViewer: React.FC<DossierModalViewerProps> = ({
     }
   }, [isOpen, mounted]);
 
+  // Auto-focus scroll container to enable immediate keyboard navigation (Arrow keys, PageUp/Down, Space)
+  useEffect(() => {
+    if (isOpen && mounted) {
+      const timer = setTimeout(() => {
+        scrollContainerRef.current?.focus({ preventScroll: true });
+      }, 60);
+      return () => clearTimeout(timer);
+    }
+  }, [isOpen, mounted, activeTab]);
+
   // Keyboard shortcut listener for Escape key
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -56,6 +67,52 @@ export const DossierModalViewer: React.FC<DossierModalViewerProps> = ({
     }
     return () => window.removeEventListener("keydown", handleKeyDown);
   }, [isOpen, onClose]);
+
+  // Active non-passive wheel listener: guarantees vertical scrolling never freezes
+  // when hovering over horizontal tables (Multi-Scholarship Comparative Ranking Portfolio)
+  useEffect(() => {
+    if (!isOpen || !mounted) return;
+    const container = scrollContainerRef.current;
+    if (!container) return;
+
+    const handleNativeWheel = (e: WheelEvent) => {
+      const target = e.target as HTMLElement | null;
+      if (!target) return;
+
+      // Check if wheel gesture originated inside a horizontal table/scroll area
+      const horizContainer = target.closest(".overflow-x-auto") as HTMLElement | null;
+      if (!horizContainer) return;
+
+      // If user is intentionally scrolling horizontally (trackpad 2-finger pan, Shift+Wheel)
+      // and the table has remaining horizontal scroll room, let native horizontal scroll execute.
+      const hasHorizontalOverflow = horizContainer.scrollWidth > horizContainer.clientWidth;
+      if (Math.abs(e.deltaX) > Math.abs(e.deltaY) && hasHorizontalOverflow) {
+        return;
+      }
+
+      // Otherwise, the user is scrolling vertically over a table that has no vertical overflow.
+      // Prevent Chromium's horizontal gesture latch from trapping/swallowing the vertical wheel,
+      // and scroll the modal container directly without any dead-zones.
+      e.preventDefault();
+      const deltaMultiplier = e.deltaMode === 1 ? 24 : e.deltaMode === 2 ? window.innerHeight : 1;
+      container.scrollTop += e.deltaY * deltaMultiplier;
+    };
+
+    container.addEventListener("wheel", handleNativeWheel, { passive: false });
+    return () => {
+      container.removeEventListener("wheel", handleNativeWheel);
+    };
+  }, [isOpen, mounted, activeTab]);
+
+  // Forward wheel gestures landing on header or non-scrollable bars directly to scroll container
+  const handleModalWheel = (e: React.WheelEvent<HTMLDivElement>) => {
+    const target = e.target as HTMLElement;
+    if (!scrollContainerRef.current) return;
+    // If the event happened on the modal header or outside window frame
+    if (target.closest(".no-print") || target === e.currentTarget) {
+      scrollContainerRef.current.scrollTop += e.deltaY;
+    }
+  };
 
   const scholarshipId = dossier?.opportunity?.id || dossier?.scholarshipId || "opportunity";
 
@@ -86,6 +143,7 @@ export const DossierModalViewer: React.FC<DossierModalViewerProps> = ({
             animate={{ opacity: 1, scale: 1, y: 0 }}
             exit={{ opacity: 0, scale: 0.98, y: 10 }}
             transition={{ duration: 0.16 }}
+            onWheel={handleModalWheel}
             className="relative w-full max-w-[1140px] h-full sm:h-[93vh] max-h-[100dvh] sm:max-h-[93vh] bg-[#FAFAF9] rounded-none sm:rounded-2xl shadow-2xl flex flex-col min-h-0 overflow-hidden border-0 sm:border sm:border-white/20 z-[1001] select-text dossier-modal-window"
           >
             {/* Top Modal Header */}
@@ -193,7 +251,8 @@ export const DossierModalViewer: React.FC<DossierModalViewerProps> = ({
 
             {/* Scrollable Document Content Area with min-h-0 and momentum scrolling */}
             <div
-              className="flex-1 min-h-0 h-full overflow-y-auto overscroll-contain dossier-scroll touch-pan-y"
+              ref={scrollContainerRef}
+              className="flex-1 min-h-0 w-full overflow-y-auto overflow-x-hidden overscroll-y-contain dossier-scroll dossier-scroll-gutter scroll-smooth focus:outline-none"
               tabIndex={0}
               style={{ WebkitOverflowScrolling: "touch" }}
             >

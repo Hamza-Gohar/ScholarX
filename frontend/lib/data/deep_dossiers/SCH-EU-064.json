@@ -1,0 +1,283 @@
+{
+  "scholarship_id": "SCH-EU-064",
+  "basic_details": {
+    "scholarship_name": "Vrije Universiteit Brussel (VUB) Grand Établissement Excellence Scholarship (Belgium)",
+    "offering_entity": "Vrije Universiteit Brussel (Faculty of Sciences and Bioengineering Sciences)",
+    "host_country": "Belgium",
+    "host_institutions_covered": "Vrije Universiteit Brussel (VUB) - Brussels Humanities, Sciences & Engineering Campus",
+    "degree_levels": [
+      "Master of Science (MSc)"
+    ],
+    "major_restrictions": "MSc Computer Science (Applied Artificial Intelligence, Software Languages & Software Engineering, Data Management & Analytics) and Bioengineering Sciences.",
+    "number_of_awards_total": "~15 to 25 competitive international excellence scholarships per academic year",
+    "number_of_awards_pakistan": "Open globally to non-EEA nationals; typically 2 to 4 Pakistani scholars selected in advanced computer science tracks",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "24 months (2-year standard master's programme duration subject to first-year academic progression)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to all international non-EEA applicants, including citizens of Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Preference given to recent graduates within 3 to 5 years of completing undergraduate degree.",
+    "academic_qualifications": "Recognized 4-year Bachelor of Science (BS / BSc 16-year) in Computer Science, Software Engineering, Artificial Intelligence, or Informatics with distinguished academic record (minimum CGPA 3.50 / 4.00 or 80%+ equivalent to Belgian Magna Cum Laude distinction).",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum CGPA 3.50 / 4.00; selected candidates typically maintain CGPA >= 3.70 / 4.00 with top honors in computing courses.",
+    "subject_background_prerequisites": "Substantial theoretical and practical foundation in algorithms, software engineering, databases, discrete mathematics, and programming paradigms.",
+    "current_education_status": "Graduated or currently in final semester of undergraduate degree graduating by August 2027.",
+    "graduation_year_restrictions": "Graduation within preceding 5 years.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Relevant research contributions, open-source projects, or software engineering experience highly valued.",
+    "english_test_required": false,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "English Medium of Instruction (MOI) certificates from recognized Pakistani universities are accepted by VUB Faculty of Sciences; alternatively IELTS Academic 6.5+ or TOEFL iBT 90+.",
+    "other_language_requirements": "Dutch/French proficiency is not required; master's programmes are conducted entirely in English.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Awarded purely on merit, academic caliber, and research potential.",
+    "previous_scholarship_restrictions": "Cannot simultaneously hold Belgian government VLIR-UOS or Master Mind scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for the full 2-year MSc Computer Science program.",
+      "amount": "100% Full Tuition Waiver (~EUR 11,600 total value)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Non-EEA university application screening fee of EUR 84 payable during online application submission.",
+      "amount": "EUR 84 non-refundable application fee"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "Priority access to subsidized VUB on-campus housing at Etterbeek campus (EUR 380 - 480 / month).",
+      "amount": "VUB student housing reservation priority"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "EUR 10,000 per academic year living grant (~EUR 1,000 / month | ~PKR 305,000 / month) disbursed across term periods.",
+      "amount": "EUR 10,000 / academic year (~PKR 305,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Airfare from Pakistan to Brussels is covered by the student.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Belgian long-stay student visa (Type D) administrative fee (~EUR 230) paid to Belgian Immigration Office.",
+      "amount": "EUR 230 Belgian student visa fee"
+    },
+    "health_insurance": {
+      "status": "SUBSIDIZED",
+      "details": "Mandatory Belgian Mutuelle health insurance coverage subsidized (~EUR 100/yr).",
+      "amount": "Belgian health insurance registration support"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized meals at VUB student restaurant (Resto) on Etterbeek campus (~EUR 4 to 6 per warm meal).",
+      "amount": "Subsidized campus Resto dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Course reading materials, electronic databases, and journals provided through VUB Central Library.",
+      "amount": "100% Free digital library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Access to state-of-the-art AI lab resources, computing clusters, and high-performance computing (VSC - Flemish Supercomputer Center).",
+      "amount": "Full lab and supercomputing access"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized Brussels student public transport pass (STIB/MIVB ~EUR 12/year).",
+      "amount": "Subsidized Brussels public transport"
+    },
+    "total_estimated_value_usd_per_year": 21000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Vrije Universiteit Brussel - VUB, Brussels, Belgium).",
+    "participating_institutions": [
+      "Vrije Universiteit Brussel (VUB) - Etterbeek Campus, Brussels"
+    ],
+    "university_rankings_scope": "Top 200 globally in Computer Science (QS World University Rankings by Subject); major European center for Artificial Intelligence.",
+    "available_majors": [
+      "MSc Computer Science (Applied Artificial Intelligence)",
+      "MSc Computer Science (Software Languages & Software Engineering)",
+      "MSc Computer Science (Data Management & Analytics)",
+      "MSc Applied Computer Science"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (120 ECTS credits)",
+    "admission_requirements_summary": "Bachelor degree in Computer Science or Software Engineering with CGPA 3.50+ / 4.00, detailed course descriptions, MOI certificate or IELTS 6.5+, CV, motivation letter, and EUR 84 application fee.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Single application portal; Artificial Intelligence specialization has higher selectivity.",
+    "strategic_program_match_advice": "Detail prior coursework in logic, machine learning, and algorithm design to ensure smooth credit evaluation."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.vub.be/en/apply",
+    "portal_system_name": "VUB Online Application System",
+    "account_creation_instructions": "Register on the VUB application portal, select MSc Computer Science, complete personal details, upload certified academic transcripts, syllabus descriptions, and motivation essay, and submit scholarship application section.",
+    "step_by_step_workflow": [
+      "Step 1: Create an applicant profile on VUB Online Application portal and select MSc Computer Science.",
+      "Step 2: Upload certified digital copies of Bachelor degree, detailed transcripts, course descriptions, CV, and motivation letter.",
+      "Step 3: Tick the scholarship consideration box in the application questionnaire and upload an additional 1-page Scholarship Essay outlining academic achievements.",
+      "Step 4: Pay the EUR 84 application fee online before the international deadline (February 15).",
+      "Step 5: Applications are assessed by the Faculty Admissions Board and Scholarship Selection Committee.",
+      "Step 6: Shortlisted applicants may be invited for an online academic interview with program coordinators.",
+      "Step 7: Official scholarship award and admission letters issued by May; accept the offer and initiate Belgian visa procedure."
+    ],
+    "university_vs_scholarship_routing": "Integrated Routing: Students apply for the MSc program and tick the excellence scholarship consideration checkbox within the single institutional portal.",
+    "recommendation_letters_submission_method": "Submitted online by two university academic professors via institutional email letters.",
+    "personal_statement_prompts": "Combined motivation and scholarship essay demonstrating why applicant excels in computing and how they plan to leverage VUB's AI and software engineering research.",
+    "study_plan_research_proposal_requirements": "Overview of previous final year project or proposed thesis area in applied AI, software engineering, or data analytics.",
+    "cv_format_requirements": "Curriculum vitae detailing programming stacks, open-source projects, and academic honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical video interview with program professors evaluating computational logic and software concepts.",
+    "standardized_tests": "MOI certificate accepted, or IELTS Academic 6.5+ / TOEFL iBT 90+.",
+    "application_fee_amount": "EUR 84 (non-refundable application evaluation fee)",
+    "attestation_requirements": "HEC degree attestation required for Pakistani applicants.",
+    "translation_requirements": "Certified English or Dutch/French translation.",
+    "final_submission_method": "Online submission via VUB application portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor Degree Certificate",
+      "mandatory": true,
+      "specification": "HEC-attested undergraduate degree in Computer Science, Software Engineering, or related discipline.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete semester-wise transcripts showing all subjects, grades, and CGPA.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Course Descriptions / Syllabus",
+      "mandatory": true,
+      "specification": "Brief summaries of computer science courses completed during undergraduate studies.",
+      "pakistan_specific_instruction": "Official university syllabus booklet or course outline."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Comprehensive CV highlighting coding languages, GitHub portfolio, and academic projects.",
+      "pakistan_specific_instruction": "European tabular CV."
+    },
+    {
+      "document_name": "Letter of Motivation & Scholarship Essay",
+      "mandatory": true,
+      "specification": "2-page personal statement explaining technical ambitions and reasons for scholarship candidacy.",
+      "pakistan_specific_instruction": "State personal contribution and future goals."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Letters signed by university professors evaluating intellectual capacity and dedication.",
+      "pakistan_specific_instruction": "On official university letterhead with stamps."
+    },
+    {
+      "document_name": "English Proficiency Proof",
+      "mandatory": true,
+      "specification": "Official MOI certificate from Pakistani university or IELTS (min 6.5) / TOEFL (min 90).",
+      "pakistan_specific_instruction": "MOI certificate acceptable."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-15",
+    "application_deadline": "2027-02-15",
+    "university_admission_deadline": "2027-02-15",
+    "document_submission_deadline": "2027-02-15",
+    "recommendation_letters_deadline": "2027-02-28",
+    "interview_period": "March to April 2027",
+    "shortlist_announcement": "Late April 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "2027-09-20",
+    "annual_cycle_notes": "Non-EEA applicants requiring visa must submit full application by February 15."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "50% (Undergraduate CGPA and mathematical/programming coursework excellence)",
+    "extracurricular_and_leadership_weight": "5% (Student leadership or competitive programming)",
+    "research_experience_weight": "20% (Quality of final year project, coding projects, or published research)",
+    "work_experience_weight": "5% (Software engineering internships or development experience)",
+    "personal_statement_weight": "10% (Clarity of technical goals and scholarship essay)",
+    "recommendations_weight": "5% (Faculty professor appraisals)",
+    "interview_weight": "5% (Online academic discussion and clarity of career aspirations)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure merit scholarship)",
+    "selection_panel_composition": "VUB Faculty of Sciences Admissions Committee and Computer Science Departmental Board.",
+    "evaluation_methodology": "Faculty review committee rates applicants on GPA, curricular prerequisites, motivation, and references."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~600 to 900 international candidates for MSc Computer Science",
+    "total_scholarships_awarded": "~15 to 25 scholarships across the faculty",
+    "acceptance_rate_global": "~12%",
+    "acceptance_rate_pakistan": "~15% for applicants with CGPA >= 3.65 and strong software portfolio",
+    "typical_successful_applicant_gpa": "3.72 / 4.00 (Belgian Magna Cum Laude equivalent)",
+    "typical_academic_and_research_profile": "Top computer science and software engineering graduates with solid project portfolios and strong algorithmic foundations.",
+    "common_backgrounds_of_winners": "Graduates from NUST, FAST-NUCES, LUMS, ITU Lahore, and UET Lahore.",
+    "high_representation_countries": "Pakistan, India, Turkey, Egypt, Vietnam, Brazil, Colombia.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only use official portal https://www.vub.be/en/apply.",
+      "Beware of unauthorized intermediaries offering guaranteed Belgian admissions."
+    ],
+    "application_fee_warning": "Official VUB application fee is exactly EUR 84 payable only via the university's secured payment portal.",
+    "agent_and_intermediary_warnings": "VUB does not collaborate with education consultants for scholarship allocation. Direct submission is strictly mandatory.",
+    "hidden_costs_breakdown": [
+      "Application fee: EUR 84.",
+      "Belgian student visa administrative fee: ~EUR 230.",
+      "First month rental deposit for student accommodation: approx. EUR 750 - 900.",
+      "Public transit seasonal pass in Brussels: ~EUR 12/yr subsidized student STIB pass.",
+      "Flight from Pakistan to Brussels: ~PKR 170,000 to 240,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You cannot obtain a Belgian student visa without a blocked bank account. Reality: VUB's official scholarship confirmation letter fulfills Belgian Immigration Annex 32 financial requirements completely.",
+      "Myth: Knowledge of French or Dutch is mandatory. Reality: Brussels is bilingual but VUB's MSc Computer Science is delivered 100% in English."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently claim that IELTS is strictly mandatory; VUB Faculty of Sciences officially accepts MOI certificates from recognized Pakistani universities."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass at least 50 ECTS in the first academic year to secure scholarship renewal for year 2.",
+    "attendance_requirements": "Mandatory presence for all laboratory practica, seminars, and examination sessions.",
+    "academic_progress_monitoring": "End of semester examination board evaluations (January and June sessions).",
+    "work_restrictions_during_study": "Part-time work permitted up to 20 hours per week during academic semesters.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Termination of grant if scholar ceases registration or fails credit progression threshold.",
+    "rules_for_changing_university": "Non-transferable to other Belgian universities.",
+    "rules_for_changing_major": "Switching tracks within MSc Computer Science (e.g., AI to Software Engineering) permitted with department director approval.",
+    "extension_policy": "Strictly limited to 2 academic years (4 semesters)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Vrije Universiteit Brussel Scholarships Portal",
+      "source_url": "https://www.vub.be/en/studying-vub/practical-info-for-students/scholarships/vub-scholarships",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "VUB Faculty of Sciences Computer Science Admissions",
+      "source_url": "https://www.vub.be/en/study/applied-sciences-and-engineering/master-computer-science",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

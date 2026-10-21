@@ -1,0 +1,284 @@
+{
+  "scholarship_id": "SCH-EU-081",
+  "basic_details": {
+    "scholarship_name": "Gran Sasso Science Institute (GSSI) International PhD Fellowships",
+    "offering_entity": "Gran Sasso Science Institute (GSSI - Scuola Superiore Universitaria)",
+    "host_country": "Italy",
+    "host_institutions_covered": "Gran Sasso Science Institute (L'Aquila, Italy) & INFN Gran Sasso National Laboratory (LNGS)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Computer Science (Software Engineering, Algorithms, Cyber-Physical Systems), Astroparticle Physics, Mathematics in Natural, Social and Life Sciences, and Regional Science & Economic Geography.",
+    "number_of_awards_total": "~30 to 36 fully funded doctoral fellowships awarded annually across the 4 PhD programmes",
+    "number_of_awards_pakistan": "Open globally to candidates of all nationalities; typically 2 to 4 Pakistani scholars selected per cohort",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "48 months (4 full years of doctoral funding)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to candidates of any nationality and country of residence, including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction under Italian doctoral regulations.",
+    "academic_qualifications": "Recognized 18-year Master's degree (MS / MPhil / MSc) or 4/5-year university degree from an HEC-recognized university with high academic standing (minimum CGPA 3.50 / 4.00 or 78%+).",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum CGPA 3.50 / 4.00; competitive candidates typically possess CGPA >= 3.70 / 4.00.",
+    "subject_background_prerequisites": "Master's degree in Computer Science, Software Engineering, Mathematics, Physics, or related quantitative field.",
+    "current_education_status": "Graduated or enrolled in final semester of master's degree graduating by October 31 of intake year.",
+    "graduation_year_restrictions": "No restriction on year of graduation.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Relevant research publications, conference contributions, or software engineering experience strongly valued.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "Official IELTS 6.5+, TOEFL 90+, Cambridge C1/C2, or official Medium of Instruction (MOI) certificate indicating previous degree was taught entirely in English.",
+    "other_language_requirements": "Italian language proficiency is not required; research and coursework are 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Awarded purely on merit through international competitive examination.",
+    "previous_scholarship_restrictions": "Candidates who have previously held an Italian ministerial PhD scholarship cannot receive funding for the same degree level.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% tuition-free public Italian higher education; zero enrollment fees.",
+      "amount": "100% Free Tuition"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Applying to GSSI PhD programmes is completely free of charge.",
+      "amount": "EUR 0"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Free accommodation provided in GSSI guest house/student residences for the 1st year; EUR 350 / month housing contribution voucher provided for years 2, 3, and 4.",
+      "amount": "Free 1st-year housing + EUR 350/mo housing voucher"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "EUR 1,350 / month net living stipend (~PKR 410,000 / month | EUR 16,243 net per year) for 48 months.",
+      "amount": "EUR 1,350 / month net (~PKR 410,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Initial relocation travel between Pakistan and Italy is self-funded.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Italian National Visa (Type D) application fee (~EUR 116) paid at Italian Embassy in Islamabad or Consulate in Karachi.",
+      "amount": "EUR 116 visa fee borne by candidate"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full registration with the Italian National Health Service (Servizio Sanitario Nazionale - SSN) covered for international fellows.",
+      "amount": "100% Italian SSN Healthcare covered"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Free lunch and dinner meal vouchers for GSSI partner canteens and restaurants in L'Aquila.",
+      "amount": "Free daily canteen meal vouchers"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Dedicated individual office space, personal laptop, and full access to electronic journal databases.",
+      "amount": "Free laptop, desk space, and library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "50% increase in monthly stipend during approved research mobility periods abroad (up to 12 months) + dedicated conference budget.",
+      "amount": "50% stipend boost abroad + travel budget"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized local bus transit in L'Aquila and shuttle access to LNGS underground laboratory.",
+      "amount": "Subsidized municipal transit & LNGS shuttle"
+    },
+    "total_estimated_value_usd_per_year": 28000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Gran Sasso Science Institute - GSSI, L'Aquila, Abruzzo, Italy).",
+    "participating_institutions": [
+      "Gran Sasso Science Institute (GSSI)",
+      "INFN Laboratori Nazionali del Gran Sasso (LNGS)"
+    ],
+    "university_rankings_scope": "Elite Italian institute of advanced studies; world-renowned for astroparticle physics, software verification, and algorithmic game theory.",
+    "available_majors": [
+      "PhD in Computer Science (Formal Methods, Distributed Systems, Software Engineering, AI)",
+      "PhD in Astroparticle Physics (Neutrino Physics, Dark Matter, Gravitational Waves)",
+      "PhD in Mathematics in Natural, Social and Life Sciences",
+      "PhD in Regional Science and Economic Geography"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "4 years (48 months full-time research)",
+    "admission_requirements_summary": "Master's degree (CGPA >= 3.50/4.00), academic CV, master's thesis summary, research proposal or statement of research interests, two recommendation letters, and online interview.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Single unified application; admission automatically includes the full fellowship and room/board package.",
+    "strategic_program_match_advice": "Computer Science applicants should emphasize formal verification, concurrent systems, distributed algorithms, or machine learning theory."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://applications.gssi.it/phd/",
+    "portal_system_name": "GSSI Online PhD Application Portal",
+    "account_creation_instructions": "Register on the GSSI application portal, select chosen PhD course, fill personal details, upload academic transcripts, CV, research proposal/interests statement, and register two academic referees before May 23.",
+    "step_by_step_workflow": [
+      "Step 1: Check PhD course descriptions, research themes, and faculty profiles on gssi.it.",
+      "Step 2: Prepare academic transcripts, master's degree certificate, CV, research interests statement, and two academic referee contacts.",
+      "Step 3: Register on GSSI PhD application portal between February and May.",
+      "Step 4: Upload all required documents and submit the online application before May 23, 15:00 CEST.",
+      "Step 5: Selection Committee evaluates candidate dossiers and publishes the shortlist for online interviews in June.",
+      "Step 6: Shortlisted candidates attend an online technical interview via Zoom.",
+      "Step 7: Final merit ranking list published on the GSSI website in July.",
+      "Step 8: Admitted candidates confirm acceptance and initiate Italian Type D study visa application."
+    ],
+    "university_vs_scholarship_routing": "Integrated Routing: Admission and scholarship are awarded together in a single competition.",
+    "recommendation_letters_submission_method": "Submitted online by two university academic professors directly via referee invitation link.",
+    "personal_statement_prompts": "Statement of research interests outlining proposed research topics, methodological approach, and reasons for choosing GSSI.",
+    "study_plan_research_proposal_requirements": "Short research proposal or research interests statement (maximum 3 pages) demonstrating scientific curiosity and alignment with GSSI research groups.",
+    "cv_format_requirements": "Comprehensive academic CV detailing publications, preprints, software projects, and academic honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "Comprehensive online interview via Zoom evaluating academic background, research interests, master's thesis, and technical questions.",
+    "standardized_tests": "IELTS 6.5+ or TOEFL 90+ / MOI certificate accepted.",
+    "application_fee_amount": "EUR 0 (Completely free to apply)",
+    "attestation_requirements": "Declaration of Value (DOV) or CIMEA Statement of Comparability required for Italian visa and matriculation.",
+    "translation_requirements": "Certified English or Italian translation.",
+    "final_submission_method": "Online submission via GSSI portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Master's and Bachelor's Degree Certificates",
+      "mandatory": true,
+      "specification": "HEC-attested degrees or certificate of expected graduation by October 31.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts of bachelor's and master's courses with grades and credit hours.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Academic CV detailing qualifications, publications, awards, and coding skills.",
+      "pakistan_specific_instruction": "Clear layout."
+    },
+    {
+      "document_name": "Statement of Research Interests / Proposal",
+      "mandatory": true,
+      "specification": "Max 3-page research statement describing proposed research direction and motivation.",
+      "pakistan_specific_instruction": "Aligned with GSSI faculty research."
+    },
+    {
+      "document_name": "Master's Thesis Abstract",
+      "mandatory": true,
+      "specification": "Summary of master's thesis or final year research project.",
+      "pakistan_specific_instruction": "Summary of experimental or theoretical results."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from university professors submitted directly via portal.",
+      "pakistan_specific_instruction": "On institutional letterhead."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear scan of passport identification page.",
+      "pakistan_specific_instruction": "Valid for at least 2 years."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2027-02-01",
+    "application_deadline": "2027-05-23",
+    "university_admission_deadline": "2027-05-23",
+    "document_submission_deadline": "2027-05-23",
+    "recommendation_letters_deadline": "2027-05-30",
+    "interview_period": "June 15 to June 30, 2027",
+    "shortlist_announcement": "Early July 2027",
+    "final_result_acceptance_deadline": "Within 10 days of publication",
+    "visa_application_window": "July to September 2027",
+    "semester_commencement": "2027-11-01",
+    "annual_cycle_notes": "GSSI annual call opens in February and closes in late May; academic year begins on November 1."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Academic transcript excellence, course grades, and master's degree marks)",
+    "extracurricular_and_leadership_weight": "5% (Scientific community involvement, hackathons, seminars)",
+    "research_experience_weight": "30% (Quality of master's thesis abstract, research proposal, and publications)",
+    "work_experience_weight": "5% (Industry R&D experience in tech or engineering)",
+    "personal_statement_weight": "10% (Clarity of scientific motivation in research statement)",
+    "recommendations_weight": "5% (Academic referee appraisals)",
+    "interview_weight": "15% (Online technical interview performance and scientific discussion)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure merit competition)",
+    "selection_panel_composition": "International Selection Committee comprising GSSI faculty and external university professors.",
+    "evaluation_methodology": "Two-phase evaluation: academic dossier assessment (minimum 30/50 to be shortlisted) followed by interview (minimum 30/50 to be admitted)."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,200 to 1,800 international applicants across the 4 PhD courses",
+    "total_scholarships_awarded": "~30 to 36 fully funded fellowships",
+    "acceptance_rate_global": "~2.5%",
+    "acceptance_rate_pakistan": "~4% to 6% among shortlisted master's graduates with strong thesis backgrounds",
+    "typical_successful_applicant_gpa": "3.75 / 4.00 (top 5% class ranking)",
+    "typical_academic_and_research_profile": "Graduates in computer science, physics, or mathematics with solid theoretical backgrounds and published research.",
+    "common_backgrounds_of_winners": "Graduates from NUST, FAST-NUCES, Quaid-i-Azam University, PIEAS, and LUMS.",
+    "high_representation_countries": "Italy, Pakistan, India, Turkey, Iran, Russia, China, Brazil.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portal https://applications.gssi.it/phd/.",
+      "Beware of intermediaries claiming to offer admissions to Italian doctoral schools."
+    ],
+    "application_fee_warning": "Applying to GSSI is 100% free of charge.",
+    "agent_and_intermediary_warnings": "GSSI does not cooperate with educational agents or commercial recruiters.",
+    "hidden_costs_breakdown": [
+      "Application fee: EUR 0 (Free).",
+      "Italian Student Visa fee: ~EUR 116 (~PKR 35,000).",
+      "CIMEA Statement of Comparability / DOV legalization: ~EUR 150 - 200 (~PKR 45,000 - 60,000).",
+      "Flight from Pakistan to Rome: ~PKR 150,000 to 220,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Italian language is required. Reality: All PhD courses, seminars, and thesis defenses are conducted entirely in English.",
+      "Myth: Housing must be found independently upon arrival. Reality: GSSI provides free housing for all first-year PhD students in its own residential facilities."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial forums claim IELTS is strictly mandatory; GSSI officially accepts university MOI certificates indicating prior degree was English-taught."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Successful completion of first-year courses and passing annual PhD progression reviews.",
+    "attendance_requirements": "Mandatory full-time attendance at GSSI in L'Aquila; active participation in doctoral seminars.",
+    "academic_progress_monitoring": "Annual progress report and seminar presentation evaluated by the PhD Teaching Board.",
+    "work_restrictions_during_study": "Scholars may not engage in outside employment during the doctoral programme; full dedication to research is mandatory.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Termination of fellowship if candidate fails annual progression review or voluntarily withdraws.",
+    "rules_for_changing_university": "Non-transferable to other Italian universities.",
+    "rules_for_changing_major": "Research topic defined under the guidance of supervisor within the admitted PhD track.",
+    "extension_policy": "Fellowship is granted strictly for 4 years (48 months)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Gran Sasso Science Institute Official Portal",
+      "source_url": "https://www.gssi.it/phd/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "GSSI PhD Applications System",
+      "source_url": "https://applications.gssi.it/phd/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

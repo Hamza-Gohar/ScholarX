@@ -1,0 +1,265 @@
+{
+  "scholarship_id": "SCH-OC-003",
+  "basic_details": {
+    "scholarship_name": "University of Melbourne Graduate Research Scholarships",
+    "offering_entity": "University of Melbourne & Australian Government Research Training Program (RTP)",
+    "host_country": "Australia",
+    "host_institutions_covered": "University of Melbourne (Parkville, Southbank, Burnley campuses)",
+    "degree_levels": [
+      "Master's by Research",
+      "PhD"
+    ],
+    "major_restrictions": "Open across all faculties: Engineering & IT, Medicine, Dentistry & Health Sciences, Science, Arts & Humanities, Business & Economics, Law, Veterinary & Agricultural Sciences, Fine Arts & Music.",
+    "number_of_awards_total": "~600 scholarships awarded annually (covers domestic and international)",
+    "number_of_awards_pakistan": "Open globally; approximately 300 awards reserved for international graduate researchers",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years for Master's by Research; up to 3.5 to 4 years for Doctoral (PhD) degrees"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international citizens of all countries including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limits.",
+    "academic_qualifications": "Completed at least a 4-year undergraduate degree with substantial research project (minimum 25% research) or Master's degree by research from an accredited institution.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Minimum equivalent to University of Melbourne First Class Honours (H1 - 80%+ or 3.70+ / 4.00 CGPA).",
+    "subject_background_prerequisites": "Substantial research background in the proposed discipline with prior thesis or publications.",
+    "current_education_status": "Graduated or in final semester of research master's or 4-year honours bachelor's degree.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Research publications, conference proceedings, or relevant industry R&D experience significantly enhances competitiveness score.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 79,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic 6.5 (no band below 6.0) or TOEFL iBT 79 (writing 21, speaking 18, reading 13, listening 13); higher for Law/Humanities."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "Equal opportunity; diversity encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Outstanding research track record.",
+    "previous_scholarship_restrictions": "Must not have already completed a research degree at the same or higher level.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% Full Tuition fee offset (covers all tuition fees up to AUD $110,000 for Masters or AUD $175,000 for PhD).",
+      "amount": "AUD $45,000 to $55,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "University of Melbourne application fee (AUD $130) paid by applicant (waived during certain promotional events or via faculty invitation).",
+      "amount": "AUD $130"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Living expenses covered by living allowance.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Full tax-free living allowance paid fortnightly.",
+      "amount": "AUD $37,000 / year (~AUD $3,083 / month or ~PKR 570,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Relocation grant provided upon relocating from outside Victoria/overseas.",
+      "amount": "AUD $3,000 for international students (~PKR 550,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Australian Student Visa (Subclass 500) application fee (AUD $1,600) paid by candidate.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Overseas Student Health Cover (OSHC) Single membership fully covered for the duration of the student visa.",
+      "amount": "AUD $650 / year"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered from living allowance.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Faculty research travel grants and lab computers provided.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Faculty travel grants of AUD $2,000–$4,000 available for conference presentations.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Included in AUD $3,000 relocation grant.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 58000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: University of Melbourne (Ranked #1 in Australia, Top 15 globally in QS).",
+    "participating_institutions": [
+      "University of Melbourne"
+    ],
+    "university_rankings_scope": "QS World Rank #13; Times Higher Education #37.",
+    "available_majors": [
+      "Computer Science, Artificial Intelligence, Data Science, Electrical Engineering, Mechanical Engineering, Biomedical Sciences, Clinical Medicine, Physics, Chemistry, Mathematics, Veterinary Medicine, Law, Economics, Arts & Design"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years for Masters by Research; 3.5 to 4 years for PhD",
+    "admission_requirements_summary": "All candidates who apply for a graduate research degree are automatically considered for the Graduate Research Scholarship.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Securing prior in-principle endorsement from a Melbourne faculty supervisor is critical before formal application.",
+    "strategic_program_match_advice": "Ensure your Pakistani undergraduate/master's thesis grade is explicitly documented with a research score calculation."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
+    "portal_system_name": "University of Melbourne Online Application Portal",
+    "account_creation_instructions": "Register on the University of Melbourne graduate research application system, upload research proposal, and nominate potential supervisors.",
+    "step_by_step_workflow": [
+      "1. Find a prospective supervisor in your discipline and obtain in-principle endorsement (June-August).",
+      "2. Prepare a 1,500 to 2,500-word Research Proposal.",
+      "3. Submit formal graduate research course application online by the deadline (Round 1: October 31).",
+      "4. Check the box indicating consideration for Graduate Research Scholarships.",
+      "5. Upload academic transcripts, English scores, and publications.",
+      "6. Provide referee reports via online referee tool.",
+      "7. Outcomes released in January/February for Semester 1 (February/March) start."
+    ],
+    "university_vs_scholarship_routing": "Integrated single application for degree admission and scholarship.",
+    "recommendation_letters_submission_method": "Submitted online by referees via Melbourne electronic referee report system.",
+    "personal_statement_prompts": "Demonstrate your research background, motivations, and feasibility of proposed research project.",
+    "study_plan_research_proposal_requirements": "Detailed research proposal outlining research aims, methodology, background, significance, and preliminary bibliography.",
+    "cv_format_requirements": "Academic CV listing academic qualifications, research publications, awards, and professional research roles.",
+    "interviews_conducted": true,
+    "interview_format_details": "Supervisors or departmental committees usually conduct informal 30-minute video interviews before issuing supervisor endorsement.",
+    "standardized_tests": "GRE not required; English language proficiency mandatory.",
+    "application_fee_amount": "AUD $130 (waived if supervisor provides waiver code).",
+    "attestation_requirements": "Certified transcripts and degree certificates from Pakistani universities; HEC attestation required.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "100% Online via University of Melbourne portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Research Proposal",
+      "mandatory": true,
+      "specification": "1,500 to 2,500-word proposal aligned with faculty research focus",
+      "pakistan_specific_instruction": "Developed in coordination with prospective Melbourne supervisor"
+    },
+    {
+      "document_name": "Academic Transcripts & Grading Scale",
+      "mandatory": true,
+      "specification": "Complete transcripts for all undergraduate and postgraduate degrees",
+      "pakistan_specific_instruction": "Must clearly state research thesis component and credit hours"
+    },
+    {
+      "document_name": "Evidence of Research Output",
+      "mandatory": false,
+      "specification": "Copies of published journal articles, conference papers, or book chapters",
+      "pakistan_specific_instruction": "Peer-reviewed publications are crucial for competitive international ranking"
+    },
+    {
+      "document_name": "Two Academic Referee Reports",
+      "mandatory": true,
+      "specification": "Submitted directly by university research supervisors",
+      "pakistan_specific_instruction": "From professors who supervised your BS/MS thesis in Pakistan"
+    },
+    {
+      "document_name": "English Language Test Score",
+      "mandatory": true,
+      "specification": "IELTS Academic (6.5+) or TOEFL iBT (79+)",
+      "pakistan_specific_instruction": "Electronic score report sent to University of Melbourne"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-06-01",
+    "application_deadline": "2026-10-31",
+    "university_admission_deadline": "2026-10-31",
+    "document_submission_deadline": "2026-11-15",
+    "recommendation_letters_deadline": "2026-11-15",
+    "interview_period": "November to December 2026",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-02-15",
+    "visa_application_window": "January to February 2027",
+    "semester_commencement": "February/March 2027 (Round 1) or July 2027 (Round 2)",
+    "annual_cycle_notes": "Round 1 deadline is October 31 (for Feb/March start); Round 2 deadline is April 30 (for July start)."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (First Class Honours H1 equivalent GPA in bachelor/master)",
+    "extracurricular_and_leadership_weight": "5% (Secondary to research excellence)",
+    "research_experience_weight": "40% (Peer-reviewed publications, thesis quality, research experience)",
+    "work_experience_weight": "5% (Industry R&D experience)",
+    "personal_statement_weight": "5% (Quality and alignment of research proposal)",
+    "recommendations_weight": "5% (Referee ratings of research aptitude)",
+    "interview_weight": "Faculty level decision",
+    "test_scores_weight": "Passing threshold required",
+    "financial_need_weight": "0% (Purely merit-based)",
+    "selection_panel_composition": "Faculty Research Committees and Melbourne University Central Scholarships Committee.",
+    "evaluation_methodology": "Competitive faculty merit ranking score (H1 80+ benchmark) combining GPA and research output score."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~5,000 international applicants across all faculties",
+    "total_scholarships_awarded": "~300 international scholarships awarded annually",
+    "acceptance_rate_global": "~6% for international applicants",
+    "acceptance_rate_pakistan": "~3% to 4% (Highly Competitive)",
+    "typical_successful_applicant_gpa": "3.80 to 4.00 CGPA (H1 equivalent)",
+    "typical_academic_and_research_profile": "Candidates with a published journal paper or multiple conference papers and 3.8+ GPA.",
+    "common_backgrounds_of_winners": "Graduates of leading Pakistani universities (NUST, LUMS, Quaid-i-Azam, UET Lahore, Aga Khan University).",
+    "high_representation_countries": "China, India, Pakistan, Iran, USA, UK, Singapore.",
+    "competitiveness_tier": "VERY HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Unauthorized agents promising 'guaranteed Melbourne research scholarships'."
+    ],
+    "application_fee_warning": "Application fee of AUD $130 applies; scholarship application has no extra fee.",
+    "agent_and_intermediary_warnings": "University of Melbourne accepts direct applications; research applications should be handled personally with professors.",
+    "hidden_costs_breakdown": [
+      "Australian student visa fee (AUD $1,600).",
+      "University application fee (AUD $130).",
+      "English language test fees (IELTS/PTE).",
+      "Initial living expenses before first fortnight stipend payment."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You can get this scholarship without prior contact with a professor. (Fact: In most faculties, including Engineering and Science, you must have confirmed supervisor support before applying).",
+      "MYTH: Coursework Master's students get this scholarship. (Fact: Strictly for Master's by Research and PhD candidates)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "External blogs quote outdated stipend values of AUD $31,000; the official rate is now indexed at AUD $37,000+ per year."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must achieve satisfactory progress in annual research confirmation milestones (Confirmation of Candidature at 12 months).",
+    "attendance_requirements": "Full-time on-campus research candidature in Melbourne, Australia.",
+    "academic_progress_monitoring": "Annual progress reports signed by supervisory committee and head of department.",
+    "work_restrictions_during_study": "Permitted to work up to standard research student guidelines (typically up to 6-8 hrs/week during normal research hours, or tutoring/demonstrating).",
+    "home_country_return_obligation": "None; scholars are eligible for Australian Temporary Graduate Visa (Subclass 485 - Post-Study Work stream) for up to 3 to 4 years post-PhD.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Termination of scholarship occurs if student fails confirmation milestone or withdraws from research program.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Changing research projects within the faculty is permitted subject to supervisor and faculty approval.",
+    "extension_policy": "PhD scholarships may be extended for up to 6 months in exceptional circumstances with documented research delays."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Melbourne - Graduate Research Scholarships Portal",
+      "source_url": "https://scholarships.unimelb.edu.au/awards/graduate-research-scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact faculty-by-faculty scoring rubric that converts Pakistani CGPA into Australian H1 equivalents",
+        "Internal allocation quotas between different academic departments"
+      ]
+    }
+  ]
+}

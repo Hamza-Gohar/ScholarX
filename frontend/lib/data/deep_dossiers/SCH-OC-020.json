@@ -1,0 +1,284 @@
+{
+  "scholarship_id": "SCH-OC-020",
+  "basic_details": {
+    "scholarship_name": "Victoria University of Wellington Doctoral Scholarship (New Zealand)",
+    "offering_entity": "Victoria University of Wellington (Te Herenga Waka) & New Zealand Government",
+    "host_country": "New Zealand",
+    "host_institutions_covered": "Victoria University of Wellington Campuses (Kelburn, Pipitea, and Te Aro Campuses, Wellington, New Zealand)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "All doctoral research disciplines offered across Wellington Faculty of Science, Wellington Faculty of Engineering, Wellington School of Business and Government, Wellington Faculty of Health, and Wellington Faculty of Humanities and Social Sciences.",
+    "number_of_awards_total": "~110 to 140 prestigious doctoral scholarships awarded annually across three competitive rounds",
+    "number_of_awards_pakistan": "Open globally on academic merit; Pakistani scholars regularly secure awards in engineering, computing, and environmental science (~10 to 16 awards annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 3 years (36 months) of full-time doctoral study",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "NZD 30,500 / year (tax-free stipend paid monthly, approx. NZD 2,541 / month; ~PKR 430,000 / month)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international applicants worldwide as well as domestic New Zealand students (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction; evaluated purely on academic merit and research potential.",
+    "academic_qualifications": "16-year Bachelor's degree with First Class Honours or 18-year Master's degree by research with high academic distinction (equivalent to New Zealand First Class Honours, GPA >= 7.5 on 9-point scale or 3.6+ / 4.0) from an HEC-recognized university.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.6,
+    "grading_conversion_notes": "Minimum equivalent to New Zealand First Class Honours (GPA 7.5 / 9.0 or 80%+).",
+    "subject_background_prerequisites": "Substantial research background with formal thesis or dissertation component in qualifying degree.",
+    "current_education_status": "Graduated or final-semester students completing qualifications before PhD commencement.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Peer-reviewed research publications and conference presentations provide substantial competitive advantage.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 overall (no subscore below 6.0) or TOEFL iBT minimum 90 (subscore 20+ in writing) or PTE Academic minimum 58.",
+    "other_language_requirements": "None.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants apply concurrently for doctoral admission and scholarship through the central online application portal.",
+    "previous_scholarship_restrictions": "Cannot hold another major full scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for up to 3 years. In New Zealand, international PhD students are billed at domestic tuition rates (approx. NZD 8,000 - 10,000 / year), fully covered by the award.",
+      "amount": "100% covered tuition fees (~NZD 9,000 / year value; ~PKR 1,530,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Online doctoral applications to Victoria University of Wellington are free of charge.",
+      "amount": "NZD 0 (Free)"
+    },
+    "accommodation": {
+      "status": "NOT_COVERED",
+      "details": "Private rental accommodation or flatting in Wellington arranged independently; funded comfortably through the tax-free living stipend.",
+      "amount": "Funded from stipend (~NZD 1,000 to 1,400 / month flat rent)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Tax-free living stipend of NZD 30,500 / year paid in monthly instalments (~NZD 2,541 / month; ~PKR 430,000 / month).",
+      "amount": "NZD 30,500 / year (~NZD 2,541 / month)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Relocation flights to Wellington are self-funded by the candidate.",
+      "amount": "Not covered"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "New Zealand Fee Paying Student Visa application fee (~NZD 750) paid directly to Immigration New Zealand.",
+      "amount": "Approx. NZD 750 borne by student"
+    },
+    "health_insurance": {
+      "status": "NOT_COVERED",
+      "details": "Mandatory Studentsafe-University comprehensive medical and travel insurance policy paid by student (~NZD 780 / year; easily covered by stipend).",
+      "amount": "Approx. NZD 780 / year borne by student"
+    },
+    "food_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Living and groceries costs funded out of the monthly living stipend.",
+      "amount": "Covered via stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Dedicated postgraduate research desk, computing facilities, software licenses, and university library privileges included.",
+      "amount": "100% covered research infrastructure"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Faculty Research Grants and Postgraduate Research Student Support funds available up to NZD 2,500 for fieldwork and conference presentation.",
+      "amount": "Up to NZD 2,500 conference/fieldwork grant"
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Metlink public transport network in Wellington offers student concession discounts on Snapper cards.",
+      "amount": "Not covered"
+    },
+    "total_estimated_value_usd_per_year": 28000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single premier New Zealand research institution (Victoria University of Wellington).",
+    "participating_institutions": [
+      "Victoria University of Wellington (Kelburn, Pipitea, and Te Aro Campuses, Wellington, New Zealand)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #241, ranked #1 in New Zealand for research intensity and quality by the Performance-Based Research Fund (PBRF).",
+    "available_majors": [
+      "Doctor of Philosophy in Computer Science and Software Engineering",
+      "Doctor of Philosophy in Artificial Intelligence and Data Science",
+      "Doctor of Philosophy in Electronic and Computer Systems Engineering",
+      "Doctor of Philosophy in Renewable Energy and Environmental Science",
+      "Doctor of Philosophy in Physics, Chemistry, and Mathematics",
+      "Doctor of Philosophy in Economics, Finance, and Public Policy",
+      "Doctor of Philosophy in Architecture and Design Innovation",
+      "Doctor of Philosophy in Biological and Biomedical Sciences"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "PhD: Up to 3 years (36 months) full-time",
+    "admission_requirements_summary": "Bachelor Honours 1 or research Master's degree with equivalent GPA >= 7.5/9.0, IELTS 6.5+ or TOEFL 90+, prospective supervisor contact details, academic transcripts, research proposal (2,000 words), CV, and two academic referee letters.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Admissions and scholarships are managed centrally by the Wellington Faculty of Graduate Research (FGR); contacting a prospective supervisor prior to submission to discuss research alignment is strongly recommended.",
+    "strategic_program_match_advice": "Ensure research proposal connects with prominent Wellington research themes (AI, public policy, climate resilience, geothermal energy) and references current work of FGR faculty."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.wgtn.ac.nz/fgr",
+    "portal_system_name": "Faculty of Graduate Research (FGR) Online Doctoral Application Portal",
+    "account_creation_instructions": "Register on the FGR online portal, choose doctoral subject area, indicate application for 'Victoria Doctoral Scholarship', upload academic transcripts, research proposal, and provide referee contact details.",
+    "step_by_step_workflow": [
+      "Step 1: Explore school research areas and identify potential academic supervisors on the FGR website.",
+      "Step 2: Prepare a comprehensive 2-page research outline and CV; contact prospective supervisor to gauge interest.",
+      "Step 3: Register on Wellington Faculty of Graduate Research online application portal.",
+      "Step 4: Complete doctoral admission application and tick 'Apply for Victoria Doctoral Scholarship'.",
+      "Step 5: Upload certified academic transcripts, degree certificates, research proposal (2,000 words), CV, and IELTS/TOEFL scores.",
+      "Step 6: Referees receive automatic email requests to complete confidential academic appraisal reports online.",
+      "Step 7: Central Research Scholarships Committee reviews and ranks dossiers across three annual competitive rounds (March 1, July 1, November 1).",
+      "Step 8: Successful applicants receive formal offer of doctoral study and scholarship award letter; apply for New Zealand student visa."
+    ],
+    "university_vs_scholarship_routing": "Combined Online Application: A single online submission via FGR handles both doctoral program admission and scholarship ranking.",
+    "recommendation_letters_submission_method": "Submitted online via automated referee system following candidate portal registration.",
+    "personal_statement_prompts": "Statement outlining research background, motivations for doctoral study at Wellington, and long-term career aspirations.",
+    "study_plan_research_proposal_requirements": "Research proposal (up to 2,000 words) defining background, research questions, theoretical framework, methodology, and significance.",
+    "cv_format_requirements": "Standard academic research CV detailing educational qualifications, research experience, publications, conference presentations, and technical competencies.",
+    "interviews_conducted": true,
+    "interview_format_details": "Supervisory video interview via Zoom prior to final committee recommendation.",
+    "standardized_tests": "IELTS Academic 6.5+ (no subscore < 6.0) or TOEFL iBT 90+ (writing 20+) mandatory.",
+    "application_fee_amount": "NZD 0 (Free of charge for doctoral applications)",
+    "attestation_requirements": "HEC Pakistan and MoFA Pakistan verified transcripts; official certified copies submitted online.",
+    "translation_requirements": "Certified English translation of all non-English documents.",
+    "final_submission_method": "100% online submission via FGR application system."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Certified Academic Transcripts and Graduation Certificates",
+      "mandatory": true,
+      "specification": "Bachelor Honours 1 or Master's by research degree with GPA >= 7.5/9.0 (equivalent to 80%+ or 3.6/4.0).",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Comprehensive Research Proposal (approx. 2,000 words)",
+      "mandatory": true,
+      "specification": "Detailed doctoral research plan covering literature review, research questions, methodology, and timeline.",
+      "pakistan_specific_instruction": "Structured formal academic proposal."
+    },
+    {
+      "document_name": "English Language Proficiency Test Score",
+      "mandatory": true,
+      "specification": "IELTS Academic minimum 6.5 (no subscore below 6.0) or TOEFL iBT 90+.",
+      "pakistan_specific_instruction": "Official test report form."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Academic research CV highlighting publications, projects, conference presentations, and skills.",
+      "pakistan_specific_instruction": "Detailed academic CV."
+    },
+    {
+      "document_name": "Two Academic Referee Reports",
+      "mandatory": true,
+      "specification": "Confidential reports from former thesis supervisors or senior academic professors.",
+      "pakistan_specific_instruction": "Submitted via automated online referee links."
+    },
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport personal bio-data page.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Applications accepted year-round across three annual cut-off rounds",
+    "application_deadline": "Round 1: March 1 / Round 2: July 1 / Round 3: November 1",
+    "university_admission_deadline": "March 1 / July 1 / November 1",
+    "document_submission_deadline": "March 1 / July 1 / November 1",
+    "recommendation_letters_deadline": "March 15 / July 15 / November 15",
+    "interview_period": "Within 4-6 weeks of round closing",
+    "shortlist_announcement": "Results announced approximately 8-10 weeks after round deadline",
+    "final_result_acceptance_deadline": "4 weeks from scholarship offer date",
+    "visa_application_window": "3-4 months prior to intended commencement date",
+    "semester_commencement": "Flexible commencement dates following acceptance and visa grant",
+    "annual_cycle_notes": "Three distinct annual evaluation rounds closing March 1, July 1, and November 1 annually."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Academic record and First Class Honours equivalency)",
+    "extracurricular_and_leadership_weight": "0% (Not factored into doctoral scholarship ranking)",
+    "research_experience_weight": "35% (Prior research thesis quality, publications, and methodological training)",
+    "work_experience_weight": "5% (Relevant research or professional experience)",
+    "personal_statement_weight": "5% (Statement of intent and proposal quality)",
+    "recommendations_weight": "10% (Confidential academic referee evaluations)",
+    "interview_weight": "5% (Supervisory discussion and interview)",
+    "test_scores_weight": "0% (English proficiency is a mandatory threshold)",
+    "financial_need_weight": "0% (Pure academic merit and research potential)",
+    "selection_panel_composition": "Wellington Research Scholarships Committee comprising Faculty Associate Deans of Research and Dean of Graduate Research.",
+    "evaluation_methodology": "Rigorous competitive ranking based on standard New Zealand H1 equivalency formula and verified research publications."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,000 to 3,000 doctoral applicants across three rounds",
+    "total_scholarships_awarded": "~110 to 140 doctoral scholarships per year across all rounds",
+    "acceptance_rate_global": "~4.0% to 5.5%",
+    "acceptance_rate_pakistan": "~5.0% to 7.0% for applicants holding strong research theses and published papers",
+    "typical_successful_applicant_gpa": "Equivalent to New Zealand First Class Honours (GPA >= 7.5 / 9.0; CGPA >= 3.60 / 4.00), with 1+ peer-reviewed publications",
+    "typical_academic_and_research_profile": "Applicants holding 18-year research master's degrees with strong analytical skills, research publications, and clear alignment with prospective supervisor.",
+    "common_backgrounds_of_winners": "Graduates from leading Pakistani universities (NUST, LUMS, Quaid-i-Azam, COMSATS, GIKI, PIEAS, UET).",
+    "high_representation_countries": "New Zealand, Pakistan, India, China, UK, USA, Germany, Vietnam, Malaysia.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply via official Victoria University of Wellington portal at wgtn.ac.nz/fgr.",
+      "Wellington never charges application fees or commissions."
+    ],
+    "application_fee_warning": "Doctoral application is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Wellington evaluates doctoral scholarships directly through the Research Scholarships Committee; agents cannot influence outcomes.",
+    "hidden_costs_breakdown": [
+      "New Zealand Student Visa application fee: ~NZD 750 (~PKR 128,000).",
+      "Medical examination and chest X-ray in Pakistan: ~PKR 30,000 to 40,000.",
+      "Mandatory Studentsafe-University health insurance: ~NZD 780 / year (~PKR 133,000).",
+      "Initial relocation airfare to Wellington: ~PKR 220,000 to 320,000.",
+      "Initial bond deposit for flatting in Wellington: ~NZD 1,000 to 1,500 (~PKR 170,000 - 255,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: International PhD students pay exorbitant international fees. Reality: New Zealand government policy charges international PhD students the same low domestic fees as NZ citizens, which are fully covered by the scholarship.",
+      "Myth: You can only start in February. Reality: PhD candidates can commence study at almost any agreed month throughout the academic year."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently quote outdated stipend values; current verified stipend is NZD 30,500 per annum."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory full-time research progress through 6-month and annual milestone reporting to FGR.",
+    "attendance_requirements": "Full-time resident candidate in Wellington for the duration of the doctoral program.",
+    "academic_progress_monitoring": "Biannual progress reporting (Six-Month Review and Annual Review) evaluated by supervisory panel and Faculty of Graduate Research.",
+    "work_restrictions_during_study": "International PhD students in New Zealand hold unrestricted work rights on their student visa, but Victoria scholarship regulations recommend capping paid employment at maximum 10-15 hours per week during regular working hours.",
+    "home_country_return_obligation": "None; PhD graduates are eligible for a 3-year New Zealand Post-Study Work Visa upon completion.",
+    "service_obligations_or_bonds": "Zero service bond or repayment liability.",
+    "repayment_clawback_conditions": "Scholarship is cancelled if candidate switches to part-time without permission, withdraws, or fails academic progress milestones.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Permitted only within related discipline with approval from FGR and Dean.",
+    "extension_policy": "Scholarship strictly capped at 36 months; no stipend extensions beyond 3 years."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Victoria University of Wellington Doctoral Scholarships Official Page",
+      "source_url": "https://www.wgtn.ac.nz/scholarships/current/victoria-doctoral-scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Wellington Faculty of Graduate Research (FGR) Admissions",
+      "source_url": "https://www.wgtn.ac.nz/fgr",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

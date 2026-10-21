@@ -1,0 +1,286 @@
+{
+  "scholarship_id": "SCH-ME-017",
+  "basic_details": {
+    "scholarship_name": "Jazan University International Student Scholarship (Kingdom of Saudi Arabia)",
+    "offering_entity": "Ministry of Education of Saudi Arabia & Jazan University",
+    "host_country": "Saudi Arabia",
+    "host_institutions_covered": "Jazan University Main Campus (Jazan City, Red Sea Coast, Kingdom of Saudi Arabia)",
+    "degree_levels": [
+      "Bachelor of Science (BSc)",
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Open to Computer Science and Information Technology, Engineering, Marine and Environmental Sciences, Science, Business Administration, Arts, and Humanities (Medical colleges restricted to Saudi citizens).",
+    "number_of_awards_total": "~200 to 280 external government scholarships awarded annually to international students",
+    "number_of_awards_pakistan": "Open bilateral competition; Pakistani students represent a substantial cohort (~25 to 40 awards annually across engineering, science, and computing)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "4 to 5 years for Bachelor's; 2 years for Master's; 3 to 4 years for PhD (plus 1-year Arabic preparation if required)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International applicants holding non-Saudi citizenship (Pakistan eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 25,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Undergraduate applicants must be between 17 and 25 years old; Master's applicants under 30; PhD applicants under 35 years of age.",
+    "academic_qualifications": "Intermediate (HSSC) / A-Levels with at least 80% aggregate for Bachelor's; recognized 16-year Bachelor's degree for Master's; 18-year Master's degree for PhD from an HEC-recognized institution with a minimum CGPA of 3.00 / 4.00.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Transcript grades evaluated on Saudi 5.0 scale (equivalent to minimum 3.75 / 5.00).",
+    "subject_background_prerequisites": "Pre-Engineering or ICS for Computer Science and Engineering; Pre-Medical or General Science for Marine and Natural Sciences.",
+    "current_education_status": "Applicants must have completed secondary or tertiary education with official certificates available.",
+    "graduation_year_restrictions": "High school diploma must not be older than 3 to 5 years from application date.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; research background beneficial for postgraduates.",
+    "english_test_required": false,
+    "ielts_minimum": 5.5,
+    "toefl_minimum": 65,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "STEM programs are taught in English (MOI certificate accepted; IELTS 5.5+ or TOEFL 65 recommended). Arabic proficiency required for humanities and Islamic studies.",
+    "other_language_requirements": "Free Arabic language instruction provided for non-native speakers.",
+    "gender_specific_requirements": "Female international students must reside in monitored university residential housing or with an officially recognized legal Mahram in Saudi Arabia.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Submitted via unified 'Study in Saudi' portal (studyinsaudi.moe.gov.sa).",
+    "previous_scholarship_restrictions": "Cannot hold any concurrent Saudi government scholarship.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition fee exemption for the entire official duration of study.",
+      "amount": "100% covered (~SAR 25,000 to 40,000 / year value; ~PKR 1,875,000 to 3,000,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Application via 'Study in Saudi' portal is completely free.",
+      "amount": "SAR 0 (100% free)"
+    },
+    "accommodation": {
+      "status": "100% COVERED",
+      "details": "Free furnished student accommodation in Jazan University modern residential halls overlooking the Red Sea, including Wi-Fi, utilities, and sports facilities.",
+      "amount": "100% covered free dormitory room"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Monthly tax-free living stipend paid directly by the university: SAR 840 / month for undergraduate students (~USD 224; ~PKR 63,000 / month); SAR 900 to 1,000 / month for postgraduate students (~USD 240 to 266; ~PKR 67,500 to 75,000 / month).",
+      "amount": "SAR 840 to 1,000 / month (~PKR 63,000 to 75,000 / mo)"
+    },
+    "airfare": {
+      "status": "100% COVERED",
+      "details": "Free annual economy-class round-trip flight ticket between Pakistan and Jazan provided at the end of each academic year.",
+      "amount": "100% covered annual round-trip flight ticket"
+    },
+    "visa_fee": {
+      "status": "100% COVERED",
+      "details": "Official Saudi student visa issued free of charge through the Royal Embassy of Saudi Arabia.",
+      "amount": "100% free / covered"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Comprehensive 100% free healthcare provided at Jazan University Medical Center and regional public hospitals.",
+      "amount": "100% covered free healthcare"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized campus meals served in university cafeterias for SAR 3 to 6 per meal; easily covered by the monthly stipend.",
+      "amount": "Subsidized meals (~SAR 5 per meal)"
+    },
+    "books_and_materials_allowance": {
+      "status": "100% COVERED",
+      "details": "Access to Jazan University digital libraries and research laboratory facilities; initial book allowance provided upon arrival.",
+      "amount": "100% covered"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Postgraduate thesis printing subsidy (SAR 3,000 for Master's, SAR 4,000 for PhD) and financial incentives for scientific publications.",
+      "amount": "SAR 3,000 to 4,000 thesis allowance"
+    },
+    "travel_transit_allowance": {
+      "status": "100% COVERED",
+      "details": "Free university campus shuttle transport between student dormitories and academic faculties.",
+      "amount": "100% free university campus transport"
+    },
+    "total_estimated_value_usd_per_year": 16000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Jazan University, Jazan)",
+    "participating_institutions": [
+      "Jazan University Main Campus (Jazan City, Kingdom of Saudi Arabia)"
+    ],
+    "university_rankings_scope": "QS Arab Region #71-80, Times Higher Education Asia #251-300, recognized for excellence in Marine Sciences, Environmental Studies, and Engineering.",
+    "available_majors": [
+      "Computer Science",
+      "Information Technology",
+      "Computer Engineering and Networks",
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Marine and Fisheries Sciences",
+      "Environmental Sciences",
+      "Chemistry and Industrial Chemistry",
+      "Physics",
+      "Business Administration and Management"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Bachelor's: 4 to 5 years; Master's: 2 years; PhD: 3 to 4 years",
+    "admission_requirements_summary": "Online registration on 'Study in Saudi' portal, high school or university transcripts with minimum 80% / 3.0 CGPA, valid passport copy, police character certificate, medical fitness report, and two academic recommendation letters.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Marine Sciences and Environmental Engineering have prominent research facilities and high international quota availability; Computer Science has strong regional demand.",
+    "strategic_program_match_advice": "Ensure educational documents are verified by IBCC or HEC and attested by the Ministry of Foreign Affairs (MoFA) before uploading to the portal."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://studyinsaudi.moe.gov.sa/ & https://www.jazanu.edu.sa/en",
+    "portal_system_name": "Study in Saudi Portal & Jazan University Deanship of Admissions",
+    "account_creation_instructions": "Register on the 'Study in Saudi' system, choose 'External Scholarship', specify Jazan University, select degree program, and upload color document scans.",
+    "step_by_step_workflow": [
+      "Step 1: Check application window on studyinsaudi.moe.gov.sa (typically opens September/October).",
+      "Step 2: Complete profile registration, enter educational qualifications and percentages.",
+      "Step 3: Upload color scans of passport, educational certificates, transcripts, police report, and medical clearance.",
+      "Step 4: Select Jazan University and arrange desired programs in order of preference.",
+      "Step 5: Submit application online without application fee and retain application tracking reference.",
+      "Step 6: Jazan University admissions board screens applications and submits candidate nominations to the Ministry of Education (December - March).",
+      "Step 7: Final approvals granted by Saudi Ministry of Education and Ministry of Foreign Affairs (May - July).",
+      "Step 8: Admission confirmation and visa authorization issued on the portal.",
+      "Step 9: Complete visa processing at Gerry's / Etimad in Pakistan, obtain university-booked flight ticket, and travel to Jazan in September."
+    ],
+    "university_vs_scholarship_routing": "Integrated Track: Admission and full scholarship are processed concurrently through the 'Study in Saudi' system.",
+    "recommendation_letters_submission_method": "Uploaded as scanned PDF documents on institutional letterhead signed by referees.",
+    "personal_statement_prompts": "Statement explaining motivation for studying at Jazan University and how the chosen discipline aligns with future career goals.",
+    "study_plan_research_proposal_requirements": "For postgraduate applicants: 3 to 5-page research plan detailing problem statement, proposed methodology, and expected outcomes.",
+    "cv_format_requirements": "Academic CV detailing educational trajectory, skills, and extracurricular activities.",
+    "interviews_conducted": false,
+    "interview_format_details": "No oral interview; selection based purely on document evaluation and Ministry verification.",
+    "standardized_tests": "Not required for international external applicants.",
+    "application_fee_amount": "SAR 0 (100% Free)",
+    "attestation_requirements": "Degrees and transcripts must be attested by IBCC / HEC, MoFA Pakistan, and the Saudi Cultural Mission / Royal Embassy of Saudi Arabia.",
+    "translation_requirements": "Certified Arabic or English translation required for documents in other languages.",
+    "final_submission_method": "100% online submission via studyinsaudi.moe.gov.sa."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Certified Academic Certificates and Transcripts",
+      "mandatory": true,
+      "specification": "Complete high school (Intermediate/A-Levels) or degree certificates and grade sheets.",
+      "pakistan_specific_instruction": "Attested by IBCC or HEC and Ministry of Foreign Affairs (MoFA) Pakistan."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Scanned copy of passport info page with at least 18 months remaining validity.",
+      "pakistan_specific_instruction": "Pakistani passport must be valid through late 2027 or 2028."
+    },
+    {
+      "document_name": "Medical Fitness Certificate",
+      "mandatory": true,
+      "specification": "Comprehensive medical examination report certifying freedom from communicable diseases.",
+      "pakistan_specific_instruction": "Conducted at a recognized diagnostic laboratory and attested by MoFA."
+    },
+    {
+      "document_name": "Police Clearance Certificate",
+      "mandatory": true,
+      "specification": "Official certificate confirming no criminal convictions issued within the last 6 months.",
+      "pakistan_specific_instruction": "Issued by Police Khidmat Markaz and attested by MoFA."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Written appraisals from academic teachers or professors endorsing character and competence.",
+      "pakistan_specific_instruction": "On official school/college letterhead with contact details."
+    },
+    {
+      "document_name": "Birth Certificate",
+      "mandatory": true,
+      "specification": "Official birth certificate or NADRA Family Registration Certificate (FRC).",
+      "pakistan_specific_instruction": "NADRA computerized certificate in English attested by MoFA."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "September 1",
+    "application_deadline": "November 15",
+    "university_admission_deadline": "November 15",
+    "document_submission_deadline": "November 15",
+    "recommendation_letters_deadline": "November 15",
+    "interview_period": "No interview conducted",
+    "shortlist_announcement": "May 1 - June 15",
+    "final_result_acceptance_deadline": "June 30",
+    "visa_application_window": "July 1 - August 20",
+    "semester_commencement": "Early September",
+    "annual_cycle_notes": "Single annual intake cycle aligned with the Saudi national 'Study in Saudi' academic admissions calendar."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "50% (Academic percentage and GPA record)",
+    "extracurricular_and_leadership_weight": "5% (Extracurricular participation)",
+    "research_experience_weight": "15% (For postgraduates: research background and proposal)",
+    "work_experience_weight": "5% (Relevant industry/technical experience)",
+    "personal_statement_weight": "10% (Statement of purpose clarity)",
+    "recommendations_weight": "15% (Academic referee assessments)",
+    "interview_weight": "0% (No interview)",
+    "test_scores_weight": "0% (No standardized tests required)",
+    "financial_need_weight": "0% (Merit-based government award)",
+    "selection_panel_composition": "Jazan University Admissions Board and Saudi Ministry of Education Scholarship Committee.",
+    "evaluation_methodology": "Academic ranking followed by governmental security clearance and visa allocation."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~8,000 to 12,000 international applicants across all disciplines",
+    "total_scholarships_awarded": "~200 to 280 international scholarships awarded annually",
+    "acceptance_rate_global": "~2.5%",
+    "acceptance_rate_pakistan": "~4.5% for applicants with top-tier academic scores (85%+)",
+    "typical_successful_applicant_gpa": "85%+ in Intermediate (FSc/ICS) or CGPA 3.30+ / 4.00 from an HEC-recognized university",
+    "typical_academic_and_research_profile": "High academic grades, strong discipline, clean record, and demonstrated enthusiasm for studying in Saudi Arabia.",
+    "common_backgrounds_of_winners": "Graduates of reputable colleges and universities across Pakistan.",
+    "high_representation_countries": "Pakistan, Indonesia, Nigeria, Egypt, Jordan, Bangladesh, Sudan, India.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of unauthorized consultancy websites promising guaranteed Jazan University admissions for fees.",
+      "Applications are processed exclusively through studyinsaudi.moe.gov.sa and jazanu.edu.sa without any fees."
+    ],
+    "application_fee_warning": "Applying for the scholarship is 100% free of charge; do not pay any agent.",
+    "agent_and_intermediary_warnings": "Jazan University does not authorize recruitment agencies or private intermediaries.",
+    "hidden_costs_breakdown": [
+      "Attestation fees in Pakistan (IBCC/HEC and MoFA): ~PKR 15,000 to 25,000.",
+      "Consular attestation and biometric visa processing fees at Gerry's/Etimad: ~PKR 20,000 to 30,000.",
+      "Medical diagnostics at an approved clinic: ~PKR 12,000 to 18,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Jazan University is isolated and lacks modern infrastructure. Reality: It boasts a state-of-the-art multi-billion dollar coastal university campus with leading marine and engineering centers.",
+      "Myth: Scholarship covers family living expenses. Reality: The scholarship covers only the individual student."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim paper documents must be mailed to Jazan; only online applications through 'Study in Saudi' are accepted."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 2.75 / 5.00; failing to maintain Good standing leads to academic warning and stipend suspension.",
+    "attendance_requirements": "Minimum 75% attendance in all courses; exceeding 25% unexcused absence results in course deprivation (Hirman).",
+    "academic_progress_monitoring": "Annual progress evaluated by the Deanship of Admissions; studies must be completed within standard degree limits.",
+    "work_restrictions_during_study": "Off-campus employment is strictly prohibited under Saudi student visa regulations.",
+    "home_country_return_obligation": "Students must depart Saudi Arabia upon completion of studies unless transitioning to approved employment or higher graduate study.",
+    "service_obligations_or_bonds": "No bond or mandatory service agreement.",
+    "repayment_clawback_conditions": "Scholarship revoked if the student is expelled for disciplinary misconduct or unexcused withdrawal.",
+    "rules_for_changing_university": "University transfers are prohibited under external scholarship terms.",
+    "rules_for_changing_major": "Major change permitted only within the same college during the first academic year subject to GPA requirements.",
+    "extension_policy": "Maximum extension of one semester granted in exceptional circumstances upon faculty recommendation."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Ministry of Education 'Study in Saudi' Official Portal",
+      "source_url": "https://studyinsaudi.moe.gov.sa/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Jazan University Official Portal",
+      "source_url": "https://www.jazanu.edu.sa/en",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

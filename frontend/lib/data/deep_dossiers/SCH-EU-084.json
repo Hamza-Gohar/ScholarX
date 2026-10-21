@@ -1,0 +1,287 @@
+{
+  "scholarship_id": "SCH-EU-084",
+  "basic_details": {
+    "scholarship_name": "University of Vienna Uni:Docs Doctoral Fellowship Programme",
+    "offering_entity": "University of Vienna (Center for Doctoral Studies - DLE Forschungsservice)",
+    "host_country": "Austria",
+    "host_institutions_covered": "University of Vienna (Vienna Doctoral Schools across all faculties)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Doctoral research across all academic disciplines, including Computer Science, Mathematics, Life Sciences, Molecular Biology, Physics, Humanities, and Social Sciences.",
+    "number_of_awards_total": "~20 to 25 highly competitive Uni:Docs employment fellowships awarded annually",
+    "number_of_awards_pakistan": "Open internationally to all doctoral candidates; typically 1 to 3 Pakistani researchers selected per cycle",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "36 months (3 full years of salaried doctoral employment)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to doctoral candidates of all nationalities worldwide including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction under Austrian university employment regulations.",
+    "academic_qualifications": "Recognized 18-year Master's degree (MS / MPhil) from an HEC-recognized university with outstanding grades (minimum CGPA 3.60 / 4.00 or 80%+ equivalent to Austrian grade 1.5 or better).",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.6,
+    "grading_conversion_notes": "Minimum CGPA 3.60 / 4.00; competitive applicants typically hold CGPA >= 3.80 / 4.00.",
+    "subject_background_prerequisites": "Master's degree relevant to chosen doctoral discipline with formal supervisor commitment (Betreuungszusage) from a University of Vienna professor.",
+    "current_education_status": "Master's degree completed within the past 2 years (early-stage researcher requirement).",
+    "graduation_year_restrictions": "Master's degree completed within preceding 2 years.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior scientific publications, conference contributions, or laboratory expertise enhance proposal evaluation.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 95,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic 7.0+, TOEFL iBT 95+, or official university MOI certificate for English doctoral programmes. German proficiency (C1) required only for German-medium dissertations.",
+    "other_language_requirements": "German is not required for natural, mathematical, or computer sciences.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must be admitted to doctoral studies at the University of Vienna or satisfy all admission prerequisites.",
+    "previous_scholarship_restrictions": "Cannot hold another full doctoral employment contract or scholarship concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for University of Vienna doctoral employees.",
+      "amount": "100% Tuition Waived"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Applying for Uni:Docs fellowship is completely free of charge.",
+      "amount": "EUR 0"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Covered comfortably from the monthly net salary; OeAD student housing assistance provided in Vienna.",
+      "amount": "Fully funded via employment salary"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "EUR 1,750 / month net (~PKR 530,000 / month | ~EUR 2,450 gross per Austrian collective bargaining agreement for university staff B1, 30 hrs/week) paid 14 times per year.",
+      "amount": "EUR 1,750 / month net (~PKR 530,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Relocation travel from Pakistan to Vienna is self-funded.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Austrian National Residence Permit (Aufenthaltsbewilligung Sonderfälle unselbständiger Erwerbstätigkeit / Forscher) fee (~EUR 160).",
+      "amount": "EUR 160 residence permit fee"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full statutory Austrian social insurance (ÖGK) including health, accident, and pension insurance provided automatically via employment contract.",
+      "amount": "100% Austrian statutory social insurance covered"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly salary plus access to subsidized Mensa student dining halls across Vienna campus sites.",
+      "amount": "Fully funded via salary"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full digital access to University of Vienna Library and Austrian Academic Library Consortium resources.",
+      "amount": "Full university library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Dedicated travel and conference budget provided through the respective Vienna Doctoral School (VDS).",
+      "amount": "Vienna Doctoral School travel funding"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized Wiener Linien public transport pass (~EUR 365 per year annual network ticket).",
+      "amount": "Subsidized Vienna public transit"
+    },
+    "total_estimated_value_usd_per_year": 38000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (University of Vienna, Vienna, Austria).",
+    "participating_institutions": [
+      "University of Vienna",
+      "Vienna Doctoral School of Computer Science (DoCS)",
+      "Vienna School of Mathematics (VSM)",
+      "Vienna BioCenter PhD Program"
+    ],
+    "university_rankings_scope": "World top 130 university; Austria's largest and most prestigious research institution.",
+    "available_majors": [
+      "PhD in Computer Science (Distributed Systems, Security, Data Science, AI)",
+      "PhD in Mathematics & Scientific Computing",
+      "PhD in Molecular Biology & Genetics",
+      "PhD in Physics & Quantum Information",
+      "PhD in Social Sciences & Economics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "3 years (36 months salaried contract)",
+    "admission_requirements_summary": "Master's degree (CGPA >= 3.60/4.00), signed supervision agreement (Betreuungszusage) from a University of Vienna faculty professor, detailed doctoral project proposal (max 10 pages), CV, and two reference letters.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Securing supervisor commitment is mandatory before applying for Uni:Docs; proposals must be coordinated with the prospective supervisor.",
+    "strategic_program_match_advice": "Align proposal with the research agenda of a specific Vienna Doctoral School (e.g. DoCS for computer science)."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://doktorat.univie.ac.at/en/finances/fellowships/unidocs/",
+    "portal_system_name": "University of Vienna Servicekultur Application Portal",
+    "account_creation_instructions": "Register on the University of Vienna portal during the open application call (November to January), upload doctoral project proposal, CV, master's transcripts, signed supervisor endorsement form, and register referees before January 31.",
+    "step_by_step_workflow": [
+      "Step 1: Contact a University of Vienna professor and secure a signed supervision commitment form (Betreuungszusage).",
+      "Step 2: Develop a comprehensive doctoral project proposal (max 10 pages) in collaboration with your supervisor.",
+      "Step 3: Register on the University of Vienna application system.",
+      "Step 4: Upload all required documents including proposal, CV, transcripts, and ethics statement before January 31.",
+      "Step 5: International peer review panel evaluates project proposals and ranks candidates.",
+      "Step 6: Shortlisted candidates invited for personal or online selection interviews in May.",
+      "Step 7: Final fellowship award decisions published in June.",
+      "Step 8: Sign employment contract and apply for Austrian researcher residence permit."
+    ],
+    "university_vs_scholarship_routing": "Separate Routing: Candidates must first secure supervisor agreement, then apply for the Uni:Docs fellowship program.",
+    "recommendation_letters_submission_method": "Submitted online by prospective supervisor and an independent academic referee.",
+    "personal_statement_prompts": "Integrated within the doctoral project proposal narrative detailing academic path and motivation.",
+    "study_plan_research_proposal_requirements": "Exhaustive 10-page doctoral research proposal outlining state of the art, objectives, methodology, work schedule, ethical considerations, and bibliography.",
+    "cv_format_requirements": "Academic CV detailing publications, presentations, coding skills, and degree rankings.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online interview with the Uni:Docs Selection Board comprising senior faculty members.",
+    "standardized_tests": "IELTS 7.0+ or TOEFL 95+ / MOI certificate accepted.",
+    "application_fee_amount": "EUR 0 (Completely free to apply)",
+    "attestation_requirements": "HEC and MoFA document attestations required for Austrian legal verification.",
+    "translation_requirements": "Certified English or German translation.",
+    "final_submission_method": "Online submission via Servicekultur portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Master's and Bachelor's Degree Certificates",
+      "mandatory": true,
+      "specification": "HEC-attested degrees with minimum CGPA 3.60 / 4.00.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts of undergraduate and master's records showing marks and grading scales.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Doctoral Research Project Proposal",
+      "mandatory": true,
+      "specification": "Structured 10-page research proposal detailing theoretical background, methodology, timeline, and bibliography.",
+      "pakistan_specific_instruction": "Coordinated with Vienna supervisor."
+    },
+    {
+      "document_name": "Signed Supervisor Statement (Betreuungszusage)",
+      "mandatory": true,
+      "specification": "Mandatory official form signed by the prospective University of Vienna supervisor.",
+      "pakistan_specific_instruction": "Obtained from host professor."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Academic CV highlighting publications, projects, and research toolsets.",
+      "pakistan_specific_instruction": "Standard layout."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Appraisals from university professors evaluating doctoral research potential.",
+      "pakistan_specific_instruction": "On official institutional letterhead."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear scan of passport bio-data page.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-11-01",
+    "application_deadline": "2027-01-31",
+    "university_admission_deadline": "2027-01-31",
+    "document_submission_deadline": "2027-01-31",
+    "recommendation_letters_deadline": "2027-02-15",
+    "interview_period": "May 2027",
+    "shortlist_announcement": "Early June 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "June to August 2027",
+    "semester_commencement": "2027-10-01",
+    "annual_cycle_notes": "Uni:Docs call runs once per year with deadline on January 31; contracts start on October 1."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Prior academic transcript excellence, master's degree honors, and class rank)",
+    "extracurricular_and_leadership_weight": "5% (Academic service and scientific communication)",
+    "research_experience_weight": "40% (Scientific originality, theoretical rigor, and feasibility of 10-page doctoral proposal)",
+    "work_experience_weight": "5% (Previous research assistantships or laboratory experience)",
+    "personal_statement_weight": "5% (Clarity of motivation within proposal)",
+    "recommendations_weight": "5% (Supervisor commitment and external referee appraisal)",
+    "interview_weight": "5% (Online selection interview presentation and defense)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure merit competition)",
+    "selection_panel_composition": "International Advisory Board, Center for Doctoral Studies, and Faculty Deans.",
+    "evaluation_methodology": "Two-stage evaluation: external international peer review of proposals followed by selection board interview."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~500 to 700 highly qualified applicants across all faculties",
+    "total_scholarships_awarded": "~20 to 25 doctoral employment fellowships",
+    "acceptance_rate_global": "~3.5%",
+    "acceptance_rate_pakistan": "~4% to 6% among applicants with strong supervisor backing and master's degrees",
+    "typical_successful_applicant_gpa": "3.85 / 4.00 with peer-reviewed publications or preprints",
+    "typical_academic_and_research_profile": "Researchers in computer science, physics, mathematics, or life sciences with clear methodological vision and strong thesis records.",
+    "common_backgrounds_of_winners": "Graduates from NUST, Quaid-i-Azam University, LUMS, and PIEAS.",
+    "high_representation_countries": "Austria, Germany, Italy, Pakistan, India, Turkey, Poland, Ukraine.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official University of Vienna website https://doktorat.univie.ac.at/.",
+      "Beware of fraudulent agencies claiming to offer Austrian employment visas or PhD slots."
+    ],
+    "application_fee_warning": "Uni:Docs application is completely free of charge.",
+    "agent_and_intermediary_warnings": "University of Vienna strictly forbids agency applications; proposals must be authored independently.",
+    "hidden_costs_breakdown": [
+      "Application fee: EUR 0 (Free).",
+      "Austrian Residence Permit fee: ~EUR 160 (~PKR 48,000).",
+      "Legalization and apostille charges in Pakistan: ~PKR 20,000 - 30,000.",
+      "Flight from Pakistan to Vienna: ~PKR 150,000 to 220,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Uni:Docs is a student grant. Reality: Uni:Docs is an official 3-year employment contract with full health insurance, pension contributions, and 14 monthly salaries per year.",
+      "Myth: German fluency is required. Reality: Doctoral research in STEM fields is conducted 100% in English."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs suggest supervisor backing can be obtained after submission; University of Vienna requires a signed Betreuungszusage form at the time of submission."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Successful completion of doctoral coursework and passing annual dissertation agreement reviews.",
+    "attendance_requirements": "Full-time presence and employment commitment (30 hours/week) at the University of Vienna.",
+    "academic_progress_monitoring": "Annual progress report submitted to the Center for Doctoral Studies and supervisor.",
+    "work_restrictions_during_study": "Uni:Docs fellows hold a formal university employment contract and may not undertake conflicting outside employment.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Termination of employment contract in case of academic misconduct or resignation.",
+    "rules_for_changing_university": "Non-transferable to other Austrian universities.",
+    "rules_for_changing_major": "Topic defined with supervisor within the admitted doctoral programme.",
+    "extension_policy": "Employment contract is strictly limited to 36 months (3 years)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Vienna Uni:Docs Fellowship Portal",
+      "source_url": "https://doktorat.univie.ac.at/en/finances/fellowships/unidocs/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "University of Vienna Center for Doctoral Studies",
+      "source_url": "https://doktorat.univie.ac.at/en/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

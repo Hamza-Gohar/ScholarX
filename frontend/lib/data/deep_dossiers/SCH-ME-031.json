@@ -1,0 +1,284 @@
+{
+  "scholarship_id": "SCH-ME-031",
+  "basic_details": {
+    "scholarship_name": "American University of Sharjah (AUS) Chancellor's & Graduate Assistantship",
+    "offering_entity": "American University of Sharjah (AUS) Office of Graduate Studies",
+    "host_country": "United Arab Emirates",
+    "host_institutions_covered": "American University of Sharjah (University City, Sharjah, UAE)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "College of Engineering (Computer Engineering, Electrical Engineering, Mechanical Engineering, Civil Engineering, Chemical Engineering, Mechatronics, Biomedical Engineering, Engineering Systems Management), College of Arts and Sciences, and School of Business Administration.",
+    "number_of_awards_total": "~80 to 120 graduate assistantships and scholarships awarded annually across Master's and PhD programs",
+    "number_of_awards_pakistan": "Open international competition; Pakistani engineering and computing graduates secure ~12 to 20 awards annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years for Master's; up to 4 years for PhD, renewed each semester based on maintaining a minimum CGPA of 3.50 / 4.00"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to outstanding applicants of all nationalities globally (Pakistan eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No formal age limit; evaluated on academic merit, technical aptitude, and research capacity.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (16 years education) for Master's; recognized Master's degree (18 years education) for PhD from an HEC-recognized university in a relevant engineering or science discipline with high academic standing (minimum CGPA 3.50 / 4.00; competitive admits typically 3.70+ / 4.00).",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum undergraduate CGPA of 3.50 / 4.00 for full assistantship/scholarship consideration.",
+    "subject_background_prerequisites": "Relevant undergraduate degree in engineering, computer science, mathematics, or physical sciences.",
+    "current_education_status": "Graduating seniors in their final semester can apply conditionally with certified interim transcripts.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior research laboratory experience, programming proficiency, or published papers significantly increase funding priority.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 or TOEFL iBT minimum 80 (or EmSAT English 1550+). Official test score report is mandatory.",
+    "other_language_requirements": "None; instruction and research conducted entirely in English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants apply for Graduate Assistantships (GTA/GRA) directly during the AUS online application process.",
+    "previous_scholarship_restrictions": "Cannot hold concurrent awards or employment outside AUS.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full 100% tuition fee waiver for full Graduate Teaching/Research Assistantship recipients (~AED 80,000 to 120,000 total degree value).",
+      "amount": "100% covered (~AED 45,000 / year; ~PKR 3,420,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "PAID BY APPLICANT",
+      "details": "AUS graduate application fee of AED 450 (~USD 122; ~PKR 34,200) paid online via credit card.",
+      "amount": "AED 450 (~PKR 34,200)"
+    },
+    "accommodation": {
+      "status": "100% COVERED",
+      "details": "Free on-campus student residential housing in AUS graduate dormitories in University City Sharjah, or subsidized housing allowance.",
+      "amount": "100% covered on-campus housing"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Monthly tax-free living stipend: AED 4,000 to AED 6,500 / month (~USD 1,090 to 1,770 / month; ~PKR 304,000 to 494,000 / month) for full assistantship recipients (Master's: AED 4,000 to 5,000; PhD: AED 6,000 to 6,500).",
+      "amount": "AED 4,000 to 6,500 / month (~PKR 304,000 to 494,000 / mo)"
+    },
+    "airfare": {
+      "status": "PARTIAL",
+      "details": "Initial relocation flight assistance or annual travel allowance provided under specific college assistantship packages.",
+      "amount": "Covered under onboarding package"
+    },
+    "visa_fee": {
+      "status": "100% COVERED",
+      "details": "UAE Student Residence Visa sponsorship, medical examination, and Emirates ID fees sponsored and handled by AUS.",
+      "amount": "100% covered by AUS"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Comprehensive health insurance policy covering outpatient, inpatient, and emergency medical care across the UAE.",
+      "amount": "100% covered health insurance"
+    },
+    "food_allowance": {
+      "status": "INCLUDED_IN_STIPEND",
+      "details": "Diverse campus dining facilities in the Student Center; living costs easily managed within the monthly stipend.",
+      "amount": "Covered from monthly stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "100% COVERED",
+      "details": "Comprehensive access to AUS Library, IEEE Xplore, ScienceDirect, computational facilities, and engineering laboratories.",
+      "amount": "100% covered institutional resources"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Funding available for presenting peer-reviewed papers at leading international conferences and laboratory project supplies.",
+      "amount": "Covered through research grants"
+    },
+    "travel_transit_allowance": {
+      "status": "100% COVERED",
+      "details": "Free campus shuttle buses connecting residential dormitories, academic buildings, and Sharjah/Dubai metro links.",
+      "amount": "100% free campus transit"
+    },
+    "total_estimated_value_usd_per_year": 30000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (American University of Sharjah)",
+    "participating_institutions": [
+      "American University of Sharjah (AUS) - University City (Sharjah, UAE)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #332 worldwide, Times Higher Education #351-400, accredited in the USA by MSCHE and in the UAE by CAA.",
+    "available_majors": [
+      "Computer Engineering (MSc & PhD)",
+      "Electrical Engineering (MSc)",
+      "Mechanical Engineering (MSc)",
+      "Civil Engineering (MSc & PhD)",
+      "Chemical Engineering (MSc)",
+      "Mechatronics Engineering (MSc)",
+      "Biomedical Engineering (MSc)",
+      "Engineering Systems Management (MSc & PhD)",
+      "Mathematics (MSc)",
+      "Business Administration (MBA)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 to 4 years",
+    "admission_requirements_summary": "Online AUS application, official Bachelor's transcripts and degree certificates with minimum CGPA 3.50/4.00, official IELTS/TOEFL score report, two letters of recommendation, CV, statement of purpose, and GRE score (recommended for engineering).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Computer Engineering and Engineering Systems Management receive high volumes of competitive applications; having GRE scores (Quant 155+) and an aligned faculty interest strengthens the assistantship application.",
+    "strategic_program_match_advice": "Review AUS College of Engineering faculty research profiles and email potential advisors with your CV and a summary of your thesis/research interests before submitting."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.aus.edu/admissions/financial-grants-and-scholarships & https://apply.aus.edu",
+    "portal_system_name": "AUS Online Graduate Admissions Portal",
+    "account_creation_instructions": "Register an account on apply.aus.edu, select the graduate degree program, check the box for Graduate Assistantship (GTA/GRA), and upload all academic documents.",
+    "step_by_step_workflow": [
+      "Step 1: Check application deadlines on apply.aus.edu (Priority Fall deadline: March 15 / Final: June 15).",
+      "Step 2: Take IELTS (min 6.5) or TOEFL (min 80) and request official score submission.",
+      "Step 3: Create account on the AUS application portal, complete personal details, and upload degree certificates and transcripts.",
+      "Step 4: Indicate application for Graduate Assistantship (Teaching or Research).",
+      "Step 5: Pay the application fee of AED 450 online via credit card.",
+      "Step 6: Nominate two academic referees who will submit letters via automated email links.",
+      "Step 7: Departmental Graduate Committee reviews applications and conducts video interviews (April - May).",
+      "Step 8: Final admission and assistantship offer letters dispatched (May - June).",
+      "Step 9: Complete UAE visa processing, accept assistantship contract, and arrive in Sharjah in August."
+    ],
+    "university_vs_scholarship_routing": "Integrated Track: Assistantship application is embedded directly within the online graduate admission form.",
+    "recommendation_letters_submission_method": "Submitted online by referees via secure automated links generated by the AUS admissions system.",
+    "personal_statement_prompts": "Statement of purpose outlining academic background, technical skills, career aspirations, and motivations for graduate study at AUS.",
+    "study_plan_research_proposal_requirements": "For PhD applicants: 3 to 5-page research proposal detailing proposed topic, literature review, and methodology.",
+    "cv_format_requirements": "Academic CV detailing educational trajectory, technical proficiencies, research publications, and software tools.",
+    "interviews_conducted": true,
+    "interview_format_details": "20 to 30-minute online interview conducted by departmental faculty evaluating technical competence, research potential, and English communication.",
+    "standardized_tests": "IELTS Academic (min 6.5) or TOEFL iBT (min 80) mandatory; GRE strongly recommended for engineering applicants.",
+    "application_fee_amount": "AED 450 (~USD 122; ~PKR 34,200)",
+    "attestation_requirements": "Bachelor's degree and transcripts must be attested by HEC Pakistan, MoFA, and the UAE Embassy in Islamabad upon final admission.",
+    "translation_requirements": "Certified English translation required for any documents not in English.",
+    "final_submission_method": "100% digital submission via apply.aus.edu."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Bachelor's/Master's Degrees and Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts and degrees with minimum CGPA 3.50/4.00.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan with grading scale explanation."
+    },
+    {
+      "document_name": "Official English Proficiency Score Report",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5) or TOEFL iBT (min 80).",
+      "pakistan_specific_instruction": "Must be valid within 2 years of application date."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Submitted directly by former university professors assessing academic competence.",
+      "pakistan_specific_instruction": "Must be sent from official institutional email addresses."
+    },
+    {
+      "document_name": "Statement of Purpose",
+      "mandatory": true,
+      "specification": "Detailed essay outlining academic background and graduate study motivations.",
+      "pakistan_specific_instruction": "Articulate clear alignment with AUS engineering faculty labs."
+    },
+    {
+      "document_name": "Updated Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Academic CV detailing research projects, papers, and technical skillsets.",
+      "pakistan_specific_instruction": "Highlight any published work or major final-year projects."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport identification page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Pakistani passport must have validity through late 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "October 15 (Fall Intake) / June 15 (Spring Intake)",
+    "application_deadline": "March 15 (Priority Fall) / June 15 (Final Fall) / October 15 (Spring)",
+    "university_admission_deadline": "March 15 / June 15",
+    "document_submission_deadline": "March 15 / June 15",
+    "recommendation_letters_deadline": "March 25 / June 25",
+    "interview_period": "April - May (Fall) / November (Spring)",
+    "shortlist_announcement": "May - June (Fall) / December (Spring)",
+    "final_result_acceptance_deadline": "June 30 / December 20",
+    "visa_application_window": "July 1 - August 10 / December 20 - January 10",
+    "semester_commencement": "Late August (Fall) / Late January (Spring)",
+    "annual_cycle_notes": "Main intake is Fall semester (August start). Priority applications submitted by March 15 receive premier assistantship consideration."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Undergraduate/Master's GPA and university prestige)",
+    "extracurricular_and_leadership_weight": "5% (Leadership and community engagement)",
+    "research_experience_weight": "30% (Prior research, publications, and technical skills)",
+    "work_experience_weight": "5% (Relevant industry/laboratory engineering experience)",
+    "personal_statement_weight": "10% (Statement of purpose clarity)",
+    "recommendations_weight": "5% (Academic referee assessments)",
+    "interview_weight": "10% (Technical interview assessment)",
+    "test_scores_weight": "0% (English meets minimum requirement; GRE optional)",
+    "financial_need_weight": "0% (Exclusively merit and capability-based)",
+    "selection_panel_composition": "AUS Departmental Graduate Committee, College Graduate Programs Board, and Office of Graduate Studies.",
+    "evaluation_methodology": "Two-phase evaluation: academic dossier review followed by faculty interview and assistantship allocation."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,800 to 2,800 international graduate applicants",
+    "total_scholarships_awarded": "~80 to 120 graduate assistantships awarded annually",
+    "acceptance_rate_global": "~4.0% to 5.5%",
+    "acceptance_rate_pakistan": "~6.0% among competitive STEM applicants with CGPA 3.60+",
+    "typical_successful_applicant_gpa": "CGPA 3.60+ / 4.00 from top Pakistani engineering institutions (NUST, GIKI, FAST, UET, PIEAS)",
+    "typical_academic_and_research_profile": "High academic grades, strong programming and analytical skills, and tangible research or engineering project outcomes.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani top engineering and computer science universities.",
+    "high_representation_countries": "UAE, Pakistan, Jordan, Egypt, India, Lebanon, Syria, Iran, Palestine.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of unauthorized agents claiming to sell admission or assistantships to AUS.",
+      "Applications are handled exclusively via aus.edu and apply.aus.edu."
+    ],
+    "application_fee_warning": "AUS charges an official AED 450 application fee paid directly via the application portal; never pay agents.",
+    "agent_and_intermediary_warnings": "AUS does not authorize commercial recruitment agencies for graduate assistantship allocation.",
+    "hidden_costs_breakdown": [
+      "Application fee: AED 450 (~PKR 34,200).",
+      "IELTS/TOEFL exam fee: ~PKR 60,000.",
+      "Degree attestation in Pakistan (HEC and MoFA) and UAE Embassy legalization: ~PKR 35,000 to 45,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Assistantships only cover 50% tuition. Reality: Full Graduate Teaching/Research Assistantships provide 100% tuition waiver plus monthly stipends and housing.",
+      "Myth: You can hold an external job while on an assistantship. Reality: Assistantship recipients are expected to commit full-time to their studies and departmental duties."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs suggest GRE is mandatory; GRE is strongly recommended but not strictly mandatory for all disciplines."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.50 / 4.00 each semester; dropping below 3.50 results in loss of assistantship.",
+    "attendance_requirements": "Full-time on-campus commitment and fulfilling up to 20 hours per week of assigned teaching or research assistantship duties.",
+    "academic_progress_monitoring": "Semester-end academic and duty performance review by the Department Head and supervisory faculty.",
+    "work_restrictions_during_study": "Scholars may not hold concurrent external employment during the assistantship period.",
+    "home_country_return_obligation": "No mandatory return requirement; graduates can transition to professional industry careers in the UAE or pursue PhD studies globally.",
+    "service_obligations_or_bonds": "Zero service bond or repayment obligation.",
+    "repayment_clawback_conditions": "Assistantship revoked if student withdraws without justification or is dismissed for disciplinary infractions.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Major change requires formal review and typically results in loss of assistantship funding.",
+    "extension_policy": "Assistantship duration is strictly limited to 2 years for Master's and 4 years for PhD; extensions are subject to external faculty research funding."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "American University of Sharjah Graduate Assistantships Portal",
+      "source_url": "https://www.aus.edu/admissions/financial-grants-and-scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "AUS Office of Graduate Studies",
+      "source_url": "https://www.aus.edu/academics/graduate-studies",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

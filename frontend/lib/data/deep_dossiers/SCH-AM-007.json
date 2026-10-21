@@ -1,0 +1,267 @@
+{
+  "scholarship_id": "SCH-AM-007",
+  "basic_details": {
+    "scholarship_name": "University of Calgary International Entrance Scholarship",
+    "offering_entity": "University of Calgary (Alberta, Canada)",
+    "host_country": "Canada",
+    "host_institutions_covered": "University of Calgary (Calgary, Alberta, Canada)",
+    "degree_levels": [
+      "Bachelor's Degree"
+    ],
+    "major_restrictions": "Open to all undergraduate faculties: Schulich School of Engineering, Faculty of Science (Computer Science, Data Science, Physics, Chemistry, Biology), Haskayne School of Business, Cumming School of Medicine (Health Sciences), Arts, and Architecture.",
+    "number_of_awards_total": "~2 to 4 major prestigious entrance scholarships awarded annually (renewable for 4 years)",
+    "number_of_awards_pakistan": "Open global competition; awarded to the highest-achieving international matriculants (typically 1 awardee every 1-2 years from South Asia)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "4 years (renewable annually up to CAD $80,000 total)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International students who are not Canadian citizens or Permanent Residents"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 22,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "Entering first year of undergraduate studies directly from high school.",
+    "academic_qualifications": "Completed higher secondary education (FSc Pre-Engineering/Pre-Medical or A-Levels) with exceptional academic distinction.",
+    "minimum_gpa_percentage": 95.0,
+    "minimum_gpa_scale": 3.9,
+    "grading_conversion_notes": "Minimum 95.0% average across academic high school subjects (or minimum 3 A*s in A-Levels / 950+ out of 1100 in FSc).",
+    "subject_background_prerequisites": "Advanced high school mathematics, physics, and chemistry for engineering and computer science programs.",
+    "current_education_status": "Graduating high school senior entering Fall term.",
+    "graduation_year_restrictions": "Must be entering university directly from high school without having completed prior university coursework.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Extracurricular leadership, scientific olympiads, and community service evaluated.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 86,
+      "duolingo_accepted": true,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic minimum 6.5 (minimum 6.0 in all bands), TOEFL iBT 86, or Duolingo English Test (DET) 115."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Elite international academic and leadership high school graduates.",
+    "previous_scholarship_restrictions": "Must not have attended any post-secondary institution.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "PARTIALLY_COVERED",
+      "details": "CAD $20,000 per year for 4 years (CAD $80,000 total), directly credited against international undergraduate tuition fees (~CAD $27,000 to $35,000/year).",
+      "amount": "CAD $20,000 / year (CAD $80,000 total / ~PKR 16,300,000 total)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "University of Calgary undergraduate application fee (CAD $145) paid by applicant.",
+      "amount": "CAD $145"
+    },
+    "accommodation": {
+      "status": "PARTIALLY_COVERED",
+      "details": "Covered from scholarship credit or personal funds; on-campus residence guaranteed for first-year students.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "PARTIALLY_COVERED",
+      "details": "Scholarship is applied directly to student tuition fee account; surplus can be refunded for living expenses.",
+      "amount": "CAD $20,000 annual lump sum credit"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Travel costs borne by student.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Canadian Study Permit application fee (CAD $150) and biometrics (CAD $85) paid by applicant.",
+      "amount": "CAD $235"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Alberta Health Care Insurance Plan (AHCIP) provides free basic health coverage for international students with study permits of 12+ months.",
+      "amount": "100% free under Alberta provincial healthcare"
+    },
+    "food_allowance": {
+      "status": "PAID VIA STIPEND",
+      "details": "Self-funded or paid from scholarship surplus / family support.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "University library, laboratory facilities, and software provided.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Undergraduate research awards (PURE Awards - CAD $6,000 to $7,500 for summer research) available in years 2-4.",
+      "amount": "Summer PURE awards available"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Calgary Transit U-Pass included in university mandatory fees (unlimited city bus and CTrain).",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 16000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: University of Calgary (Calgary, Alberta, Canada).",
+    "participating_institutions": [
+      "University of Calgary"
+    ],
+    "university_rankings_scope": "#198 QS World University Rankings 2025; Top 10 in Canada; #1 in Canada for startup creation.",
+    "available_majors": [
+      "Software Engineering, Computer Science, Data Science, Mechanical Engineering, Biomedical Engineering, Electrical Engineering, Chemical & Petroleum Engineering, Health Sciences, Business (Haskayne), Physics, Biochemistry"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "48 months (4 years)",
+    "admission_requirements_summary": "High school completion with minimum 95% average in required academic subjects (Math, Physics, Chemistry, English).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Software Engineering and Computer Science require competitive grade averages above 95%.",
+    "strategic_program_match_advice": "Apply for undergraduate admission by December 1, and complete the High School Awards application before December 15."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.ucalgary.ca/registrar/finances/awards/international-entrance-scholarship",
+    "portal_system_name": "University of Calgary Student Center (myUofC) Awards Application",
+    "account_creation_instructions": "Step 1: Submit undergraduate admission application on ucalgary.ca by December 1. Step 2: Log into myUofC portal and complete High School Awards application by December 15.",
+    "step_by_step_workflow": [
+      "1. Apply for undergraduate admission on ucalgary.ca portal before December 1.",
+      "2. Pay the CAD $145 application fee and receive UCID number.",
+      "3. Log into myUofC Student Centre and navigate to 'Apply for Awards'.",
+      "4. Complete High School Entrance Awards application before December 15.",
+      "5. Upload personal statements, leadership activities list, and reference letters.",
+      "6. Central awards committee reviews academic transcripts and extracurricular essays.",
+      "7. Award offers announced in March/April.",
+      "8. Accept offer, pay deposit, and apply for Canadian Study Permit."
+    ],
+    "university_vs_scholarship_routing": "Sequential: University admission application first, followed by High School Awards portal application using UCID.",
+    "recommendation_letters_submission_method": "Submitted online by 1 school counselor or teacher referee.",
+    "personal_statement_prompts": "Essays detailing extracurricular leadership, contributions to school and community, and future aspirations at UCalgary.",
+    "study_plan_research_proposal_requirements": "Not applicable for undergraduate admission.",
+    "cv_format_requirements": "Extracurricular activity profile completed within the myUofC application form.",
+    "interviews_conducted": false,
+    "interview_format_details": "None; documentary selection.",
+    "standardized_tests": "SAT/ACT not required for Canadian universities; English language test required.",
+    "application_fee_amount": "CAD $145 university application fee.",
+    "attestation_requirements": "Official board/Cambridge transcripts submitted by high school counselor or examination board directly.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "100% online through myUofC Student Centre portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Passport Data Page",
+      "mandatory": true,
+      "specification": "Scanned copy of valid passport",
+      "pakistan_specific_instruction": "Pakistani passport copy"
+    },
+    {
+      "document_name": "High School Transcripts (Matric & FSc / O & A Levels)",
+      "mandatory": true,
+      "specification": "Official transcripts and predicted grades showing 95%+ or A* grades",
+      "pakistan_specific_instruction": "Attested by IBCC / British Council predicted grades"
+    },
+    {
+      "document_name": "Extracurricular & Leadership Essay",
+      "mandatory": true,
+      "specification": "Answers to essay prompts detailing community engagement and leadership",
+      "pakistan_specific_instruction": "Highlight school head boy/girl, debate, or science competitions"
+    },
+    {
+      "document_name": "Counselor Reference Letter",
+      "mandatory": true,
+      "specification": "Confidential letter from school principal or guidance counselor",
+      "pakistan_specific_instruction": "On school official letterhead"
+    },
+    {
+      "document_name": "English Proficiency Score (IELTS 6.5+ / TOEFL 86+ / DET 115+)",
+      "mandatory": true,
+      "specification": "Official language proficiency test report",
+      "pakistan_specific_instruction": "Official IELTS/TOEFL or Duolingo score report"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-01",
+    "application_deadline": "2026-12-15",
+    "university_admission_deadline": "2026-12-01",
+    "document_submission_deadline": "2026-12-15",
+    "recommendation_letters_deadline": "2026-12-15",
+    "interview_period": "No interviews",
+    "shortlist_announcement": "2027-03-01",
+    "final_result_acceptance_deadline": "2027-05-01",
+    "visa_application_window": "April to July 2027",
+    "semester_commencement": "2027-09-01",
+    "annual_cycle_notes": "Early December 1 admission deadline and December 15 awards deadline are strictly enforced."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "60% (High school academic GPA, rigorous STEM subject grades)",
+    "extracurricular_and_leadership_weight": "25% (Community engagement, leadership roles, and awards)",
+    "research_experience_weight": "0% (Not expected at high school level)",
+    "work_experience_weight": "0% (Not required)",
+    "personal_statement_weight": "10% (Quality of leadership essays)",
+    "recommendations_weight": "5% (Counselor reference evaluation)",
+    "interview_weight": "0% (Dossier-based evaluation)",
+    "test_scores_weight": "0% (Language proficiency is prerequisite)",
+    "financial_need_weight": "0% (Pure academic and leadership merit)",
+    "selection_panel_composition": "University of Calgary Undergraduate Awards Committee.",
+    "evaluation_methodology": "Transcript grade screening (top 1-2% percentile) -> Extracurricular essay scoring -> Final committee award ranking."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~5,000 international undergraduate applicants",
+    "total_scholarships_awarded": "~2 to 4 International Entrance Scholarships per year",
+    "acceptance_rate_global": "~0.06%",
+    "acceptance_rate_pakistan": "~0.05% (One of the most competitive undergraduate awards in Canada)",
+    "typical_successful_applicant_gpa": "96.0%+ high school average (or 3 to 4 A* grades in A-Levels)",
+    "typical_academic_and_research_profile": "Top student in their high school or province, international Olympiad medalist (IMO, IPhO, IOI), or national debate champion with extensive community service.",
+    "common_backgrounds_of_winners": "Top graduates from elite schools in Pakistan (Aitchison, Beaconhouse, Roots, KGS, Cadet Colleges).",
+    "high_representation_countries": "India, Pakistan, China, Nigeria, United Kingdom, United States.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "known_scam_domains": [
+      "ucalgary-scholarships-direct.org",
+      "calgary-visa-portal.com"
+    ],
+    "application_fee_warning": "University application fee is strictly CAD $145 paid inside official UCalgary portal. No extra fee for the scholarship.",
+    "agent_and_intermediary_warnings": "University of Calgary awards are decided solely by the university committee; no external agent has quota access.",
+    "itemized_hidden_out_of_pocket_costs": [
+      "Tuition balance after CAD $20,000 scholarship (~CAD $7,000 to $15,000/year out of pocket depending on engineering/CS program)",
+      "Campus residence and meal plan (~CAD $11,000 to $14,000/year)",
+      "Canadian Study Permit application fee (CAD $150 / ~PKR 31,000)",
+      "Airfare Pakistan to Calgary (~PKR 250,000 to 350,000)"
+    ],
+    "debunked_myths_and_misconceptions": [
+      "MYTH: CAD $20,000 covers all expenses. (Truth: International tuition is ~CAD $30,000–$38,000/year; students must fund the remaining tuition and living costs).",
+      "MYTH: You can apply late in spring. (Truth: The awards deadline is strictly December 15; missing it means zero entrance scholarship consideration)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Agents claim all students with 90% get CAD $20,000; in reality, only 2-4 students globally win this major entrance award."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum GPA of 3.20 out of 4.00 over a minimum of 24.00 units (8 courses) in the preceding fall and winter terms to renew for years 2, 3, and 4.",
+    "attendance_requirements": "Full-time registration in undergraduate degree.",
+    "academic_progress_monitoring": "Annual GPA evaluation at end of winter term (May).",
+    "work_restrictions_during_study": "Permitted to work up to 20-24 hours per week off campus and unlimited hours on campus under Canadian study permit.",
+    "home_country_return_obligation": "None; international graduates from UCalgary qualify for Canada's 3-year Post-Graduation Work Permit (PGWP).",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "If GPA drops below 3.20 or course load drops below 24 units, renewal is revoked permanently.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Permitted within UCalgary provided student maintains full-time registration and required GPA.",
+    "extension_policy": "Maximum 4 academic years (8 terms); no extension for year 5."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Calgary - International Entrance Scholarship Official Portal",
+      "source_url": "https://www.ucalgary.ca/registrar/finances/awards/international-entrance-scholarship",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact number of scholarships awarded in each faculty (Engineering vs Science vs Business).",
+        "Detailed scoring rubric weighting high school percentage against extracurricular essays.",
+        "Annual grade cutoff thresholds across varying educational systems (A-Levels vs IB vs FSc)."
+      ]
+    }
+  ]
+}

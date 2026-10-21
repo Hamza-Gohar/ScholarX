@@ -1,0 +1,264 @@
+{
+  "scholarship_id": "SCH-OC-004",
+  "basic_details": {
+    "scholarship_name": "University of Sydney International Scholarship (USydIS)",
+    "offering_entity": "University of Sydney & Australian Government Research Training Program (RTP)",
+    "host_country": "Australia",
+    "host_institutions_covered": "University of Sydney (Camperdown/Darlington, Westmead, Camden)",
+    "degree_levels": [
+      "Master's by Research",
+      "PhD"
+    ],
+    "major_restrictions": "Open to all research disciplines across Science, Engineering, Medicine & Health, Arts & Social Sciences, Business School, Law, Architecture, Music.",
+    "number_of_awards_total": "~400 to 500 postgraduate research scholarships awarded annually",
+    "number_of_awards_pakistan": "Open globally; awards distributed strictly on merit and research track record",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years for Master's by Research; up to 3.5 years (with potential 6-month extension) for PhD"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International students of all nationalities (including Pakistan)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age restrictions.",
+    "academic_qualifications": "Completed at least a 4-year undergraduate degree with an honours thesis component or a research master's degree from an accredited institution.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Equivalent to an Australian First Class Honours degree (H1, 80%+ or 3.70+ / 4.00 CGPA).",
+    "subject_background_prerequisites": "Substantive research background in proposed field of research with demonstrated research methodology.",
+    "current_education_status": "Graduated or in final semester of research master's or 4-year bachelor's degree.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior publications in peer-reviewed journals, book chapters, or international conference proceedings heavily rewarded in faculty scoring.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 85,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic 6.5 (minimum 6.0 in all bands) or TOEFL iBT 85 (reading/listening/speaking 17, writing 19); higher for Law, Medicine, and Arts."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "Equal opportunity; diversity and inclusion encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "High-impact research capability.",
+    "previous_scholarship_restrictions": "Must not have already completed a degree at the same or higher level.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full international tuition fees covered for the normal duration of the degree.",
+      "amount": "AUD $45,000 to $54,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "University of Sydney application fee (AUD $150) paid by applicant.",
+      "amount": "AUD $150"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Covered via tax-free living allowance.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Tax-free living allowance stipend indexed annually.",
+      "amount": "AUD $40,109 / year (~AUD $3,342 / month or ~PKR 618,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Relocation allowance provided to assist with flight travel and settling in Sydney.",
+      "amount": "Up to AUD $2,500 relocation assistance (~PKR 460,000)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Australian Student Visa (Subclass 500) application fee paid by applicant.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Overseas Student Health Cover (OSHC) Single policy covered for the full duration of the student visa.",
+      "amount": "AUD $700 / year"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered from living stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Departmental research computing resources and laboratory facilities provided.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Postgraduate research support funds (PRSS) of AUD $2,000 to $3,500 available for conference travel.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Included in relocation allowance.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 62000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single institution: University of Sydney (Ranked Top 20 globally in QS World Rankings).",
+    "participating_institutions": [
+      "University of Sydney"
+    ],
+    "university_rankings_scope": "QS World Rank #18; Group of Eight (Go8) Australia flagship.",
+    "available_majors": [
+      "Computer Science, Artificial Intelligence, Cybersecurity, Electrical & Information Engineering, Mechanical Engineering, Biomedical Engineering, Public Health, Pharmacy, Cancer Medicine, Quantum Physics, Molecular Bioscience, Economics, Law, Architecture"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years for Master's by Research; 3.5 to 4 years for PhD",
+    "admission_requirements_summary": "All candidates applying for a postgraduate research degree are automatically assessed for research scholarships.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Securing prior written agreement from an academic supervisor is mandatory before applying.",
+    "strategic_program_match_advice": "Ensure your research proposal explicitly links with ongoing Australian Research Council (ARC) funded projects within the lab."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.sydney.edu.au/scholarships/e/university-of-sydney-international-scholarship.html",
+    "portal_system_name": "University of Sydney Postgraduate Research Application Portal",
+    "account_creation_instructions": "Register on the Sydney course application system, upload proposal and CV, and nominate prospective research supervisor.",
+    "step_by_step_workflow": [
+      "1. Identify potential research supervisor in your discipline and secure expression of support (July-August).",
+      "2. Develop 2,000-word Research Proposal detailing research objectives and methodology.",
+      "3. Submit formal online application for research degree before scholarship round deadline (Round 1: September 15).",
+      "4. Tick the checkbox to be considered for postgraduate research scholarships.",
+      "5. Upload degree certificates, transcripts, research publication proofs, and English test scores.",
+      "6. Provide details of two academic referees who submit online reports.",
+      "7. Outcomes notified in November/December for Semester 1 (March) intake."
+    ],
+    "university_vs_scholarship_routing": "Integrated single application for candidature and scholarship.",
+    "recommendation_letters_submission_method": "Submitted online by referees via electronic referee form.",
+    "personal_statement_prompts": "Outline research goals, why University of Sydney is your chosen institution, and future research vision.",
+    "study_plan_research_proposal_requirements": "Structured research proposal (around 2,000 words) with background, research questions, methodology, and timetable.",
+    "cv_format_requirements": "Academic CV detailing academic history, research projects, publications, awards, and laboratory skills.",
+    "interviews_conducted": true,
+    "interview_format_details": "Supervisors conduct 30-45 minute video interviews to evaluate domain knowledge and research fit.",
+    "standardized_tests": "GRE not required; English language test required.",
+    "application_fee_amount": "AUD $150 (can be waived if provided code by faculty supervisor).",
+    "attestation_requirements": "Original certified copies of transcripts and degree certificates; HEC attestation required.",
+    "translation_requirements": "Certified English translations.",
+    "final_submission_method": "100% Online via University of Sydney portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Research Proposal",
+      "mandatory": true,
+      "specification": "2,000-word formal research proposal with methodology and references",
+      "pakistan_specific_instruction": "Aligned with prospective Sydney supervisor's research expertise"
+    },
+    {
+      "document_name": "Supervisor Expression of Support",
+      "mandatory": true,
+      "specification": "Written confirmation from prospective Sydney academic supervisor",
+      "pakistan_specific_instruction": "Email or formal letter agreeing to supervise doctoral candidature"
+    },
+    {
+      "document_name": "Academic Transcripts & Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts for 16-year or 18-year education with grading scale",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "Two Academic Referee Reports",
+      "mandatory": true,
+      "specification": "Confidential reports from former research supervisors",
+      "pakistan_specific_instruction": "Uploaded by professors from your Pakistani university"
+    },
+    {
+      "document_name": "English Language Test Score",
+      "mandatory": true,
+      "specification": "IELTS Academic (6.5+) or TOEFL iBT (85+)",
+      "pakistan_specific_instruction": "Electronic score report sent to University of Sydney"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-06-01",
+    "application_deadline": "2026-09-15",
+    "university_admission_deadline": "2026-09-15",
+    "document_submission_deadline": "2026-09-30",
+    "recommendation_letters_deadline": "2026-09-30",
+    "interview_period": "October to November 2026",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2026-12-15",
+    "visa_application_window": "December 2026 to January 2027",
+    "semester_commencement": "March 2027 (Research Period 1 or 2)",
+    "annual_cycle_notes": "Round 1 closes mid-September for March commencement; Round 2 closes mid-December for July commencement."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (First Class Honours equivalent GPA, class ranking)",
+    "extracurricular_and_leadership_weight": "5% (Secondary)",
+    "research_experience_weight": "40% (Refereed journal articles, conference papers, master's thesis grade)",
+    "work_experience_weight": "5% (Industry research or laboratory experience)",
+    "personal_statement_weight": "5% (Quality of proposal)",
+    "recommendations_weight": "5% (Referee evaluation)",
+    "interview_weight": "Supervisor decision",
+    "test_scores_weight": "Passing threshold required",
+    "financial_need_weight": "0% (Strictly academic and research merit)",
+    "selection_panel_composition": "Faculty Research Committees and Academic Board Selection Committee.",
+    "evaluation_methodology": "Competitive merit ranking combining GPA equivalent score, publication multiplier score, and supervisor alignment."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~4,500 international applicants across all disciplines",
+    "total_scholarships_awarded": "~350 international scholarships awarded per cycle",
+    "acceptance_rate_global": "~7%",
+    "acceptance_rate_pakistan": "~3% to 4% (Highly Competitive)",
+    "typical_successful_applicant_gpa": "3.80 to 4.00 CGPA",
+    "typical_academic_and_research_profile": "First-author publications in indexed journals (Q1/Q2 SCImago) and strong theoretical foundations.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani research institutions (NUST, LUMS, Quaid-i-Azam, UET Lahore, FAST).",
+    "high_representation_countries": "China, India, Pakistan, Iran, USA, UK, Germany.",
+    "competitiveness_tier": "VERY HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Consultancies claiming they can obtain Sydney scholarships without supervisor endorsement."
+    ],
+    "application_fee_warning": "University application fee is AUD $150; scholarship evaluation has no extra fee.",
+    "agent_and_intermediary_warnings": "Never pay agents for research supervision; supervisors evaluate applicants on personal academic merit.",
+    "hidden_costs_breakdown": [
+      "Australian Student Visa (Subclass 500) application fee (AUD $1,600).",
+      "English language test fees (IELTS/PTE).",
+      "Sydney initial bond and apartment deposit."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: Taught Master's students can get this award. (Fact: Strictly for Master's by Research and PhD degrees).",
+      "MYTH: You can apply without a supervisor. (Fact: An application without confirmed supervisor support will be rejected)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites cite outdated stipend figures; the current official stipend is AUD $40,109/year."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must meet satisfactory progress in annual research milestones (Progress Review 1 at 12 months).",
+    "attendance_requirements": "Full-time physical research attendance on campus in Sydney.",
+    "academic_progress_monitoring": "Annual progress reviews conducted by supervisory team and faculty associate dean.",
+    "work_restrictions_during_study": "Permitted to work per Australian student visa rules, but University limits outside work during business hours to avoid thesis delays.",
+    "home_country_return_obligation": "None; scholars are eligible for Australian Temporary Graduate Visa (Subclass 485) post-PhD.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Termination of funding occurs upon failure of progress reviews or voluntary withdrawal.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Requires approval from old and new faculty supervisors.",
+    "extension_policy": "PhD scholars can apply for up to 6 months extension subject to academic justification."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Sydney - Postgraduate Research Scholarships Official Portal",
+      "source_url": "https://www.sydney.edu.au/scholarships/e/university-of-sydney-international-scholarship.html",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact publication scoring points matrix used across different faculties",
+        "Specific country quota allocations"
+      ]
+    }
+  ]
+}

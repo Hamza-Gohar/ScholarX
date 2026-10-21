@@ -1,0 +1,283 @@
+{
+  "scholarship_id": "SCH-AS-059",
+  "basic_details": {
+    "scholarship_name": "Schwarzman Scholars Program at Tsinghua University",
+    "offering_entity": "Schwarzman Scholars & Tsinghua University",
+    "host_country": "China",
+    "host_institutions_covered": "Schwarzman College, Tsinghua University (Haidian District, Beijing, China)",
+    "degree_levels": [
+      "Master of Management Science (in Global Affairs)"
+    ],
+    "major_restrictions": "Master's degree in Global Affairs focusing on one of three core concentrations: Public Policy, Economics and Business, or International Studies.",
+    "number_of_awards_total": "~140 to 150 Schwarzman Scholars selected annually from over 40 countries and 100+ universities",
+    "number_of_awards_pakistan": "Highly competitive global allocation; typically 1 to 2 exceptional Pakistani leaders selected per cohort",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "1 year (Intensive 11-month fully residential program at Schwarzman College)",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "USD 4,000 personal stipend (~PKR 1,120,000) for the year, plus 100% full tuition, private room and board at Schwarzman College, round-trip international travel, study tours, health insurance, and required books and supplies"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to applicants of all nationalities and citizenship (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 28,
+    "age_limit_notes": "Applicants must be at least 18 but not yet 29 years of age as of August 1 of their matriculation year.",
+    "academic_qualifications": "Completed undergraduate degree (Bachelor's degree or equivalent) in any field from an accredited college or university prior to August of matriculation year.",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.6,
+    "grading_conversion_notes": "No minimum GPA is officially mandated; however, selected scholars demonstrate superior academic records (typically CGPA >= 3.70 / 4.00 or top 10% class rank).",
+    "subject_background_prerequisites": "Open to any undergraduate discipline: STEM, business, social sciences, humanities, law, arts, or public health.",
+    "current_education_status": "Graduated or currently enrolled undergraduate seniors graduating before August 1 of the enrollment year.",
+    "graduation_year_restrictions": "None, provided age criteria (under 29 years old) is satisfied.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Work experience is not required, but proven leadership track record and impact in your field, organization, or community is mandatory.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 100,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 7.0, TOEFL iBT minimum 100, or official certification that applicant completed undergraduate degree where English was primary instructional language.",
+    "other_language_requirements": "Mandarin Chinese language proficiency is NOT required for admission.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates submit application through the Schwarzman Scholars international application system (or China application system for Chinese passport holders).",
+    "previous_scholarship_restrictions": "Cannot hold another concurrent fellowship requiring parallel residency or study.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for the Master of Management Science in Global Affairs at Tsinghua University.",
+      "amount": "100% covered (~USD 55,000 value; ~PKR 15,400,000)"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Applying to Schwarzman Scholars is completely free of charge.",
+      "amount": "100% waived / free application"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Private room with en-suite bathroom at Schwarzman College, a state-of-the-art residential college designed by Robert A.M. Stern Architects on Tsinghua campus.",
+      "amount": "100% covered private room and board"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Personal living allowance of USD 4,000 disbursed across the academic year for personal expenses and incidentals.",
+      "amount": "USD 4,000 personal stipend (~PKR 1,120,000/year)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Economy-class round-trip international travel to and from Beijing at the beginning and end of the program.",
+      "amount": "100% covered round-trip international flights"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Chinese X1 Student Visa application fees reimbursed or covered as part of scholar onboarding package.",
+      "amount": "100% covered / reimbursed"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive global medical and travel insurance plan provided for the duration of the program.",
+      "amount": "100% covered comprehensive healthcare"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "All meals provided through Schwarzman College dining hall and campus meal allowance cards.",
+      "amount": "100% covered room and board dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "All required textbooks, academic software licenses, course materials, and Lenovo laptop provided to each scholar.",
+      "amount": "100% covered books, tech & course materials"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "All domestic and international study tours, deep-dive field expeditions across China, and practical training internships fully covered.",
+      "amount": "100% funded country-wide study tours"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "All program-related transportation within Beijing and across China for official excursions and field immersions fully funded.",
+      "amount": "100% covered excursion transit"
+    },
+    "total_estimated_value_usd_per_year": 85000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single China #1 elite STEM and global leadership institution (Tsinghua University, Beijing).",
+    "participating_institutions": [
+      "Schwarzman College, Tsinghua University (Haidian District, Beijing, China)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #20 globally, #1 in Asia for Engineering & Technology; Schwarzman College is modeled on the Rhodes Scholarship at Oxford.",
+    "available_majors": [
+      "Master of Management Science in Global Affairs (Public Policy)",
+      "Master of Management Science in Global Affairs (Economics & Business)",
+      "Master of Management Science in Global Affairs (International Studies)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 year (11-month intensive residential master's)",
+    "admission_requirements_summary": "Undergraduate degree with superior academic achievement, three letters of recommendation, leadership essay, statement of purpose, short video introduction, CV, and English proficiency test (IELTS 7.0+ / TOEFL 100+).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Among the most selective postgraduate leadership scholarships globally (<4% acceptance); candidates must prove exceptional leadership impact, vision, and character.",
+    "strategic_program_match_advice": "Focus leadership essay on a concrete instance where you took initiative, overcame adversity, and created tangible positive change in an organization, community, or startup."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.schwarzmanscholars.org/",
+    "portal_system_name": "Schwarzman Scholars Online Application Portal",
+    "account_creation_instructions": "Register on the official portal, select international applicant track, upload transcripts, essays, CV, 1-minute video introduction, and register three recommenders.",
+    "step_by_step_workflow": [
+      "Step 1: Open online application on schwarzmanscholars.org (April).",
+      "Step 2: Draft Leadership Essay (maximum 750 words) and Statement of Purpose (maximum 500 words).",
+      "Step 3: Secure three letters of recommendation (at least one must attest specifically to leadership ability).",
+      "Step 4: Record and upload 1-minute video introducing yourself to the selection committee.",
+      "Step 5: Submit application by the strict mid-September deadline.",
+      "Step 6: Semifinalists invited in October to participate in in-person or virtual interview panels with distinguished global leaders.",
+      "Step 7: Final scholarship offers announced in early December.",
+      "Step 8: Matriculate at Schwarzman College in Beijing in late August for the 11-month academic year."
+    ],
+    "university_vs_scholarship_routing": "Integrated global leadership program: Admission to Tsinghua University and the Schwarzman Fellowship are evaluated as a unified award.",
+    "recommendation_letters_submission_method": "Submitted online by three recommenders via confidential portal links (at least one addressing leadership track record directly).",
+    "personal_statement_prompts": "Statement of Purpose (max 500 words) defining how the Schwarzman curriculum and China immersion fit your career trajectory; and Leadership Essay (max 750 words) providing concrete evidence of your leadership.",
+    "study_plan_research_proposal_requirements": "Short-answer questions focusing on current affairs, global challenges, and how understanding China will advance your long-term leadership impact.",
+    "cv_format_requirements": "Maximum 2-page professional resume detailing education, leadership positions, professional experience, honors, and community impact.",
+    "interviews_conducted": true,
+    "interview_format_details": "Highly intensive 25-minute interview before a distinguished panel of global CEOs, ambassadors, university presidents, and non-profit leaders.",
+    "standardized_tests": "IELTS 7.0+, TOEFL 100+, or official proof of English-medium undergraduate education accepted.",
+    "application_fee_amount": "USD 0 (Completely free to apply)",
+    "attestation_requirements": "Certified transcripts and degree certificates; HEC and MoFA attestations required upon formal Tsinghua matriculation.",
+    "translation_requirements": "Certified English translation for all non-English academic credentials.",
+    "final_submission_method": "Online submission via Schwarzman Scholars international application portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts from all undergraduate and graduate institutions attended.",
+      "pakistan_specific_instruction": "Certified true copies with HEC attestation recommended."
+    },
+    {
+      "document_name": "Leadership Essay (Max 750 Words)",
+      "mandatory": true,
+      "specification": "Detailed essay illustrating a specific leadership example, challenges overcome, and outcomes achieved.",
+      "pakistan_specific_instruction": "Original personal narrative."
+    },
+    {
+      "document_name": "Statement of Purpose (Max 500 Words)",
+      "mandatory": true,
+      "specification": "Concise statement describing professional goals, how Schwarzman Scholars fits your journey, and your perspective on China.",
+      "pakistan_specific_instruction": "Clearly articulated goals essay."
+    },
+    {
+      "document_name": "Three Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Three confidential letters (academic, professional, and at least one focusing explicitly on leadership qualities).",
+      "pakistan_specific_instruction": "Submitted directly by recommenders online."
+    },
+    {
+      "document_name": "One-Minute Video Introduction",
+      "mandatory": true,
+      "specification": "1-minute recorded video introducing your personality, values, and passions to the admissions committee.",
+      "pakistan_specific_instruction": "Clear audio and video presentation in English."
+    },
+    {
+      "document_name": "Resume / Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Maximum 2-page resume emphasizing leadership accomplishments, professional experience, and academic record.",
+      "pakistan_specific_instruction": "Standard professional format."
+    },
+    {
+      "document_name": "English Language Proficiency Proof",
+      "mandatory": true,
+      "specification": "IELTS Academic 7.0+, TOEFL iBT 100+, or official English-medium degree verification.",
+      "pakistan_specific_instruction": "Score report or institutional letter."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "April 15",
+    "application_deadline": "September 12 (Strict global international deadline)",
+    "university_admission_deadline": "September 12",
+    "document_submission_deadline": "September 12",
+    "recommendation_letters_deadline": "September 15",
+    "interview_period": "Late October - Mid November (Singapore, London, New York, or virtual)",
+    "shortlist_announcement": "Early December",
+    "final_result_acceptance_deadline": "Late December",
+    "visa_application_window": "May - June",
+    "semester_commencement": "Late August (Fall intake)",
+    "annual_cycle_notes": "Single annual admission cycle; application opens in April and closes in mid-September for matriculation the following August."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "25% (Intellectual ability, academic record, and analytical reasoning)",
+    "extracurricular_and_leadership_weight": "40% (Leadership track record, initiative, integrity, and demonstrated impact)",
+    "research_experience_weight": "5% (Analytical competence and global awareness)",
+    "work_experience_weight": "10% (Professional trajectory, initiatives led, and maturity)",
+    "personal_statement_weight": "10% (Clarity of vision, character, and alignment with China immersion)",
+    "recommendations_weight": "5% (Depth of leadership and character testimonials)",
+    "interview_weight": "5% (Composure, eloquence, and intellectual agility before global panel)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Purely merit and leadership potential based)",
+    "selection_panel_composition": "Schwarzman Admissions Board comprising former world leaders, CEOs, university deans, and global fellowship trustees.",
+    "evaluation_methodology": "Rigorous holistic assessment identifying future global leaders with superior intellect, character, leadership presence, and intercultural curiosity."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~4,000 to 5,000 applicants from over 120 countries",
+    "total_scholarships_awarded": "~140 to 150 Schwarzman Scholars selected annually",
+    "acceptance_rate_global": "~3.0% to 3.5%",
+    "acceptance_rate_pakistan": "~2.0% to 3.0% (elite nationwide competition)",
+    "typical_successful_applicant_gpa": "Undergraduate CGPA >= 3.70 / 4.00, coupled with demonstrable leadership achievements and social impact",
+    "typical_academic_and_research_profile": "High-achieving young leaders across diverse fields (entrepreneurs, civil servants, tech innovators, NGO founders) with exceptional leadership track records.",
+    "common_backgrounds_of_winners": "Graduates from premier global universities (Harvard, Oxford, Stanford, Tsinghua, MIT) and top Pakistani universities (LUMS, NUST, FAST-NUCES).",
+    "high_representation_countries": "United States, China, Pakistan, United Kingdom, India, Germany, Kenya, Brazil, Australia.",
+    "competitiveness_tier": "MOST_COMPETITIVE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply via official portal schwarzmanscholars.org.",
+      "Schwarzman Scholars never charges application fees or collaborates with commercial admissions consultants."
+    ],
+    "application_fee_warning": "Applying to Schwarzman Scholars is 100% free.",
+    "agent_and_intermediary_warnings": "Commercial agency written essays are immediately disqualified; authentic personal voice is paramount.",
+    "hidden_costs_breakdown": [
+      "Application fee: USD 0 (Free).",
+      "All flights, room, board, tuition, laptop, and insurance covered 100% by the scholarship.",
+      "Passport issuance and initial document copies: ~PKR 15,000 to 25,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You need prior background in Chinese language or Asian studies. Reality: No prior Chinese experience is expected.",
+      "Myth: Only political science or IR majors are chosen. Reality: STEM, business, medicine, and humanities graduates make up over half the cohort."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sites claim candidates over 28 can get waivers; the age requirement (under 29 years old on August 1) is strictly enforced."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain satisfactory academic progress and pass all required core and elective modules at Schwarzman College.",
+    "attendance_requirements": "Full-time residential requirement at Schwarzman College in Beijing for the entire 11-month program duration.",
+    "academic_progress_monitoring": "Continuous assessment through case studies, examinations, deep-dive field projects, and capstone practical projects.",
+    "work_restrictions_during_study": "Scholars may not engage in outside employment during the intensive 11-month curriculum.",
+    "home_country_return_obligation": "None; scholars join an influential global alumni network and can pursue careers anywhere in the world.",
+    "service_obligations_or_bonds": "Zero service bond or financial repayment obligation.",
+    "repayment_clawback_conditions": "Expulsion and fellowship revocation for academic dishonesty, code of conduct violations, or illegal acts.",
+    "rules_for_changing_university": "Non-transferable; exclusive to Tsinghua University.",
+    "rules_for_changing_major": "Fixed curriculum in Master of Management Science in Global Affairs.",
+    "extension_policy": "Program is strictly 11 months in duration; no extensions permitted."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Schwarzman Scholars Official Portal",
+      "source_url": "https://www.schwarzmanscholars.org/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Tsinghua University Graduate Admissions",
+      "source_url": "https://gradadmission.tsinghua.edu.cn/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

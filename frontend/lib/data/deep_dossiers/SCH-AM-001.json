@@ -1,0 +1,297 @@
+{
+  "scholarship_id": "SCH-AM-001",
+  "basic_details": {
+    "scholarship_name": "USEFP Fulbright Foreign Student Program for Pakistan",
+    "offering_entity": "United States Educational Foundation in Pakistan (USEFP) & U.S. Department of State (ECA)",
+    "host_country": "United States",
+    "host_institutions_covered": "Accredited U.S. Universities (Placement arranged centrally via Institute of International Education - IIE)",
+    "degree_levels": [
+      "Master's",
+      "PhD"
+    ],
+    "major_restrictions": "All academic disciplines are eligible EXCEPT clinical medicine (direct patient contact clinical residency). Public health, health administration, epidemiology, and biomedical sciences are fully eligible.",
+    "number_of_awards_total": "~130 to 150 awards annually (the largest Fulbright Foreign Student investment worldwide)",
+    "number_of_awards_pakistan": "100% reserved exclusively for Pakistani nationals (~100 Master's, ~30-50 PhD)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years for Master's; up to 4 to 5 years for PhD"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Pakistani citizens residing and working in Pakistan throughout the application and selection process"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No official upper age limit, but candidates must be early-to-mid career professionals with demonstrated return commitment to Pakistan.",
+    "academic_qualifications": "16 years of formal education (4-year BS or 2-year BS + 2-year Master's) for Master's applicants; minimum 18 years (MS/MPhil) for PhD applicants from HEC-recognized institutions.",
+    "minimum_gpa_percentage": 50.0,
+    "minimum_gpa_scale": 2.5,
+    "grading_conversion_notes": "Minimum 2.5/4.0 CGPA or 50% marks in annual system; however, competitive admitted applicant average is typically 3.50+ CGPA.",
+    "subject_background_prerequisites": "Degree relevant to intended field; STEM, Social Sciences, Public Policy, Humanities, Environmental Science, and Business (MBA) welcome.",
+    "current_education_status": "Graduated or in final semester (must graduate and receive final degree transcript before U.S. departure in August of following year).",
+    "graduation_year_restrictions": "None specified by USEFP.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Work experience is not strictly mandatory for academic fields, but strongly preferred; 2+ years is expected for Public Policy and MBA applicants.",
+    "english_test_required": true,
+    "ielts_minimum": null,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "USEFP does NOT accept IELTS for US university placement. GRE General score is required at application. Once shortlisted, USEFP provides a TOEFL iBT voucher and covers test costs.",
+    "other_language_requirements": "None; all coursework is in English.",
+    "gender_specific_requirements": "Equal opportunity; women, individuals with disabilities, and candidates from Balochistan, Gilgit-Baltistan, AJK, and southern Punjab are strongly encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates with dual U.S.-Pakistani citizenship or permanent residence (Green Card), or whose spouses/parents are U.S. citizens, are INELIGIBLE.",
+    "previous_scholarship_restrictions": "Previous recipients of long-term U.S. government exchange grants (e.g. Humphrey, previous Fulbright degree) must observe mandatory intervals.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full tuition fees and mandatory campus fees paid directly to the host U.S. university."
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "IIE manages and pays all university application fees directly."
+    },
+    "accommodation": {
+      "status": "MONTHLY ALLOWANCE",
+      "details": "Covered via monthly maintenance stipend sufficient for off-campus apartment or campus housing."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Cost-of-living adjusted monthly stipend determined by U.S. city tiers.",
+      "amount": "$1,600 to $2,600 / month (~PKR 450,000 to 720,000)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Prepaid round-trip economy class international airfare on Fly America Act compliant carrier from Pakistan to U.S. university city."
+    },
+    "visa_fee": {
+      "status": "WAIVED",
+      "details": "J-1 Exchange Visitor visa application fee (MRV) and SEVIS fee are fully paid/waived by U.S. Department of State."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Accident and Sickness Program for Exchanges (ASPE) health coverage throughout the grant period."
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Included within the monthly maintenance stipend."
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Annual textbook and professional development allowance (~$1,000/year).",
+      "amount": "$1,000 / year"
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Enrichment seminar travel grants and pre-approved dissertation research allowances available through IIE."
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "One-time transit and baggage allowance upon arrival (~$500).",
+      "amount": "$500 one-off"
+    },
+    "total_estimated_value_usd_per_year": 75000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple U.S. Universities; IIE submits applications to 4-5 accredited U.S. universities based on student's academic profile and preferences.",
+    "participating_institutions": [
+      "Top U.S. Universities (Columbia, Cornell, NYU, Purdue, UIUC, Texas A&M, Georgia Tech, Michigan State, etc.)"
+    ],
+    "university_rankings_scope": "R1 research universities and top-tier Master's granting U.S. institutions across all 50 states.",
+    "available_majors": [
+      "Energy",
+      "Water Resources",
+      "Agriculture",
+      "Public Health",
+      "Education",
+      "Social Sciences",
+      "Journalism",
+      "Computer Science",
+      "Economics",
+      "Engineering"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 1-2 years; PhD: 4-5 years",
+    "admission_requirements_summary": "Bachelor's / MS degree with transcripts, GRE General score, 3 recommendation letters, Personal Statement, and Study Objective.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Applicants do NOT apply to universities themselves; USEFP and IIE evaluate preferences and match to universities where admission and funding are secure.",
+    "strategic_program_match_advice": "Focus statement on developmental challenges in Pakistan (energy transitions, public health systems, water security, data governance) rather than personal ambition."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://usefp.org/scholarships/fulbright.cfm",
+    "portal_system_name": "USEFP Online Application Portal (Slate/Embark system)",
+    "account_creation_instructions": "Create account using primary active email and CNIC on USEFP portal during open cycle (February - April).",
+    "step_by_step_workflow": [
+      "1. Register on USEFP online application portal.",
+      "2. Complete profile, academic history, and upload scanned degrees/transcripts.",
+      "3. Write Study Objective (50 lines) and Personal Statement (50 lines).",
+      "4. Submit official GRE General test score code (USEFP institutional code).",
+      "5. Register 3 referees who receive automated secure links to submit recommendations directly.",
+      "6. Submit online application prior to deadline (mid-April to early May).",
+      "7. Preliminary document screening by USEFP committees.",
+      "8. In-person panel interviews in Islamabad (July - August).",
+      "9. Principal candidate notification in September; candidate takes TOEFL.",
+      "10. IIE matches candidate with 4 U.S. universities (October - February).",
+      "11. Final U.S. placement confirmed and J-1 visa issued (May - July).",
+      "12. Departure to United States (August)."
+    ],
+    "university_vs_scholarship_routing": "Integrated routing: Apply to USEFP first; selected finalists are placed into universities by IIE.",
+    "recommendation_letters_submission_method": "Online upload by referees through confidential automated email link.",
+    "personal_statement_prompts": "Personal Statement: Personal narrative describing your background, life experiences, and formative influences. Study Objective: Specific academic goals, proposed study plan, and impact on Pakistan.",
+    "study_plan_research_proposal_requirements": "PhD applicants must upload a detailed research proposal (3-5 pages) addressing relevance to Pakistani societal/industrial challenges.",
+    "cv_format_requirements": "Standard academic CV (2 pages max) detailing academic achievements, publications, leadership, and public service.",
+    "interviews_conducted": true,
+    "interview_format_details": "Rigorous 20-30 minute panel interview in Islamabad with American diplomats, Pakistani academics, and Fulbright alumni.",
+    "standardized_tests": "GRE General test score is MANDATORY at application. Minimum score threshold is not disclosed, but 300+ is competitive. TOEFL required post-selection.",
+    "application_fee_amount": "$0.00 (USEFP application is 100% FREE).",
+    "attestation_requirements": "HEC degree attestation is required for degree verification prior to final contract issuance.",
+    "translation_requirements": "Official English translation required if any secondary documents are in Urdu.",
+    "final_submission_method": "100% online portal submission; physical documents requested only upon interview shortlisting."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Passport",
+      "mandatory": true,
+      "specification": "Valid Pakistani passport valid for at least 18 months",
+      "pakistan_specific_instruction": "Required for visa processing and international travel"
+    },
+    {
+      "document_name": "Computerized National ID Card (CNIC)",
+      "mandatory": true,
+      "specification": "NADRA issued CNIC front and back",
+      "pakistan_specific_instruction": "Mandatory to verify Pakistani citizenship and residence"
+    },
+    {
+      "document_name": "Academic Transcripts & Certificates",
+      "mandatory": true,
+      "specification": "All university degrees and detailed marks certificates",
+      "pakistan_specific_instruction": "Must be from HEC-recognized institutions; HEC attestation required upon selection"
+    },
+    {
+      "document_name": "Matric / Intermediate Certificates",
+      "mandatory": true,
+      "specification": "BISE / IBCC matriculation and intermediate certificates",
+      "pakistan_specific_instruction": "Required to prove uninterrupted 16/18 years of academic progression"
+    },
+    {
+      "document_name": "GRE General Score Card",
+      "mandatory": true,
+      "specification": "Valid ETS GRE score report",
+      "pakistan_specific_instruction": "Must be valid through the application cycle"
+    },
+    {
+      "document_name": "Statement of Purpose / Study Objective",
+      "mandatory": true,
+      "specification": "50-line clear formulation of academic and career plans",
+      "pakistan_specific_instruction": "Emphasize concrete socio-economic return to Pakistan"
+    },
+    {
+      "document_name": "Personal Statement",
+      "mandatory": true,
+      "specification": "50-line personal narrative",
+      "pakistan_specific_instruction": "Highlight leadership, resilience, and ethical character"
+    },
+    {
+      "document_name": "Three Letters of Reference",
+      "mandatory": true,
+      "specification": "Submitted directly by university professors or professional supervisors",
+      "pakistan_specific_instruction": "Must use official institutional/work email addresses"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Early February annually (e.g., 2026-02-05)",
+    "application_deadline": "Late April / Early May annually (e.g., 2026-04-28)",
+    "university_admission_deadline": "Managed internally by IIE (October - January)",
+    "document_submission_deadline": "Coincides with application deadline",
+    "recommendation_letters_deadline": "Coincides with application deadline",
+    "interview_period": "July - August annually in Islamabad",
+    "shortlist_announcement": "September annually (Principal & Alternate candidates notified)",
+    "final_result_acceptance_deadline": "October annually",
+    "visa_application_window": "June - July of departure year",
+    "semester_commencement": "August / September of departure year",
+    "annual_cycle_notes": "18-month lead time: Apply in Spring 2026 for Fall 2027 matriculation."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "25% (GPA rigor, university pedigree, transcript breadth)",
+    "extracurricular_and_leadership_weight": "20% (Community leadership, civic engagement, volunteer initiatives)",
+    "research_experience_weight": "15% (Crucial for PhD applicants; publications and thesis quality)",
+    "work_experience_weight": "10% (Practical application in Pakistani public/private sector)",
+    "personal_statement_weight": "15% (Clarity of vision, resilience, compelling personal narrative)",
+    "recommendations_weight": "5% (Insight from professors and employers on ethics and aptitude)",
+    "interview_weight": "10% (Composure, cross-cultural diplomacy, articulate vision for Pakistan)",
+    "test_scores_weight": "Factor in initial screening (GRE quantitative/verbal balance)",
+    "financial_need_weight": "0% (Merit-based; financial need is NOT evaluated)",
+    "selection_panel_composition": "Bi-national committees comprising American diplomats, USEFP directors, and prominent Pakistani scholars.",
+    "evaluation_methodology": "Two-stage evaluation: Blind merit review of online dossier followed by consensus panel interview in Islamabad."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~5,000 to 7,000 applicants from across Pakistan",
+    "total_scholarships_awarded": "~130 to 150 principal grantees",
+    "acceptance_rate_global": "N/A (Pakistan-specific bilateral program)",
+    "acceptance_rate_pakistan": "~2.1% to 2.8% (Extremely Competitive)",
+    "typical_successful_applicant_gpa": "3.55 to 3.85 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Top 10% class ranking, demonstrable leadership outside classroom, publications for PhD candidates.",
+    "common_backgrounds_of_winners": "Graduates of top Pakistani universities (LUMS, NUST, IBA, Quaid-i-Azam, UET, AKU) alongside strong representation from public provincial universities.",
+    "high_representation_countries": "100% Pakistan",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Scam portals mimicking USEFP asking for PKR 15,000 to 50,000 'processing fees'. Official USEFP portal is completely FREE.",
+      "Fake Facebook groups claiming 'Guaranteed Fulbright Selection' through internal connections."
+    ],
+    "application_fee_warning": "USEFP NEVER charges an application fee or processing fee at any stage.",
+    "agent_and_intermediary_warnings": "USEFP strictly prohibits agents. Applications written by consultants are routinely detected and permanently blacklisted.",
+    "hidden_costs_breakdown": [
+      "GRE General test registration fee ($220 / ~PKR 62,000) paid out-of-pocket prior to application.",
+      "HEC degree attestation fees (approx PKR 5,000 to 12,000).",
+      "Travel to Islamabad for in-person interview (USEFP does not reimburse domestic interview travel).",
+      "Medical checkup costs at panel clinics prior to visa."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You must have a 4.0 CGPA to win. (Fact: Holistic review balances leadership and vision; many 3.2-3.4 CGPA winners succeed with exceptional impact).",
+      "MYTH: You can remain in the US and transition directly to H-1B or Green Card. (Fact: Legally barred by Section 212(e) 2-year home residency rule)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party blogs often claim IELTS is accepted; official USEFP guidelines mandate GRE and exclusively sponsor TOEFL iBT."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain minimum 3.0 / 4.0 (Grade B average) across all semesters at the U.S. institution.",
+    "attendance_requirements": "Full-time student enrollment mandatory; dropping below minimum credits results in grant revocation.",
+    "academic_progress_monitoring": "Semi-annual academic progress reports submitted by university academic advisor to IIE.",
+    "work_restrictions_during_study": "On-campus work permitted up to 20 hours/week ONLY with prior written approval from IIE Fulbright advisor. Off-campus employment strictly prohibited.",
+    "home_country_return_obligation": "MANDATORY 2-Year Home Residency Requirement (Section 212(e)). Grantees must physically reside in Pakistan for at least 2 full cumulative years before becoming eligible for U.S. H, L, or permanent resident visas.",
+    "service_obligations_or_bonds": "Legal bond signed with USEFP agreeing to return and serve in Pakistan.",
+    "repayment_clawback_conditions": "Grantees who drop out, fail to maintain academic standing, violate U.S. laws, or fail to return to Pakistan must repay the full dollar value of the grant (typically $150,000+).",
+    "rules_for_changing_university": "Strictly disallowed unless extreme institutional closure or departmental emergency occurs, subject to IIE approval.",
+    "rules_for_changing_major": "Strictly prohibited; must complete degree in the approved academic field specified in the grant agreement.",
+    "extension_policy": "Extensions beyond normal degree duration are rarely granted and require rigorous academic justification without additional stipend funding."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "United States Educational Foundation in Pakistan (USEFP) - Official Fulbright Page",
+      "source_url": "https://usefp.org/scholarships/fulbright.cfm",
+      "source_type": "OFFICIAL_BILATERAL",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact internal weight percentage formula for interview vs GRE vs SOP (USEFP states evaluation is holistic)",
+        "Exact cutoff score for GRE General (USEFP states no minimum cutoff, but competitive range is informal)"
+      ]
+    },
+    {
+      "source_name": "U.S. Department of State - Bureau of Educational and Cultural Affairs (ECA) Fulbright Foreign Student Program",
+      "source_url": "https://foreign.fulbrightonline.org/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Individual institutional placement list before selection"
+      ]
+    }
+  ]
+}

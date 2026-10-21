@@ -1,0 +1,277 @@
+{
+  "scholarship_id": "SCH-EU-044",
+  "basic_details": {
+    "scholarship_name": "University of Bologna International Talents @Unibo Scholarships & Tuition Fee Waivers",
+    "offering_entity": "Alma Mater Studiorum - Università di Bologna (University of Bologna)",
+    "host_country": "Italy",
+    "host_institutions_covered": "University of Bologna (Bologna, Cesena, Forlì, Ravenna, and Rimini Campuses, Emilia-Romagna, Italy)",
+    "degree_levels": [
+      "Master of Science (Laurea Magistrale - 2nd Cycle)",
+      "Bachelor of Science (Laurea - 1st Cycle)"
+    ],
+    "major_restrictions": "All 1st and 2nd cycle degree programmes offered at the University of Bologna; particularly prominent in Artificial Intelligence, Computer Science and Engineering, Data Science, Digital Transformation, Engineering Management, and Advanced Automotive Electronic Engineering.",
+    "number_of_awards_total": "~80 study grants (gross amount €4,500 to €11,059 each) plus ~100 full tuition fee waivers awarded annually",
+    "number_of_awards_pakistan": "Open international competition based on standardized GRE/SAT scores; Pakistani STEM candidates secure ~8 to 15 awards and fee waivers annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "1 academic year, renewable for the second year (for 2-year Laurea Magistrale) subject to achieving minimum annual ECTS credit requirements (typically 30-40 ECTS)",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "€450 - €920 / month equivalent (disbursed in installments or annual grant of €4,500 to €11,059)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International students holding a valid qualification obtained outside the Italian education system (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 30,
+    "age_limit_postgrad": 30,
+    "age_limit_notes": "Applicants must be less than 30 years old on the closing date of the call for applications.",
+    "academic_qualifications": "A recognized 4-year Bachelor's degree (16 years education) with minimum CGPA 3.30 / 4.00 (or 75%+ aggregate) from an HEC-recognized university in Pakistan for Master's programs (Laurea Magistrale); Intermediate/HSSC with high marks for 1st cycle degree programs.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Academic evaluation is based primarily on official standardized test scores: GRE General Test for 2nd cycle (Master's) degrees, SAT/TOLC for 1st cycle (Bachelor's) degrees.",
+    "subject_background_prerequisites": "Prerequisites corresponding to the selected degree curriculum (e.g. adequate foundational credits in mathematics, programming, and algorithms for Computer Science/AI).",
+    "current_education_status": "Graduating seniors in their final semester can apply conditionally provided their Bachelor's degree is awarded prior to final university enrollment.",
+    "graduation_year_restrictions": "None, as long as age limit (<30 years) is met.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not factored into the standardized GRE/SAT ranking.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 85,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.5, TOEFL iBT minimum 85, or institutional English Medium of Instruction (MOI) certificate for English-taught degrees (B2 CEFR level).",
+    "other_language_requirements": "Italian language proficiency is not required for 100% English-taught degree courses.",
+    "gender_specific_requirements": null,
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must take the GRE General Test (for Master's) and send official scores directly to the University of Bologna (Institution Code 7850) before the application call deadline.",
+    "previous_scholarship_restrictions": "Cannot hold another scholarship from the Italian Ministry of Foreign Affairs (MAECI) or ER.GO concurrently for the same year.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver (Esonero Totale) for the entire academic year at the University of Bologna, worth €3,000 to €4,500/year.",
+      "amount": "100% covered (~€3,000 - €4,500 / year value; ~PKR 900,000 - 1,350,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Degree course intake evaluation fee of €50 payable during pre-enrollment via the Studenti Online (SOL) platform.",
+      "amount": "€50 (~PKR 15,000)"
+    },
+    "accommodation": {
+      "status": "PARTIAL",
+      "details": "Subsidized student housing can be applied for via the regional student welfare authority ER.GO (Azienda Regionale per il Diritto agli Studi Superiori); accommodation is also easily funded from the €11,059 Unibo study grant.",
+      "amount": "Subsidized ER.GO residence or private student rent (~€350 - €500 / month)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Direct financial study grant of €11,059 gross (approx €9,000 - €9,500 net per academic year, equivalent to ~€800 - €900 / month) disbursed in installments across the academic year.",
+      "amount": "€11,059 gross / year (~PKR 3,300,000 / year; ~€800 - €900 / month equivalent)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel expenses must be arranged by the student; easily funded through the €11,059 grant.",
+      "amount": "Self-funded via grant funds (~PKR 200,000 flight)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Italian National Study Visa (Type D) processing fee (€50) at the Embassy of Italy in Islamabad or Consulate in Karachi.",
+      "amount": "€50 (~PKR 15,000)"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Enrollment in the Italian National Health Service (SSN - Servizio Sanitario Nazionale) is available for international students at a regulated annual rate (~€700/year, or subsidized via ER.GO), granting comprehensive medical coverage.",
+      "amount": "Covered via annual grant funds (~€700 / year)"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Discounted access to university dining canteens (Mensa Unibo) across all campuses, funded from the living grant.",
+      "amount": "Covered from living grant"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full borrowing privileges at AlmaDL University Digital Library, computer lab workstations, and campus facilities.",
+      "amount": "100% covered by university resources"
+    },
+    "research_funding_conference_grant": {
+      "status": "PARTIAL",
+      "details": "Departmental Erasmus+ mobility grants and research allowances available during the 2nd year for thesis work abroad.",
+      "amount": "Up to €2,000 for Erasmus+ study exchanges"
+    },
+    "travel_transit_allowance": {
+      "status": "PARTIAL",
+      "details": "City bus travel discounts provided via Bologna TPER student transport passes (~€180 / year).",
+      "amount": "Subsidized local student transit pass"
+    },
+    "total_estimated_value_usd_per_year": 17000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single world-historic institution: University of Bologna (the world's oldest university in continuous operation, founded 1088 AD).",
+    "participating_institutions": [
+      "Alma Mater Studiorum - Università di Bologna (Bologna, Cesena, Forlì, Ravenna, Rimini Campuses)"
+    ],
+    "university_rankings_scope": "Ranked #133 globally in QS World University Rankings, #1 in Italy in major subject rankings, and top 75 globally in Computer Science, Automation, and Engineering.",
+    "available_majors": [
+      "Artificial Intelligence (MSc)",
+      "Computer Science and Engineering (MSc)",
+      "Data Science and Advanced Analytics",
+      "Digital Transformation Management",
+      "Automation Engineering",
+      "Advanced Automotive Electronic Engineering (MUNER - Motorvehicle University of Emilia-Romagna)",
+      "Telecommunications Engineering",
+      "Quantitative Finance and Economics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (120 ECTS) for Master's (Laurea Magistrale); 3 years (180 ECTS) for Bachelor's",
+    "admission_requirements_summary": "Bachelor's degree with curricular alignment, minimum English proficiency (B2 CEFR / IELTS 6.5), official GRE General Test score sent via ETS (code 7850), and submission via Studenti Online.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "MSc in Artificial Intelligence and MSc in Computer Science and Engineering are in extreme international demand; candidates with GRE Quantitative scores of 162+ stand an exceptional chance of winning both admission and the €11,059 grant.",
+    "strategic_program_match_advice": "Pakistani applicants should register for the GRE early (before February) and designate University of Bologna recipient code 7850 so ETS delivers official scores before the International Talents call deadline (usually April/May)."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/international-talents-unibo & https://studenti.unibo.it/",
+    "portal_system_name": "Studenti Online (SOL) Portal - Università di Bologna",
+    "account_creation_instructions": "Register an account on Studenti Online (SOL), select the 'International Talents @Unibo' call for applications, upload required passport and academic data, and submit official GRE/SAT score reports.",
+    "step_by_step_workflow": [
+      "Step 1: Take the GRE General Test (for Master's) or SAT (for Bachelor's) and order official score dispatch to University of Bologna (code 7850).",
+      "Step 2: Create user credentials on the Studenti Online (SOL) portal at https://studenti.unibo.it/.",
+      "Step 3: Submit application for degree program admission during the relevant intake window.",
+      "Step 4: Navigate to 'Calls for applications' on SOL, select 'International Talents @Unibo', and apply before the deadline (typically April/May).",
+      "Step 5: Admissions committee publishes the official merit ranking list based purely on standardized test scores.",
+      "Step 6: Successful candidates confirm acceptance within 10 days on SOL.",
+      "Step 7: Complete Universitaly pre-enrollment summary and apply for Italian Type D study visa at the Italian Embassy/Consulate in Pakistan."
+    ],
+    "university_vs_scholarship_routing": "Dual Parallel Track: Degree course admission and the International Talents scholarship are applied for separately on Studenti Online, but both are synchronized for study visa issuance.",
+    "recommendation_letters_submission_method": "Not required for the standardized test scholarship ranking.",
+    "personal_statement_prompts": "Not factored into the GRE score scholarship ranking; individual degree programs may require a 1-page statement of purpose.",
+    "study_plan_research_proposal_requirements": "Not applicable for course-based Laurea Magistrale entry.",
+    "cv_format_requirements": "Europass CV detailing education and academic background.",
+    "interviews_conducted": false,
+    "interview_format_details": "Selection is purely merit-based on official GRE/SAT percentile ranking.",
+    "standardized_tests": "GRE General Test (Verbal, Quantitative, Analytical Writing) mandatory for Master's applicants; SAT mandatory for Bachelor's applicants.",
+    "application_fee_amount": "€50 program evaluation fee on Studenti Online; scholarship application itself is free.",
+    "attestation_requirements": "CIMEA Statement of Comparability / Verification or Declaration of Value (DOV) from the Italian Embassy in Islamabad for the Bachelor's degree.",
+    "translation_requirements": "Certified Italian translation of degree and transcript required for visa and final enrollment.",
+    "final_submission_method": "Online submission via Studenti Online portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official GRE General Test Score Report",
+      "mandatory": true,
+      "specification": "Official score report sent electronically by ETS directly to University of Bologna (code 7850).",
+      "pakistan_specific_instruction": "Ensure test date is prior to the call deadline and designated recipient code 7850."
+    },
+    {
+      "document_name": "Bachelor's Degree Certificate and Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts for 16-year Bachelor's with minimum CGPA 3.3/4.0.",
+      "pakistan_specific_instruction": "Attested copies from HEC and MOFA Pakistan."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "High-resolution color scan of international passport data page.",
+      "pakistan_specific_instruction": "Passport validity must extend through late 2028."
+    },
+    {
+      "document_name": "English Language Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5), TOEFL iBT (min 85), or certified university MOI certificate.",
+      "pakistan_specific_instruction": "Meets B2 English language curriculum requirement."
+    },
+    {
+      "document_name": "CIMEA Statement of Comparability / DOV",
+      "mandatory": true,
+      "specification": "Document of academic equivalence for Italian higher education enrollment.",
+      "pakistan_specific_instruction": "Obtained online via CIMEA portal or Italian Embassy Islamabad."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "February 15",
+    "application_deadline": "April 30 (for GRE/SAT scholarship submission)",
+    "university_admission_deadline": "May 31",
+    "document_submission_deadline": "April 30",
+    "recommendation_letters_deadline": "Not applicable",
+    "interview_period": "Not applicable",
+    "shortlist_announcement": "Mid-June",
+    "final_result_acceptance_deadline": "Late June",
+    "visa_application_window": "June - August",
+    "semester_commencement": "Late September / Early October",
+    "annual_cycle_notes": "The International Talents @Unibo call opens annually in February/March and closes in late April/May. Strict adherence to ETS score delivery deadlines is required."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "0% (Degree GPA is an eligibility threshold; ranking is based on standardized test scores)",
+    "extracurricular_and_leadership_weight": "0% (Not evaluated in standardized scoring)",
+    "research_experience_weight": "0% (Not evaluated in standardized scoring)",
+    "work_experience_weight": "0% (Not evaluated in standardized scoring)",
+    "personal_statement_weight": "0% (Not evaluated in standardized scoring)",
+    "recommendations_weight": "0% (Not evaluated in standardized scoring)",
+    "interview_weight": "0% (Pure test score ranking)",
+    "test_scores_weight": "100% (Composite GRE General Test score: Quantitative Reasoning + Verbal Reasoning + Analytical Writing)",
+    "financial_need_weight": "0% (Pure standardized academic merit ranking)",
+    "selection_panel_composition": "International Relations and Admissions Division of the University of Bologna.",
+    "evaluation_methodology": "Transparent automated ranking based on GRE composite scores; ties broken by younger applicant age as per Italian public competition rules."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,200 international applicants across all disciplines",
+    "total_scholarships_awarded": "~80 full study grants (€11,059 each) + ~100 full tuition waivers",
+    "acceptance_rate_global": "~4% to 6% for the €11,059 study grant; ~8% to 10% for tuition waivers",
+    "acceptance_rate_pakistan": "~6% to 9% among applicants with GRE Quantitative scores of 160+",
+    "typical_successful_applicant_gpa": "CGPA 3.50+ / 4.00, accompanied by a competitive GRE score of 318+ (Quantitative 162+, Verbal 152+)",
+    "typical_academic_and_research_profile": "Quantitative-heavy graduates in computing, engineering, and economics with high standardized test agility.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani technical institutions (FAST-NUCES, NUST, GIKI, LUMS, UET).",
+    "high_representation_countries": "Pakistan, Turkey, Iran, India, China, Russia, Kazakhstan, Brazil.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of third-party educational agents claiming to provide 'guaranteed Italian study grants'.",
+      "Applications are submitted solely through the official portal https://studenti.unibo.it/."
+    ],
+    "application_fee_warning": "University of Bologna charges only the €50 degree course evaluation fee; scholarship application itself has no fee.",
+    "agent_and_intermediary_warnings": "University of Bologna does not endorse or authorize private agents to submit scholarship files.",
+    "hidden_costs_breakdown": [
+      "GRE General Test registration fee: ~$220 (~PKR 62,000).",
+      "CIMEA Statement of Comparability: ~€150 (~PKR 45,000).",
+      "Italian Embassy visa appointment and legal translation fees: ~PKR 35,000.",
+      "Initial travel and accommodation deposit in Bologna: ~€1,000 (~PKR 300,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: High university CGPA alone can win this scholarship. Reality: International Talents @Unibo rankings are determined purely by GRE/SAT scores, not university GPA.",
+      "Myth: You must know Italian to study at Bologna. Reality: University of Bologna offers over 80 complete Master's degree programmes taught entirely in English."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial portals claim GRE scores can be self-reported; official guidelines require official score transmission from ETS to institutional code 7850."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must earn minimum 30 ECTS credits during the first academic year to renew the scholarship grant for the second year.",
+    "attendance_requirements": "Full-time campus attendance and active participation in degree modules in Bologna or partner campuses.",
+    "academic_progress_monitoring": "Credit review by the university scholarship office at the close of the summer examination session (July/September).",
+    "work_restrictions_during_study": "Permitted to work part-time up to 20 hours per week (1,040 hours/year) under Italian student visa regulations.",
+    "home_country_return_obligation": "Zero return obligation; graduates are eligible to convert their study permit to a 1-year job seeker permit (Permesso di Soggiorno per Ricerca Lavoro) in Italy.",
+    "service_obligations_or_bonds": "Zero service bond or repayment obligation.",
+    "repayment_clawback_conditions": "Revocation of scholarship and requirement to refund installments if the student transfers to another university or drops out in year one.",
+    "rules_for_changing_university": "Non-transferable to other Italian universities.",
+    "rules_for_changing_major": "Permitted within University of Bologna subject to board approval and compatibility of study credits.",
+    "extension_policy": "Scholarship is awarded for maximum 2 academic years for Master's; no third-year extensions."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Bologna International Talents @Unibo Official Portal",
+      "source_url": "https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/international-talents-unibo",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Università di Bologna Studenti Online (SOL) Platform",
+      "source_url": "https://studenti.unibo.it/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "scholarship_id": "SCH-AM-045",
+  "basic_details": {
+    "scholarship_name": "University of British Columbia (UBC) Karen McKellin International Leader of Tomorrow Award",
+    "offering_entity": "University of British Columbia (UBC) International Scholars Program",
+    "host_country": "Canada",
+    "host_institutions_covered": "University of British Columbia (Vancouver Main Campus and Okanagan Campus, BC, Canada)",
+    "degree_levels": [
+      "Bachelor of Arts (BA)",
+      "Bachelor of Science (BSc)",
+      "Bachelor of Applied Science (BASc / Engineering)",
+      "Bachelor of Commerce (BCom)"
+    ],
+    "major_restrictions": "Open to all direct-entry undergraduate faculties at UBC: Faculty of Science (Computer Science, Data Science, Physics, Biology), Faculty of Applied Science (Engineering), Sauder School of Business, Faculty of Land and Food Systems, and Faculty of Arts.",
+    "number_of_awards_total": "~30 to 45 highly prestigious full-ride undergraduate scholarships awarded globally each year across the International Scholars Program",
+    "number_of_awards_pakistan": "Extremely selective global competition; Pakistani high school leaders secure ~2 to 5 full awards annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 4 years of full-time undergraduate study, renewed annually subject to maintaining superior academic standing (minimum 75% average) and active community leadership"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International citizens studying on a Canadian Study Permit (Pakistan eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "Applicants must be graduating high school seniors or recent high school graduates who have not completed more than one year of post-secondary study.",
+    "academic_qualifications": "Exceptional academic achievement in secondary school: Intermediate (HSSC / Pre-Engineering / Pre-Medical) with at least 90% aggregate, or A-Levels with minimum AAA / A*AA grades, or International Baccalaureate (IB) 38+ points. Class rank typically in top 1-2%.",
+    "minimum_gpa_percentage": 90.0,
+    "minimum_gpa_scale": 3.8,
+    "grading_conversion_notes": "Minimum unweighted high school average of 90%+ or Grade A equivalent across core senior subjects.",
+    "subject_background_prerequisites": "Rigorous mathematics and sciences (Physics/Chemistry) for Science and Engineering programs.",
+    "current_education_status": "Current high school seniors in their graduating year must apply with predicted grades; gap year students eligible if not enrolled in university.",
+    "graduation_year_restrictions": "Must be entering university directly from high school or within 12 months of high school graduation.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Demonstrated exceptional extracurricular leadership, community impact, social innovation, or national/international competition achievements.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": true,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.5 (with no sub-score below 6.0), TOEFL iBT minimum 90 (reading 22, listening 22, writing 21, speaking 21), or Duolingo (DET) minimum 125. Waiver available if completed 4 consecutive years in English medium instruction.",
+    "other_language_requirements": "None; instruction is entirely in English.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": true,
+    "special_eligibility_categories": "Applicants must be nominated directly by their secondary school and demonstrate financial need that would otherwise prevent them from studying at UBC.",
+    "previous_scholarship_restrictions": "Cannot hold concurrent full-ride awards.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "Full 100% international undergraduate tuition fee waiver for the complete 4-year degree duration (~CAD 45,000 to 58,000 / year value depending on faculty).",
+      "amount": "100% covered (~CAD 50,000 / year; ~PKR 10,250,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "UBC undergraduate application fee of CAD 168 is waived for officially nominated International Scholars candidates demonstrating financial need.",
+      "amount": "CAD 0 (Fee waived for nominated scholars)"
+    },
+    "accommodation": {
+      "status": "100% COVERED",
+      "details": "Guaranteed on-campus residence housing (Totem Park, Place Vanier, Orchard Commons) covered 100% for all 4 years (~CAD 10,000 to 14,000 / year value).",
+      "amount": "100% covered on-campus housing"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Personal living allowance and campus life stipend calculated to meet 100% of the scholar's demonstrated financial need: ~CAD 600 to 1,000 / month (~USD 440 to 740 / month; ~PKR 123,000 to 205,000 / month).",
+      "amount": "~CAD 800 / month (~PKR 164,000 / mo)"
+    },
+    "airfare": {
+      "status": "100% COVERED",
+      "details": "Annual economy-class round-trip airfare between Pakistan and Vancouver International Airport (YVR) provided directly by the International Scholars Program.",
+      "amount": "100% covered annual round-trip flight ticket"
+    },
+    "visa_fee": {
+      "status": "100% COVERED",
+      "details": "Canadian Study Permit application and biometrics fees reimbursed by the program upon arrival in Canada.",
+      "amount": "100% reimbursed"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "British Columbia Medical Services Plan (BC MSP) and iMED international student temporary health insurance covered 100% throughout the 4 years.",
+      "amount": "100% covered provincial healthcare"
+    },
+    "food_allowance": {
+      "status": "100% COVERED",
+      "details": "Full university residence dining meal plan covering all daily meals across campus dining halls included directly in the award (~CAD 6,500 / year value).",
+      "amount": "100% covered campus meal plan"
+    },
+    "books_and_materials_allowance": {
+      "status": "100% COVERED",
+      "details": "Annual textbook and academic course supplies stipend (~CAD 1,500 / year) plus high-performance laptop grant.",
+      "amount": "CAD 1,500 / year + laptop grant"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "International Scholars enrichment funding supports summer internships, undergraduate research initiatives, and global leadership retreats.",
+      "amount": "Covered under leadership enrichment grant"
+    },
+    "travel_transit_allowance": {
+      "status": "100% COVERED",
+      "details": "Vancouver TransLink U-Pass provides unlimited transit across all buses, SkyTrain lines, and SeaBus ferries in Metro Vancouver.",
+      "amount": "Unlimited transit via TransLink U-Pass"
+    },
+    "total_estimated_value_usd_per_year": 55000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (University of British Columbia - Vancouver & Okanagan)",
+    "participating_institutions": [
+      "University of British Columbia - Vancouver Point Grey Campus & Okanagan Campus (BC, Canada)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #38 worldwide, Times Higher Education #41 globally, top 2 research university in Canada.",
+    "available_majors": [
+      "Computer Science (BSc & BA)",
+      "Data Science",
+      "Electrical and Computer Engineering (BASc)",
+      "Mechanical Engineering (BASc)",
+      "Biomedical Engineering (BASc)",
+      "Physics and Astronomy (BSc)",
+      "Mathematics and Statistics (BSc)",
+      "Commerce / Business Administration (BCom - Sauder)",
+      "Economics and International Relations (BA)",
+      "Global Resource Systems (BSc)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "4 years (full-time undergraduate)",
+    "admission_requirements_summary": "School nomination form, online UBC undergraduate application, personal profile essays, high school transcripts (Grades 9-12), counselor reference, English proficiency report, and detailed financial declaration form.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "The Karen McKellin Award is one of the most prestigious and competitive undergraduate awards in the world (acceptance rate ~1-2%); applicants must demonstrate top-tier academic distinction paired with transformative community impact.",
+    "strategic_program_match_advice": "Focus heavily on authentic leadership and social impact in the International Scholars personal essays. Ensure your secondary school counselor submits the official nomination well before the December 1 deadline."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/ & https://account.you.ubc.ca/",
+    "portal_system_name": "UBC Online Admissions & International Scholars Portal",
+    "account_creation_instructions": "Create an applicant account on UBC admissions portal, complete the general undergraduate application, submit the International Scholars Program application, and have your school counselor complete the nomination package.",
+    "step_by_step_workflow": [
+      "Step 1: Secure official nomination from high school principal or college guidance counselor (October - November).",
+      "Step 2: Submit UBC online undergraduate admission application at you.ubc.ca (Deadline: December 1).",
+      "Step 3: Complete and submit the International Scholars Program award application and financial disclosure form (Deadline: December 1).",
+      "Step 4: School counselor uploads official nomination letter, school profile, and transcripts by December 1.",
+      "Step 5: Submit all supporting academic documents, predicted grades, and English proficiency test scores (Deadline: January 31).",
+      "Step 6: International Scholars Selection Committee conducts comprehensive holistic evaluations (February - March).",
+      "Step 7: Selected finalists participate in virtual video interviews with the scholarship committee (March).",
+      "Step 8: Final award and admission decisions announced (mid-April).",
+      "Step 9: Accept the award, obtain Provincial Attestation Letter (PAL), apply for Canadian Study Permit, and arrive in Vancouver in late August for Jump Start orientation."
+    ],
+    "university_vs_scholarship_routing": "Integrated Track: Application for the International Scholars Program is submitted concurrently with the UBC undergraduate admission application.",
+    "recommendation_letters_submission_method": "Submitted online by the secondary school counselor and an academic referee via secure links dispatched by the International Scholars portal.",
+    "personal_statement_prompts": "Personal profile essays detailing significant extracurricular accomplishments, leadership initiatives, resilience through adversity, and vision for community contribution.",
+    "study_plan_research_proposal_requirements": "Not required for undergraduates; evaluated on intellectual curiosity, community impact, and academic excellence.",
+    "cv_format_requirements": "Embedded activities list detailing leadership roles, community service projects, and honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "20 to 30-minute online panel interview conducted by International Scholars committee members evaluating leadership vision, character, and communication.",
+    "standardized_tests": "SAT/ACT is optional; English proficiency test (IELTS min 6.5, TOEFL min 90, or DET min 125) mandatory unless meeting language exemption.",
+    "application_fee_amount": "CAD 168 (Waived for nominated candidates with demonstrated financial need)",
+    "attestation_requirements": "High school diploma and transcripts must be authenticated by IBCC/British Council and official results sent upon final admission.",
+    "translation_requirements": "Certified English translation required for any documents not issued in English.",
+    "final_submission_method": "100% digital submission via the UBC online portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "UBC Undergraduate Application and Personal Profile",
+      "mandatory": true,
+      "specification": "Completed online application at you.ubc.ca with detailed personal profile essays.",
+      "pakistan_specific_instruction": "Ensure legal name matches Pakistani passport exactly."
+    },
+    {
+      "document_name": "Official High School Nomination Form",
+      "mandatory": true,
+      "specification": "Official nomination form and letter completed by secondary school principal or guidance counselor.",
+      "pakistan_specific_instruction": "Each Pakistani school may nominate up to a limited number of exceptional candidates."
+    },
+    {
+      "document_name": "Official High School Transcripts (Grades 9-12)",
+      "mandatory": true,
+      "specification": "Complete transcripts for Grades 9, 10, 11, and senior year predicted/mid-year grades.",
+      "pakistan_specific_instruction": "Matric/FSc mark sheets or O/A Level statement of results uploaded by school counselor."
+    },
+    {
+      "document_name": "International Scholars Financial Declaration",
+      "mandatory": true,
+      "specification": "Detailed financial disclosure form detailing household income, assets, and expenses.",
+      "pakistan_specific_instruction": "Parent tax returns (FBR) or employer salary certificates translated into English."
+    },
+    {
+      "document_name": "Official English Proficiency Score Report",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5 overall, 6.0 in each subtest) or TOEFL iBT (min 90).",
+      "pakistan_specific_instruction": "Request testing agency to send official scores directly to UBC (institution code 0965)."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport identification page valid for at least 2 years.",
+      "pakistan_specific_instruction": "Pakistani passport must have validity through late 2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "September 1",
+    "application_deadline": "December 1 (Application & Nomination deadline)",
+    "university_admission_deadline": "December 1",
+    "document_submission_deadline": "January 31",
+    "recommendation_letters_deadline": "December 1",
+    "interview_period": "March 1 - March 25",
+    "shortlist_announcement": "Mid-April",
+    "final_result_acceptance_deadline": "May 1",
+    "visa_application_window": "May 1 - July 15",
+    "semester_commencement": "Early September (Fall intake)",
+    "annual_cycle_notes": "Single annual intake cycle for September enrollment. The December 1 deadline is strict and non-extendable."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Secondary school GPA, academic rigor, and intellectual curiosity)",
+    "extracurricular_and_leadership_weight": "30% (Demonstrated leadership, community initiatives, and character)",
+    "research_experience_weight": "5% (Olympiad/science fair projects where applicable)",
+    "work_experience_weight": "5% (Community engagement, internships, or social ventures)",
+    "personal_statement_weight": "15% (Personal profile essays and leadership reflections)",
+    "recommendations_weight": "5% (School counselor nomination and teacher appraisals)",
+    "interview_weight": "0% (Interview performance factored directly into final selection committee decision)",
+    "test_scores_weight": "0% (SAT/ACT optional; English meets threshold)",
+    "financial_need_weight": "0% (Evaluated to determine scholarship package value to meet 100% of need)",
+    "selection_panel_composition": "UBC International Scholars Selection Committee, Deans of Academic Faculties, and Associate Vice-President International.",
+    "evaluation_methodology": "Comprehensive holistic review: academic distinction, authentic leadership impact, perseverance through adversity, and alignment with UBC values."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~2,500 to 3,500 nominated global applicants competing for International Scholars awards",
+    "total_scholarships_awarded": "~30 to 45 full awards distributed globally each year",
+    "acceptance_rate_global": "~1.0% to 1.5%",
+    "acceptance_rate_pakistan": "~2.0% to 3.0% among elite nominated candidates",
+    "typical_successful_applicant_gpa": "Top 1-2% of graduating class, A*A*A in A-Levels, 92%+ in FSc/Matric",
+    "typical_academic_and_research_profile": "World-class academic standing paired with extraordinary community service (founders of impactful NGOs, debate champions, environmental activists).",
+    "common_backgrounds_of_winners": "Graduates of top Pakistani public and private secondary schools who have led transformative community projects.",
+    "high_representation_countries": "Canada, Pakistan, India, Kenya, Nigeria, Brazil, Turkey, Indonesia, Vietnam.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of commercial agencies advertising guaranteed UBC scholarships.",
+      "Legitimate applications are processed exclusively through you.ubc.ca."
+    ],
+    "application_fee_warning": "Nominated applicants requesting financial aid receive a waiver for the CAD 168 application fee; never pay third-party agents.",
+    "agent_and_intermediary_warnings": "UBC strictly prohibits recruitment agents from submitting scholarship applications on behalf of students.",
+    "hidden_costs_breakdown": [
+      "IELTS/TOEFL examination fee: ~PKR 60,000.",
+      "Canadian Study Permit and biometric fee: ~CAD 235 (~PKR 48,000).",
+      "High school transcript attestation in Pakistan upon graduation: ~PKR 15,000 to 25,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You can apply without school nomination. Reality: The International Scholars Program strictly requires an official nomination from your high school counselor.",
+      "Myth: The scholarship only covers tuition. Reality: The Karen McKellin Award covers 100% of demonstrated financial need, including tuition, residence, food, healthcare, and flights."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs suggest SAT is required; SAT is completely optional for international students applying to UBC."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative average of 75% in undergraduate coursework and remain in Good Standing in your enrolled faculty.",
+    "attendance_requirements": "Full-time enrollment (minimum 24-30 percentage credits per academic year) and active participation in the International Scholars community.",
+    "academic_progress_monitoring": "Annual review by the International Scholars Committee; scholars participate in leadership development workshops and cohort meetings.",
+    "work_restrictions_during_study": "Part-time on-campus/off-campus employment permitted up to 20 hours per week during academic terms under Canadian Study Permit regulations.",
+    "home_country_return_obligation": "No mandatory return requirement; graduates are eligible for the Canadian Post-Graduation Work Permit (PGWP) for up to 3 years.",
+    "service_obligations_or_bonds": "Zero service bond or repayment obligation attached to the fellowship.",
+    "repayment_clawback_conditions": "Award terminated if scholar is dismissed for academic misconduct, fails to maintain academic average, or withdraws without authorization.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Major change permitted within the same faculty or across faculties subject to academic approval.",
+    "extension_policy": "Award covers a maximum of 4 consecutive undergraduate years (8 academic terms)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "UBC International Scholars Program Official Portal",
+      "source_url": "https://you.ubc.ca/financial-planning/scholarships-awards-international-students/international-scholars/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "UBC Undergraduate Admissions Portal",
+      "source_url": "https://account.you.ubc.ca/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

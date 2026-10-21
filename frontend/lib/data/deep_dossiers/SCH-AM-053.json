@@ -1,0 +1,287 @@
+{
+  "scholarship_id": "SCH-AM-053",
+  "basic_details": {
+    "scholarship_name": "Rotary Peace Fellowship (Duke University & UNC Chapel Hill Peace Center)",
+    "offering_entity": "The Rotary Foundation of Rotary International & Duke-UNC Rotary Peace Center",
+    "host_country": "United States",
+    "host_institutions_covered": "Duke University (Sanford School of Public Policy) & University of North Carolina at Chapel Hill (Chapel Hill, North Carolina, USA)",
+    "degree_levels": [
+      "Master of International Development Policy (MIDP)",
+      "Master of Arts (MA in Global Studies, Political Science, or Public Health)"
+    ],
+    "major_restrictions": "International Development Policy, Peace and Conflict Resolution, Global Health Policy, Environmental Policy & Peacebuilding, Human Rights & Humanitarian Assistance, and International Security.",
+    "number_of_awards_total": "~130 fully funded Rotary Peace Fellowships awarded globally per year across all Rotary Peace Centers",
+    "number_of_awards_pakistan": "Open globally on merit; Pakistani peace practitioners, development leaders, and policy analysts regularly win competitive fellowship slots (~4 to 8 awards globally)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 24 months (Two full academic years, including a 2 to 3-month Applied Field Experience internship)",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "$2,200 to $2,600 / month living stipend (~PKR 610,000 to 720,000 / month) plus 100% full tuition, round-trip international airfare, health insurance, and fully funded field internship"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to citizens of all countries including Pakistan (Rotarians and immediate family members ineligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction; candidates must demonstrate substantial professional peace, conflict, or development track records.",
+    "academic_qualifications": "Recognized 16-year Bachelor's degree with strong academic record (equivalent to minimum GPA 3.00 / 4.00 or second-division upper / 65%+) from an HEC-recognized university.",
+    "minimum_gpa_percentage": 65.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum undergraduate GPA of 3.0 / 4.0; selection heavily emphasizes professional peacebuilding impact and leadership capacity.",
+    "subject_background_prerequisites": "Social sciences, law, development studies, international relations, environmental studies, or related disciplines.",
+    "current_education_status": "Graduated professionals with active employment in peacebuilding, development, or humanitarian sectors.",
+    "graduation_year_restrictions": "Must have completed bachelor's degree at least 3 years prior to fellowship start date.",
+    "work_experience_required": true,
+    "work_experience_minimum_years": 3.0,
+    "work_experience_notes": "Minimum 3 years of full-time relevant professional work experience in peacebuilding, human rights, conflict mitigation, or sustainable development.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 7.0 or TOEFL iBT minimum 90 mandatory for Duke University Sanford School and UNC Chapel Hill admissions.",
+    "other_language_requirements": "Second language proficiency recommended but not mandatory.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must obtain endorsement from a local Rotary District; active Rotarians, Rotary club members, or their lineal descendants are barred by Rotary Foundation bylaws.",
+    "previous_scholarship_restrictions": "Ineligible if already awarded a Rotary Peace Fellowship.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full international tuition, mandatory registration fees, and academic course charges at Duke University and UNC Chapel Hill.",
+      "amount": "100% covered (~$55,000 to 65,000 / year value; ~PKR 15,300,000 to 18,000,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Rotary Peace Fellowship application is free; host university graduate application fees are waived or reimbursed by Rotary.",
+      "amount": "$0 (100% free)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Housing allowance provided via monthly living stipend; fellows lease private apartments or university graduate housing in Durham / Chapel Hill.",
+      "amount": "Covered via monthly stipend"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living stipend of $2,200 to $2,600 / month directly deposited to cover rent, utilities, food, and living expenses.",
+      "amount": "$2,200 to $2,600 / month (~PKR 610,000 to 720,000 / mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Round-trip economy international airfare between Pakistan and Raleigh-Durham International Airport (RDU), North Carolina.",
+      "amount": "100% covered round-trip airfare"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "U.S. J-1 Exchange Visitor Visa or F-1 Student Visa application fees and SEVIS fees covered or reimbursed by the fellowship.",
+      "amount": "100% covered visa costs"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive student health and hospitalization insurance policy through Duke University or UNC Chapel Hill student health services.",
+      "amount": "100% covered comprehensive healthcare"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Dining and grocery costs covered through monthly living allowance.",
+      "amount": "Covered via stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Annual textbook and course materials allowance provided at the start of each academic semester.",
+      "amount": "100% covered book allowance"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Fully funded 2 to 3-month summer Applied Field Experience (AFE) internship including international travel, living allowance, and project grant up to $6,000 to $8,000.",
+      "amount": "$6,000 to $8,000 Applied Field Experience grant"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Local GoTriangle and Duke Robertson bus transit passes included, providing free connectivity between Duke and UNC campuses.",
+      "amount": "100% free campus transit"
+    },
+    "total_estimated_value_usd_per_year": 78000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Dual elite host universities forming the joint Duke-UNC Rotary Peace Center.",
+    "participating_institutions": [
+      "Duke University (Sanford School of Public Policy, Durham, North Carolina, USA)",
+      "University of North Carolina at Chapel Hill (College of Arts and Sciences, Chapel Hill, North Carolina, USA)"
+    ],
+    "university_rankings_scope": "Duke University ranked #10 in U.S. News & World Report and Top 25 globally; UNC Chapel Hill ranked #4 among U.S. public universities; Sanford School of Public Policy ranked Top 5 in public policy.",
+    "available_majors": [
+      "Master of International Development Policy (MIDP at Duke Sanford)",
+      "Master of Arts in Global Studies (UNC Chapel Hill)",
+      "Master of Public Policy (MPP in Peacebuilding & Conflict Transformation)",
+      "Master of Science in Public Health (Global Health Policy at Gillings)",
+      "Master of Environmental Management (Peace & Resource Governance at Duke Nicholas)"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "24 months (2 academic years + summer Applied Field Experience)",
+    "admission_requirements_summary": "Bachelor's degree with 3.0+ GPA, minimum 3 years full-time peace/development work experience, Rotary District endorsement, IELTS 7.0+ or TOEFL 90+, essays on peace vision, two recommendation letters, and CV.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Selection is conducted in two stages: Rotary Foundation first selects Peace Fellows; fellows then apply to Duke University or UNC Chapel Hill graduate school with guaranteed funding endorsement.",
+    "strategic_program_match_advice": "Focus personal essays on tangible grassroots or policy achievements in conflict mitigation, refugee protection, human rights, or environmental justice in South Asia."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.rotary.org/en/our-programs/peace-fellowships",
+    "portal_system_name": "Rotary Foundation Online Peace Fellowship Application Portal (Embark)",
+    "account_creation_instructions": "Create an account on the Rotary Peace Fellowships portal, select Master's program track, list Duke-UNC as preferred Peace Center, draft peace essays, upload transcripts and CV, and request endorsement from local Rotary District.",
+    "step_by_step_workflow": [
+      "Step 1: Check eligibility (3+ years relevant work experience, not an active Rotarian or lineal relative).",
+      "Step 2: Connect with local Rotary District in Pakistan (District 3271 or 3272) to request interview and district endorsement.",
+      "Step 3: Complete online Rotary Peace Fellowship application including peace leadership essays and CV.",
+      "Step 4: Referees submit letters of recommendation directly into the portal by May 15.",
+      "Step 5: Rotary District conducts interview and submits endorsement to The Rotary Foundation by July 1.",
+      "Step 6: World-level Rotary Selection Committee reviews dossiers and announces fellowship awards in November.",
+      "Step 7: Selected fellows submit formal graduate admission application to Duke University or UNC Chapel Hill by December/January.",
+      "Step 8: Universities issue formal admission letters; Rotary processes visa, travel, and stipend for August departure."
+    ],
+    "university_vs_scholarship_routing": "Two-Stage Coordinated Track: Candidates win the Rotary Peace Fellowship first, followed by streamlined formal admission to Duke or UNC Chapel Hill.",
+    "recommendation_letters_submission_method": "Submitted online by referees via automated secure electronic appraisal forms.",
+    "personal_statement_prompts": "Essays detailing: (1) Professional experience in peace and development, (2) Motivation for pursuing the fellowship, (3) Theory of change and concrete vision for advancing peace in Pakistan/globally.",
+    "study_plan_research_proposal_requirements": "Statement of academic and professional objectives outlining intended coursework and ideas for the Applied Field Experience internship.",
+    "cv_format_requirements": "Chronological professional CV highlighting employment history, peacebuilding initiatives, publications, and volunteer leadership.",
+    "interviews_conducted": true,
+    "interview_format_details": "District endorsement interview with senior Rotary leaders, followed by potential virtual interview with host university faculty.",
+    "standardized_tests": "IELTS Academic 7.0+ or TOEFL iBT 90+ mandatory; GRE optional.",
+    "application_fee_amount": "$0 (100% free of charge)",
+    "attestation_requirements": "HEC verified transcripts required upon formal university enrollment.",
+    "translation_requirements": "Certified English translation of all non-English documents.",
+    "final_submission_method": "100% online submission via Rotary Foundation Embark portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "16-year Bachelor's degree with minimum cumulative GPA 3.0 / 4.0.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Rotary District Official Endorsement",
+      "mandatory": true,
+      "specification": "Formal endorsement submitted by Rotary District Governor / Subcommittee Chair.",
+      "pakistan_specific_instruction": "Secured via Rotary District 3271 (Sindh/Balochistan) or 3272 (Punjab/KP/ICT)."
+    },
+    {
+      "document_name": "Two Professional and Academic Recommendation Letters",
+      "mandatory": true,
+      "specification": "Confidential recommendations evaluating candidate's peacebuilding leadership and academic capacity.",
+      "pakistan_specific_instruction": "From professional supervisors or mentors."
+    },
+    {
+      "document_name": "Peace Vision and Theory of Change Essays",
+      "mandatory": true,
+      "specification": "Detailed essays outlining career commitment to peace, conflict resolution, and development impact.",
+      "pakistan_specific_instruction": "Addressing regional peace and development."
+    },
+    {
+      "document_name": "Comprehensive Professional Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Documenting minimum 3 years of full-time professional peacebuilding or development experience.",
+      "pakistan_specific_instruction": "Detailing professional roles and impact."
+    },
+    {
+      "document_name": "Official English Proficiency Score Report",
+      "mandatory": true,
+      "specification": "IELTS Academic minimum 7.0 or TOEFL iBT minimum 90.",
+      "pakistan_specific_instruction": "Official test report."
+    },
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for minimum 2 years.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "February 1",
+    "application_deadline": "May 15 (Annual candidate submission deadline to Rotary Foundation)",
+    "university_admission_deadline": "December 15 (Following award announcement)",
+    "document_submission_deadline": "May 15",
+    "recommendation_letters_deadline": "May 15",
+    "interview_period": "June (Rotary District interviews)",
+    "shortlist_announcement": "November (World Fellowship Announcement)",
+    "final_result_acceptance_deadline": "December 1",
+    "visa_application_window": "May - July",
+    "semester_commencement": "Mid-August (Fall intake)",
+    "annual_cycle_notes": "Single annual cycle: Submit by May 15, 2026 for fellowship commencement in August 2027."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "20% (Prior undergraduate GPA and academic readiness)",
+    "extracurricular_and_leadership_weight": "35% (Proven track record in peace, conflict resolution, social justice, or humanitarian work)",
+    "research_experience_weight": "10% (Policy papers, analytical writing, or field assessment experience)",
+    "work_experience_weight": "25% (Minimum 3 years of high-impact full-time professional experience)",
+    "personal_statement_weight": "5% (Quality of peace vision essays)",
+    "recommendations_weight": "5% (District endorsement and professional referee evaluations)",
+    "interview_weight": "0% (District interview is for endorsement qualification)",
+    "test_scores_weight": "0% (English proficiency is a mandatory threshold)",
+    "financial_need_weight": "0% (Pure merit and peace leadership excellence)",
+    "selection_panel_composition": "Rotary Foundation International Selection Committee comprising Global Trustees and Peace Experts, in consultation with Duke-UNC Academic Directors.",
+    "evaluation_methodology": "Holistic global competition evaluating candidate's dedication to peacebuilding, leadership accomplishments, and capacity to leverage the fellowship for global impact."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,500 global peace practitioners applying across all peace centers",
+    "total_scholarships_awarded": "~50 master's fellowships globally; ~10 to 12 fellows at Duke-UNC center annually",
+    "acceptance_rate_global": "~2.0% to 3.0%",
+    "acceptance_rate_pakistan": "~2.5% to 4.0% for distinguished peace practitioners with district endorsement",
+    "typical_successful_applicant_gpa": "Undergraduate GPA >= 3.40 / 4.00, accompanied by 4 to 8 years of distinguished peacebuilding, NGO, or humanitarian experience",
+    "typical_academic_and_research_profile": "Mid-level practitioners in international NGOs (UN, ICRC, USAID, Oxfam), human rights lawyers, investigative journalists, and government development officers.",
+    "common_backgrounds_of_winners": "Pakistani alumni from leading universities (LUMS, Quaid-i-Azam, NUST, Kinnaird, IBA) working in development, gender rights, and community peacebuilding.",
+    "high_representation_countries": "Pakistan, USA, Colombia, Kenya, India, Nigeria, UK, Myanmar, Syria, Uganda.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official Rotary portal at rotary.org.",
+      "Rotary International never charges fees for applications or district endorsements."
+    ],
+    "application_fee_warning": "The fellowship application is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Commercial agencies cannot secure Rotary endorsements; candidates must connect directly with local Rotary clubs and districts.",
+    "hidden_costs_breakdown": [
+      "All primary expenses (tuition, flights, housing, stipend, health, AFE grant) are 100% covered.",
+      "Domestic travel to Rotary club/district meetings for interview: ~PKR 10,000 to 20,000.",
+      "IELTS or TOEFL test registration: ~PKR 55,000 to 65,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You must be a Rotarian to apply. Reality: Rotarians and their immediate relatives are legally barred from receiving Rotary Peace Fellowships to avoid conflict of interest.",
+      "Myth: The fellowship only covers short certificates. Reality: The Master's track covers a full two-year elite master's degree (Duke MIDP or UNC MA) with generous funding."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sites post inaccurate deadlines; official Rotary Foundation portal deadline is strictly May 15 annually."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative graduate GPA of 3.0 / 4.0 throughout each semester at Duke and UNC.",
+    "attendance_requirements": "Full-time resident study in North Carolina and completion of the mandatory 2 to 3-month Applied Field Experience.",
+    "academic_progress_monitoring": "Biannual academic progress evaluation and reporting to The Rotary Foundation.",
+    "work_restrictions_during_study": "Scholars are discouraged from outside paid work to ensure full engagement with coursework and peace center activities.",
+    "home_country_return_obligation": "None; fellows become lifelong Rotary Peace Fellows and can pursue global peace careers with international organizations or return to home country.",
+    "service_obligations_or_bonds": "Obligation to present research at the annual Duke-UNC Rotary Peace Conference and submit post-fellowship career reports.",
+    "repayment_clawback_conditions": "Funding terminated if fellow withdraws or fails academic good standing.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Permitted only within approved peace and development degree programs at Duke and UNC.",
+    "extension_policy": "Funding capped strictly at 24 months; no extensions permitted."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Rotary International Peace Fellowships Official Program Page",
+      "source_url": "https://www.rotary.org/en/our-programs/peace-fellowships",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Duke-UNC Rotary Peace Center Official Website",
+      "source_url": "https://dukeuncpeacecenter.org/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

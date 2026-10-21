@@ -1,0 +1,275 @@
+{
+  "scholarship_id": "SCH-EU-011",
+  "basic_details": {
+    "scholarship_name": "Finland Scholarship Programme",
+    "offering_entity": "Finnish National Agency for Education (EDUFI) & Ministry of Education and Culture of Finland",
+    "host_country": "Finland",
+    "host_institutions_covered": "Finnish Research Universities (Aalto University, University of Helsinki, Tampere University, University of Oulu, University of Turku, LUT University, University of Vaasa, University of Jyväskylä, Åbo Akademi University)",
+    "degree_levels": [
+      "Master's Degree"
+    ],
+    "major_restrictions": "Open to all disciplines offered in English-taught Master's programs across Finnish research universities (Computer Science, Artificial Intelligence, Telecommunications, Renewable Energy, Business, Health Sciences, Design, Environmental Sciences).",
+    "number_of_awards_total": "~100 to 150 elite scholarships distributed across participating Finnish universities annually",
+    "number_of_awards_pakistan": "Competitive merit pool based on academic excellence without geographic quotas (historically 5 to 12 Pakistani awardees/yr)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "2 academic years (normative Master's duration, 120 ECTS)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Non-EU/EEA citizens liable to pay tuition fees in Finnish higher education"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No upper age restrictions.",
+    "academic_qualifications": "Completed undergraduate degree (Bachelor's, 16 years of education) from an internationally recognized institution with excellent academic standing.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Competitive applicants generally present a CGPA of 3.40+ / 4.00 or top 10% class standing.",
+    "subject_background_prerequisites": "Substantial coursework (at least 60 ECTS or relevant major) in the field corresponding to the target Master's degree.",
+    "current_education_status": "Graduated or currently in final semester of Bachelor's degree.",
+    "graduation_year_restrictions": "No specific graduation year cutoff.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; research internships and industry projects strengthen application.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.5,
+      "toefl_minimum": 92,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": false,
+      "notes": "IELTS Academic (min 6.5 with 6.0 in writing) or TOEFL iBT (min 92) strictly required; Medium of Instruction letters generally not accepted unless undergraduate degree was completed in Australia, Canada, Ireland, New Zealand, UK, or USA."
+    },
+    "other_language_requirements": "English.",
+    "gender_specific_requirements": "None; purely merit-based.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Top-ranked non-EU academic applicants.",
+    "previous_scholarship_restrictions": "Must not have already received a Finland Scholarship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition fee waiver for the entire 2-year duration (€10,000 to €18,000/year depending on program, e.g., Aalto/Helsinki).",
+      "amount": "100% covered (€10,000 to €18,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Non-EU applicants pay €100 application fee on Studyinfo.fi.",
+      "amount": "€100"
+    },
+    "accommodation": {
+      "status": "PAID VIA STIPEND",
+      "details": "Student accommodation provided through student housing foundations (HOAS, TOAS, PSOAS); subsidized rent (~€300–450/month) paid from relocation grant.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Award includes a one-time relocation grant of €5,000 paid upon arrival, plus university-level second-year living stipends for top performers.",
+      "amount": "€5,000 one-time relocation grant (~PKR 1,525,000)"
+    },
+    "airfare": {
+      "status": "PAID VIA STIPEND",
+      "details": "International travel expenses borne by the student from the €5,000 relocation allowance.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Finnish residence permit fee (€350 electronic application) paid by applicant.",
+      "amount": "€350"
+    },
+    "health_insurance": {
+      "status": "NOT_COVERED",
+      "details": "Private health insurance meeting Finnish Immigration Service (Migri) criteria (~€200–300/yr) required for residence permit.",
+      "amount": "€200 to €300 / year"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Subsidized student cafeteria lunches (Kelan ateriatuki: €2.95 per hot meal at all campus cafeterias).",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "All course literature available electronically or via university library systems.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Paid research assistant positions available in labs during 2nd year thesis work.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Included in €5,000 relocation grant.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 24000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple institutions: Up to 6 university programs can be selected on central Studyinfo.fi portal.",
+    "participating_institutions": [
+      "Aalto University (Espoo/Helsinki)",
+      "University of Helsinki",
+      "Tampere University",
+      "University of Oulu",
+      "LUT University (Lappeenranta-Lahti)",
+      "University of Turku",
+      "University of Jyväskylä",
+      "University of Vaasa",
+      "Åbo Akademi University"
+    ],
+    "university_rankings_scope": "Top 100 to 400 QS World University Rankings (Helsinki #115, Aalto #109).",
+    "available_majors": [
+      "Computer Science, Machine Learning & Data Science, Artificial Intelligence, Security & Cloud Computing, Wireless Communications (6G Flagship), Biomedical Engineering, Economics, Quantum Technology, Renewable Energy"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "24 months (120 ECTS credits)",
+    "admission_requirements_summary": "Bachelor's degree with high GPA and required prerequisite university credits in mathematics and field of study.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Aalto and Helsinki receive the highest applicant volume; LUT, Oulu, and Tampere have slightly higher scholarship award ratios.",
+    "strategic_program_match_advice": "Check the box 'I apply for the Finland Scholarship' on the central Studyinfo.fi portal application form when submitting degree applications."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://opintopolku.fi/",
+    "portal_system_name": "Studyinfo.fi (Opintopolku)",
+    "account_creation_instructions": "Create an account on the Finnish national portal Studyinfo.fi during the joint application window in January.",
+    "step_by_step_workflow": [
+      "1. Search programs on Studyinfo.fi in November/December.",
+      "2. Register and complete online joint application in early January.",
+      "3. Select up to 6 study programs in order of preference.",
+      "4. Tick the checkbox to apply for the Finland Scholarship.",
+      "5. Upload certified educational documents, transcript, and official IELTS/TOEFL scores.",
+      "6. Pay the €100 non-EU application fee on Studyinfo.fi.",
+      "7. Receive admission and scholarship results by March/April.",
+      "8. Accept study place and apply for Migri residence permit electronically."
+    ],
+    "university_vs_scholarship_routing": "Integrated single application on central Studyinfo.fi portal.",
+    "recommendation_letters_submission_method": "Not required by most Finnish universities.",
+    "personal_statement_prompts": "Program-specific motivation questions embedded into Studyinfo application form focusing on study objectives and career alignment.",
+    "study_plan_research_proposal_requirements": "Not applicable for Master's admission.",
+    "cv_format_requirements": "Standard academic CV highlighting projects, coding repositories (GitHub), and academic awards.",
+    "interviews_conducted": false,
+    "interview_format_details": "Select technical programs may include an online video interview or programming assessment.",
+    "standardized_tests": "None for most STEM programs; GMAT/GRE required only for select business schools.",
+    "application_fee_amount": "€100 application fee through Studyinfo.fi.",
+    "attestation_requirements": "Original transcripts and degree certificate; verified electronically or physically upon matriculation.",
+    "translation_requirements": "Official English, Finnish, or Swedish translations required for any non-English documents.",
+    "final_submission_method": "100% online through Studyinfo.fi portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Passport Data Page",
+      "mandatory": true,
+      "specification": "Scanned copy of valid international passport",
+      "pakistan_specific_instruction": "Pakistani passport copy"
+    },
+    {
+      "document_name": "Bachelor's Degree Certificate & Official Transcripts",
+      "mandatory": true,
+      "specification": "Official transcripts and diploma with course descriptions/grading scale",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "English Language Test Report",
+      "mandatory": true,
+      "specification": "Official IELTS Academic (6.5+) or TOEFL iBT (92+)",
+      "pakistan_specific_instruction": "Score report sent directly to university institution codes"
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Detailed CV listing education, skills, projects, and work experience",
+      "pakistan_specific_instruction": "Highlight technical software projects and hackathons"
+    },
+    {
+      "document_name": "Motivation Statement",
+      "mandatory": true,
+      "specification": "Responses to program-specific motivation questions on Studyinfo",
+      "pakistan_specific_instruction": "Focus on academic rationale and career trajectory"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-01-07",
+    "application_deadline": "2026-01-21",
+    "university_admission_deadline": "2026-01-21",
+    "document_submission_deadline": "2026-01-28",
+    "recommendation_letters_deadline": "N/A",
+    "interview_period": "February to March 2026",
+    "shortlist_announcement": "March 2026",
+    "final_result_acceptance_deadline": "2026-04-30",
+    "visa_application_window": "May to July 2026",
+    "semester_commencement": "2026-09-01",
+    "annual_cycle_notes": "Single annual intake window in January for autumn semester commencement."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "60% (Academic performance, transcript grades, and prerequisite relevance)",
+    "extracurricular_and_leadership_weight": "5% (Extracurricular projects)",
+    "research_experience_weight": "10% (Undergraduate thesis and publications)",
+    "work_experience_weight": "5% (Industry internships)",
+    "personal_statement_weight": "20% (Motivation letter and problem-solving essays)",
+    "recommendations_weight": "0% (Not required)",
+    "interview_weight": "0% (Except select programs)",
+    "test_scores_weight": "0% (Language tests are threshold only)",
+    "financial_need_weight": "0% (Pure academic excellence)",
+    "selection_panel_composition": "Faculty admission academic committees at respective university departments.",
+    "evaluation_methodology": "Central administrative document verification -> Departmental academic scoring of coursework relevance & grades -> Ranking and top applicant scholarship nomination."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~12,000 non-EU international applicants",
+    "total_scholarships_awarded": "~150 Finland Scholarships across all research universities",
+    "acceptance_rate_global": "~1.25%",
+    "acceptance_rate_pakistan": "~1.0% (Extremely Competitive)",
+    "typical_successful_applicant_gpa": "3.60+ / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Graduates from premier engineering institutions (NUST, FAST, GIKI, UET) with top percentiles, strong programming/math foundational background, and targeted motivation.",
+    "common_backgrounds_of_winners": "Graduates of top Pakistani computer science and electrical engineering departments.",
+    "high_representation_countries": "India, China, Iran, Bangladesh, Vietnam, Turkey, Pakistan, Nigeria.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Fraudulent sites asking for direct bank transfers: studyinfinland-portal.org, finland-visa-scholarships.com."
+    ],
+    "application_fee_warning": "Application fee of €100 is paid ONLY inside official Studyinfo.fi portal. Never pay fees to external agents or via wire transfer.",
+    "agent_and_intermediary_warnings": "Finnish universities do not authorize commercial agents to guarantee scholarships.",
+    "itemized_hidden_out_of_pocket_costs": [
+      "Residence permit application fee to Migri (€350 electronic / ~PKR 107,000)",
+      "Studyinfo application processing fee (€100 / ~PKR 30,500)",
+      "Mandatory health insurance for residence permit (€250–350 / ~PKR 80,000 to 110,000)",
+      "Living funds requirement for Migri residence permit (€560/mo or €6,720/year proof of funds)",
+      "Airfare Pakistan to Helsinki (~PKR 180,000 to 250,000)"
+    ],
+    "debunked_myths_and_misconceptions": [
+      "MYTH: You need to learn Finnish to study or work. (Truth: Master's degrees are 100% in English, and tech ecosystems in Helsinki, Espoo, and Tampere operate predominantly in English).",
+      "MYTH: You need separate applications for each Finnish university. (Truth: Up to 6 university programs can be applied to simultaneously on Studyinfo.fi in one application)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Agents claim Finland grants living stipends of €1,500/month; the Finland Scholarship provides 100% tuition waiver + €5,000 one-time relocation grant."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must complete at least 55 ECTS credits per academic year to maintain 2nd year tuition waiver.",
+    "attendance_requirements": "Participation in seminars and group work per course syllabus.",
+    "academic_progress_monitoring": "Annual credit verification (55 ECTS required by end of Year 1).",
+    "work_restrictions_during_study": "Full legal rights to work up to 30 hours per week during term-time and unlimited hours during holidays under Finnish student residence permit.",
+    "home_country_return_obligation": "None; Finland offers an extended 2-year post-study job search residence permit for international graduates.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Tuition waiver is terminated for year 2 if the minimum 55 ECTS requirement is not fulfilled.",
+    "rules_for_changing_university": "Non-transferable between universities.",
+    "rules_for_changing_major": "Transfers between degree programs not permitted under the same scholarship.",
+    "extension_policy": "Strictly limited to 2 academic years; tuition fees apply for any additional semesters needed to graduate."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Study in Finland (EDUFI) - Finland Scholarships Official Portal",
+      "source_url": "https://www.studyinfinland.fi/scholarships/finland-scholarships",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact number of Finland Scholarships allocated specifically to each participating university faculty.",
+        "Coursework equivalence calculation formulas used by Finnish admissions boards to convert non-ECTS South Asian degrees.",
+        "Statistical cutoff scores of awarded students in previous joint application cycles."
+      ]
+    }
+  ]
+}

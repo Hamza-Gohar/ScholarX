@@ -1,0 +1,289 @@
+{
+  "scholarship_id": "SCH-AM-058",
+  "basic_details": {
+    "scholarship_name": "Columbia University Presidential Fellowships & Dean's Doctoral Awards",
+    "offering_entity": "Graduate School of Arts and Sciences (GSAS) & Fu Foundation School of Engineering and Applied Science (SEAS), Columbia University",
+    "host_country": "United States",
+    "host_institutions_covered": "Columbia University in the City of New York (Morningside Heights & Manhattanville, New York, USA)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Computer Science, Electrical Engineering, Biomedical Engineering, Mechanical Engineering, Applied Physics & Applied Mathematics, Chemical Engineering, Earth & Environmental Engineering, and Data Science.",
+    "number_of_awards_total": "~100% of admitted PhD students receive full multi-year fellowship packages (~450 to 550 doctoral awards annually)",
+    "number_of_awards_pakistan": "Open globally on merit; Pakistani scholars in computing, engineering, and data science regularly secure full Columbia doctoral funding (~4 to 7 awards annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Full 5 years of doctoral study guaranteed",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "$45,000 to $48,500 / year (approx. $3,750 to $4,040 / month; ~PKR 1,040,000 to 1,120,000 / month) 12-month living stipend plus 100% full tuition waiver and comprehensive Columbia Health plan"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international students worldwide including Pakistan as well as U.S. citizens/PR"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction; selection based strictly on academic excellence and research potential.",
+    "academic_qualifications": "Recognized 16-year Bachelor's or 18-year Master's degree with exceptional academic standing (equivalent to minimum GPA 3.80+ / 4.00 or top-decile rank) from an HEC-recognized university.",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.8,
+    "grading_conversion_notes": "Minimum undergraduate/graduate GPA of 3.8 / 4.0; admitted Columbia doctoral candidates are evaluated on research impact.",
+    "subject_background_prerequisites": "Computer science, electrical engineering, biomedical engineering, data science, mathematics, or physics.",
+    "current_education_status": "Graduated or final-year undergraduate/master's students completing degree before September.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior scientific research publications, conference presentations, or industrial software contributions strongly advantageous.",
+    "english_test_required": true,
+    "ielts_minimum": 7.5,
+    "toefl_minimum": 100,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "TOEFL iBT minimum 100 or IELTS Academic minimum 7.5 mandatory for Columbia GSAS and SEAS.",
+    "other_language_requirements": "GRE General optional/department-specific.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must be admitted to a Columbia University PhD program.",
+    "previous_scholarship_restrictions": "Coordinated with Columbia standard multi-year doctoral funding guarantee.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full Columbia University doctoral tuition and required student facilities fees covered for all 5 years of study.",
+      "amount": "100% covered (~$56,000 / year value; ~PKR 15,500,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Columbia graduate application fee of $85 to $120; fee waivers available upon demonstration of financial need.",
+      "amount": "$85 to $120 (~PKR 23,500 to 33,000) application fee (fee waiver available)"
+    },
+    "accommodation": {
+      "status": "NOT_COVERED",
+      "details": "Columbia University Residential housing in Morningside Heights, Manhattanville, or private NYC apartments funded via monthly living stipend.",
+      "amount": "Funded from stipend (~$1,300 to $1,900 / month rent in NYC)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Guaranteed 12-month living stipend of $45,000 to $48,500 / year ($3,750 to $4,040 / month; ~PKR 1,040,000 to 1,120,000 / month) disbursed semimonthly.",
+      "amount": "$45,000 to $48,500 / year (~$3,900 / month living stipend)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Relocation flights to New York City are self-funded or subsidized by departmental relocation allowances.",
+      "amount": "Not covered in standard package"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "U.S. F-1 Student Visa application fee (~$185) and SEVIS I-901 fee (~$350) paid to U.S. government.",
+      "amount": "Approx. $535 borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Columbia Student Health Plan (Aetna Student Health) and Morningside Columbia Health fee 100% covered for all doctoral fellows.",
+      "amount": "100% covered comprehensive healthcare (~$4,600 / year value)"
+    },
+    "food_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Dining and groceries covered through monthly living allowance.",
+      "amount": "Covered via stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Columbia University Libraries system (Butler Library, Science & Engineering Library), high-performance computing clusters (Habanero, Ginsburg), and laboratory infrastructure included.",
+      "amount": "100% covered research computing access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "GSAS and departmental travel matching grants provide up to $2,000 to $3,500 per year for presenting research papers at conferences.",
+      "amount": "Up to $3,500 / year travel funds"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Columbia Intercampus Shuttle is completely free connecting Morningside, Manhattanville, Medical Center, and Harlem rail stations.",
+      "amount": "100% free Columbia Intercampus Shuttle"
+    },
+    "total_estimated_value_usd_per_year": 112000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single world-leading Ivy League research institution (Columbia University in the City of New York).",
+    "participating_institutions": [
+      "Columbia University (Morningside Heights & Manhattanville Campuses, New York, NY, USA)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #34, U.S. News Top 15 National Universities; world-renowned for Computer Science, Data Science Institute, and Fu Foundation School of Engineering.",
+    "available_majors": [
+      "PhD in Computer Science (AI, Vision, NLP, Systems, Security)",
+      "PhD in Electrical Engineering",
+      "PhD in Biomedical Engineering",
+      "PhD in Mechanical Engineering",
+      "PhD in Chemical Engineering",
+      "PhD in Applied Physics and Applied Mathematics",
+      "PhD in Earth and Environmental Engineering",
+      "PhD in Data Science"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "5 years of full-time doctoral study and research",
+    "admission_requirements_summary": "Bachelor's / Master's degree with 3.8+ GPA, verified transcripts, TOEFL 100+ or IELTS 7.5+, three academic letters of recommendation, CV detailing research outputs, and personal statement.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Columbia Computer Science and Data Science are intensely competitive (acceptance rate ~5%); demonstrating prior peer-reviewed research publications or strong technical contributions is crucial.",
+    "strategic_program_match_advice": "Articulate clear research synergy with specific Columbia faculty research groups and centers (e.g., Data Science Institute, Columbia Center for AI and Mental Health, Columbia Nano Initiative)."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://apply.engineering.columbia.edu/apply/",
+    "portal_system_name": "Columbia Engineering / GSAS Online Application Portal",
+    "account_creation_instructions": "Register on the Columbia application portal, choose target PhD program, select faculty of interest, upload transcripts, personal statement, CV, test scores, and register 3 referees.",
+    "step_by_step_workflow": [
+      "Step 1: Explore Columbia faculty profiles and published papers in your field of interest.",
+      "Step 2: Obtain valid TOEFL iBT (100+) or IELTS Academic (7.5+) score report.",
+      "Step 3: Submit PhD application on Columbia application portal by December 15 deadline.",
+      "Step 4: Upload official academic transcripts, personal statement, and curriculum vitae.",
+      "Step 5: Three academic referees submit letters directly into the Columbia system.",
+      "Step 6: Departmental faculty admissions committee reviews applications and selects doctoral candidates.",
+      "Step 7: Successful applicants receive formal admission offer with full 5-year guaranteed funding package in February/March.",
+      "Step 8: Accept offer by April 15, receive I-20, and apply for U.S. F-1 Student Visa."
+    ],
+    "university_vs_scholarship_routing": "Integrated Universal Doctoral Funding: 100% of admitted Columbia PhD students receive full multi-year funding guarantees without separate financial aid application.",
+    "recommendation_letters_submission_method": "Submitted online by referees via automated secure electronic appraisal forms.",
+    "personal_statement_prompts": "Personal statement (approx. 1,000 words) describing academic trajectory, research questions, proposed methodologies, and alignment with Columbia faculty.",
+    "study_plan_research_proposal_requirements": "Incorporated into personal statement; publications or thesis samples uploaded under supplementary materials.",
+    "cv_format_requirements": "Standard academic research CV detailing education, publications, conference presentations, awards, and technical proficiencies.",
+    "interviews_conducted": true,
+    "interview_format_details": "Virtual technical interviews via Zoom with prospective faculty advisors evaluating research depth and theoretical foundation.",
+    "standardized_tests": "TOEFL iBT 100+ or IELTS 7.5+ mandatory; GRE optional/department-specific.",
+    "application_fee_amount": "$85 to $120 (approx. PKR 23,500 to 33,000; fee waiver available upon request)",
+    "attestation_requirements": "Official HEC verified transcripts required upon final matriculation.",
+    "translation_requirements": "Certified English translation of all non-English transcripts.",
+    "final_submission_method": "100% online submission via Columbia application portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Bachelor's / Master's degree with minimum GPA 3.8 / 4.0 from an accredited university.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official English Proficiency Score Report",
+      "mandatory": true,
+      "specification": "TOEFL iBT minimum 100 or IELTS Academic minimum 7.5.",
+      "pakistan_specific_instruction": "Official electronic score report submitted to Columbia University code 2111."
+    },
+    {
+      "document_name": "Three Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential referee appraisals from research mentors assessing originality and scientific capability.",
+      "pakistan_specific_instruction": "Submitted via institutional email links."
+    },
+    {
+      "document_name": "Personal Statement of Purpose",
+      "mandatory": true,
+      "specification": "Articulating research passions, technical challenges, and proposed faculty collaborators at Columbia.",
+      "pakistan_specific_instruction": "Tailored to Columbia research groups."
+    },
+    {
+      "document_name": "Detailed Academic Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Listing all academic history, research projects, publications, and technical skills.",
+      "pakistan_specific_instruction": "Highlighting research experience."
+    },
+    {
+      "document_name": "Sample of Written Work / Research Publications",
+      "mandatory": false,
+      "specification": "Published peer-reviewed paper or thesis chapter demonstrating rigorous research capability.",
+      "pakistan_specific_instruction": "Scholarly research paper."
+    },
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for minimum 1 year.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "September 1",
+    "application_deadline": "December 15 (Computer Science, ECE, BioE) / January 5 (Other engineering programs)",
+    "university_admission_deadline": "December 15",
+    "document_submission_deadline": "December 15",
+    "recommendation_letters_deadline": "December 22",
+    "interview_period": "January - February",
+    "shortlist_announcement": "February - early March",
+    "final_result_acceptance_deadline": "April 15 (National CGS deadline)",
+    "visa_application_window": "May - July",
+    "semester_commencement": "Early September (Fall intake)",
+    "annual_cycle_notes": "Single annual admission cycle for Fall entry; applications strictly due by mid-December."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "25% (Academic GPA, transcript rigor, foundational coursework grades)",
+    "extracurricular_and_leadership_weight": "5% (Academic outreach, community leadership)",
+    "research_experience_weight": "50% (Demonstrated research originality, peer-reviewed publications, technical problem solving)",
+    "work_experience_weight": "5% (Industry R&D lab experience or software engineering)",
+    "personal_statement_weight": "5% (Clarity of scientific objectives and focus)",
+    "recommendations_weight": "5% (Referee appraisals of research independence)",
+    "interview_weight": "5% (Performance in faculty technical discussions)",
+    "test_scores_weight": "0% (English proficiency is a mandatory threshold)",
+    "financial_need_weight": "0% (Pure academic excellence and research capability)",
+    "selection_panel_composition": "Departmental Faculty Admissions Committees and Columbia Graduate School.",
+    "evaluation_methodology": "Holistic review prioritizing research depth, originality, peer-reviewed outputs, and scientific match with Columbia research laboratories."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,500 to 5,000 doctoral applicants across engineering and applied sciences",
+    "total_scholarships_awarded": "~100% of admitted PhD students receive full multi-year funding guarantees",
+    "acceptance_rate_global": "~4.0% to 5.5% across departments",
+    "acceptance_rate_pakistan": "~2.5% to 4.0% for extraordinary applicants with peer-reviewed publications and near-perfect GPAs",
+    "typical_successful_applicant_gpa": "Undergraduate GPA >= 3.85 / 4.00, typically with 1 to 3 peer-reviewed publications in reputable international venues",
+    "typical_academic_and_research_profile": "Scholars holding bachelor's or research master's degrees with exceptional quantitative skills, peer-reviewed publications, and compelling research visions.",
+    "common_backgrounds_of_winners": "Graduates from premier Pakistani universities (NUST, LUMS, FAST-NUCES, GIKI, PIEAS, UET) and international graduate programs.",
+    "high_representation_countries": "USA, China, India, Canada, Pakistan, South Korea, Germany, Singapore, Turkey.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official Columbia website at columbia.edu.",
+      "Columbia never works with commercial recruiting agencies."
+    ],
+    "application_fee_warning": "Application fee of $85 to $120 is paid directly through the secure portal; fee waivers are available for eligible applicants.",
+    "agent_and_intermediary_warnings": "Commercial agencies cannot influence Columbia admissions; fraudulent applications result in permanent bans.",
+    "hidden_costs_breakdown": [
+      "Application fee: $85 to $120 (waiver available).",
+      "U.S. Visa & SEVIS fees: ~$535 (~PKR 148,000).",
+      "IELTS or TOEFL test fees: ~PKR 55,000 to 65,000.",
+      "Relocation flight to New York City: ~PKR 250,000 to 350,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Columbia doctoral students must pay tuition. Reality: 100% of admitted Columbia doctoral students receive full tuition coverage, health insurance, and a generous 12-month living stipend ($45k-$48.5k/yr).",
+      "Myth: You need a master's degree to apply. Reality: Students holding a 4-year Bachelor's degree are directly eligible to apply to Columbia PhD programs."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently quote outdated stipend values; current verified Columbia 12-month doctoral stipend is $45,000 to $48,500."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic progress and minimum B+ (3.3/4.0) average in graduate coursework.",
+    "attendance_requirements": "Full-time resident study in New York City and active contribution to research laboratory projects.",
+    "academic_progress_monitoring": "Annual progress reviews and doctoral qualifying exams administered by the department.",
+    "work_restrictions_during_study": "Teaching Assistant or Research Assistant duties are integrated into doctoral training; outside employment is restricted.",
+    "home_country_return_obligation": "None; graduates are eligible for 3-year U.S. STEM OPT work authorization.",
+    "service_obligations_or_bonds": "Obligation to fulfill designated departmental research or teaching duties.",
+    "repayment_clawback_conditions": "Funding terminated if student withdraws or fails academic milestones.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Requires approval from graduate program committee and faculty supervisor.",
+    "extension_policy": "Full guaranteed funding for 5 years; dissertation completion support available for year 6."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Columbia GSAS Financing Your Education Categories",
+      "source_url": "https://gsas.columbia.edu/student-guide/financing-your-education/fellowship-categories",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Columbia Engineering Doctoral Financial Support",
+      "source_url": "https://www.engineering.columbia.edu/admissions/graduate/doctoral-financial-aid",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

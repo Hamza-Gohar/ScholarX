@@ -1,0 +1,278 @@
+{
+  "scholarship_id": "SCH-EU-068",
+  "basic_details": {
+    "scholarship_name": "Swedish Institute Scholarship for Global Professionals (SISGP)",
+    "offering_entity": "Swedish Institute (SI - Ministry for Foreign Affairs of Sweden)",
+    "host_country": "Sweden",
+    "host_institutions_covered": "Participating Swedish Universities (KTH Royal Institute of Technology, Chalmers University of Technology, Lund University, Uppsala University, Linköping University, Stockholm University)",
+    "degree_levels": [
+      "Master of Science (MSc / MA)"
+    ],
+    "major_restrictions": "Master's programmes contributing to the UN 2030 Agenda for Sustainable Development (Computer Science, Software Engineering, Cybersecurity, AI, Renewable Energy, Environmental Engineering, Public Health).",
+    "number_of_awards_total": "~300 to 350 prestigious scholarships awarded globally per academic year",
+    "number_of_awards_pakistan": "Country quota for Pakistan (~20 to 35 scholarships awarded annually to Pakistani professionals)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 24 months (1 to 2-year full-time master's degree programs)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of 41 eligible DAC countries including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age limit under Swedish Institute regulations.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (16-year BS / BSc / BE) from an HEC-recognized university with strong academic performance (minimum CGPA 3.40 / 4.00 or 78%+).",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.4,
+    "grading_conversion_notes": "Minimum CGPA 3.40 / 4.00; competitive applicants typically hold CGPA >= 3.60 / 4.00.",
+    "subject_background_prerequisites": "Degree relevant to chosen master's programme with verified admission offer via UniversityAdmissions.se.",
+    "current_education_status": "Must hold an undergraduate degree and demonstrate verified professional work experience.",
+    "graduation_year_restrictions": "No restriction on year of graduation.",
+    "work_experience_required": true,
+    "work_experience_minimum_years": 1.5,
+    "work_experience_notes": "Mandatory requirement of at least 3,000 hours of demonstrated work experience (equivalent to approximately 1.5 to 2 years of full-time employment) and demonstrated leadership experience.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic overall minimum 6.5 (no section below 5.5) or TOEFL iBT minimum 90 (writing at least 20). MOI certificates are not accepted by Swedish university admissions for non-exempt countries.",
+    "other_language_requirements": "Swedish language proficiency is not required; all eligible master's programmes are taught in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must demonstrate leadership experience and clear commitment to contributing to UN Sustainable Development Goals.",
+    "previous_scholarship_restrictions": "Ineligible if previously awarded a Swedish Institute scholarship for master's or PhD, or holds a degree from a Swedish university.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee paid directly by the Swedish Institute to the host Swedish university (worth SEK 160,000 to SEK 310,000).",
+      "amount": "100% Full Tuition Fee Paid Directly (~SEK 300,000 value)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Application fee of SEK 900 (~PKR 24,000) payable to UniversityAdmissions.se during Swedish national university application.",
+      "amount": "SEK 900 application fee"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Funded directly from the monthly living allowance; Swedish universities provide guaranteed or prioritized housing for SI scholars.",
+      "amount": "Fully funded via living stipend"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "SEK 12,000 / month tax-free living allowance throughout the entire study period (~PKR 315,000 / month).",
+      "amount": "SEK 12,000 / month (~PKR 315,000/mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "SEK 15,000 one-time travel grant paid upon arrival in Sweden to cover international travel costs.",
+      "amount": "SEK 15,000 one-time travel grant"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Swedish Residence Permit for higher education application fee (~SEK 1,500) paid to Swedish Migration Agency (Migrationsverket).",
+      "amount": "SEK 1,500 residence permit fee"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive Swedish State Insurance for foreign students (Student IN) covering illness, accident, and liability in Sweden.",
+      "amount": "100% Comprehensive Swedish State Insurance (Student IN)"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly SEK 12,000 living stipend plus access to student kitchen facilities and campus cafeterias.",
+      "amount": "Fully funded via living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to university library systems and digital journal repositories across Swedish universities.",
+      "amount": "Full university library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Exclusive membership in the SI Network for Future Global Leaders (NFGL) with sponsored leadership workshops and study visits.",
+      "amount": "NFGL Leadership Network membership"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized regional student transit cards across Stockholm (SL), Gothenburg (Västtrafik), and Skåne (Skånetrafiken).",
+      "amount": "Subsidized Swedish student transit"
+    },
+    "total_estimated_value_usd_per_year": 26000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple host institutions across Sweden (KTH, Chalmers, Lund, Uppsala, Linköping, Stockholm University).",
+    "participating_institutions": [
+      "KTH Royal Institute of Technology (Stockholm)",
+      "Chalmers University of Technology (Gothenburg)",
+      "Lund University (Lund)",
+      "Uppsala University (Uppsala)",
+      "Linköping University (Linköping)",
+      "Stockholm University (Stockholm)"
+    ],
+    "university_rankings_scope": "World top 100-150 universities renowned for technology, engineering, sustainability, and human-computer interaction.",
+    "available_majors": [
+      "MSc in Computer Science & Software Engineering",
+      "MSc in Machine Learning & Data Science",
+      "MSc in Cybersecurity and Information Security",
+      "MSc in Sustainable Energy & Electrical Engineering",
+      "MSc in Environmental Management and Policy",
+      "MSc in Global Health & Epidemiology"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 or 2 years (60 to 120 ECTS credits)",
+    "admission_requirements_summary": "Bachelor degree in relevant field, IELTS 6.5+ or TOEFL 90+, 3,000+ hours documented work experience, proof of leadership, two recommendation letters on official SI templates.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Two-step process: apply for up to 4 master's programmes at UniversityAdmissions.se by January 15, then apply for the SI Scholarship in February.",
+    "strategic_program_match_advice": "Check the SI Eligible Master's Programme list carefully; only apply to master's programs explicitly listed by the Swedish Institute."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+    "portal_system_name": "Swedish Institute Application Portal & University Admissions Sweden",
+    "account_creation_instructions": "Step 1: Apply for master's programs at UniversityAdmissions.se (deadline mid-January). Step 2: Receive 8-digit application number. Step 3: Apply for SI Scholarship on the SI portal in February using mandatory SI templates.",
+    "step_by_step_workflow": [
+      "Step 1: Research eligible master's programmes on the official Swedish Institute website and select up to 4 programmes.",
+      "Step 2: Submit master's applications via UniversityAdmissions.se between October 15 and January 15 and pay SEK 900 fee.",
+      "Step 3: Upload academic transcripts, degree certificates, and IELTS/TOEFL scorecard to UniversityAdmissions.se before the document deadline (February 1).",
+      "Step 4: Prepare mandatory SI application templates: SI CV, Proof of Work and Leadership Experience, and two Letters of Reference.",
+      "Step 5: Apply on the Swedish Institute scholarship portal between February 10 and February 28, inputting your 8-digit University Admissions application number.",
+      "Step 6: University admissions results announced at UniversityAdmissions.se in late March; candidate must receive an admission offer to remain eligible.",
+      "Step 7: Swedish Institute announces scholarship recipients in late April.",
+      "Step 8: Accept scholarship offer and apply for Swedish Residence Permit for Studies."
+    ],
+    "university_vs_scholarship_routing": "Separate Routing: Candidates must first apply for university admission via national portal UniversityAdmissions.se, then apply separately to the Swedish Institute.",
+    "recommendation_letters_submission_method": "Submitted using mandatory SI Letter of Reference templates, signed and stamped by referees, and uploaded to the SI portal.",
+    "personal_statement_prompts": "Structured motivation questionnaire detailing how study in Sweden connects to professional background, leadership vision, and UN SDGs in Pakistan.",
+    "study_plan_research_proposal_requirements": "Integrated within the university application and SI motivation essay questions.",
+    "cv_format_requirements": "Mandatory Swedish Institute CV template (strict max 3 pages; applications using any other CV format are disqualified).",
+    "interviews_conducted": false,
+    "interview_format_details": "No interviews; selection is based entirely on written application materials, leadership proof, and academic dossier.",
+    "standardized_tests": "IELTS Academic 6.5+ (min 5.5 each) or TOEFL iBT 90+ (min 20 writing).",
+    "application_fee_amount": "SEK 900 (university application fee; SI scholarship application is free)",
+    "attestation_requirements": "HEC and university attested documents uploaded to UniversityAdmissions.se.",
+    "translation_requirements": "Official English translation for all documents not issued in English.",
+    "final_submission_method": "Online submission via Swedish Institute scholarship portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official SI Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Must strictly use the official SI CV template without altering headers or exceeding length limits.",
+      "pakistan_specific_instruction": "Use official SI template only."
+    },
+    {
+      "document_name": "Proof of Work and Leadership Experience Form",
+      "mandatory": true,
+      "specification": "Completed official SI proof form documenting at least 3,000 hours of professional work and leadership roles, signed and stamped by employers.",
+      "pakistan_specific_instruction": "Signed and stamped by employer."
+    },
+    {
+      "document_name": "Two Letters of Reference on SI Templates",
+      "mandatory": true,
+      "specification": "Two recommendation letters using official SI templates (at least one must be from a work supervisor).",
+      "pakistan_specific_instruction": "Signed and stamped on official letterhead."
+    },
+    {
+      "document_name": "Copy of Valid Passport",
+      "mandatory": true,
+      "specification": "Color copy of valid Pakistani passport identification page.",
+      "pakistan_specific_instruction": "Clear passport copy."
+    },
+    {
+      "document_name": "Motivation Letter / Strategic Questionnaire",
+      "mandatory": true,
+      "specification": "Completed answers to SI portal essay prompts explaining leadership potential and sustainable development impact in Pakistan.",
+      "pakistan_specific_instruction": "Connect explicitly to UN SDGs and Pakistan's development."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-15",
+    "application_deadline": "2027-01-15",
+    "university_admission_deadline": "2027-01-15",
+    "document_submission_deadline": "2027-02-01",
+    "recommendation_letters_deadline": "2027-02-28",
+    "interview_period": "None (No interviews conducted)",
+    "shortlist_announcement": "Late March 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "2027-08-30",
+    "annual_cycle_notes": "University admissions window closes January 15; SI scholarship application window is open from February 10 to February 28."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Academic performance and admission ranking at UniversityAdmissions.se)",
+    "extracurricular_and_leadership_weight": "25% (Demonstrated leadership track record in profession and civil society)",
+    "research_experience_weight": "10% (Technical depth and competence in chosen field)",
+    "work_experience_weight": "25% (Verified 3,000+ hours work experience and quality of professional achievements)",
+    "personal_statement_weight": "10% (Clarity of vision on contributing to UN Sustainable Development Goals)",
+    "recommendations_weight": "0% (Verification of leadership and work criteria)",
+    "interview_weight": "0% (No interview conducted)",
+    "test_scores_weight": "0% (Qualifying prerequisite for university admission)",
+    "financial_need_weight": "0% (Need-blind merit and leadership evaluation)",
+    "selection_panel_composition": "Swedish Institute Evaluation Committee comprising independent assessors and leadership experts.",
+    "evaluation_methodology": "Two-stage evaluation: formal eligibility and template check, followed by expert scoring of leadership potential and SDG contribution."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~8,000 to 10,000 global applicants for SISGP",
+    "total_scholarships_awarded": "~300 to 350 scholarships awarded globally",
+    "acceptance_rate_global": "~3.5%",
+    "acceptance_rate_pakistan": "~4% to 6% among qualified professionals meeting the 3,000 hours work threshold",
+    "typical_successful_applicant_gpa": "3.60 / 4.00 accompanied by 3+ years of professional leadership experience",
+    "typical_academic_and_research_profile": "Mid-career software engineers, cybersecurity specialists, sustainability managers, or public policy leaders with documented impact.",
+    "common_backgrounds_of_winners": "Professionals from leading Pakistani tech firms, multinational corporations, research organizations, and NGOs.",
+    "high_representation_countries": "Pakistan, Turkey, Egypt, Kenya, South Africa, Indonesia, Bangladesh, Brazil.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply via the official Swedish Institute website https://si.se/ and UniversityAdmissions.se.",
+      "Never pay any agency or third party claiming to guarantee an SI scholarship."
+    ],
+    "application_fee_warning": "SI scholarship application is completely free; only UniversityAdmissions.se charges standard SEK 900 application fee.",
+    "agent_and_intermediary_warnings": "Swedish Institute explicitly disqualifies applications submitted or prepared by commercial agencies; all templates must be authentic.",
+    "hidden_costs_breakdown": [
+      "University admissions application fee: SEK 900 (~PKR 24,000).",
+      "Swedish residence permit application fee: SEK 1,500 (~PKR 40,000).",
+      "Initial expenses before travel grant disbursement: ~SEK 2,000.",
+      "HEC degree attestation fees in Pakistan: ~PKR 15,000 to 20,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You can use your own custom CV format. Reality: Applications that do not use the official SI CV template are disqualified automatically without review.",
+      "Myth: Fresh graduates with internships qualify for the work requirement. Reality: 3,000 hours of documented professional employment is strictly mandatory."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial consultants claim any master's degree in Sweden is covered; SI publishes a specific list of eligible programmes, and non-listed programmes are strictly ineligible."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic progression and pass courses according to host university guidelines.",
+    "attendance_requirements": "Mandatory full-time study; scholars must attend NFGL events and annual network meetings.",
+    "academic_progress_monitoring": "Host universities submit credit completion reports to the Swedish Institute at the end of each academic term.",
+    "work_restrictions_during_study": "Part-time work permitted under Swedish student residence permit, but SI fellowship requires full-time academic commitment.",
+    "home_country_return_obligation": "None; zero service bond or mandatory return requirement.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Revocation of scholarship if student abandons studies, provides false documentation, or fails academic progression.",
+    "rules_for_changing_university": "Non-transferable to other universities or degree programmes.",
+    "rules_for_changing_major": "Changing degree program is strictly prohibited under the scholarship agreement.",
+    "extension_policy": "Scholarship cannot be extended beyond the official duration of the master's program (maximum 24 months)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Swedish Institute Official SISGP Portal",
+      "source_url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "University Admissions Sweden",
+      "source_url": "https://www.universityadmissions.se/intl/start",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

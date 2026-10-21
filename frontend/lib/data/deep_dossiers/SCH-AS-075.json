@@ -1,0 +1,284 @@
+{
+  "scholarship_id": "SCH-AS-075",
+  "basic_details": {
+    "scholarship_name": "University of Hong Kong (HKU) Presidential PhD Fellowship Scheme (HKU-PS)",
+    "offering_entity": "The University of Hong Kong (HKU) Graduate School",
+    "host_country": "Hong Kong (SAR)",
+    "host_institutions_covered": "The University of Hong Kong (Pokfulam Main Campus, Hong Kong)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Faculty of Engineering, Faculty of Science, Li Ka Shing Faculty of Medicine, Faculty of Architecture, and Faculty of Dentistry (all doctoral research disciplines).",
+    "number_of_awards_total": "~120 to 160 elite doctoral fellowships awarded annually university-wide",
+    "number_of_awards_pakistan": "Open internationally; typically 8 to 15 outstanding Pakistani researchers in engineering, computing, and biomedical sciences selected annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 4 years (standard PhD tenure)",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "Combined funding package: HKD 28,100 / month living stipend (~PKR 1,011,600 / month) in Year 1, plus HKD 40,000 cash award in Year 1 and HKD 20,000/year in subsequent years, plus 100% full tuition fee waiver and dedicated conference/research travel allowance of HKD 14,000 / year: Total package value exceeds HKD 420,000 / year (~PKR 15,120,000 / year)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to candidates of all nationalities (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "No statutory maximum age limit, though priority is given to candidates with extraordinary academic and research achievements.",
+    "academic_qualifications": "Completed recognized Bachelor's degree with First Class Honours / High Distinction (minimum CGPA 3.60/4.00) or completed Master's degree with outstanding academic record from an HEC-recognized university.",
+    "minimum_gpa_percentage": 85.0,
+    "minimum_gpa_scale": 3.6,
+    "grading_conversion_notes": "Minimum CGPA 3.60 / 4.00; competitive applicants typically hold CGPA >= 3.80 / 4.00 or top 5% class standing.",
+    "subject_background_prerequisites": "Computer science, artificial intelligence, electrical engineering, mechanical engineering, materials science, biomedical engineering, physics, chemistry, or medicine.",
+    "current_education_status": "Graduated or final-year students completing degree requirements before September semester start.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior publications in premier peer-reviewed journals (Nature index, IEEE, ACM) or top international conferences strongly prioritized.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 85,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.5 (5.5 in all sub-scores), TOEFL iBT minimum 85, or official English Medium of Instruction (MOI) certificate from an accredited university.",
+    "other_language_requirements": "Cantonese or Mandarin Chinese is NOT required; 100% of graduate research and instruction is conducted in English.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants apply for full-time PhD admission at HKU and are automatically considered for the HKU Presidential PhD Fellowship Scheme based on merit.",
+    "previous_scholarship_restrictions": "Cannot hold concurrent full-time employment or parallel external full scholarships.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee covered through Hong Kong Government Tuition Waiver Scheme for Research Postgraduate Students (HKD 42,100/year).",
+      "amount": "100% covered (~HKD 42,100 / year value; ~PKR 1,515,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "HKU online application fee of HKD 400 paid via credit card during portal submission.",
+      "amount": "HKD 400 (~PKR 14,400)"
+    },
+    "accommodation": {
+      "status": "SUBSIDIZED",
+      "details": "On-campus international graduate residential housing at Pokfulam / Morrison Hall / Graduate House (approx. HKD 3,500 to 5,500 / month), easily covered from stipend.",
+      "amount": "Subsidized campus residence hall housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Prestigious monthly living stipend: HKD 28,100 / month (~PKR 1,011,600 / month) throughout Year 1, supplemented by HKD 40,000 cash award in Year 1 and HKD 20,000/year in subsequent years.",
+      "amount": "HKD 28,100 / month + annual cash award"
+    },
+    "airfare": {
+      "status": "SUBSIDIZED",
+      "details": "International travel funded easily from initial cash award (HKD 40,000 grant).",
+      "amount": "Funded via HKD 40,000 cash grant"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Hong Kong Student Visa application fee (HKD 230) paid to Hong Kong Immigration Department via HKU.",
+      "amount": "HKD 230 (~PKR 8,300)"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Access to HKU University Health Service (free general consultations) and Hong Kong Public Healthcare System at eligible resident rates.",
+      "amount": "Subsidized comprehensive campus healthcare"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized dining halls across Pokfulam campus, including certified halal dining options; meals cost HKD 30 to 55.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to HKU Libraries (holding over 3 million volumes), state-of-the-art supercomputing facilities, and advanced analytical centers.",
+      "amount": "100% covered world-class lab infrastructure access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Dedicated conference travel allowance of up to HKD 14,000 per year provided to each presidential fellow.",
+      "amount": "HKD 14,000 / year conference travel allowance"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Direct MTR station (HKU Station on the Island Line) located right under the campus, with 50% student concession fares.",
+      "amount": "50% discounted public transit"
+    },
+    "total_estimated_value_usd_per_year": 54000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single world-class Hong Kong flagship institution (The University of Hong Kong - HKU).",
+    "participating_institutions": [
+      "The University of Hong Kong (Pokfulam Main Campus, Hong Kong Island)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #17 globally, #2 in Asia; Hong Kong's oldest and most prestigious university, globally renowned for biomedical sciences, engineering, and computer science.",
+    "available_majors": [
+      "PhD in Computer Science (Faculty of Engineering)",
+      "PhD in Electrical and Electronic Engineering",
+      "PhD in Mechanical Engineering",
+      "PhD in Civil Engineering",
+      "PhD in Biomedical Sciences (Li Ka Shing Faculty of Medicine)",
+      "PhD in Physics and Chemistry",
+      "PhD in Mathematics and Statistics",
+      "PhD in Materials Science and Engineering"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "4 years (Doctor of Philosophy)",
+    "admission_requirements_summary": "Bachelor's / Master's degree with First Class / CGPA >= 3.60/4.00, academic transcripts, research proposal, two recommendation letters, English test score (IELTS 6.5+ / TOEFL 85+ / MOI), and CV.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Department of Computer Science and Faculty of Medicine are fiercely competitive; contacting prospective supervisors early and securing provisional endorsement strongly aids selection.",
+    "strategic_program_match_advice": "Focus research proposals on AI in medicine, robotics, quantum materials, or renewable energy where HKU holds major InnoHK research centers and government funding."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_aid/hku_presidential_phd_scholar_programme",
+    "portal_system_name": "HKU Online Application System for Research Postgraduate Programs",
+    "account_creation_instructions": "Register on the HKU graduate admissions portal, select PhD program, complete application form, upload personal statement and transcripts, pay HKD 400 fee, and register two recommenders.",
+    "step_by_step_workflow": [
+      "Step 1: Explore HKU faculty research profiles and contact prospective supervisors with CV and research abstract (September-October).",
+      "Step 2: Register on HKU Online Application System during open intake (September to December).",
+      "Step 3: Complete online application, upload documents, and pay HKD 400 application fee.",
+      "Step 4: Referees submit evaluation letters online via confidential portal links.",
+      "Step 5: Departmental admissions committee reviews applications and conducts technical interviews via Zoom.",
+      "Step 6: Department nominates top candidates to the Graduate School Presidential Fellowship Selection Panel.",
+      "Step 7: Official admission and HKU Presidential PhD Fellowship award letter issued in January/February.",
+      "Step 8: Accept offer, apply for Hong Kong Student Visa via HKU, and arrive in Hong Kong in late August."
+    ],
+    "university_vs_scholarship_routing": "Integrated University Route: Application for admission automatically triggers consideration for Postgraduate Studentship and HKU Presidential PhD Fellowship Scheme.",
+    "recommendation_letters_submission_method": "Submitted online by two academic referees via confidential email links generated by HKU portal.",
+    "personal_statement_prompts": "Statement of Purpose describing academic milestones, research interests, career aspirations, and motivation for pursuing a doctoral degree at HKU.",
+    "study_plan_research_proposal_requirements": "Structured research proposal (2-4 pages) detailing problem formulation, methodology, literature review, and anticipated scientific contributions.",
+    "cv_format_requirements": "Comprehensive academic CV detailing publications, research projects, technical skills, and honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview via Zoom conducted by prospective supervisor and departmental doctoral admission committee.",
+    "standardized_tests": "IELTS Academic 6.5+ or TOEFL iBT 85+ required; GRE is optional but recommended.",
+    "application_fee_amount": "HKD 400 (approx. USD 51 / ~PKR 14,400)",
+    "attestation_requirements": "Certified true copies of transcripts and degree certificates; HEC attestation required for Pakistani credentials upon enrollment.",
+    "translation_requirements": "Certified official English translation for all non-English documents.",
+    "final_submission_method": "Online submission via HKU graduate admissions portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete Bachelor's / Master's degree certificates and transcripts with CGPA >= 3.60/4.00.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Research Proposal (2-4 Pages)",
+      "mandatory": true,
+      "specification": "Structured research proposal detailing problem formulation, methodology, and anticipated contributions.",
+      "pakistan_specific_instruction": "Scholarly proposal formatted with standard citations."
+    },
+    {
+      "document_name": "Two Academic Reference Letters",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from academic professors submitted electronically.",
+      "pakistan_specific_instruction": "From previous university professors."
+    },
+    {
+      "document_name": "English Language Proficiency Score Report",
+      "mandatory": true,
+      "specification": "IELTS Academic 6.5+ (sub-scores 5.5+) or TOEFL iBT 85+.",
+      "pakistan_specific_instruction": "Score report or MOI letter."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Comprehensive academic CV detailing publications, research projects, technical skills, and honors.",
+      "pakistan_specific_instruction": "Professional academic CV."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "September 1",
+    "application_deadline": "December 1 (Hong Kong PhD Fellowship Scheme deadline) / December 15 (HKU Main Round deadline)",
+    "university_admission_deadline": "December 15",
+    "document_submission_deadline": "December 15",
+    "recommendation_letters_deadline": "December 22",
+    "interview_period": "January - February",
+    "shortlist_announcement": "February - March",
+    "final_result_acceptance_deadline": "Within 2 to 3 weeks of notification",
+    "visa_application_window": "April - June",
+    "semester_commencement": "September 1 (Fall intake)",
+    "annual_cycle_notes": "Main intake commences in September; applicants submit by December 1 for dual consideration under HKPFS and HKU-PS."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Undergraduate/Master's GPA, academic honors, course rigor)",
+    "extracurricular_and_leadership_weight": "5% (Initiative, intellectual maturity)",
+    "research_experience_weight": "40% (Technical research capability, publications, programming skills, research proposal)",
+    "work_experience_weight": "5% (Industry engineering or technical laboratory experience)",
+    "personal_statement_weight": "5% (Clarity of vision and alignment with HKU research priorities)",
+    "recommendations_weight": "5% (Academic referee evaluation)",
+    "interview_weight": "5% (Performance in departmental technical interview)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Need-blind pure merit evaluation)",
+    "selection_panel_composition": "HKU Departmental Admissions Committee, Faculty Graduate Deans, and Graduate School Presidential Selection Panel.",
+    "evaluation_methodology": "Two-tier rigorous evaluation identifying top 5% of doctoral applicants with world-class research potential."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~5,000 to 6,500 international PhD applicants across HKU",
+    "total_scholarships_awarded": "~120 to 160 HKU Presidential awards annually",
+    "acceptance_rate_global": "~2.5% to 3.0%",
+    "acceptance_rate_pakistan": "~4.0% to 6.0% for candidates with strong research profiles and CGPA >= 3.75",
+    "typical_successful_applicant_gpa": "Undergraduate/Master's CGPA >= 3.75 / 4.00, accompanied by strong programming skills or publications",
+    "typical_academic_and_research_profile": "Graduates with exceptional academic records in computer science, engineering, or biomedicine, documented project experience, and professor alignment.",
+    "common_backgrounds_of_winners": "Graduates from top Pakistani universities (NUST, FAST-NUCES, UET Lahore, GIKI, PIEAS, COMSATS, Quaid-i-Azam).",
+    "high_representation_countries": "China, Pakistan, India, Vietnam, South Korea, Turkey, Germany, United Kingdom.",
+    "competitiveness_tier": "MOST_COMPETITIVE"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portal gradsch.hku.hk.",
+      "HKU does not work with third-party agents; all applications must be submitted directly by the candidate."
+    ],
+    "application_fee_warning": "Application fee of HKD 400 is paid directly through the secure HKU online portal.",
+    "agent_and_intermediary_warnings": "Applications prepared by commercial agents are rejected; authentic personal statements and research experience are essential.",
+    "hidden_costs_breakdown": [
+      "Application fee: HKD 400 (~PKR 14,400).",
+      "Hong Kong Student Visa fee: HKD 230 (~PKR 8,300).",
+      "HEC document attestation in Pakistan: ~PKR 10,000 to 20,000.",
+      "Flight to Hong Kong: ~PKR 120,000 to 180,000.",
+      "Initial living deposit before first stipend payment: ~HKD 5,000 (~PKR 180,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Cantonese fluency is required. Reality: 100% of graduate education at HKU is conducted in English.",
+      "Myth: Separate application required for HKU-PS. Reality: All PhD applicants are automatically considered."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sites suggest tuition is deducted from stipend; tuition is 100% covered by Hong Kong Government Tuition Waiver Scheme."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain minimum Cumulative Grade Average (CGA) of 3.00 out of 4.30 throughout the PhD candidature.",
+    "attendance_requirements": "Full-time physical research presence at HKU campus; pass PhD Qualifying Examination within required department timeline.",
+    "academic_progress_monitoring": "Annual academic progress review evaluated by thesis supervisor and department postgraduate committee.",
+    "work_restrictions_during_study": "Scholars may not engage in outside employment; limited teaching/research duties (up to 100 hours/year) assigned under PGS regulations.",
+    "home_country_return_obligation": "None; zero service bond or return obligation (scholars are eligible for Hong Kong IANG work visa upon graduation).",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Studentship is terminated if academic performance is unsatisfactory or if student is dismissed for disciplinary infractions.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Major change requires approval from current advisor, new advisor, and department heads.",
+    "extension_policy": "Tenure is strictly 4 years; extensions require supervisor research grant funding."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "HKU Graduate School Presidential PhD Scholar Programme",
+      "source_url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_aid/hku_presidential_phd_scholar_programme",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "HKU Graduate School Admissions Guide",
+      "source_url": "https://gradsch.hku.hk/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

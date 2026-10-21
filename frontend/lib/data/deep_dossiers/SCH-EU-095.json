@@ -1,0 +1,268 @@
+{
+  "scholarship_id": "SCH-EU-095",
+  "basic_details": {
+    "scholarship_name": "Karolinska Institutet Global Master's Scholarship",
+    "offering_entity": "Karolinska Institutet (Home of the Nobel Assembly in Physiology or Medicine)",
+    "host_country": "Sweden",
+    "host_institutions_covered": "Karolinska Institutet (Stockholm, Sweden)",
+    "degree_levels": [
+      "Master's"
+    ],
+    "major_restrictions": "Exclusively open to Karolinska Institutet Global Master's Programs: Biomedicine, Public Health Sciences, Global Health, Toxicology, Health Informatics, Molecular Techniques in Life Science, Biostatistics and Data Science.",
+    "number_of_awards_total": "~10 full tuition scholarships awarded globally per academic year",
+    "number_of_awards_pakistan": "Open global competition; Pakistani medical and life sciences graduates compete directly",
+    "funding_classification": "TUITION_ONLY",
+    "duration_of_scholarship": "1 to 2 years (covers the full 60 or 120 ECTS credit curriculum of the Master's program)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of non-EU/EEA countries required to pay tuition fees in Sweden (Pakistan is fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No age limit.",
+    "academic_qualifications": "Bachelor's degree or equivalent (16 years education in Pakistan / MBBS / BDS / PharmD / BS Biotechnology / Biochemistry) from an internationally recognized university.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum 3.50/4.00 CGPA or first division; evaluated strictly on top academic merit among applicants.",
+    "subject_background_prerequisites": "Relevant undergraduate degree in Medicine, Life Sciences, Pharmacy, Biology, or Computer Science (for Health Informatics).",
+    "current_education_status": "Degree completed before university start in August.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Not mandatory; laboratory experience and clinical research heavily valued.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "Must satisfy Swedish English 6 requirement: IELTS Academic minimum 6.5 (no section below 5.5) or TOEFL iBT minimum 90 (writing min 20). MOI certificates from Pakistan generally NOT accepted by UniversityAdmissions.se unless bachelor's was granted by an English-speaking country.",
+    "other_language_requirements": "None.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "CRITICAL REQUIREMENT: Must apply for a Karolinska Institutet Master's program via UniversityAdmissions.se as your FIRST PRIORITY (Rank 1). Applications ranked lower are ineligible for the scholarship.",
+    "previous_scholarship_restrictions": "None.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition fee waiver paid directly to Karolinska Institutet (SEK 180,000 to SEK 200,000 / year = ~SEK 400,000 total / ~PKR 10,500,000 value)."
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Swedish central university application fee of SEK 900 (~PKR 24,000) must be paid to UniversityAdmissions.se."
+    },
+    "accommodation": {
+      "status": "NOT_COVERED",
+      "details": "Living expenses and housing are NOT covered by this scholarship (KI Housing assists in dormitory booking, rent ~SEK 4,500-6,500/month paid by student)."
+    },
+    "monthly_stipend": {
+      "status": "NOT_COVERED",
+      "details": "No living stipend included. Scholars must cover living costs via personal funds or apply concurrently for the Swedish Institute (SI) Scholarship."
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "Travel costs to Sweden borne by student."
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Swedish Residence Permit for Higher Education fee (SEK 1,500) paid to Swedish Migration Agency."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full comprehensive medical insurance through FAS+ insurance provided by the Swedish Legal, Financial and Administrative Services Agency (Kammarkollegiet)."
+    },
+    "food_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Self-funded."
+    },
+    "books_and_materials_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Self-funded."
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Departmental research laboratory funding for master's thesis projects."
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Discounted Stockholm student SL travelcard."
+    },
+    "total_estimated_value_usd_per_year": 20000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single Institution: Karolinska Institutet (Solna and Flemingsberg campuses, Stockholm).",
+    "participating_institutions": [
+      "Karolinska Institutet"
+    ],
+    "university_rankings_scope": "World #7 in Medicine, #1 in Sweden (QS World University Rankings by Subject).",
+    "available_majors": [
+      "Biomedicine",
+      "Public Health Sciences (Epidemiology / Health Promotion)",
+      "Global Health",
+      "Toxicology",
+      "Health Informatics",
+      "Molecular Techniques in Life Science",
+      "Biostatistics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "1 or 2 years (60 to 120 ECTS credits)",
+    "admission_requirements_summary": "Bachelor's degree in medicine/health/STEM, transcripts, CV, specific entry requirements per program, English 6.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Must apply via UniversityAdmissions.se by January 15; scholarship application opens in early February specifically for applicants with KI as choice #1.",
+    "strategic_program_match_advice": "Pakistani MBBS, BDS, and PharmD graduates have an exceptional match for Global Health and Public Health Sciences; BS Biotechnology graduates match Biomedicine and Molecular Techniques."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://education.ki.se/scholarships",
+    "portal_system_name": "UniversityAdmissions.se (Sweden central) & Karolinska Scholarship Portal",
+    "account_creation_instructions": "1) Apply to KI on UniversityAdmissions.se by January 15; 2) Pay SEK 900 application fee; 3) Receive application number; 4) Apply on Karolinska scholarship webform in February.",
+    "step_by_step_workflow": [
+      "1. Register on UniversityAdmissions.se (opens mid-October).",
+      "2. Select a Karolinska Institutet Global Master's program as your FIRST CHOICE (Rank 1).",
+      "3. Pay the SEK 900 application fee and upload required academic documents and IELTS test by February 1.",
+      "4. Access the Karolinska Institutet scholarship portal (opens February 10).",
+      "5. Enter your 8-digit UniversityAdmissions application number.",
+      "6. Upload tailored CV highlighting scientific publications, clinical trials, or public health field projects.",
+      "7. Submit scholarship application by February 28 deadline.",
+      "8. KI Admissions Committee evaluates academic merit and research background.",
+      "9. Scholarship recipients announced simultaneously with Swedish university admission results (late March).",
+      "10. Accept admission and scholarship offer in April.",
+      "11. Apply for Swedish Residence Permit for Higher Education (Migrationsverket).",
+      "12. Arrive in Stockholm (late August)."
+    ],
+    "university_vs_scholarship_routing": "Sequential: UniversityAdmissions.se application first -> Karolinska scholarship webform second.",
+    "recommendation_letters_submission_method": "Not required for general KI scholarship; CV is the primary evaluated document.",
+    "personal_statement_prompts": "CV and scientific experience; some programs require a program-specific summary sheet.",
+    "study_plan_research_proposal_requirements": "Not applicable.",
+    "cv_format_requirements": "Structured academic CV emphasizing scientific laboratory skills, clinical research, epidemiology, and publications.",
+    "interviews_conducted": false,
+    "interview_format_details": "No interview; 100% paper-based academic merit review.",
+    "standardized_tests": "IELTS Academic (6.5) or TOEFL iBT (90) mandatory. No GRE needed.",
+    "application_fee_amount": "SEK 900 application fee to UniversityAdmissions.se; scholarship webform itself is free.",
+    "attestation_requirements": "Transcripts and degrees must be uploaded to UniversityAdmissions according to strict country-specific rules for Pakistan (official university color scans).",
+    "translation_requirements": "Official English translations for any documents in Urdu.",
+    "final_submission_method": "Online submission via UniversityAdmissions.se and KI webform."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor's / Professional Degree Certificate",
+      "mandatory": true,
+      "specification": "MBBS, BDS, PharmD, or BS Honours in biology/health/STEM",
+      "pakistan_specific_instruction": "Must be recognized by HEC and PMDC/PNC if medical"
+    },
+    {
+      "document_name": "Official Transcripts of Records",
+      "mandatory": true,
+      "specification": "Complete transcripts showing all courses and grades for all semesters",
+      "pakistan_specific_instruction": "Uploaded directly to UniversityAdmissions.se"
+    },
+    {
+      "document_name": "Valid English Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5) or TOEFL iBT (min 90)",
+      "pakistan_specific_instruction": "Must satisfy Swedish English 6 requirement"
+    },
+    {
+      "document_name": "Valid Passport Information Page",
+      "mandatory": true,
+      "specification": "Scanned copy of valid passport",
+      "pakistan_specific_instruction": "Required to prove non-EU/EEA citizenship"
+    },
+    {
+      "document_name": "Curriculum Vitae for Scholarship",
+      "mandatory": true,
+      "specification": "Tailored academic CV emphasizing research publications, clinical experience, and awards",
+      "pakistan_specific_instruction": "Primary document reviewed by KI scholarship committee"
+    },
+    {
+      "document_name": "Program-Specific Summary Sheet",
+      "mandatory": false,
+      "specification": "Downloaded from KI website for specific programs (e.g. Biomedicine)",
+      "pakistan_specific_instruction": "Must be uploaded with university admissions application"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "Mid-October (UniversityAdmissions.se); Early February (KI Scholarship webform)",
+    "application_deadline": "January 15 (University admissions); February 28 (Scholarship webform)",
+    "university_admission_deadline": "January 15 annually",
+    "document_submission_deadline": "February 1 for UniversityAdmissions documents",
+    "recommendation_letters_deadline": "N/A",
+    "interview_period": "N/A",
+    "shortlist_announcement": "Late March annually (with admissions notification)",
+    "final_result_acceptance_deadline": "Early April annually",
+    "visa_application_window": "April - June (Swedish Migration Agency)",
+    "semester_commencement": "Late August (Autumn Semester)",
+    "annual_cycle_notes": "Ranking KI as choice #1 on UniversityAdmissions is an absolute prerequisite."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "50% (Undergraduate GPA, medical school honors, course relevance)",
+    "extracurricular_and_leadership_weight": "5% (General suitability)",
+    "research_experience_weight": "35% (Prior research publications, thesis quality, lab techniques)",
+    "work_experience_weight": "10% (Clinical or public health practice in Pakistan)",
+    "personal_statement_weight": "0% (Not evaluated separately; reflected through CV)",
+    "recommendations_weight": "0%",
+    "interview_weight": "0%",
+    "test_scores_weight": "Gatekeeper requirement (English 6)",
+    "financial_need_weight": "0% (Pure academic excellence in medicine and life sciences)",
+    "selection_panel_composition": "Karolinska Institutet Global Master's Admissions and Scholarship Committee.",
+    "evaluation_methodology": "Ranking based on academic merit, research trajectory, and fit for the master's program."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,000 international fee-paying applicants across KI programs",
+    "total_scholarships_awarded": "~10 scholarships awarded globally",
+    "acceptance_rate_global": "~0.5% to 0.7%",
+    "acceptance_rate_pakistan": "~0.5% (Extremely Selective)",
+    "typical_successful_applicant_gpa": "3.80 to 4.00 / 4.00 CGPA (or top 5% of medical/pharmacy graduating class)",
+    "typical_academic_and_research_profile": "First-author or co-authored research paper in PubMed indexed journals, top marks in pathology, microbiology, or pharmacology.",
+    "common_backgrounds_of_winners": "Graduates of Aga Khan University (AKU), King Edward Medical University, Dow University of Health Sciences, NUST, Quaid-i-Azam University.",
+    "high_representation_countries": "Global competition.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Scam agencies claiming KI provides fully funded stipends. The KI Global Master's scholarship is TUITION-ONLY.",
+      "Unofficial portals claiming they can bypass the UniversityAdmissions.se SEK 900 application fee."
+    ],
+    "application_fee_warning": "UniversityAdmissions.se charges a mandatory SEK 900 fee; the KI scholarship form itself is free.",
+    "agent_and_intermediary_warnings": "KI evaluates academic credentials directly through official university channels.",
+    "hidden_costs_breakdown": [
+      "Living expenses in Stockholm: NOT COVERED. Students must show proof of at least SEK 10,314/month (~PKR 270,000/mo) in their personal bank account to the Swedish Migration Agency to obtain their student residence permit!",
+      "Rent in Stockholm: SEK 5,000 to 7,500/month.",
+      "Flight ticket to Stockholm (PKR 180,000 to 250,000)."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: This scholarship gives you living money. (Fact: It covers 100% tuition ONLY; you must self-fund living expenses or secure an external grant).",
+      "MYTH: You can rank KI as choice #2 and get the scholarship. (Fact: If KI is ranked choice #2, your scholarship application is automatically discarded)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently fail to clarify that this award is tuition-only, leading students to financial distress when applying for Swedish visas."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass at least 75% of credits (45 out of 60 ECTS) in Year 1 to have the Year 2 tuition waiver renewed.",
+    "attendance_requirements": "Full-time study enrollment at Karolinska Institutet in Stockholm.",
+    "academic_progress_monitoring": "Academic results evaluated at the end of each study period.",
+    "work_restrictions_during_study": "International students in Sweden have NO legal limit on work hours during their studies, provided they maintain satisfactory academic progress.",
+    "home_country_return_obligation": "NO mandatory home return requirement. Sweden permits graduates to apply for a 1-year Job Seeker Residence Permit to seek employment or establish a business in Sweden.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Tuition waiver is cancelled if the student ceases studies or fails to achieve required credits.",
+    "rules_for_changing_university": "Non-transferable.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "Covers strictly the standard program duration (max 2 years)."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Karolinska Institutet - Official Global Master's Scholarship Portal",
+      "source_url": "https://education.ki.se/scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact breakdown of scholarships awarded per master's program (KI announces 10 in total without fixed program quotas)",
+        "Internal academic merit score rankings"
+      ]
+    }
+  ]
+}

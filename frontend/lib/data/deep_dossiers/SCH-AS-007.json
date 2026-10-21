@@ -1,0 +1,270 @@
+{
+  "scholarship_id": "SCH-AS-007",
+  "basic_details": {
+    "scholarship_name": "Taiwan ICDF International Higher Education Scholarship",
+    "offering_entity": "International Cooperation and Development Fund (Taiwan ICDF)",
+    "host_country": "Taiwan",
+    "host_institutions_covered": "23 partner universities in Taiwan (National Taiwan University, National Tsing Hua, National Cheng Kung, National Yang Ming Chiao Tung, National Central University)",
+    "degree_levels": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "major_restrictions": "Open to designated English-taught programs across Science & Technology, Agriculture, Public Health & Medicine, Business & Management, and Humanities & Social Sciences.",
+    "number_of_awards_total": "~200 to 250 scholarships awarded annually across partner developing countries",
+    "number_of_awards_pakistan": "Open to Pakistan as an eligible partner developing country (~10 to 15 Pakistani scholars selected annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Bachelor's (max 4 years); Master's (max 2 years); PhD (max 4 years)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of eligible partner countries (including Pakistan)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No specific age limits.",
+    "academic_qualifications": "12 years for Bachelor's; 16 years for Master's; 18 years for PhD from an HEC-recognized institution.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "Minimum 3.00 / 4.00 CGPA or 75%+ marks; good academic background in chosen field.",
+    "subject_background_prerequisites": "Prerequisites corresponding to designated ICDF partner university degree programs.",
+    "current_education_status": "Graduated or in final year of degree.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior work experience in public service or development sectors valued.",
+    "english_proficiency": {
+      "test_required": true,
+      "ielts_minimum": 6.0,
+      "toefl_minimum": 75,
+      "duolingo_accepted": false,
+      "moi_certificate_accepted": true,
+      "notes": "IELTS Academic 6.0+, TOEFL iBT 75+, or university English proficiency certificate verifying prior study was conducted in English."
+    },
+    "other_language_requirements": "None; all designated programs taught 100% in English.",
+    "gender_specific_requirements": "Equal opportunity; diversity encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Development impact and bilateral cultural exchange.",
+    "previous_scholarship_restrictions": "Cannot hold another scholarship from the government of Taiwan concurrently.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% full tuition and credit fees covered directly by Taiwan ICDF.",
+      "amount": "NT$ 60,000 to NT$ 120,000 / year"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED_OR_COVERED",
+      "details": "Partner universities waive or reimburse application fees for ICDF scholars.",
+      "amount": null
+    },
+    "accommodation": {
+      "status": "FREE DORMITORY",
+      "details": "Free standard on-campus student dormitory accommodation covered by Taiwan ICDF.",
+      "amount": null
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly subsistence allowance paid directly to student to cover food and living expenses.",
+      "amount": "Undergrad: NT$ 15,000/mo; Master: NT$ 18,000/mo (~PKR 160,000/mo); PhD: NT$ 20,000/mo (~PKR 180,000/mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Economy class return flights between Pakistan and Taiwan booked via most direct route.",
+      "amount": null
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Taiwan resident visa fee paid by applicant at Taipei Trade Office.",
+      "amount": null
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "National Health Insurance (NHI) and student accidental insurance fully covered.",
+      "amount": null
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly living stipend.",
+      "amount": null
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Textbook costs covered directly through university partner department.",
+      "amount": null
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Research laboratory resources accessible across partner university labs.",
+      "amount": null
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Personal responsibility.",
+      "amount": null
+    },
+    "total_estimated_value_usd_per_year": 18000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Apply for one program among the designated Taiwan ICDF partner universities.",
+    "participating_institutions": [
+      "National Taiwan University (NTU - Taipei)",
+      "National Tsing Hua University (NTHU - Hsinchu)",
+      "National Cheng Kung University (NCKU - Tainan)",
+      "National Yang Ming Chiao Tung University (NYCU)",
+      "National Central University (NCU)",
+      "National Chung Hsing University (NCHU)"
+    ],
+    "university_rankings_scope": "National Taiwan University is World Top 70; premier semiconductor and engineering ecosystem.",
+    "available_majors": [
+      "Electrical Engineering, Computer Science, Semiconductor Technology, Mechanical Engineering, Tropical Agriculture, Aquaculture, Global Health, Biomedical Informatics, Civil Engineering, International Business, Environment & Sustainable Development"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Bachelor's: 4 years; Master's: 2 years; PhD: 4 years",
+    "admission_requirements_summary": "Two-step application: Submit online application on the Taiwan ICDF portal; simultaneously submit university admission application to the partner university.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Must apply to both the ICDF portal AND the chosen partner university before their respective deadlines.",
+    "strategic_program_match_advice": "Semiconductor, Electrical Engineering, and Agriculture programs in Taiwan are globally renowned."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2",
+    "portal_system_name": "Taiwan ICDF Online Scholarship Application System",
+    "account_creation_instructions": "Register on the ICDF online application portal (Opens January), fill out application form, upload documents, and print application summary.",
+    "step_by_step_workflow": [
+      "1. Choose eligible program from the official Taiwan ICDF partner program list (Opens January 1).",
+      "2. Complete online application on Taiwan ICDF portal by March 15.",
+      "3. Submit separate online application for admission to the chosen partner university by the university's deadline.",
+      "4. Submit printed application form and required documents to the nearest designated Taipei Trade Office / Mission if required.",
+      "5. Partner universities review academic credentials and submit recommendations to ICDF in April/May.",
+      "6. Final list of scholarship recipients announced by Taiwan ICDF by June 10.",
+      "7. Process Taiwan resident visa and prepare for departure in August/September."
+    ],
+    "university_vs_scholarship_routing": "Dual application: Apply on ICDF portal AND apply to partner university.",
+    "recommendation_letters_submission_method": "Uploaded directly by candidate on the portal or sent via email.",
+    "personal_statement_prompts": "Study Plan / Statement of Purpose detailing academic background, reasons for choosing Taiwan, and future contributions to national development.",
+    "study_plan_research_proposal_requirements": "Research proposal required for PhD applicants.",
+    "cv_format_requirements": "Standard professional resume (1-2 pages).",
+    "interviews_conducted": true,
+    "interview_format_details": "Partner university or Taipei Representative Office may conduct video interviews in April/May.",
+    "standardized_tests": "English proficiency test required (IELTS/TOEFL/MOI).",
+    "application_fee_amount": "$0 on ICDF portal; university application fees usually waived.",
+    "attestation_requirements": "Diplomas and transcripts must be authenticated by HEC and MOFA Pakistan, and verified by Taipei Economic and Cultural Center.",
+    "translation_requirements": "Certified English or Chinese translations.",
+    "final_submission_method": "Online via ICDF portal and university portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Taiwan ICDF Online Application Form",
+      "mandatory": true,
+      "specification": "Completed and signed application form printed from ICDF portal",
+      "pakistan_specific_instruction": "Signed copy uploaded to portal"
+    },
+    {
+      "document_name": "Academic Diplomas & Transcripts",
+      "mandatory": true,
+      "specification": "Notarized copies of educational diplomas and mark sheets",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan"
+    },
+    {
+      "document_name": "Two Recommendation Letters",
+      "mandatory": true,
+      "specification": "Letters from university professors or employers on official letterhead",
+      "pakistan_specific_instruction": "Signed and stamped"
+    },
+    {
+      "document_name": "English Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic (6.0+), TOEFL iBT (75+), or official MOI certificate",
+      "pakistan_specific_instruction": "Valid test certificate"
+    },
+    {
+      "document_name": "Copy of Passport",
+      "mandatory": true,
+      "specification": "Valid Pakistani passport photo page",
+      "pakistan_specific_instruction": "Valid for at least 1 year"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2027-01-01",
+    "application_deadline": "2027-03-15",
+    "university_admission_deadline": "2027-03-15",
+    "document_submission_deadline": "2027-03-15",
+    "recommendation_letters_deadline": "2027-03-15",
+    "interview_period": "April to May 2027",
+    "shortlist_announcement": "N/A",
+    "final_result_acceptance_deadline": "2027-06-20",
+    "visa_application_window": "July to August 2027",
+    "semester_commencement": "September 2027",
+    "annual_cycle_notes": "Application window is January 1 to March 15 each year. Final results announced by June 10."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Academic record, undergraduate GPA, grading scale)",
+    "extracurricular_and_leadership_weight": "10% (Leadership and community involvement)",
+    "research_experience_weight": "20% (For Master's/PhD: research background and proposal)",
+    "work_experience_weight": "10% (Professional relevance)",
+    "personal_statement_weight": "10% (Study plan and development goals)",
+    "recommendations_weight": "10% (Referee appraisals)",
+    "interview_weight": "Evaluated during university review",
+    "test_scores_weight": "Language threshold required",
+    "financial_need_weight": "0% (Exclusively merit-based)",
+    "selection_panel_composition": "Joint assessment by partner university admissions committee and the Taiwan ICDF Scholarship Committee.",
+    "evaluation_methodology": "Two-tier review: Partner university checks academic admissibility; ICDF confirms scholarship award."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~3,000 to 4,000 applicants across all partner countries",
+    "total_scholarships_awarded": "~200 to 250 scholarships awarded annually",
+    "acceptance_rate_global": "~6%",
+    "acceptance_rate_pakistan": "~4% to 5% (Favorable conversion for strong STEM profiles)",
+    "typical_successful_applicant_gpa": "3.30 to 3.85 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Solid graduates with degrees in engineering, agriculture, IT, or public health seeking world-class technical education.",
+    "common_backgrounds_of_winners": "Graduates of Pakistani universities (NUST, UET Lahore, Faisalabad Agricultural University, COMSATS, Quaid-i-Azam).",
+    "high_representation_countries": "Southeast Asian, South Asian, African, and Latin American partner countries.",
+    "competitiveness_tier": "VERY HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Agents claiming to sell Taiwan ICDF application forms."
+    ],
+    "application_fee_warning": "The ICDF scholarship application is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Never work through commercial consultants; submit directly on the official ICDF portal.",
+    "hidden_costs_breakdown": [
+      "Taiwan Resident Visa processing fee (~USD $66).",
+      "Document authentication fees in Islamabad.",
+      "Initial pocket money before first stipend transfer."
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: You must speak Mandarin Chinese. (Fact: All designated Taiwan ICDF scholarship programs are taught 100% in English).",
+      "MYTH: You only need to apply on the ICDF portal. (Fact: You MUST also submit a university admission application to the partner university)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "External blogs state the stipend is NT$ 30,000; the official rate is NT$ 15,000 for BS, NT$ 18,000 for MS, and NT$ 20,000 for PhD alongside free tuition and dorm."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain minimum academic average required by the host university (typically 70%+ or GPA 3.0/4.0).",
+    "attendance_requirements": "Full-time physical enrollment on campus in Taiwan.",
+    "academic_progress_monitoring": "Host universities submit semester grade reports to Taiwan ICDF.",
+    "work_restrictions_during_study": "Scholars may work part-time up to 20 hours/week with a work permit during semesters per Taiwan regulations.",
+    "home_country_return_obligation": "None; scholars can seek employment in Taiwan's technology sector post-graduation under Taiwan work permit schemes.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "Failing academic requirements or expulsion leads to termination of scholarship.",
+    "rules_for_changing_university": "Strictly prohibited.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "No extensions beyond normal program duration."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "International Cooperation and Development Fund (Taiwan ICDF) - Scholarships Portal",
+      "source_url": "https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Diplomatic quota allocation numbers per partner country",
+        "Partner university evaluation scoring matrix"
+      ]
+    }
+  ]
+}

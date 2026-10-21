@@ -1,0 +1,290 @@
+{
+  "scholarship_id": "SCH-AS-054",
+  "basic_details": {
+    "scholarship_name": "Tongji University Chinese Government Scholarship (CSC Type B) & Shanghai Municipal Government Scholarship (SGS)",
+    "offering_entity": "China Scholarship Council (CSC), Shanghai Municipal Education Commission & Tongji University",
+    "host_country": "China",
+    "host_institutions_covered": "Tongji University (Siping and Jiading Campuses, Shanghai, China)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "College of Civil Engineering, College of Architecture and Urban Planning, College of Environmental Science and Engineering, School of Automotive Studies, School of Transportation Engineering, and School of Computer Science and Technology.",
+    "number_of_awards_total": "~180 to 220 fully funded CSC Type B and Shanghai Government Scholarship Class A awards annually",
+    "number_of_awards_pakistan": "Extensive bilateral enrollment; Pakistani graduate engineers represent one of the largest international scholarship cohorts at Tongji (~30 to 45 awards annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "2.5 to 3 years for Master's; 4 years for PhD",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "CNY 3,000 / month for Master's (~PKR 117,000 / month); CNY 3,500 / month for PhD (~PKR 136,500 / month) plus free university dormitory housing and comprehensive medical insurance"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Non-Chinese citizens holding valid foreign passports (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "Master's applicants must be under 35 years of age; PhD applicants must be under 40 years of age per CSC statutory regulations.",
+    "academic_qualifications": "Recognized 16-year Bachelor's degree with minimum 80% marks (or CGPA 3.20+ / 4.00) for Master's; recognized 18-year Master's degree with minimum 80% marks (or CGPA 3.20+ / 4.00) for PhD from an HEC-recognized university.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.2,
+    "grading_conversion_notes": "Minimum 80% aggregate (or CGPA 3.2 / 4.0); selected candidates in civil and structural engineering frequently hold CGPA >= 3.5 / 4.0.",
+    "subject_background_prerequisites": "Civil engineering, architecture, urban planning, environmental engineering, transportation, automotive engineering, computer science, or related disciplines.",
+    "current_education_status": "Graduated or final-year students graduating before July of application year.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior research publications in engineering journals (ASCE, Elsevier, Springer, IEEE) or design competition honors strongly advantageous.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 85,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.5, TOEFL iBT minimum 85, or recognized English Medium of Instruction (MOI) certificate for English-taught graduate programs.",
+    "other_language_requirements": "HSK Level 5 (minimum score 180) required only for Chinese-taught majors.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates submit concurrent applications via CSC Online Application System (Agency No. 10247) and Tongji International Student Portal.",
+    "previous_scholarship_restrictions": "Cannot hold any concurrent Chinese government, Shanghai municipal, or external scholarship award.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for the complete duration of the graduate degree program at Tongji University.",
+      "amount": "100% covered (~CNY 34,000 to 50,000 / year value; ~PKR 1,326,000 to 1,950,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Tongji international application evaluation fee of CNY 600 paid via university online portal.",
+      "amount": "CNY 600 (~PKR 23,400)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Free on-campus international student dormitory accommodation (single room for PhD, twin room for Master's) on Siping or Jiading campus.",
+      "amount": "100% covered free university housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living stipend disbursed directly: CNY 3,000 / month for Master's (~PKR 117,000 / month); CNY 3,500 / month for PhD (~PKR 136,500 / month).",
+      "amount": "CNY 3,000 to 3,500 / month (~PKR 117,000 to 136,500 / mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International relocation flights to Shanghai Pudong/Hongqiao are self-funded by the student.",
+      "amount": "Not covered in CSC Type B / SGS"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Chinese X1 Student Visa fee paid directly to Chinese Visa Application Service Center in Pakistan.",
+      "amount": "Approx. PKR 18,000 borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive Medical Insurance for Foreign Students in China (CNY 800/year value) 100% covered by CSC/SGS.",
+      "amount": "100% covered comprehensive healthcare"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Access to famous subsidized Tongji dining halls; meals cost approximately CNY 15 to 25 per day.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to Tongji State Key Laboratories (including State Key Lab of Disaster Reduction in Civil Engineering), libraries, and testing centers.",
+      "amount": "100% covered state key laboratory access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Conference participation and travel grants provided through Tongji Graduate School and host faculty research grants.",
+      "amount": "Up to CNY 5,000 to 10,000 conference travel funds"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Free campus shuttle service operating between Siping, Jiading, and Huxi campuses, plus subsidized Shanghai public transit cards.",
+      "amount": "Free inter-campus shuttle network"
+    },
+    "total_estimated_value_usd_per_year": 19000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single world-leading Chinese Double First Class institution (Tongji University, Shanghai).",
+    "participating_institutions": [
+      "Tongji University (Siping Campus and Jiading Campus, Shanghai, China)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #192, World #1 in Civil & Structural Engineering (QS Subject Rankings 2024/2025), Top 15 globally in Architecture and Built Environment.",
+    "available_majors": [
+      "MSc / PhD in Civil Engineering (Structural, Geotechnical, Bridge, Underground)",
+      "MSc / PhD in Architecture and Urban Planning",
+      "MSc / PhD in Environmental Science and Engineering",
+      "MSc / PhD in Transportation Engineering",
+      "MSc / PhD in Automotive Engineering and Intelligent Vehicles",
+      "MSc / PhD in Computer Science and Technology",
+      "MSc / PhD in Materials Science and Engineering"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2.5 to 3 years; PhD: 4 years",
+    "admission_requirements_summary": "Bachelor's / Master's degree with 80%+ marks, academic transcripts, IELTS 6.5+ / TOEFL 85+ or MOI certificate, pre-acceptance letter from Tongji professor (strongly recommended), two professor recommendation letters, CV, study plan, and Foreigner Physical Examination Form.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "College of Civil Engineering and College of Architecture & Urban Planning are globally elite and intensely competitive; obtaining a Tongji professor's provisional acceptance letter is the decisive differentiator.",
+    "strategic_program_match_advice": "Target research teams affiliated with the State Key Laboratory of Disaster Reduction in Civil Engineering or Shanghai Key Labs in Intelligent Driving and Smart Cities."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://study-info.tongji.edu.cn/ & https://studyinchina.csc.edu.cn/",
+    "portal_system_name": "Tongji International Student Portal & CSC Online Application System (Agency No. 10247)",
+    "account_creation_instructions": "Submit CSC application choosing Program Category B (Agency No. 10247 for Tongji), then complete Tongji University international student portal application, upload all documents, and pay CNY 600 fee.",
+    "step_by_step_workflow": [
+      "Step 1: Contact Tongji University professors in relevant colleges and obtain a Provisional Acceptance Letter.",
+      "Step 2: Prepare medical examination form, non-criminal record certificate, and attested academic degrees.",
+      "Step 3: Register on CSC portal (studyinchina.csc.edu.cn), select Program Type B, enter Tongji Agency No. 10247, and submit.",
+      "Step 4: Register on Tongji online application portal (study-info.tongji.edu.cn), submit application, and pay CNY 600 fee.",
+      "Step 5: College admission committee conducts academic review and schedules video interviews.",
+      "Step 6: Tongji Graduate School nominates successful candidates to CSC / Shanghai Municipal Education Commission.",
+      "Step 7: Final CSC confirmation issued in June/July with official Admission Notice and JW201/JW202 form.",
+      "Step 8: Apply for Chinese X1 Visa at Chinese Visa Center and arrive in Shanghai for September registration."
+    ],
+    "university_vs_scholarship_routing": "Integrated University Recommendation Track (CSC Type B / SGS Class A): Admission and scholarship are evaluated simultaneously by Tongji and confirmed by CSC/SGS.",
+    "recommendation_letters_submission_method": "Uploaded directly by candidate as signed official PDF letters on institutional letterhead with referee contact details.",
+    "personal_statement_prompts": "Study and research plan (minimum 1,000 words for Master's, 1,500 words for PhD) detailing research objectives, methodology, and relevance to Tongji's academic strengths.",
+    "study_plan_research_proposal_requirements": "Rigorous technical proposal outlining problem statement, state-of-the-art literature review, research design, and alignment with Tongji laboratory facilities.",
+    "cv_format_requirements": "Academic CV highlighting educational achievements, software proficiencies, laboratory expertise, and publication list.",
+    "interviews_conducted": true,
+    "interview_format_details": "Departmental panel interview via Zoom / Tencent Meeting evaluating engineering depth, research capability, and English communication.",
+    "standardized_tests": "IELTS 6.5+, TOEFL 85+, or official English Medium of Instruction (MOI) certificate accepted.",
+    "application_fee_amount": "CNY 600 (approx. USD 85 / ~PKR 23,400)",
+    "attestation_requirements": "Notarized copies of degrees and transcripts; HEC and MoFA attestations required for Pakistani applicants.",
+    "translation_requirements": "Certified English or Chinese translation for all non-English/non-Chinese credentials.",
+    "final_submission_method": "Online submission via CSC portal and Tongji University international student application system."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Notarized Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Bachelor's / Master's degree with minimum 80% marks from an HEC-recognized university.",
+      "pakistan_specific_instruction": "Attested by HEC, MoFA Pakistan, and notarized."
+    },
+    {
+      "document_name": "Detailed Study Plan / Research Proposal",
+      "mandatory": true,
+      "specification": "Structured research proposal (minimum 1,000 words Master's / 1,500 words PhD) detailing proposed investigation.",
+      "pakistan_specific_instruction": "Scholarly proposal formatted with standard citations."
+    },
+    {
+      "document_name": "Two Recommendation Letters from Full or Associate Professors",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters with professor contact details, signatures, and university seals.",
+      "pakistan_specific_instruction": "On official institutional letterhead."
+    },
+    {
+      "document_name": "Foreigner Physical Examination Form",
+      "mandatory": true,
+      "specification": "Standard Chinese medical examination form completed within last 6 months with lab test results and chest X-ray.",
+      "pakistan_specific_instruction": "Completed by recognized hospital or laboratory."
+    },
+    {
+      "document_name": "Certificate of Non-Criminal Record (Police Clearance)",
+      "mandatory": true,
+      "specification": "Official police character clearance certificate issued within the past 6 months.",
+      "pakistan_specific_instruction": "Attested by MoFA Pakistan."
+    },
+    {
+      "document_name": "English Language Proficiency Proof",
+      "mandatory": true,
+      "specification": "IELTS 6.5+, TOEFL iBT 85+, or official English Medium of Instruction (MOI) certificate.",
+      "pakistan_specific_instruction": "MOI certificate or official test score report."
+    },
+    {
+      "document_name": "Tongji Professor Provisional Acceptance Letter",
+      "mandatory": false,
+      "specification": "Signed provisional acceptance form from a Tongji University graduate supervisor.",
+      "pakistan_specific_instruction": "Strongly recommended; elevates admission probability significantly."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "November 1",
+    "application_deadline": "February 15 (CSC Type B deadline) / March 31 (Shanghai Government Scholarship deadline)",
+    "university_admission_deadline": "February 15 / March 31",
+    "document_submission_deadline": "February 15 / March 31",
+    "recommendation_letters_deadline": "February 15 / March 31",
+    "interview_period": "March - April",
+    "shortlist_announcement": "May (University nomination) / July (CSC final confirmation)",
+    "final_result_acceptance_deadline": "July 15",
+    "visa_application_window": "July - August",
+    "semester_commencement": "Early September (Fall intake)",
+    "annual_cycle_notes": "Single annual admission cycle for Fall semester entry; CSC Type B applications strictly due by mid-February."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Prior GPA, university prestige, foundational engineering grades)",
+    "extracurricular_and_leadership_weight": "5% (Leadership, international adaptability, teamwork)",
+    "research_experience_weight": "40% (Prior publications, proposal strength, Tongji professor endorsement)",
+    "work_experience_weight": "5% (Engineering practice or industrial research experience)",
+    "personal_statement_weight": "5% (Clarity of purpose and alignment with Tongji key disciplines)",
+    "recommendations_weight": "5% (Quality of referee appraisals)",
+    "interview_weight": "5% (Departmental virtual interview evaluation)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure academic excellence and research capability)",
+    "selection_panel_composition": "Tongji University International Students Office, School Admissions Committee, and China Scholarship Council Evaluation Board.",
+    "evaluation_methodology": "Two-tier review: academic qualification evaluation by specialized faculty followed by international scholarship allocation committee vetting."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~4,000 to 5,500 international applicants across all disciplines",
+    "total_scholarships_awarded": "~180 to 220 fully funded CSC Type B and SGS Class A awards annually",
+    "acceptance_rate_global": "~4.0% to 5.5%",
+    "acceptance_rate_pakistan": "~7.0% to 10.0% for applicants with professor pre-acceptance and published papers",
+    "typical_successful_applicant_gpa": "Undergraduate/Master's CGPA >= 3.50 / 4.00, accompanied by 1+ peer-reviewed journal/conference publications",
+    "typical_academic_and_research_profile": "Graduates holding top degrees in civil, mechanical, environmental, or computer engineering, with documented research capability and pre-acceptance from a Tongji supervisor.",
+    "common_backgrounds_of_winners": "Graduates from top Pakistani universities (NUST, UET Lahore, NED Karachi, FAST-NUCES, COMSATS, GIKI).",
+    "high_representation_countries": "Pakistan, Germany, Italy, Russia, Thailand, Malaysia, Vietnam, Egypt, Iran.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portals at study-info.tongji.edu.cn and studyinchina.csc.edu.cn.",
+      "Beware of unauthorized agents claiming to sell guaranteed Tongji University CSC seats; CSC and Tongji strictly prohibit commercial intermediaries."
+    ],
+    "application_fee_warning": "Tongji application fee of CNY 600 is paid directly through the secure university portal; CSC portal submission is completely free.",
+    "agent_and_intermediary_warnings": "Applications prepared by commercial agents with templated research proposals are systematically rejected by Tongji review committees.",
+    "hidden_costs_breakdown": [
+      "Tongji application fee: CNY 600 (~PKR 23,400).",
+      "Chinese X1 Visa fee in Pakistan: ~PKR 18,000.",
+      "Medical checkup & police certificate attestations: ~PKR 25,000 to 35,000.",
+      "Initial relocation flight to Shanghai: ~PKR 180,000 to 260,000.",
+      "Initial pocket money before first stipend disbursement: ~CNY 1,500 (~PKR 58,500)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You need HSK Chinese fluency. Reality: All STEM graduate programs are taught and examined 100% in English.",
+      "Myth: Pre-acceptance letters are required. Reality: Not legally mandatory, but having a professor's provisional acceptance letter increases admission likelihood to over 75%."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs claim CSC covers round-trip international flights; CSC Type B university programs do NOT provide international airfare."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass the Annual CSC Comprehensive Review evaluating course grades, thesis research progress, and campus conduct.",
+    "attendance_requirements": "Full-time physical residency in Shanghai; unexcused absences result in stipend suspension.",
+    "academic_progress_monitoring": "Annual CSC review conducted every May by the host college and International Students Office.",
+    "work_restrictions_during_study": "Commercial off-campus employment is restricted by Chinese student visa regulations; part-time on-campus work-study permitted with university approval.",
+    "home_country_return_obligation": "None; scholars are free to seek international careers, post-doctoral fellowships, corporate employment in China, or return home.",
+    "service_obligations_or_bonds": "Zero financial bond or service commitment.",
+    "repayment_clawback_conditions": "Scholarship is cancelled and student repatriated if dismissed for academic failure, disciplinary infractions, or criminal offenses.",
+    "rules_for_changing_university": "Non-transferable to other Chinese universities under CSC rules.",
+    "rules_for_changing_major": "Changing major is strictly prohibited after scholarship registration.",
+    "extension_policy": "Extensions are generally not granted; students must complete degrees within the official approved period."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Tongji University International Students Office Scholarship Guide",
+      "source_url": "https://study.tongji.edu.cn/info/1043/1648.htm",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "China Scholarship Council (CSC) Official Portal",
+      "source_url": "https://www.campuschina.org/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

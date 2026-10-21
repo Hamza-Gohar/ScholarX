@@ -1,0 +1,288 @@
+{
+  "scholarship_id": "SCH-EU-080",
+  "basic_details": {
+    "scholarship_name": "Scuola Normale Superiore PhD Scholarship",
+    "offering_entity": "Scuola Normale Superiore (SNS Pisa / Florence) & Italian Ministry of University and Research (MUR)",
+    "host_country": "Italy",
+    "host_institutions_covered": "Scuola Normale Superiore Campus (Pisa and Florence, Tuscany, Italy)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD) / Corso di Perfezionamento"
+    ],
+    "major_restrictions": "Open to all doctoral courses, with focus on Computational Sciences, Artificial Intelligence, Data Science, Methods and Models for Molecular Sciences, and Mathematics.",
+    "number_of_awards_total": "100% of admitted PhD students receive full scholarships and free board/lodging (~65 to 75 doctoral seats awarded annually across all disciplines)",
+    "number_of_awards_pakistan": "Open global merit competition; typically 1 to 3 outstanding Pakistani researchers admitted annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "4 years (48 months) fully funded doctoral package"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international and Italian citizens worldwide holding a valid passport"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "Applicants must have obtained (or be about to obtain) their Master's degree by October 31 of the year of admission.",
+    "academic_qualifications": "A recognized 2-year research Master's degree (MS/MPhil - 18 years education / Laurea Magistrale equivalent) in Computer Science, Applied Mathematics, Physics, or Engineering from an HEC-recognized university with highest academic distinction (minimum 82% aggregate or CGPA 3.60 / 4.00; competitive admits typically 3.80+ / 4.00).",
+    "minimum_gpa_percentage": 82.0,
+    "minimum_gpa_scale": 3.6,
+    "grading_conversion_notes": "SNS is Italy's most prestigious elite university (alma mater of Fermi, Rubbia, Carducci); candidates are evaluated against exceptional intellectual standards.",
+    "subject_background_prerequisites": "Advanced background in computational mathematics, algorithms, scientific computing, machine learning, or theoretical physics.",
+    "current_education_status": "Master's students completing their degree before 31 October can apply conditionally.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Research papers in international journals, master's thesis quality, and intellectual originality are decisive.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "Good knowledge of English (B2 level or higher). Official test report (IELTS 6.5 / TOEFL 90) or institutional Medium of Instruction certificate accepted.",
+    "other_language_requirements": "None; instruction and research conducted entirely in English. Free Italian language courses provided.",
+    "gender_specific_requirements": "None.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Positions awarded purely through open public competitive examination (concorso pubblico).",
+    "previous_scholarship_restrictions": "Cannot hold another scholarship or full-time employment simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% tuition fee waiver; zero tuition or academic registration fees charged to admitted doctoral students.",
+      "amount": "100% covered (No tuition fee charged)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Application through the official SNS online admissions portal is 100% free of charge.",
+      "amount": "EUR 0 (Free application)"
+    },
+    "accommodation": {
+      "status": "100% COVERED",
+      "details": "Free accommodation in SNS residential colleges in Pisa (Collegio Timpano, Collegio Carducci, Collegio Fermi) or a monthly housing allowance of approx. EUR 400/month if college rooms are unavailable.",
+      "amount": "100% free college room (~EUR 500 / month value)"
+    },
+    "monthly_stipend": {
+      "status": "100% COVERED",
+      "details": "Annual scholarship stipend of EUR 17,500 to EUR 19,000 / year (~EUR 1,450 to 1,583 / month; ~PKR 450,000 to 490,000 / month net) paid monthly for 4 years.",
+      "amount": "EUR 17,500 to 19,000 / year net (~PKR 5,425,000 to 5,890,000 / year)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel between Pakistan and Pisa International Airport (PSA) / Florence (FLR) / Rome (FCO) is self-funded.",
+      "amount": "Self-funded (~PKR 250,000 to 380,000 round-trip value)"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Italian National Long-Stay Visa (Type D - Study) application fee of EUR 50 plus Italian Residence Permit (Permesso di Soggiorno) fee of approx. EUR 120.",
+      "amount": "EUR 170 (~PKR 52,700)"
+    },
+    "health_insurance": {
+      "status": "100% COVERED",
+      "details": "Admitted international students are eligible for registration with the Italian National Health Service (Servizio Sanitario Nazionale - SSN) providing 100% free healthcare coverage.",
+      "amount": "100% covered via Italian SSN"
+    },
+    "food_allowance": {
+      "status": "100% COVERED",
+      "details": "Free daily meals at the Scuola Normale Superiore student canteen (Mensa della Normale in Piazza dei Cavalieri, Pisa).",
+      "amount": "100% free daily canteen meals (~EUR 300 / mo value)"
+    },
+    "books_and_materials_allowance": {
+      "status": "100% COVERED",
+      "details": "Full access to SNS Library (one of Europe's richest academic libraries), compute servers, GPU clusters, and software tools.",
+      "amount": "Covered by university facilities"
+    },
+    "research_funding_conference_grant": {
+      "status": "100% COVERED",
+      "details": "All PhD students receive an additional dedicated research and travel budget (approx. EUR 1,700 to EUR 3,400 / year) for international conferences and study stays abroad.",
+      "amount": "EUR 1,700 to 3,400 / year dedicated travel budget"
+    },
+    "travel_transit_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Pisa is an intimate pedestrian and bicycle-friendly university city; transit costs are negligible.",
+      "amount": "Negligible / bicycle commuting"
+    },
+    "total_estimated_value_usd_per_year": 35000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single elite Italian institution: Scuola Normale Superiore (Pisa and Florence, Tuscany, Italy)",
+    "participating_institutions": [
+      "Scuola Normale Superiore (SNS Pisa)",
+      "Faculty of Sciences (Palazzo della Carovana, Piazza dei Cavalieri)",
+      "Center for Nanotechnology Innovation @ NEST",
+      "Department of Computational and Data Sciences"
+    ],
+    "university_rankings_scope": "Italy's #1 university for research quality and top 10 globally for citations per faculty (THE World #168, QS Citations #1 in Italy); Napoleonic Grande École model founded in 1810.",
+    "available_majors": [
+      "PhD in Computational Sciences",
+      "PhD in Data Science (Joint with University of Pisa, Sant'Anna, CNR, IMT)",
+      "PhD in Artificial Intelligence (National PhD Programme in AI)",
+      "PhD in Mathematics (Algebra, Geometry, Analysis, Probability)",
+      "PhD in Methods and Models for Molecular Sciences",
+      "PhD in Nanosciences & Condensed Matter Physics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "4 years (48 months) full-time doctoral program.",
+    "admission_requirements_summary": "2-year MS in CS/Math/Physics with 3.6+ GPA, structured research proposal, CV, 2 recommendation letters, master's thesis copy, and oral defense interview via Zoom.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Data Science and Artificial Intelligence attract massive international applicant volume; Computational Sciences, Applied Mathematics, and Molecular Methods present slightly higher selection ratios for candidates with exceptional mathematical depth.",
+    "strategic_program_match_advice": "The selection is a rigorous two-phase public competition; Phase 1 evaluates academic credentials and research proposal; candidates scoring 40/60 or higher advance to Phase 2 (an intensive technical oral interview via Zoom)."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.sns.it/en/admissions/phd/how-to-apply",
+    "portal_system_name": "SNS Online PhD Application Portal",
+    "account_creation_instructions": "Register on the SNS admissions portal, select your target PhD programme, upload application documents (research proposal, CV, thesis, transcripts), and designate 2 academic referees.",
+    "step_by_step_workflow": [
+      "Step 1 (December - January): Review PhD research themes and call for applications (Bando di concorso) on the SNS website.",
+      "Step 2 (Online registration): Create an account on the SNS application system.",
+      "Step 3 (Document preparation): Prepare a detailed research proposal (in English), academic CV, master's thesis abstract/draft, and contact 2 referees.",
+      "Step 4 (By early March): Submit online application before the strict deadline (typically 7 March).",
+      "Step 5 (Phase 1 evaluation): Selection committee evaluates qualifications and research proposals (candidates scoring 40+/60 are shortlisted).",
+      "Step 6 (Phase 2 oral interview): Shortlisted candidates participate in an in-depth oral technical interview via Zoom (scoring 40+/60 required).",
+      "Step 7 (Final ranking): Merit ranking published on the SNS website; admission offers issued with full scholarship and free accommodation.",
+      "Step 8 (May - July): Formally accept offer and apply for Italian National Long-Stay Visa via Universitaly.it."
+    ],
+    "university_vs_scholarship_routing": "Integrated automatic funding: 100% of admitted PhD candidates at Scuola Normale Superiore automatically receive full scholarships, free lodging, and free canteen meals.",
+    "recommendation_letters_submission_method": "Two academic recommendation letters uploaded directly by referees via automated email links generated by the SNS portal.",
+    "personal_statement_prompts": "Integrated into research proposal: Describe your research background, intellectual interests, and vision for your doctoral investigation.",
+    "study_plan_research_proposal_requirements": "Detailed research proposal (max 20,000 characters including spaces) in English: (1) State of the art, (2) Research objectives, (3) Methodology and computational tools, (4) Expected outcomes and schedule.",
+    "cv_format_requirements": "Comprehensive academic CV detailing education, technical competencies, programming skills, capstone projects, and academic honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "40-50 minute technical oral interview via Zoom conducted by the faculty examination board, consisting of a presentation of the research proposal, discussion of master's thesis, and deep technical questions on core subjects.",
+    "standardized_tests": "None. English proficiency evaluated during interview.",
+    "application_fee_amount": "EUR 0 (100% free application)",
+    "attestation_requirements": "Certified scans uploaded with application; official degree certificates verified upon arrival.",
+    "translation_requirements": "Certified English translations required for all non-English documents.",
+    "final_submission_method": "100% digital submission via the SNS online PhD application portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "PhD Research Proposal",
+      "mandatory": true,
+      "specification": "Detailed research proposal (max 20,000 characters including spaces) in English detailing objectives, state of the art, and methodology.",
+      "pakistan_specific_instruction": "Ensure proposal demonstrates computational and mathematical rigor."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Detailed academic CV in English listing education, research experience, publications, technical skills, and honors.",
+      "pakistan_specific_instruction": "Clearly highlight master's thesis, GPA, and software/algorithmic capabilities."
+    },
+    {
+      "document_name": "Official Academic Transcripts & Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts of Bachelor's and Master's degrees detailing courses and grades, with grading scale explanation.",
+      "pakistan_specific_instruction": "Pakistani applicants submit 4-year BS and 2-year MS/MPhil transcripts."
+    },
+    {
+      "document_name": "Master's Thesis Abstract / Full Thesis Draft",
+      "mandatory": true,
+      "specification": "Copy of the Master's thesis (or extensive draft/abstract if result is awaiting) in English.",
+      "pakistan_specific_instruction": "Upload MS/MPhil thesis PDF or preprint."
+    },
+    {
+      "document_name": "Letters of Recommendation (Two)",
+      "mandatory": true,
+      "specification": "Two confidential recommendation letters from university professors assessing research capability.",
+      "pakistan_specific_instruction": "Referees must submit from institutional email addresses (.edu.pk) via the portal."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Clear color copy of valid international passport bio-data page.",
+      "pakistan_specific_instruction": "Ensure passport is valid for at least 3 years."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "15 December 2025",
+    "application_deadline": "5 March 2026 (Strict annual deadline)",
+    "university_admission_deadline": "5 March 2026",
+    "document_submission_deadline": "5 March 2026",
+    "recommendation_letters_deadline": "8 March 2026",
+    "interview_period": "Late March to Mid-April 2026 (Zoom interviews)",
+    "shortlist_announcement": "Mid-April to Early May 2026",
+    "final_result_acceptance_deadline": "Late May 2026",
+    "visa_application_window": "June to August 2026",
+    "semester_commencement": "1 November 2026 (Standard Italian academic year start)",
+    "annual_cycle_notes": "Single annual national competition closing in early March. PhD activities formally begin on 1 November."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Evaluation of qualifications, transcripts, and master's thesis quality out of 60 points in Phase 1)",
+    "extracurricular_and_leadership_weight": "0% (Not evaluated)",
+    "research_experience_weight": "30% (Evaluation of PhD research proposal out of 60 points in Phase 1)",
+    "work_experience_weight": "0% (Not evaluated)",
+    "personal_statement_weight": "0% (Integrated into research proposal)",
+    "recommendations_weight": "Qualifying background material",
+    "interview_weight": "40% (Oral technical interview scored out of 60 points in Phase 2; min 40/60 required to pass)",
+    "test_scores_weight": "Threshold requirement (English B2 proficiency)",
+    "financial_need_weight": "0% (Purely merit-based public examination)",
+    "selection_panel_composition": "SNS Examination Board appointed by the Director, comprising senior professors in the relevant scientific discipline.",
+    "evaluation_methodology": "Two-phase competitive examination (Concorso Pubblico): Phase 1 evaluates qualifications and research proposal (max 60 points; min 40 points to qualify for interview). Phase 2 is an oral technical interview via Zoom (max 60 points; min 40 points to pass). Final ranking is based on total points (out of 120); top candidates awarded seats with full scholarship, free housing, and free meals."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "1,200+ applicants globally across doctoral programmes",
+    "total_scholarships_awarded": "~65 to 75 fully funded doctoral positions awarded annually",
+    "acceptance_rate_global": "~5% to 6% overall selection rate",
+    "acceptance_rate_pakistan": "~3% to 5% among qualified Pakistani Master's graduates",
+    "typical_successful_applicant_gpa": "3.80+ / 4.00 CGPA in Master's degree (85%+ aggregate)",
+    "typical_academic_and_research_profile": "Master's degree in CS, math, or physics, exceptional mathematical intuition, high-quality research proposal, outstanding oral defense performance in interview.",
+    "common_backgrounds_of_winners": "Graduates of NUST, Quaid-i-Azam University (QAU), FAST-NUCES, LUMS, GIKI, and PIEAS.",
+    "high_representation_countries": "Italy, China, India, Pakistan, Iran, Germany, France, Russia",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Fraudulent recruitment portals charging fees for Italian university admissions. SNS applications are strictly free via sns.it."
+    ],
+    "application_fee_warning": "Applying to Scuola Normale Superiore is 100% free of charge. Never pay any money to consultants.",
+    "agent_and_intermediary_warnings": "SNS does not collaborate with education recruitment agencies. Plagiarized research proposals result in immediate disqualification.",
+    "hidden_costs_breakdown": [
+      "Application fee: EUR 0 (100% free).",
+      "Italian Student Visa fee & Permesso di Soggiorno: ~EUR 170 (~PKR 52,700).",
+      "Flight ticket from Pakistan to Italy: ~PKR 250,000 to 380,000.",
+      "Accommodation & meals at SNS: 100% free in college dorms and canteen."
+    ],
+    "misleading_claims_debunked": [
+      "CLAIM: You must speak fluent Italian. (FACT: Research and doctoral courses at SNS are conducted 100% in English).",
+      "CLAIM: You must pay for food and housing. (FACT: Scuola Normale Superiore provides 100% free college accommodation and free daily canteen meals to all PhD students)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Some online blogs confuse the SNS PhD with standard Italian university PhDs. SNS provides substantially higher benefits (free college lodging, free meals, dedicated travel budget) compared to standard Italian doctoral contracts."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass annual academic progress reviews and submit satisfactory progress reports to the Faculty Board to advance to each subsequent year.",
+    "attendance_requirements": "Full-time physical research residency at Scuola Normale Superiore in Pisa or Florence.",
+    "academic_progress_monitoring": "Annual progress reports and seminar presentations evaluated by the doctoral committee.",
+    "work_restrictions_during_study": "PhD students are committed full-time to doctoral research; external commercial activities are strictly restricted.",
+    "home_country_return_obligation": "None. International graduates qualify for Italy's post-study residence permit for job seekers or researchers.",
+    "service_obligations_or_bonds": "None.",
+    "repayment_clawback_conditions": "None.",
+    "rules_for_changing_university": "Position is tied to SNS.",
+    "rules_for_changing_major": "Doctoral research topic may be refined with supervisor consent.",
+    "extension_policy": "Scholarship is guaranteed for 4 years (48 months), which matches the full doctoral curriculum duration."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Scuola Normale Superiore PhD Admissions Official Portal",
+      "source_url": "https://www.sns.it/en/admissions/phd/how-to-apply",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Allocation of doctoral seats per individual research laboratory.",
+        "Country-level breakdown of admitted PhD cohorts.",
+        "Detailed assessment score sheets for candidates below the interview threshold."
+      ]
+    },
+    {
+      "source_name": "Italian Ministry of University and Research (MUR) National PhD Database",
+      "source_url": "https://www.mur.gov.it/it",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "National PhD in AI quota allocations for foreign citizens.",
+        "Annual statutory ministerial adjustments to standard doctoral gross allowances."
+      ]
+    }
+  ]
+}

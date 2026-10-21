@@ -1,0 +1,289 @@
+{
+  "scholarship_id": "SCH-EU-087",
+  "basic_details": {
+    "scholarship_name": "Boehringer Ingelheim Fonds (BIF) International PhD Fellowships",
+    "offering_entity": "Boehringer Ingelheim Fonds (Foundation for Basic Research in Medicine)",
+    "host_country": "Germany / Europe / Worldwide",
+    "host_institutions_covered": "Internationally leading biomedical research laboratories (Max Planck Institutes, EMBL Heidelberg, Francis Crick Institute, Oxford, Cambridge, ETH Zurich)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Basic biomedical research aimed at elucidating fundamental biological phenomena of human life (Computational Biology, Molecular Biology, Biochemistry, Structural Biology, Genetics, and Neuroscience).",
+    "number_of_awards_total": "~40 to 45 prestigious doctoral fellowships awarded worldwide across three annual application cycles",
+    "number_of_awards_pakistan": "Open internationally to all nationalities; typically 1 to 3 Pakistani biomedical researchers selected per year",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 36 months (initial 2 years + 12-month extension based on scientific progress)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to researchers of all nationalities worldwide including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No strict statutory age limit; doctoral candidates must be in the first 6 months of their PhD project or about to start.",
+    "academic_qualifications": "Recognized 18-year Master's degree (MS / MPhil) in Molecular Biology, Biochemistry, Computational Biology, or Bioinformatics from an HEC-recognized university with outstanding grades (minimum CGPA 3.70 / 4.00 or 82%+).",
+    "minimum_gpa_percentage": 82.0,
+    "minimum_gpa_scale": 3.7,
+    "grading_conversion_notes": "Minimum CGPA 3.70 / 4.00; competitive applicants typically hold CGPA >= 3.85 / 4.00 with peer-reviewed publications.",
+    "subject_background_prerequisites": "Laboratory research in fundamental biomedical science; applied clinical or agricultural studies are excluded.",
+    "current_education_status": "Master's graduate who has secured a PhD position in an internationally recognized biomedical laboratory.",
+    "graduation_year_restrictions": "PhD project must not have been started more than six months prior to the application deadline.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Proven bench research expertise, structural biology data analysis, or bioinformatics scripting (Python/R) is critical.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 100,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "Fluent scientific English required for proposal review and selection interviews; IELTS 7.0+, TOEFL 100+, or official MOI certificate.",
+    "other_language_requirements": "German is not required; research is conducted 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Sole focus on basic biomedical research elucidating fundamental biological phenomena.",
+    "previous_scholarship_restrictions": "Cannot receive another full fellowship simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% tuition-free research environment; doctoral fellows are hosted at tuition-free research institutes.",
+      "amount": "100% Tuition Free"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Applying to Boehringer Ingelheim Fonds is completely free of charge.",
+      "amount": "EUR 0"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Covered comfortably from the monthly living stipend; host institutions provide residential assistance.",
+      "amount": "Fully funded via living stipend"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Competitive basic monthly stipend of EUR 2,050 to EUR 2,400 / month (~PKR 620,000 - 730,000 / month) adjusted according to host country living costs, plus country supplements.",
+      "amount": "EUR 2,050 - 2,400 / month (~PKR 620,000/mo)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Travel expenses to and from the host laboratory at the beginning and end of the fellowship are covered.",
+      "amount": "Relocation travel covered"
+    },
+    "visa_fee": {
+      "status": "COVERED",
+      "details": "Visa processing and legal registration costs reimbursed upon arrival.",
+      "amount": "Reimbursed by foundation"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Monthly health insurance supplement provided directly to fellows.",
+      "amount": "Direct monthly health insurance allowance"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly EUR 2,050+ stipend plus subsidized campus dining facilities.",
+      "amount": "Fully funded via living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full digital access to research libraries, Nature/Cell/Science journals, and computational resources.",
+      "amount": "Full scientific library access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Travel allowances for participation in scientific conferences, foundation seminars, and specialized lab workshops.",
+      "amount": "Full conference and seminar travel grants"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized public transit at host research center location.",
+      "amount": "Subsidized regional transit"
+    },
+    "total_estimated_value_usd_per_year": 36000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple host institutions (any internationally recognized biomedical research laboratory in Germany, Europe, or worldwide).",
+    "participating_institutions": [
+      "Max Planck Institutes (e.g. MPI for Biochemistry, MPI of Molecular Cell Biology and Genetics)",
+      "European Molecular Biology Laboratory (EMBL Heidelberg)",
+      "Francis Crick Institute (London)",
+      "University of Oxford / Cambridge",
+      "ETH Zurich",
+      "LMU Munich / Heidelberg University"
+    ],
+    "university_rankings_scope": "World top research institutes in basic molecular biology and medicine.",
+    "available_majors": [
+      "PhD in Molecular Biology & Gene Regulation",
+      "PhD in Computational Biology & Single-Cell Genomics",
+      "PhD in Structural Biology & Cryo-EM",
+      "PhD in Cellular Neurobiology & Neural Circuitry",
+      "PhD in Cancer Biology & Epigenetics",
+      "PhD in Immunology & Signal Transduction"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "3 years (36 months: initial 24 months + 12-month extension)",
+    "admission_requirements_summary": "Master's degree (CGPA >= 3.70/4.00), secured PhD laboratory placement with host supervisor agreement, outstanding original research proposal (max 8 pages), CV, and two recommendation letters.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Must have confirmed host laboratory placement before applying; research proposal must demonstrate exceptional scientific originality.",
+    "strategic_program_match_advice": "Focus strictly on basic biomedical research aiming to elucidate fundamental cellular or molecular mechanisms, not clinical drug trials or applied biotechnology."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.bifonds.de/fellowships-grants/phd-fellowships.html",
+    "portal_system_name": "Boehringer Ingelheim Fonds Online Application Portal",
+    "account_creation_instructions": "Register on the BIF online portal, select PhD Fellowship application, input project and laboratory details, upload research proposal, CV, degree certificates, and register two referees by the deadline (Feb 1, Jun 1, Oct 1).",
+    "step_by_step_workflow": [
+      "Step 1: Secure a doctoral position and project in an internationally recognized biomedical research lab.",
+      "Step 2: Draft an independent, hypothesis-driven doctoral research proposal (maximum 8 pages including references).",
+      "Step 3: Register on the BIF application portal during an open cycle.",
+      "Step 4: Upload all application documents before one of the three annual deadlines (February 1, June 1, or October 1).",
+      "Step 5: Board of Trustees and external scientific reviewers evaluate scientific quality and feasibility.",
+      "Step 6: Shortlisted candidates attend a personal scientific interview with a foundation trustee in Germany or via video call.",
+      "Step 7: Final fellowship decisions communicated within 4 to 5 months following the deadline.",
+      "Step 8: Activate fellowship and begin funded doctoral research."
+    ],
+    "university_vs_scholarship_routing": "Separate Routing: Candidates must independently secure doctoral supervisor and lab placement, then apply to BIF for fellowship funding.",
+    "recommendation_letters_submission_method": "Submitted online by the doctoral supervisor and one former academic professor.",
+    "personal_statement_prompts": "Summary of research trajectory, scientific motivations, and long-term academic career goals.",
+    "study_plan_research_proposal_requirements": "Rigorous 8-page scientific proposal detailing summary, background, preliminary data, specific aims, experimental design, potential pitfalls, and timeline.",
+    "cv_format_requirements": "Academic CV detailing publications, lab methods mastered, conferences, and honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "In-depth scientific interview conducted by a member of the BIF Board of Trustees probing the applicant's experimental logic and understanding of their field.",
+    "standardized_tests": "IELTS 7.0+ or TOEFL 100+ / MOI certificate accepted.",
+    "application_fee_amount": "EUR 0 (Completely free to apply)",
+    "attestation_requirements": "HEC degree attestation required for Pakistani applicants.",
+    "translation_requirements": "Certified English translation.",
+    "final_submission_method": "Online submission via BIF portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Master's and Bachelor's Degree Certificates",
+      "mandatory": true,
+      "specification": "HEC-attested degrees with outstanding grades (minimum CGPA 3.70 / 4.00).",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts of undergraduate and postgraduate coursework.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Doctoral Research Project Proposal",
+      "mandatory": true,
+      "specification": "Maximum 8-page hypothesis-driven proposal detailing background, preliminary results, aims, methods, and timeline.",
+      "pakistan_specific_instruction": "Independent scientific authorship required."
+    },
+    {
+      "document_name": "Host Laboratory Letter of Acceptance",
+      "mandatory": true,
+      "specification": "Letter from prospective PhD laboratory head confirming workspace, equipment, and consumables support.",
+      "pakistan_specific_instruction": "Signed by host laboratory director."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Academic CV highlighting lab techniques, publications, preprints, and academic awards.",
+      "pakistan_specific_instruction": "Include DOIs for publications."
+    },
+    {
+      "document_name": "Two Recommendation Letters",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from former academic professors evaluating scientific aptitude.",
+      "pakistan_specific_instruction": "On institutional letterhead."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear scan of passport identification page.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-01",
+    "application_deadline": "2027-02-01",
+    "university_admission_deadline": "Concurrent with or prior to BIF application",
+    "document_submission_deadline": "2027-02-01",
+    "recommendation_letters_deadline": "2027-02-01",
+    "interview_period": "April to May 2027",
+    "shortlist_announcement": "Late May 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "June to August 2027",
+    "semester_commencement": "2027-10-01",
+    "annual_cycle_notes": "BIF operates three strict annual deadlines: February 1, June 1, and October 1."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "30% (Academic transcript excellence, degree honors, and theoretical foundation)",
+    "extracurricular_and_leadership_weight": "5% (Scientific community involvement and peer communication)",
+    "research_experience_weight": "45% (Scientific originality, experimental rigor, and hypothesis novelty of research proposal)",
+    "work_experience_weight": "5% (Laboratory bench skills and bioinformatics expertise)",
+    "personal_statement_weight": "5% (Scientific curiosity and commitment to basic biomedical research)",
+    "recommendations_weight": "5% (Academic referee appraisals)",
+    "interview_weight": "5% (Scientific interview with BIF Board of Trustees member)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure scientific excellence evaluation)",
+    "selection_panel_composition": "BIF Board of Trustees comprising leading international professors in molecular and cellular biology.",
+    "evaluation_methodology": "Two-tier review: external international scientific review followed by personal Trustee interview and Board ratification."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~600 to 800 top-tier biomedical doctoral candidates globally across the three cycles",
+    "total_scholarships_awarded": "~40 to 45 fellowships awarded annually worldwide",
+    "acceptance_rate_global": "~5.5%",
+    "acceptance_rate_pakistan": "~4% to 6% among applicants hosted at premier biomedical institutes",
+    "typical_successful_applicant_gpa": "3.90 / 4.00 with exceptional research proposal and prior publication",
+    "typical_academic_and_research_profile": "Researchers in molecular genetics, structural biology, or bioinformatics with high experimental rigor and clear conceptual proposals.",
+    "common_backgrounds_of_winners": "Graduates from NUST, Quaid-i-Azam University, Aga Khan University, and LUMS.",
+    "high_representation_countries": "Germany, United Kingdom, Pakistan, India, Italy, Switzerland, Spain, United States.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official BIF portal https://www.bifonds.de/.",
+      "Beware of fraudulent services claiming to offer BIF research grants."
+    ],
+    "application_fee_warning": "Applying for BIF PhD Fellowships is 100% free of charge.",
+    "agent_and_intermediary_warnings": "Commercial agencies are strictly forbidden; proposals must be written entirely by the candidate.",
+    "hidden_costs_breakdown": [
+      "Application fee: EUR 0 (Free).",
+      "Initial visa and document attestation expenses in Pakistan: ~PKR 25,000 - 40,000.",
+      "Initial arrival cash reserve before first stipend disbursement: ~EUR 500."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Applied clinical trials and drug screenings are eligible. Reality: BIF strictly funds BASIC biomedical research aiming to elucidate fundamental biological phenomena; translational/applied projects are ineligible.",
+      "Myth: Research must be in Germany. Reality: BIF fellowships are portable to leading biomedical laboratories anywhere in Europe and worldwide."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sources claim applications are accepted at any stage; BIF strictly enforces that projects started more than 6 months prior to deadline are ineligible."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Successful experimental progression and submission of interim scientific progress reports.",
+    "attendance_requirements": "Mandatory full-time research presence in the host laboratory; mandatory participation in BIF fellowship seminars.",
+    "academic_progress_monitoring": "Detailed scientific progress report submitted after 18 months for fellowship extension review.",
+    "work_restrictions_during_study": "Fellows may not engage in outside commercial employment; full dedication to the doctoral project is required.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Termination of fellowship if fellow abandons project without valid scientific cause.",
+    "rules_for_changing_university": "Lab transfers permitted only under exceptional circumstances with prior BIF Board approval.",
+    "rules_for_changing_major": "Project adjustments within the basic research scope permitted with supervisor agreement.",
+    "extension_policy": "Standard tenure is 24 months; 12-month extension granted upon application and positive scientific progress review."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Boehringer Ingelheim Fonds Official Fellowship Portal",
+      "source_url": "https://www.bifonds.de/fellowships-grants/phd-fellowships.html",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "BIF Fellowship Guidelines and Criteria",
+      "source_url": "https://www.bifonds.de/fellowships-grants/phd-fellowships/conditions.html",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

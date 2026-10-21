@@ -1,0 +1,109 @@
+{
+  "currency": "PKR",
+  "exchange_rates_benchmark": {
+    "USD": 280,
+    "EUR": 305,
+    "GBP": 360,
+    "HUF": 0.77,
+    "TRY": 8.5,
+    "CNY": 39.0,
+    "SAR": 74.5,
+    "AED": 76.2,
+    "AUD": 182,
+    "CAD": 204
+  },
+  "pre_application": {
+    "ielts_academic_british_council": {
+      "cost_pkr_min": 75600,
+      "cost_pkr_max": 76240,
+      "typical_pkr": 76000,
+      "provider": "British Council / AEO Pakistan (Computer-Delivered)",
+      "validity_years": 2,
+      "notes": "PKR 75,600 in Islamabad/Karachi/Peshawar; PKR 76,240 in Lahore/Faisalabad/Multan"
+    },
+    "toefl_ibt": {
+      "cost_pkr_min": 65000,
+      "cost_pkr_max": 78000,
+      "typical_pkr": 72000,
+      "provider": "ETS Pakistan"
+    },
+    "duolingo_english_test": {
+      "cost_pkr_min": 17000,
+      "cost_pkr_max": 20000,
+      "typical_pkr": 18500,
+      "provider": "Duolingo Online"
+    },
+    "hec_hat_test": {
+      "cost_pkr": 2500,
+      "provider": "HEC ETC (Education Testing Council)"
+    },
+    "hec_usat_test": {
+      "cost_pkr": 2500,
+      "provider": "HEC ETC"
+    },
+    "hec_degree_attestation_per_document": {
+      "cost_per_document_pkr": 3000,
+      "provider": "HEC Degree Attestation System (DAS e-Attestation)",
+      "notes": "Online 1-Link payment for digital e-Attestation certificate. No physical visit needed."
+    },
+    "ibcc_foreign_equivalence": {
+      "regular_pkr": 6000,
+      "urgent_pkr": 12000,
+      "provider": "Inter Boards Coordination Commission (IBCC)"
+    },
+    "ibcc_local_certificate_attestation": {
+      "original_certificate_pkr": 1200,
+      "photocopy_pkr": 800,
+      "provider": "IBCC"
+    },
+    "mofa_attestation_per_stamp": {
+      "cost_pkr": 1000,
+      "provider": "Ministry of Foreign Affairs (MOFA) Camp Offices"
+    },
+    "notarized_translations": {
+      "cost_pkr_min": 5000,
+      "cost_pkr_max": 15000,
+      "typical_pkr": 8000
+    }
+  },
+  "application": {
+    "uni_assist_germany_first_app": {
+      "cost_eur": 75,
+      "cost_pkr": 22875
+    },
+    "uni_assist_germany_subsequent": {
+      "cost_eur": 30,
+      "cost_pkr": 9150
+    },
+    "dhl_international_courier_per_packet": {
+      "cost_pkr_min": 8000,
+      "cost_pkr_max": 16000,
+      "typical_pkr": 11000
+    }
+  },
+  "visa_and_travel": {
+    "schengen_national_visa_eur": 90,
+    "schengen_national_visa_pkr": 27450,
+    "us_sevis_i901_fee_usd": 350,
+    "us_ds160_visa_fee_usd": 185,
+    "uk_student_visa_fee_gbp": 558,
+    "uk_student_visa_fee_pkr": 200880,
+    "uk_immigration_health_surcharge_annual_gbp": 776,
+    "uk_immigration_health_surcharge_annual_pkr": 279360,
+    "germany_blocked_account_annual_eur": 11904,
+    "germany_blocked_account_monthly_eur": 992,
+    "turkey_visa_for_burslari_recipients_pkr": 0,
+    "hungary_visa_for_sh_recipients_pkr": 0,
+    "vfs_gerrys_biometrics_and_service_pkr": 20000,
+    "panel_clinic_medical_exam_pkr": 18000,
+    "police_character_certificate_ssp_pkr": 3000,
+    "one_way_flight_middle_east_china_turkey_pkr": 180000,
+    "one_way_flight_europe_pkr": 240000,
+    "one_way_flight_north_america_pkr": 350000
+  },
+  "settlement": {
+    "first_month_emergency_reserve_pkr": 75000,
+    "dormitory_security_deposit_pkr_typical": 60000,
+    "semester_social_contribution_germany_eur": 250
+  }
+}

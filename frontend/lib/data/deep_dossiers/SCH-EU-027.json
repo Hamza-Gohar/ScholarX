@@ -1,0 +1,290 @@
+{
+  "scholarship_id": "SCH-EU-027",
+  "basic_details": {
+    "scholarship_name": "Norwegian Directorate (HK-dir) / NORPART Postgraduate Research Grants",
+    "offering_entity": "Norwegian Directorate for Higher Education and Skills (Direktoratet for høyere utdanning og kompetanse - HK-dir) & Norwegian Ministry of Foreign Affairs",
+    "host_country": "Norway",
+    "host_institutions_covered": "Accredited Norwegian public universities (e.g., Norwegian University of Science and Technology - NTNU, University of Oslo - UiO, University of Bergen - UiB, Norwegian University of Life Sciences - NMBU, UiT The Arctic University of Norway)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Prioritized institutional partnership domains: Computer Science, Artificial Intelligence, Renewable Energy & Power Systems, Environmental & Climate Sciences, Marine Informatics, Biotechnology, and Global Health.",
+    "number_of_awards_total": "~100 to 150 bilateral mobility and postgraduate degree grants awarded annually across international partner consortia",
+    "number_of_awards_pakistan": "Allocated across formal Pakistani university partnerships (e.g., NUST, COMSATS, Quaid-i-Azam University); ~8 to 15 Pakistani researchers awarded annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 2 years for Master of Science; up to 3-4 years for PhD research fellowship positions"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of designated partner countries holding institutional collaborations with Norway (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No statutory age limit; candidates are evaluated based on academic merit, research competence, and departmental nomination.",
+    "academic_qualifications": "A recognized 4-year Bachelor of Science / Engineering (16 years education) with minimum CGPA 3.30 / 4.00 (or 75%+ aggregate) for Master's programs; an MS/MPhil (18 years education) with minimum CGPA 3.50 / 4.00 and thesis completion for PhD positions from an HEC-recognized university in Pakistan.",
+    "minimum_gpa_percentage": 75.0,
+    "minimum_gpa_scale": 3.3,
+    "grading_conversion_notes": "Norwegian grading system uses A to F (A highest, E lowest passing). Applicants typically require an equivalent of Grade B or Grade A on the Norwegian scale.",
+    "subject_background_prerequisites": "Rigorous undergraduate background in relevant engineering, mathematical, or scientific discipline with minimum 80 ECTS of specialized subject coursework.",
+    "current_education_status": "Graduating seniors in their final semester or enrolled Master's/PhD scholars at Pakistani partner institutions.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior academic publications, laboratory research, or thesis projects are highly advantageous for PhD and Master's fellowship candidates.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 90,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.5 overall (no band below 6.0) or TOEFL iBT minimum 90. Certain partner projects accept institutional Medium of Instruction (MOI) certificates from Pakistani partner universities with English-medium curricula.",
+    "other_language_requirements": "None; academic instruction and thesis supervision are conducted entirely in English.",
+    "gender_specific_requirements": null,
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must be nominated or enrolled through an approved institutional partnership agreement between a Norwegian host university and a Pakistani partner university.",
+    "previous_scholarship_restrictions": "Cannot hold another Norwegian government grant simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "Full exemption/grant coverage for tuition fees at Norwegian public universities (which instituted tuition fees for non-EEA students in autumn 2023; HK-dir partner fellows are granted complete institutional tuition waivers or direct project fee subsidies).",
+      "amount": "100% covered (~NOK 130,000 - 220,000 / year value; ~PKR 3,400,000 - 5,700,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Norwegian public universities do not charge an admission application fee.",
+      "amount": "NOK 0"
+    },
+    "accommodation": {
+      "status": "PARTIAL",
+      "details": "Guaranteed priority placement in university student housing (SiO in Oslo, SiT in Trondheim, Sammen in Bergen); rent is paid via the monthly living stipend.",
+      "amount": "Subsidized student rent ~NOK 4,500 - 6,500 / month (~PKR 115,000 - 170,000 / month)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free living stipend aligned with the Norwegian State Educational Loan Fund (Lånekassen) subsistence benchmark of NOK 11,500 to NOK 13,790 per month (~PKR 300,000 - 360,000 / month). For employed PhD research fellows, full salary on the state pay scale (approx NOK 532,000 / year before tax).",
+      "amount": "NOK 11,500 - 13,790 / month (~PKR 300,000 - 360,000 / month; NOK 138,000 - 165,480 / year)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Fixed round-trip travel grant covering economy flights between Pakistan and Norway at the start and conclusion of the study period.",
+      "amount": "NOK 12,000 - 15,000 (~PKR 315,000 - 395,000 round-trip economy flights)"
+    },
+    "visa_fee": {
+      "status": "REIMBURSED",
+      "details": "Norwegian Directorate of Immigration (UDI) residence permit application fee for studies (NOK 5,900) is reimbursed or waived under institutional grant agreements.",
+      "amount": "NOK 5,900 (~PKR 155,000 value)"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Automatic enrollment in the Norwegian National Insurance Scheme (Folketrygden) upon registration and receiving a Norwegian National Identity Number (Fødselsnummer), providing comprehensive universal public healthcare.",
+      "amount": "100% covered by the Norwegian state"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via the monthly living stipend of NOK 11,500 - 13,790.",
+      "amount": "Included in monthly living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Study materials and laboratory equipment are covered under project operational allocations; computer lab and campus infrastructure access provided.",
+      "amount": "NOK 5,000 / year project contribution"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Generous project budget for research travel, field work, and attending international conferences across Europe and North America.",
+      "amount": "Up to NOK 25,000 / year for approved research activities"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Comprehensive round-trip airfare and local airport transit grant provided.",
+      "amount": "Included in travel grant"
+    },
+    "total_estimated_value_usd_per_year": 28000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Multiple accredited Norwegian public research universities participating in HK-dir partnership consortia.",
+    "participating_institutions": [
+      "Norwegian University of Science and Technology (NTNU Trondheim)",
+      "University of Oslo (UiO)",
+      "University of Bergen (UiB)",
+      "Norwegian University of Life Sciences (NMBU Ås)",
+      "UiT The Arctic University of Norway (Tromsø)"
+    ],
+    "university_rankings_scope": "NTNU and University of Oslo consistently rank within the top 100-150 globally (QS/THE World University Rankings), with world-renowned standing in computer engineering, clean tech, and earth sciences.",
+    "available_majors": [
+      "Computer Science and Data Science",
+      "Software Engineering and Cyber Security",
+      "Artificial Intelligence and Autonomous Systems",
+      "Renewable Energy and Smart Grids",
+      "Marine Technology and Ocean Informatics",
+      "Petroleum Geoscience and Clean Energy",
+      "Environmental Biotechnology and Global Health"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "2 years (120 ECTS) for Master of Science; 3 to 4 years for Doctor of Philosophy",
+    "admission_requirements_summary": "Relevant Bachelor's degree (180-240 ECTS equivalence) with top-quartile grades, certified English proficiency, and institutional endorsement from the Pakistani partner university.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "NTNU Computer Science and UiO Informatics are highly competitive, requiring strong theoretical foundations and programming competence; NMBU and UiT offer specialized niches with high fellowship allocation rates for environmental and data science projects.",
+    "strategic_program_match_advice": "Check whether your home department in Pakistan (e.g. at NUST, QAU, or COMSATS) maintains active HK-dir/NORPART or UTFORSK project partnerships with NTNU or UiO; direct faculty-to-faculty recommendation is the most reliable pathway to winning this award."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://hkdir.no/en/programmes-and-grants & https://www.samordnaopptak.no/info/english/",
+    "portal_system_name": "HK-dir Portal & Søknadsweb (Norwegian University Admissions)",
+    "account_creation_instructions": "Register on Søknadsweb for the targeted Norwegian university, submit academic profile, and coordinate with the Pakistani partner department coordinator for bilateral project nomination.",
+    "step_by_step_workflow": [
+      "Step 1: Identify participating HK-dir/NORPART project coordinators at Pakistani partner university and Norwegian host university.",
+      "Step 2: Submit formal departmental nomination and academic portfolio to the institutional project coordinator.",
+      "Step 3: Complete university admission application through Søknadsweb (official Norwegian university admissions portal) by December 1.",
+      "Step 4: Upload attested transcripts, degree certificates, CV, statement of purpose, and English language test scores.",
+      "Step 5: Attend academic screening interview if shortlisted by the project evaluation committee.",
+      "Step 6: Receive formal admission letter and HK-dir scholarship commitment letter; apply for UDI student residence permit."
+    ],
+    "university_vs_scholarship_routing": "Integrated Bilateral Track: Candidates are nominated via the inter-university partnership agreement and apply through Søknadsweb in parallel.",
+    "recommendation_letters_submission_method": "Submitted by academic referees directly to the project coordinator or uploaded via Søknadsweb.",
+    "personal_statement_prompts": "Statement of purpose outlining research interests, academic background, and relevance to the bilateral Norway-Pakistan project.",
+    "study_plan_research_proposal_requirements": "Structured research proposal (2-4 pages) aligned with the research themes of the HK-dir/NORPART project.",
+    "cv_format_requirements": "Academic CV highlighting publications, software repositories, and research project experience.",
+    "interviews_conducted": true,
+    "interview_format_details": "30-40 minute technical discussion via Microsoft Teams / Zoom assessing academic depth and research motivation.",
+    "standardized_tests": "IELTS Academic (min 6.5 overall, 6.0 each band) or TOEFL iBT (min 90); MOI accepted by select consortia.",
+    "application_fee_amount": "NOK 0 (Free of charge at Norwegian public universities)",
+    "attestation_requirements": "Degrees and transcripts attested by HEC Pakistan and MOFA; Matric/Inter attested by IBCC.",
+    "translation_requirements": "Certified English translation required for all official documents.",
+    "final_submission_method": "Online submission via Søknadsweb portal and bilateral departmental nomination dossier."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete transcripts for 16-year Bachelor's (for MSc) or 18-year MS/MPhil (for PhD) with Grade B / CGPA 3.3+ equivalent.",
+      "pakistan_specific_instruction": "Scans of HEC-attested degrees and semester transcripts."
+    },
+    {
+      "document_name": "Institutional Nomination Letter",
+      "mandatory": true,
+      "specification": "Official letter from Pakistani partner university endorsing the candidate under the HK-dir/NORPART partnership.",
+      "pakistan_specific_instruction": "Signed by Dean or Head of Department at partner Pakistani university."
+    },
+    {
+      "document_name": "Research Proposal / Statement of Purpose",
+      "mandatory": true,
+      "specification": "2 to 4-page proposal detailing research objectives, methodology, and relevance to bilateral project.",
+      "pakistan_specific_instruction": "Must clearly cite the host Norwegian research lab and faculty mentors."
+    },
+    {
+      "document_name": "Official English Proficiency Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.5) or TOEFL iBT (min 90), or approved MOI certificate.",
+      "pakistan_specific_instruction": "Scores must be valid at time of application."
+    },
+    {
+      "document_name": "Two Academic Reference Letters",
+      "mandatory": true,
+      "specification": "Confidential recommendation letters from previous academic professors or research supervisors.",
+      "pakistan_specific_instruction": "Must be on university letterhead with institutional email addresses."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport identification page with minimum 2-year validity.",
+      "pakistan_specific_instruction": "Pakistani passport must remain valid through mid-2028."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "October 15",
+    "application_deadline": "December 1",
+    "university_admission_deadline": "December 1",
+    "document_submission_deadline": "December 15",
+    "recommendation_letters_deadline": "December 15",
+    "interview_period": "January 15 - March 15",
+    "shortlist_announcement": "Late April",
+    "final_result_acceptance_deadline": "May 15",
+    "visa_application_window": "May 15 - July 1",
+    "semester_commencement": "Mid-August (Autumn Semester)",
+    "annual_cycle_notes": "Main intake cycle is Autumn (August commencement). December 1 deadline is strictly enforced on Søknadsweb."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Undergraduate CGPA, consistency, and course relevance)",
+    "extracurricular_and_leadership_weight": "5% (Institutional engagement and collaboration skills)",
+    "research_experience_weight": "30% (Prior research, thesis publications, and proposal alignment)",
+    "work_experience_weight": "5% (Professional experience in relevant technical sector)",
+    "personal_statement_weight": "10% (Clarity of purpose and bilateral collaboration potential)",
+    "recommendations_weight": "10% (Academic referee assessments and departmental nomination)",
+    "interview_weight": "0% (Interview performance factored directly into research proposal score)",
+    "test_scores_weight": "0% (English proficiency fulfills qualification threshold)",
+    "financial_need_weight": "0% (Pure academic and bilateral research merit evaluation)",
+    "selection_panel_composition": "Joint evaluation committee of Norwegian host faculty, Pakistani partner department, and HK-dir academic officers.",
+    "evaluation_methodology": "Two-tier review: departmental nomination followed by joint faculty evaluation on Søknadsweb."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~500 to 800 applicants across partner institutions",
+    "total_scholarships_awarded": "~100 to 150 bilateral grants awarded annually",
+    "acceptance_rate_global": "~15% to 20%",
+    "acceptance_rate_pakistan": "~10% to 15% among officially nominated partner candidates",
+    "typical_successful_applicant_gpa": "CGPA 3.50+ / 4.00 or top 10% class rank from top Pakistani universities (NUST, QAU, COMSATS, UET)",
+    "typical_academic_and_research_profile": "High-performing STEM graduates with strong mathematical foundations, thesis research experience, and supervisor connections.",
+    "common_backgrounds_of_winners": "Graduates of partner engineering and science faculties in Pakistan.",
+    "high_representation_countries": "Pakistan, India, South Africa, Tanzania, Ethiopia, Brazil, Nepal, Vietnam.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Beware of fraudulent consultancy firms advertising 'Norwegian free visa & work permits'.",
+      "Official Norwegian applications are submitted exclusively via Søknadsweb and university portals."
+    ],
+    "application_fee_warning": "Norwegian public universities do NOT charge any admission application fee.",
+    "agent_and_intermediary_warnings": "HK-dir and Norwegian public universities do not work with educational agents.",
+    "hidden_costs_breakdown": [
+      "UDI study residence permit fee: NOK 5,900 (~PKR 155,000) payable upfront, reimbursed later.",
+      "VFS Global appointment and biometric fee in Pakistan: ~PKR 15,000.",
+      "Tuberculosis screening test at IOM Islamabad/Lahore: ~PKR 18,000.",
+      "Initial pocket money before first stipend transfer in Norway: ~NOK 5,000 (~PKR 130,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Norway abolished all free education for international students so no one gets funded. Reality: While general tuition was introduced in 2023, HK-dir, NORPART, and bilateral fellowship holders receive 100% full tuition coverage and monthly stipends.",
+      "Myth: You can apply without an institutional partnership. Reality: NORPART grants are tied directly to active institutional inter-university agreements."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sites claim Norway offers rolling admissions; Norwegian public university international deadlines close sharply on December 1."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain Grade B or higher average across coursework and pass minimum 30 ECTS per semester.",
+    "attendance_requirements": "Full-time physical presence on campus in Norway and active laboratory/thesis research engagement.",
+    "academic_progress_monitoring": "Semester-end review of earned credits on the national student database (FS) and annual progress report by thesis advisor.",
+    "work_restrictions_during_study": "Part-time work permitted up to 20 hours per week during academic semesters, full-time during holidays.",
+    "home_country_return_obligation": "Depending on project agreement: mobility scholars return to home university; degree scholars may apply for 1-year Norwegian post-study job seeker visa.",
+    "service_obligations_or_bonds": "Participation in bilateral symposiums and reporting milestones to HK-dir project managers.",
+    "repayment_clawback_conditions": "Funding terminated upon voluntary withdrawal or severe academic negligence without approved cause.",
+    "rules_for_changing_university": "Non-transferable to other universities; tied specifically to the partner consortium.",
+    "rules_for_changing_major": "Strictly prohibited; fellowship is allocated to the designated research project.",
+    "extension_policy": "Maximum extension of one semester considered for legitimate medical or research delays with project lead approval."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "HK-dir Programmes and Grants Official Directory",
+      "source_url": "https://hkdir.no/en/programmes-and-grants",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Norwegian Directorate of Immigration (UDI) Study Permit Regulations",
+      "source_url": "https://www.udi.no/en/want-to-apply/studies/studietillatelse/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "NTNU International Financing and Scholarships",
+      "source_url": "https://www.ntnu.edu/studies/financing-and-scholarships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "scholarship_id": "SCH-ME-039",
+  "basic_details": {
+    "scholarship_name": "Zewail City of Science and Technology Academic Fellowships",
+    "offering_entity": "Zewail City of Science and Technology (University of Science and Technology - UST, Giza, Egypt)",
+    "host_country": "Egypt",
+    "host_institutions_covered": "Zewail City of Science and Technology (October Gardens, 6th of October City, Giza, Egypt)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Postgraduate STEM research programs: Communications and Information Engineering, Nanotechnology and Nanoelectronics, Biomedical Sciences, Renewable Energy Engineering, Aerospace Engineering, and Applied Mathematics.",
+    "number_of_awards_total": "~25 to 40 fully funded research fellowships awarded annually across postgraduate engineering and science institutes",
+    "number_of_awards_pakistan": "Open internationally; typically 2 to 4 Pakistani researchers selected per academic cycle",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "24 months for Master of Science; 36 to 48 months for Doctor of Philosophy"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to Egyptian and international candidates of all nationalities including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 35,
+    "age_limit_notes": "Preference given to candidates under 30 for MSc and under 35 for PhD.",
+    "academic_qualifications": "Recognized 4-year Bachelor's degree (for MSc) or 18-year Master's degree (for PhD) in Engineering or Natural Sciences from an HEC-recognized university with high academic standing (minimum CGPA 3.40 / 4.00 or 78%+; rated 'Very Good' or higher).",
+    "minimum_gpa_percentage": 78.0,
+    "minimum_gpa_scale": 3.4,
+    "grading_conversion_notes": "Minimum CGPA 3.40 / 4.00; competitive applicants typically hold CGPA >= 3.65 / 4.00 with strong performance in mathematics, physics, and core engineering.",
+    "subject_background_prerequisites": "Bachelor's or Master's degree in Electrical Engineering, Computer/Communications Engineering, Nanotechnology, Biomedical Sciences, Mechanical/Renewable Energy, or Applied Physics.",
+    "current_education_status": "Graduated or enrolled in final semester of undergraduate/master's degree prior to Fall enrollment.",
+    "graduation_year_restrictions": "Degree completed within preceding 4 years preferred.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior laboratory research, peer-reviewed publications, or cleanroom / simulation experience provides a substantial competitive advantage.",
+    "english_test_required": true,
+    "ielts_minimum": 6.5,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 6.5 or TOEFL iBT minimum 80. MOI certificates are generally not accepted for international scholarship applicants.",
+    "other_language_requirements": "All postgraduate teaching, seminars, and laboratory research are conducted 100% in English.",
+    "gender_specific_requirements": "Open equally to male and female applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Merit-based scientific research competition assessing academic brilliance, laboratory aptitude, and alignment with national flagship research centers.",
+    "previous_scholarship_restrictions": "Cannot hold concurrent external fellowship funding.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition fee waiver for all required postgraduate coursework and dissertation research credits (worth ~EGP 180,000 to 250,000 / year / ~$4,000 to $6,000).",
+      "amount": "100% Full Tuition Waiver"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "Application processing fee of USD 50 (~EGP 2,400 / ~PKR 14,000) payable online.",
+      "amount": "USD 50 application fee"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Furnished on-campus student housing provided at Zewail City residential halls in 6th of October City / Giza, or housing allowance.",
+      "amount": "Free on-campus student housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "EGP 12,000 to 16,000 / month living stipend (~PKR 70,000 to 95,000 / month) provided as a graduate research fellowship.",
+      "amount": "EGP 12,000 - 16,000 / month (~PKR 70,000 - 95,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International airfare between Pakistan and Cairo International Airport is self-funded.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Egyptian student residence visa administrative fee (~EGP 1,500) facilitated by Zewail City International Student Affairs.",
+      "amount": "EGP 1,500 borne by candidate"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive health insurance plan covering primary care at Zewail City medical clinic and affiliated Cairo hospital network.",
+      "amount": "100% Comprehensive Health Insurance Covered"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized campus cafeterias and dining halls located on Zewail City campus.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full digital access to Zewail City central library, IEEE Xplore, ScienceDirect, Nature journals, and advanced research computation servers.",
+      "amount": "Full digital library and high-performance computing access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Full access to Nobel Laureate Ahmed Zewail research centers: Center for Aging and Associated Diseases, Center for Nanotechnology, and Center for Photonics and Smart Materials; conference travel grants available for accepted peer-reviewed papers.",
+      "amount": "World-class research center and lab access"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized Zewail City shuttle bus service connecting campus to Giza, Cairo metro stations, and surrounding residential hubs.",
+      "amount": "Subsidized campus transit network"
+    },
+    "total_estimated_value_usd_per_year": 18000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (Zewail City of Science and Technology - UST, Giza, Egypt).",
+    "participating_institutions": [
+      "Zewail City of Science and Technology",
+      "University of Science and Technology (UST)"
+    ],
+    "university_rankings_scope": "Egypt's national flagship research institute established by Nobel Laureate Ahmed Zewail; ranked #1 in Egypt for research impact per faculty member (Times Higher Education Arab University Rankings).",
+    "available_majors": [
+      "MSc / PhD in Communications and Information Engineering",
+      "MSc / PhD in Nanotechnology and Advanced Materials",
+      "MSc / PhD in Biomedical Sciences",
+      "MSc / PhD in Renewable Energy Engineering",
+      "MSc / PhD in Environmental Engineering",
+      "MSc / PhD in Applied Mathematics and Physics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "MSc: 2 years (24 months); PhD: 3 to 4 years (36-48 months)",
+    "admission_requirements_summary": "HEC-recognized Bachelor's/Master's degree (CGPA >= 3.40/4.00), IELTS 6.5+ or TOEFL 80+, statement of purpose, two letters of recommendation, and successful performance in the departmental technical interview.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Single integrated admissions and fellowship application through the Zewail City graduate admission portal; high technical bar in math and physics.",
+    "strategic_program_match_advice": "Connect your research proposal directly to ongoing projects within Zewail City's flagship research centers (e.g. ultrafast laser science, photonics, cancer genomics, or solar photovoltaic materials)."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.zewailcity.edu.eg/main/admission/",
+    "portal_system_name": "Zewail City Graduate Admissions and Fellowships Portal",
+    "account_creation_instructions": "Register on the Zewail City admission portal (zewailcity.edu.eg), select postgraduate program, upload attested degree certificates, transcripts, English scorecard, CV, research statement, and two referee contacts, pay USD 50 application fee, and submit before May 30.",
+    "step_by_step_workflow": [
+      "Step 1: Explore research centers, faculty profiles, and postgraduate programs on zewailcity.edu.eg.",
+      "Step 2: Create an account on the Zewail City graduate application portal.",
+      "Step 3: Fill in academic background, personal information, and research interests.",
+      "Step 4: Upload attested transcripts, degree certificates, CV, statement of purpose, and research proposal.",
+      "Step 5: Provide details for two academic referees to submit confidential evaluations.",
+      "Step 6: Pay the USD 50 application processing fee online.",
+      "Step 7: Submit the complete application before the deadline (May 30 for Fall intake).",
+      "Step 8: Departmental Academic Committee shortlists candidates based on academic excellence and research synergy.",
+      "Step 9: Attend online technical interview with faculty panel and potential research supervisor.",
+      "Step 10: Fellowship award letters dispatched in July; finalize Egyptian student visa and matriculation."
+    ],
+    "university_vs_scholarship_routing": "Integrated Routing: Admission application automatically considers qualified candidates for full academic fellowships.",
+    "recommendation_letters_submission_method": "Submitted online by two university academic professors directly via confidential portal upload link.",
+    "personal_statement_prompts": "Statement of purpose (750-1000 words) describing scientific curiosity, previous research or capstone experience, why Zewail City, and long-term research ambitions.",
+    "study_plan_research_proposal_requirements": "Detailed 3 to 5-page research proposal for PhD applicants (2-page research concept for MSc) specifying research questions, literature review, methodology, and expected outcomes.",
+    "cv_format_requirements": "Comprehensive academic CV detailing publications, conference presentations, technical software/lab proficiencies, and honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "Technical online panel interview (30-40 minutes) conducted in English via Zoom, assessing domain knowledge, analytical reasoning, and research proposal feasibility.",
+    "standardized_tests": "IELTS Academic 6.5+ or TOEFL iBT 80+.",
+    "application_fee_amount": "USD 50 (~PKR 14,000 non-refundable application fee)",
+    "attestation_requirements": "HEC Pakistan, MoFA Pakistan, and Egyptian Embassy in Islamabad attestations required upon selection.",
+    "translation_requirements": "Certified English translation for all official records.",
+    "final_submission_method": "Online submission via Zewail City Graduate Admissions Portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor's / Master's Degree Certificate",
+      "mandatory": true,
+      "specification": "HEC-attested degree in Engineering, Computer Science, or Physical/Life Sciences with minimum CGPA 3.40 / 4.00.",
+      "pakistan_specific_instruction": "Attested by HEC and MoFA Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete consolidated grade transcripts covering all semesters with marks and credit hours.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Statement of Purpose (SOP)",
+      "mandatory": true,
+      "specification": "Structured statement (750-1000 words) describing scientific research experience, fit with Zewail City, and career aspirations.",
+      "pakistan_specific_instruction": "Highlight alignment with Zewail City research labs."
+    },
+    {
+      "document_name": "Research Proposal / Concept Paper",
+      "mandatory": true,
+      "specification": "Detailed research proposal outlining thesis problem statement, methodology, and expected contribution.",
+      "pakistan_specific_instruction": "Structured scientific research proposal."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Academic CV detailing publications, research assistantships, lab instrumentation skills, and honors.",
+      "pakistan_specific_instruction": "Standard academic layout."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Recommendation letters from university professors assessing research capability and analytical rigor.",
+      "pakistan_specific_instruction": "On official university letterhead."
+    },
+    {
+      "document_name": "Official English Language Test Certificate",
+      "mandatory": true,
+      "specification": "Official IELTS (min 6.5) or TOEFL iBT (min 80) scorecard.",
+      "pakistan_specific_instruction": "Valid official test score report."
+    },
+    {
+      "document_name": "Valid Passport Copy",
+      "mandatory": true,
+      "specification": "Clear scan of passport identity page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Valid Pakistani passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2027-01-15",
+    "application_deadline": "2027-05-30",
+    "university_admission_deadline": "2027-05-30",
+    "document_submission_deadline": "2027-05-30",
+    "recommendation_letters_deadline": "2027-06-15",
+    "interview_period": "June 2027",
+    "shortlist_announcement": "Late June 2027",
+    "final_result_acceptance_deadline": "Within 2 weeks of notification",
+    "visa_application_window": "July to August 2027",
+    "semester_commencement": "2027-09-15",
+    "annual_cycle_notes": "Fall semester intake application deadline is May 30; academic year starts in mid-September."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Undergraduate/Master's GPA, transcript rigor, and mathematics/science performance)",
+    "extracurricular_and_leadership_weight": "5% (Scientific society involvement, tutoring, community outreach)",
+    "research_experience_weight": "30% (Quality of prior research, publications, lab skills, and proposed research paper)",
+    "work_experience_weight": "5% (Relevant industry R&D or engineering internships)",
+    "personal_statement_weight": "10% (Clarity of scientific purpose and motivation for Zewail City)",
+    "recommendations_weight": "5% (Academic referee appraisals and research endorsements)",
+    "interview_weight": "5% (Oral technical interview defense and problem solving)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure academic and scientific merit competition)",
+    "selection_panel_composition": "Zewail City Graduate Council, Research Center Directors, and Department Chairs.",
+    "evaluation_methodology": "Rigorous scientific assessment based on academic track record, research proposal quality, and interview evaluation."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~900 to 1,400 applicants for graduate STEM research programs",
+    "total_scholarships_awarded": "~25 to 40 fully funded research fellowships annually",
+    "acceptance_rate_global": "~3.0%",
+    "acceptance_rate_pakistan": "~4% to 6% among qualified engineering and science graduates",
+    "typical_successful_applicant_gpa": "3.70 / 4.00 with laboratory research or conference publication",
+    "typical_academic_and_research_profile": "Graduates in electrical engineering, computer engineering, physics, or biomedical sciences with strong programming and analytical skills, laboratory experience, and peer-reviewed papers or solid final-year thesis.",
+    "common_backgrounds_of_winners": "Graduates from NUST, PIEAS, GIKI, UET Lahore, and FAST-NUCES.",
+    "high_representation_countries": "Egypt, Pakistan, Sudan, Nigeria, Palestine, Jordan, India.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official Zewail City website https://www.zewailcity.edu.eg/.",
+      "Never pay any money to education consultants or agents promising Zewail City fellowships."
+    ],
+    "application_fee_warning": "Official application fee is USD 50 paid directly through the university portal; fellowship consideration is automatic.",
+    "agent_and_intermediary_warnings": "Zewail City has zero affiliation with recruitment consultants; all research proposals and applications must be original.",
+    "hidden_costs_breakdown": [
+      "Application fee: USD 50 (~PKR 14,000).",
+      "HEC and MoFA document attestations in Pakistan: ~PKR 15,000 - 25,000.",
+      "Egyptian Embassy attestation in Islamabad: ~PKR 12,000 - 18,000.",
+      "Flight from Pakistan to Cairo: ~PKR 130,000 - 190,000.",
+      "Personal living expenses beyond stipend: ~EGP 2,000 - 3,000 / month."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Zewail City is a private business college. Reality: Zewail City is Egypt's premier science and technology research city founded by Nobel Prize winner Ahmed Zewail, heavily focused on deep-tech research.",
+      "Myth: Research fellowships require teaching loads only. Reality: Fellowships are primarily research-oriented, with students working in advanced laboratories."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites claim knowledge of Arabic is required; UST is an English-medium institute where all research, seminars, and courses are 100% in English."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain a minimum cumulative GPA of 3.20 / 4.00 throughout graduate studies.",
+    "attendance_requirements": "Full-time on-campus presence and research commitment; adherence to laboratory safety protocols.",
+    "academic_progress_monitoring": "Semester research progress reports evaluated by the Supervisory Committee and Dean of Graduate Studies.",
+    "work_restrictions_during_study": "Fellows are full-time researchers and may not engage in outside employment during fellowship tenure.",
+    "home_country_return_obligation": "None; zero service bond or mandatory return obligation.",
+    "service_obligations_or_bonds": "Zero service bond; fellows contribute as Research Assistants in assigned research institutes.",
+    "repayment_clawback_conditions": "Termination of fellowship in case of failure to maintain GPA, research stagnancy, or scientific misconduct.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Changing research topic or department requires approval from Graduate Studies Council.",
+    "extension_policy": "Maximum tenure is 24 months for MSc and up to 48 months for PhD based on annual research progress."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "Zewail City Academic Fellowships Portal",
+      "source_url": "https://www.zewailcity.edu.eg/main/content.php?lang=en&alias=fellowships",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Zewail City University of Science and Technology",
+      "source_url": "https://www.zewailcity.edu.eg/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

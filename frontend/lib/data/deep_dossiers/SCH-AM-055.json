@@ -1,0 +1,290 @@
+{
+  "scholarship_id": "SCH-AM-055",
+  "basic_details": {
+    "scholarship_name": "MIT Presidential Graduate Fellowship & Departmental Doctoral Awards",
+    "offering_entity": "Office of Graduate Education (OGE), Massachusetts Institute of Technology",
+    "host_country": "United States",
+    "host_institutions_covered": "Massachusetts Institute of Technology (Cambridge, Massachusetts, USA)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)",
+      "Doctor of Science (ScD)"
+    ],
+    "major_restrictions": "Electrical Engineering and Computer Science (EECS / CSAIL), Mechanical Engineering, Aerospace Engineering (AeroAstro), Chemical Engineering, Materials Science and Engineering, Physics, Mathematics, and Brain & Cognitive Sciences.",
+    "number_of_awards_total": "~100 to 125 prestigious MIT Presidential Fellowships awarded to incoming doctoral scholars annually",
+    "number_of_awards_pakistan": "Open globally on absolute merit; Pakistani scholars in computing, physics, and engineering regularly qualify for full MIT doctoral fellowships (~3 to 6 awards annually)",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Full duration of doctoral program (typically 5 years: first year Presidential Fellowship followed by guaranteed multi-year GRA/GTA appointments)",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "$46,000 to $52,000 / year (approx. $3,830 to $4,330 / month; ~PKR 1,060,000 to 1,200,000 / month) 12-month living stipend plus 100% full tuition waiver and comprehensive health coverage"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Open to international students worldwide including Pakistan as well as U.S. citizens/PR"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No age restriction; selection based purely on exceptional academic and scientific research potential.",
+    "academic_qualifications": "Recognized 16-year Bachelor's or 18-year Master's degree with exceptional academic standing (equivalent to minimum GPA 3.85+ / 4.00 or top 1-2% of graduating class) from an HEC-recognized university.",
+    "minimum_gpa_percentage": 88.0,
+    "minimum_gpa_scale": 3.85,
+    "grading_conversion_notes": "Minimum undergraduate/graduate GPA of 3.85 / 4.0; admitted MIT doctoral candidates are selected based on research impact.",
+    "subject_background_prerequisites": "Computer science, electrical engineering, mechanical engineering, aerospace, physics, mathematics, or related quantitative field.",
+    "current_education_status": "Graduated or final-year undergraduate/master's students completing degree before September.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Peer-reviewed research publications, major open-source software contributions, or mathematical competition awards strongly advantageous.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 100,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 7.0 or TOEFL iBT minimum 100 mandatory for MIT graduate admissions (IELTS preferred by many engineering departments).",
+    "other_language_requirements": "GRE General / Subject tests optional or department-specific.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Candidates must be admitted to an MIT doctoral degree program and nominated by their academic department.",
+    "previous_scholarship_restrictions": "Coordinated with MIT standard multi-year doctoral funding guarantee.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full MIT graduate tuition (Fall, Spring, Summer terms) covered for the full duration of doctoral study.",
+      "amount": "100% covered (~$62,000 / year value; ~PKR 17,200,000 / year)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "MIT graduate application fee of $75 to $95; fee waivers available for eligible applicants via MIT OGE.",
+      "amount": "$75 to $95 (~PKR 21,000 to 26,000) application fee (fee waiver available)"
+    },
+    "accommodation": {
+      "status": "NOT_COVERED",
+      "details": "MIT graduate student residences (The Warehouse, Sidney-Pacific, Tang Hall) or off-campus housing in Cambridge/Somerville funded comfortably via monthly stipend.",
+      "amount": "Funded from stipend (~$1,200 to $1,800 / month rent)"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Guaranteed 12-month living stipend of $46,000 to $52,000 / year ($3,830 to $4,330 / month; ~PKR 1,060,000 to 1,200,000 / month) disbursed semimonthly.",
+      "amount": "$46,000 to $52,000 / year (~$4,000 / month living stipend)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International relocation flights to Boston are self-funded or subsidized by departmental relocation funds.",
+      "amount": "Not covered in standard package"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "U.S. F-1 Student Visa application fee (~$185) and SEVIS I-901 fee (~$350) paid to U.S. Department of State.",
+      "amount": "Approx. $535 borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "MIT Student Extended Insurance Plan (SEIP) and basic student health coverage 100% covered for all doctoral fellows.",
+      "amount": "100% covered comprehensive healthcare (~$4,100 / year value)"
+    },
+    "food_allowance": {
+      "status": "NOT_COVERED",
+      "details": "Dining and groceries covered through monthly living allowance.",
+      "amount": "Covered via stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "World-class compute infrastructure (MIT Supercloud, CSAIL compute clusters), laboratory equipment, and full MIT Libraries access included.",
+      "amount": "100% covered research computing access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Departmental and research group travel funds provide up to $2,000 to $4,000 per year for presenting research papers at major international conferences.",
+      "amount": "Up to $4,000 / year travel funds"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "MIT provides a 100% free MBTA subway and local bus pass to all enrolled graduate students, plus free MIT campus shuttles.",
+      "amount": "100% free unlimited MBTA subway/bus pass"
+    },
+    "total_estimated_value_usd_per_year": 115000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single world-leading engineering and technology institution (Massachusetts Institute of Technology).",
+    "participating_institutions": [
+      "Massachusetts Institute of Technology (Cambridge, Massachusetts, USA)"
+    ],
+    "university_rankings_scope": "QS World University Rankings #1 globally for 13 consecutive years; CSRankings #1 for Computer Science; world's leading center for AI, Robotics, Quantum Information, and Engineering.",
+    "available_majors": [
+      "PhD in Electrical Engineering and Computer Science (EECS / CSAIL / LIDS)",
+      "PhD in Mechanical Engineering",
+      "PhD in Aeronautics and Astronautics (AeroAstro)",
+      "PhD in Chemical Engineering",
+      "PhD in Materials Science and Engineering",
+      "PhD in Physics (Center for Theoretical Physics, Quantum)",
+      "PhD in Mathematics",
+      "PhD in Brain and Cognitive Sciences"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "5 years of full-time doctoral study and research",
+    "admission_requirements_summary": "Bachelor's / Master's degree with 3.85+ GPA, verified transcripts, IELTS 7.0+ or TOEFL 100+, three academic letters of recommendation, CV detailing research outputs, and statement of objectives.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "MIT EECS / CSAIL receives over 4,500 doctoral applications for ~200 spots (acceptance rate ~4%); demonstrating prior peer-reviewed research publications or exceptional engineering contributions is vital.",
+    "strategic_program_match_advice": "Clearly articulate your target research problem, methodology, and how your technical skills match specific MIT research laboratories (CSAIL, Media Lab, LIDS, RLE, Microsystems)."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://gradapply.mit.edu/",
+    "portal_system_name": "MIT Graduate Online Application System (GradApply)",
+    "account_creation_instructions": "Register on the MIT GradApply portal, select target engineering/science department, indicate research areas of interest, upload transcripts, statement of objectives, CV, test scores, and register 3 referees.",
+    "step_by_step_workflow": [
+      "Step 1: Identify MIT faculty and research groups aligning with your background; explore published papers.",
+      "Step 2: Obtain valid IELTS (7.0+) or TOEFL (100+) score report.",
+      "Step 3: Submit PhD application on MIT GradApply portal by December 1 / December 15 deadline.",
+      "Step 4: Upload official academic transcripts, statement of objectives, and curriculum vitae.",
+      "Step 5: Three academic referees submit letters directly into the GradApply system.",
+      "Step 6: Departmental faculty admissions committee reviews applications and nominates top incoming doctoral candidates for MIT Presidential Fellowships.",
+      "Step 7: Successful applicants receive formal admission offer and fellowship award package in February/March.",
+      "Step 8: Accept offer by April 15, receive I-20, and apply for U.S. F-1 Student Visa."
+    ],
+    "university_vs_scholarship_routing": "Integrated Departmental Nomination: Admitted MIT doctoral students receive full multi-year funding guarantees without separate financial aid application.",
+    "recommendation_letters_submission_method": "Submitted online by referees via automated secure electronic appraisal forms.",
+    "personal_statement_prompts": "Statement of objectives (1 to 2 pages) describing research experience, technical problems of interest, and why MIT is the ideal institution for your doctoral training.",
+    "study_plan_research_proposal_requirements": "Incorporated into statement of objectives; publications or thesis samples uploaded under supplementary materials.",
+    "cv_format_requirements": "Standard academic research CV detailing education, publications, conference presentations, awards, and technical proficiencies.",
+    "interviews_conducted": true,
+    "interview_format_details": "Supervisory technical video interviews via Zoom to evaluate problem-solving ability, mathematical rigor, and research compatibility.",
+    "standardized_tests": "IELTS Academic 7.0+ or TOEFL iBT 100+ mandatory; GRE optional/department-specific.",
+    "application_fee_amount": "$75 to $95 (approx. PKR 21,000 to 26,000; fee waiver available via OGE)",
+    "attestation_requirements": "Official HEC verified transcripts required upon final matriculation.",
+    "translation_requirements": "Certified English translation of all non-English transcripts.",
+    "final_submission_method": "100% online submission via MIT GradApply portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Bachelor's / Master's degree with minimum GPA 3.85 / 4.0 from an accredited university.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official English Proficiency Score Report",
+      "mandatory": true,
+      "specification": "IELTS Academic minimum 7.0 (preferred in Engineering) or TOEFL iBT minimum 100.",
+      "pakistan_specific_instruction": "Official electronic score report submitted to MIT."
+    },
+    {
+      "document_name": "Three Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential referee appraisals from research mentors assessing originality and scientific capability.",
+      "pakistan_specific_instruction": "Submitted via institutional email links."
+    },
+    {
+      "document_name": "Statement of Objectives (1 to 2 pages)",
+      "mandatory": true,
+      "specification": "Articulating research passions, technical challenges, and proposed faculty collaborators at MIT.",
+      "pakistan_specific_instruction": "Tailored to MIT research laboratories."
+    },
+    {
+      "document_name": "Detailed Academic Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Listing all academic history, research projects, publications, and technical skills.",
+      "pakistan_specific_instruction": "Highlighting research experience."
+    },
+    {
+      "document_name": "Supplementary Research Papers / Publications",
+      "mandatory": false,
+      "specification": "PDF copies of peer-reviewed journal or conference publications (NeurIPS, ICML, CVPR, IEEE, etc.).",
+      "pakistan_specific_instruction": "Published research papers."
+    },
+    {
+      "document_name": "Valid International Passport Copy",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for minimum 1 year.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "September 1",
+    "application_deadline": "December 1 (EECS, AeroAstro, MechE) / December 15 (Physics, Math, Chemistry)",
+    "university_admission_deadline": "December 15",
+    "document_submission_deadline": "December 15",
+    "recommendation_letters_deadline": "December 20",
+    "interview_period": "January - February",
+    "shortlist_announcement": "February - early March",
+    "final_result_acceptance_deadline": "April 15 (National CGS deadline)",
+    "visa_application_window": "May - July",
+    "semester_commencement": "Late August / early September (Fall intake)",
+    "annual_cycle_notes": "Single annual admission cycle for Fall entry; applications strictly due in early December."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "25% (Academic GPA, transcript rigor, foundational mathematics/physics grades)",
+    "extracurricular_and_leadership_weight": "5% (Scientific outreach, open-source community leadership)",
+    "research_experience_weight": "50% (Demonstrated research originality, peer-reviewed publications, technical problem solving)",
+    "work_experience_weight": "5% (Industry R&D lab experience or software engineering)",
+    "personal_statement_weight": "5% (Clarity of scientific objectives and focus)",
+    "recommendations_weight": "5% (Referee appraisals of research independence)",
+    "interview_weight": "5% (Performance in faculty technical discussions)",
+    "test_scores_weight": "0% (English proficiency is a mandatory threshold)",
+    "financial_need_weight": "0% (Pure academic excellence and research capability)",
+    "selection_panel_composition": "Departmental Faculty Admissions Committees and MIT Office of Graduate Education (OGE).",
+    "evaluation_methodology": "Holistic review prioritizing research depth, originality, peer-reviewed outputs, and scientific match with MIT research laboratories."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~4,500 to 6,000 doctoral applicants in EECS and engineering departments alone",
+    "total_scholarships_awarded": "~100 to 125 MIT Presidential Fellowships awarded campus-wide annually",
+    "acceptance_rate_global": "~3.5% to 4.5% across engineering and sciences",
+    "acceptance_rate_pakistan": "~2.0% to 3.5% for extraordinary applicants with peer-reviewed publications and near-perfect GPAs",
+    "typical_successful_applicant_gpa": "Undergraduate GPA >= 3.90 / 4.00, typically with 1 to 3 peer-reviewed publications in top IEEE, ACM, or Nature-indexed venues",
+    "typical_academic_and_research_profile": "Scholars holding bachelor's or research master's degrees with exceptional quantitative skills, peer-reviewed publications, and compelling research visions.",
+    "common_backgrounds_of_winners": "Graduates from premier Pakistani universities (NUST, LUMS, FAST-NUCES, GIKI, PIEAS, UET) and international graduate programs.",
+    "high_representation_countries": "USA, China, India, Canada, Pakistan, South Korea, Germany, Singapore, Turkey.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official MIT website at gradapply.mit.edu.",
+      "MIT never employs educational agencies or brokers for graduate admissions."
+    ],
+    "application_fee_warning": "Application fee of $75 to $95 is paid directly through the secure GradApply portal; fee waivers are available for eligible applicants.",
+    "agent_and_intermediary_warnings": "Commercial agencies cannot influence MIT admissions; fraudulent applications result in permanent bans.",
+    "hidden_costs_breakdown": [
+      "Application fee: $75 to $95 (waiver available).",
+      "U.S. Visa & SEVIS fees: ~$535 (~PKR 148,000).",
+      "IELTS or TOEFL test fees: ~PKR 55,000 to 65,000.",
+      "Relocation flight to Boston: ~PKR 250,000 to 350,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: MIT doctoral students must pay tuition. Reality: 100% of admitted MIT doctoral students receive full tuition coverage, health insurance, and a generous 12-month living stipend ($46k-$52k/yr).",
+      "Myth: You need a master's degree to apply to MIT. Reality: Students holding a 4-year Bachelor's degree are directly eligible to apply to MIT PhD programs."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently quote outdated stipend values; current verified MIT 12-month doctoral stipend is $46,000 to $52,000."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must maintain satisfactory academic progress and minimum B+ (4.0/5.0 scale at MIT) average in graduate coursework.",
+    "attendance_requirements": "Full-time resident study in Cambridge and active contribution to research laboratory projects.",
+    "academic_progress_monitoring": "Annual progress reviews and doctoral qualification examinations administered by the department.",
+    "work_restrictions_during_study": "Teaching Assistant or Research Assistant appointments are integrated into doctoral training; outside employment is restricted.",
+    "home_country_return_obligation": "None; graduates are eligible for 3-year U.S. STEM OPT work authorization.",
+    "service_obligations_or_bonds": "Obligation to fulfill designated departmental research or teaching duties.",
+    "repayment_clawback_conditions": "Funding terminated if student withdraws or fails academic milestones.",
+    "rules_for_changing_university": "Non-transferable to other institutions.",
+    "rules_for_changing_major": "Requires approval from graduate program committee and faculty supervisor.",
+    "extension_policy": "Full guaranteed funding for 5 years; dissertation completion support available for year 6."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "MIT Office of Graduate Education (OGE) Fellowships",
+      "source_url": "https://odge.mit.edu/finances/fellowships/office-fellowships/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "MIT Electrical Engineering & Computer Science (EECS) Graduate Financial Support",
+      "source_url": "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/financial-support/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

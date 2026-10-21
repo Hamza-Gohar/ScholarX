@@ -1,0 +1,286 @@
+{
+  "scholarship_id": "SCH-EU-079",
+  "basic_details": {
+    "scholarship_name": "University of Edinburgh Edinburgh Global Research Scholarship",
+    "offering_entity": "University of Edinburgh (Scholarships and Student Funding Services)",
+    "host_country": "United Kingdom",
+    "host_institutions_covered": "University of Edinburgh (Old College, King's Buildings, and Edinburgh BioQuarter)",
+    "degree_levels": [
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "Full-time doctoral research across all academic disciplines, with high concentration in Informatics, Computer Science, Data Science, Engineering, Medicine, and Physical Sciences.",
+    "number_of_awards_total": "~30 prestigious Edinburgh Global Research Scholarships awarded annually across all colleges",
+    "number_of_awards_pakistan": "Open globally to all overseas fee-status doctoral applicants; typically 2 to 4 Pakistani researchers awarded per year",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "36 months (3 full years of doctoral funding)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "International fee-status applicants from all countries worldwide including Pakistan"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 0,
+    "age_limit_notes": "No statutory age limit under University of Edinburgh regulations.",
+    "academic_qualifications": "Recognized 18-year Master's degree (MS / MPhil) or high First Class 16-year Bachelor's degree from an HEC-recognized institution with minimum CGPA 3.60 / 4.00 (80%+).",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.6,
+    "grading_conversion_notes": "Minimum CGPA 3.60 / 4.00 or UK First Class Honours equivalent; competitive candidates typically hold CGPA >= 3.80 / 4.00.",
+    "subject_background_prerequisites": "Must have applied for admission to a full-time PhD programme at the University of Edinburgh and received an active student UUN before the scholarship deadline.",
+    "current_education_status": "Master's graduate or final-year master's student with verified academic research record.",
+    "graduation_year_restrictions": "No restriction on year of graduation.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Prior research experience, journal publications, or conference presentations substantially improve competitive standing.",
+    "english_test_required": true,
+    "ielts_minimum": 7.0,
+    "toefl_minimum": 100,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic minimum 7.0 (no band below 6.5) or TOEFL iBT minimum 100 (no section below 22). MOI certificates are not accepted.",
+    "other_language_requirements": "Instruction is 100% in English.",
+    "gender_specific_requirements": "Open equally to all candidates.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Merit-based competition evaluating academic excellence and research potential.",
+    "previous_scholarship_restrictions": "Cannot hold another full UK Research Council or Commonwealth award simultaneously.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "Covers the difference between the tuition fee for a UK/home student and that chargeable to an overseas student, plus full College home fee waiver, ensuring 100% tuition coverage.",
+      "amount": "100% Full Tuition Coverage (~GBP 30,000/year value)"
+    },
+    "admission_application_fee": {
+      "status": "COVERED",
+      "details": "Applying for PhD research degrees at Edinburgh is free of charge.",
+      "amount": "GBP 0"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "Funded directly from the monthly living stipend; University Accommodation Services assists with university postgraduate apartments.",
+      "amount": "Fully funded via living stipend"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "GBP 1,600 / month living stipend (~PKR 595,000 / month | ~GBP 19,237 / year matching UKRI doctoral rates).",
+      "amount": "GBP 1,600 / month (~PKR 595,000/mo)"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel between Pakistan and Edinburgh is self-funded.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "UK Student Visa fee (~GBP 490) and Immigration Health Surcharge (~GBP 776/year) covered by candidate or research group top-up.",
+      "amount": "UK Visa & IHS fees borne by candidate"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Full access to the UK National Health Service (NHS) for the duration of the doctoral studies.",
+      "amount": "100% NHS Healthcare access"
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Covered via monthly GBP 1,600 living stipend plus access to campus cafeterias across Central and King's Buildings campuses.",
+      "amount": "Fully funded via living stipend"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full digital and archival access to University of Edinburgh Main Library and Alan Turing Institute partner networks.",
+      "amount": "Full university and Turing Institute access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Research Training Support Grant (RTSG) provided by host school for laboratory consumables and conference travel.",
+      "amount": "GBP 1,000 to 2,500 / year RTSG allowance"
+    },
+    "travel_transit_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Subsidized Lothian bus student ridacard across Edinburgh transit network.",
+      "amount": "Subsidized Edinburgh city transit"
+    },
+    "total_estimated_value_usd_per_year": 52000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single host university (University of Edinburgh, Edinburgh, Scotland, UK).",
+    "participating_institutions": [
+      "University of Edinburgh"
+    ],
+    "university_rankings_scope": "World top 30 university (QS World University Rankings); #1 in the UK for computing and informatics research power (REF 2021).",
+    "available_majors": [
+      "PhD in Computer Science & Informatics",
+      "PhD in Data Science & Machine Learning",
+      "PhD in Artificial Intelligence & Robotics",
+      "PhD in Engineering & Electronics",
+      "PhD in Precision Medicine & Genomics",
+      "PhD in Mathematical Sciences & Statistics"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "3 years (36 months full-time research)",
+    "admission_requirements_summary": "Master's degree (CGPA >= 3.60 / 4.00), prior agreement with prospective Edinburgh doctoral supervisor, comprehensive research proposal, CV, two academic references, and IELTS 7.0+.",
+    "is_admission_separate_from_scholarship": true,
+    "pre_admission_acceptance_letter_required": true,
+    "easiest_hardest_institutions_guidance": "Must apply for PhD admission by mid-December to obtain a University Username (UUN) before applying for the scholarship by January 22.",
+    "strategic_program_match_advice": "Align research proposal with Edinburgh's flagship research centers (School of Informatics, Bayes Centre, or Usher Institute)."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.ed.ac.uk/student-funding/postgraduate/international/global/research",
+    "portal_system_name": "MyEd Applicant Portal & EUCLID Admissions System",
+    "account_creation_instructions": "Step 1: Contact potential supervisor and submit PhD application via EUCLID. Step 2: Receive 8-digit University User Number (UUN) and MyEd login. Step 3: Access the Scholarship and Funding section in MyEd and complete the Edinburgh Global Research Scholarship online form before January 22.",
+    "step_by_step_workflow": [
+      "Step 1: Identify and secure informal support from a prospective PhD supervisor at Edinburgh.",
+      "Step 2: Submit a formal application for admission to a PhD research programme via the University of Edinburgh Degree Finder by early January.",
+      "Step 3: Receive EUCLID login details and MyEd account access.",
+      "Step 4: Navigate to the 'Scholarship and Funding' channel within MyEd.",
+      "Step 5: Complete and submit the Edinburgh Global Research Scholarship application form before January 22, 23:59 GMT.",
+      "Step 6: School Selection Panels rank eligible applicants and nominate candidates to the Central College Committee.",
+      "Step 7: College Selection Committees review nominations in February and March.",
+      "Step 8: Final scholarship decisions announced via email in mid-April."
+    ],
+    "university_vs_scholarship_routing": "Separate Routing: Candidates must first submit a PhD programme application, obtain a UUN, and then apply separately for the scholarship via the MyEd portal.",
+    "recommendation_letters_submission_method": "Submitted as part of the formal PhD application via EUCLID referee upload link.",
+    "personal_statement_prompts": "Structured statement within the scholarship application explaining research novelty, scholarly background, and why Edinburgh is the ideal research environment.",
+    "study_plan_research_proposal_requirements": "Detailed research proposal (maximum 1,500 to 2,000 words) outlining objectives, state-of-the-art, methodology, and 3-year research plan.",
+    "cv_format_requirements": "Academic CV detailing qualifications, publications, awards, and technical expertise.",
+    "interviews_conducted": true,
+    "interview_format_details": "Departmental interview conducted by prospective supervisor and second assessor to evaluate doctoral aptitude.",
+    "standardized_tests": "IELTS Academic 7.0+ (min 6.5 each) or TOEFL iBT 100+ (min 22 each).",
+    "application_fee_amount": "GBP 0 (Free to apply for PhD admission and scholarship)",
+    "attestation_requirements": "HEC degree attestation required for Pakistani applicants.",
+    "translation_requirements": "Certified English translation for all official records.",
+    "final_submission_method": "Online submission via MyEd Student Portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Bachelor and Master Degree Certificates",
+      "mandatory": true,
+      "specification": "HEC-attested degrees with First Class / Distinction (minimum CGPA 3.60 / 4.00).",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Official Academic Transcripts",
+      "mandatory": true,
+      "specification": "Complete transcripts showing all courses, grades, and grading scheme.",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Doctoral Research Proposal",
+      "mandatory": true,
+      "specification": "Structured research proposal (1,500-2,000 words) with bibliography and timeline.",
+      "pakistan_specific_instruction": "Formulated with Edinburgh supervisor."
+    },
+    {
+      "document_name": "Prospective Supervisor Support Letter",
+      "mandatory": true,
+      "specification": "Letter of endorsement from prospective Edinburgh academic supervisor.",
+      "pakistan_specific_instruction": "Obtained directly from Edinburgh faculty member."
+    },
+    {
+      "document_name": "Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Academic CV highlighting publications, projects, and research skills.",
+      "pakistan_specific_instruction": "Standard layout."
+    },
+    {
+      "document_name": "Two Academic Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential referee appraisals submitted directly to EUCLID.",
+      "pakistan_specific_instruction": "On official institutional letterhead."
+    },
+    {
+      "document_name": "English Language Test Scorecard",
+      "mandatory": true,
+      "specification": "Official IELTS (min 7.0) or TOEFL iBT (min 100) certificate.",
+      "pakistan_specific_instruction": "Valid test score report."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "2026-10-01",
+    "application_deadline": "2027-01-22",
+    "university_admission_deadline": "2027-01-08",
+    "document_submission_deadline": "2027-01-22",
+    "recommendation_letters_deadline": "2027-01-22",
+    "interview_period": "January to February 2027",
+    "shortlist_announcement": "Late March 2027",
+    "final_result_acceptance_deadline": "Within 3 weeks of award letter",
+    "visa_application_window": "May to July 2027",
+    "semester_commencement": "2027-10-01",
+    "annual_cycle_notes": "January 22 (23:59 GMT) is the strict scholarship deadline; admission application must be submitted at least 2 weeks earlier to generate UUN."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "40% (Undergraduate and postgraduate academic record, class rank, and honors)",
+    "extracurricular_and_leadership_weight": "5% (Academic service, peer mentorship, or scientific outreach)",
+    "research_experience_weight": "35% (Quality, originality, and feasibility of research proposal, publication record)",
+    "work_experience_weight": "5% (Professional research or development experience)",
+    "personal_statement_weight": "10% (Clarity of motivation and strategic fit with Edinburgh research groups)",
+    "recommendations_weight": "5% (Supervisor endorsement and referee appraisals)",
+    "interview_weight": "0% (Departmental interview feeds into supervisor nomination)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Pure academic and research excellence evaluation)",
+    "selection_panel_composition": "College Postgraduate Studies Committees and Central University Scholarships Selection Committee.",
+    "evaluation_methodology": "Two-tier review: departmental ranking of candidates followed by college-wide competitive panel assessment."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,000 to 1,500 doctoral applicants applying across colleges",
+    "total_scholarships_awarded": "~30 scholarships awarded annually university-wide",
+    "acceptance_rate_global": "~2.5%",
+    "acceptance_rate_pakistan": "~3% to 4% among shortlisted candidates with master's degrees and publications",
+    "typical_successful_applicant_gpa": "3.85 / 4.00 (First Class with Distinction and first-author publications)",
+    "typical_academic_and_research_profile": "Scholars in informatics, AI, biomedical data, or physics with high citations, top conference papers, and supervisor backing.",
+    "common_backgrounds_of_winners": "Graduates from NUST, LUMS, GIKI, Quaid-i-Azam University, and FAST-NUCES.",
+    "high_representation_countries": "United Kingdom, Pakistan, India, China, Italy, United States, Canada, Nigeria.",
+    "competitiveness_tier": "EXTREME"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official University of Edinburgh portal https://www.ed.ac.uk/ and MyEd.",
+      "Beware of fraudulent agents charging fees for admission or scholarship sponsorship."
+    ],
+    "application_fee_warning": "Applying for PhD admission and the Edinburgh Global Research Scholarship is completely free.",
+    "agent_and_intermediary_warnings": "University of Edinburgh does not collaborate with education consultants for postgraduate research scholarships.",
+    "hidden_costs_breakdown": [
+      "Application fee: GBP 0 (Free).",
+      "UK Student Visa application fee: ~GBP 490 (~PKR 180,000).",
+      "Immigration Health Surcharge (IHS): ~GBP 776 per year (~PKR 290,000/yr).",
+      "Edinburgh rental deposit: ~GBP 650 - 950 (~PKR 240,000 - 350,000).",
+      "Flight from Pakistan to Edinburgh: ~PKR 160,000 to 230,000."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: You can apply for the scholarship on the deadline day without applying for admission. Reality: You cannot access the MyEd scholarship form without an existing PhD application submitted well in advance.",
+      "Myth: The scholarship covers only tuition fees. Reality: The award combines tuition fee coverage with full UKRI-rate living stipends (GBP 1,600/month)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial blogs suggest supervisor contact is optional; Edinburgh faculty explicitly state that unendorsed proposals are virtually never funded."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Successful annual review and progression through formal doctoral milestone reviews.",
+    "attendance_requirements": "Full-time research commitment on campus at the University of Edinburgh.",
+    "academic_progress_monitoring": "Annual progress reviews conducted by the School Postgraduate Research Board.",
+    "work_restrictions_during_study": "Scholars may undertake demonstrator or tutorial teaching duties up to 6 hours per week with supervisor approval.",
+    "home_country_return_obligation": "None; zero service bond or return obligation.",
+    "service_obligations_or_bonds": "Zero service bond.",
+    "repayment_clawback_conditions": "Termination of funding if doctoral candidate fails annual review or discontinues studies without cause.",
+    "rules_for_changing_university": "Non-transferable to other UK institutions.",
+    "rules_for_changing_major": "Topic adjustments within the agreed project area permitted with supervisor approval.",
+    "extension_policy": "Strictly limited to 36 months (3 years) of funding."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "University of Edinburgh Global Research Scholarships Portal",
+      "source_url": "https://www.ed.ac.uk/student-funding/postgraduate/international/global/research",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "University of Edinburgh Postgraduate Study Finder",
+      "source_url": "https://www.ed.ac.uk/studying/postgraduate",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}

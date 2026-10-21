@@ -1,0 +1,123 @@
+{
+  "student_id": "std-pk-cambridge-006",
+  "session_id": "sess-aisha-cambridge",
+  "personal": {
+    "name": "Aisha Siddiqui",
+    "nationality": "PK",
+    "country_of_residence": "PK",
+    "city": "Karachi",
+    "province": "Sindh",
+    "age": 18,
+    "date_of_birth": "2008-01-15",
+    "gender": "Female",
+    "cnic": "42101-9876543-2",
+    "passport_number": "KC9876543",
+    "passport_valid_until": "2034-05-20"
+  },
+  "academic": {
+    "current_level": "Intermediate",
+    "education_system": "CAMBRIDGE",
+    "years_of_education": 12,
+    "field_of_study": "Pre-Engineering / Computing",
+    "board_university": "Cambridge Assessment International Education (CIE)",
+    "institution": "Karachi Grammar School (KGS)",
+    "grading_system": "CAMBRIDGE_LETTER_GRADES",
+    "a_level_grades": ["A*", "A", "A"],
+    "o_level_grades": ["A*", "A*", "A*", "A*", "A", "A", "A", "B"],
+    "ibcc_equivalence_percentage": 86.7,
+    "ibcc_total_marks": 954,
+    "gpa_percentage": 86.7,
+    "gpa_4_scale": 4.0,
+    "uk_classification": "First Class Honours (1st)",
+    "graduation_year": 2026,
+    "subjects": [
+      "A-Level Mathematics",
+      "A-Level Physics",
+      "A-Level Computer Science"
+    ],
+    "relevant_courses": [
+      "Pure Mathematics P1-P4",
+      "Mechanics & Thermal Physics",
+      "Python Algorithms & Data Structures"
+    ],
+    "gap_years": 0,
+    "hec_attestation_done": false,
+    "ibcc_equivalence_done": false
+  },
+  "language": {
+    "english_proficiency_test": "IELTS Academic",
+    "test_type": "IELTS",
+    "overall_score": 8.0,
+    "ielts_overall": 8.0,
+    "ielts_subbands": {
+      "listening": 8.5,
+      "reading": 8.5,
+      "writing": 7.5,
+      "speaking": 8.0
+    },
+    "toefl_score": null,
+    "duolingo_score": null,
+    "medium_of_instruction_english": true,
+    "moi_certificate_available": true,
+    "native_languages": [
+      "Urdu",
+      "English"
+    ],
+    "has_english_test": true
+  },
+  "standardized_tests": {
+    "sat_total": 1490,
+    "gre_total": null,
+    "gmat_total": null,
+    "hec_hat_score": null,
+    "hec_usat_score": null
+  },
+  "financial": {
+    "max_annual_contribution_pkr": 500000,
+    "max_out_of_pocket_pkr": 300000,
+    "funding_requirement": "FULL",
+    "family_income_bracket_pkr": "MIDDLE",
+    "requires_visa_deposit_aid": true
+  },
+  "preferences": {
+    "target_degree_level": "Bachelor's",
+    "target_fields": [
+      "Computer Science",
+      "Artificial Intelligence",
+      "Software Engineering"
+    ],
+    "preferred_regions": [
+      "Europe",
+      "Asia",
+      "Americas"
+    ],
+    "max_out_of_pocket_pkr": 300000,
+    "funding_requirement": "FULL",
+    "is_tax_filer": true
+  },
+  "documents": {
+    "has_passport": true,
+    "has_transcripts": true,
+    "has_degree_certificate": false,
+    "has_recommendation_letters": true,
+    "has_statement_of_purpose": true,
+    "has_research_proposal": false,
+    "has_police_certificate": false,
+    "has_medical_certificate": false,
+    "has_bank_statement": true
+  },
+  "extracurriculars": {
+    "research_publications": 0,
+    "work_experience_years": 0.0,
+    "community_service_hours": 120,
+    "leadership_roles": [
+      "President, KGS Robotics & Computing Society",
+      "Head Delegate, Harvard Model UN Pakistan"
+    ],
+    "awards_and_honors": [
+      "High Achiever Award - Cambridge International",
+      "National Youth AI Hackathon 2nd Place"
+    ]
+  },
+  "profile_completeness": 95
+}

@@ -1,0 +1,282 @@
+{
+  "scholarship_id": "SCH-EU-002",
+  "basic_details": {
+    "scholarship_name": "DAAD Development-Related Postgraduate Courses (EPOS)",
+    "offering_entity": "German Academic Exchange Service (DAAD) & Federal Ministry for Economic Cooperation and Development (BMZ)",
+    "host_country": "Germany",
+    "host_institutions_covered": "German State Universities (TU Munich, RWTH Aachen, TU Berlin, Univ of Bonn, Freiburg, Stuttgart, Leipzig, etc.)",
+    "degree_levels": [
+      "Master's",
+      "PhD"
+    ],
+    "major_restrictions": "Restricted strictly to accredited development-related postgraduate courses listed in the official DAAD EPOS brochure (Economic Sciences, Development Cooperation, Engineering, Regional Planning, Agriculture, Environmental Sciences, Medicine/Public Health, Social Sciences, Media).",
+    "number_of_awards_total": "~300 to 500 scholarships awarded annually worldwide",
+    "number_of_awards_pakistan": "~30 to 45 awards for Pakistan across various EPOS programs annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "12 to 24 months for Master's; up to 42 months for PhD"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of developing countries on DAC list (Pakistan is fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": null,
+    "age_limit_postgrad": null,
+    "age_limit_notes": "No explicit age limit, but academic degree must NOT be older than 6 years at time of application.",
+    "academic_qualifications": "Completed undergraduate degree (4-year Bachelor's / 16 years education) with above-average results (typically upper third of class).",
+    "minimum_gpa_percentage": 70.0,
+    "minimum_gpa_scale": 3.0,
+    "grading_conversion_notes": "German grade 2.5 or better (equivalent in Pakistan to ~3.0/4.0 CGPA or 70%+ marks).",
+    "subject_background_prerequisites": "Academic background directly matching the chosen EPOS course curriculum.",
+    "current_education_status": "Completed degree; academic degree must have been awarded within the last 6 years.",
+    "graduation_year_restrictions": "Degree certificate date must not exceed 6 years prior to application deadline.",
+    "work_experience_required": true,
+    "work_experience_minimum_years": 2.0,
+    "work_experience_notes": "STRICT MANDATORY REQUIREMENT: At least two years of relevant professional experience AFTER completing bachelor's degree at the time of application.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": false,
+    "language_notes": "IELTS Academic (minimum 6.0 or 6.5 depending on course) or TOEFL iBT (minimum 80). For German-taught courses: DSH 2 or TestDaF 4.",
+    "other_language_requirements": "Basic German is beneficial; DAAD provides a preparatory German course.",
+    "gender_specific_requirements": "None; women professionals strongly encouraged.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants must demonstrate strong motivation to assume social responsibility and drive development in their home country.",
+    "previous_scholarship_restrictions": "Applicants who have been resident in Germany for more than 15 months at the time of application are ineligible.",
+    "can_apply_result_awaiting": false
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "100% COVERED",
+      "details": "100% tuition fees covered (German state universities have no or low tuition; any specialized course tuition is paid by DAAD)."
+    },
+    "admission_application_fee": {
+      "status": "WAIVED",
+      "details": "Handled through direct university application or uni-assist reimbursement voucher."
+    },
+    "accommodation": {
+      "status": "MONTHLY ALLOWANCE",
+      "details": "Covered via monthly scholarship payment; rent subsidy granted where accommodation costs exceed normal threshold."
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly living stipend paid directly by DAAD.",
+      "amount": "€934 / month for Master's; €1,300 / month for PhD (~PKR 280,000 to 390,000 / month)"
+    },
+    "airfare": {
+      "status": "COVERED",
+      "details": "Adequate flat-rate travel allowance for flights between Pakistan and Germany upon arrival and departure."
+    },
+    "visa_fee": {
+      "status": "WAIVED",
+      "details": "German student visa fees waived by the German Embassy in Islamabad / Consulate in Karachi upon presentation of DAAD award letter."
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "Comprehensive health, accident, and personal liability insurance covered directly by DAAD."
+    },
+    "food_allowance": {
+      "status": "COVERED",
+      "details": "Included within monthly stipend."
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "One-off study grant paid annually (€460/year).",
+      "amount": "€460 / year"
+    },
+    "research_funding_conference_grant": {
+      "status": "AVAILABLE UPON APPLICATION",
+      "details": "Field research subsidies and conference attendance grants available for thesis work."
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Preparatory German language course (up to 6 months) with all expenses and accommodation covered in Germany prior to master's start."
+    },
+    "total_estimated_value_usd_per_year": 28000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Applicants may apply for up to three EPOS courses, prioritizing their order of preference (Rank 1, 2, 3) on the DAAD application form.",
+    "participating_institutions": [
+      "TU Munich, RWTH Aachen, TU Berlin, Univ of Bonn, Freiburg, Stuttgart, Hohenheim, Flensburg, Dresden, Leipzig, Hannover, etc."
+    ],
+    "university_rankings_scope": "TU9 German Institutes of Technology and leading research universities.",
+    "available_majors": [
+      "Development Economics",
+      "Water Resources Engineering",
+      "Renewable Energy",
+      "Public Health",
+      "Urban Planning",
+      "Agricultural Economics",
+      "International Media",
+      "Environmental Protection"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "12 to 24 months for Master's",
+    "admission_requirements_summary": "Bachelor's degree, 2+ years verified work experience certificate, employer recommendation letter, Motivation Letter with developmental focus, DAAD form.",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Single application submitted directly to the university coordinator of the respective EPOS master's program (or via DAAD portal depending on course instructions).",
+    "strategic_program_match_advice": "Ensure current employment in Pakistan directly connects to the technical curriculum of the German master's course."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-scholarships/",
+    "portal_system_name": "DAAD Portal & Host University Portals (specified in EPOS brochure)",
+    "account_creation_instructions": "Review EPOS brochure, identify course, apply directly to the university's online admission system, uploading the DAAD application form.",
+    "step_by_step_workflow": [
+      "1. Download and review the latest DAAD EPOS Course Catalogue brochure.",
+      "2. Verify that you have at least 2 years of post-graduation professional work experience.",
+      "3. Secure employer support letter and professional reference on official company letterhead.",
+      "4. Complete the official DAAD Application Form (available on DAAD website).",
+      "5. Write Hand-signed Motivation Letter (max 2 pages) emphasizing developmental relevance to Pakistan.",
+      "6. Format CV in Europass format (hand-signed and dated).",
+      "7. Submit complete dossier to the host university course coordinator before individual course deadline (typically August - November).",
+      "8. University selection committee reviews applications and creates shortlisted ranking.",
+      "9. DAAD central committee confirms scholarship awards (January - March).",
+      "10. Successful applicants attend 2-6 months German language course (if applicable) starting April/July.",
+      "11. Master's program begins in October."
+    ],
+    "university_vs_scholarship_routing": "Integrated routing: Applications are submitted directly to the university running the EPOS course.",
+    "recommendation_letters_submission_method": "Uploaded directly by candidate with hand-signatures, official stamps, and institutional contact details.",
+    "personal_statement_prompts": "Detailed Letter of Motivation (max 2 pages, hand-signed): Academic reasons, professional achievements, why this course in Germany, and how you will apply knowledge in Pakistan.",
+    "study_plan_research_proposal_requirements": "PhD candidates must submit a detailed research proposal approved by a German university professor.",
+    "cv_format_requirements": "Europass CV (must be hand-signed and dated at the bottom).",
+    "interviews_conducted": false,
+    "interview_format_details": "Generally paper-based evaluation; some individual university committees may conduct short technical Zoom interviews.",
+    "standardized_tests": "IELTS Academic or TOEFL iBT. No GRE needed.",
+    "application_fee_amount": "€0.00 in most cases; nominal fee (€75) if course requires preliminary screening via uni-assist.",
+    "attestation_requirements": "HEC degree attestation required for German university enrolment and visa processing.",
+    "translation_requirements": "Certified German or English translation of academic documents.",
+    "final_submission_method": "Submitted online via university portal or DAAD portal according to course instructions."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Completed & Hand-Signed DAAD Application Form",
+      "mandatory": true,
+      "specification": "Official DAAD form with photograph and signatures",
+      "pakistan_specific_instruction": "Must list up to 3 EPOS courses in prioritized order"
+    },
+    {
+      "document_name": "Hand-Signed Europass Curriculum Vitae",
+      "mandatory": true,
+      "specification": "Complete CV in Europass format signed and dated",
+      "pakistan_specific_instruction": "Clearly document exact dates of post-bachelor employment"
+    },
+    {
+      "document_name": "Hand-Signed Letter of Motivation",
+      "mandatory": true,
+      "specification": "Max 2 pages explaining academic and career plans in Pakistan",
+      "pakistan_specific_instruction": "Must establish direct connection to Pakistani developmental goals"
+    },
+    {
+      "document_name": "Official Proof of Minimum 2 Years Work Experience",
+      "mandatory": true,
+      "specification": "Employment letter(s) on company letterhead confirming at least 2 full years",
+      "pakistan_specific_instruction": "Work experience prior to completing bachelor's degree does NOT count"
+    },
+    {
+      "document_name": "Letter of Recommendation from Current Employer",
+      "mandatory": true,
+      "specification": "Signed letter with official stamp and re-employment guarantee if possible",
+      "pakistan_specific_instruction": "Proves employer supports candidate's professional upgrade"
+    },
+    {
+      "document_name": "Academic Reference Letter from University Professor",
+      "mandatory": true,
+      "specification": "Recent reference letter on university letterhead",
+      "pakistan_specific_instruction": "Must include professor's email and contact phone"
+    },
+    {
+      "document_name": "University Degree Certificates & Transcripts",
+      "mandatory": true,
+      "specification": "Degree showing courses, grades, and grading scale (HEC recognized)",
+      "pakistan_specific_instruction": "Degree must not be older than 6 years"
+    },
+    {
+      "document_name": "English Language Test Certificate",
+      "mandatory": true,
+      "specification": "IELTS Academic (min 6.0/6.5) or TOEFL iBT (min 80)",
+      "pakistan_specific_instruction": "Must be valid at the time of application"
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "May - August annually (varies by course)",
+    "application_deadline": "August 31 to November 30 annually (each course sets its own deadline)",
+    "university_admission_deadline": "Coincides with EPOS application deadline",
+    "document_submission_deadline": "Coincides with course deadline",
+    "recommendation_letters_deadline": "Coincides with course deadline",
+    "interview_period": "December - January (if technical interviews held)",
+    "shortlist_announcement": "January - March annually",
+    "final_result_acceptance_deadline": "April annually",
+    "visa_application_window": "May - July (German Embassy student visa appointment)",
+    "semester_commencement": "October (Winter Semester)",
+    "annual_cycle_notes": "Very strict 6-year degree expiration rule and 2-year post-graduation work experience cutoff."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "25% (Quality of undergraduate degree and grades)",
+    "extracurricular_and_leadership_weight": "10% (Social commitment in home country)",
+    "research_experience_weight": "10% (Academic rigor in undergraduate thesis)",
+    "work_experience_weight": "30% (Substantive 2+ years work experience and employer endorsement)",
+    "personal_statement_weight": "20% (Development-oriented motivation letter)",
+    "recommendations_weight": "5% (Employer and academic letters)",
+    "interview_weight": "0% (Unless requested by specific university)",
+    "test_scores_weight": "Gatekeeper requirement (minimum language cutoff)",
+    "financial_need_weight": "0% (Not a criterion)",
+    "selection_panel_composition": "Joint committee of German university course professors and DAAD scholarship selection officers.",
+    "evaluation_methodology": "Two-phase review: Course director sifts for academic and professional fit; DAAD checks regulatory compliance and awards funding."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~8,000 to 12,000 applicants globally across all EPOS courses",
+    "total_scholarships_awarded": "~300 to 500 scholarships globally",
+    "acceptance_rate_global": "~3.5% to 4.5%",
+    "acceptance_rate_pakistan": "~2.5% to 3.5% (Very Competitive)",
+    "typical_successful_applicant_gpa": "3.30 to 3.75 / 4.00 CGPA",
+    "typical_academic_and_research_profile": "Solid academic foundation combined with 2-5 years of real-world public/private/NGO work in Pakistan.",
+    "common_backgrounds_of_winners": "Engineers from WAPDA/NESPAK, urban planners, environmental researchers, ministry staff, agricultural scientists, doctors.",
+    "high_representation_countries": "Pakistan, Vietnam, Colombia, Kenya, Ghana, Indonesia.",
+    "competitiveness_tier": "VERY_HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Commercial visa agents claiming they can bypass the 2-year work experience rule. DAAD checks employment contracts rigorously."
+    ],
+    "application_fee_warning": "DAAD never charges application fees.",
+    "agent_and_intermediary_warnings": "DAAD strictly rejects applications prepared by commercial agencies.",
+    "hidden_costs_breakdown": [
+      "IELTS test fee (~PKR 60,000).",
+      "German Embassy visa processing and courier fees (~PKR 25,000).",
+      "Blocked bank account waiver: DAAD award letter serves as financial guarantee, saving the student from having to deposit €11,208 into a German blocked account!"
+    ],
+    "misleading_claims_debunked": [
+      "MYTH: Internships during university count towards the 2-year work experience rule. (Fact: DAAD strictly counts work experience acquired AFTER completion of the bachelor's degree).",
+      "MYTH: You cannot work in Germany after graduation. (Fact: Germany allows 18-month Job Seeker Visa for all German university graduates; EPOS scholars can utilize this or return to Pakistan)."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Third-party sites frequently give a single generic DAAD deadline; each EPOS course has its own unique deadline between August and November."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Must pass all exams and semester coursework according to German university study regulations.",
+    "attendance_requirements": "Full-time study attendance in Germany.",
+    "academic_progress_monitoring": "Annual progress and transcript checks submitted to DAAD.",
+    "work_restrictions_during_study": "Part-time work permitted up to 120 full days or 240 half days per year under German student visa, but any secondary income above €520/month is deducted from the DAAD stipend.",
+    "home_country_return_obligation": "Scholars are strongly expected to return to Pakistan upon graduation to contribute to national development, though no formal financial bond is enforced.",
+    "service_obligations_or_bonds": "Agreement with employer in Pakistan if study leave was granted.",
+    "repayment_clawback_conditions": "Termination of grant and clawback of funds in cases of academic fraud, unapproved withdrawal, or disciplinary dismissal.",
+    "rules_for_changing_university": "Strictly disallowed; grant is tied to the specific EPOS course.",
+    "rules_for_changing_major": "Strictly prohibited.",
+    "extension_policy": "Extensions are granted only in rare cases of certified illness or unforeseen laboratory delays."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "DAAD Official EPOS Programme Details & Brochure",
+      "source_url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-scholarships/",
+      "source_type": "OFFICIAL_GOVERNMENT",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": [
+        "Exact country quota for Pakistan across individual university courses (allocations depend on committee consensus)",
+        "Course-specific candidate applicant totals"
+      ]
+    }
+  ]
+}

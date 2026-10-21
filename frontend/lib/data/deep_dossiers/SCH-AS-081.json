@@ -1,0 +1,286 @@
+{
+  "scholarship_id": "SCH-AS-081",
+  "basic_details": {
+    "scholarship_name": "Asian Institute of Technology (AIT) Royal Thai Government (RTG) Fellowships",
+    "offering_entity": "Royal Thai Government (RTG) Ministry of Higher Education, Science, Research and Innovation & Asian Institute of Technology (AIT)",
+    "host_country": "Thailand",
+    "host_institutions_covered": "Asian Institute of Technology (Pathum Thani Main Campus, Bangkok Metropolitan Region, Thailand)",
+    "degree_levels": [
+      "Master of Science (MSc)",
+      "Master of Engineering (MEng)",
+      "Doctor of Philosophy (PhD)"
+    ],
+    "major_restrictions": "School of Engineering and Technology (SET), School of Environment, Resources and Development (SERD), and School of Management (SOM) - priority in Civil Engineering, Water Engineering, AI/IoT, Energy, Environmental Management, and Remote Sensing/GIS.",
+    "number_of_awards_total": "~120 to 180 RTG fellowships awarded annually across Master's and Doctoral programs",
+    "number_of_awards_pakistan": "Open to Asian developing countries; typically 15 to 25 Pakistani engineering and environmental science scholars selected annually",
+    "funding_classification": "FULLY_FUNDED",
+    "duration_of_scholarship": "Up to 22-24 months for Master's; up to 36-42 months for PhD",
+    "tuition_waiver_type": "FULL",
+    "monthly_stipend_amount": "His Majesty the King's / Her Majesty the Queen's Fellowships cover 100% full tuition and registration fees (THB 840,000 to 1,260,000 value) plus monthly accommodation and living allowance of THB 11,500 to 15,000 / month (~PKR 86,250 to 112,500 / month)"
+  },
+  "eligibility_requirements": {
+    "nationality_requirements": [
+      "Citizens of Thailand and Asian countries (Pakistan fully eligible)"
+    ],
+    "pakistan_eligible": true,
+    "age_limit_undergrad": 0,
+    "age_limit_postgrad": 40,
+    "age_limit_notes": "No statutory maximum age limit, though priority is given to early-career engineers and researchers.",
+    "academic_qualifications": "Completed recognized 16-year Bachelor's degree with minimum CGPA 3.50/4.00 (for King's/Queen's Full Fellowship) or CGPA 3.00/4.00 (for Loom Nam Khong / RTG Fellowship) from an HEC-recognized university.",
+    "minimum_gpa_percentage": 80.0,
+    "minimum_gpa_scale": 3.5,
+    "grading_conversion_notes": "Minimum CGPA 3.50 / 4.00 for full coverage King's/Queen's awards; CGPA 3.00 / 4.00 for standard RTG fellowship.",
+    "subject_background_prerequisites": "Civil engineering, water resources, environmental engineering, structural engineering, computer science, data science, energy technology, or remote sensing and GIS.",
+    "current_education_status": "Graduated or final-year students completing degree requirements before August/January intake.",
+    "graduation_year_restrictions": "None.",
+    "work_experience_required": false,
+    "work_experience_minimum_years": 0.0,
+    "work_experience_notes": "Work experience in infrastructure development, water governance, or environmental consulting advantageous but not mandatory.",
+    "english_test_required": true,
+    "ielts_minimum": 6.0,
+    "toefl_minimum": 80,
+    "duolingo_accepted": false,
+    "moi_certificate_accepted": true,
+    "language_notes": "IELTS Academic minimum 6.0 (writing 6.0), TOEFL iBT minimum 80, AIT English Language Test (AIT-EET score 6.0), or official English Medium of Instruction (MOI) certificate.",
+    "other_language_requirements": "Thai language proficiency is NOT required; all instruction and research at AIT are conducted 100% in English.",
+    "gender_specific_requirements": "Open equally to all qualified applicants.",
+    "financial_need_required": false,
+    "special_eligibility_categories": "Applicants apply online for AIT admission and select Royal Thai Government (RTG) Fellowship on the financial support section.",
+    "previous_scholarship_restrictions": "Cannot hold any concurrent full scholarship or fellowship.",
+    "can_apply_result_awaiting": true
+  },
+  "financial_coverage_breakdown": {
+    "tuition_fee": {
+      "status": "COVERED",
+      "details": "100% full tuition and registration fee waiver for standard program duration at AIT.",
+      "amount": "100% covered (~THB 840,000 to 1,260,000 total value; ~PKR 6,300,000 to 9,450,000)"
+    },
+    "admission_application_fee": {
+      "status": "NOT_COVERED",
+      "details": "AIT international online application processing fee of USD 25 (or THB 800) paid during portal submission.",
+      "amount": "USD 25 (~PKR 7,000)"
+    },
+    "accommodation": {
+      "status": "COVERED",
+      "details": "On-campus international graduate dormitory accommodation in AIT student villages provided or covered via monthly accommodation allowance.",
+      "amount": "100% covered campus student housing"
+    },
+    "monthly_stipend": {
+      "status": "COVERED",
+      "details": "Monthly tax-free subsistence allowance: THB 11,500 to 15,000 / month (~PKR 86,250 to 112,500 / month) disbursed directly for meals and living costs.",
+      "amount": "THB 11,500 to 15,000 / month"
+    },
+    "airfare": {
+      "status": "NOT_COVERED",
+      "details": "International travel between Pakistan and Bangkok Suvarnabhumi Airport is self-funded.",
+      "amount": "Borne by candidate"
+    },
+    "visa_fee": {
+      "status": "NOT_COVERED",
+      "details": "Thai Non-Immigrant ED Student Visa fee paid directly to the Royal Thai Embassy in Islamabad or Consulate in Karachi.",
+      "amount": "Approx. PKR 15,000 borne by student"
+    },
+    "health_insurance": {
+      "status": "COVERED",
+      "details": "AIT Medical Clinic on-campus healthcare and group health insurance plan covering hospitalization.",
+      "amount": "100% covered medical insurance"
+    },
+    "food_allowance": {
+      "status": "SUBSIDIZED",
+      "details": "Affordable dining across Aobayana and AIT Cafeteria, including dedicated Muslim Halal dining stalls; meals cost THB 40 to 70.",
+      "amount": "Subsidized campus dining"
+    },
+    "books_and_materials_allowance": {
+      "status": "COVERED",
+      "details": "Full access to AIT Library, geoinformatics labs, regional testing centers, and wind tunnel facilities.",
+      "amount": "100% covered laboratory & computing infrastructure access"
+    },
+    "research_funding_conference_grant": {
+      "status": "COVERED",
+      "details": "Fieldwork travel and thesis research grant support provided through host academic department and project grants.",
+      "amount": "Field study & thesis research funding"
+    },
+    "travel_transit_allowance": {
+      "status": "COVERED",
+      "details": "Internal campus bicycle network and shared campus transport, plus shuttle vans to Bangkok Red Line commuter rail station (Rangsit).",
+      "amount": "Campus transit network"
+    },
+    "total_estimated_value_usd_per_year": 18000
+  },
+  "university_and_program_options": {
+    "single_or_multiple_universities": "Single international autonomous regional postgraduate institute (Asian Institute of Technology - AIT).",
+    "participating_institutions": [
+      "Asian Institute of Technology (Pathum Thani Campus, Bangkok Metropolitan Area, Thailand)"
+    ],
+    "university_rankings_scope": "Internationally chartered postgraduate institute founded by SEATO; globally ranked #1 in Thailand and Top 20 globally for SDG 13 (Climate Action) and SDG 6 (Clean Water).",
+    "available_majors": [
+      "Master's / PhD in Water Engineering and Management",
+      "Master's / PhD in Structural Engineering",
+      "Master's / PhD in Geotechnical and Earth Resources Engineering",
+      "Master's / PhD in Data Science and Artificial Intelligence",
+      "Master's / PhD in Energy, Climate Change and Environment",
+      "Master's / PhD in Remote Sensing and Geographic Information Systems (GIS)",
+      "Master's / PhD in Environmental Engineering and Management"
+    ],
+    "english_taught_program_availability": true,
+    "program_duration": "Master's: 2 years; PhD: 3 to 3.5 years",
+    "admission_requirements_summary": "Bachelor's / Master's degree with CGPA >= 3.00/4.00 (3.50+ for King's/Queen's full award), academic transcripts, two recommendation letters, statement of purpose, and English proficiency certificate (IELTS 6.0+ / TOEFL 80+ / MOI).",
+    "is_admission_separate_from_scholarship": false,
+    "pre_admission_acceptance_letter_required": false,
+    "easiest_hardest_institutions_guidance": "Water Engineering, Structural Engineering, and AI/Data Science are premier regional hubs; candidates with CGPA >= 3.60 and solid engineering backgrounds stand the highest chance for King's/Queen's Full Scholarships.",
+    "strategic_program_match_advice": "Focus research statements on regional water security, disaster resilience in the Indus basin, or climate adaptation where AIT holds historic leadership and UN agency links."
+  },
+  "application_process_roadmap": {
+    "submission_portal_url": "https://www.ait.ac.th/admissions/scholarships/royal-thai-government/",
+    "portal_system_name": "AIT Online Admissions System",
+    "account_creation_instructions": "Register on the AIT admissions portal, complete postgraduate application form, select Royal Thai Government (RTG) Fellowship on the financial section, upload credentials, and pay USD 25 fee.",
+    "step_by_step_workflow": [
+      "Step 1: Check eligibility for RTG King's (SET/SOM), Queen's (SERD), or Loom Nam Khong fellowship categories.",
+      "Step 2: Register on AIT admissions portal and complete online application form.",
+      "Step 3: Upload transcripts, degree certificates, statement of purpose, and English proficiency test or MOI.",
+      "Step 4: Register two academic referees who submit evaluation letters online.",
+      "Step 5: Pay USD 25 online application processing fee.",
+      "Step 6: Academic admissions committee and RTG Fellowship Selection Panel evaluate applications.",
+      "Step 7: Shortlisted candidates undergo online interview if required.",
+      "Step 8: Official admission offer and RTG Fellowship award issued in May/June (for August intake).",
+      "Step 9: Apply for Thai Non-Immigrant ED Visa at Thai Embassy in Islamabad and arrive in Bangkok."
+    ],
+    "university_vs_scholarship_routing": "Integrated University Route: Application for admission automatically triggers evaluation for RTG Fellowships based on applicant's CGPA and regional eligibility.",
+    "recommendation_letters_submission_method": "Submitted online by two academic referees via confidential email links generated by AIT portal.",
+    "personal_statement_prompts": "Statement of Purpose describing academic milestones, research interests, career aspirations, and motivation for pursuing a graduate degree at AIT.",
+    "study_plan_research_proposal_requirements": "Structured research concept note (2-3 pages) detailing proposed engineering or environmental research topic and regional relevance.",
+    "cv_format_requirements": "Comprehensive academic CV detailing education, project experience, technical software skills, and honors.",
+    "interviews_conducted": true,
+    "interview_format_details": "Online technical interview via Zoom conducted by prospective supervisor and departmental doctoral admission committee.",
+    "standardized_tests": "IELTS Academic 6.0+, TOEFL iBT 80+, AIT-EET 6.0, or English Medium of Instruction (MOI) certificate accepted.",
+    "application_fee_amount": "USD 25 (approx. PKR 7,000)",
+    "attestation_requirements": "Certified true copies of transcripts and degree certificates; HEC attestation required for Pakistani credentials upon enrollment.",
+    "translation_requirements": "Certified official English translation for all non-English documents.",
+    "final_submission_method": "Online submission via AIT admissions portal."
+  },
+  "required_documents_checklist": [
+    {
+      "document_name": "Official Academic Transcripts and Degree Certificates",
+      "mandatory": true,
+      "specification": "Complete Bachelor's / Master's degree certificates and transcripts with CGPA >= 3.00 (>= 3.50 for King's/Queen's).",
+      "pakistan_specific_instruction": "Attested by HEC Pakistan."
+    },
+    {
+      "document_name": "Statement of Purpose & Research Concept Note",
+      "mandatory": true,
+      "specification": "Statement of purpose and 2-3 page research concept note detailing proposed thesis topic.",
+      "pakistan_specific_instruction": "Structured essay formatted in English."
+    },
+    {
+      "document_name": "Two Letters of Recommendation",
+      "mandatory": true,
+      "specification": "Confidential evaluation letters from academic professors submitted electronically.",
+      "pakistan_specific_instruction": "From previous university professors."
+    },
+    {
+      "document_name": "English Language Proficiency Proof",
+      "mandatory": true,
+      "specification": "IELTS Academic 6.0+, TOEFL iBT 80+, AIT-EET 6.0, or official English Medium of Instruction (MOI) certificate.",
+      "pakistan_specific_instruction": "Score report or MOI letter."
+    },
+    {
+      "document_name": "Curriculum Vitae (CV)",
+      "mandatory": true,
+      "specification": "Comprehensive academic CV detailing education, projects, software proficiencies, and honors.",
+      "pakistan_specific_instruction": "Professional academic CV."
+    },
+    {
+      "document_name": "Passport Identification Page Scan",
+      "mandatory": true,
+      "specification": "Clear color copy of passport bio-data page valid for at least 18 months.",
+      "pakistan_specific_instruction": "Valid passport."
+    }
+  ],
+  "important_dates_timeline": {
+    "application_open_date": "November 1",
+    "application_deadline": "February 28 (Early Round) / March 31 (Strict RTG deadline for August intake)",
+    "university_admission_deadline": "March 31",
+    "document_submission_deadline": "March 31",
+    "recommendation_letters_deadline": "April 7",
+    "interview_period": "April - May",
+    "shortlist_announcement": "May - June",
+    "final_result_acceptance_deadline": "Within 2 to 3 weeks of notification",
+    "visa_application_window": "June - July",
+    "semester_commencement": "August 1 (Fall intake)",
+    "annual_cycle_notes": "Main intake commences in August; application window runs from November to March 31."
+  },
+  "selection_process_and_weights": {
+    "academic_weight": "35% (Prior CGPA, academic consistency in STEM fields)",
+    "extracurricular_and_leadership_weight": "5% (Teamwork, communication, and regional awareness)",
+    "research_experience_weight": "35% (Research proposal rigor, engineering problem solving, and development relevance)",
+    "work_experience_weight": "5% (Professional engineering or field experience)",
+    "personal_statement_weight": "5% (Clarity of vision and commitment to regional development)",
+    "recommendations_weight": "5% (Academic referee evaluation)",
+    "interview_weight": "10% (Technical interview performance with prospective supervisor and faculty panel)",
+    "test_scores_weight": "0% (English proficiency is a qualifying prerequisite)",
+    "financial_need_weight": "0% (Purely merit-driven based on academic CGPA)",
+    "selection_panel_composition": "AIT Admissions Committee, School Deans, and Royal Thai Government Scholarship Board.",
+    "evaluation_methodology": "Two-tier review: academic qualification evaluation by specialized faculty followed by RTG scholarship allocation committee vetting."
+  },
+  "competitiveness_profile": {
+    "total_annual_applicants": "~1,500 to 2,000 international applicants across Asian region",
+    "total_scholarships_awarded": "~120 to 180 RTG awards annually",
+    "acceptance_rate_global": "~7.0% to 9.0%",
+    "acceptance_rate_pakistan": "~12.0% to 16.0% for candidates with strong engineering backgrounds and CGPA >= 3.50",
+    "typical_successful_applicant_gpa": "Undergraduate/Master's CGPA >= 3.55 / 4.00, accompanied by strong engineering foundations",
+    "typical_academic_and_research_profile": "Graduates in civil, environmental, or electrical engineering, water resources, or computer science with clear regional development focus.",
+    "common_backgrounds_of_winners": "Graduates from top Pakistani universities (NUST, UET Lahore, NED Karachi, FAST-NUCES, COMSATS, UET Peshawar).",
+    "high_representation_countries": "Thailand, Pakistan, Vietnam, Myanmar, Nepal, Bangladesh, Indonesia, Cambodia, Sri Lanka.",
+    "competitiveness_tier": "HIGH"
+  },
+  "red_flags_and_warnings": {
+    "fake_websites_and_scams": [
+      "Only apply through official portal ait.ac.th.",
+      "AIT does not work with third-party agents charging fees for scholarships; RTG awards are managed directly by AIT."
+    ],
+    "application_fee_warning": "Application fee of USD 25 is paid directly through the secure AIT online portal.",
+    "agent_and_intermediary_warnings": "Commercial agent proposals are flagged and rejected; applicants must write their own statements and concept notes.",
+    "hidden_costs_breakdown": [
+      "AIT application fee: USD 25 (~PKR 7,000).",
+      "Thai Student Visa fee in Pakistan: ~PKR 15,000.",
+      "HEC document attestation in Pakistan: ~PKR 10,000 to 15,000.",
+      "One-way flight to Bangkok: ~PKR 85,000 to 125,000.",
+      "Initial pocket money before first stipend cycle: ~THB 10,000 (~PKR 75,000)."
+    ],
+    "misleading_claims_debunked": [
+      "Myth: Thai language is required. Reality: AIT is an international institute; 100% of instruction and research is in English.",
+      "Myth: Flight ticket included. Reality: Flights to Bangkok are self-funded by the student."
+    ],
+    "official_vs_unofficial_discrepancies": [
+      "Unofficial sites claim RTG only covers tuition; King's and Queen's awards cover both 100% tuition and monthly living/accommodation stipends."
+    ]
+  },
+  "scholarship_obligations_and_terms": {
+    "minimum_gpa_maintenance": "Maintain minimum semester GPA of 3.00 out of 4.00 to retain the fellowship each semester.",
+    "attendance_requirements": "Full-time physical research presence at AIT Pathum Thani campus; participation in research seminars and departmental duties.",
+    "academic_progress_monitoring": "Semi-annual progress report evaluated by academic advisor and presented to Dean's office.",
+    "work_restrictions_during_study": "Scholars may not engage in outside employment; limited on-campus student assistantships permitted.",
+    "home_country_return_obligation": "None; scholars are free to seek international careers, postdoc opportunities, or industrial employment globally upon graduation.",
+    "service_obligations_or_bonds": "Zero national service bond.",
+    "repayment_clawback_conditions": "Termination of fellowship if GPA falls below 3.00 across consecutive terms or for disciplinary dismissal.",
+    "rules_for_changing_university": "Non-transferable to other universities.",
+    "rules_for_changing_major": "Field of research cannot be changed without written permission from faculty dean and RTG committee.",
+    "extension_policy": "Extensions beyond standard 22 months (Master's) or 36 months (PhD) are generally not funded by RTG."
+  },
+  "official_sources_verified": [
+    {
+      "source_name": "AIT Royal Thai Government (RTG) Fellowships Official Guide",
+      "source_url": "https://www.ait.ac.th/admissions/scholarships/royal-thai-government/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    },
+    {
+      "source_name": "Asian Institute of Technology Admissions Portal",
+      "source_url": "https://www.ait.ac.th/",
+      "source_type": "OFFICIAL_UNIVERSITY",
+      "verified_date": "2026-10-07",
+      "data_points_missing_or_unpublished_by_source": []
+    }
+  ]
+}
