@@ -9,7 +9,7 @@ ScholarX pairs deterministic validation logic with a multi-agent backend to eval
 ## Table of Contents
 
 - [Core Design](#core-design)
-- [Multi-Agent Architecture](#multi-agent-architecture)
+- [System Architecture](#system-architecture)
 - [Quickstart](#quickstart)
 - [Configuration and Environment Variables](#configuration-and-environment-variables)
 - [Developer Commands](#developer-commands)
@@ -31,52 +31,110 @@ ScholarX avoids common LLM pitfalls by separating math and rules from language g
 
 ---
 
-## Multi-Agent Architecture
+## System Architecture
 
-ScholarX routes each applicant profile through a 10-node LangGraph pipeline with four primary agents:
+ScholarX executes admissions intelligence through a structured pipeline supervised by an Orchestrator Agent. The architecture separates qualitative reasoning (**Agents**, powered by LLMs) from deterministic calculations (**Workflows**, executed in Python):
 
-```text
-                    Candidate Profile / Resume
-                               │
-                               ▼
-                   ┌───────────────────────┐
-                   │ Deterministic Intake  │ Validates GPA, degree type,
-                   │  & Benchmark Engine   │ and Pakistan equivalence
-                   └───────────┬───────────┘
-                               │
-                               ▼
-                 ┌───────────────────────────┐
-                 │  10-Node LangGraph Graph  │
-                 └─────────────┬─────────────┘
-                               │
-       ┌───────────────────────┼──────────────────────┐
-       ▼                       ▼                      ▼
-┌──────────────┐       ┌───────────────┐      ┌───────────────┐
-│ Scout Agent  │       │Evaluator Agent│      │ Skeptic Agent │
-│ Matches 310+ │──────►│ Audits hard   │─────►│ Red-teams     │
-│ scholarship  │       │ requirements  │      │ risks, flaws, │
-│ dossiers     │       │ and criteria  │      │ and gaps      │
-└──────────────┘       └───────────────┘      └───────┬───────┘
-                                                      │
-                                                      ▼
-                                             ┌─────────────────┐
-                                             │  Roadmap Agent  │
-                                             │ Sets milestones │
-                                             │ and checklist   │
-                                             └────────┬────────┘
-                                                      │
-                                                      ▼
-                                             ┌─────────────────┐
-                                             │ Command Theatre │
-                                             │ Live SSE stream │
-                                             │ & PDF dossiers  │
-                                             └─────────────────┘
+```mermaid
+flowchart TD
+    subgraph ORCHESTRATOR["ORCHESTRATOR AGENT (System Supervisor)"]
+        direction TB
+        PA["PROFILE ANALYSER<br/><i>(Agent)</i>"]
+        DC["DISCOVERY COMMANDER<br/><i>(Agent)</i>"]
+        
+        subgraph SCOUTS["REGIONAL SCOUTS (Workflow)"]
+            direction LR
+            AM["AMERICA"]
+            AS["ASIA"]
+            EU["EUROPE"]
+            ME["MENA"]
+            AU["AUSTRALIA"]
+        end
+        
+        EI["ELIGIBILITY INVESTIGATOR<br/><i>(Workflow)</i>"]
+        TCA["TRUE COST ANALYZER<br/><i>(Workflow)</i>"]
+        DLC["DEADLINE CHECKER<br/><i>(Workflow)</i>"]
+        SK["SKEPTIC AGENT<br/><i>(Agent)</i>"]
+        SE["SYNTHESIS ENGINE<br/><i>(Workflow)</i>"]
+        RE["RANKING ENGINE<br/><i>(Workflow)</i>"]
+        AA["ADVISER AGENT<br/><i>(Agent)</i>"]
+        
+        PA --> DC
+        DC --> SCOUTS
+        SCOUTS --> EI
+        EI --> TCA
+        TCA --> DLC
+        DLC --> SK
+        SK --> SE
+        SE --> RE
+        RE --> AA
+    end
 ```
 
-- **Scout Agent**: Filters 310 deep scholarship dossiers and web search APIs to find high-fit programs based on field of study, destination, and financial requirements.
-- **Evaluator Agent**: Verifies candidate qualifications against program requirements (GPA, IELTS/TOEFL, publications, and eligibility windows).
-- **Skeptic Agent**: Identifies application risks, unstated competition factors, visa hurdles, and profile gaps before submission.
-- **Roadmap Agent**: Compiles findings into chronological milestones with deadline tracking.
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│                          ORCHESTRATOR AGENT                            │
+│                                                                        │
+│                      ┌──────────────────────┐                          │
+│                      │   PROFILE ANALYSER   │ ──► AGENT                │
+│                      └──────────┬───────────┘                          │
+│                                 ▼                                      │
+│                      ┌──────────────────────┐                          │
+│                      │ DISCOVERY COMMANDER  │ ──► AGENT                │
+│                      └──────────┬───────────┘                          │
+│                                 ▼                                      │
+│         ┌────────────────────────────────────────────────────┐         │
+│         │                      WORKFLOW                      │         │
+│         │ ┌─────────┐ ┌──────┐ ┌────────┐ ┌──────┐ ┌───────┐ │         │
+│         │ │ AMERICA │ │ ASIA │ │ EUROPE │ │ MENA │ │AUSTRAL│ │         │
+│         │ └─────────┘ └──────┘ └────────┘ └──────┘ └───────┘ │         │
+│         └───────────────────────┬────────────────────────────┘         │
+│                                 ▼                                      │
+│                      ┌──────────────────────┐                          │
+│                      │ELIGIBILITY INVESTIGAT│ ──► WORKFLOW             │
+│                      └──────────┬───────────┘                          │
+│                                 ▼                                      │
+│                      ┌──────────────────────┐                          │
+│                      │  TRUE COST ANALYZER  │ ──► WORKFLOW             │
+│                      └──────────┬───────────┘                          │
+│                                 ▼                                      │
+│                      ┌──────────────────────┐                          │
+│                      │   DEADLINE CHECKER   │ ──► WORKFLOW             │
+│                      └──────────┬───────────┘                          │
+│                                 ▼                                      │
+│                      ┌──────────────────────┐                          │
+│                      │    SKEPTIC AGENT     │ ──► AGENT                │
+│                      └──────────┬───────────┘                          │
+│                                 ▼                                      │
+│                      ┌──────────────────────┐                          │
+│                      │   SYNTHESIS ENGINE   │ ──► WORKFLOW             │
+│                      └──────────┬───────────┘                          │
+│                                 ▼                                      │
+│                      ┌──────────────────────┐                          │
+│                      │    RANKING ENGINE    │ ──► WORKFLOW             │
+│                      └──────────┬───────────┘                          │
+│                                 ▼                                      │
+│                      ┌──────────────────────┐                          │
+│                      │    ADVISER AGENT     │ ──► AGENT                │
+│                      └──────────────────────┘                          │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+### Pipeline Components
+
+| Stage | Classification | Responsibility |
+| :--- | :--- | :--- |
+| **Orchestrator Agent** | Agent (Director) | Oversees the full pipeline, coordinates state transitions, and manages SSE telemetry streams. |
+| **Profile Analyser** | Agent | Extracts candidate academic credentials, normalizes Pakistani grading systems (BISE/FBISE), Cambridge A-Levels, and English requirements. |
+| **Discovery Commander** | Agent | Translates normalized candidate goals into targeted regional queries across scholarship databases and search scrapers. |
+| **Regional Scouts** | Workflow | Five parallel pipelines scanning 310+ deep dossiers across America, Asia, Europe, MENA, and Australia. |
+| **Eligibility Investigator** | Workflow | Applies deterministic 15-dimension audits to verify hard requirements: HEC degree recognition, 16-year equivalence, GPA cutoffs, and age caps. |
+| **True Cost Analyzer** | Workflow | Calculates 4-phase expenses in Pakistani Rupees (PKR): initial test fees, visa and embassy costs, airfare, and settling-in allowances versus official stipends. |
+| **Deadline Checker** | Workflow | Calculates application runways, dual-gate deadlines (HEC nomination vs university deadline), and visa appointment lead times. |
+| **Skeptic Agent** | Agent | Red-teams candidate applications to identify risk factors, return-to-home bonds, hidden bench fees, and competition bottlenecks. |
+| **Synthesis Engine** | Workflow | Merges deterministic eligibility and cost data with qualitative risk alerts into a structured evaluation payload. |
+| **Ranking Engine** | Workflow | Calculates an 8-factor composite match index (0-100) based on eligibility match, PKR financial burden, acceptance likelihood, and deadline feasibility. |
+| **Adviser Agent** | Agent | Formulates an actionable roadmap, personalized milestone calendar, document preparation guide, and contingency options. |
 
 ---
 
