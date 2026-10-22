@@ -258,7 +258,7 @@
   "official_sources_verified": [
     {
       "source_name": "International Cooperation and Development Fund (Taiwan ICDF) - Scholarships Portal",
-      "source_url": "https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2",
+      "source_url": "https://www.icdf.org.tw/wSite/mp?mp=2",
       "source_type": "OFFICIAL_GOVERNMENT",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": [

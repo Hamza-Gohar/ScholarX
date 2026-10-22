@@ -6,7 +6,7 @@
     "host_country_name": "Australia",
     "host_institution": "Australian Participating Universities (Univ of Melbourne, ANU, UNSW, Univ of Sydney)",
     "region": "Oceania",
-    "source_url": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships",
+    "source_url": "https://australiaawardspakistan.org/",
     "portal_url": "https://oasis.dfat.gov.au/",
     "discovered_by": "seed_database",
     "funding": {
@@ -377,7 +377,7 @@
       "official_sources_verified": [
         {
           "source_name": "Australian Department of Foreign Affairs and Trade (DFAT) - Australia Awards Pakistan Profile",
-          "source_url": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships",
+          "source_url": "https://australiaawardspakistan.org/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -396,7 +396,7 @@
     "host_institution": "University of Auckland, University of Otago, Victoria Univ of Wellington",
     "region": "Oceania",
     "source_url": "https://www.nzscholarships.govt.nz/",
-    "portal_url": "https://scholarship.force.com/",
+    "portal_url": "https://www.nzscholarships.govt.nz/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -1160,7 +1160,7 @@
     "host_country_name": "Australia",
     "host_institution": "University of Sydney",
     "region": "Oceania",
-    "source_url": "https://www.sydney.edu.au/scholarships/e/university-of-sydney-international-scholarship.html",
+    "source_url": "https://www.sydney.edu.au/scholarships/international.html",
     "portal_url": "https://www.sydney.edu.au/study/how-to-apply.html",
     "discovered_by": "seed_database",
     "funding": {
@@ -1521,7 +1521,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Sydney - Postgraduate Research Scholarships Official Portal",
-          "source_url": "https://www.sydney.edu.au/scholarships/e/university-of-sydney-international-scholarship.html",
+          "source_url": "https://www.sydney.edu.au/scholarships/international.html",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -1874,7 +1874,7 @@
     "host_country_name": "Australia",
     "host_institution": "University of Queensland (School of EECS, Brisbane)",
     "region": "Oceania",
-    "source_url": "https://scholarships.uq.edu.au/scholarship/graduate-school-scholarships-uqgss-includes-rtp",
+    "source_url": "https://scholarships.uq.edu.au/",
     "portal_url": "https://apply.uq.edu.au/",
     "discovered_by": "seed_database",
     "funding": {
@@ -2603,7 +2603,7 @@
     "host_institution": "University of Western Australia (Department of Computer Science and Software Engineering, Perth)",
     "region": "Oceania",
     "source_url": "https://www.forrestresearch.org.au/scholarships/",
-    "portal_url": "https://www.uwa.edu.au/study/how-to-apply/research-degrees",
+    "portal_url": "https://www.uwa.edu.au/study/how-to-apply/higher-degree-by-research",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -3396,7 +3396,7 @@
     "host_country_name": "Australia",
     "host_institution": "University of Technology Sydney (Faculty of Engineering and IT - School of Computer Science, Sydney)",
     "region": "Oceania",
-    "source_url": "https://www.uts.edu.au/research-and-teaching/research-degrees/future-research-students/scholarships",
+    "source_url": "https://www.uts.edu.au/research-and-teaching/graduate-research/future-research-students/scholarships",
     "portal_url": "https://www.uts.edu.au/study/international/essential-information/applying-study-uts",
     "discovered_by": "seed_database",
     "funding": {
@@ -3732,7 +3732,7 @@
       "official_sources_verified": [
         {
           "source_name": "UTS Future Research Students Scholarships Official Portal",
-          "source_url": "https://www.uts.edu.au/research-and-teaching/research-degrees/future-research-students/scholarships",
+          "source_url": "https://www.uts.edu.au/research-and-teaching/graduate-research/future-research-students/scholarships",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -3761,8 +3761,8 @@
     "host_country_name": "Australia",
     "host_institution": "University of New South Wales (UNSW Sydney)",
     "region": "Oceania",
-    "source_url": "https://www.unsw.edu.au/research/hdr/scholarships/scientia",
-    "portal_url": "https://applyonline.community.unsw.edu.au/",
+    "source_url": "https://www.unsw.edu.au/research/hdr/scholarships",
+    "portal_url": "https://apply.unsw.edu.au/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -4101,7 +4101,7 @@
       "official_sources_verified": [
         {
           "source_name": "UNSW Sydney Scientia PhD Scholarship Scheme Official Portal",
-          "source_url": "https://www.unsw.edu.au/research/hdr/scholarships/scientia",
+          "source_url": "https://www.unsw.edu.au/research/hdr/scholarships",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -4131,7 +4131,7 @@
     "host_institution": "University of New South Wales (UNSW Sydney)",
     "region": "Oceania",
     "source_url": "https://www.unsw.edu.au/research/hdr/scholarships",
-    "portal_url": "https://applyonline.community.unsw.edu.au/",
+    "portal_url": "https://apply.unsw.edu.au/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -4498,7 +4498,7 @@
     "host_country_name": "Australia",
     "host_institution": "University of Wollongong (UOW)",
     "region": "Oceania",
-    "source_url": "https://www.uow.edu.au/study/scholarships/postgraduate-research/",
+    "source_url": "https://www.uow.edu.au/study/scholarships/",
     "portal_url": "https://apply.uow.edu.au/",
     "discovered_by": "seed_database",
     "funding": {
@@ -4842,7 +4842,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Wollongong Postgraduate Research Scholarships Portal",
-          "source_url": "https://www.uow.edu.au/study/scholarships/postgraduate-research/",
+          "source_url": "https://www.uow.edu.au/study/scholarships/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []

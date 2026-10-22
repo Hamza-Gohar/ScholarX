@@ -729,8 +729,8 @@
     "host_country_name": "Saudi Arabia",
     "host_institution": "KFUPM, Dhahran",
     "region": "MENA",
-    "source_url": "https://postgrad.kfupm.edu.sa/",
-    "portal_url": "https://postgrad.kfupm.edu.sa/admissions/online-application",
+    "source_url": "https://cgis.kfupm.edu.sa/",
+    "portal_url": "https://cgis.kfupm.edu.sa/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -1049,7 +1049,7 @@
       "official_sources_verified": [
         {
           "source_name": "King Fahd University of Petroleum & Minerals - Deanship of Graduate Studies Official Portal",
-          "source_url": "https://postgrad.kfupm.edu.sa/",
+          "source_url": "https://cgis.kfupm.edu.sa/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -1068,7 +1068,7 @@
     "host_country_name": "Qatar",
     "host_institution": "Hamad Bin Khalifa University, Education City, Doha",
     "region": "MENA",
-    "source_url": "https://www.hbku.edu.qa/en/admissions/scholarships-funding",
+    "source_url": "https://www.hbku.edu.qa/en/admissions",
     "portal_url": "https://admissions.hbku.edu.qa/",
     "discovered_by": "seed_database",
     "funding": {
@@ -1404,8 +1404,8 @@
     "host_country_name": "Saudi Arabia",
     "host_institution": "King Abdulaziz University, Jeddah",
     "region": "MENA",
-    "source_url": "https://dsa-scholarships.kau.edu.sa/",
-    "portal_url": "https://outadmission.kau.edu.sa/",
+    "source_url": "https://studyinsaudi.sa/en",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -2185,7 +2185,7 @@
     "host_institution": "Khalifa University, Abu Dhabi",
     "region": "MENA",
     "source_url": "https://www.ku.ac.ae/scholarships-postgraduate",
-    "portal_url": "https://admissions.ku.ac.ae/",
+    "portal_url": "https://www.ku.ac.ae/admissions",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -2525,7 +2525,7 @@
     "host_institution": "Mohammed Bin Zayed University of Artificial Intelligence, Masdar City, Abu Dhabi",
     "region": "MENA",
     "source_url": "https://mbzuai.ac.ae/study/admissions/",
-    "portal_url": "https://admissions.mbzuai.ac.ae/",
+    "portal_url": "https://mbzuai.ac.ae/study/admissions/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -3244,7 +3244,7 @@
     "host_country_name": "United Arab Emirates",
     "host_institution": "Abu Dhabi University (Abu Dhabi & Dubai Campuses)",
     "region": "MENA",
-    "source_url": "https://www.adu.ac.ae/admissions/financial-support/scholarships",
+    "source_url": "https://www.adu.ac.ae/en/study/financials/scholarships",
     "portal_url": "https://www.adu.ac.ae/apply-now",
     "discovered_by": "seed_database",
     "funding": {
@@ -3576,7 +3576,7 @@
       "official_sources_verified": [
         {
           "source_name": "Abu Dhabi University Official Scholarships & Financial Support Portal",
-          "source_url": "https://www.adu.ac.ae/admissions/financial-support/scholarships",
+          "source_url": "https://www.adu.ac.ae/en/study/financials/scholarships",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -3605,8 +3605,8 @@
     "host_country_name": "Saudi Arabia",
     "host_institution": "Princess Nourah bint Abdulrahman University, Riyadh",
     "region": "MENA",
-    "source_url": "https://www.pnu.edu.sa/en/Deanship/Registration/Pages/external-scholarships.aspx",
-    "portal_url": "https://pnu-scholarships.edu.sa/",
+    "source_url": "https://studyinsaudi.sa/en",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -3946,7 +3946,7 @@
     "host_institution": "Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh",
     "region": "MENA",
     "source_url": "https://imamu.edu.sa/en/Pages/default.aspx",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -4305,7 +4305,7 @@
     "host_institution": "Qassim University (College of Computer)",
     "region": "MENA",
     "source_url": "https://qu.edu.sa/",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -4662,7 +4662,7 @@
     "host_institution": "Umm Al-Qura University (College of Computer and Information Systems, Makkah)",
     "region": "MENA",
     "source_url": "https://uqu.edu.sa/en",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -5020,8 +5020,8 @@
     "host_country_name": "Saudi Arabia",
     "host_institution": "Taibah University (College of Computer Science and Engineering, Madinah)",
     "region": "MENA",
-    "source_url": "https://www.taibahu.edu.sa/Pages/EN/Home.aspx",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "source_url": "https://www.taibahu.edu.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -5362,7 +5362,7 @@
         },
         {
           "source_name": "Taibah University Deanship of Admission and Registration",
-          "source_url": "https://www.taibahu.edu.sa/Pages/EN/Home.aspx",
+          "source_url": "https://www.taibahu.edu.sa/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -5378,7 +5378,7 @@
     "host_institution": "King Faisal University (College of Computer Sciences and Information Technology, Al-Ahsa)",
     "region": "MENA",
     "source_url": "https://www.kfu.edu.sa/en/Pages/Home.aspx",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -5734,8 +5734,8 @@
     "host_country_name": "Saudi Arabia",
     "host_institution": "Jazan University (College of Computer Science and Information Technology)",
     "region": "MENA",
-    "source_url": "https://www.jazanu.edu.sa/en",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "source_url": "https://www.jazanu.edu.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -6076,7 +6076,7 @@
         },
         {
           "source_name": "Jazan University Official Portal",
-          "source_url": "https://www.jazanu.edu.sa/en",
+          "source_url": "https://www.jazanu.edu.sa/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -6091,8 +6091,8 @@
     "host_country_name": "Saudi Arabia",
     "host_institution": "King Khalid University (College of Computer Science, Abha)",
     "region": "MENA",
-    "source_url": "https://www.kku.edu.sa/en",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "source_url": "https://www.kku.edu.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -6442,7 +6442,7 @@
     "host_institution": "Najran University (College of Computer Science and Information Systems)",
     "region": "MENA",
     "source_url": "https://www.nu.edu.sa/en",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -6792,7 +6792,7 @@
     "host_institution": "Majmaah University (College of Computer Science and Information Technology)",
     "region": "MENA",
     "source_url": "https://www.mu.edu.sa/en",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -7142,7 +7142,7 @@
     "host_institution": "University of Ha'il (College of Computer Science and Engineering)",
     "region": "MENA",
     "source_url": "https://www.uoh.edu.sa/en",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -7492,7 +7492,7 @@
     "host_institution": "University of Tabuk (Faculty of Computers and Information Technology, Tabuk)",
     "region": "MENA",
     "source_url": "https://www.ut.edu.sa/en",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -7841,8 +7841,8 @@
     "host_country_name": "Saudi Arabia",
     "host_institution": "Northern Border University (Faculty of Computing and Information Technology, Arar)",
     "region": "MENA",
-    "source_url": "https://www.nbu.edu.sa/en",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "source_url": "https://www.nbu.edu.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -8193,7 +8193,7 @@
     "host_institution": "Shaqra University (College of Computing and Information Technology, Shaqra, Riyadh Prov)",
     "region": "MENA",
     "source_url": "https://www.su.edu.sa/en",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -8543,8 +8543,8 @@
     "host_country_name": "Saudi Arabia",
     "host_institution": "Al-Baha University (Faculty of Computer Science and Information Technology, Al-Baha)",
     "region": "MENA",
-    "source_url": "https://bu.edu.sa/en/web/al-baha-university",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "source_url": "https://www.bu.edu.sa",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -8895,7 +8895,7 @@
     "host_institution": "University of Bisha (College of Computing and Information Technology, Asir Province)",
     "region": "MENA",
     "source_url": "https://www.ub.edu.sa/en",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -9251,7 +9251,7 @@
     "host_institution": "University of Hafr Al Batin (College of Computer Science and Engineering, Eastern Province)",
     "region": "MENA",
     "source_url": "https://www.uhb.edu.sa/en",
-    "portal_url": "https://minhati.moe.gov.sa/",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -9606,7 +9606,7 @@
     "host_country_name": "United Arab Emirates",
     "host_institution": "New York University Abu Dhabi (NYUAD)",
     "region": "MENA",
-    "source_url": "https://nyuad.nyu.edu/en/admissions/undergraduate/financial-aid.html",
+    "source_url": "https://nyuad.nyu.edu/en/apply/undergraduate.html",
     "portal_url": "https://www.commonapp.org/",
     "discovered_by": "seed_database",
     "funding": {
@@ -9957,7 +9957,7 @@
       "official_sources_verified": [
         {
           "source_name": "New York University Abu Dhabi Financial Aid & Scholarships Portal",
-          "source_url": "https://nyuad.nyu.edu/en/admissions/undergraduate/financial-aid.html",
+          "source_url": "https://nyuad.nyu.edu/en/apply/undergraduate.html",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -9979,8 +9979,8 @@
     "host_country_name": "Qatar",
     "host_institution": "Doha Institute for Graduate Studies",
     "region": "MENA",
-    "source_url": "https://www.dohainstitute.edu.qa/EN/Admissions/Pages/Scholarships.aspx",
-    "portal_url": "https://www.dohainstitute.edu.qa/EN/Admissions/Pages/Apply.aspx",
+    "source_url": "https://www.dohainstitute.edu.qa/en/Pages/default.aspx",
+    "portal_url": "https://www.dohainstitute.edu.qa/en/Pages/default.aspx",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -10326,7 +10326,7 @@
       "official_sources_verified": [
         {
           "source_name": "Doha Institute for Graduate Studies Scholarships Portal",
-          "source_url": "https://www.dohainstitute.edu.qa/EN/Admissions/Pages/Scholarships.aspx",
+          "source_url": "https://www.dohainstitute.edu.qa/en/Pages/default.aspx",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -11431,7 +11431,7 @@
     "host_country_name": "Qatar",
     "host_institution": "Hamad Bin Khalifa University (HBKU) & Qatar Foundation",
     "region": "MENA",
-    "source_url": "https://www.hbku.edu.qa/en/admissions/scholarships",
+    "source_url": "https://www.hbku.edu.qa/en/admissions",
     "portal_url": "https://admissions.hbku.edu.qa/",
     "discovered_by": "seed_database",
     "funding": {
@@ -11789,8 +11789,8 @@
     "host_country_name": "Saudi Arabia",
     "host_institution": "King Saud University (Riyadh)",
     "region": "MENA",
-    "source_url": "https://siadmission.ksu.edu.sa/",
-    "portal_url": "https://siadmission.ksu.edu.sa/",
+    "source_url": "https://studyinsaudi.sa/en",
+    "portal_url": "https://studyinsaudi.sa/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -12149,7 +12149,7 @@
       "official_sources_verified": [
         {
           "source_name": "King Saud University International Admissions Portal (SIAdmission)",
-          "source_url": "https://siadmission.ksu.edu.sa/",
+          "source_url": "https://studyinsaudi.sa/en",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -12535,8 +12535,8 @@
     "host_country_name": "Jordan",
     "host_institution": "Princess Sumaya University for Technology (PSUT)",
     "region": "MENA",
-    "source_url": "https://www.psut.edu.jo/en/content/scholarships-and-financial-aid",
-    "portal_url": "https://admission.psut.edu.jo/",
+    "source_url": "https://www.psut.edu.jo/en",
+    "portal_url": "https://www.psut.edu.jo/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -12884,14 +12884,14 @@
       "official_sources_verified": [
         {
           "source_name": "PSUT Official Scholarships and Financial Aid Portal",
-          "source_url": "https://www.psut.edu.jo/en/content/scholarships-and-financial-aid",
+          "source_url": "https://www.psut.edu.jo/en",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
         },
         {
           "source_name": "PSUT Graduate Admissions Portal",
-          "source_url": "https://admission.psut.edu.jo/",
+          "source_url": "https://www.psut.edu.jo/en",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -12907,7 +12907,7 @@
     "host_institution": "American University of Beirut (AUB)",
     "region": "MENA",
     "source_url": "https://www.aub.edu.lb/mcf/Pages/default.aspx",
-    "portal_url": "https://www.aub.edu.lb/mcf/Pages/Apply.aspx",
+    "portal_url": "https://www.aub.edu.lb/mcf/Pages/default.aspx",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -13276,7 +13276,7 @@
     "host_country_name": "Egypt",
     "host_institution": "The American University in Cairo (AUC)",
     "region": "MENA",
-    "source_url": "https://www.aucegypt.edu/admissions/graduate/fellowships",
+    "source_url": "https://www.aucegypt.edu/admissions/fellowships",
     "portal_url": "https://www.aucegypt.edu/apply-now",
     "discovered_by": "seed_database",
     "funding": {
@@ -13626,7 +13626,7 @@
       "official_sources_verified": [
         {
           "source_name": "AUC Graduate Fellowships Portal",
-          "source_url": "https://www.aucegypt.edu/admissions/graduate/fellowships",
+          "source_url": "https://www.aucegypt.edu/admissions/fellowships",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -14019,7 +14019,7 @@
     "host_country_name": "Kuwait",
     "host_institution": "Kuwait University",
     "region": "MENA",
-    "source_url": "http://www.graduate.edu.kw/Default.aspx?pageId=129",
+    "source_url": "https://www.ku.edu.kw/",
     "portal_url": "http://portal.ku.edu.kw/",
     "discovered_by": "seed_database",
     "funding": {
@@ -14369,7 +14369,7 @@
       "official_sources_verified": [
         {
           "source_name": "Kuwait University College of Graduate Studies (CGS) Official Portal",
-          "source_url": "http://www.graduate.edu.kw/Default.aspx?pageId=129",
+          "source_url": "https://www.ku.edu.kw/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -14750,8 +14750,8 @@
     "host_country_name": "Saudi Arabia",
     "host_institution": "King Abdullah Petroleum Studies and Research Center (KAPSARC)",
     "region": "MENA",
-    "source_url": "https://www.kapsarc.org/careers/visiting-fellowships/",
-    "portal_url": "https://www.kapsarc.org/apply/",
+    "source_url": "https://www.kapsarc.org/",
+    "portal_url": "https://www.kapsarc.org/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -15094,7 +15094,7 @@
       "official_sources_verified": [
         {
           "source_name": "KAPSARC Visiting Fellowships Portal",
-          "source_url": "https://www.kapsarc.org/careers/visiting-fellowships/",
+          "source_url": "https://www.kapsarc.org/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -15116,8 +15116,8 @@
     "host_country_name": "Saudi Arabia",
     "host_institution": "King Fahd University of Petroleum & Minerals (KFUPM), Dhahran",
     "region": "MENA",
-    "source_url": "https://postgrad.kfupm.edu.sa/",
-    "portal_url": "https://postgrad.kfupm.edu.sa/",
+    "source_url": "https://cgis.kfupm.edu.sa/",
+    "portal_url": "https://cgis.kfupm.edu.sa/",
     "discovered_by": "curated_database",
     "funding": {
       "funding_type": "FULL",
@@ -15457,7 +15457,7 @@
       "official_sources_verified": [
         {
           "source_name": "King Fahd University of Petroleum & Minerals - Deanship of Graduate Studies",
-          "source_url": "https://postgrad.kfupm.edu.sa/",
+          "source_url": "https://cgis.kfupm.edu.sa/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [

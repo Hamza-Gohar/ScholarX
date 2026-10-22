@@ -50,6 +50,21 @@ for (const [sid, dd] of Object.entries(deepDossiers)) {
   }
 }
 
+export function sanitizePortalUrl(url?: string | null): string | null {
+  if (!url) return null;
+  let clean = url.trim();
+  if (clean.includes("apply.usefp.org")) {
+    clean = clean.replace("apply.usefp.org", "applications.usefp.org");
+  }
+  if (clean.includes("adu.ac.ae/admissions/financial-resources/scholarships")) {
+    clean = "https://www.adu.ac.ae/en/study/financials/scholarships";
+  }
+  if (clean.includes("adu.ac.ae/admissions/financial-support/scholarships")) {
+    clean = "https://www.adu.ac.ae/en/study/financials/scholarships";
+  }
+  return clean;
+}
+
 function isValidPortalUrl(url?: string | null): boolean {
   if (!url) return false;
   const lower = url.toLowerCase().trim();
@@ -79,17 +94,21 @@ export function resolveScholarshipOfficialUrl(sc: {
   official_portal_url?: string | null;
 }): string {
   // 1. Direct valid property check
-  if (isValidPortalUrl(sc.officialPortalUrl)) {
-    return sc.officialPortalUrl!;
+  const official = sanitizePortalUrl(sc.officialPortalUrl);
+  if (isValidPortalUrl(official)) {
+    return official!;
   }
-  if (isValidPortalUrl(sc.portal_url)) {
-    return sc.portal_url!;
+  const portal = sanitizePortalUrl(sc.portal_url);
+  if (isValidPortalUrl(portal)) {
+    return portal!;
   }
-  if (isValidPortalUrl(sc.source_url)) {
-    return sc.source_url!;
+  const source = sanitizePortalUrl(sc.source_url);
+  if (isValidPortalUrl(source)) {
+    return source!;
   }
-  if (isValidPortalUrl(sc.official_portal_url)) {
-    return sc.official_portal_url!;
+  const officialPortal = sanitizePortalUrl(sc.official_portal_url);
+  if (isValidPortalUrl(officialPortal)) {
+    return officialPortal!;
   }
 
   // 2. ID matching in catalog

@@ -265,7 +265,7 @@
   "official_sources_verified": [
     {
       "source_name": "University of Alberta Department of Computing Science Graduate Funding Portal",
-      "source_url": "https://www.ualberta.ca/computing-science/graduate-studies/funding.html",
+      "source_url": "https://www.ualberta.ca/en/computing-science/graduate-studies/index.html",
       "source_type": "OFFICIAL_UNIVERSITY",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": [
@@ -276,7 +276,7 @@
     },
     {
       "source_name": "University of Alberta Faculty of Graduate Studies and Research (FGSR)",
-      "source_url": "https://www.ualberta.ca/graduate-studies/prospective-students/apply-for-admission",
+      "source_url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/index.html",
       "source_type": "OFFICIAL_UNIVERSITY",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": [

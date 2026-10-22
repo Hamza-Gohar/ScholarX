@@ -270,7 +270,7 @@
   "official_sources_verified": [
     {
       "source_name": "University of Edinburgh Glenmore Medical Scholarships Portal",
-      "source_url": "https://www.ed.ac.uk/student-funding/postgraduate/international/glenmore",
+      "source_url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international",
       "source_type": "OFFICIAL_GOVERNMENT",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": []

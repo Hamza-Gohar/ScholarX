@@ -271,14 +271,14 @@
   "official_sources_verified": [
     {
       "source_name": "University of Manchester Global Futures Scholarship Portal",
-      "source_url": "https://www.manchester.ac.uk/study/international/finance-and-travel/funding/global-futures-scholarship/",
+      "source_url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/",
       "source_type": "OFFICIAL_GOVERNMENT",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": []
     },
     {
       "source_name": "University of Manchester Postgraduate Admissions",
-      "source_url": "https://www.manchester.ac.uk/study/masters/admissions/apply-online/",
+      "source_url": "https://www.manchester.ac.uk/",
       "source_type": "OFFICIAL_GOVERNMENT",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": []

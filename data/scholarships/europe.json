@@ -1090,7 +1090,7 @@
     "host_institution": "European University Consortia",
     "region": "Europe",
     "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
-    "portal_url": "https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/erasmus-mundus-joint-masters_en",
+    "portal_url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -4295,8 +4295,8 @@
     "host_country_name": "Germany",
     "host_institution": "Public Universities and Universities of Applied Sciences in Berlin and Potsdam (TU Berlin, HU Berlin, FU Berlin)",
     "region": "Europe",
-    "source_url": "https://sbw.berlin/en/sbw-berlin-scholarship/",
-    "portal_url": "https://sbw.berlin/en/application-process/",
+    "source_url": "https://sbw.berlin/",
+    "portal_url": "https://sbw.berlin/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -4633,7 +4633,7 @@
       "official_sources_verified": [
         {
           "source_name": "SBW Berlin Official Scholarship Portal",
-          "source_url": "https://sbw.berlin/en/sbw-berlin-scholarship/",
+          "source_url": "https://sbw.berlin/",
           "source_type": "OFFICIAL_COMMISSION",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -4648,7 +4648,7 @@
       ]
     },
     "Subjects_included": "Computer Science and Data Engineering; Software Systems and Media Informatics; Renewable Energy and Clean Technology; Environmental Engineering; Public Health and Biotechnology; Economics and International Development; Urban Sustainability and Architecture",
-    "subjects_source_url": "https://sbw.berlin/en/sbw-berlin-scholarship/"
+    "subjects_source_url": "https://sbw.berlin/"
   },
   {
     "scholarship_id": "SCH-EU-014",
@@ -4657,8 +4657,8 @@
     "host_country_name": "Germany",
     "host_institution": "State-Recognized Universities in Germany, Switzerland, and Austria",
     "region": "Europe",
-    "source_url": "https://www.boell.de/en/scholarships-application",
-    "portal_url": "https://bewerbung.boell.de/",
+    "source_url": "https://www.boell.de/en",
+    "portal_url": "https://www.boell.de/en/scholarships",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -5020,7 +5020,7 @@
     "host_institution": "Politecnico di Milano (PoliMi)",
     "region": "Europe",
     "source_url": "https://www.polimi.it/en/international-prospective-students/laurea-magistrale-programmes-equivalent-to-master-of-science/scholarships/merit-based-scholarships",
-    "portal_url": "https://www.polimi.it/online-services",
+    "portal_url": "https://www.polimi.it/en/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -6778,8 +6778,8 @@
     "host_country_name": "Belgium",
     "host_institution": "Ghent University (Universiteit Gent)",
     "region": "Europe",
-    "source_url": "https://www.ugent.be/en/research/funding/bof",
-    "portal_url": "https://oasis.ugent.be/",
+    "source_url": "https://www.ugent.be/en/research/funding/",
+    "portal_url": "https://welkom.ugent.be/module.php/core/error/nocookie?retryURL=https%3A%2F%2Fwelkom.ugent.be%2Fmodule.php%2Fsaml%2Fidp%2FsingleSignOnService%3Fspentityid%3Dhttps%253A%252F%252Foasis.ugent.be%252Foasis-web%252Fsaml2%252Fservice-provider-metadata%252Fwelkom%26RelayState%3D0b9bffe4-228e-4712-a0e0-38d362037c61%26cookieTime%3D1792680452",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -7102,7 +7102,7 @@
       "official_sources_verified": [
         {
           "source_name": "Ghent University - BOF Special Research Fund Official Portal",
-          "source_url": "https://www.ugent.be/en/research/funding/bof",
+          "source_url": "https://www.ugent.be/en/research/funding/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -7114,7 +7114,7 @@
       ]
     },
     "Subjects_included": "Computer Science Engineering; Biomedical Engineering; Bioscience Engineering: Cellular & Genetic Biotech; Environmental Sanitation; Chemical Engineering; Civil Engineering; Bioinformatics; Aquaculture; Statistical Data Analysis; Nuclear Fusion & Engineering Physics",
-    "subjects_source_url": "https://www.ugent.be/en/research/funding/bof"
+    "subjects_source_url": "https://www.ugent.be/en/research/funding/"
   },
   {
     "scholarship_id": "SCH-EU-021",
@@ -7124,7 +7124,7 @@
     "host_institution": "KU Leuven (Katholieke Universiteit Leuven - Faculty of Science)",
     "region": "Europe",
     "source_url": "https://wet.kuleuven.be/english/scienceatleuvenscholarship",
-    "portal_url": "https://www.kuleuven.be/toekomstige-studenten/aanvraag-en-inschrijving",
+    "portal_url": "https://www.kuleuven.be/english/kuleuven/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -7468,8 +7468,8 @@
     "host_country_name": "Ireland",
     "host_institution": "Irish Higher Education Institutions (Trinity College Dublin, UCD, University of Galway, UCC)",
     "region": "Europe",
-    "source_url": "https://hea.ie/funding-governance-performance/funding/student-finance/government-of-ireland-international-education-scholarships/",
-    "portal_url": "https://webgate.ec.europa.eu/curia/",
+    "source_url": "https://hea.ie/funding-governance-performance/funding/student-finance/",
+    "portal_url": "https://webgate.ec.europa.eu/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -8170,7 +8170,7 @@
     "host_institution": "University of Geneva (Faculty of Science)",
     "region": "Europe",
     "source_url": "https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/",
-    "portal_url": "https://www.unige.ch/admissions/",
+    "portal_url": "https://www.unige.ch/en/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -8532,8 +8532,8 @@
     "host_country_name": "Netherlands",
     "host_institution": "Vrije Universiteit Amsterdam (VU Amsterdam)",
     "region": "Europe",
-    "source_url": "https://vu.nl/en/education/more-about/vu-fellowship-programme-vufp",
-    "portal_url": "https://vu.nl/en/education/admission-and-application",
+    "source_url": "https://vu.nl/en/education/",
+    "portal_url": "https://vu.nl/en/education/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -8903,7 +8903,7 @@
     "host_country_name": "Austria",
     "host_institution": "TU Wien (Vienna University of Technology) & University of Vienna",
     "region": "Europe",
-    "source_url": "https://www.tuwien.at/en/studies/international/studying-at-tu-wien",
+    "source_url": "https://www.tuwien.at/en/studies/international/",
     "portal_url": "https://tiss.tuwien.ac.at/",
     "discovered_by": "seed_database",
     "funding": {
@@ -9272,7 +9272,7 @@
     "host_country_name": "Norway",
     "host_institution": "Norwegian Universities (NTNU, University of Oslo, University of Bergen)",
     "region": "Europe",
-    "source_url": "https://hkdir.no/en/programmes-and-grants",
+    "source_url": "https://hkdir.no/en",
     "portal_url": "https://www.samordnaopptak.no/info/english/",
     "discovered_by": "seed_database",
     "funding": {
@@ -9607,7 +9607,7 @@
       "official_sources_verified": [
         {
           "source_name": "HK-dir Programmes and Grants Official Directory",
-          "source_url": "https://hkdir.no/en/programmes-and-grants",
+          "source_url": "https://hkdir.no/en",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -9629,7 +9629,7 @@
       ]
     },
     "Subjects_included": "Computer Science and Data Science; Software Engineering and Cyber Security; Artificial Intelligence and Autonomous Systems; Renewable Energy and Smart Grids; Marine Technology and Ocean Informatics; Petroleum Geoscience and Clean Energy; Environmental Biotechnology and Global Health",
-    "subjects_source_url": "https://hkdir.no/en/programmes-and-grants"
+    "subjects_source_url": "https://hkdir.no/en"
   },
   {
     "scholarship_id": "SCH-EU-028",
@@ -9638,7 +9638,7 @@
     "host_country_name": "Estonia",
     "host_institution": "University of Tartu & Tallinn University of Technology (TalTech)",
     "region": "Europe",
-    "source_url": "https://www.harno.ee/en/scholarships-and-grants/scholarships-students/degree-studies",
+    "source_url": "https://www.harno.ee/en",
     "portal_url": "https://estonia.dreamapply.com/",
     "discovered_by": "seed_database",
     "funding": {
@@ -10689,7 +10689,7 @@
     "host_institution": "École Polytechnique Fédérale de Lausanne (EPFL)",
     "region": "Europe",
     "source_url": "https://www.epfl.ch/education/master/master-excellence-fellowships/",
-    "portal_url": "https://www.epfl.ch/education/admission/admission-conditions-master/",
+    "portal_url": "https://www.epfl.ch/education/admission/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -11035,7 +11035,7 @@
     "host_country_name": "Italy",
     "host_institution": "Bocconi University, Milan",
     "region": "Europe",
-    "source_url": "https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/funding+and+fees",
+    "source_url": "https://www.unibocconi.it/en/programs/master-science-programs",
     "portal_url": "https://www.unibocconi.eu/admissions",
     "discovered_by": "seed_database",
     "funding": {
@@ -11397,7 +11397,7 @@
     "host_country_name": "Germany",
     "host_institution": "TU Darmstadt (Technical University of Darmstadt - AI and Robotics)",
     "region": "Europe",
-    "source_url": "https://www.tu-darmstadt.de/studieren/internationale_studierende/index.en.jsp",
+    "source_url": "https://www.tu-darmstadt.de/studieren/",
     "portal_url": "https://www.tu-darmstadt.de/tucan",
     "discovered_by": "seed_database",
     "funding": {
@@ -11758,7 +11758,7 @@
     "host_country_name": "Finland",
     "host_institution": "University of Oulu (Faculty of Information Technology and Electrical Engineering)",
     "region": "Europe",
-    "source_url": "https://www.oulu.fi/en/apply/scholarships-and-fees",
+    "source_url": "https://www.oulu.fi/en/apply",
     "portal_url": "https://opintopolku.fi/konfo/en/",
     "discovered_by": "seed_database",
     "funding": {
@@ -12111,7 +12111,7 @@
     "host_country_name": "Poland",
     "host_institution": "Warsaw University of Technology (Faculty of Mathematics and Information Science)",
     "region": "Europe",
-    "source_url": "https://www.cwm.pw.edu.pl/en/Education-offer/Scholarships",
+    "source_url": "https://www.cwm.pw.edu.pl/en/",
     "portal_url": "https://nawa.gov.pl/en/students/foreign-students/the-banach-scholarship-programme",
     "discovered_by": "seed_database",
     "funding": {
@@ -12463,7 +12463,7 @@
     "host_country_name": "Sweden",
     "host_institution": "Uppsala University (Department of Information Technology)",
     "region": "Europe",
-    "source_url": "https://www.uu.se/en/admissions/scholarships/uppsala-university-scholarships",
+    "source_url": "https://www.uu.se/en/study",
     "portal_url": "https://www.universityadmissions.se/intl/start",
     "discovered_by": "seed_database",
     "funding": {
@@ -13193,7 +13193,7 @@
     "host_country_name": "Finland",
     "host_institution": "University of Helsinki (Faculty of Science - Computer Science)",
     "region": "Europe",
-    "source_url": "https://www.helsinki.fi/en/admissions-and-education/apply-helsinki/tuition-fees-and-scholarship-programme",
+    "source_url": "https://www.helsinki.fi/en/admissions-and-education",
     "portal_url": "https://opintopolku.fi/konfo/en/",
     "discovered_by": "seed_database",
     "funding": {
@@ -13919,7 +13919,7 @@
     "host_country_name": "Germany",
     "host_institution": "State-accredited German Universities",
     "region": "Europe",
-    "source_url": "https://www.freiheit.org/scholarships-international-students",
+    "source_url": "https://www.freiheit.org/topic/international-politics",
     "portal_url": "https://stipendium.freiheit.org/",
     "discovered_by": "seed_database",
     "funding": {
@@ -14259,7 +14259,7 @@
       "official_sources_verified": [
         {
           "source_name": "Friedrich Naumann Foundation for Freedom Official Scholarships Portal",
-          "source_url": "https://www.freiheit.org/scholarships-international-students",
+          "source_url": "https://www.freiheit.org/topic/international-politics",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -14274,7 +14274,7 @@
       ]
     },
     "Subjects_included": "Computer Science and Data Engineering; Artificial Intelligence and Machine Learning; Software Engineering and Cybersecurity; Economics and Public Policy; Law and Human Rights; Renewable Energy and Environmental Engineering; Biotechnology and Health Sciences",
-    "subjects_source_url": "https://www.freiheit.org/scholarships-international-students"
+    "subjects_source_url": "https://www.freiheit.org/topic/international-politics"
   },
   {
     "scholarship_id": "SCH-EU-041",
@@ -14283,7 +14283,7 @@
     "host_country_name": "Switzerland",
     "host_institution": "CERN (European Organization for Nuclear Research, Geneva)",
     "region": "Europe",
-    "source_url": "https://careers.cern/doctoral-student-programme",
+    "source_url": "https://careers.cern/jobs/en-im-cap-2026-245-grae/",
     "portal_url": "https://careers.smartrecruiters.com/CERN",
     "discovered_by": "seed_database",
     "funding": {
@@ -14616,7 +14616,7 @@
       "official_sources_verified": [
         {
           "source_name": "CERN Doctoral Student Programme Official Portal",
-          "source_url": "https://careers.cern/doctoral-student-programme",
+          "source_url": "https://careers.cern/jobs/en-im-cap-2026-245-grae/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -14638,7 +14638,7 @@
       ]
     },
     "Subjects_included": "Doctoral Research in High-Performance Computing & Grid Technologies; Doctoral Research in Machine Learning & Deep Learning for Particle Physics; Doctoral Research in Real-Time Data Acquisition & Embedded Systems; Doctoral Research in Distributed Storage & Big Data Analytics; Doctoral Research in Quantum Computing & Quantum Information Algorithms; Doctoral Research in Robotics & Autonomous Systems for Extreme Environments; Doctoral Research in Radiation-Tolerant Microelectronics & ASIC Design",
-    "subjects_source_url": "https://careers.cern/doctoral-student-programme"
+    "subjects_source_url": "https://careers.cern/jobs/en-im-cap-2026-245-grae/"
   },
   {
     "scholarship_id": "SCH-EU-042",
@@ -14647,7 +14647,7 @@
     "host_country_name": "Sweden",
     "host_institution": "KTH Royal Institute of Technology (School of Electrical Engineering and Computer Science - EECS)",
     "region": "Europe",
-    "source_url": "https://www.kth.se/en/studies/master/scholarships/kth-scholarship-1.72827",
+    "source_url": "https://www.kth.se/en/studies/master/",
     "portal_url": "https://www.universityadmissions.se/intl/start",
     "discovered_by": "seed_database",
     "funding": {
@@ -14980,7 +14980,7 @@
       "official_sources_verified": [
         {
           "source_name": "KTH Royal Institute of Technology Master's Scholarship Portal",
-          "source_url": "https://www.kth.se/en/studies/master/scholarships/kth-scholarship-1.72827",
+          "source_url": "https://www.kth.se/en/studies/master/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -15002,7 +15002,7 @@
       ]
     },
     "Subjects_included": "Master's Programme in Computer Science; Master's Programme in Machine Learning; Master's Programme in Cybersecurity; Master's Programme in Software Engineering of Distributed Systems; Master's Programme in Information and Network Engineering; Master's Programme in Interactive Media Technology; Master's Programme in Embedded Systems",
-    "subjects_source_url": "https://www.kth.se/en/studies/master/scholarships/kth-scholarship-1.72827"
+    "subjects_source_url": "https://www.kth.se/en/studies/master/"
   },
   {
     "scholarship_id": "SCH-EU-043",
@@ -15011,7 +15011,7 @@
     "host_country_name": "Sweden",
     "host_institution": "Chalmers University of Technology (Department of Computer Science and Engineering)",
     "region": "Europe",
-    "source_url": "https://www.chalmers.se/en/education/admissions/scholarships/the-ipoet-scholarships/",
+    "source_url": "https://www.chalmers.se/en/education/",
     "portal_url": "https://www.universityadmissions.se/intl/start",
     "discovered_by": "seed_database",
     "funding": {
@@ -15374,7 +15374,7 @@
     "host_country_name": "Italy",
     "host_institution": "University of Bologna (Alma Mater Studiorum - DISI)",
     "region": "Europe",
-    "source_url": "https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/international-talents-unibo",
+    "source_url": "https://www.unibo.it/en/university/organisation-and-campuses/university-services",
     "portal_url": "https://studenti.unibo.it/",
     "discovered_by": "seed_database",
     "funding": {
@@ -15703,7 +15703,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Bologna International Talents @Unibo Official Portal",
-          "source_url": "https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/international-talents-unibo",
+          "source_url": "https://www.unibo.it/en/university/organisation-and-campuses/university-services",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -15718,7 +15718,7 @@
       ]
     },
     "Subjects_included": "Artificial Intelligence (MSc); Computer Science and Engineering (MSc); Data Science and Advanced Analytics; Digital Transformation Management; Automation Engineering; Advanced Automotive Electronic Engineering (MUNER - Motorvehicle University of Emilia-Romagna); Telecommunications Engineering; Quantitative Finance and Economics",
-    "subjects_source_url": "https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/international-talents-unibo"
+    "subjects_source_url": "https://www.unibo.it/en/university/organisation-and-campuses/university-services"
   },
   {
     "scholarship_id": "SCH-EU-045",
@@ -16078,7 +16078,7 @@
     "host_institution": "State and state-recognized universities in Germany",
     "region": "Europe",
     "source_url": "https://www.rosalux.de/en/foundation/studienwerk",
-    "portal_url": "https://www.rosalux.de/en/foundation/studienwerk/application",
+    "portal_url": "https://www.rosalux.de/en/foundation/studienwerk/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -16813,7 +16813,7 @@
     "host_institution": "BDMA Consortium (ULB Brussels, CentraleSupélec Paris, UPC Barcelona, TU Eindhoven)",
     "region": "Europe",
     "source_url": "https://bdma.ulb.ac.be/home/master-programme/",
-    "portal_url": "https://bdma.ulb.ac.be/home/apply-now/",
+    "portal_url": "https://bdma.ulb.ac.be/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -17890,7 +17890,7 @@
     "host_country_name": "France",
     "host_institution": "École Polytechnique (Institut Polytechnique de Paris - IP Paris)",
     "region": "Europe",
-    "source_url": "https://www.ip-paris.fr/en/education/admissions/financial-support/master-scholarships",
+    "source_url": "https://www.ip-paris.fr/en/education/useful-information/admissions",
     "portal_url": "https://www.ip-paris.fr/en/education/masters",
     "discovered_by": "seed_database",
     "funding": {
@@ -18252,8 +18252,8 @@
     "host_country_name": "France / Sweden / Italy / Finland",
     "host_institution": "GENIAL Consortium (Univ of Lorraine, Luleå Univ of Tech, Univ of Naples, Lappeenranta LUT)",
     "region": "Europe",
-    "source_url": "https://genial.univ-lorraine.fr/scholarships/",
-    "portal_url": "https://genial.univ-lorraine.fr/apply/",
+    "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+    "portal_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -18612,8 +18612,8 @@
     "host_country_name": "Hungary / Spain / France",
     "host_institution": "IPCV Consortium (Pázmány Péter Catholic Univ Budapest, UAM Madrid, Univ of Bordeaux)",
     "region": "Europe",
-    "source_url": "https://ipcv.eu/scholarships",
-    "portal_url": "https://ipcv.eu/apply",
+    "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+    "portal_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -18976,8 +18976,8 @@
     "host_country_name": "Germany",
     "host_institution": "State-accredited universities across Germany",
     "region": "Europe",
-    "source_url": "https://www.cusanuswerk.de/en/scholarships/application",
-    "portal_url": "https://bewerbung.cusanuswerk.de/",
+    "source_url": "https://www.cusanuswerk.de/en/startseite",
+    "portal_url": "https://www.cusanuswerk.de/startseite",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -19341,8 +19341,8 @@
     "host_country_name": "Germany",
     "host_institution": "State universities across Germany",
     "region": "Europe",
-    "source_url": "https://www.boeckler.de/en/scholarships-2680.htm",
-    "portal_url": "https://bewerbung.boeckler.de/",
+    "source_url": "https://www.boeckler.de/en/index.htm",
+    "portal_url": "https://www.boeckler.de/en/index.htm",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -19715,7 +19715,7 @@
     "host_country_name": "Finland",
     "host_institution": "LUT University (School of Engineering Science - Software Engineering, Lappeenranta)",
     "region": "Europe",
-    "source_url": "https://www.lut.fi/en/admissions/masters-studies/scholarships",
+    "source_url": "https://www.lut.fi/en/studies",
     "portal_url": "https://opintopolku.fi/konfo/en/",
     "discovered_by": "seed_database",
     "funding": {
@@ -20054,7 +20054,7 @@
       "official_sources_verified": [
         {
           "source_name": "LUT University Master's Scholarships Official Portal",
-          "source_url": "https://www.lut.fi/en/admissions/masters-studies/scholarships",
+          "source_url": "https://www.lut.fi/en/studies",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -20069,7 +20069,7 @@
       ]
     },
     "Subjects_included": "MSc in Energy Technology (Energy Conversion, Nuclear Engineering); MSc in Electrical Engineering (Solar Economy, Power Electronics); MSc in Software Engineering and Digital Transformation; MSc in Mechanical Engineering (Welding, Mechatronics); MSc in Chemical Engineering (Circular Economy, Water Treatment); MSc in Data-Centric Engineering and Computational Science; MSc in Sustainable Science and Solutions; MSc in International Business and Technology Management",
-    "subjects_source_url": "https://www.lut.fi/en/admissions/masters-studies/scholarships"
+    "subjects_source_url": "https://www.lut.fi/en/studies"
   },
   {
     "scholarship_id": "SCH-EU-058",
@@ -20440,8 +20440,8 @@
     "host_country_name": "Germany / Turkey / North Macedonia",
     "host_institution": "CyberMACS Consortium (SRH Berlin Univ of Applied Sciences, Kadir Has Univ Istanbul, UKIM)",
     "region": "Europe",
-    "source_url": "https://cybermacs.eu/scholarship-details/",
-    "portal_url": "https://cybermacs.eu/application-requirements/",
+    "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+    "portal_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -20793,8 +20793,8 @@
     "host_country_name": "France / Italy / Romania",
     "host_institution": "DMIN Consortium (Université Lumière Lyon 2, Univ of Piemonte Orientale, Politehnica Bucharest)",
     "region": "Europe",
-    "source_url": "https://master-dmin.univ-lyon2.fr/",
-    "portal_url": "https://master-dmin.univ-lyon2.fr/application/",
+    "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+    "portal_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -21147,7 +21147,7 @@
     "host_country_name": "Germany",
     "host_institution": "State-accredited universities across Germany",
     "region": "Europe",
-    "source_url": "https://eles-studienwerk.de/en/scholarships/application/",
+    "source_url": "https://eles-studienwerk.de/",
     "portal_url": "https://bewerbung.eles-studienwerk.de/",
     "discovered_by": "seed_database",
     "funding": {
@@ -21523,7 +21523,7 @@
     "host_country_name": "Germany",
     "host_institution": "State and state-recognized universities in Germany",
     "region": "Europe",
-    "source_url": "https://www.avicenna-studienwerk.de/en/application/",
+    "source_url": "https://www.avicenna-studienwerk.de/",
     "portal_url": "https://bewerbung.avicenna-studienwerk.de/",
     "discovered_by": "seed_database",
     "funding": {
@@ -21869,7 +21869,7 @@
       "official_sources_verified": [
         {
           "source_name": "Avicenna-Studienwerk Official Portal",
-          "source_url": "https://www.avicenna-studienwerk.de/en/application/",
+          "source_url": "https://www.avicenna-studienwerk.de/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -21884,7 +21884,7 @@
       ]
     },
     "Subjects_included": "MSc / PhD in Computer Science & Artificial Intelligence; MSc / PhD in Software Systems Engineering; MSc / PhD in Electrical and Computer Engineering; MSc / PhD in Biomedical Sciences & Biotechnology; MSc / PhD in Public Policy; Economics & Management; MSc / PhD in Philosophy; Ethics & Islamic Studies",
-    "subjects_source_url": "https://www.avicenna-studienwerk.de/en/application/"
+    "subjects_source_url": "https://www.avicenna-studienwerk.de/"
   },
   {
     "scholarship_id": "SCH-EU-063",
@@ -21893,7 +21893,7 @@
     "host_country_name": "Finland",
     "host_institution": "University of Eastern Finland (School of Computing, Joensuu/Kuopio)",
     "region": "Europe",
-    "source_url": "https://www.uef.fi/en/scholarships-and-tuition-fees",
+    "source_url": "https://www.uef.fi/en/",
     "portal_url": "https://opintopolku.fi/konfo/en/",
     "discovered_by": "seed_database",
     "funding": {
@@ -22222,7 +22222,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Eastern Finland Official Scholarships Page",
-          "source_url": "https://www.uef.fi/en/scholarships-and-tuition-fees",
+          "source_url": "https://www.uef.fi/en/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -22237,7 +22237,7 @@
       ]
     },
     "Subjects_included": "MSc in Information Technology (Intelligent Systems & Data Engineering); MSc in Medical Physics and Biomedical Engineering; MSc in Speech and Language Processing; MSc in Environmental Forestry and Bioeconomy; MSc in Public Health and Epidemiology",
-    "subjects_source_url": "https://www.uef.fi/en/scholarships-and-tuition-fees"
+    "subjects_source_url": "https://www.uef.fi/en/"
   },
   {
     "scholarship_id": "SCH-EU-064",
@@ -22246,7 +22246,7 @@
     "host_country_name": "Belgium",
     "host_institution": "Vrije Universiteit Brussel (Faculty of Sciences and Bioengineering Sciences - Computer Science)",
     "region": "Europe",
-    "source_url": "https://www.vub.be/en/studying-vub/practical-info-for-students/scholarships/vub-scholarships",
+    "source_url": "https://www.vub.be/en/studying-vub/practical-info-for-students",
     "portal_url": "https://www.vub.be/en/apply",
     "discovered_by": "seed_database",
     "funding": {
@@ -22577,7 +22577,7 @@
       "official_sources_verified": [
         {
           "source_name": "Vrije Universiteit Brussel Scholarships Portal",
-          "source_url": "https://www.vub.be/en/studying-vub/practical-info-for-students/scholarships/vub-scholarships",
+          "source_url": "https://www.vub.be/en/studying-vub/practical-info-for-students",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -22592,7 +22592,7 @@
       ]
     },
     "Subjects_included": "MSc Computer Science (Applied Artificial Intelligence); MSc Computer Science (Software Languages & Software Engineering); MSc Computer Science (Data Management & Analytics); MSc Applied Computer Science",
-    "subjects_source_url": "https://www.vub.be/en/studying-vub/practical-info-for-students/scholarships/vub-scholarships"
+    "subjects_source_url": "https://www.vub.be/en/studying-vub/practical-info-for-students"
   },
   {
     "scholarship_id": "SCH-EU-065",
@@ -22601,8 +22601,8 @@
     "host_country_name": "Belgium / France / Spain / Germany",
     "host_institution": "DEDS Consortium (ULB Brussels, CentraleSupélec / Univ Paris-Saclay, UPC Barcelona, TU Berlin)",
     "region": "Europe",
-    "source_url": "https://deds.ulb.ac.be/scholarships",
-    "portal_url": "https://deds.ulb.ac.be/apply",
+    "source_url": "https://deds.ulb.ac.be/",
+    "portal_url": "https://deds.ulb.ac.be/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -22933,7 +22933,7 @@
       "official_sources_verified": [
         {
           "source_name": "DEDS Official Erasmus Mundus Consortium Portal",
-          "source_url": "https://deds.ulb.ac.be/scholarships",
+          "source_url": "https://deds.ulb.ac.be/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -22948,7 +22948,7 @@
       ]
     },
     "Subjects_included": "DEDS Track 1: Distributed Data Pipelines (ULB & UPC); DEDS Track 2: Scalable Cloud Architectures (CentraleSupélec & TU Berlin); DEDS Track 3: Data Analytics & Big Data Systems (ULB & TU Berlin)",
-    "subjects_source_url": "https://deds.ulb.ac.be/scholarships"
+    "subjects_source_url": "https://deds.ulb.ac.be/"
   },
   {
     "scholarship_id": "SCH-EU-066",
@@ -23315,8 +23315,8 @@
     "host_country_name": "Denmark",
     "host_institution": "Technical University of Denmark (DTU Compute - Department of Applied Mathematics and Computer Science, Lyngby)",
     "region": "Europe",
-    "source_url": "https://www.dtu.dk/english/about/job-and-career/working-at-dtu/phd-at-dtu",
-    "portal_url": "https://www.dtu.dk/english/about/job-and-career/vacancies",
+    "source_url": "https://www.dtu.dk/english/about/job-and-career/working-at-dtu/",
+    "portal_url": "https://www.dtu.dk/english/about/job-and-career/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -24033,7 +24033,7 @@
     "host_country_name": "Netherlands",
     "host_institution": "Delft University of Technology (TU Delft)",
     "region": "Europe",
-    "source_url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/scholarships/justus-louise-van-effen-excellence-scholarships",
+    "source_url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/scholarships/",
     "portal_url": "https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma",
     "discovered_by": "seed_database",
     "funding": {
@@ -24376,7 +24376,7 @@
       "official_sources_verified": [
         {
           "source_name": "TU Delft Justus & Louise van Effen Scholarships Portal",
-          "source_url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/scholarships/justus-louise-van-effen-excellence-scholarships",
+          "source_url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/scholarships/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -24391,7 +24391,7 @@
       ]
     },
     "Subjects_included": "MSc in Computer Science (Data Science, Software Technology, AI); MSc in Artificial Intelligence Technology; MSc in Aerospace Engineering; MSc in Electrical Engineering (Microelectronics, Signals & Systems); MSc in Embedded Systems; MSc in Mechanical Engineering; MSc in Robotics; MSc in Applied Physics",
-    "subjects_source_url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/scholarships/justus-louise-van-effen-excellence-scholarships"
+    "subjects_source_url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/scholarships/"
   },
   {
     "scholarship_id": "SCH-EU-071",
@@ -24774,7 +24774,7 @@
     "host_institution": "Utrecht University",
     "region": "Europe",
     "source_url": "https://www.uu.nl/masters/en/general-information/international-students/financial-matters/grants-and-scholarships/utrecht-excellence-scholarships",
-    "portal_url": "https://osiris-aanmeld.uu.nl/",
+    "portal_url": "https://www.uu.nl/en/masters/general-information/application-and-admission/scholarships-and-grants",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -25148,8 +25148,8 @@
     "host_country_name": "Netherlands",
     "host_institution": "University of Amsterdam (UvA)",
     "region": "Europe",
-    "source_url": "https://www.uva.nl/en/education/master-s/scholarships--tuition/scholarships-and-loans/amsterdam-excellence-scholarship/amsterdam-excellence-scholarship.html",
-    "portal_url": "https://www.uva.nl/en/education/master-s/application-and-admission",
+    "source_url": "https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/masters-scholarships-and-loans.html",
+    "portal_url": "https://www.uva.nl/en/education/master-s/masters.html",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -26638,7 +26638,7 @@
     "host_country_name": "United Kingdom",
     "host_institution": "Imperial College London",
     "region": "Europe",
-    "source_url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-and-scholarships/presidents-phd-scholarships/",
+    "source_url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/",
     "portal_url": "https://www.imperial.ac.uk/study/apply/postgraduate-doctoral/",
     "discovered_by": "seed_database",
     "funding": {
@@ -26980,7 +26980,7 @@
       "official_sources_verified": [
         {
           "source_name": "Imperial College London President's PhD Scholarships",
-          "source_url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-and-scholarships/presidents-phd-scholarships/",
+          "source_url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -26995,7 +26995,7 @@
       ]
     },
     "Subjects_included": "PhD in Computing & Artificial Intelligence; PhD in Bioengineering & Neurotechnology; PhD in Electrical & Electronic Engineering; PhD in Mechanical Engineering & Robotics; PhD in Physics & Quantum Technologies; PhD in Chemical Engineering & Sustainable Materials; PhD in Mathematics & Data Science",
-    "subjects_source_url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-and-scholarships/presidents-phd-scholarships/"
+    "subjects_source_url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/"
   },
   {
     "scholarship_id": "SCH-EU-078",
@@ -27004,7 +27004,7 @@
     "host_country_name": "United Kingdom",
     "host_institution": "University of Bristol",
     "region": "Europe",
-    "source_url": "https://www.bristol.ac.uk/international/fees-finance/scholarships/think-big-postgraduate/",
+    "source_url": "https://www.bristol.ac.uk/international/fees-finance/scholarships/",
     "portal_url": "https://www.bristol.ac.uk/study/postgraduate/apply/",
     "discovered_by": "seed_database",
     "funding": {
@@ -27344,7 +27344,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Bristol Think Big Scholarships Portal",
-          "source_url": "https://www.bristol.ac.uk/international/fees-finance/scholarships/think-big-postgraduate/",
+          "source_url": "https://www.bristol.ac.uk/international/fees-finance/scholarships/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -27359,7 +27359,7 @@
       ]
     },
     "Subjects_included": "MSc in Computer Science (Conversion); MSc in Data Science; MSc in Financial Technology (FinTech); MSc in Advanced Mechanical Engineering; MSc in Public Policy; MSc in Economics and Finance",
-    "subjects_source_url": "https://www.bristol.ac.uk/international/fees-finance/scholarships/think-big-postgraduate/"
+    "subjects_source_url": "https://www.bristol.ac.uk/international/fees-finance/scholarships/"
   },
   {
     "scholarship_id": "SCH-EU-079",
@@ -27368,7 +27368,7 @@
     "host_country_name": "United Kingdom",
     "host_institution": "University of Edinburgh",
     "region": "Europe",
-    "source_url": "https://www.ed.ac.uk/student-funding/postgraduate/international/global/research",
+    "source_url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international",
     "portal_url": "https://www.ed.ac.uk/studying/postgraduate/applying",
     "discovered_by": "seed_database",
     "funding": {
@@ -27708,7 +27708,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Edinburgh Global Research Scholarships Portal",
-          "source_url": "https://www.ed.ac.uk/student-funding/postgraduate/international/global/research",
+          "source_url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -27723,7 +27723,7 @@
       ]
     },
     "Subjects_included": "PhD in Computer Science & Informatics; PhD in Data Science & Machine Learning; PhD in Artificial Intelligence & Robotics; PhD in Engineering & Electronics; PhD in Precision Medicine & Genomics; PhD in Mathematical Sciences & Statistics",
-    "subjects_source_url": "https://www.ed.ac.uk/student-funding/postgraduate/international/global/research"
+    "subjects_source_url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international"
   },
   {
     "scholarship_id": "SCH-EU-080",
@@ -27732,8 +27732,8 @@
     "host_country_name": "Italy",
     "host_institution": "Scuola Normale Superiore (SNS Pisa)",
     "region": "Europe",
-    "source_url": "https://www.sns.it/en/admissions/phd",
-    "portal_url": "https://servizi-online.sns.it/bando-phd/",
+    "source_url": "https://www.sns.it/en",
+    "portal_url": "https://www.sns.it/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -28460,7 +28460,7 @@
     "host_institution": "Scuola Internazionale Superiore di Studi Avanzati (SISSA)",
     "region": "Europe",
     "source_url": "https://www.sissa.it/phd-courses",
-    "portal_url": "https://www.sissa.it/how-apply",
+    "portal_url": "https://www.sissa.it/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -28802,7 +28802,7 @@
         },
         {
           "source_name": "SISSA Admissions Guidelines",
-          "source_url": "https://www.sissa.it/how-apply",
+          "source_url": "https://www.sissa.it/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -28819,8 +28819,8 @@
     "host_country_name": "Italy",
     "host_institution": "Scuola Superiore Sant'Anna (Pisa)",
     "region": "Europe",
-    "source_url": "https://www.santannapisa.it/en/education/phd-courses",
-    "portal_url": "https://www.santannapisa.it/en/admissions",
+    "source_url": "https://www.santannapisa.it/en/education",
+    "portal_url": "https://www.santannapisa.it/en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -29154,14 +29154,14 @@
       "official_sources_verified": [
         {
           "source_name": "Scuola Superiore Sant'Anna Official Portal",
-          "source_url": "https://www.santannapisa.it/en/education/phd-courses",
+          "source_url": "https://www.santannapisa.it/en/education",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
         },
         {
           "source_name": "Sant'Anna Admissions System",
-          "source_url": "https://www.santannapisa.it/en/admissions",
+          "source_url": "https://www.santannapisa.it/en",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -29169,7 +29169,7 @@
       ]
     },
     "Subjects_included": "PhD in Biorobotics (Prosthetics, Surgical Robotics, Bio-inspired Systems); PhD in Emerging Digital Technologies (Cybersecurity, AI, Photonic Networks); PhD in Economics (Industrial Dynamics, Innovation, Complexity); PhD in Law (Human Rights, AI & Law); PhD in Agrobiosciences (Sustainable Agriculture, Plant Genomics); PhD in Translational Medicine",
-    "subjects_source_url": "https://www.santannapisa.it/en/education/phd-courses"
+    "subjects_source_url": "https://www.santannapisa.it/en/education"
   },
   {
     "scholarship_id": "SCH-EU-084",
@@ -29179,7 +29179,7 @@
     "host_institution": "University of Vienna",
     "region": "Europe",
     "source_url": "https://doktorat.univie.ac.at/en/finances/fellowships/unidocs/",
-    "portal_url": "https://servicekultur.univie.ac.at/en/",
+    "portal_url": "https://icoe.univie.ac.at/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -29542,7 +29542,7 @@
     "host_country_name": "Germany",
     "host_institution": "All Public Universities in Germany",
     "region": "Europe",
-    "source_url": "https://www.fes.de/studienfoerderung/bewerbung/internationale-bewerber-innen",
+    "source_url": "https://www.fes.de/studienfoerderung/bewerbung/",
     "portal_url": "https://www.fes.de/studienfoerderung/bewerbung",
     "discovered_by": "seed_database",
     "funding": {
@@ -29889,7 +29889,7 @@
       "official_sources_verified": [
         {
           "source_name": "Friedrich Ebert Foundation International Scholarships Portal",
-          "source_url": "https://www.fes.de/studienfoerderung/bewerbung/internationale-bewerber-innen",
+          "source_url": "https://www.fes.de/studienfoerderung/bewerbung/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -29904,7 +29904,7 @@
       ]
     },
     "Subjects_included": "MSc / PhD in Computer Science & Artificial Intelligence; MSc / PhD in Sustainable Engineering & Energy Systems; MSc / PhD in Political Science & International Relations; MSc / PhD in Economics & Public Policy; MSc / PhD in Law & Human Rights; MSc / PhD in Environmental Governance",
-    "subjects_source_url": "https://www.fes.de/studienfoerderung/bewerbung/internationale-bewerber-innen"
+    "subjects_source_url": "https://www.fes.de/studienfoerderung/bewerbung/"
   },
   {
     "scholarship_id": "SCH-EU-086",
@@ -29914,7 +29914,7 @@
     "host_institution": "Charles University (Prague)",
     "region": "Europe",
     "source_url": "https://www.mff.cuni.cz/en/admissions/scholarships",
-    "portal_url": "https://is.cuni.cz/prihlaska/",
+    "portal_url": "https://it.cuni.cz/MYLIFE-1.html",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -30259,7 +30259,7 @@
         },
         {
           "source_name": "Charles University Admissions System",
-          "source_url": "https://is.cuni.cz/prihlaska/",
+          "source_url": "https://it.cuni.cz/MYLIFE-1.html",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -30276,8 +30276,8 @@
     "host_country_name": "Germany",
     "host_institution": "Research Institutes Across Europe (Max Planck, EMBL, Francis Crick)",
     "region": "Europe",
-    "source_url": "https://www.bifonds.de/fellowships-grants/phd-fellowships.html",
-    "portal_url": "https://www.bifonds.de/online-application.html",
+    "source_url": "https://www.bifonds.de/",
+    "portal_url": "https://www.bifonds.de/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -30619,7 +30619,7 @@
       "official_sources_verified": [
         {
           "source_name": "Boehringer Ingelheim Fonds Official Fellowship Portal",
-          "source_url": "https://www.bifonds.de/fellowships-grants/phd-fellowships.html",
+          "source_url": "https://www.bifonds.de/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -30634,7 +30634,7 @@
       ]
     },
     "Subjects_included": "PhD in Molecular Biology & Gene Regulation; PhD in Computational Biology & Single-Cell Genomics; PhD in Structural Biology & Cryo-EM; PhD in Cellular Neurobiology & Neural Circuitry; PhD in Cancer Biology & Epigenetics; PhD in Immunology & Signal Transduction",
-    "subjects_source_url": "https://www.bifonds.de/fellowships-grants/phd-fellowships.html"
+    "subjects_source_url": "https://www.bifonds.de/"
   },
   {
     "scholarship_id": "SCH-EU-088",
@@ -30644,7 +30644,7 @@
     "host_institution": "Université de Bretagne Sud, Université Libre de Bruxelles, University of Tartu",
     "region": "Europe",
     "source_url": "https://master-cyberus.eu/",
-    "portal_url": "https://master-cyberus.eu/how-to-apply/",
+    "portal_url": "https://master-cyberus.eu/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -31372,8 +31372,8 @@
     "host_country_name": "France / Italy / Finland",
     "host_institution": "Univ of Rennes, Univ of L'Aquila, Aalto University",
     "region": "Europe",
-    "source_url": "https://master-cloud.eu/",
-    "portal_url": "https://master-cloud.eu/apply/",
+    "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+    "portal_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -31733,8 +31733,8 @@
     "host_country_name": "France / Greece / Italy",
     "host_institution": "Univ Paris Cité, Univ of Patras, Univ of Pavia, Univ of Angers",
     "region": "Europe",
-    "source_url": "https://master-nanomed.eu/",
-    "portal_url": "https://master-nanomed.eu/apply/",
+    "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+    "portal_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -32073,7 +32073,7 @@
       "official_sources_verified": [
         {
           "source_name": "NANOMED Official Erasmus Mundus Consortium Portal",
-          "source_url": "https://master-nanomed.eu/",
+          "source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -32088,7 +32088,7 @@
       ]
     },
     "Subjects_included": "Semester 1 (Paris Cité): Physicochemistry of Nanocarriers and Biological Barriers; Semester 2 (Angers): Nanomedicine Formulation & Characterization; Semester 3 Option A (Patras): Gene Therapy & Advanced Biotherapeutics; Semester 3 Option B (Pavia): Clinical Translation & Industrial Production; Semester 4: Master Thesis Internship with Industrial Partner or Research Lab",
-    "subjects_source_url": "https://master-nanomed.eu/"
+    "subjects_source_url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en"
   },
   {
     "scholarship_id": "SCH-EU-092",
@@ -32463,7 +32463,7 @@
     "host_country_name": "United Kingdom",
     "host_institution": "University of Sheffield",
     "region": "Europe",
-    "source_url": "https://www.sheffield.ac.uk/international/fees-and-funding/scholarships/postgraduate-taught/merit-scholarship",
+    "source_url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships",
     "portal_url": "https://www.sheffield.ac.uk/postgraduate/taught/apply",
     "discovered_by": "seed_database",
     "funding": {
@@ -32803,7 +32803,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Sheffield International Merit Scholarship Portal",
-          "source_url": "https://www.sheffield.ac.uk/international/fees-and-funding/scholarships/postgraduate-taught/merit-scholarship",
+          "source_url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -32818,7 +32818,7 @@
       ]
     },
     "Subjects_included": "MSc in Computer Science (Negotiated Learning / Conversion); MSc in Data Analytics; MSc in Advanced Mechanical Engineering; MSc in Civil Engineering & Structural Mechanics; MSc in Biological and Bioprocess Engineering; MSc in Information Systems",
-    "subjects_source_url": "https://www.sheffield.ac.uk/international/fees-and-funding/scholarships/postgraduate-taught/merit-scholarship"
+    "subjects_source_url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships"
   },
   {
     "scholarship_id": "SCH-EU-094",
@@ -32827,8 +32827,8 @@
     "host_country_name": "United Kingdom",
     "host_institution": "University of Manchester",
     "region": "Europe",
-    "source_url": "https://www.manchester.ac.uk/study/international/finance-and-travel/funding/global-futures-scholarship/",
-    "portal_url": "https://www.manchester.ac.uk/study/masters/admissions/apply-online/",
+    "source_url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/",
+    "portal_url": "https://www.manchester.ac.uk/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -33169,14 +33169,14 @@
       "official_sources_verified": [
         {
           "source_name": "University of Manchester Global Futures Scholarship Portal",
-          "source_url": "https://www.manchester.ac.uk/study/international/finance-and-travel/funding/global-futures-scholarship/",
+          "source_url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
         },
         {
           "source_name": "University of Manchester Postgraduate Admissions",
-          "source_url": "https://www.manchester.ac.uk/study/masters/admissions/apply-online/",
+          "source_url": "https://www.manchester.ac.uk/",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -33184,7 +33184,7 @@
       ]
     },
     "Subjects_included": "MSc in Advanced Computer Science (AI, Data, Systems); MSc in Data Science; MSc in Communications and Signal Processing; MSc in Renewable Energy & Clean Technology; MSc in Biotechnology; MSc in Development Finance / Economics",
-    "subjects_source_url": "https://www.manchester.ac.uk/study/international/finance-and-travel/funding/global-futures-scholarship/"
+    "subjects_source_url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/"
   },
   {
     "scholarship_id": "SCH-EU-095",
@@ -33904,8 +33904,8 @@
     "host_country_name": "United Kingdom",
     "host_institution": "University of Edinburgh (College of Medicine and Veterinary Medicine)",
     "region": "Europe",
-    "source_url": "https://www.ed.ac.uk/student-funding/postgraduate/international/glenmore",
-    "portal_url": "https://www.ed.ac.uk/student-funding/postgraduate/international/glenmore",
+    "source_url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international",
+    "portal_url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international",
     "discovered_by": "curated_database",
     "funding": {
       "funding_type": "FULL",
@@ -34241,7 +34241,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Edinburgh Glenmore Medical Scholarships Portal",
-          "source_url": "https://www.ed.ac.uk/student-funding/postgraduate/international/glenmore",
+          "source_url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -34256,7 +34256,7 @@
       ]
     },
     "Subjects_included": "MSc in Surgical Sciences / ChM General Surgery; MSc in Clinical Oncology; MSc in Internal Medicine; MSc in Global Health and Infectious Diseases; MSc in Neuroimaging for Clinical & Cognitive Neuroscience; MSc in Critical Care; MSc in Paediatric Emergency Medicine",
-    "subjects_source_url": "https://www.ed.ac.uk/student-funding/postgraduate/international/glenmore"
+    "subjects_source_url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international"
   },
   {
     "scholarship_id": "SCH-EU-098",
@@ -34265,8 +34265,8 @@
     "host_country_name": "Italy",
     "host_institution": "Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste",
     "region": "Europe",
-    "source_url": "https://www.ictp.it/programmes/postgraduate-diploma-programme",
-    "portal_url": "https://www.ictp.it/programmes/postgraduate-diploma-programme",
+    "source_url": "https://www.ictp.it/",
+    "portal_url": "https://www.ictp.it/",
     "discovered_by": "curated_database",
     "funding": {
       "funding_type": "FULL",
@@ -34577,7 +34577,7 @@
       "official_sources_verified": [
         {
           "source_name": "The Abdus Salam International Centre for Theoretical Physics (ICTP) - Official Diploma Portal",
-          "source_url": "https://www.ictp.it/programmes/postgraduate-diploma-programme",
+          "source_url": "https://www.ictp.it/",
           "source_type": "OFFICIAL_ORGANIZATION",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -34588,7 +34588,7 @@
       ]
     },
     "Subjects_included": "High Energy Physics (Cosmology, Strings, Particles); Condensed Matter Physics; Earth System Physics; Pure Mathematics; Quantitative Life Sciences",
-    "subjects_source_url": "https://www.ictp.it/programmes/postgraduate-diploma-programme"
+    "subjects_source_url": "https://www.ictp.it/"
   },
   {
     "scholarship_id": "SCH-EU-099",
@@ -34964,8 +34964,8 @@
     "host_country_name": "Netherlands",
     "host_institution": "Delft University of Technology (TU Delft)",
     "region": "Europe",
-    "source_url": "https://www.tudelft.nl/en/education/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships",
-    "portal_url": "https://www.tudelft.nl/en/education/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships",
+    "source_url": "https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships",
+    "portal_url": "https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships",
     "discovered_by": "curated_database",
     "funding": {
       "funding_type": "FULL",
@@ -35308,7 +35308,7 @@
       "official_sources_verified": [
         {
           "source_name": "TU Delft Justus & Louise van Effen Excellence Scholarships Official Page",
-          "source_url": "https://www.tudelft.nl/en/education/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships",
+          "source_url": "https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -35323,7 +35323,7 @@
       ]
     },
     "Subjects_included": "MSc Aerospace Engineering; MSc Computer Science (Data Science, Software Tech, AI); MSc Electrical Engineering (Micro-electronics, Wireless); MSc Mechanical Engineering; MSc Civil Engineering & Geosciences; MSc Chemical Engineering; MSc Robotics; MSc Sustainable Energy Technology; MSc Embedded Systems; MSc Biomedical Engineering",
-    "subjects_source_url": "https://www.tudelft.nl/en/education/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships"
+    "subjects_source_url": "https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships"
   },
   {
     "scholarship_id": "SCH-EU-101",
@@ -36058,8 +36058,8 @@
     "host_country_name": "Switzerland",
     "host_institution": "Geneva Academy of International Humanitarian Law and Human Rights",
     "region": "Europe",
-    "source_url": "https://www.geneva-academy.ch/masters/scholarships",
-    "portal_url": "https://www.geneva-academy.ch/masters/scholarships",
+    "source_url": "https://geneva-academy.ch/masters-of-advanced-studies/",
+    "portal_url": "https://geneva-academy.ch/masters-of-advanced-studies/",
     "discovered_by": "curated_database",
     "funding": {
       "funding_type": "FULL",
@@ -36399,7 +36399,7 @@
       "official_sources_verified": [
         {
           "source_name": "Geneva Academy Scholarships Official Portal",
-          "source_url": "https://www.geneva-academy.ch/masters/scholarships",
+          "source_url": "https://geneva-academy.ch/masters-of-advanced-studies/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -36414,6 +36414,6 @@
       ]
     },
     "Subjects_included": "LL.M. in International Humanitarian Law and Human Rights; Master of Advanced Studies in Transitional Justice; Human Rights and the Rule of Law (MTJ); Executive Master in International Law in Armed Conflict",
-    "subjects_source_url": "https://www.geneva-academy.ch/masters/scholarships"
+    "subjects_source_url": "https://geneva-academy.ch/masters-of-advanced-studies/"
   }
 ]

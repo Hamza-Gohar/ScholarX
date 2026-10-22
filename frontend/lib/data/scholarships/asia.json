@@ -812,7 +812,7 @@
     "host_institution": "Seoul National University, KAIST, POSTECH, Korea University, Yonsei",
     "region": "Asia",
     "source_url": "https://www.studyinkorea.go.kr/",
-    "portal_url": "http://overseas.mofa.go.kr/pk-en/index.do",
+    "portal_url": "https://overseas.mofa.go.kr/pk-en/index.do",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -1213,7 +1213,7 @@
     "host_institution": "University of Chinese Academy of Sciences (UCAS) & USTC",
     "region": "Asia",
     "source_url": "http://www.anso.org.cn/programmes/talent/scholarship/",
-    "portal_url": "https://isa.ucas.ac.cn/",
+    "portal_url": "https://english.ucas.ac.cn/index.php/admission/international-students/financial-aid/6657-cas-anso-scholarship-degree-program-2026-call-for-applications-to-study-at-ucas",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -1905,8 +1905,8 @@
     "host_country_name": "Singapore",
     "host_institution": "A*STAR Institutes, National University of Singapore (NUS), Nanyang Technological University (NTU), SUTD",
     "region": "Asia",
-    "source_url": "https://www.a-star.edu.sg/Scholarships/For-Graduate-Studies/Singapore-International-Graduate-Award-SINGA",
-    "portal_url": "https://sms-students.a-star.edu.sg/",
+    "source_url": "https://www.a-star.edu.sg/scholarships",
+    "portal_url": "https://www.a-star.edu.sg/scholarships",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -2242,7 +2242,7 @@
     "host_country_name": "Taiwan",
     "host_institution": "Partner Universities in Taiwan (National Tsing Hua Univ, National Taiwan Univ)",
     "region": "Asia",
-    "source_url": "https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2",
+    "source_url": "https://www.icdf.org.tw/wSite/mp?mp=2",
     "portal_url": "https://web.icdf.org.tw/ICDF_TSP/WelcomeStart.aspx",
     "discovered_by": "seed_database",
     "funding": {
@@ -2566,7 +2566,7 @@
       "official_sources_verified": [
         {
           "source_name": "International Cooperation and Development Fund (Taiwan ICDF) - Scholarships Portal",
-          "source_url": "https://www.icdf.org.tw/wSite/np?ctNode=31561&mp=2",
+          "source_url": "https://www.icdf.org.tw/wSite/mp?mp=2",
           "source_type": "OFFICIAL_GOVERNMENT",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -2584,8 +2584,8 @@
     "host_country_name": "Brunei",
     "host_institution": "Universiti Brunei Darussalam (UBD), Universiti Teknologi Brunei (UTB)",
     "region": "Asia",
-    "source_url": "https://www.mfa.gov.bn/pages/bdgs.aspx",
-    "portal_url": "https://www.mfa.gov.bn/pages/online-application.aspx",
+    "source_url": "https://www.mfa.gov.bn/Pages/Forms/AllItems.aspx",
+    "portal_url": "https://www.mfa.gov.bn/Pages/Forms/AllItems.aspx",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -2930,7 +2930,7 @@
     "host_institution": "The University of Tokyo (Graduate School of Frontier Sciences / Engineering)",
     "region": "Asia",
     "source_url": "https://www.adb.org/work-with-us/careers/japan-scholarship-program",
-    "portal_url": "https://www.k.u-tokyo.ac.jp/en/exam/master/foreign_research_students/adb/",
+    "portal_url": "https://www.k.u-tokyo.ac.jp/en/exam/master/foreign_research_students/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -3965,7 +3965,7 @@
     "host_country_name": "South Korea",
     "host_institution": "KAIST (Korea Advanced Institute of Science and Technology)",
     "region": "Asia",
-    "source_url": "https://admission.kaist.ac.kr/intl-graduate/scholarships/",
+    "source_url": "https://admission.kaist.ac.kr/intl-graduate/",
     "portal_url": "https://apply.kaist.ac.kr/intergrad",
     "discovered_by": "seed_database",
     "funding": {
@@ -4992,8 +4992,8 @@
     "host_country_name": "South Korea",
     "host_institution": "DGIST",
     "region": "Asia",
-    "source_url": "https://www.dgist.ac.kr/en/html/sub03/030101.html",
-    "portal_url": "https://adm.dgist.ac.kr/eng/",
+    "source_url": "https://www.dgist.ac.kr/en/html/",
+    "portal_url": "https://www.dgist.ac.kr/en/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -5343,8 +5343,8 @@
     "host_country_name": "Japan",
     "host_institution": "National Institute of Informatics (NII Tokyo) / SOKENDAI",
     "region": "Asia",
-    "source_url": "https://www.sokendai.ac.jp/en/admission/financial_aid/",
-    "portal_url": "https://www.sokendai.ac.jp/en/admission/",
+    "source_url": "https://www.soken.ac.jp/en/",
+    "portal_url": "https://www.soken.ac.jp/en/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -5708,7 +5708,7 @@
     "host_country_name": "Japan",
     "host_institution": "Kyushu University (Graduate School of Information Science and Electrical Engineering - ISEE)",
     "region": "Asia",
-    "source_url": "https://www.kyushu-u.ac.jp/en/admission/support/scholarships",
+    "source_url": "https://www.kyushu-u.ac.jp/en/",
     "portal_url": "https://www.isee.kyushu-u.ac.jp/e/admissions.html",
     "discovered_by": "seed_database",
     "funding": {
@@ -6064,8 +6064,8 @@
     "host_country_name": "Thailand",
     "host_institution": "Sirindhorn International Institute of Technology (SIIT), Thammasat University",
     "region": "Asia",
-    "source_url": "https://www.siit.tu.ac.th/admission.php?sid=17&ssid=68",
-    "portal_url": "https://admissions.siit.tu.ac.th/",
+    "source_url": "https://www.siit.tu.ac.th/",
+    "portal_url": "https://www.siit.tu.ac.th/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -6774,7 +6774,7 @@
     "host_country_name": "Japan",
     "host_institution": "Osaka University (Graduate School of Science / Information Science)",
     "region": "Asia",
-    "source_url": "https://www.sci.osaka-u.ac.jp/en/admissions/sisc/",
+    "source_url": "https://www.sci.osaka-u.ac.jp/en/admissions/",
     "portal_url": "https://www.sci.osaka-u.ac.jp/en/",
     "discovered_by": "seed_database",
     "funding": {
@@ -7116,7 +7116,7 @@
       "official_sources_verified": [
         {
           "source_name": "Osaka University Graduate School of Science SISC Official Portal",
-          "source_url": "https://www.sci.osaka-u.ac.jp/en/admissions/sisc/",
+          "source_url": "https://www.sci.osaka-u.ac.jp/en/admissions/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -7127,7 +7127,7 @@
         },
         {
           "source_name": "Osaka University International Affairs Division Scholarships Overview",
-          "source_url": "https://www.osaka-u.ac.jp/en/international/inbound/scholarship",
+          "source_url": "https://www.osaka-u.ac.jp/en/international/inbound/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -7145,7 +7145,7 @@
     "host_country_name": "Singapore",
     "host_institution": "National University of Singapore (School of Computing)",
     "region": "Asia",
-    "source_url": "https://www.comp.nus.edu.sg/programmes/pg/phdcs/financial/",
+    "source_url": "https://www.comp.nus.edu.sg/programmes/pg/phdcs/",
     "portal_url": "https://gradapp.nus.edu.sg/",
     "discovered_by": "seed_database",
     "funding": {
@@ -7485,7 +7485,7 @@
     "host_institution": "Nanyang Technological University (College of Computing and Data Science)",
     "region": "Asia",
     "source_url": "https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss",
-    "portal_url": "https://wis.ntu.edu.sg/webexe/owa/pgr$gradapp.main",
+    "portal_url": "https://wis.ntu.edu.sg/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -7822,7 +7822,7 @@
     "host_country_name": "Malaysia",
     "host_institution": "Universiti Malaya (Faculty of Computer Science and Information Technology)",
     "region": "Asia",
-    "source_url": "https://brightsparks.um.edu.my/",
+    "source_url": "https://study.um.edu.my/",
     "portal_url": "https://maya.um.edu.my/",
     "discovered_by": "seed_database",
     "funding": {
@@ -8156,7 +8156,7 @@
       "official_sources_verified": [
         {
           "source_name": "Universiti Malaya Bright Sparks Programme Portal",
-          "source_url": "https://brightsparks.um.edu.my/",
+          "source_url": "https://study.um.edu.my/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -8178,7 +8178,7 @@
     "host_country_name": "China",
     "host_institution": "Tsinghua University (Department of Computer Science and Technology)",
     "region": "Asia",
-    "source_url": "https://www.tsinghua.edu.cn/en/Admissions/Graduate.htm",
+    "source_url": "https://www.tsinghua.edu.cn/en/",
     "portal_url": "https://gradadmission.tsinghua.edu.cn/",
     "discovered_by": "seed_database",
     "funding": {
@@ -8551,8 +8551,8 @@
     "host_country_name": "China",
     "host_institution": "Zhejiang University (College of Computer Science and Technology)",
     "region": "Asia",
-    "source_url": "https://iczu.zju.edu.cn/admissionsen/2023/1127/c68987a2831885/page.htm",
-    "portal_url": "https://isinfosys.zju.edu.cn/isapi/user/login",
+    "source_url": "https://iczu.zju.edu.cn/admissionsen/2023/1127/c68987a2831885/main.psp",
+    "portal_url": "https://isinfosys.zju.edu.cn/zjulxsgl8993864100599754951/login.shtml;jsessionid=40d7f15f25dc524637077078c790",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -8895,7 +8895,7 @@
       "official_sources_verified": [
         {
           "source_name": "Zhejiang University International College Admissions Portal",
-          "source_url": "https://iczu.zju.edu.cn/admissionsen/2023/1127/c68987a2831885/page.htm",
+          "source_url": "https://iczu.zju.edu.cn/admissionsen/2023/1127/c68987a2831885/main.psp",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -9292,8 +9292,8 @@
     "host_country_name": "Taiwan",
     "host_institution": "National Yang Ming Chiao Tung University (College of Computer Science)",
     "region": "Asia",
-    "source_url": "https://oia.nycu.edu.tw/en/degree-seeking/scholarships/",
-    "portal_url": "https://oia-sys.nycu.edu.tw/apply/",
+    "source_url": "https://oia.nycu.edu.tw/oia/ch/index",
+    "portal_url": "https://oia.nycu.edu.tw/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -9658,8 +9658,8 @@
     "host_country_name": "Malaysia",
     "host_institution": "Universiti Teknologi Malaysia (Faculty of Computing, Johor Bahru & KL)",
     "region": "Asia",
-    "source_url": "https://admission.utm.my/postgraduate-scholarship/",
-    "portal_url": "https://my.utm.my/",
+    "source_url": "https://admission.utm.my/english-language-requirements-3/",
+    "portal_url": "https://www.utm.my/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -10010,8 +10010,8 @@
     "host_country_name": "China",
     "host_institution": "Peking University (School of Electronics Engineering and Computer Science)",
     "region": "Asia",
-    "source_url": "https://www.isd.pku.edu.cn/scholarships/detail/7.html",
-    "portal_url": "https://www.studyatpku.com/",
+    "source_url": "https://www.isd.pku.edu.cn/en/",
+    "portal_url": "https://studyinchina.csc.edu.cn/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -10352,7 +10352,7 @@
       "official_sources_verified": [
         {
           "source_name": "Peking University International Students Division Official Portal",
-          "source_url": "https://www.studyatpku.com/",
+          "source_url": "https://studyinchina.csc.edu.cn/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -10382,7 +10382,7 @@
     "host_institution": "Fudan University (School of Computer Science, Shanghai)",
     "region": "Asia",
     "source_url": "https://iso.fudan.edu.cn/isoenglish/16075/list.htm",
-    "portal_url": "https://admission.iso.fudan.edu.cn/",
+    "portal_url": "https://iso.fudan.edu.cn/isoenglish/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -10752,8 +10752,8 @@
     "host_country_name": "Japan",
     "host_institution": "Nagoya University (Graduate School of Informatics)",
     "region": "Asia",
-    "source_url": "https://www.i.nagoya-u.ac.jp/en/admissions/",
-    "portal_url": "https://www.nagoya-u.ac.jp/en/admissions/",
+    "source_url": "https://www.i.nagoya-u.ac.jp/en/",
+    "portal_url": "https://www.nagoya-u.ac.jp/international/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -11087,7 +11087,7 @@
       "official_sources_verified": [
         {
           "source_name": "Nagoya University Graduate School of Informatics Admissions",
-          "source_url": "https://www.i.nagoya-u.ac.jp/en/admissions/",
+          "source_url": "https://www.i.nagoya-u.ac.jp/en/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -11116,8 +11116,8 @@
     "host_country_name": "Japan",
     "host_institution": "Tohoku University (Graduate School of Information Sciences - GSIS, Sendai)",
     "region": "Asia",
-    "source_url": "https://www.is.tohoku.ac.jp/en/admission/",
-    "portal_url": "https://www.insc.tohoku.ac.jp/english/degree/graduate-programs/",
+    "source_url": "https://www.is.tohoku.ac.jp/en/",
+    "portal_url": "https://www.tohoku.ac.jp/en/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -11452,7 +11452,7 @@
       "official_sources_verified": [
         {
           "source_name": "Tohoku University Graduate School of Information Sciences Admissions",
-          "source_url": "https://www.is.tohoku.ac.jp/en/admission/",
+          "source_url": "https://www.is.tohoku.ac.jp/en/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -11852,7 +11852,7 @@
     "host_country_name": "China",
     "host_institution": "Shanghai Jiao Tong University (School of Electronic Information and Electrical Engineering - SEIEE)",
     "region": "Asia",
-    "source_url": "https://isc.sjtu.edu.cn/EN/content.aspx?info_lb=38&flag=2",
+    "source_url": "https://isc.sjtu.edu.cn/",
     "portal_url": "https://apply.sjtu.edu.cn/",
     "discovered_by": "seed_database",
     "funding": {
@@ -12217,8 +12217,8 @@
     "host_country_name": "China",
     "host_institution": "University of Science and Technology of China (School of Computer Science and Technology, Hefei)",
     "region": "Asia",
-    "source_url": "https://isa.ustc.edu.cn/xs/disp.asp?menu1=02&menu2=01",
-    "portal_url": "https://isa.ustc.edu.cn/xs/login.asp",
+    "source_url": "https://isa.ustc.edu.cn/xs/login_scho.asp",
+    "portal_url": "https://isa.ustc.edu.cn/xs/login_scho.asp",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -12582,7 +12582,7 @@
     "host_country_name": "Japan",
     "host_institution": "Hokkaido University (Graduate School of Information Science and Technology - GSIST, Sapporo)",
     "region": "Asia",
-    "source_url": "https://www.global.hokudai.ac.jp/admissions/scholarships/scholarships-for-prospective-students/",
+    "source_url": "https://www.global.hokudai.ac.jp/admissions/scholarships/",
     "portal_url": "https://www.global.hokudai.ac.jp/admissions/",
     "discovered_by": "seed_database",
     "funding": {
@@ -12938,8 +12938,8 @@
     "host_country_name": "South Korea",
     "host_institution": "Chung-Ang University (Department of AI / Computer Science and Engineering, Seoul)",
     "region": "Asia",
-    "source_url": "https://oia.cau.ac.kr/sub05/sub02.php",
-    "portal_url": "https://interad.cau.ac.kr/",
+    "source_url": "http://oia.cau.ac.kr/cauoia/index.do",
+    "portal_url": "http://oia.cau.ac.kr/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -13295,8 +13295,8 @@
     "host_country_name": "Malaysia",
     "host_institution": "Universiti Putra Malaysia (Faculty of Computer Science and Information Technology, Serdang)",
     "region": "Asia",
-    "source_url": "https://sgs.upm.edu.my/financial_assistance_scholarships-1889",
-    "portal_url": "https://sgsportal.upm.edu.my:8080/sgsportal/",
+    "source_url": "https://www.upm.edu.my/",
+    "portal_url": "https://www.upm.edu.my/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -13647,7 +13647,7 @@
     "host_institution": "Harbin Institute of Technology (Faculty of Computing, Harbin)",
     "region": "Asia",
     "source_url": "http://studyathit.hit.edu.cn/scholarships",
-    "portal_url": "http://admission.hit.edu.cn/",
+    "portal_url": "https://studyathit.hit.edu.cn/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -14011,7 +14011,7 @@
     "host_country_name": "China",
     "host_institution": "Xi'an Jiaotong University (School of Computer Science and Technology, Xi'an)",
     "region": "Asia",
-    "source_url": "http://sie.xjtu.edu.cn/en/SCHOLARSHIPS1.htm",
+    "source_url": "http://sie.xjtu.edu.cn/en/",
     "portal_url": "http://isso.xjtu.edu.cn/recruit/login",
     "discovered_by": "seed_database",
     "funding": {
@@ -14377,7 +14377,7 @@
     "host_institution": "Kyushu University (Graduate School of Information Science and Electrical Engineering - ISEE, Fukuoka)",
     "region": "Asia",
     "source_url": "https://www.isee.kyushu-u.ac.jp/e/admissions.html",
-    "portal_url": "https://www.kyushu-u.ac.jp/en/admission/graduate",
+    "portal_url": "https://www.kyushu-u.ac.jp/en/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -14740,8 +14740,8 @@
     "host_country_name": "South Korea",
     "host_institution": "Hanyang University (Department of Computer Software / Artificial Intelligence, Seoul)",
     "region": "Asia",
-    "source_url": "https://oia.hanyang.ac.kr/graduate-scholarships",
-    "portal_url": "https://gradapply.hanyang.ac.kr/",
+    "source_url": "https://oia.hanyang.ac.kr/admission/",
+    "portal_url": "https://oia.hanyang.ac.kr/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -15104,8 +15104,8 @@
     "host_country_name": "Malaysia",
     "host_institution": "Universiti Kebangsaan Malaysia (Faculty of Information Science and Technology - FTSM, Bangi)",
     "region": "Asia",
-    "source_url": "https://www.ukm.my/portal/postgraduate-scholarship/",
-    "portal_url": "https://sppg.ukm.my/",
+    "source_url": "https://www.ukm.my/",
+    "portal_url": "https://www.ukm.my/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -15831,7 +15831,7 @@
     "host_country_name": "China",
     "host_institution": "Wuhan University (School of Computer Science, Luojia Hill, Wuhan)",
     "region": "Asia",
-    "source_url": "http://admission.whu.edu.cn/en/?c=content&a=list&catid=194",
+    "source_url": "https://admission.whu.edu.cn/",
     "portal_url": "http://admission.whu.edu.cn/",
     "discovered_by": "seed_database",
     "funding": {
@@ -16195,7 +16195,7 @@
     "host_country_name": "Japan",
     "host_institution": "Kobe University (Graduate School of System Informatics, Rokkodai Campus)",
     "region": "Asia",
-    "source_url": "http://www.csi.kobe-u.ac.jp/english/admission.html",
+    "source_url": "https://www.csi.kobe-u.ac.jp/english/",
     "portal_url": "http://www.kobe-u.ac.jp/en/study_in_kobe/admission/",
     "discovered_by": "seed_database",
     "funding": {
@@ -16551,8 +16551,8 @@
     "host_country_name": "South Korea",
     "host_institution": "Ajou University (Department of AI Convergence / Computer Engineering, Suwon)",
     "region": "Asia",
-    "source_url": "https://grad-e.ajou.ac.kr/grad-e/admission/scholarships.do",
-    "portal_url": "https://grad-e.ajou.ac.kr/grad-e/admission/apply.do",
+    "source_url": "https://www.ajou.ac.kr/gs_eng/admission/foreigner05.do",
+    "portal_url": "https://www.ajou.ac.kr/gs_eng/admission/foreigner05.do",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -16909,7 +16909,7 @@
     "host_country_name": "Malaysia",
     "host_institution": "Universiti Tenaga Nasional (College of Computing and Informatics - CCI, Putrajaya)",
     "region": "Asia",
-    "source_url": "https://www.uniten.edu.my/admission/scholarships-financial-aid/",
+    "source_url": "https://www.uniten.edu.my/admission/",
     "portal_url": "https://apply.uniten.edu.my/",
     "discovered_by": "seed_database",
     "funding": {
@@ -17260,7 +17260,7 @@
     "host_country_name": "China",
     "host_institution": "Beihang University (School of Computer Science and Engineering, Xueyuan Road, Beijing)",
     "region": "Asia",
-    "source_url": "https://is.buaa.edu.cn/en/scholarships/",
+    "source_url": "https://is.buaa.edu.cn/en/",
     "portal_url": "https://admission.buaa.edu.cn/",
     "discovered_by": "seed_database",
     "funding": {
@@ -17612,7 +17612,7 @@
       "official_sources_verified": [
         {
           "source_name": "Beihang University International School Official Portal",
-          "source_url": "https://is.buaa.edu.cn/en/scholarships/",
+          "source_url": "https://is.buaa.edu.cn/en/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -17634,7 +17634,7 @@
     "host_country_name": "China",
     "host_institution": "Sun Yat-sen University (School of Computer Science and Engineering, Guangzhou/Shenzhen)",
     "region": "Asia",
-    "source_url": "http://iso.sysu.edu.cn/en/scholarship/chinese-government-scholarship",
+    "source_url": "https://iso.sysu.edu.cn/en/",
     "portal_url": "http://iso.sysu.edu.cn/",
     "discovered_by": "seed_database",
     "funding": {
@@ -17974,7 +17974,7 @@
       "official_sources_verified": [
         {
           "source_name": "Sun Yat-sen University International Student Office CSC Program",
-          "source_url": "http://iso.sysu.edu.cn/en/scholarship/chinese-government-scholarship",
+          "source_url": "https://iso.sysu.edu.cn/en/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -17996,8 +17996,8 @@
     "host_country_name": "Japan",
     "host_institution": "Hiroshima University (Graduate School of Advanced Science and Engineering - Informatics)",
     "region": "Asia",
-    "source_url": "https://www.hiroshima-u.ac.jp/en/admissions/financial_support/scholarships",
-    "portal_url": "https://www.hiroshima-u.ac.jp/en/admissions/admission_guide",
+    "source_url": "https://www.hiroshima-u.ac.jp/en/",
+    "portal_url": "https://www.hiroshima-u.ac.jp/en/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -18333,7 +18333,7 @@
       "official_sources_verified": [
         {
           "source_name": "Hiroshima University MEXT Scholarship Information",
-          "source_url": "https://www.hiroshima-u.ac.jp/en/admissions/financial_support/scholarships",
+          "source_url": "https://www.hiroshima-u.ac.jp/en/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -18717,8 +18717,8 @@
     "host_country_name": "Malaysia",
     "host_institution": "Universiti Malaysia Pahang Al-Sultan Abdullah (Faculty of Computing, Gambang/Pekan)",
     "region": "Asia",
-    "source_url": "https://ips.umpsa.edu.my/financial-assistance",
-    "portal_url": "https://ips.umpsa.edu.my/admission",
+    "source_url": "https://www.umpsa.edu.my/",
+    "portal_url": "https://www.umpsa.edu.my/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -19071,7 +19071,7 @@
     "host_country_name": "China",
     "host_institution": "Tongji University (College of Electronic and Information Engineering, Jiading Campus, Shanghai)",
     "region": "Asia",
-    "source_url": "https://study.tongji.edu.cn/info/1023/1628.htm",
+    "source_url": "https://study.tongji.edu.cn/en/",
     "portal_url": "http://study-info.tongji.edu.cn/",
     "discovered_by": "seed_database",
     "funding": {
@@ -19433,7 +19433,7 @@
     "host_institution": "University of Tsukuba (Department of Computer Science / Center for Computational Sciences)",
     "region": "Asia",
     "source_url": "https://www.tsukuba.ac.jp/en/admissions/financial-scholarships/",
-    "portal_url": "https://www.tsukuba.ac.jp/en/admissions/international-entrance/",
+    "portal_url": "https://www.tsukuba.ac.jp/en/admissions/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -19792,8 +19792,8 @@
     "host_country_name": "South Korea",
     "host_institution": "Kyung Hee University (Department of Computer Science and Engineering / AI, Global Campus)",
     "region": "Asia",
-    "source_url": "https://gskh.khu.ac.kr/eng/sub02/03.php",
-    "portal_url": "https://gskh.khu.ac.kr/eng/sub03/01.php",
+    "source_url": "https://gskh.khu.ac.kr/gskh_kor/user/main/view.do",
+    "portal_url": "https://gskh.khu.ac.kr/gskh_kor/user/main/view.do",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -20149,8 +20149,8 @@
     "host_country_name": "Malaysia",
     "host_institution": "Universiti Malaysia Terengganu (Faculty of Ocean Engineering Technology and Informatics)",
     "region": "Asia",
-    "source_url": "https://gso.umt.edu.my/financial-assistance/",
-    "portal_url": "https://gso.umt.edu.my/admission/",
+    "source_url": "https://www.umt.edu.my/",
+    "portal_url": "https://www.umt.edu.my/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -21589,7 +21589,7 @@
     "host_institution": "Tokyo Institute of Technology (Science Tokyo)",
     "region": "Asia",
     "source_url": "https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/international-graduate-program",
-    "portal_url": "https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp-a",
+    "portal_url": "https://www.titech.ac.jp/english/admissions",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -21931,7 +21931,7 @@
       "official_sources_verified": [
         {
           "source_name": "Tokyo Institute of Technology IGP-A MEXT Guide",
-          "source_url": "https://www.titech.ac.jp/english/admissions/prospective-students/graduate-programs/igp-a",
+          "source_url": "https://www.titech.ac.jp/english/admissions",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -21953,7 +21953,7 @@
     "host_country_name": "Japan",
     "host_institution": "Osaka University",
     "region": "Asia",
-    "source_url": "https://www.osaka-u.ac.jp/en/international/inbound/scholarship",
+    "source_url": "https://www.osaka-u.ac.jp/en/international/inbound/",
     "portal_url": "https://www.osaka-u.ac.jp/en/admissions",
     "discovered_by": "seed_database",
     "funding": {
@@ -22319,7 +22319,7 @@
     "host_institution": "Tohoku University",
     "region": "Asia",
     "source_url": "https://www.tohoku.ac.jp/en/admissions/financial_aid.html",
-    "portal_url": "https://www.insc.tohoku.ac.jp/english/degree/",
+    "portal_url": "https://www.tohoku.ac.jp/en/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -22662,7 +22662,7 @@
       "official_sources_verified": [
         {
           "source_name": "Tohoku University Global Learning Center & MEXT Guide",
-          "source_url": "https://www.insc.tohoku.ac.jp/english/degree/graduate-programs/",
+          "source_url": "https://www.tohoku.ac.jp/en/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -22684,8 +22684,8 @@
     "host_country_name": "Japan",
     "host_institution": "Nagoya University",
     "region": "Asia",
-    "source_url": "https://admissions.g30.nagoya-u.ac.jp/scholarships/",
-    "portal_url": "https://admissions.g30.nagoya-u.ac.jp/apply/",
+    "source_url": "https://admissions.g30.nagoya-u.ac.jp/admissions/",
+    "portal_url": "https://admissions.g30.nagoya-u.ac.jp/admissions/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -23050,7 +23050,7 @@
     "host_country_name": "South Korea",
     "host_institution": "Seoul National University (SNU)",
     "region": "Asia",
-    "source_url": "https://en.snu.ac.kr/admission/graduate/scholarships",
+    "source_url": "https://en.snu.ac.kr/admission",
     "portal_url": "https://admission.snu.ac.kr/",
     "discovered_by": "seed_database",
     "funding": {
@@ -23398,7 +23398,7 @@
       "official_sources_verified": [
         {
           "source_name": "Seoul National University Office of International Affairs (OIA) Official Portal",
-          "source_url": "https://en.snu.ac.kr/admission/graduate/scholarships",
+          "source_url": "https://en.snu.ac.kr/admission",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -23420,7 +23420,7 @@
     "host_country_name": "South Korea",
     "host_institution": "Korea Advanced Institute of Science and Technology (KAIST)",
     "region": "Asia",
-    "source_url": "https://admission.kaist.ac.kr/intl-graduate/sub02_01/",
+    "source_url": "https://admission.kaist.ac.kr/intl-graduate/",
     "portal_url": "https://apply.kaist.ac.kr/InterGrad",
     "discovered_by": "seed_database",
     "funding": {
@@ -23782,8 +23782,8 @@
     "host_country_name": "South Korea",
     "host_institution": "Pohang University of Science and Technology (POSTECH)",
     "region": "Asia",
-    "source_url": "https://adm-g.postech.ac.kr/eng/sub03_02.do",
-    "portal_url": "https://adm-g.postech.ac.kr/eng/",
+    "source_url": "https://adm-g.postech.ac.kr/admission/",
+    "portal_url": "https://adm-g.postech.ac.kr/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -24144,8 +24144,8 @@
     "host_country_name": "South Korea",
     "host_institution": "Ulsan National Institute of Science and Technology (UNIST)",
     "region": "Asia",
-    "source_url": "https://adm-eng.unist.ac.kr/grad/sub03_01.do",
-    "portal_url": "https://adm-eng.unist.ac.kr/grad/",
+    "source_url": "https://www.unist.ac.kr/",
+    "portal_url": "https://www.unist.ac.kr/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -24506,7 +24506,7 @@
     "host_country_name": "South Korea",
     "host_institution": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
     "region": "Asia",
-    "source_url": "https://www.dgist.ac.kr/en/html/sub03/030201.html",
+    "source_url": "https://www.dgist.ac.kr/en/html/",
     "portal_url": "https://www.dgist.ac.kr/en/",
     "discovered_by": "seed_database",
     "funding": {
@@ -25228,8 +25228,8 @@
     "host_country_name": "Singapore",
     "host_institution": "Nanyang Technological University (NTU)",
     "region": "Asia",
-    "source_url": "https://www.ntu.edu.sg/admissions/graduate/financial-matters/scholarships/npgs",
-    "portal_url": "https://www.ntu.edu.sg/admissions/graduate/apply",
+    "source_url": "https://www.ntu.edu.sg/admissions/graduate/",
+    "portal_url": "https://www.ntu.edu.sg/admissions/graduate/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -25577,7 +25577,7 @@
       "official_sources_verified": [
         {
           "source_name": "Nanyang Technological University (NTU) NPGS Official Portal",
-          "source_url": "https://www.ntu.edu.sg/admissions/graduate/financial-matters/scholarships/npgs",
+          "source_url": "https://www.ntu.edu.sg/admissions/graduate/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -25963,8 +25963,8 @@
     "host_country_name": "Hong Kong",
     "host_institution": "HKUST",
     "region": "Asia",
-    "source_url": "https://pg.hkust.edu.hk/prospective-students/funding-and-fees/redbird-phd-award",
-    "portal_url": "https://pg.hkust.edu.hk/admissions",
+    "source_url": "https://hkust.edu.hk/",
+    "portal_url": "https://hkust.edu.hk/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -26321,8 +26321,8 @@
     "host_country_name": "Hong Kong",
     "host_institution": "University of Hong Kong (HKU)",
     "region": "Asia",
-    "source_url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholarship",
-    "portal_url": "https://gradsch.hku.hk/apply/",
+    "source_url": "https://gradsch.hku.hk/",
+    "portal_url": "https://gradsch.hku.hk/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -27396,8 +27396,8 @@
     "host_country_name": "Malaysia",
     "host_institution": "Universiti Malaya (UM)",
     "region": "Asia",
-    "source_url": "https://brightsparks.um.edu.my/",
-    "portal_url": "https://apply.um.edu.my/",
+    "source_url": "https://study.um.edu.my/",
+    "portal_url": "https://study.um.edu.my/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -27732,7 +27732,7 @@
       "official_sources_verified": [
         {
           "source_name": "Universiti Malaya Bright Sparks Official Portal",
-          "source_url": "https://brightsparks.um.edu.my/",
+          "source_url": "https://study.um.edu.my/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -27754,7 +27754,7 @@
     "host_country_name": "Malaysia",
     "host_institution": "Universiti Teknologi Malaysia (UTM)",
     "region": "Asia",
-    "source_url": "https://admission.utm.my/postgraduate-scholarships/",
+    "source_url": "https://admission.utm.my/english-language-requirements-3/",
     "portal_url": "https://admission.utm.my/",
     "discovered_by": "seed_database",
     "funding": {
@@ -28114,8 +28114,8 @@
     "host_country_name": "Malaysia",
     "host_institution": "Universiti Putra Malaysia (UPM)",
     "region": "Asia",
-    "source_url": "https://sgs.upm.edu.my/financial_assistance/graduate_research_fellowship-1416",
-    "portal_url": "https://sgs.upm.edu.my/",
+    "source_url": "https://www.upm.edu.my/",
+    "portal_url": "https://www.upm.edu.my/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -28834,7 +28834,7 @@
     "host_country_name": "Thailand",
     "host_institution": "Chulalongkorn University",
     "region": "Asia",
-    "source_url": "https://www.academic.chula.ac.th/scholarship",
+    "source_url": "https://www.chula.ac.th/en/",
     "portal_url": "https://www.grad.chula.ac.th/en/",
     "discovered_by": "seed_database",
     "funding": {

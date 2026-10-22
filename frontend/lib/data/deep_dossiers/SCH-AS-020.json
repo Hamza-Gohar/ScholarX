@@ -277,7 +277,7 @@
   "official_sources_verified": [
     {
       "source_name": "Osaka University Graduate School of Science SISC Official Portal",
-      "source_url": "https://www.sci.osaka-u.ac.jp/en/admissions/sisc/",
+      "source_url": "https://www.sci.osaka-u.ac.jp/en/admissions/",
       "source_type": "OFFICIAL_UNIVERSITY",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": [
@@ -288,7 +288,7 @@
     },
     {
       "source_name": "Osaka University International Affairs Division Scholarships Overview",
-      "source_url": "https://www.osaka-u.ac.jp/en/international/inbound/scholarship",
+      "source_url": "https://www.osaka-u.ac.jp/en/international/inbound/",
       "source_type": "OFFICIAL_UNIVERSITY",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": [

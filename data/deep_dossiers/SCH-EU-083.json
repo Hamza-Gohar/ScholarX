@@ -265,14 +265,14 @@
   "official_sources_verified": [
     {
       "source_name": "Scuola Superiore Sant'Anna Official Portal",
-      "source_url": "https://www.santannapisa.it/en/education/phd-courses",
+      "source_url": "https://www.santannapisa.it/en/education",
       "source_type": "OFFICIAL_GOVERNMENT",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": []
     },
     {
       "source_name": "Sant'Anna Admissions System",
-      "source_url": "https://www.santannapisa.it/en/admissions",
+      "source_url": "https://www.santannapisa.it/en",
       "source_type": "OFFICIAL_GOVERNMENT",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": []

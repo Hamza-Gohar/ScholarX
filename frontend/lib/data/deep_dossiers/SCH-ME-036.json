@@ -280,14 +280,14 @@
   "official_sources_verified": [
     {
       "source_name": "PSUT Official Scholarships and Financial Aid Portal",
-      "source_url": "https://www.psut.edu.jo/en/content/scholarships-and-financial-aid",
+      "source_url": "https://www.psut.edu.jo/en",
       "source_type": "OFFICIAL_UNIVERSITY",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": []
     },
     {
       "source_name": "PSUT Graduate Admissions Portal",
-      "source_url": "https://admission.psut.edu.jo/",
+      "source_url": "https://www.psut.edu.jo/en",
       "source_type": "OFFICIAL_UNIVERSITY",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": []

@@ -7,7 +7,7 @@
     "host_institution": "Accredited US Universities (MIT, Stanford, CMU, Columbia, Georgia Tech, etc.)",
     "region": "Americas",
     "source_url": "https://www.usefp.org/scholarships/fulbright-degree.cfm",
-    "portal_url": "https://apply.usefp.org/",
+    "portal_url": "https://applications.usefp.org/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -385,7 +385,7 @@
     "host_institution": "Assigned US Colleges and Universities across 50 States",
     "region": "Americas",
     "source_url": "https://www.usefp.org/scholarships/global-ugrad.cfm",
-    "portal_url": "https://apply.usefp.org/",
+    "portal_url": "https://applications.usefp.org/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -1435,7 +1435,7 @@
     "host_country_name": "Canada",
     "host_institution": "University of Waterloo (David R. Cheriton School of Computer Science)",
     "region": "Americas",
-    "source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/international-doctoral-student-award-idsa",
+    "source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/",
     "portal_url": "https://uwaterloo.ca/quest/",
     "discovered_by": "seed_database",
     "funding": {
@@ -1757,7 +1757,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Waterloo - International Doctoral Student Award (IDSA) Official Portal",
-          "source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/international-doctoral-student-award-idsa",
+          "source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -1769,7 +1769,7 @@
       ]
     },
     "Subjects_included": "Computer Science (Cheriton School of CS); Quantum Information (IQC); Electrical & Computer Engineering; Mechanical & Mechatronics Engineering; Combinatorics & Optimization; Pure Mathematics; Statistics & Actuarial Science; Chemical Engineering; Physics & Astronomy",
-    "subjects_source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/international-doctoral-student-award-idsa"
+    "subjects_source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/"
   },
   {
     "scholarship_id": "SCH-AM-006",
@@ -2127,7 +2127,7 @@
     "host_country_name": "Canada",
     "host_institution": "University of Calgary",
     "region": "Americas",
-    "source_url": "https://www.ucalgary.ca/registrar/finances/awards-scholarships-and-bursaries/university-calgary-international-entrance-scholarship",
+    "source_url": "https://www.ucalgary.ca/registrar/finances/awards",
     "portal_url": "https://my.ucalgary.ca/",
     "discovered_by": "seed_database",
     "funding": {
@@ -2474,7 +2474,7 @@
     "host_institution": "Top US Universities (MIT, Cornell, Syracuse, UC Davis, Boston Univ)",
     "region": "Americas",
     "source_url": "https://www.usefp.org/scholarships/humphrey.cfm",
-    "portal_url": "https://apply.iie.org/hhp2027",
+    "portal_url": "https://www.usefp.org/scholarships/humphrey.cfm",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -3850,8 +3850,8 @@
     "host_country_name": "United States",
     "host_institution": "Carnegie Mellon University (School of Computer Science - LTI/CSD/MLD/RI)",
     "region": "Americas",
-    "source_url": "https://www.cs.cmu.edu/academics/doctoral/phd-programs",
-    "portal_url": "https://applygrad.cs.cmu.edu/apply/",
+    "source_url": "https://www.cs.cmu.edu/",
+    "portal_url": "https://www.cs.cmu.edu/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -4194,7 +4194,7 @@
     "host_country_name": "United States",
     "host_institution": "Purdue University (Department of Computer Science)",
     "region": "Americas",
-    "source_url": "https://www.cs.purdue.edu/graduate/curriculum/financial_support.html",
+    "source_url": "https://www.cs.purdue.edu/graduate/",
     "portal_url": "https://gradapply.purdue.edu/apply/",
     "discovered_by": "seed_database",
     "funding": {
@@ -4907,7 +4907,7 @@
     "host_country_name": "United States",
     "host_institution": "Cornell University (Bowers College of Computing and Information Science - Ithaca & Cornell Tech NYC)",
     "region": "Americas",
-    "source_url": "https://www.cs.cornell.edu/phd/funding",
+    "source_url": "https://www.cs.cornell.edu/",
     "portal_url": "https://gradschool.cornell.edu/admissions/apply/",
     "discovered_by": "seed_database",
     "funding": {
@@ -5987,8 +5987,8 @@
     "host_country_name": "Canada",
     "host_institution": "University of Alberta (Department of Computing Science & Amii AI Institute)",
     "region": "Americas",
-    "source_url": "https://www.ualberta.ca/computing-science/graduate-studies/funding.html",
-    "portal_url": "https://www.ualberta.ca/graduate-studies/prospective-students/apply-for-admission",
+    "source_url": "https://www.ualberta.ca/en/computing-science/graduate-studies/index.html",
+    "portal_url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/index.html",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -6320,7 +6320,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Alberta Department of Computing Science Graduate Funding Portal",
-          "source_url": "https://www.ualberta.ca/computing-science/graduate-studies/funding.html",
+          "source_url": "https://www.ualberta.ca/en/computing-science/graduate-studies/index.html",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -6331,7 +6331,7 @@
         },
         {
           "source_name": "University of Alberta Faculty of Graduate Studies and Research (FGSR)",
-          "source_url": "https://www.ualberta.ca/graduate-studies/prospective-students/apply-for-admission",
+          "source_url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/index.html",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -6342,7 +6342,7 @@
       ]
     },
     "Subjects_included": "MSc / PhD in Computing Science: Reinforcement Learning & Autonomous Agents; MSc / PhD in Computing Science: Computer Vision & Multimedia; MSc / PhD in Computing Science: Natural Language Processing & Machine Learning; MSc / PhD in Computing Science: Robotics & Autonomous Systems; MSc / PhD in Computing Science: Software Systems; Databases; & Cloud Computing",
-    "subjects_source_url": "https://www.ualberta.ca/computing-science/graduate-studies/funding.html"
+    "subjects_source_url": "https://www.ualberta.ca/en/computing-science/graduate-studies/index.html"
   },
   {
     "scholarship_id": "SCH-AM-019",
@@ -6351,7 +6351,7 @@
     "host_country_name": "United States",
     "host_institution": "Georgia Institute of Technology (College of Computing)",
     "region": "Americas",
-    "source_url": "https://www.cc.gatech.edu/academics/college-computing-financial-aid-and-scholarships",
+    "source_url": "https://www.cc.gatech.edu/",
     "portal_url": "https://grad.gatech.edu/apply",
     "discovered_by": "seed_database",
     "funding": {
@@ -6699,7 +6699,7 @@
     "host_country_name": "United States",
     "host_institution": "University of Texas at Austin (Department of Computer Science - UTCS)",
     "region": "Americas",
-    "source_url": "https://www.cs.utexas.edu/graduate-program/phd-program/financial-support",
+    "source_url": "https://www.cs.utexas.edu/graduate/research-degrees",
     "portal_url": "https://gradschool.utexas.edu/admissions/how-to-apply",
     "discovered_by": "seed_database",
     "funding": {
@@ -7059,7 +7059,7 @@
     "host_institution": "University of Waterloo (David R. Cheriton School of Computer Science)",
     "region": "Americas",
     "source_url": "https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards",
-    "portal_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/applying-graduate-school",
+    "portal_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -7792,7 +7792,7 @@
     "host_country_name": "United States",
     "host_institution": "University of Illinois Urbana-Champaign (Siebel School of Computing and Data Science)",
     "region": "Americas",
-    "source_url": "https://siebelschool.illinois.edu/academics/graduate/financial-support",
+    "source_url": "https://grad.illinois.edu/admissions/apply-now",
     "portal_url": "https://grad.illinois.edu/admissions/apply",
     "discovered_by": "seed_database",
     "funding": {
@@ -8155,7 +8155,7 @@
     "host_country_name": "United States",
     "host_institution": "University of Washington (Paul G. Allen School of Computer Science & Engineering, Seattle)",
     "region": "Americas",
-    "source_url": "https://www.cs.washington.edu/academics/phd/financial",
+    "source_url": "https://www.cs.washington.edu/academics/graduate/phd-program/",
     "portal_url": "https://grad.uw.edu/admissions/apply-now/",
     "discovered_by": "seed_database",
     "funding": {
@@ -8495,7 +8495,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Washington Paul G. Allen School of CSE - PhD Financial Support Portal",
-          "source_url": "https://www.cs.washington.edu/academics/phd/financial",
+          "source_url": "https://www.cs.washington.edu/academics/graduate/phd-program/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": [
@@ -8507,7 +8507,7 @@
       ]
     },
     "Subjects_included": "Artificial Intelligence and Machine Learning; Computer Vision and Multimodal Systems; Robotics and Cyber-Physical Systems; Ubiquitous Computing and Mobile Systems; Cloud Computing; Distributed Systems and Networks; Security and Privacy; Programming Languages and Software Engineering; Theory of Computation and Algorithms; Computational and Synthetic Biology; Human-Computer Interaction and Design",
-    "subjects_source_url": "https://www.cs.washington.edu/academics/phd/financial"
+    "subjects_source_url": "https://www.cs.washington.edu/academics/graduate/phd-program/"
   },
   {
     "scholarship_id": "SCH-AM-025",
@@ -8517,7 +8517,7 @@
     "host_institution": "University of Ottawa (School of Electrical Engineering and Computer Science - EECS)",
     "region": "Americas",
     "source_url": "https://www.uottawa.ca/study/graduate-studies/funding-financing/awards/international-doctoral-scholarship",
-    "portal_url": "https://www.uottawa.ca/study/graduate-studies/apply",
+    "portal_url": "https://www.uottawa.ca/study/graduate-studies",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -8891,7 +8891,7 @@
     "host_institution": "Queen's University (School of Computing, Kingston, Ontario)",
     "region": "Americas",
     "source_url": "https://www.cs.queensu.ca/graduate/funding.php",
-    "portal_url": "https://www.queensu.ca/sgs/prospective-students/how-apply",
+    "portal_url": "https://www.cs.queensu.ca/graduate/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -9253,7 +9253,7 @@
     "host_country_name": "United States",
     "host_institution": "University of California San Diego (Department of Computer Science and Engineering - CSE, La Jolla)",
     "region": "Americas",
-    "source_url": "https://cse.ucsd.edu/graduate/phd-program/phd-financial-support",
+    "source_url": "https://cse.ucsd.edu/",
     "portal_url": "https://gradapply.ucsd.edu/",
     "discovered_by": "seed_database",
     "funding": {
@@ -9621,7 +9621,7 @@
     "host_country_name": "United States",
     "host_institution": "Columbia University (Fu Foundation School of Engineering and Applied Science - SEAS, New York)",
     "region": "Americas",
-    "source_url": "https://www.cs.columbia.edu/education/phd/financial-aid/",
+    "source_url": "https://www.cs.columbia.edu/education/phd/",
     "portal_url": "https://gradengineering.columbia.edu/admissions/graduate-admissions",
     "discovered_by": "seed_database",
     "funding": {
@@ -9988,7 +9988,7 @@
     "host_country_name": "Canada",
     "host_institution": "University of Calgary (Department of Computer Science, Alberta)",
     "region": "Americas",
-    "source_url": "https://science.ucalgary.ca/computer-science/future-students/graduate/funding-awards",
+    "source_url": "https://science.ucalgary.ca/computer-science/future-students/graduate",
     "portal_url": "https://grad.ucalgary.ca/future-students/how-apply",
     "discovered_by": "seed_database",
     "funding": {
@@ -10324,7 +10324,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Calgary Computer Science Graduate Funding Portal",
-          "source_url": "https://science.ucalgary.ca/computer-science/future-students/graduate/funding-awards",
+          "source_url": "https://science.ucalgary.ca/computer-science/future-students/graduate",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -10339,7 +10339,7 @@
       ]
     },
     "Subjects_included": "Computer Science (MSc & PhD); Artificial Intelligence and Machine Learning; Data Science and Big Data Analytics; Human-Computer Interaction and Visualization; Information Security and Cryptography; Software Engineering and Cloud Systems; Computational Media and Gaming; Bioinformatics and Computational Biology",
-    "subjects_source_url": "https://science.ucalgary.ca/computer-science/future-students/graduate/funding-awards"
+    "subjects_source_url": "https://science.ucalgary.ca/computer-science/future-students/graduate"
   },
   {
     "scholarship_id": "SCH-AM-030",
@@ -10348,7 +10348,7 @@
     "host_country_name": "Canada",
     "host_institution": "Western University (Department of Computer Science, London, Ontario)",
     "region": "Americas",
-    "source_url": "https://www.csd.uwo.ca/graduate/financial_support.html",
+    "source_url": "https://www.csd.uwo.ca/graduate/",
     "portal_url": "https://grad.uwo.ca/admissions/apply.html",
     "discovered_by": "seed_database",
     "funding": {
@@ -10684,7 +10684,7 @@
       "official_sources_verified": [
         {
           "source_name": "Western University Computer Science Financial Support Portal",
-          "source_url": "https://www.csd.uwo.ca/graduate/financial_support.html",
+          "source_url": "https://www.csd.uwo.ca/graduate/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -10699,7 +10699,7 @@
       ]
     },
     "Subjects_included": "Computer Science (MSc & PhD); Artificial Intelligence and Machine Learning; Bioinformatics and Health Informatics; Computer Algebra and Symbolic Computation; Computer Networks and Distributed Systems; Software Engineering; Human-Computer Interaction; Game Development and Graphics",
-    "subjects_source_url": "https://www.csd.uwo.ca/graduate/financial_support.html"
+    "subjects_source_url": "https://www.csd.uwo.ca/graduate/"
   },
   {
     "scholarship_id": "SCH-AM-031",
@@ -10709,7 +10709,7 @@
     "host_institution": "University of Maryland (Department of Computer Science / UMIACS, College Park)",
     "region": "Americas",
     "source_url": "https://www.cs.umd.edu/grad/funding",
-    "portal_url": "https://gradschool.umd.edu/admissions/apply-now",
+    "portal_url": "https://gradschool.umd.edu/admissions",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -11077,7 +11077,7 @@
     "host_country_name": "United States",
     "host_institution": "Johns Hopkins University (Whiting School of Engineering - Department of Computer Science)",
     "region": "Americas",
-    "source_url": "https://www.cs.jhu.edu/graduate-studies/phd-program/phd-financial-aid/",
+    "source_url": "https://www.cs.jhu.edu/",
     "portal_url": "https://applygrad.jhu.edu/apply/",
     "discovered_by": "seed_database",
     "funding": {
@@ -11444,7 +11444,7 @@
     "host_country_name": "Canada",
     "host_institution": "McMaster University (Department of Computing and Software, Hamilton, Ontario)",
     "region": "Americas",
-    "source_url": "https://www.eng.mcmaster.ca/cas/programs/graduate/funding-and-scholarships",
+    "source_url": "https://www.eng.mcmaster.ca/",
     "portal_url": "https://graduate.mcmaster.ca/prospective-students/how-apply",
     "discovered_by": "seed_database",
     "funding": {
@@ -11778,7 +11778,7 @@
       "official_sources_verified": [
         {
           "source_name": "McMaster Computing and Software Graduate Funding Portal",
-          "source_url": "https://www.eng.mcmaster.ca/cas/programs/graduate/funding-and-scholarships",
+          "source_url": "https://www.eng.mcmaster.ca/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -11793,7 +11793,7 @@
       ]
     },
     "Subjects_included": "Computer Science (MSc & PhD); Software Engineering (MSc & PhD); Mechatronics and Cyber-Physical Systems; Scientific Computation and High-Performance Computing; Artificial Intelligence and Machine Learning; Safety-Critical Systems and Formal Methods; Data Science and Systems Optimization",
-    "subjects_source_url": "https://www.eng.mcmaster.ca/cas/programs/graduate/funding-and-scholarships"
+    "subjects_source_url": "https://www.eng.mcmaster.ca/"
   },
   {
     "scholarship_id": "SCH-AM-034",
@@ -12162,7 +12162,7 @@
     "host_country_name": "United States",
     "host_institution": "University of Massachusetts Amherst (Manning College of Information and Computer Sciences - CICS)",
     "region": "Americas",
-    "source_url": "https://www.cics.umass.edu/academics/phd/funding",
+    "source_url": "https://www.cics.umass.edu/",
     "portal_url": "https://www.umass.edu/graduate/apply",
     "discovered_by": "seed_database",
     "funding": {
@@ -12531,8 +12531,8 @@
     "host_country_name": "United States",
     "host_institution": "Northwestern University (McCormick School of Engineering - Department of Computer Science, Evanston/Chicago)",
     "region": "Americas",
-    "source_url": "https://www.mccormick.northwestern.edu/computer-science/academics/graduate/phd/financial-aid.html",
-    "portal_url": "https://www.tgs.northwestern.edu/admission/application/apply-online.html",
+    "source_url": "https://www.mccormick.northwestern.edu/computer-science/academics/graduate/phd/",
+    "portal_url": "https://www.tgs.northwestern.edu/admission/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -12897,7 +12897,7 @@
     "host_country_name": "Canada",
     "host_institution": "Concordia University (Gina Cody School of Engineering and Computer Science, Montreal)",
     "region": "Americas",
-    "source_url": "https://www.concordia.ca/ginacody/computer-science-software-eng/programs/graduate/funding-and-awards.html",
+    "source_url": "https://www.concordia.ca/ginacody.html",
     "portal_url": "https://www.concordia.ca/admissions/graduate/apply.html",
     "discovered_by": "seed_database",
     "funding": {
@@ -13232,7 +13232,7 @@
       "official_sources_verified": [
         {
           "source_name": "Concordia Computer Science and Software Engineering Funding Portal",
-          "source_url": "https://www.concordia.ca/ginacody/computer-science-software-eng/programs/graduate/funding-and-awards.html",
+          "source_url": "https://www.concordia.ca/ginacody.html",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -13247,7 +13247,7 @@
       ]
     },
     "Subjects_included": "Computer Science (MCompSc & PhD); Software Engineering (MASc & PhD); Artificial Intelligence and Machine Learning; Information Systems Security (ISS); Data Science and Big Data; Human-Centered Software and Usability; Cloud Systems and Distributed Computing",
-    "subjects_source_url": "https://www.concordia.ca/ginacody/computer-science-software-eng/programs/graduate/funding-and-awards.html"
+    "subjects_source_url": "https://www.concordia.ca/ginacody.html"
   },
   {
     "scholarship_id": "SCH-AM-038",
@@ -13256,8 +13256,8 @@
     "host_country_name": "Canada",
     "host_institution": "Dalhousie University (Faculty of Computer Science, Halifax, Nova Scotia)",
     "region": "Americas",
-    "source_url": "https://www.dal.ca/faculty/computerscience/graduate-programs/funding-awards.html",
-    "portal_url": "https://www.dal.ca/admissions/graduate.html",
+    "source_url": "https://www.dal.ca/faculty/computerscience/graduate-programs.html",
+    "portal_url": "https://www.dal.ca/faculty/computerscience/graduate-programs.html",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -13590,14 +13590,14 @@
       "official_sources_verified": [
         {
           "source_name": "Dalhousie Faculty of Computer Science Graduate Funding Portal",
-          "source_url": "https://www.dal.ca/faculty/computerscience/graduate-programs/funding-awards.html",
+          "source_url": "https://www.dal.ca/faculty/computerscience/graduate-programs.html",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
         },
         {
           "source_name": "Dalhousie Faculty of Graduate Studies Calendar",
-          "source_url": "https://www.dal.ca/admissions/graduate.html",
+          "source_url": "https://www.dal.ca/faculty/computerscience/graduate-programs.html",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -13605,7 +13605,7 @@
       ]
     },
     "Subjects_included": "Computer Science (MCS & PhD); Artificial Intelligence and Machine Learning; Big Data Analytics and DeepSense; Human-Computer Interaction and Visualization; Cyber Security and Information Privacy; Algorithms and Computational Theory; Computational Biology and Bioinformatics",
-    "subjects_source_url": "https://www.dal.ca/faculty/computerscience/graduate-programs/funding-awards.html"
+    "subjects_source_url": "https://www.dal.ca/faculty/computerscience/graduate-programs.html"
   },
   {
     "scholarship_id": "SCH-AM-039",
@@ -13615,7 +13615,7 @@
     "host_institution": "Rice University (George R. Brown School of Engineering - Department of Computer Science, Houston, Texas)",
     "region": "Americas",
     "source_url": "https://csweb.rice.edu/academics/graduate-programs/phd/financial-support",
-    "portal_url": "https://gradapp.rice.edu/apply/",
+    "portal_url": "https://graduate.rice.edu/admissions",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -14346,7 +14346,7 @@
     "host_country_name": "Canada",
     "host_institution": "Carleton University (School of Computer Science, Ottawa, Ontario)",
     "region": "Americas",
-    "source_url": "https://carleton.ca/scs/graduate-overview/funding-and-awards/",
+    "source_url": "https://carleton.ca/scs/",
     "portal_url": "https://graduate.carleton.ca/apply-online/",
     "discovered_by": "seed_database",
     "funding": {
@@ -14680,7 +14680,7 @@
       "official_sources_verified": [
         {
           "source_name": "Carleton University School of Computer Science Graduate Funding Portal",
-          "source_url": "https://carleton.ca/scs/graduate-overview/funding-and-awards/",
+          "source_url": "https://carleton.ca/scs/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -14695,7 +14695,7 @@
       ]
     },
     "Subjects_included": "Computer Science (MCS & PhD); Artificial Intelligence and Machine Learning; Computer and Network Security; Human-Computer Interaction (HCI); Distributed and Cloud Computing; Biomedical Computing and Informatics; Algorithms and Complexity",
-    "subjects_source_url": "https://carleton.ca/scs/graduate-overview/funding-and-awards/"
+    "subjects_source_url": "https://carleton.ca/scs/"
   },
   {
     "scholarship_id": "SCH-AM-042",
@@ -14704,7 +14704,7 @@
     "host_country_name": "Canada",
     "host_institution": "York University (Lassonde School of Engineering - Department of EECS, Toronto)",
     "region": "Americas",
-    "source_url": "https://lassonde.yorku.ca/eecs/graduate-funding",
+    "source_url": "https://lassonde.yorku.ca/academics/graduate-studies-opportunities",
     "portal_url": "https://futurestudents.yorku.ca/graduate/apply-now",
     "discovered_by": "seed_database",
     "funding": {
@@ -15038,7 +15038,7 @@
       "official_sources_verified": [
         {
           "source_name": "York University Lassonde School of Engineering Graduate Funding Portal",
-          "source_url": "https://lassonde.yorku.ca/eecs/graduate-funding",
+          "source_url": "https://lassonde.yorku.ca/academics/graduate-studies-opportunities",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -15053,7 +15053,7 @@
       ]
     },
     "Subjects_included": "Computer Science (MSc & PhD); Artificial Intelligence and Machine Learning; Robotics and Computer Vision; Big Data Analytics and Cloud Computing; Theoretical Computer Science and Cryptography; Software Engineering and Verification; Internet of Things and Networks",
-    "subjects_source_url": "https://lassonde.yorku.ca/eecs/graduate-funding"
+    "subjects_source_url": "https://lassonde.yorku.ca/academics/graduate-studies-opportunities"
   },
   {
     "scholarship_id": "SCH-AM-045",
@@ -15430,8 +15430,8 @@
     "host_country_name": "Canada",
     "host_institution": "University of Waterloo",
     "region": "Americas",
-    "source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/international-masters-award-excellence-imae",
-    "portal_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/applying-graduate-school",
+    "source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/",
+    "portal_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -15772,7 +15772,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Waterloo International Master's Award of Excellence Portal",
-          "source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/international-masters-award-excellence-imae",
+          "source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -15787,7 +15787,7 @@
       ]
     },
     "Subjects_included": "Computer Science (MMath & PhD - Cheriton School); Electrical and Computer Engineering (MASc & PhD); Combinatorics and Optimization; Systems Design Engineering; Quantum Information and Quantum Computing (IQC); Artificial Intelligence and Machine Learning; Software Engineering and Formal Verification; Cryptography; Security and Privacy (CrySP)",
-    "subjects_source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/international-masters-award-excellence-imae"
+    "subjects_source_url": "https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/"
   },
   {
     "scholarship_id": "SCH-AM-048",
@@ -15796,7 +15796,7 @@
     "host_country_name": "Canada",
     "host_institution": "University of Alberta",
     "region": "Americas",
-    "source_url": "https://www.ualberta.ca/en/graduate-studies/awards-and-funding/scholarships/university-of-alberta-graduate-entrance-scholarship.html",
+    "source_url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/index.html",
     "portal_url": "https://www.ualberta.ca/en/graduate-studies/prospective-students/apply-for-admission/index.html",
     "discovered_by": "seed_database",
     "funding": {
@@ -16138,7 +16138,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Alberta Graduate Entrance Scholarship Official Page",
-          "source_url": "https://www.ualberta.ca/en/graduate-studies/awards-and-funding/scholarships/university-of-alberta-graduate-entrance-scholarship.html",
+          "source_url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/index.html",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -16153,7 +16153,7 @@
       ]
     },
     "Subjects_included": "MSc / PhD in Computing Science (AI, Machine Learning, Reinforcement Learning); MSc / PhD in Electrical and Computer Engineering; MSc / PhD in Biomedical Engineering; MSc / PhD in Chemical and Materials Engineering; MSc / PhD in Mechanical Engineering; MSc / PhD in Biological Sciences (Genetics, Microbiology); MSc / PhD in Physics and Geophysics; MSc / PhD in Pharmacology and Oncology",
-    "subjects_source_url": "https://www.ualberta.ca/en/graduate-studies/awards-and-funding/scholarships/university-of-alberta-graduate-entrance-scholarship.html"
+    "subjects_source_url": "https://www.ualberta.ca/en/graduate-studies/admissions-programs/apply/index.html"
   },
   {
     "scholarship_id": "SCH-AM-049",
@@ -16162,7 +16162,7 @@
     "host_country_name": "Canada",
     "host_institution": "Simon Fraser University (SFU)",
     "region": "Americas",
-    "source_url": "https://www.sfu.ca/gradstudies/awards-funding/scholarships-awards.html",
+    "source_url": "https://www.sfu.ca/gradstudies/awards-funding.html",
     "portal_url": "https://www.sfu.ca/gradstudies/apply.html",
     "discovered_by": "seed_database",
     "funding": {
@@ -16890,8 +16890,8 @@
     "host_country_name": "Canada",
     "host_institution": "Dalhousie University",
     "region": "Americas",
-    "source_url": "https://www.dal.ca/faculty/gradstudies/funding/scholarships.html",
-    "portal_url": "https://www.dal.ca/admissions/graduate.html",
+    "source_url": "https://www.dal.ca/faculty/gradstudies/finance-your-studies/scholarships-bursaries.html",
+    "portal_url": "https://www.dal.ca/faculty/computerscience/graduate-programs.html",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -17232,7 +17232,7 @@
       "official_sources_verified": [
         {
           "source_name": "Dalhousie University Faculty of Graduate Studies Funding and Awards",
-          "source_url": "https://www.dal.ca/faculty/gradstudies/funding/scholarships.html",
+          "source_url": "https://www.dal.ca/faculty/gradstudies/finance-your-studies/scholarships-bursaries.html",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -17247,7 +17247,7 @@
       ]
     },
     "Subjects_included": "Master of Computer Science (MCS thesis); PhD in Computer Science (Big Data, Machine Learning, HCI, Visual Analytics); MASc / PhD in Electrical and Computer Engineering; MASc / PhD in Mechanical Engineering; MASc / PhD in Biomedical Engineering; MSc / PhD in Oceanography and Marine Biology; MSc / PhD in Physics and Atmospheric Science; MSc / PhD in Chemistry and Materials",
-    "subjects_source_url": "https://www.dal.ca/faculty/gradstudies/funding/scholarships.html"
+    "subjects_source_url": "https://www.dal.ca/faculty/gradstudies/finance-your-studies/scholarships-bursaries.html"
   },
   {
     "scholarship_id": "SCH-AM-052",
@@ -18367,7 +18367,7 @@
     "host_institution": "Massachusetts Institute of Technology (MIT)",
     "region": "Americas",
     "source_url": "https://odge.mit.edu/finances/fellowships/office-fellowships/",
-    "portal_url": "https://gradapply.mit.edu/",
+    "portal_url": "https://oge.mit.edu/graduate-admissions/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -19105,8 +19105,8 @@
     "host_country_name": "United States",
     "host_institution": "Yale University",
     "region": "Americas",
-    "source_url": "https://gsas.yale.edu/admissions-funding/funding-aid",
-    "portal_url": "https://gsas.yale.edu/admissions/apply",
+    "source_url": "https://gsas.yale.edu/admissions",
+    "portal_url": "https://gsas.yale.edu/admissions",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -19451,7 +19451,7 @@
       "official_sources_verified": [
         {
           "source_name": "Yale Graduate School of Arts and Sciences Stipend and Aid",
-          "source_url": "https://gsas.yale.edu/admissions-funding/funding-aid",
+          "source_url": "https://gsas.yale.edu/admissions",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -19466,7 +19466,7 @@
       ]
     },
     "Subjects_included": "PhD in Computer Science (Systems, Theory, AI, Robotics); PhD in Electrical Engineering; PhD in Biomedical Engineering; PhD in Mechanical Engineering and Materials Science; PhD in Chemical and Environmental Engineering; PhD in Applied Physics (Quantum Computing, Photonics); PhD in Physics; PhD in Molecular; Cellular and Developmental Biology",
-    "subjects_source_url": "https://gsas.yale.edu/admissions-funding/funding-aid"
+    "subjects_source_url": "https://gsas.yale.edu/admissions"
   },
   {
     "scholarship_id": "SCH-AM-058",
@@ -20213,7 +20213,7 @@
     "host_country_name": "United States",
     "host_institution": "University of Chicago",
     "region": "Americas",
-    "source_url": "https://physicalsciences.uchicago.edu/academics/funding-and-aid/",
+    "source_url": "https://physicalsciences.uchicago.edu/academics/",
     "portal_url": "https://apply-psd.uchicago.edu/apply/",
     "discovered_by": "seed_database",
     "funding": {
@@ -20558,7 +20558,7 @@
       "official_sources_verified": [
         {
           "source_name": "University of Chicago Physical Sciences Division Funding and Aid",
-          "source_url": "https://physicalsciences.uchicago.edu/academics/funding-and-aid/",
+          "source_url": "https://physicalsciences.uchicago.edu/academics/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -20573,7 +20573,7 @@
       ]
     },
     "Subjects_included": "PhD in Computer Science (AI, Systems, Theory, Security); PhD in Quantum Science and Engineering (PME); PhD in Materials Science and Engineering (PME); PhD in Immunoengineering and Bioengineering (PME); PhD in Physics (High Energy, Condensed Matter, Astrophysics); PhD in Chemistry; PhD in Mathematics and Applied Mathematics; PhD in Data Science",
-    "subjects_source_url": "https://physicalsciences.uchicago.edu/academics/funding-and-aid/"
+    "subjects_source_url": "https://physicalsciences.uchicago.edu/academics/"
   },
   {
     "scholarship_id": "SCH-AM-061",
@@ -20951,8 +20951,8 @@
     "host_country_name": "United States",
     "host_institution": "Carnegie Mellon University (CMU)",
     "region": "Americas",
-    "source_url": "https://www.cs.cmu.edu/academics/phd/financial-support",
-    "portal_url": "https://applygrad.cs.cmu.edu/apply/",
+    "source_url": "https://www.cs.cmu.edu/",
+    "portal_url": "https://www.cs.cmu.edu/",
     "discovered_by": "seed_database",
     "funding": {
       "funding_type": "FULL",
@@ -21296,7 +21296,7 @@
       "official_sources_verified": [
         {
           "source_name": "CMU School of Computer Science PhD Financial Support",
-          "source_url": "https://www.cs.cmu.edu/academics/phd/financial-support",
+          "source_url": "https://www.cs.cmu.edu/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -21311,7 +21311,7 @@
       ]
     },
     "Subjects_included": "PhD in Computer Science (CSD); PhD in Robotics (Robotics Institute - RI); PhD in Machine Learning (MLD); PhD in Language and Information Technologies (LTI); PhD in Human-Computer Interaction (HCII); PhD in Software Engineering (S3D); PhD in Computational Biology (CBD); Joint PhD in Neural Computation and Machine Learning",
-    "subjects_source_url": "https://www.cs.cmu.edu/academics/phd/financial-support"
+    "subjects_source_url": "https://www.cs.cmu.edu/"
   },
   {
     "scholarship_id": "SCH-AM-063",
@@ -21690,7 +21690,7 @@
     "host_country_name": "United States",
     "host_institution": "Purdue University",
     "region": "Americas",
-    "source_url": "https://www.purdue.edu/gradschool/funding/",
+    "source_url": "https://www.purdue.edu/academics/ogsps/",
     "portal_url": "https://www.purdue.edu/gradschool/admissions/how-to-apply/",
     "discovered_by": "seed_database",
     "funding": {
@@ -22035,7 +22035,7 @@
       "official_sources_verified": [
         {
           "source_name": "Purdue University The Graduate School Funding",
-          "source_url": "https://www.purdue.edu/gradschool/funding/",
+          "source_url": "https://www.purdue.edu/academics/ogsps/",
           "source_type": "OFFICIAL_UNIVERSITY",
           "verified_date": "2026-10-07",
           "data_points_missing_or_unpublished_by_source": []
@@ -22050,7 +22050,7 @@
       ]
     },
     "Subjects_included": "PhD in Electrical and Computer Engineering (ECE); PhD in Computer Science (Systems, Security, AI); PhD in Aeronautics and Astronautics (AeroAstro); PhD in Mechanical Engineering; PhD in Materials Engineering; PhD in Chemical Engineering; PhD in Civil Engineering; PhD in Physics and Astronomy",
-    "subjects_source_url": "https://www.purdue.edu/gradschool/funding/"
+    "subjects_source_url": "https://www.purdue.edu/academics/ogsps/"
   },
   {
     "scholarship_id": "SCH-AM-065",

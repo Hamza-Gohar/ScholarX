@@ -119,12 +119,14 @@ export function getScholarshipBriefInfo(
   const isJapan = (nameLower.includes("mext") || nameLower.includes("japan")) && !nameLower.includes("kyoto");
   const isBrunei = nameLower.includes("brunei") || nameLower.includes("bdgs");
   const isTaiwan = nameLower.includes("taiwan") || nameLower.includes("icdf");
-  const isPadua = nameLower.includes("padua") || nameLower.includes("unipd") || nameLower.includes("italy");
+  const isPadua = nameLower.includes("padua") || nameLower.includes("unipd");
   const isSbw = nameLower.includes("sbw") || nameLower.includes("berlin");
   const isKyoto = nameLower.includes("kyoto");
   const isManchester = nameLower.includes("manchester");
   const isQatar = nameLower.includes("qatar");
-  const isAbuDhabi = nameLower.includes("abu dhabi") || nameLower.includes("adu");
+  const isAbuDhabi =
+    nameLower.includes("abu dhabi") ||
+    (/\badu\b/i.test(sc.name || "") && !nameLower.includes("graduate") && !nameLower.includes("undergrad"));
 
   let applicationWindow = "Upcoming Cycle Announced Annually";
   let deadlineDate = "Check Official Portal";
@@ -321,7 +323,10 @@ export function getScholarshipBriefInfo(
     applicationWindow = "Rolling with Semester Admissions (Fall/Spring)";
     deadlineDate = "Term Admission Cutoff";
     intakeCycle = "2026/2027 Intake";
-    portalUrl = "https://www.adu.ac.ae/admissions/financial-resources/scholarships";
+    portalUrl =
+      sc.officialPortalUrl && sc.officialPortalUrl !== "https://scholarship.hec.gov.pk"
+        ? sc.officialPortalUrl
+        : "https://www.adu.ac.ae/en/study/financials/scholarships";
     portalLabel = "ADU Portal";
     hecPortalRequired = false;
     streamLabel = `${targetField} Eligible`;

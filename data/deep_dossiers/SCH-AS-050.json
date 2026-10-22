@@ -275,7 +275,7 @@
   "official_sources_verified": [
     {
       "source_name": "Sun Yat-sen University International Student Office CSC Program",
-      "source_url": "http://iso.sysu.edu.cn/en/scholarship/chinese-government-scholarship",
+      "source_url": "https://iso.sysu.edu.cn/en/",
       "source_type": "OFFICIAL_UNIVERSITY",
       "verified_date": "2026-10-07",
       "data_points_missing_or_unpublished_by_source": []
