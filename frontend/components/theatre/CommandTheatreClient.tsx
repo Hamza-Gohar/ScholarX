@@ -508,7 +508,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
     }
   }, [sse.connectionState, activeMode, liveStore.missionStatus, activeStudentProfile, handleStartDemo]);
 
-  // Safety Watchdog: If mission is RUNNING in LIVE mode for over 40 seconds without advancing past FLEET_DISCOVERY,
+  // Safety Watchdog: If mission is RUNNING in LIVE mode for over 25 seconds without advancing past FLEET_DISCOVERY,
   // ensure visual phase automatically advances to MISSION_COMPLETE with full dossier
   useEffect(() => {
     if (activeMode === "LIVE" && liveStore.missionStatus === "RUNNING") {
@@ -525,7 +525,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
             }
           });
         }
-      }, 40000);
+      }, 25000);
       return () => clearTimeout(watchdog);
     }
   }, [activeMode, liveStore.missionStatus, liveSessionId, activeStudentProfile]);
@@ -738,16 +738,16 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
     liveStore.activeSpecialist ||
     (currentLivePhase === "SPECIALIST_INVESTIGATION" ? "ELIGIBILITY" : null);
 
-  // Strict 30-Second Live Finding Watchdog:
-  // After 30 seconds of finding live in FLEET_DISCOVERY, ensure it transitions to verified institutional database
+  // Strict 17-Second Live Finding Watchdog:
+  // After 17 seconds of finding live in FLEET_DISCOVERY, ensure it transitions to verified institutional database
   useEffect(() => {
     if (activeMode !== "LIVE" || !isLiveEnabled || !liveSessionId) return;
 
     if (currentLivePhase === "FLEET_DISCOVERY") {
       const watchdogTimer = setTimeout(() => {
-        console.log("30-second live finding threshold reached. Transitioning to database session repository.");
+        console.log("17-second live finding threshold reached. Transitioning to database session repository.");
         useTheatreDirectorStore.setState({
-          statusBanner: "30S LIVE WINDOW CONCLUDED // DATABASE INTELLIGENCE ENGAGED",
+          statusBanner: "17S LIVE WINDOW CONCLUDED // DATABASE INTELLIGENCE ENGAGED",
           activeNarrative: "Transitioning to verified institutional database repository (314+ opportunities) for deep ranking.",
           visualPhase: "SPECIALIST_INVESTIGATION",
         });
@@ -767,7 +767,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
             }
           })
           .catch((err) => console.warn("Watchdog session hydration notice:", err));
-      }, 30000);
+      }, 17000);
 
       return () => clearTimeout(watchdogTimer);
     }
@@ -1335,7 +1335,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
         {/* ========================================================================= */}
         {isLiveOrDemo && (
           <div className="relative w-full flex-1 pointer-events-none flex flex-col items-center justify-between py-1">
-            {/* Scene 1: INITIALIZING, FLEET_DISCOVERY & SPECIALIST_INVESTIGATION (The 30-Second Autonomous Fleet) */}
+            {/* Scene 1: INITIALIZING, FLEET_DISCOVERY & SPECIALIST_INVESTIGATION (The 17-Second Autonomous Fleet) */}
             {(currentLivePhase === "INITIALIZING" || currentLivePhase === "FLEET_DISCOVERY" || currentLivePhase === "SPECIALIST_INVESTIGATION") && (
               <>
                 {/* 1A. Desktop 2D Spatial Map Layout (lg and above) */}
@@ -1615,7 +1615,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
               </>
             )}
 
-            {/* Direct Scholarship Opportunities Stage (Appears strictly after 30s during RANKING_EVALUATION) */}
+            {/* Direct Scholarship Opportunities Stage (Appears strictly after 17s during RANKING_EVALUATION) */}
             {currentLivePhase === "RANKING_EVALUATION" && (
               <TheatreErrorBoundary subsystemName="Ranking Engine Subsystem">
                 <div className="pointer-events-auto z-20 my-auto w-full">

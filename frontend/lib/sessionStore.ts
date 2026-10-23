@@ -13,10 +13,48 @@ interface StoredSession {
 
 declare global {
   var __scholarx_sessions__: Map<string, StoredSession> | undefined;
+  var __scholarx_db_analysis__: Map<string, Promise<any> | any> | undefined;
 }
 
 const sessionsMap: Map<string, StoredSession> =
   globalThis.__scholarx_sessions__ || (globalThis.__scholarx_sessions__ = new Map());
+
+const analysisMap: Map<string, Promise<any> | any> =
+  globalThis.__scholarx_db_analysis__ || (globalThis.__scholarx_db_analysis__ = new Map());
+
+/**
+ * Starts or binds the intelligent database retrieval and multi-factor ranking analysis
+ * for a session at the exact moment the mission is initialized.
+ */
+export function startSessionDbAnalysis(sessionId: string, profile: any): Promise<any> {
+  if (!profile) return Promise.resolve(null);
+  const existing = analysisMap.get(sessionId);
+  if (existing) {
+    return existing instanceof Promise ? existing : Promise.resolve(existing);
+  }
+
+  const promise = (async () => {
+    try {
+      const { retrieveIntelligentScholarshipsFromDb } = await import("./db/sqliteClient");
+      const result = await retrieveIntelligentScholarshipsFromDb(profile);
+      analysisMap.set(sessionId, result);
+      return result;
+    } catch (err) {
+      console.error("[SessionStore] Error in background DB analysis:", err);
+      return null;
+    }
+  })();
+
+  analysisMap.set(sessionId, promise);
+  return promise;
+}
+
+/**
+ * Retrieves the pre-computed database analysis promise or completed result for a session.
+ */
+export function getSessionDbAnalysis(sessionId: string): Promise<any> | any | null {
+  return analysisMap.get(sessionId) || null;
+}
 
 export function saveSessionToStore(sessionId: string, data: Partial<StoredSession>) {
   const existing = sessionsMap.get(sessionId) || {

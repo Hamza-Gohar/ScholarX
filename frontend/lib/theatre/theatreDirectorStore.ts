@@ -893,13 +893,13 @@ export const useTheatreDirectorStore = create<TheatreDirectorState>((set, get) =
         break;
       }
 
-      // Autonomous Fleet Paused at 30s & Handover to Intelligent Database Retrieval
+      // Autonomous Fleet Paused at 17s & Handover to Intelligent Database Retrieval
       case "FLEET_PAUSED": {
         set({
-          statusBanner: "AUTONOMOUS RESEARCH PAUSED (30S) // INTELLIGENT DATABASE RETRIEVAL ACTIVE",
+          statusBanner: "AUTONOMOUS RESEARCH PAUSED (17S) // INTELLIGENT DATABASE RETRIEVAL ACTIVE",
           commanderStatusText: "AUTONOMOUS DISCOVERY PAUSED // QUERYING SQLITE DATABASE",
-          commanderActiveDecision: "Pausing autonomous scout fleet at 30 seconds. Handing over to intelligent SQLite database matching engine.",
-          activeNarrative: "Autonomous 30-second multi-agent exploration paused. Switching to authoritative database for region, degree, GPA, and IELTS filtering.",
+          commanderActiveDecision: "Pausing autonomous scout fleet at 17 seconds. Handing over to intelligent SQLite database matching engine.",
+          activeNarrative: "Autonomous 17-second multi-agent exploration paused. Switching to authoritative database for region, degree, GPA, and IELTS filtering.",
           activePackets: [],
         });
         break;

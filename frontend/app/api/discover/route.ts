@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { saveSessionToStore } from "@/lib/sessionStore";
+import { saveSessionToStore, startSessionDbAnalysis } from "@/lib/sessionStore";
 import { attachSessionToken, backendConfigured, BACKEND_URL, backendHeaders } from "@/lib/backendProxy";
 import { saveSessionToDb } from "@/lib/db/sqliteClient";
 
@@ -8,6 +8,11 @@ export async function POST(req: NextRequest) {
     const body = await req.json();
     const sessionId = body.session_id || `session-pk-${Date.now().toString(36)}`;
     const profile = body.profile || null;
+
+    // Immediately kick off the intelligent database analysis process when mission is initialized
+    if (profile) {
+      startSessionDbAnalysis(sessionId, profile);
+    }
 
     // 1. Try FastAPI backend if reachable
     if (backendConfigured()) {

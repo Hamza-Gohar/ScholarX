@@ -837,8 +837,8 @@ export class DemoEventPlayer {
       this.onStageTransition?.(stageMap[rawEvent.event_type]);
     }
 
-    // Schedule next event (pacing: ~1.2s per major milestone in demo mode)
-    const delay = rawEvent.event_type === "MISSION_COMPLETE" ? 1500 : 1100;
+    // Schedule next event (pacing: scaled for ~17s demo mode sequence)
+    const delay = rawEvent.event_type === "MISSION_COMPLETE" ? 900 : 580;
     this.activeTimer = setTimeout(() => {
       this.playNextEvent();
     }, delay);

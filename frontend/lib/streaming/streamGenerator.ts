@@ -1,5 +1,5 @@
 import { NextRequest } from "next/server";
-import { getSessionFromStore, saveSessionToStore, buildSyntheticSession } from "../sessionStore";
+import { getSessionFromStore, saveSessionToStore, buildSyntheticSession, startSessionDbAnalysis, getSessionDbAnalysis } from "../sessionStore";
 import { searchScholarshipsForProfile, SEED_PROFILES } from "../seed-data";
 import { generateDynamicRoadmap, buildDynamicInvestigatedOpportunity } from "../ranking/rankingStore";
 import { calculatePakistanCosts } from "../cost/pakistanCostEngine";
@@ -154,6 +154,26 @@ export async function handleSSEStream(req: NextRequest, sessionId: string): Prom
           ? parsedRegions
           : ["Europe", "Asia", "Americas", "MENA", "Oceania"];
 
+        // =====================================================================
+        // STAGE 1: Initiation & Parameter Modeling (0.0s - 2.0s)
+        // =====================================================================
+        // Immediately start or connect to the Intelligent SQLite Database Retrieval Pipeline
+        // in the background at t = 0.0s the instant the mission is initialized.
+        // The 17s live portal animation displays to the user while database filtering
+        // and multi-factor ranking compute seamlessly in the background.
+        const backgroundDbRetrievalPromise = (async () => {
+          try {
+            const existing = getSessionDbAnalysis(sessionId);
+            if (existing) {
+              return existing instanceof Promise ? await existing : existing;
+            }
+            return await startSessionDbAnalysis(sessionId, profile);
+          } catch (err) {
+            console.error("[Stream] Background DB retrieval error:", err);
+            return null;
+          }
+        })();
+
         // Deterministic AI spelling correction for student inputs via Groq Round Robin
         const spellingCheck = await correctStudentInputDeterministically({
           fieldOfStudy: studentField,
@@ -171,22 +191,11 @@ export async function handleSSEStream(req: NextRequest, sessionId: string): Prom
           if (profile?.preferences?.target_fields) profile.preferences.target_fields = [activeStudentField];
         }
 
-        // =====================================================================
-        // STAGE 1: Initiation & Parameter Modeling (0.0s - 4.0s)
-        // =====================================================================
-        // Concurrently launch Intelligent SQLite Database Retrieval Pipeline in the background
-        // at t = 0.0s when the mission is initiated. The 30s live portal animation displays
-        // to the user while database filtering and Groq AI curriculum matching compute seamlessly.
-        const backgroundDbRetrievalPromise = retrieveIntelligentScholarshipsFromDb(profile).catch((err) => {
-          console.error("[Stream] Background DB retrieval error:", err);
-          return null;
-        });
-
         if (spellingCheck.correctionsMade) {
           await sendEvent("INPUT_NORMALIZED", "orchestrator", "Mission Commander", "AGENT", "ORCHESTRATION", {
             corrections: spellingCheck.changes,
             message: `Deterministic AI spelling correction applied: ${Object.entries(spellingCheck.changes).map(([k, v]) => `${k}: "${v.from}" -> "${v.to}"`).join("; ")}`,
-          }, "INFO", 500);
+          }, "INFO", 300);
         }
 
         await sendEvent("MISSION_INITIATED", "orchestrator", "Mission Commander", "AGENT", "ORCHESTRATION", {
@@ -195,16 +204,16 @@ export async function handleSSEStream(req: NextRequest, sessionId: string): Prom
           field_of_study: activeStudentField,
           gpa: studentGpa,
           target_regions: activeScoutRegions,
-          mode: "AUTONOMOUS_FLEET_30S",
-        }, "INFO", 1500);
+          mode: "AUTONOMOUS_FLEET_17S",
+        }, "INFO", 1000);
 
         await sendEvent("FLEET_DISPATCHED", "orchestrator", "Mission Commander", "AGENT", "ORCHESTRATION", {
           regions: activeScoutRegions,
           strategy: `Targeted regional discovery across ${activeScoutRegions.join(", ")} sectors with Pakistan bilateral quota prioritization`,
-        }, "INFO", 2000);
+        }, "INFO", 1000);
 
         // =====================================================================
-        // STAGE 2: Autonomous Fleet Discovery & Live Portal Scanning (4.0s - 12.0s)
+        // STAGE 2: Autonomous Fleet Discovery & Live Portal Scanning (2.0s - 6.5s)
         // =====================================================================
         const REGIONAL_PORTALS: Record<string, { portalUrl: string; portalName: string; queryEndpoint: string }> = {
           Europe: {
@@ -235,8 +244,8 @@ export async function handleSSEStream(req: NextRequest, sessionId: string): Prom
         };
 
         const scoutCount = Math.max(1, activeScoutRegions.length);
-        const perScoutDeployDelay = Math.floor(2000 / scoutCount);
-        const perScoutQueryDelay = Math.floor(2000 / scoutCount);
+        const perScoutDeployDelay = Math.floor(1000 / scoutCount);
+        const perScoutQueryDelay = Math.floor(1000 / scoutCount);
 
         for (const reg of activeScoutRegions) {
           const portalInfo = REGIONAL_PORTALS[reg] || {
@@ -261,7 +270,7 @@ export async function handleSSEStream(req: NextRequest, sessionId: string): Prom
           }, "INFO", perScoutQueryDelay);
         }
 
-        const perRegionDelay = Math.floor(4000 / Math.max(1, activeScoutRegions.length));
+        const perRegionDelay = Math.floor(2500 / Math.max(1, activeScoutRegions.length));
         for (const reg of activeScoutRegions) {
           const portalInfo = REGIONAL_PORTALS[reg] || {
             portalUrl: "https://scholarship.hec.gov.pk",
@@ -294,27 +303,27 @@ export async function handleSSEStream(req: NextRequest, sessionId: string): Prom
         }
 
         // =====================================================================
-        // STAGE 3: Specialist Investigations (12.0s - 24.0s)
+        // STAGE 3: Specialist Investigations (6.5s - 13.0s)
         // =====================================================================
         await sendEvent("INVESTIGATION_STARTED", "eligibility_evaluator", "Eligibility Investigator", "WORKFLOW", "ELIGIBILITY", {
           target_degree: studentDegree,
           target_field: activeStudentField,
           regions: activeScoutRegions,
           message: `Initiating multi-dimension eligibility audit across active ${activeScoutRegions.join(", ")} sectors.`,
-        }, "INFO", 2000);
+        }, "INFO", 1000);
 
         await sendEvent("ELIGIBILITY_EVALUATED", "eligibility_evaluator", "Eligibility Investigator", "WORKFLOW", "ELIGIBILITY", {
           total_passed: 14,
           warnings: 0,
           fails: 0,
           audit_criteria: "14-Point Bilateral Criterion (GPA, Degree Equivalence, Language Thresholds, HEC Attestation)",
-        }, "SUCCESS", 2000);
+        }, "SUCCESS", 1000);
 
         await sendEvent("COST_ANALYSIS_STARTED", "cost_analyzer", "True Cost Analyzer", "WORKFLOW", "COST", {
           target_degree: studentDegree,
           regions: activeScoutRegions,
           message: `Modeling currency volatility, living indexes, and upfront settlement buffers in PKR.`,
-        }, "INFO", 1500);
+        }, "INFO", 800);
 
         const estTuition = studentDegree.toLowerCase().includes("bachelor") ? 3200000 : 4500000;
         const estMonthlyStipend = 150000;
@@ -325,7 +334,7 @@ export async function handleSSEStream(req: NextRequest, sessionId: string): Prom
           stipend_monthly_pkr: estMonthlyStipend,
           out_of_pocket_initial_pkr: 45000,
           budget_status: "WITHIN_BUDGET",
-        }, "INFO", 2000);
+        }, "INFO", 1000);
 
         await sendEvent("DEADLINE_EVALUATED", "deadline_analyzer", "Deadline Intelligence", "WORKFLOW", "DEADLINE", {
           intake_cycle: "Academic Year 2026/2027",
@@ -334,37 +343,37 @@ export async function handleSSEStream(req: NextRequest, sessionId: string): Prom
           critical_prep_days: 45,
           slack_days: 75,
           feasibility: "OPTIMAL_RUNWAY",
-        }, "INFO", 2000);
+        }, "INFO", 1000);
 
         await sendEvent("SKEPTIC_CHALLENGE_RAISED", "skeptic", "Adversarial Skeptic", "AGENT", "VERIFICATION", {
           challenge_type: "DOCUMENT_VERIFICATION",
           severity: "MEDIUM",
           summary: `Evaluating institutional degree equivalence, IBCC/HEC attestation lead times, and consular visa processing buffers for ${activeStudentField} candidates across ${activeScoutRegions.join(", ")}.`,
-        }, "WARNING", 1500);
+        }, "WARNING", 1000);
 
         await sendEvent("SKEPTIC_COMPLETE", "skeptic", "Adversarial Skeptic", "AGENT", "VERIFICATION", {
           status: "RESOLVED_WITH_QUALIFICATIONS",
-        }, "SUCCESS", 1000);
+        }, "SUCCESS", 700);
 
         // =====================================================================
-        // STAGE 4: Cross-Agent Signal Synthesis (24.0s - 30.0s)
+        // STAGE 4: Cross-Agent Signal Synthesis (13.0s - 17.0s)
         // =====================================================================
         await sendEvent("SYNTHESIS_STARTED", "orchestrator", "Mission Commander", "WORKFLOW", "SYNTHESIS", {
           message: `Synthesizing multi-regional discovery intelligence, living stipend indexation, and qualification parameters for ${activeStudentName}.`,
-        }, "INFO", 3000);
+        }, "INFO", 2000);
 
         await sendEvent("CANDIDATE_POOL_VERIFIED", "orchestrator", "Mission Commander", "WORKFLOW", "SYNTHESIS", {
           message: "Foreign scholarship registers verified. Transitioning to intelligent database retrieval matrix.",
-        }, "SUCCESS", 3000);
+        }, "SUCCESS", 2000);
 
         // =====================================================================
-        // AT EXACTLY 30.0s: PAUSE AUTONOMOUS FLEET & HANDOVER TO DATABASE
+        // AT EXACTLY 17.0s: PAUSE AUTONOMOUS FLEET & HANDOVER TO DATABASE
         // =====================================================================
         await sendEvent("FLEET_PAUSED", "orchestrator", "Mission Commander", "AGENT", "ORCHESTRATION", {
           status: "PAUSED",
-          autonomous_duration_seconds: 30,
-          message: "AUTONOMOUS RESEARCH PAUSED (30S) // SWITCHING TO INTELLIGENT DATABASE RETRIEVAL",
-        }, "INFO", 800);
+          autonomous_duration_seconds: 17,
+          message: "AUTONOMOUS RESEARCH PAUSED (17S) // SWITCHING TO INTELLIGENT DATABASE RETRIEVAL",
+        }, "INFO", 600);
 
         // Reveal pre-computed Intelligent SQLite Database Retrieval Pipeline (started at t=0):
         // 1. Filter by user-chosen regions
