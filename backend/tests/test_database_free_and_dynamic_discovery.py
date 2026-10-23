@@ -49,8 +49,12 @@ async def test_case_1_no_custom_profile_canonical_default():
         assert data["status"] == "STARTED"
         assert data["session_id"] == "sess-default-no-profile-01"
 
+        token = data.get("session_token")
         # Check status endpoint immediately
-        st_resp = await client.get("/api/discover/sess-default-no-profile-01/status")
+        st_resp = await client.get(
+            "/api/discover/sess-default-no-profile-01/status",
+            headers={"X-Session-Token": token} if token else {},
+        )
         assert st_resp.status_code == 200
         assert st_resp.json()["session_id"] == "sess-default-no-profile-01"
 

@@ -237,6 +237,10 @@ class DiscoveryCommander:
         except Exception as db_fetch_err:
             logger.warning("Verified database prefetch failed; live scouts will continue: %s", db_fetch_err)
 
+        from config import get_settings
+        settings = get_settings()
+        is_offline = getattr(settings, "OFFLINE_MODE", False)
+
         async def _run_single_scout(reg_name: str):
             scout = self.scouts[reg_name]
             queries = self.generate_scout_queries(student, reg_name)
@@ -244,40 +248,43 @@ class DiscoveryCommander:
                 # Per-scout timeout ensures a slow scout does not stall other regional scouts
                 return await asyncio.wait_for(
                     scout.run(student, custom_queries=queries[:1], event_callback=event_callback),
-                    timeout=25.0,
+                    timeout=15.0,
                 )
             except Exception as exc:
                 return exc
 
-        try:
-            logger.info(f"Executing {len(scout_regions)} regional scouts concurrently (max 30s live discovery window)...")
-            # Global 30-second live finding threshold: after 30s of finding live, transition to database
-            scout_results = await asyncio.wait_for(
-                asyncio.gather(*[_run_single_scout(r) for r in scout_regions]),
-                timeout=30.0,
-            )
+        if is_offline:
+            logger.info("OFFLINE_MODE active. Immediately utilizing local verified database repository.")
+            transition_to_db = True
+        else:
+            try:
+                logger.info(f"Executing {len(scout_regions)} regional scouts concurrently...")
+                scout_results = await asyncio.wait_for(
+                    asyncio.gather(*[_run_single_scout(r) for r in scout_regions]),
+                    timeout=20.0,
+                )
 
-            for idx, res in enumerate(scout_results):
-                region_name = scout_regions[idx] if idx < len(scout_regions) else "Unknown"
-                if isinstance(res, tuple):
-                    sc_list, _ = res
-                    if sc_list:
-                        live_candidates.extend(sc_list)
-                    completed_regions.append(region_name)
-                else:
-                    failed_regions.append(region_name)
-                    logger.warning(f"Scout in {region_name} failed: {res}")
-                    emit(
-                        AgentEventType.SCOUT_FAILED,
-                        {"region": region_name, "error": str(res)},
-                        EventSeverity.WARNING,
-                    )
-        except asyncio.TimeoutError:
-            logger.info("30-second live discovery window elapsed. Transitioning to verified institutional database repository.")
-            transition_to_db = True
-        except Exception as e:
-            logger.error(f"Live discovery encountered unexpected error: {e}. Activating verified database failover.")
-            transition_to_db = True
+                for idx, res in enumerate(scout_results):
+                    region_name = scout_regions[idx] if idx < len(scout_regions) else "Unknown"
+                    if isinstance(res, tuple):
+                        sc_list, _ = res
+                        if sc_list:
+                            live_candidates.extend(sc_list)
+                        completed_regions.append(region_name)
+                    else:
+                        failed_regions.append(region_name)
+                        logger.warning(f"Scout in {region_name} failed: {res}")
+                        emit(
+                            AgentEventType.SCOUT_FAILED,
+                            {"region": region_name, "error": str(res)},
+                            EventSeverity.WARNING,
+                        )
+            except asyncio.TimeoutError:
+                logger.info("Live discovery window elapsed. Transitioning to verified institutional database repository.")
+                transition_to_db = True
+            except Exception as e:
+                logger.error(f"Live discovery encountered unexpected error: {e}. Activating verified database failover.")
+                transition_to_db = True
 
         if transition_to_db or failed_regions or not live_candidates:
             emit(

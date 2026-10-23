@@ -30,6 +30,12 @@ class TavilySearchTool:
         """
         Executes web search using Tavily API with automatic multi-key rotation and failover.
         """
+        from config import get_settings
+        settings = get_settings()
+        if getattr(settings, "OFFLINE_MODE", False) or self.key_manager.tavily.total_keys == 0:
+            logger.info("Offline mode active or no Tavily keys configured; skipping live web search.")
+            return []
+
         attempts = 0
         max_attempts = max(1, self.key_manager.tavily.total_keys)
 
@@ -51,7 +57,8 @@ class TavilySearchTool:
                 if include_domains:
                     search_kwargs["include_domains"] = include_domains
 
-                response = await client.search(**search_kwargs)
+                import asyncio
+                response = await asyncio.wait_for(client.search(**search_kwargs), timeout=3.5)
                 await self.key_manager.tavily.report_success(api_key)
 
                 results: List[SearchResultItem] = []
@@ -70,9 +77,15 @@ class TavilySearchTool:
 
             except Exception as exc:
                 err_msg = str(exc).lower()
+                is_net_error = any(kw in err_msg for kw in ["connect", "resolution", "unreachable", "name not known", "gaierror", "offline", "timeout", "timed out"])
                 status_code = 429 if ("429" in err_msg or "rate limit" in err_msg or "quota" in err_msg) else 500
-                logger.warning(f"Tavily search attempt {attempts} failed with error: {exc}. Rotating key...")
+                logger.warning(f"Tavily search attempt {attempts} failed with error: {exc}.")
                 await self.key_manager.tavily.report_failure(api_key, error_code=status_code)
 
-        logger.error(f"Failed to execute Tavily search after {max_attempts} attempts.")
+                # If connection / network error (no internet or offline), don't waste time rotating keys
+                if is_net_error:
+                    logger.info("Network connection unavailable. Transitioning immediately to offline database retrieval.")
+                    break
+
+        logger.info(f"Tavily search completed with fallback after {attempts} attempts.")
         return []

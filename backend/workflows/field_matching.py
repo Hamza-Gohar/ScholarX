@@ -180,30 +180,136 @@ PAKISTANI_ACADEMIC_ACRONYMS = {
     "biotech": "biotechnology",
 }
 
+# Fast offline dictionary for common academic discipline typos and colloquial shorthand
+FAST_ACADEMIC_TYPO_DICT = {
+    "compter scince": "computer science",
+    "computr scince": "computer science",
+    "computer scence": "computer science",
+    "computr science": "computer science",
+    "comp science": "computer science",
+    "compsci": "computer science",
+    "softwre enginering": "software engineering",
+    "softwre engineering": "software engineering",
+    "software eng": "software engineering",
+    "software engg": "software engineering",
+    "soft eng": "software engineering",
+    "artifcial intelgence": "artificial intelligence",
+    "artificial intellegence": "artificial intelligence",
+    "artifical intelligence": "artificial intelligence",
+    "artifical inteligence": "artificial intelligence",
+    "data scince": "data science",
+    "data scence": "data science",
+    "machne lerning": "machine learning",
+    "machine lerning": "machine learning",
+    "deep lerning": "deep learning",
+    "cybr security": "cybersecurity",
+    "cyber secrity": "cybersecurity",
+    "cyber sec": "cybersecurity",
+    "electrcial engenering": "electrical engineering",
+    "electrcial engineering": "electrical engineering",
+    "electrical engr": "electrical engineering",
+    "electrical engg": "electrical engineering",
+    "mechanical engg": "mechanical engineering",
+    "mechanical engr": "mechanical engineering",
+    "mechnical engineering": "mechanical engineering",
+    "civil engg": "civil engineering",
+    "civil engr": "civil engineering",
+    "biomdical": "biomedical engineering",
+    "biomedical engg": "biomedical engineering",
+    "chemical engg": "chemical engineering",
+    "chemical engr": "chemical engineering",
+    "mechatronics engg": "mechatronics",
+    "aeronautical engg": "aerospace engineering",
+    "bussines admistration": "business administration",
+    "business admistration": "business administration",
+    "bussiness administration": "business administration",
+    "business admin": "business administration",
+    "electrcial": "electrical",
+    "electrial": "electrical",
+    "compter": "computer",
+    "computr": "computer",
+    "scince": "science",
+    "scence": "science",
+    "enginering": "engineering",
+    "engenering": "engineering",
+    "bussines": "business",
+    "bussiness": "business",
+    "admistration": "administration",
+    "lerning": "learning",
+    "finence": "finance",
+    "econmics": "economics",
+    "acounting": "accounting",
+    "medecine": "medicine",
+    "biotechnolgy": "biotechnology",
+}
 
-def expand_field_acronyms(text: str) -> str:
-    """Expands common Pakistani academic degree and discipline acronyms using whole-word matching."""
+import difflib
+
+# Precomputed canonical single-word keywords for fuzzy typo matching
+ALL_CANONICAL_KEYWORDS: Set[str] = set()
+for _cat in FIELD_TAXONOMY.values():
+    for _kw in _cat["keywords"]:
+        for _part in _kw.split():
+            if len(_part) >= 4:
+                ALL_CANONICAL_KEYWORDS.add(_part)
+ALL_CANONICAL_KEYWORDS.update({"science", "engineering", "technology", "studies", "administration"})
+
+
+def normalize_discipline_token(word: str) -> str:
+    """Corrects single-word typos (e.g. 'compter' -> 'computer', 'scince' -> 'science') using SequenceMatcher."""
+    w = word.lower().strip()
+    if len(w) < 4:
+        return w
+    if w in ALL_CANONICAL_KEYWORDS:
+        return w
+    matches = difflib.get_close_matches(w, ALL_CANONICAL_KEYWORDS, n=1, cutoff=0.75)
+    return matches[0] if matches else w
+
+
+def normalize_field_offline(text: str) -> str:
+    """Normalizes field of study offline using dictionary lookups and fuzzy typo correction."""
     if not text:
         return ""
-    words = text.split()
+    cleaned = text.strip().lower()
+    if cleaned in FAST_ACADEMIC_TYPO_DICT:
+        return FAST_ACADEMIC_TYPO_DICT[cleaned]
+    
+    # Check if a substring matches FAST_ACADEMIC_TYPO_DICT
+    for typo, correction in FAST_ACADEMIC_TYPO_DICT.items():
+        if typo in cleaned:
+            cleaned = cleaned.replace(typo, correction)
+            
+    return cleaned
+
+
+def expand_field_acronyms(text: str) -> str:
+    """Expands common Pakistani academic degree and discipline acronyms using whole-word matching and typo tolerance."""
+    if not text:
+        return ""
+    normalized = normalize_field_offline(text)
+    words = normalized.split()
     expanded_words = []
     for w in words:
         clean_w = re.sub(r"[^\w\.-]", "", w.lower())
         if clean_w in PAKISTANI_ACADEMIC_ACRONYMS:
             expanded_words.append(PAKISTANI_ACADEMIC_ACRONYMS[clean_w])
         else:
-            expanded_words.append(w)
+            # Fuzzy match word against canonical academic keywords
+            fuzzy_w = normalize_discipline_token(clean_w)
+            expanded_words.append(fuzzy_w)
     return " ".join(expanded_words)
 
 
 def _clean_tokens(text: str) -> Set[str]:
-    """Extracts alphanumeric words in lower case after expanding acronyms."""
+    """Extracts alphanumeric words in lower case after expanding acronyms and correcting typos."""
     expanded = expand_field_acronyms(text)
-    return set(re.findall(r"\b[a-z]{2,}\b", expanded.lower()))
+    tokens = set(re.findall(r"\b[a-z]{2,}\b", expanded.lower()))
+    normalized_tokens = {normalize_discipline_token(t) for t in tokens}
+    return normalized_tokens
 
 
 def get_field_categories(field_str: str) -> Set[str]:
-    """Identifies taxonomy category keys for a given field string."""
+    """Identifies taxonomy category keys for a given field string with typo tolerance."""
     expanded = expand_field_acronyms(field_str)
     f_lower = expanded.lower()
     categories = set()
@@ -212,6 +318,17 @@ def get_field_categories(field_str: str) -> Set[str]:
             if kw in f_lower:
                 categories.add(cat_key)
                 break
+
+    # If no category matched via substring, perform token-level check
+    if not categories:
+        tokens = _clean_tokens(field_str)
+        for cat_key, cat_data in FIELD_TAXONOMY.items():
+            cat_words = set()
+            for kw in cat_data["keywords"]:
+                cat_words.update(kw.split())
+            if tokens.intersection(cat_words):
+                categories.add(cat_key)
+
     return categories
 
 
@@ -228,8 +345,9 @@ def is_field_match(
     - 1.00: Exact or direct keyword match in designated field.
     - 0.95: Close cognate discipline (e.g. AI student applying to CS program).
     - 0.90: Broad Engineering / STEM match if target is in an engineering discipline.
-    - 0.85: Open / Bilateral Quota program offering \"All Fields\" or general scholarship.
-    - 0.00: Non-compatible discipline (e.g. Civil Engineering student applying to strictly AI Lab fellowship).
+    - 0.85: Open / Bilateral Quota program offering "All Fields" or general scholarship.
+    - 0.75: Resilient offline fallback for open programs when target field is unclassified.
+    - 0.00: Non-compatible discipline.
     """
     # If no target fields specified, open to everything
     if not target_fields:
@@ -246,12 +364,28 @@ def is_field_match(
     # 1. Universal / Bilateral Open Programs
     universal_markers = [
         "all fields", "all disciplines", "any discipline", "open to all",
-        "all academic", "any field", "general quota"
+        "all academic", "any field", "general quota", "various fields"
     ]
-    if any(m in ef_text for m in universal_markers) or any(m in name_lower for m in ["bilateral program", "government scholarship", "bursları", "burslari", "hungaricum"]):
+    if any(m in ef_text for m in universal_markers) or any(
+        m in name_lower
+        for m in [
+            "bilateral program",
+            "government scholarship",
+            "bursları",
+            "burslari",
+            "hungaricum",
+            "csc scholarship",
+            "chinese government",
+            "mext",
+            "turkiye",
+            "dsu regional",
+            "arice",
+            "commonwealth",
+        ]
+    ):
         return True, 0.88
 
-    # If eligible_fields is empty, treat as general
+    # If eligible_fields is empty, treat as general / open
     if not ef_list:
         return True, 0.85
 
@@ -303,5 +437,11 @@ def is_field_match(
     is_eligible_engineering = any("engineering" in e.lower() for e in ef_list)
     if is_target_engineering and is_eligible_engineering:
         return True, 0.88
+
+    # 7. Resilient Fallback for Unclassified Target Fields:
+    # If the student's field is misspelled or unclassified into our 16 taxonomies,
+    # and the scholarship offers multiple broad fields, do not reject completely.
+    if not target_categories and len(ef_list) >= 4:
+        return True, 0.75
 
     return False, 0.0

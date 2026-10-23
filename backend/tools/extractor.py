@@ -175,12 +175,15 @@ class ScholarshipExtractor:
     async def extract_scholarship(
         self,
         raw_text: str,
-        source_url: str,
-        region: str,
+        source_url: str = "",
+        region: str = "Global",
     ) -> Optional[Scholarship]:
         """
         Extracts structured Scholarship schema from raw scraped markdown using Groq (primary) and Gemini (fallback).
         """
+        if getattr(self.settings, "OFFLINE_MODE", False) or (self.key_manager.groq.total_keys == 0 and self.key_manager.gemini.total_keys == 0):
+            return None
+
         if not raw_text or len(raw_text.strip()) < 100:
             return None
 
@@ -200,15 +203,18 @@ class ScholarshipExtractor:
 
             try:
                 client = AsyncGroq(api_key=api_key, max_retries=0)
-                res = await client.chat.completions.create(
-                    model=self.settings.GROQ_MODEL,
-                    messages=[
-                        {"role": "system", "content": EXTRACTION_SYSTEM_PROMPT},
-                        {"role": "user", "content": prompt},
-                    ],
-                    response_format={"type": "json_object"},
-                    temperature=0.1,
-                    max_tokens=850,
+                res = await asyncio.wait_for(
+                    client.chat.completions.create(
+                        model=self.settings.GROQ_MODEL,
+                        messages=[
+                            {"role": "system", "content": EXTRACTION_SYSTEM_PROMPT},
+                            {"role": "user", "content": prompt},
+                        ],
+                        response_format={"type": "json_object"},
+                        temperature=0.1,
+                        max_tokens=850,
+                    ),
+                    timeout=3.5,
                 )
                 await self.key_manager.groq.report_success(api_key)
                 content = res.choices[0].message.content or "{}"
@@ -216,8 +222,12 @@ class ScholarshipExtractor:
                 sanitized = self._sanitize_scholarship_dict(parsed, source_url, region)
                 return Scholarship.model_validate(sanitized)
             except Exception as e:
-                logger.warning(f"Groq scholarship extraction attempt {attempt+1} failed: {e}. Rotating key...")
+                err_msg = str(e).lower()
+                is_net_error = any(kw in err_msg for kw in ["connect", "resolution", "unreachable", "name not known", "gaierror", "offline", "timeout", "timed out"])
+                logger.warning(f"Groq scholarship extraction attempt {attempt+1} failed: {e}.")
                 await self.key_manager.groq.report_failure(api_key)
+                if is_net_error:
+                    break
 
         # 2. Fallback to Gemini
         for attempt in range(max(1, self.key_manager.gemini.total_keys)):
@@ -228,10 +238,13 @@ class ScholarshipExtractor:
 
             try:
                 client = genai.Client(api_key=api_key)
-                response = await asyncio.to_thread(
-                    client.models.generate_content,
-                    model=self.settings.GEMINI_PRIMARY_MODEL,
-                    contents=f"{EXTRACTION_SYSTEM_PROMPT}\n\n{prompt}",
+                response = await asyncio.wait_for(
+                    asyncio.to_thread(
+                        client.models.generate_content,
+                        model=self.settings.GEMINI_PRIMARY_MODEL,
+                        contents=f"{EXTRACTION_SYSTEM_PROMPT}\n\n{prompt}",
+                    ),
+                    timeout=3.5,
                 )
                 await self.key_manager.gemini.report_success(api_key)
                 text = response.text or ""
@@ -241,8 +254,12 @@ class ScholarshipExtractor:
                     sanitized = self._sanitize_scholarship_dict(parsed, source_url, region)
                     return Scholarship.model_validate(sanitized)
             except Exception as exc:
+                err_msg = str(exc).lower()
+                is_net_error = any(kw in err_msg for kw in ["connect", "resolution", "unreachable", "name not known", "gaierror", "offline", "timeout", "timed out"])
                 logger.warning(f"Gemini scholarship extraction fallback attempt {attempt+1} failed: {exc}")
                 await self.key_manager.gemini.report_failure(api_key)
+                if is_net_error:
+                    break
 
-        logger.error("Failed to extract scholarship after all key attempts.")
+        logger.info("Extraction unavailable or offline. Using verified database record.")
         return None

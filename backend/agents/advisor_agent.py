@@ -35,7 +35,7 @@ class AdvisorAgent:
         self.key_manager = KeyManager.get_instance()
 
     def _get_pakistan_offices(
-        self, city: str, is_undergrad: bool = False, is_cambridge: bool = False
+        self, city: str, is_undergrad: bool = False, is_cambridge: bool = False, student: Optional[Any] = None
     ) -> List[PakistaniOffice]:
         """Provides verified Pakistani government and test center locations based on student's city, level, and education stream."""
         city_norm = city.lower().strip()
@@ -65,7 +65,7 @@ class AdvisorAgent:
                 )
             else:
                 # 1. BISE / FBISE Office (Board of Intermediate and Secondary Education)
-                board_norm = (getattr(student.academic, "board_university", "") or "").lower()
+                board_norm = (getattr(student.academic, "board_university", "") or "").lower() if student and hasattr(student, "academic") else ""
                 is_fbise = "fbise" in board_norm or "federal" in board_norm or "islamabad" in city_norm
                 bise_city = "Islamabad" if is_fbise else ("Lahore" if "lahore" in city_norm else ("Karachi" if "karachi" in city_norm else city.capitalize()))
                 bise_name = "Federal Board of Intermediate & Secondary Education (FBISE) Islamabad" if is_fbise else f"Board of Intermediate & Secondary Education (BISE) {bise_city}"
@@ -232,7 +232,9 @@ class AdvisorAgent:
             bool(student.academic.gpa_percentage and student.academic.gpa_percentage < 60.0)
             or bool(student.academic.gpa_4_scale and 0 < student.academic.gpa_4_scale < 2.5)
         )
-        offices = self._get_pakistan_offices(city, is_undergrad=is_undergrad, is_cambridge=is_cambridge)
+        offices = self._get_pakistan_offices(city, is_undergrad=is_undergrad, is_cambridge=is_cambridge, student=student)
+        board_norm = (getattr(student.academic, "board_university", "") or "").lower() if student and hasattr(student, "academic") else ""
+        is_fbise = "fbise" in board_norm or "federal" in board_norm or "islamabad" in city.lower()
 
         if is_undergrad:
             if is_cambridge:

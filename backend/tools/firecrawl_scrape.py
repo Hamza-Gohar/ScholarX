@@ -13,7 +13,7 @@ class FirecrawlScraperTool:
         self.endpoint = "https://api.firecrawl.dev/v1/scrape"
 
     async def _scrape_with_key(self, url: str, api_key: str) -> str:
-        async with httpx.AsyncClient(timeout=30.0) as client:
+        async with httpx.AsyncClient(timeout=3.5) as client:
             headers = {
                 "Authorization": f"Bearer {api_key}",
                 "Content-Type": "application/json",
@@ -37,6 +37,11 @@ class FirecrawlScraperTool:
         """
         Deep-scrapes a webpage and converts it into clean markdown via Firecrawl API with multi-key failover.
         """
+        from config import get_settings
+        settings = get_settings()
+        if getattr(settings, "OFFLINE_MODE", False) or self.key_manager.firecrawl.total_keys == 0:
+            return ""
+
         attempts = 0
         max_attempts = max(1, self.key_manager.firecrawl.total_keys)
 
@@ -54,9 +59,11 @@ class FirecrawlScraperTool:
                 return markdown
             except Exception as exc:
                 err_msg = str(exc).lower()
+                is_net_error = any(kw in err_msg for kw in ["connect", "resolution", "unreachable", "name not known", "gaierror", "offline", "timeout", "timed out"])
                 status_code = 429 if ("429" in err_msg or "rate limit" in err_msg or "quota" in err_msg) else 500
-                logger.warning(f"Firecrawl scrape attempt {attempts} failed for {url}: {exc}. Rotating key...")
+                logger.warning(f"Firecrawl scrape attempt {attempts} failed for {url}: {exc}.")
                 await self.key_manager.firecrawl.report_failure(api_key, error_code=status_code)
+                if is_net_error:
+                    break
 
-        logger.error(f"Failed to scrape {url} via Firecrawl after {max_attempts} attempts.")
         return ""

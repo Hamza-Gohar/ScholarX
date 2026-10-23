@@ -31,9 +31,10 @@ async def test_api_profile_upload_and_get():
         assert res_json["session_id"] == session_id
         assert "profile" in res_json
         assert res_json["profile"]["academic"]["gpa_percentage"] > 0
+        token = upload_res.headers.get("X-Session-Token") or res_json.get("session_token")
 
-        # 2. Get profile
-        get_res = await client.get(f"/api/profile/{session_id}")
+        # 2. Get profile with session token
+        get_res = await client.get(f"/api/profile/{session_id}", headers={"X-Session-Token": token})
         assert get_res.status_code == 200
         profile_data = get_res.json()["profile"]
         assert profile_data["session_id"] == session_id
@@ -41,6 +42,7 @@ async def test_api_profile_upload_and_get():
 
 @pytest.mark.asyncio
 async def test_api_profile_chat():
+    from utils.security import create_signed_session_token
     store = get_session_store()
     await store.init_db()
     session_id = "sess-api-prof-chat"
@@ -52,6 +54,7 @@ async def test_api_profile_chat():
         personal=PersonalInfo(name="Bilal", city="Lahore"),
     )
     await store.save_student_profile(student)
+    token = create_signed_session_token(session_id)
 
     transport = ASGITransport(app=app)
     async with AsyncClient(transport=transport, base_url="http://test") as client:
@@ -59,7 +62,7 @@ async def test_api_profile_chat():
             "session_id": session_id,
             "message": "I want to apply for fully funded Master's in Germany in AI.",
         }
-        res = await client.post("/api/profile/chat", json=payload)
+        res = await client.post("/api/profile/chat", json=payload, headers={"X-Session-Token": token})
         assert res.status_code == 200
         data = res.json()
         assert "reply" in data

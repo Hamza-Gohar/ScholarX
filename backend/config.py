@@ -20,6 +20,7 @@ class Settings(BaseSettings):
     APP_VERSION: str = "0.1.0"
     ENVIRONMENT: str = "development"
     DEBUG: bool = False
+    OFFLINE_MODE: bool = False
     HOST: str = "0.0.0.0"
     PORT: int = 8000
     SESSION_SECRET: str = ""
@@ -139,11 +140,11 @@ class Settings(BaseSettings):
         import logging
         cfg_logger = logging.getLogger("scholarx.config")
         if not (self.gemini_keys or self.groq_keys):
-            msg = "ScholarX requires at least one active GEMINI or GROQ API key in .env"
-            if self.ENVIRONMENT == "production":
+            msg = "ScholarX running without external LLM keys. Offline mode active."
+            if self.ENVIRONMENT == "production" and not self.OFFLINE_MODE:
                 raise ValueError(f"FATAL: {msg}")
             else:
-                cfg_logger.warning(f"Configuration notice: {msg}. External agent runs will be limited.")
+                cfg_logger.info(f"Configuration notice: {msg}. Operating with deterministic offline intelligence.")
 
         if not self.SESSION_SECRET:
             if self.ENVIRONMENT == "production":
