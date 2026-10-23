@@ -88,7 +88,7 @@ export const InvestigationTargetObject: React.FC<InvestigationTargetObjectProps>
       initial={false}
       animate={{ scale: 1, opacity: 1 }}
       transition={{ duration: 0.2 }}
-      className={`relative rounded-2xl border border-white/[0.12] bg-black/85 backdrop-blur-2xl p-5 shadow-[0_0_50px_rgba(0,0,0,0.8)] pointer-events-auto transition-all duration-300 w-[720px] ${className}`}
+      className={`relative rounded-2xl border border-white/[0.12] bg-black/85 backdrop-blur-2xl p-3.5 sm:p-5 shadow-[0_0_50px_rgba(0,0,0,0.8)] pointer-events-auto transition-all duration-300 w-full max-w-[720px] ${className}`}
       style={{
         boxShadow:
           target.knowledgeState === "INVESTIGATION_COMPLETE"

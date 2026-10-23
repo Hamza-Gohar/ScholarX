@@ -421,8 +421,96 @@ export default function ScholarshipsDatabasePage() {
           </div>
         </div>
 
-        {/* Relational Data Table */}
-        <div className="w-full overflow-hidden rounded-2xl border border-white/[0.08] bg-white/[0.02] backdrop-blur-xl shadow-2xl">
+        {/* Mobile View: Clean Responsive Cards (< md) */}
+        <div className="block md:hidden space-y-3 mb-6">
+          {loading ? (
+            <div className="py-12 text-center text-zinc-400 font-mono text-xs">
+              <RefreshCw className="w-5 h-5 animate-spin mx-auto mb-2 text-amber-400" />
+              <span>Loading scholarships database...</span>
+            </div>
+          ) : scholarships.length === 0 ? (
+            <div className="py-12 text-center text-zinc-500 font-mono text-xs">
+              No matching scholarships found.
+            </div>
+          ) : (
+            scholarships.map((s) => {
+              const degreeList = s.eligibility?.degree_levels || [];
+              const isMoi =
+                Boolean(s.pakistan_requirements?.accepts_moi_certificate) ||
+                Boolean((s as any)?.deep_dossier?.eligibility_requirements?.moi_certificate_accepted);
+              const quotaSeats = s.pakistan_requirements?.pakistan_quota_seats;
+
+              return (
+                <div
+                  key={s.scholarship_id}
+                  onClick={() => setActiveScholarship(s)}
+                  className="rounded-xl border border-white/[0.08] bg-white/[0.03] p-4 space-y-2.5 transition-all active:scale-[0.99] cursor-pointer"
+                >
+                  <div className="flex items-center justify-between gap-2">
+                    <div className="flex items-center space-x-2 min-w-0">
+                      <span className="font-semibold text-xs text-white uppercase truncate">
+                        {s.host_country_name || s.host_country}
+                      </span>
+                      <span className="text-[10px] font-mono px-1.5 py-0.2 rounded bg-white/[0.08] text-zinc-400">
+                        {s.region}
+                      </span>
+                    </div>
+                    <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-amber-500/15 text-amber-300 border border-amber-500/30 font-bold shrink-0">
+                      {s.scholarship_id}
+                    </span>
+                  </div>
+
+                  <div>
+                    <h3 className="text-sm font-bold text-white leading-snug line-clamp-2">
+                      {s.name}
+                    </h3>
+                    <p className="text-[11px] text-zinc-400 truncate mt-0.5">
+                      {s.host_institution || "National / Consortium Program"}
+                    </p>
+                  </div>
+
+                  <div className="flex flex-wrap gap-1.5 pt-1 border-t border-white/[0.05]">
+                    <span className="px-2 py-0.5 rounded text-[10px] font-mono font-bold bg-emerald-500/15 text-emerald-400 border border-emerald-500/30">
+                      {s.funding?.funding_type || "FULL"}
+                    </span>
+                    {quotaSeats && (
+                      <span className="px-2 py-0.5 rounded text-[10px] font-mono font-bold bg-amber-500/20 text-amber-300 border border-amber-500/40">
+                        {quotaSeats} Quota Seats
+                      </span>
+                    )}
+                    {isMoi && (
+                      <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-sky-500/15 text-sky-300 border border-sky-500/30">
+                        MOI Accepted
+                      </span>
+                    )}
+                    {degreeList.slice(0, 2).map((d) => (
+                      <span key={d} className="px-1.5 py-0.5 rounded bg-white/[0.06] text-[10px] font-mono text-zinc-300">
+                        {d.replace("Master's", "MS").replace("Bachelor's", "BS")}
+                      </span>
+                    ))}
+                  </div>
+
+                  <div className="flex items-center justify-between pt-2 border-t border-white/[0.05] text-[11px] font-mono">
+                    <span className="text-zinc-400">
+                      Stipend: <strong className="text-emerald-300">{s.funding?.monthly_stipend ? `${s.funding.monthly_stipend}` : "Covered"}</strong>
+                    </span>
+                    <Link
+                      href={`/dossier/${encodeURIComponent(s.scholarship_id)}`}
+                      onClick={(e) => e.stopPropagation()}
+                      className="text-cyan-400 font-semibold hover:underline flex items-center gap-1"
+                    >
+                      <span>Dossier</span>
+                      <ChevronRight className="w-3.5 h-3.5" />
+                    </Link>
+                  </div>
+                </div>
+              );
+            })
+          )}
+        </div>
+
+        {/* Desktop View: Relational Data Table (>= md) */}
+        <div className="hidden md:block w-full overflow-hidden rounded-2xl border border-white/[0.08] bg-white/[0.02] backdrop-blur-xl shadow-2xl">
           <div className="overflow-x-auto">
             <table className="w-full text-left border-collapse">
               <thead>

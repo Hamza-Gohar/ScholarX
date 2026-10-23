@@ -147,7 +147,7 @@ export const DossierModalViewer: React.FC<DossierModalViewerProps> = ({
             className="relative w-full max-w-[1140px] h-full sm:h-[93vh] max-h-[100dvh] sm:max-h-[93vh] bg-[#FAFAF9] rounded-none sm:rounded-2xl shadow-2xl flex flex-col min-h-0 overflow-hidden border-0 sm:border sm:border-white/20 z-[1001] select-text dossier-modal-window"
           >
             {/* Top Modal Header */}
-            <div className="bg-[#1C1917] text-white px-3 sm:px-6 py-2.5 sm:py-3 flex flex-wrap items-center justify-between shrink-0 border-b border-white/10 z-[1002] gap-2 no-print">
+            <div className="bg-[#1C1917] text-white px-3 sm:px-6 pt-[calc(0.625rem+env(safe-area-inset-top,0px))] pb-2.5 sm:py-3 flex flex-wrap items-center justify-between shrink-0 border-b border-white/10 z-[1002] gap-2 no-print">
               <div className="flex items-center space-x-2 sm:space-x-3 min-w-0">
                 <span className="text-[10px] sm:text-xs font-bold px-2 py-0.5 rounded bg-sx-ice/20 text-sx-ice border border-sx-ice/40 font-sans shrink-0">
                   SCHOLARX

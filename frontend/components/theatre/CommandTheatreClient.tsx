@@ -1121,65 +1121,67 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
         />
       </TheatreErrorBoundary>
 
-      {/* Layer 30: Delegation Network Conduits */}
-      <TheatreErrorBoundary subsystemName="Delegation & Investigation Conduits">
-        {isLiveOrDemo && (
-          <>
-            {(currentLivePhase === "INITIALIZING" || currentLivePhase === "FLEET_DISCOVERY") && (
-              <FleetDelegationNetwork
-                commanderPos={FLEET_STAGE_ANCHORS.commanderCenter}
-                scoutPositions={FLEET_STAGE_ANCHORS.scouts}
-                focusedRegion={focusedLiveRegion as Region | null}
-              />
-            )}
-          </>
-        )}
-
-        {activeMode === "PHASE6" && (
-          <InvestigationConduits activeSpecialist={phase6Snapshot.activeSpecialist} />
-        )}
-
-        {activeMode === "PHASE5" && (
-          <FleetDelegationNetwork
-            commanderPos={FLEET_STAGE_ANCHORS.commanderCenter}
-            scoutPositions={FLEET_STAGE_ANCHORS.scouts}
-            focusedRegion={phase5FocusedRegion as Region | null}
-          />
-        )}
-
-        {activeMode === "PHASE4" && (
-          <DelegationBridge
-            sourcePos={STAGE_ANCHORS.commanderRight}
-            targetPos={STAGE_ANCHORS.scoutLeft}
-            visible={true}
-            statusLabel="COMMUNICATION BUS // DUPLEX DIRECTIVE INTERFACE"
-          />
-        )}
-      </TheatreErrorBoundary>
-
-      {/* Layer 35: Physical Communication Packet Canvas */}
-      <TheatreErrorBoundary subsystemName="Packet Physical Canvas">
-        {isLiveOrDemo &&
-          ["INITIALIZING", "FLEET_DISCOVERY"].includes(liveStore.visualPhase) && (
-            <PacketCanvas packets={liveStore.activePackets} />
+      {/* Layer 30: Delegation Network Conduits (Desktop Only - Mobile uses Tactical Radar) */}
+      <div className="hidden lg:block">
+        <TheatreErrorBoundary subsystemName="Delegation & Investigation Conduits">
+          {isLiveOrDemo && (
+            <>
+              {(currentLivePhase === "INITIALIZING" || currentLivePhase === "FLEET_DISCOVERY") && (
+                <FleetDelegationNetwork
+                  commanderPos={FLEET_STAGE_ANCHORS.commanderCenter}
+                  scoutPositions={FLEET_STAGE_ANCHORS.scouts}
+                  focusedRegion={focusedLiveRegion as Region | null}
+                />
+              )}
+            </>
           )}
 
-        {activeMode === "PHASE7" && (
-          <PacketCanvas packets={phase7Snapshot.activePackets} />
-        )}
+          {activeMode === "PHASE6" && (
+            <InvestigationConduits activeSpecialist={phase6Snapshot.activeSpecialist} />
+          )}
 
-        {activeMode === "PHASE6" && (
-          <PacketCanvas packets={phase6Snapshot.activePackets} />
-        )}
+          {activeMode === "PHASE5" && (
+            <FleetDelegationNetwork
+              commanderPos={FLEET_STAGE_ANCHORS.commanderCenter}
+              scoutPositions={FLEET_STAGE_ANCHORS.scouts}
+              focusedRegion={phase5FocusedRegion as Region | null}
+            />
+          )}
 
-        {activeMode === "PHASE5" && (
-          <PacketCanvas packets={phase5Snapshot.activePackets} />
-        )}
+          {activeMode === "PHASE4" && (
+            <DelegationBridge
+              sourcePos={STAGE_ANCHORS.commanderRight}
+              targetPos={STAGE_ANCHORS.scoutLeft}
+              visible={true}
+              statusLabel="COMMUNICATION BUS // DUPLEX DIRECTIVE INTERFACE"
+            />
+          )}
+        </TheatreErrorBoundary>
 
-        {activeMode === "PHASE4" && (
-          <PacketCanvas packet={phase4Snapshot.activePacket} />
-        )}
-      </TheatreErrorBoundary>
+        {/* Layer 35: Physical Communication Packet Canvas (Desktop Only) */}
+        <TheatreErrorBoundary subsystemName="Packet Physical Canvas">
+          {isLiveOrDemo &&
+            ["INITIALIZING", "FLEET_DISCOVERY"].includes(liveStore.visualPhase) && (
+              <PacketCanvas packets={liveStore.activePackets} />
+            )}
+
+          {activeMode === "PHASE7" && (
+            <PacketCanvas packets={phase7Snapshot.activePackets} />
+          )}
+
+          {activeMode === "PHASE6" && (
+            <PacketCanvas packets={phase6Snapshot.activePackets} />
+          )}
+
+          {activeMode === "PHASE5" && (
+            <PacketCanvas packets={phase5Snapshot.activePackets} />
+          )}
+
+          {activeMode === "PHASE4" && (
+            <PacketCanvas packet={phase4Snapshot.activePacket} />
+          )}
+        </TheatreErrorBoundary>
+      </div>
 
       {/* Layer 70: Brand Identity Header & Mode Switcher */}
       <ScholarXIdentity
@@ -1705,7 +1707,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
         {activeMode === "PHASE7" && (
           <div className="relative w-full flex-1 pointer-events-none flex flex-col items-center justify-between py-1">
             {/* 1. TOP COMMANDER CONSOLE HEADER */}
-            <div className="pointer-events-auto w-[820px] shrink-0 z-20 mb-2">
+            <div className="pointer-events-auto w-full max-w-[820px] shrink-0 z-20 mb-2 px-1">
               <div className="rounded-xl border border-white/[0.08] bg-black/80 backdrop-blur-xl p-3 shadow-lg flex items-center justify-between">
                 <div className="flex items-center space-x-3">
                   <div className="w-8 h-8 rounded-lg bg-sx-gold/15 border border-sx-gold/30 flex items-center justify-center text-sx-gold font-mono font-bold text-xs shadow-[0_0_12px_rgba(212,175,55,0.3)]">
@@ -1815,7 +1817,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
         {activeMode === "PHASE6" && (
           <div className="relative w-full flex-1 pointer-events-none flex flex-col items-center justify-between py-1">
             {/* 1. TOP COMMANDER CONSOLE HEADER */}
-            <div className="pointer-events-auto w-[720px] shrink-0 z-20">
+            <div className="pointer-events-auto w-full max-w-[720px] shrink-0 z-20 px-1">
               <div className="rounded-xl border border-white/[0.08] bg-black/80 backdrop-blur-xl p-3 shadow-lg flex items-center justify-between">
                 <div className="flex items-center space-x-3">
                   <div className="w-8 h-8 rounded-lg bg-sx-ice/15 border border-sx-ice/30 flex items-center justify-center text-sx-ice font-mono font-bold text-xs shadow-[0_0_12px_rgba(56,189,248,0.3)]">
@@ -1844,7 +1846,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
             </div>
 
             {/* 2. CENTER: THE INVESTIGATION TARGET OBJECT */}
-            <div className="pointer-events-auto z-20 my-1">
+            <div className="pointer-events-auto z-20 my-1 w-full flex justify-center px-1">
               <InvestigationTargetObject
                 target={phase6Snapshot.target}
                 activeSpecialist={phase6Snapshot.activeSpecialist}
@@ -1856,7 +1858,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
             </div>
 
             {/* 3. LOWER STAGE: ACTIVE SPECIALIST PROCESS CARD */}
-            <div className="pointer-events-auto z-20 shrink-0">
+            <div className="pointer-events-auto z-20 shrink-0 w-full flex justify-center px-1">
               {phase6Snapshot.specialistMeta ? (
                 <SpecialistProcessCard
                   type={phase6Snapshot.specialistMeta.type}
@@ -1874,7 +1876,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
                   synthesisSummary={phase6Snapshot.synthesisSummary}
                 />
               ) : (
-                <div className="w-[720px] rounded-xl border border-white/[0.08] bg-black/60 backdrop-blur-md p-4 text-center text-[11px] font-mono text-white/50 space-y-1 shadow-lg">
+                <div className="w-full max-w-[720px] rounded-xl border border-white/[0.08] bg-black/60 backdrop-blur-md p-4 text-center text-[11px] font-mono text-white/50 space-y-1 shadow-lg">
                   <div className="text-sx-gold font-bold uppercase tracking-wider flex items-center justify-center gap-2">
                     <Search className="w-3.5 h-3.5" />
                     <span>INVESTIGATION PIPELINE INITIALIZED</span>
@@ -2020,8 +2022,8 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
         {/* PHASE 4: PRESERVED PROOF MODE (Backwards Verification)                     */}
         {/* ========================================================================= */}
         {activeMode === "PHASE4" && (
-          <div className="w-full flex-1 flex items-start gap-0 pointer-events-none my-auto pt-4">
-            <div className="pointer-events-auto w-[380px]">
+          <div className="w-full flex-1 flex flex-col md:flex-row items-center md:items-start justify-center gap-4 md:gap-8 pointer-events-none my-auto pt-4 max-w-5xl mx-auto px-2">
+            <div className="pointer-events-auto w-full max-w-[380px]">
               <CommanderConsole
                 state={phase4Snapshot.commander.state}
                 mission={phase4Snapshot.commander.mission}
@@ -2053,7 +2055,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
               />
             </div>
 
-            <div className="pointer-events-auto w-[380px] ml-[360px]">
+            <div className="pointer-events-auto w-full max-w-[380px]">
               <AgentCard
                 agent={{
                   agentId: "scout-eu",
@@ -2085,8 +2087,8 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
         {/* PHASE 3: PRESERVED LIFECYCLE MODE (Backwards Verification)                */}
         {/* ========================================================================= */}
         {activeMode === "PHASE3" && (
-          <div className="w-full flex-1 flex items-start gap-0 pointer-events-none my-auto pt-4">
-            <div className="pointer-events-auto w-[380px]">
+          <div className="w-full flex-1 flex flex-col md:flex-row items-center md:items-start justify-center gap-4 md:gap-8 pointer-events-none my-auto pt-4 max-w-5xl mx-auto px-2">
+            <div className="pointer-events-auto w-full max-w-[380px]">
               <CommanderConsole
                 state={lifecycle.commander.state}
                 mission={lifecycle.commander.mission}
@@ -2100,7 +2102,7 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
             </div>
 
             {lifecycle.europeScout && (
-              <div className="pointer-events-auto w-[380px] ml-[360px]">
+              <div className="pointer-events-auto w-full max-w-[380px]">
                 <AgentCard agent={lifecycle.europeScout} isFocused={true} />
               </div>
             )}

@@ -54,17 +54,17 @@ export const RoadmapJourney: React.FC<RoadmapJourneyProps> = ({
         </div>
 
         {/* Global Strategy Metrics */}
-        <div className="flex items-center space-x-4 text-right">
+        <div className="flex items-center justify-between sm:justify-end space-x-4 text-left sm:text-right pt-1 sm:pt-0">
           <div>
             <div className="text-[9px] font-mono text-sx-text-tertiary uppercase">TOTAL TIMELINE</div>
-            <div className="text-sm font-mono font-bold text-white flex items-center justify-end gap-1">
+            <div className="text-sm font-mono font-bold text-white flex items-center sm:justify-end gap-1">
               <Calendar className="w-3.5 h-3.5 text-sx-ice" />
               <span>{totalPrepDays} DAYS</span>
             </div>
           </div>
           <div>
             <div className="text-[9px] font-mono text-sx-text-tertiary uppercase">TOTAL BUDGET NEEDED</div>
-            <div className="text-sm font-mono font-bold text-sx-gold flex items-center justify-end gap-1">
+            <div className="text-sm font-mono font-bold text-sx-gold flex items-center sm:justify-end gap-1">
               <Coins className="w-3.5 h-3.5" />
               <span>PKR {(totalBudgetPkr / 1000).toFixed(0)}k</span>
             </div>
@@ -73,7 +73,7 @@ export const RoadmapJourney: React.FC<RoadmapJourneyProps> = ({
       </div>
 
       {/* 6-Phase Linear Journey Scrubber (§17, §19) */}
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-1.5 mb-3.5">
+      <div className="flex items-stretch gap-1.5 overflow-x-auto no-scrollbar pb-1 md:grid md:grid-cols-6 mb-3.5 touch-scroll">
         {phases.map((p, idx) => {
           const isCurrent = idx === selectedPhaseIdx;
           const hasBlocking = p.actions.some((a) => a.isBlocking);
@@ -82,7 +82,7 @@ export const RoadmapJourney: React.FC<RoadmapJourneyProps> = ({
             <button
               key={p.phase}
               onClick={() => setSelectedPhaseIdx(idx)}
-              className={`text-left p-2 rounded-lg border transition-all text-[10px] font-mono relative overflow-hidden cursor-pointer ${
+              className={`text-left p-2 rounded-lg border transition-all text-[10px] font-mono relative overflow-hidden cursor-pointer min-w-[130px] shrink-0 md:shrink md:min-w-0 ${
                 isCurrent
                   ? "bg-white/[0.08] border-sx-gold/60 text-white shadow-[0_0_15px_rgba(212,175,55,0.15)] ring-1 ring-sx-gold/30"
                   : "bg-black/50 border-white/[0.06] text-sx-text-tertiary hover:border-white/[0.15] hover:text-white/80"

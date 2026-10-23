@@ -164,12 +164,12 @@ export function CatalogBrowser({ initialScholarships }: CatalogBrowserProps) {
 
         {/* Region Pills & Toggle Badges */}
         <div className="mt-6 flex flex-col sm:flex-row sm:items-center justify-between gap-4 pt-4 border-t border-neutral-800/80">
-          <div className="flex items-center gap-2 overflow-x-auto no-scrollbar py-1 w-full sm:w-auto">
+          <div className="flex items-center gap-2 overflow-x-auto no-scrollbar py-1 w-full sm:w-auto touch-scroll">
             {regions.map((reg) => (
               <button
                 key={reg.id}
                 onClick={() => setSelectedRegion(reg.id)}
-                className={`px-3 sm:px-3.5 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-all ${
+                className={`px-3 sm:px-3.5 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-all touch-manipulation active:scale-95 ${
                   selectedRegion === reg.id
                     ? "bg-cyan-500 text-neutral-950 font-bold shadow-md shadow-cyan-500/20"
                     : "bg-neutral-950 text-neutral-400 hover:text-white hover:bg-neutral-800 border border-neutral-800"

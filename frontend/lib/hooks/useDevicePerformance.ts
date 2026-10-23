@@ -6,6 +6,8 @@ export interface DevicePerformanceState {
   isLowEnd: boolean;
   isEcoMode: boolean;
   isTabVisible: boolean;
+  isMobile: boolean;
+  isTouchDevice: boolean;
   toggleEcoMode: () => void;
 }
 
@@ -15,10 +17,25 @@ export function useDevicePerformance(): DevicePerformanceState {
   const [isEcoMode, setIsEcoMode] = useState<boolean>(false);
   const [isLowEnd, setIsLowEnd] = useState<boolean>(false);
   const [isTabVisible, setIsTabVisible] = useState<boolean>(true);
+  const [isMobile, setIsMobile] = useState<boolean>(false);
+  const [isTouchDevice, setIsTouchDevice] = useState<boolean>(false);
 
-  // Initialize hardware detection & stored preferences
+  // Initialize hardware, mobile & touch detection & stored preferences
   useEffect(() => {
     if (typeof window === "undefined") return;
+
+    // Mobile & Touch detection
+    const checkMobile = () => {
+      const mobileWidth = window.innerWidth < 1024;
+      setIsMobile(mobileWidth);
+    };
+
+    const hasTouch = "ontouchstart" in window || navigator.maxTouchPoints > 0;
+    setIsTouchDevice(hasTouch);
+    checkMobile();
+
+    window.addEventListener("resize", checkMobile);
+    window.addEventListener("orientationchange", checkMobile);
 
     let lowEndDetected = false;
 
@@ -51,6 +68,11 @@ export function useDevicePerformance(): DevicePerformanceState {
       // Auto-enable Eco Mode by default on low-end devices for butter-smooth experience
       setIsEcoMode(true);
     }
+
+    return () => {
+      window.removeEventListener("resize", checkMobile);
+      window.removeEventListener("orientationchange", checkMobile);
+    };
   }, []);
 
   // Listen to tab visibility changes to hibernate background rendering & preserve battery
@@ -93,6 +115,8 @@ export function useDevicePerformance(): DevicePerformanceState {
     isLowEnd,
     isEcoMode,
     isTabVisible,
+    isMobile,
+    isTouchDevice,
     toggleEcoMode,
   };
 }

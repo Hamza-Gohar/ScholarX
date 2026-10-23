@@ -20,7 +20,7 @@ export const ScholarXIdentity: React.FC<ScholarXIdentityProps> = ({
     <div
       className={twMerge(
         clsx(
-          "flex items-center justify-between w-full px-3 sm:px-6 md:px-8 py-2.5 sm:py-3.5 z-theatre-system pointer-events-auto border-b border-white/[0.06] bg-black/40 backdrop-blur-md",
+          "flex items-center justify-between w-full px-3 sm:px-6 md:px-8 py-2.5 sm:py-3.5 pt-safe z-theatre-system pointer-events-auto border-b border-white/[0.06] bg-black/40 backdrop-blur-md",
           className
         )
       )}

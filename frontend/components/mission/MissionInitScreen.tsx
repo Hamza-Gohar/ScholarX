@@ -570,7 +570,10 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
       {/* Background Spatial World Stage & Atmospheric Lighting */}
       <div className="fixed inset-0 pointer-events-none z-0 overflow-hidden">
         <AtmosphericBackground />
-        <WorldStage mapState="DEPLOYMENT" cameraShot="GLOBAL" />
+        <div className="hidden lg:block absolute inset-0">
+          <WorldStage mapState="DEPLOYMENT" cameraShot="GLOBAL" />
+        </div>
+        <div className="block lg:hidden absolute inset-0 bg-[radial-gradient(circle_at_50%_15%,rgba(16,185,129,0.08),transparent_70%)]" />
         <div className="absolute inset-0 bg-[#05070A]/50" />
       </div>
 
@@ -602,7 +605,7 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
       </datalist>
 
       {/* Top Header */}
-      <header className="relative z-20 w-full px-3 sm:px-6 py-3 sm:py-4 flex flex-wrap items-center justify-between border-b border-white/[0.08] bg-black/70 backdrop-blur-xl shrink-0 gap-2.5">
+      <header className="relative z-20 w-full px-3 sm:px-6 py-3 sm:py-4 pt-safe flex flex-wrap items-center justify-between border-b border-white/[0.08] bg-black/70 backdrop-blur-xl shrink-0 gap-2.5">
         <div className="flex items-center space-x-2.5 sm:space-x-3 min-w-0">
           <div className="w-8 h-8 sm:w-9 sm:h-9 rounded-lg bg-sx-gold/15 border border-sx-gold/40 flex items-center justify-center text-sx-gold font-bold text-xs sm:text-sm shadow-[0_0_15px_rgba(212,175,55,0.3)] shrink-0">
             SX
@@ -665,7 +668,7 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
             </div>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3">
+          <div className="flex items-stretch gap-2.5 overflow-x-auto no-scrollbar pb-2 sm:grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 sm:gap-3 touch-scroll">
             {PRESETS.map((p) => {
               const isSelected = selectedPresetId === p.id && !isCustom;
               const isCambridge = p.educationStream === "CAMBRIDGE";
@@ -673,7 +676,7 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
                 <button
                   key={p.id}
                   onClick={() => applyPreset(p)}
-                  className={`p-3 rounded-xl border text-left transition-all cursor-pointer relative overflow-hidden ${
+                  className={`min-w-[220px] sm:min-w-0 p-3 rounded-xl border text-left transition-all cursor-pointer relative overflow-hidden shrink-0 sm:shrink ${
                     isSelected
                       ? isCambridge
                         ? "border-purple-400 bg-purple-500/20 shadow-[0_0_15px_rgba(168,85,247,0.3)] ring-1 ring-purple-400/60"
@@ -711,7 +714,7 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
                 setIsCustom(true);
                 setSelectedPresetId("custom");
               }}
-              className={`p-3 rounded-xl border text-left transition-all cursor-pointer ${
+              className={`min-w-[220px] sm:min-w-0 p-3 rounded-xl border text-left transition-all cursor-pointer shrink-0 sm:shrink ${
                 isCustom
                   ? "border-sx-ice bg-sx-ice/15 shadow-[0_0_15px_rgba(56,189,248,0.2)] ring-1 ring-sx-ice/60"
                   : "border-white/[0.08] bg-black/40 hover:bg-white/[0.04] hover:border-white/[0.15]"
@@ -1768,7 +1771,7 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
       </main>
 
       {/* Mobile Floating Sticky Launch Bar */}
-      <div className="fixed bottom-0 left-0 right-0 p-3 bg-black/90 backdrop-blur-xl border-t border-amber-400/30 z-40 lg:hidden shadow-[0_-10px_30px_rgba(0,0,0,0.8)]">
+      <div className="fixed bottom-0 left-0 right-0 p-3 pb-[calc(0.75rem+env(safe-area-inset-bottom,0px))] bg-black/95 backdrop-blur-xl border-t border-amber-400/30 z-40 lg:hidden shadow-[0_-10px_30px_rgba(0,0,0,0.85)]">
         <button
           type="button"
           onClick={handleLaunch}

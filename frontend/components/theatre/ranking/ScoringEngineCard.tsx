@@ -26,28 +26,28 @@ export const ScoringEngineCard: React.FC<ScoringEngineCardProps> = ({
       className={`w-full max-w-[960px] mx-auto rounded-xl border border-white/[0.12] bg-black/85 backdrop-blur-xl p-4 shadow-2xl transition-all duration-300 ${className}`}
     >
       {/* Header Bar */}
-      <div className="flex items-center justify-between border-b border-white/[0.08] pb-3 mb-3">
-        <div className="flex items-center space-x-2.5">
-          <div className="w-7 h-7 rounded-lg bg-sx-amber/20 border border-sx-amber/40 flex items-center justify-center text-sx-amber shadow-[0_0_12px_rgba(245,158,11,0.25)]">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between border-b border-white/[0.08] pb-3 mb-3 gap-2.5">
+        <div className="flex items-center space-x-2.5 min-w-0">
+          <div className="w-7 h-7 rounded-lg bg-sx-amber/20 border border-sx-amber/40 flex items-center justify-center text-sx-amber shadow-[0_0_12px_rgba(245,158,11,0.25)] shrink-0">
             <Scale className="w-4 h-4" />
           </div>
-          <div>
+          <div className="min-w-0">
             <div className="text-[10px] font-mono text-sx-text-tertiary uppercase tracking-wider flex items-center gap-1.5">
               <span>DETERMINISTIC RANKING ENGINE</span>
               <span className="text-white/20">{"//"}</span>
-              <span className="text-sx-amber font-semibold">PAKISTAN-ADJUSTED COMPOSITE FORMULA</span>
+              <span className="text-sx-amber font-semibold truncate">PAKISTAN FORMULA</span>
             </div>
-            <div className="text-sm font-sans font-semibold text-white truncate max-w-[500px]">
+            <div className="text-sm font-sans font-semibold text-white truncate max-w-[320px] sm:max-w-[500px]">
               {opportunityName}
             </div>
           </div>
         </div>
 
         {/* Calculated Score & Rank Badge */}
-        <div className="flex items-center space-x-3">
-          <div className="text-right">
+        <div className="flex items-center justify-between sm:justify-end space-x-3 shrink-0">
+          <div className="text-left sm:text-right">
             <div className="text-[9px] font-mono text-sx-text-tertiary uppercase">COMPOSITE SCORE</div>
-            <div className="text-xl font-mono font-bold text-sx-gold tracking-tight flex items-baseline justify-end gap-1">
+            <div className="text-xl font-mono font-bold text-sx-gold tracking-tight flex items-baseline sm:justify-end gap-1">
               <span>{(compositeScore ?? 88.5).toFixed(1)}</span>
               <span className="text-xs text-white/40">/100</span>
             </div>
@@ -59,18 +59,18 @@ export const ScoringEngineCard: React.FC<ScoringEngineCardProps> = ({
       </div>
 
       {/* Transparent Arithmetic Formula Statement */}
-      <div className="text-[10px] font-mono text-white/50 mb-3 bg-white/[0.02] px-3 py-1.5 rounded border border-white/[0.04] flex items-center justify-between">
-        <div className="flex items-center space-x-2">
-          <Calculator className="w-3 h-3 text-sx-ice" />
-          <span>
+      <div className="text-[10px] font-mono text-white/50 mb-3 bg-white/[0.02] px-3 py-1.5 rounded border border-white/[0.04] flex flex-col sm:flex-row sm:items-center justify-between gap-1.5">
+        <div className="flex items-center space-x-2 overflow-x-auto no-scrollbar py-0.5">
+          <Calculator className="w-3 h-3 text-sx-ice shrink-0" />
+          <span className="whitespace-nowrap">
             Score = (0.25×E) + (0.25×F) + (0.10×B) + (0.10×A) + (0.10×D) + (0.10×T) + (0.05×V) + (0.05×C)
           </span>
         </div>
-        <div className="text-sx-verified font-medium">100% Deterministic Arithmetic (Zero LLM Hallucination)</div>
+        <div className="text-sx-verified font-medium shrink-0">100% Deterministic (Zero Hallucination)</div>
       </div>
 
       {/* 8-Factor Compact Grid (§11) */}
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-2 mb-3">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2 mb-3">
         {factorList.map((factor) => {
           const isHighWeight = factor.weightPercent >= 25;
           const isOptimal = factor.status === "OPTIMAL";
