@@ -21,6 +21,7 @@ import {
   Calculator
 } from "lucide-react";
 import { sound } from "@/lib/sound-fx";
+import { IneligiblePoliteModal } from "@/components/common/IneligiblePoliteModal";
 
 const GRADE_POINTS: Record<string, number> = {
   "A*": 90,
@@ -71,6 +72,7 @@ export const IntakeOverlay: React.FC = () => {
   const [chatInput, setChatInput] = useState("");
   const [isChatLoading, setIsChatLoading] = useState(false);
   const [isUploading, setIsUploading] = useState(false);
+  const [showIneligibleModal, setShowIneligibleModal] = useState<boolean>(false);
 
   if (overlayView !== "INTAKE") return null;
 
@@ -115,13 +117,19 @@ export const IntakeOverlay: React.FC = () => {
       },
     };
     setStudentProfile(updatedProfile);
+
+    if (eq.percentage < 70) {
+      sound.playSkepticAlert();
+      setShowIneligibleModal(true);
+    }
+
     setChatMessages((prev) => [
       ...prev,
       {
         sender: "counselor",
         text: `[CAMBRIDGE EQUIVALENCE ENGINE] Computed official IBCC equivalence for A-Levels [${aLevel1}, ${aLevel2}, ${aLevel3}]: ${eq.percentage}% (${eq.marks1100}/1100 Marks Equivalent, CGPA ${eq.gpa.toFixed(2)}/4.0). Stream updated to Cambridge International. ${
-          eq.percentage < 60
-            ? "⚠️ Notice: Equivalence below 60% threshold. Strict merit quotas will decline eligibility, but ScholarX has activated Need-Based alternative pathways (Italian DSU Regional Grants & China CSC Type-B)."
+          eq.percentage < 70
+            ? "⚠️ Notice: Equivalence below 70% threshold (Ineligible for Merit Awards). Strict merit quotas will decline eligibility, but ScholarX has activated Need-Based alternative pathways (Italian DSU Regional Grants & China CSC Type-B)."
             : "✅ Meets competitive eligibility for European Bilateral Quota programs. Submit Statement of Results directly to IBCC Cambridge Cell (Plot 25, G-10/4, Islamabad)."
         }`,
       },
@@ -432,9 +440,21 @@ export const IntakeOverlay: React.FC = () => {
                     Attestation: Submit original CIE Statement of Results to IBCC Cambridge Cell (Plot 25, G-10/4, Islamabad).
                   </div>
 
-                  {liveIbcc.percentage < 60 && (
-                    <div className="mt-1.5 p-2 rounded bg-warning-amber/15 border border-warning-amber/30 text-warning-amber text-[10px] leading-relaxed">
-                      ⚠️ <strong>Academic Gate Notice:</strong> Score below 60%. Merit-based bilateral programs will be flagged as ineligible. ScholarX will automatically recommend <strong>Need-Based Italian DSU Regional Grants</strong> & <strong>China CSC Type-B</strong>.
+                  {liveIbcc.percentage < 70 && (
+                    <div className="mt-1.5 p-2 rounded bg-warning-amber/15 border border-warning-amber/30 text-warning-amber text-[10px] leading-relaxed flex items-center justify-between gap-2">
+                      <div>
+                        ⚠️ <strong>Academic Gate Notice:</strong> Score ({liveIbcc.percentage}%) is below the 70.0% merit cutoff (Ineligible for standard merit quotas). ScholarX automatically recommends <strong>Need-Based Italian DSU Regional Grants</strong> & <strong>China CSC Type-B</strong>.
+                      </div>
+                      <button
+                        type="button"
+                        onClick={() => {
+                          sound.playClick();
+                          setShowIneligibleModal(true);
+                        }}
+                        className="px-2 py-1 rounded bg-warning-amber/20 hover:bg-warning-amber/30 text-warning-amber font-bold text-[9px] border border-warning-amber/40 shrink-0 transition-colors"
+                      >
+                        Guidance
+                      </button>
                     </div>
                   )}
                 </div>
@@ -557,6 +577,16 @@ export const IntakeOverlay: React.FC = () => {
           </div>
         </div>
       </div>
+
+      {/* Polite Ineligibility Modal (< 70% Marks) */}
+      <IneligiblePoliteModal
+        isOpen={showIneligibleModal}
+        percentage={studentProfile.academic.percentage || liveIbcc.percentage}
+        gpa4Scale={studentProfile.academic.gpa_4_scale || liveIbcc.gpa}
+        onClose={() => setShowIneligibleModal(false)}
+        onProceedAnyway={() => setShowIneligibleModal(false)}
+        onAdjustMarks={() => setShowIneligibleModal(false)}
+      />
     </div>
   );
 };

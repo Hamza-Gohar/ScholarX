@@ -229,8 +229,8 @@ class AdvisorAgent:
             or bool(getattr(student.academic, "a_level_grades", None))
         )
         is_low_gpa = (
-            bool(student.academic.gpa_percentage and student.academic.gpa_percentage < 60.0)
-            or bool(student.academic.gpa_4_scale and 0 < student.academic.gpa_4_scale < 2.5)
+            bool(student.academic.gpa_percentage and student.academic.gpa_percentage < 70.0)
+            or bool(student.academic.gpa_4_scale and 0 < student.academic.gpa_4_scale < 2.8)
         )
         offices = self._get_pakistan_offices(city, is_undergrad=is_undergrad, is_cambridge=is_cambridge, student=student)
         board_norm = (getattr(student.academic, "board_university", "") or "").lower() if student and hasattr(student, "academic") else ""
@@ -486,7 +486,7 @@ class AdvisorAgent:
         if not student.language.has_english_test and scholarship.language.english_test_required:
             urgent_actions.append("Book computer-delivered IELTS Academic test date.")
 
-        is_low_gpa = (0 < student.academic.gpa_percentage < 60.0) or (0 < student.academic.gpa_4_scale < 2.5)
+        is_low_gpa = (0 < student.academic.gpa_percentage < 70.0) or (0 < student.academic.gpa_4_scale < 2.8)
         if is_low_gpa:
             urgent_actions.append(
                 "Target Need-Based Grants: Prioritize Italian DSU Regional Grants (family income based) or Chinese Type-B Scholarships which accept passing academic marks."

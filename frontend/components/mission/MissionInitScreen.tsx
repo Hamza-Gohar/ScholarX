@@ -10,6 +10,7 @@ import {
   History,
   CheckCircle2,
   AlertCircle,
+  AlertTriangle,
   GraduationCap,
   Globe2,
   Banknote,
@@ -28,6 +29,8 @@ import Link from "next/link";
 import { Region, StudentProfile } from "@/lib/types";
 import { listSessions, deleteSession, checkBackendHealth } from "@/lib/api";
 import { percentageToGpa4, gpaToPercentage } from "@/lib/utils/gpaScale";
+import { sound } from "@/lib/sound-fx";
+import { IneligiblePoliteModal } from "@/components/common/IneligiblePoliteModal";
 import { WorldStage } from "@/components/theatre/world/WorldStage";
 import { AtmosphericBackground } from "@/components/theatre/AtmosphericBackground";
 
@@ -326,6 +329,27 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
     return { pct, marks, gpa, division };
   };
 
+  // Ineligibility (< 70% Marks) State & Advisory Modal
+  const [showIneligibleModal, setShowIneligibleModal] = useState<boolean>(false);
+  const [ineligibleModalDismissed, setIneligibleModalDismissed] = useState<boolean>(false);
+
+  // Auto-detect when marks fall below 70% and trigger polite advisory modal
+  useEffect(() => {
+    const effectivePct = educationStream === "CAMBRIDGE"
+      ? computeIbccEquivalence(aLevelGrade1, aLevelGrade2, aLevelGrade3).pct
+      : gpaPercentage;
+
+    if (effectivePct >= 70) {
+      setIneligibleModalDismissed(false);
+    } else if (effectivePct > 0 && effectivePct < 70 && !ineligibleModalDismissed) {
+      const timer = setTimeout(() => {
+        sound.playSkepticAlert();
+        setShowIneligibleModal(true);
+      }, 600);
+      return () => clearTimeout(timer);
+    }
+  }, [gpaPercentage, aLevelGrade1, aLevelGrade2, aLevelGrade3, educationStream, ineligibleModalDismissed]);
+
   // Form State - Language & Tests
   const [englishOption, setEnglishOption] = useState<string>("None / Not Available");
   const [ieltsScore, setIeltsScore] = useState<number>(7.0);
@@ -432,6 +456,16 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
   }, []);
 
   const handleLaunch = async () => {
+    const effectivePct = educationStream === "CAMBRIDGE"
+      ? computeIbccEquivalence(aLevelGrade1, aLevelGrade2, aLevelGrade3).pct
+      : gpaPercentage;
+
+    if (effectivePct < 70 && !ineligibleModalDismissed) {
+      sound.playSkepticAlert();
+      setShowIneligibleModal(true);
+      return;
+    }
+
     setIsSubmitting(true);
     const newSessionId = `session-pk-${Date.now().toString(36)}`;
     const studentId = `std-pk-${Date.now().toString(36).slice(-6)}`;
@@ -1254,14 +1288,37 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
                       </div>
                     </div>
                   )}
+
+                  {/* Cambridge Ineligibility Notice (< 70% Equivalence) */}
+                  {gpaPercentage < 70 && (
+                    <div className="mt-2.5 p-2.5 rounded-lg bg-amber-500/10 border border-amber-500/30 flex items-center justify-between gap-2 text-xs">
+                      <div className="flex items-center space-x-2">
+                        <AlertTriangle className="w-4 h-4 text-amber-400 shrink-0" />
+                        <span className="text-[11px] font-mono text-amber-300">
+                          IBCC Equivalence ({gpaPercentage.toFixed(1)}%) is below 70% merit cutoff (Ineligible for standard merit quotas).
+                        </span>
+                      </div>
+                      <button
+                        type="button"
+                        onClick={() => {
+                          sound.playClick();
+                          setShowIneligibleModal(true);
+                        }}
+                        className="px-2.5 py-1 rounded bg-amber-500/20 hover:bg-amber-500/30 text-amber-300 font-mono text-[10px] font-bold border border-amber-500/30 shrink-0 transition-colors"
+                      >
+                        Guidance
+                      </button>
+                    </div>
+                  )}
                 </div>
               </div>
             ) : (
               <div className="space-y-2 pt-2 border-t border-white/[0.06]">
                 <div className="text-[10px] font-mono text-zinc-400 uppercase tracking-wider flex items-center justify-between">
                   <span>3. ACADEMIC SCORES & GPA PRECISION</span>
-                  <span className="text-sx-gold">
+                  <span className={gpaPercentage < 70 ? "text-amber-400 font-bold" : "text-sx-gold"}>
                     {gpaPercentage}% • {gpa4Scale} / 4.0 GPA
+                    {gpaPercentage < 70 && " (Ineligible < 70%)"}
                   </span>
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
@@ -1271,7 +1328,7 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
                     </label>
                     <input
                       type="number"
-                      min="50"
+                      min="40"
                       max="100"
                       step="0.1"
                       value={gpaPercentage}
@@ -1310,10 +1367,10 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
 
                 {/* Quick slider */}
                 <div className="flex items-center space-x-3 pt-1">
-                  <span className="text-[10px] font-mono text-zinc-400">50%</span>
+                  <span className="text-[10px] font-mono text-zinc-400">40%</span>
                   <input
                     type="range"
-                    min="50"
+                    min="40"
                     max="98"
                     step="0.5"
                     value={gpaPercentage}
@@ -1327,6 +1384,33 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
                   />
                   <span className="text-[10px] font-mono text-zinc-400">98%</span>
                 </div>
+
+                {/* Real-time Ineligibility Callout (< 70% Marks) */}
+                {gpaPercentage < 70 && (
+                  <div className="mt-2.5 p-3 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-between gap-3 animate-in fade-in duration-200">
+                    <div className="flex items-start space-x-2.5">
+                      <AlertTriangle className="w-4 h-4 text-amber-400 shrink-0 mt-0.5" />
+                      <div>
+                        <div className="font-mono text-xs font-bold text-amber-300 flex items-center space-x-1.5">
+                          <span>INELIGIBLE FOR MERIT SCHOLARSHIPS (&lt; 70% CUTOFF)</span>
+                        </div>
+                        <div className="font-mono text-[11px] text-zinc-300 mt-0.5">
+                          Marks score ({gpaPercentage.toFixed(1)}%) is below the 70.0% merit threshold. ScholarX will guide you toward Need-Based Grants (Italian DSU, China CSC Type-B).
+                        </div>
+                      </div>
+                    </div>
+                    <button
+                      type="button"
+                      onClick={() => {
+                        sound.playClick();
+                        setShowIneligibleModal(true);
+                      }}
+                      className="px-3 py-1.5 rounded-lg bg-amber-500/20 hover:bg-amber-500/30 border border-amber-500/40 text-amber-300 font-mono text-[10px] font-bold shrink-0 transition-colors"
+                    >
+                      View Guidance
+                    </button>
+                  </div>
+                )}
               </div>
             )}
 
@@ -1797,6 +1881,32 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
         <div>SCHOLARX PRODUCT INTEGRATION // 10-NODE AUTONOMOUS ARCHITECTURE</div>
         <div className="hidden sm:block">PAKISTAN HEC & BILATERAL EMBASSY REGISTRIES COMPATIBLE</div>
       </footer>
+
+      {/* Polite Ineligibility Modal (< 70% Marks) */}
+      <IneligiblePoliteModal
+        isOpen={showIneligibleModal}
+        percentage={
+          educationStream === "CAMBRIDGE"
+            ? computeIbccEquivalence(aLevelGrade1, aLevelGrade2, aLevelGrade3).pct
+            : gpaPercentage
+        }
+        gpa4Scale={
+          educationStream === "CAMBRIDGE"
+            ? computeIbccEquivalence(aLevelGrade1, aLevelGrade2, aLevelGrade3).gpa
+            : gpa4Scale
+        }
+        onClose={() => {
+          setShowIneligibleModal(false);
+          setIneligibleModalDismissed(true);
+        }}
+        onProceedAnyway={() => {
+          setShowIneligibleModal(false);
+          setIneligibleModalDismissed(true);
+        }}
+        onAdjustMarks={() => {
+          setShowIneligibleModal(false);
+        }}
+      />
     </div>
   );
 };

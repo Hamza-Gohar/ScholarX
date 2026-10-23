@@ -199,3 +199,70 @@ async def test_advisor_agent_includes_low_gpa_urgent_action():
     # Check urgent next actions contains low-GPA guidance
     assert any("Target Need-Based Grants" in action for action in roadmap.urgent_next_actions)
     assert any("Italian DSU Regional Grants" in action for action in roadmap.urgent_next_actions)
+
+
+def test_eligibility_enforces_70_percent_cutoff_with_polite_ineligibility():
+    """Test that a student with 68.5% marks is automatically flagged Ineligible under 70% cutoff."""
+    profile = StudentProfile(
+        student_id="std-under-70",
+        personal={"name": "Ahmed Raza", "city": "Lahore", "nationality": "PK"},
+        academic={
+            "current_level": "Bachelor's",
+            "field_of_study": "Electrical Engineering",
+            "gpa_percentage": 68.5,
+            "gpa_4_scale": 2.74,
+        },
+        preferences={"target_degree_level": "Master's", "target_fields": ["Electrical Engineering"]},
+    )
+
+    scholarship = Scholarship(
+        scholarship_id="TEST-EUROPE-MERIT",
+        name="European Research Merit Award",
+        host_country="FR",
+        host_country_name="France",
+        region="Europe",
+        source_url="https://campusfrance.org",
+    )
+    scholarship.eligibility.degree_levels = ["Master's"]
+    scholarship.eligibility.eligible_fields = ["Electrical Engineering"]
+
+    investigator = EligibilityInvestigator()
+    result = investigator.evaluate(scholarship, profile)
+
+    assert result.is_eligible is False
+    assert any("Ineligible for Merit Award" in b for b in result.blocking_issues)
+    assert any("70.0%" in b for b in result.blocking_issues)
+    assert any("Italian DSU" in a for a in result.action_required)
+
+
+def test_eligibility_passes_for_student_above_70_percent():
+    """Test that a student with 72.0% marks clears the 70% merit threshold."""
+    profile = StudentProfile(
+        student_id="std-above-70",
+        personal={"name": "Fatima Noor", "city": "Islamabad", "nationality": "PK"},
+        academic={
+            "current_level": "Bachelor's",
+            "field_of_study": "Computer Science",
+            "gpa_percentage": 72.0,
+            "gpa_4_scale": 2.88,
+        },
+        preferences={"target_degree_level": "Master's", "target_fields": ["Computer Science"]},
+    )
+
+    scholarship = Scholarship(
+        scholarship_id="TEST-MERIT-PASS",
+        name="Commonwealth General Merit Award",
+        host_country="UK",
+        host_country_name="United Kingdom",
+        region="Europe",
+        source_url="https://cscuk.fcdo.gov.uk",
+    )
+    scholarship.eligibility.degree_levels = ["Master's"]
+    scholarship.eligibility.eligible_fields = ["Computer Science"]
+
+    investigator = EligibilityInvestigator()
+    result = investigator.evaluate(scholarship, profile)
+
+    assert result.is_eligible is True
+    assert len(result.blocking_issues) == 0
+

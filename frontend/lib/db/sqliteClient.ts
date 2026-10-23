@@ -383,8 +383,8 @@ export async function retrieveIntelligentScholarshipsFromDb(profile: any): Promi
     let lowestRequired4 = 4.0;
 
     for (const row of degFiltered) {
-      const minPct = Number(row.min_gpa_percentage ?? 60.0);
-      const min4 = Number(row.min_gpa_4_scale ?? 2.5);
+      const minPct = Number(row.min_gpa_percentage ?? 70.0);
+      const min4 = Number(row.min_gpa_4_scale ?? 2.8);
       lowestRequiredPct = Math.min(lowestRequiredPct, minPct);
       lowestRequired4 = Math.min(lowestRequired4, min4);
 
@@ -395,14 +395,14 @@ export async function retrieveIntelligentScholarshipsFromDb(profile: any): Promi
       }
     }
 
-    // If GPA is not sufficient for any scholarship, notify the user
-    if (gpaFiltered.length === 0) {
+    // If marks are below 70% or GPA is not sufficient for any merit scholarship, notify the user with polite message
+    if (gpaFiltered.length === 0 || (candidatePct > 0 && candidatePct < 70.0)) {
       const gpaDisplay = candidatePct > 0 ? `${candidatePct}%` : `${candidateGpa4.toFixed(2)} CGPA`;
-      const reqDisplay = lowestRequiredPct < 100 ? `${lowestRequiredPct}% (${lowestRequired4.toFixed(1)} CGPA)` : "70% (3.0 CGPA)";
+      const reqDisplay = lowestRequiredPct < 100 ? `${lowestRequiredPct}% (${lowestRequired4.toFixed(1)} CGPA)` : "70% (2.8 CGPA)";
       return {
         isEligible: false,
         ineligibilityReason: "GPA_INSUFFICIENT",
-        message: `You are currently not eligible for scholarships in the selected criteria based on your GPA (${gpaDisplay}). Programs in ${userRegions.join(", ")} require a minimum of ${reqDisplay}. Consider foundational pathways or expanding your criteria.`,
+        message: `You are currently ineligible for competitive merit-based scholarships based on your academic marks (${gpaDisplay}). Standard merit awards require a minimum of ${reqDisplay}. We politely advise targeting Need-Based Grants (such as Italian DSU Regional Grants or China CSC Type-B) or preparatory foundation pathways.`,
         totalInRegions: regionRows.length,
         afterDegreeFilter: degFiltered.length,
         afterGpaFilter: 0,

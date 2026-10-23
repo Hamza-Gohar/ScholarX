@@ -20,6 +20,8 @@ frontend/.env.production.local
 *.sqlite3
 *.db-journal
 *.sqlite-journal
+*.db-wal
+*.db-shm
 data/scholarx_sessions.db
 data/scholarx.db
 backend/data/*.db

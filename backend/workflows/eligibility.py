@@ -248,24 +248,45 @@ class EligibilityInvestigator:
 
         if min_gpa_pct is None and min_gpa_4 is None:
             eff_pct = student_gpa_pct if (student_gpa_pct and student_gpa_pct > 0) else (gpa_4_to_percentage(student_gpa_4) if (student_gpa_4 and student_gpa_4 > 0) else 70.0)
-            gpa_score = min(100.0, max(50.0, eff_pct))
-            dimensions.append(
-                DimensionScore(
-                    dimension_name="Academic Merit & GPA",
-                    score=gpa_score,
-                    weight=0.15,
-                    status=DimensionStatus.PASS,
-                    details=f"No hard minimum GPA specified; student's {eff_pct:.1f}% ({student.academic.uk_classification or 'Strong'}) is competitive.",
+            if eff_pct < 70.0:
+                blocking_issues.append(
+                    f"Ineligible for Merit Award: Your academic marks/GPA score ({eff_pct:.1f}%) is below the required 70.0% merit cutoff."
                 )
-            )
+                dimensions.append(
+                    DimensionScore(
+                        dimension_name="Academic Merit & GPA",
+                        score=0.0,
+                        weight=0.15,
+                        status=DimensionStatus.FAIL,
+                        details=f"Ineligible for Merit Award: {eff_pct:.1f}% < 70.0%.",
+                    )
+                )
+                action_required.append(
+                    f"Academic Standing Feedback: Marks/GPA ({eff_pct:.1f}%) are below the 70.0% official cutoff. We politely advise targeting holistic programs or need-based opportunities."
+                )
+                action_required.append(
+                    "Alternative Funding Pathway: Although currently ineligible for this strict merit award, you qualify to apply for Need-Based Grants (e.g. Italian DSU Regional Grants, Hungarian State-Subsidized Fee Waivers, or Chinese Type-B Provincial Grants) which prioritize family income over academic test cutoffs."
+                )
+            else:
+                gpa_score = min(100.0, max(50.0, eff_pct))
+                dimensions.append(
+                    DimensionScore(
+                        dimension_name="Academic Merit & GPA",
+                        score=gpa_score,
+                        weight=0.15,
+                        status=DimensionStatus.PASS,
+                        details=f"No hard minimum GPA specified; student's {eff_pct:.1f}% ({student.academic.uk_classification or 'Strong'}) is competitive.",
+                    )
+                )
         else:
             meets_req = True
             fail_reasons = []
 
-            if min_gpa_pct is not None:
-                if (student_gpa_pct or 0.0) < min_gpa_pct:
-                    meets_req = False
-                    fail_reasons.append(f"{(student_gpa_pct or 0.0):.1f}% < {min_gpa_pct:.1f}%")
+            # Enforce scholarship minimum and baseline 70.0% merit cutoff
+            effective_cutoff = max(70.0, min_gpa_pct) if min_gpa_pct is not None else 70.0
+            if (student_gpa_pct or 0.0) < effective_cutoff:
+                meets_req = False
+                fail_reasons.append(f"{(student_gpa_pct or 0.0):.1f}% < {effective_cutoff:.1f}%")
 
             if min_gpa_4 is not None and student_gpa_4 and student_gpa_4 > 0:
                 if student_gpa_4 < min_gpa_4:
@@ -276,11 +297,7 @@ class EligibilityInvestigator:
                 details_str = f"Student's {(student_gpa_pct or 0.0):.1f}%"
                 if student_gpa_4 and student_gpa_4 > 0:
                     details_str += f" (CGPA {student_gpa_4:.2f})"
-                if min_gpa_pct:
-                    details_str += f" satisfies the minimum requirement of {min_gpa_pct:.1f}%"
-                elif min_gpa_4:
-                    details_str += f" satisfies the minimum requirement of CGPA {min_gpa_4:.2f}"
-                details_str += "."
+                details_str += f" satisfies the minimum requirement of {effective_cutoff:.1f}%."
 
                 dimensions.append(
                     DimensionScore(
@@ -294,7 +311,7 @@ class EligibilityInvestigator:
             else:
                 reason = ", ".join(fail_reasons)
                 blocking_issues.append(
-                    f"Ineligible for Merit Award: Your academic marks/GPA score ({reason}) is currently below the competitive minimum cutoff."
+                    f"Ineligible for Merit Award: Your academic marks/GPA score ({reason}) is currently below the competitive minimum cutoff (70.0% minimum threshold)."
                 )
                 dimensions.append(
                     DimensionScore(
