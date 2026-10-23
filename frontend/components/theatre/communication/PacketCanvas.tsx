@@ -34,16 +34,6 @@ export const PacketCanvas: React.FC<PacketCanvasProps> = ({
         viewBox="0 0 1920 1080"
         preserveAspectRatio="none"
       >
-        <defs>
-          <filter id="packetGlowGlobal" x="-30%" y="-30%" width="160%" height="160%">
-            <feGaussianBlur stdDeviation="3.5" result="blur" />
-            <feMerge>
-              <feMergeNode in="blur" />
-              <feMergeNode in="SourceGraphic" />
-            </feMerge>
-          </filter>
-        </defs>
-
         {packetList.map((pkt) => {
           const { sourcePos: p0, targetPos: p1, type, state, id } = pkt;
 
@@ -71,15 +61,14 @@ export const PacketCanvas: React.FC<PacketCanvasProps> = ({
 
           return (
             <g key={`track-${id}`}>
-              {/* Dynamic Trajectory Arc */}
+              {/* Dynamic Trajectory Arc (Clean vector without GPU filter raster stalls) */}
               <path
                 d={`M ${p0.x} ${p0.y} Q ${pc.x} ${pc.y} ${p1.x} ${p1.y}`}
                 fill="none"
                 stroke={trackColor}
                 strokeWidth="1.8"
                 strokeDasharray="4,4"
-                strokeOpacity="0.75"
-                filter="url(#packetGlowGlobal)"
+                strokeOpacity="0.85"
               />
 
               {/* Source Anchor Node */}

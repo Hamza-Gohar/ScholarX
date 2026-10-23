@@ -12,17 +12,53 @@ import { ScoutBeacon } from "@/components/theatre/agents/ScoutBeacon";
 import { FleetDelegationNetwork } from "@/components/theatre/agents/FleetDelegationNetwork";
 import { DelegationBridge } from "@/components/theatre/agents/DelegationBridge";
 import { PacketCanvas } from "@/components/theatre/communication/PacketCanvas";
-import { Phase7Director } from "@/components/theatre/Phase7Director";
-import { Phase6Director } from "@/components/theatre/Phase6Director";
-import { Phase5Director } from "@/components/theatre/Phase5Director";
-import { Phase4Director } from "@/components/theatre/Phase4Director";
-import { ScoringEngineCard } from "@/components/theatre/ranking/ScoringEngineCard";
-import { OpportunityComparisonStage } from "@/components/theatre/ranking/OpportunityComparisonStage";
-import { MissionOutputStage } from "@/components/theatre/ranking/MissionOutputStage";
-import { PrimaryOpportunityCard } from "@/components/theatre/ranking/PrimaryOpportunityCard";
-import { RoadmapJourney } from "@/components/theatre/advisor/RoadmapJourney";
-import { DossierAssemblyTheatre } from "@/components/theatre/dossier/DossierAssemblyTheatre";
-import { DossierModalViewer } from "@/components/dossier/DossierModalViewer";
+import dynamic from "next/dynamic";
+import { useDevicePerformance } from "@/lib/hooks/useDevicePerformance";
+
+const Phase7Director = dynamic(
+  () => import("@/components/theatre/Phase7Director").then((m) => m.Phase7Director),
+  { ssr: false }
+);
+const Phase6Director = dynamic(
+  () => import("@/components/theatre/Phase6Director").then((m) => m.Phase6Director),
+  { ssr: false }
+);
+const Phase5Director = dynamic(
+  () => import("@/components/theatre/Phase5Director").then((m) => m.Phase5Director),
+  { ssr: false }
+);
+const Phase4Director = dynamic(
+  () => import("@/components/theatre/Phase4Director").then((m) => m.Phase4Director),
+  { ssr: false }
+);
+const DossierModalViewer = dynamic(
+  () => import("@/components/dossier/DossierModalViewer").then((m) => m.DossierModalViewer),
+  { ssr: false }
+);
+const RoadmapJourney = dynamic(
+  () => import("@/components/theatre/advisor/RoadmapJourney").then((m) => m.RoadmapJourney),
+  { ssr: false }
+);
+const DossierAssemblyTheatre = dynamic(
+  () => import("@/components/theatre/dossier/DossierAssemblyTheatre").then((m) => m.DossierAssemblyTheatre),
+  { ssr: false }
+);
+const OpportunityComparisonStage = dynamic(
+  () => import("@/components/theatre/ranking/OpportunityComparisonStage").then((m) => m.OpportunityComparisonStage),
+  { ssr: false }
+);
+const MissionOutputStage = dynamic(
+  () => import("@/components/theatre/ranking/MissionOutputStage").then((m) => m.MissionOutputStage),
+  { ssr: false }
+);
+const ScoringEngineCard = dynamic(
+  () => import("@/components/theatre/ranking/ScoringEngineCard").then((m) => m.ScoringEngineCard),
+  { ssr: false }
+);
+const PrimaryOpportunityCard = dynamic(
+  () => import("@/components/theatre/ranking/PrimaryOpportunityCard").then((m) => m.PrimaryOpportunityCard),
+  { ssr: false }
+);
 import { InvestigationTargetObject } from "@/components/theatre/investigation/InvestigationTargetObject";
 import { SpecialistProcessCard } from "@/components/theatre/investigation/SpecialistProcessCard";
 import { InvestigationConduits } from "@/components/theatre/investigation/InvestigationConduits";
@@ -71,7 +107,7 @@ import { TheatreErrorBoundary } from "@/components/theatre/foundation/TheatreErr
 import { DemoEventPlayer, DemoProfileId, DemoScenario } from "@/lib/presentation/demoEventPlayer";
 import { MissionInitScreen } from "@/components/mission/MissionInitScreen";
 import { saveStudentProfile, launchDiscoveryMission, getSessionDetail } from "@/lib/api";
-import { X, Search, ShieldCheck, Scale, FileText, CheckCircle2, Compass } from "lucide-react";
+import { X, Search, ShieldCheck, Scale, FileText, CheckCircle2, Compass, Zap } from "lucide-react";
 
 export interface CommandTheatreClientProps {
   initialMode?: "LIVE" | "DEMO" | "PHASE3" | "PHASE4" | "PHASE5" | "PHASE6" | "PHASE7";
@@ -145,8 +181,81 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
   const [isDemoPlaying, setIsDemoPlaying] = useState<boolean>(false);
   const demoPlayerRef = React.useRef<DemoEventPlayer | null>(null);
 
-  // Phase 8 Master State (Live Event-Driven Stream & Dynamic Theatre)
-  const liveStore = useTheatreDirectorStore();
+  // Hardware capability & battery preservation engine
+  const { isEcoMode, isLowEnd, isTabVisible, toggleEcoMode } = useDevicePerformance();
+
+  // Sleep presentation queue and animation loop when tab is hidden to drop idle battery consumption to 0%
+  useEffect(() => {
+    if (!isTabVisible) {
+      masterPresentationQueue.pause();
+    } else {
+      masterPresentationQueue.resume();
+    }
+  }, [isTabVisible]);
+
+  // Phase 8 Master State with atomic selectors to prevent root re-render thrashing
+  const visualPhase = useTheatreDirectorStore((s) => s.visualPhase);
+  const missionStatus = useTheatreDirectorStore((s) => s.missionStatus);
+  const statusBanner = useTheatreDirectorStore((s) => s.statusBanner);
+  const activeNarrative = useTheatreDirectorStore((s) => s.activeNarrative);
+  const commanderActiveDecision = useTheatreDirectorStore((s) => s.commanderActiveDecision);
+  const activeSpecialist = useTheatreDirectorStore((s) => s.activeSpecialist);
+  const rankedCandidates = useTheatreDirectorStore((s) => s.rankedCandidates);
+  const primaryOpportunity = useTheatreDirectorStore((s) => s.primaryOpportunity);
+  const activePackets = useTheatreDirectorStore((s) => s.activePackets);
+  const scouts = useTheatreDirectorStore((s) => s.scouts);
+  const roadmapPhases = useTheatreDirectorStore((s) => s.roadmapPhases);
+
+  const resetTheatre = useTheatreDirectorStore((s) => s.resetTheatre);
+  const jumpToStage = useTheatreDirectorStore((s) => s.jumpToStage);
+  const setExecutionMode = useTheatreDirectorStore((s) => s.setExecutionMode);
+  const setStudentProfile = useTheatreDirectorStore((s) => s.setStudentProfile);
+  const hydrateFromSession = useTheatreDirectorStore((s) => s.hydrateFromSession);
+  const setVisualPhase = useTheatreDirectorStore((s) => s.setVisualPhase);
+  const consumePresentationEvent = useTheatreDirectorStore((s) => s.consumePresentationEvent);
+  const setSelectedOpportunity = useTheatreDirectorStore((s) => s.setSelectedOpportunity);
+
+  const liveStore = React.useMemo(() => ({
+    visualPhase,
+    missionStatus,
+    statusBanner,
+    activeNarrative,
+    commanderActiveDecision,
+    activeSpecialist,
+    rankedCandidates,
+    primaryOpportunity,
+    activePackets,
+    scouts,
+    roadmapPhases,
+    resetTheatre,
+    jumpToStage,
+    setExecutionMode,
+    setStudentProfile,
+    hydrateFromSession,
+    setVisualPhase,
+    consumePresentationEvent,
+    setSelectedOpportunity,
+  }), [
+    visualPhase,
+    missionStatus,
+    statusBanner,
+    activeNarrative,
+    commanderActiveDecision,
+    activeSpecialist,
+    rankedCandidates,
+    primaryOpportunity,
+    activePackets,
+    scouts,
+    roadmapPhases,
+    resetTheatre,
+    jumpToStage,
+    setExecutionMode,
+    setStudentProfile,
+    hydrateFromSession,
+    setVisualPhase,
+    consumePresentationEvent,
+    setSelectedOpportunity,
+  ]);
   const [liveSessionId, setLiveSessionId] = useState<string>(
     initialSessionId || "session-live-default"
   );
@@ -1091,6 +1200,23 @@ export const CommandTheatreClient: React.FC<CommandTheatreClientProps> = ({
               <Compass className="w-3.5 h-3.5 text-sx-gold" />
               <span className="hidden xs:inline">NEW MISSION</span>
               <span className="xs:hidden">NEW</span>
+            </button>
+
+            {/* Eco Mode / Low-Power Smooth Toggle */}
+            <button
+              onClick={toggleEcoMode}
+              className={`flex items-center space-x-1.5 px-2.5 sm:px-3 py-1.5 rounded-full border text-xs font-mono font-semibold transition-all cursor-pointer ${
+                isEcoMode
+                  ? "bg-emerald-500/20 text-emerald-400 border-emerald-500/40 shadow-[0_0_12px_rgba(16,185,129,0.25)]"
+                  : "bg-black/60 text-zinc-400 border-white/[0.1] hover:text-white"
+              }`}
+              title="Toggle Low-Power Eco Mode for smoother performance and battery preservation on any device"
+            >
+              <Zap className={`w-3.5 h-3.5 ${isEcoMode ? "text-emerald-400 fill-emerald-400" : "text-zinc-500"}`} />
+              <span className="hidden sm:inline">ECO MODE</span>
+              <span className={`text-[9px] px-1 py-0.2 rounded ${isEcoMode ? "bg-emerald-500/30 text-emerald-300" : "bg-white/10 text-zinc-400"}`}>
+                {isEcoMode ? "ON" : "OFF"}
+              </span>
             </button>
 
             {/* Live Autonomous Stream Indicator */}

@@ -1,7 +1,4 @@
 import { SEED_SCHOLARSHIPS } from "@/lib/seed-data";
-import deepDossiersBundle from "@/lib/data/scholarships_deep_dossiers.json";
-
-const deepDossiers = deepDossiersBundle as Record<string, any>;
 
 // Cache lookup maps for instant performance
 const urlByIdMap = new Map<string, string>();
@@ -15,7 +12,7 @@ function normalizeName(name: string): string {
     .trim();
 }
 
-// Prepopulate cache from SEED_SCHOLARSHIPS
+// Prepopulate cache from SEED_SCHOLARSHIPS (all 310 scholarships with official URLs)
 for (const s of SEED_SCHOLARSHIPS) {
   const url = s.portal_url || s.source_url;
   if (url && isValidPortalUrl(url)) {
@@ -24,28 +21,6 @@ for (const s of SEED_SCHOLARSHIPS) {
     }
     if (s.name) {
       urlByNameMap.set(normalizeName(s.name), url);
-    }
-  }
-}
-
-// Augment cache from deep dossiers
-for (const [sid, dd] of Object.entries(deepDossiers)) {
-  const portal =
-    dd?.basic_details?.official_scholarship_portal ||
-    dd?.application_process?.submission_portal_url ||
-    dd?.official_sources_verified?.[0]?.source_url;
-
-  if (portal && isValidPortalUrl(portal)) {
-    const cleanSid = sid.toLowerCase();
-    if (!urlByIdMap.has(cleanSid)) {
-      urlByIdMap.set(cleanSid, portal);
-    }
-    const name = dd?.basic_details?.scholarship_name;
-    if (name) {
-      const norm = normalizeName(name);
-      if (!urlByNameMap.has(norm)) {
-        urlByNameMap.set(norm, portal);
-      }
     }
   }
 }

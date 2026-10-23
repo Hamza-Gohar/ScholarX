@@ -78,7 +78,6 @@ export const InvestigationConduits: React.FC<InvestigationConduitsProps> = ({
           strokeWidth="2.5"
           strokeDasharray="6,6"
           markerEnd="url(#invArrowGreen)"
-          filter="url(#investigationGlow)"
           animate={{
             strokeDashoffset: [0, -48],
             opacity: [0.75, 1, 0.75],
@@ -89,11 +88,10 @@ export const InvestigationConduits: React.FC<InvestigationConduitsProps> = ({
           }}
         />
 
-        {/* Traveling pulse on Commander -> Target */}
+        {/* Traveling pulse on Commander -> Target (High performance vector) */}
         <motion.circle
-          r="4"
+          r="3.5"
           fill="#10B981"
-          filter="drop-shadow(0 0 8px #10B981)"
           animate={{
             cx: [pCommander.x, pTarget.x],
             cy: [pCommander.y + 40, pTarget.y - 100],
@@ -118,7 +116,6 @@ export const InvestigationConduits: React.FC<InvestigationConduitsProps> = ({
               strokeWidth="2.5"
               strokeDasharray="5,5"
               markerEnd="url(#invArrowGold)"
-              filter="url(#investigationGlow)"
               animate={{
                 strokeDashoffset: [0, -40],
                 opacity: [0.8, 1, 0.8],
@@ -129,11 +126,10 @@ export const InvestigationConduits: React.FC<InvestigationConduitsProps> = ({
               }}
             />
 
-            {/* Traveling pulse on Target -> Specialist */}
+            {/* Traveling pulse on Target -> Specialist (High performance vector) */}
             <motion.circle
-              r="4"
+              r="3.5"
               fill="#D4AF37"
-              filter="drop-shadow(0 0 8px #D4AF37)"
               animate={{
                 cx: [pTarget.x, pSpecialistStage.x],
                 cy: [pTarget.y + 110, pSpecialistStage.y - 120],

@@ -23,8 +23,8 @@ export const PakistanOrigin: React.FC<PakistanOriginProps> = ({
       transform={`translate(${scenePosition.x}, ${scenePosition.y})`}
       className="pointer-events-none select-none"
     >
-      {/* Outer Atmospheric Pulse Halo */}
-      {!isDormant && !isDossier && (
+      {/* Outer Atmospheric Pulse Halo (only during active focus to preserve battery) */}
+      {!isDormant && !isDossier && isFocused && (
         <motion.circle
           r="36"
           fill="rgba(16, 185, 129, 0.08)"
@@ -59,15 +59,16 @@ export const PakistanOrigin: React.FC<PakistanOriginProps> = ({
         </g>
       )}
 
-      {/* Origin Center Beacon */}
+      {/* Origin Center Beacon (Pure vector without filter drop-shadow) */}
       <circle
         r={isDormant ? "4" : "6"}
         fill={isDormant ? "#064E3B" : "#10B981"}
-        className="filter drop-shadow-[0_0_8px_rgba(16,185,129,0.8)]"
+        stroke="#34D399"
+        strokeWidth={isDormant ? "0" : "1.5"}
       />
       <circle r="2" fill="#FFFFFF" />
 
-      {/* Origin Identity Card / Label */}
+      {/* Origin Identity Card / Label (Hardware-friendly solid obsidian fill) */}
       <g transform="translate(24, -28)">
         <rect
           x="0"
@@ -75,14 +76,13 @@ export const PakistanOrigin: React.FC<PakistanOriginProps> = ({
           width="180"
           height="44"
           rx="6"
-          fill="rgba(5, 7, 10, 0.88)"
+          fill="rgba(5, 7, 10, 0.94)"
           stroke={
             isFocused || !isDormant
               ? "rgba(16, 185, 129, 0.45)"
               : "rgba(180, 210, 225, 0.12)"
           }
           strokeWidth="1"
-          className="backdrop-blur-md"
         />
 
         {/* Origin Title */}

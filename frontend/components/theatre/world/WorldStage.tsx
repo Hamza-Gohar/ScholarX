@@ -42,13 +42,25 @@ export const WorldStage: React.FC<WorldStageProps> = ({
     []
   );
 
-  // Extract TopoJSON country features
-  const countries = useMemo(() => {
+  // Precompute and memoize all SVG country path strings once
+  const memoizedCountryPaths = useMemo(() => {
     // @ts-ignore
     const countriesFeature = feature(worldData as any, worldData.objects.countries);
     // @ts-ignore
-    return countriesFeature.features || [];
-  }, []);
+    const feats = countriesFeature.features || [];
+    return feats
+      .map((geo: any, idx: number) => {
+        const d = pathGenerator(geo);
+        if (!d) return null;
+        const isPakistan = geo.id === "586" || geo.id === 586;
+        return {
+          id: geo.id || `country-${idx}`,
+          d,
+          isPakistan,
+        };
+      })
+      .filter(Boolean) as { id: string | number; d: string; isPakistan: boolean }[];
+  }, [pathGenerator]);
 
   // Subtle graticule grid lines
   const graticuleLines = useMemo(() => {
@@ -72,6 +84,7 @@ export const WorldStage: React.FC<WorldStageProps> = ({
     >
       <motion.div
         className="w-full h-full flex items-center justify-center origin-center"
+        style={{ willChange: "transform" }}
         animate={{
           x: camera.x,
           y: camera.y,
@@ -79,7 +92,7 @@ export const WorldStage: React.FC<WorldStageProps> = ({
           opacity: camera.opacity,
         }}
         transition={{
-          duration: 0.9,
+          duration: 0.85,
           ease: [0.16, 1, 0.3, 1], // Smooth cinematic camera easing
         }}
       >
@@ -89,12 +102,6 @@ export const WorldStage: React.FC<WorldStageProps> = ({
           preserveAspectRatio="xMidYMid meet"
         >
           <defs>
-            {/* Luminous Landmass Shadow & Elevation */}
-            <filter id="landmass-shadow" x="-5%" y="-5%" width="110%" height="110%">
-              <feDropShadow dx="0" dy="2" stdDeviation="3" floodColor="#000000" floodOpacity="0.8" />
-              <feDropShadow dx="0" dy="0" stdDeviation="6" floodColor="#38BDF8" floodOpacity="0.3" />
-            </filter>
-
             {/* Rich Ocean Ambient Radial Glow */}
             <radialGradient
               id="world-stage-haze"
@@ -144,17 +151,14 @@ export const WorldStage: React.FC<WorldStageProps> = ({
             />
           )}
 
-          {/* World Landmasses */}
-          <g id="world-landmasses" filter="url(#landmass-shadow)" className="transition-opacity duration-700">
-            {countries.map((geo: any, idx: number) => {
-              const d = pathGenerator(geo);
-              if (!d) return null;
-
-              const isPakistan = geo.id === "586" || geo.id === 586;
+          {/* World Landmasses (High-performance vector rendering without software SVG filter stalls) */}
+          <g id="world-landmasses" className="transition-opacity duration-500">
+            {memoizedCountryPaths.map((item) => {
+              const { id, d, isPakistan } = item;
 
               return (
                 <path
-                  key={geo.id || idx}
+                  key={id}
                   d={d}
                   fill={
                     isPakistan
@@ -171,7 +175,7 @@ export const WorldStage: React.FC<WorldStageProps> = ({
                       : "rgba(125, 211, 252, 0.70)"
                   }
                   strokeWidth={isPakistan ? "2.4" : isDormant ? "1.0" : "1.25"}
-                  className="transition-colors duration-300 hover:fill-[#325688] hover:stroke-cyan-200"
+                  className="transition-colors duration-200 hover:fill-[#325688] hover:stroke-cyan-200"
                 />
               );
             })}

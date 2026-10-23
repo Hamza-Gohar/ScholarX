@@ -571,7 +571,7 @@ export const MissionInitScreen: React.FC<MissionInitScreenProps> = ({
       <div className="fixed inset-0 pointer-events-none z-0 overflow-hidden">
         <AtmosphericBackground />
         <WorldStage mapState="DEPLOYMENT" cameraShot="GLOBAL" />
-        <div className="absolute inset-0 bg-[#05070A]/35 backdrop-blur-[0.5px]" />
+        <div className="absolute inset-0 bg-[#05070A]/50" />
       </div>
 
       {/* Datalists for custom typing & instant autocomplete */}

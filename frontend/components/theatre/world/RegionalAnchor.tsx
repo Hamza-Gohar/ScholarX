@@ -70,18 +70,15 @@ export const RegionalAnchor: React.FC<RegionalAnchorProps> = ({
         strokeDasharray={isFocused ? undefined : "3 3"}
       />
 
-      {/* Center Beacon */}
+      {/* Center Beacon (Pure vector without filter drop-shadow) */}
       <circle
         r={isFocused ? "5.5" : "4"}
         fill={isFocused ? "#38BDF8" : "rgba(56, 189, 248, 0.75)"}
-        className={
-          isFocused
-            ? "filter drop-shadow-[0_0_8px_rgba(56,189,248,0.8)]"
-            : undefined
-        }
+        stroke={isFocused ? "#7DD3FC" : undefined}
+        strokeWidth={isFocused ? "1.5" : undefined}
       />
 
-      {/* Regional Destination Card */}
+      {/* Regional Destination Card (Hardware-friendly solid obsidian fill) */}
       <g
         transform={
           anchor.region === "Americas" || anchor.id.includes("americas")
@@ -95,14 +92,13 @@ export const RegionalAnchor: React.FC<RegionalAnchorProps> = ({
           width="155"
           height="40"
           rx="6"
-          fill="rgba(8, 12, 18, 0.88)"
+          fill="rgba(8, 12, 18, 0.94)"
           stroke={
             isFocused
               ? "rgba(56, 189, 248, 0.55)"
               : "rgba(180, 210, 225, 0.14)"
           }
           strokeWidth="1"
-          className="backdrop-blur-md"
         />
 
         {/* Region Name */}

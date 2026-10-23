@@ -32,15 +32,6 @@ export const RouteLayer: React.FC<RouteLayerProps> = ({
           <stop offset="60%" stopColor="#38BDF8" stopOpacity="0.6" />
           <stop offset="100%" stopColor="#38BDF8" stopOpacity="0.8" />
         </linearGradient>
-
-        {/* Glow Filter for Particles */}
-        <filter id="route-particle-glow" x="-50%" y="-50%" width="200%" height="200%">
-          <feGaussianBlur stdDeviation="3" result="blur" />
-          <feMerge>
-            <feMergeNode in="blur" />
-            <feMergeNode in="SourceGraphic" />
-          </feMerge>
-        </filter>
       </defs>
 
       {routes.map((route, idx) => {
@@ -48,9 +39,11 @@ export const RouteLayer: React.FC<RouteLayerProps> = ({
         const isAnyFocused = Boolean(focusedRegion && focusedRegion !== "Pakistan");
         const opacity = isFocused ? 1 : isAnyFocused ? 0.2 : 0.65;
         const strokeWidth = isFocused ? 2 : 1.2;
+        // In high-efficiency rendering, only animate traveling energy on the focused route or primary paths
+        const shouldAnimate = !isAnyFocused || isFocused;
 
         return (
-          <g key={route.id} opacity={opacity} className="transition-opacity duration-500">
+          <g key={route.id} opacity={opacity} className="transition-opacity duration-300">
             {/* Soft Ambient Glow Path */}
             <path
               d={route.pathData}
@@ -70,32 +63,36 @@ export const RouteLayer: React.FC<RouteLayerProps> = ({
               strokeDasharray={isFocused ? "6 4" : "4 4"}
             />
 
-            {/* Traveling Energy Packet Particle along the Arc */}
-            <circle r={isFocused ? "4" : "3"} fill="#FFFFFF" filter="url(#route-particle-glow)">
-              <animateMotion
-                dur={`${2.4 + idx * 0.4}s`}
-                repeatCount="indefinite"
-                path={route.pathData}
-                keyPoints="0;1"
-                keyTimes="0;1"
-              />
-            </circle>
+            {/* Traveling Energy Packet Particle (GPU-friendly without software Gaussian filter stalls) */}
+            {shouldAnimate && (
+              <>
+                <circle r={isFocused ? "3.5" : "2.5"} fill="#FFFFFF">
+                  <animateMotion
+                    dur={`${2.6 + idx * 0.4}s`}
+                    repeatCount="indefinite"
+                    path={route.pathData}
+                    keyPoints="0;1"
+                    keyTimes="0;1"
+                  />
+                </circle>
 
-            {/* Subtle Echo Particle */}
-            <circle
-              r="2"
-              fill={isFocused ? "#38BDF8" : "#10B981"}
-              opacity="0.6"
-            >
-              <animateMotion
-                dur={`${2.4 + idx * 0.4}s`}
-                begin={`${0.3 + idx * 0.1}s`}
-                repeatCount="indefinite"
-                path={route.pathData}
-                keyPoints="0;1"
-                keyTimes="0;1"
-              />
-            </circle>
+                {/* Subtle Luminous Trail Particle */}
+                <circle
+                  r={isFocused ? "2" : "1.5"}
+                  fill={isFocused ? "#38BDF8" : "#10B981"}
+                  opacity="0.7"
+                >
+                  <animateMotion
+                    dur={`${2.6 + idx * 0.4}s`}
+                    begin={`${0.3 + idx * 0.1}s`}
+                    repeatCount="indefinite"
+                    path={route.pathData}
+                    keyPoints="0;1"
+                    keyTimes="0;1"
+                  />
+                </circle>
+              </>
+            )}
           </g>
         );
       })}

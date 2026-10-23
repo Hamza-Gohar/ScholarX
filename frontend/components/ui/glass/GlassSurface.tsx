@@ -23,9 +23,9 @@ export const GlassSurface = forwardRef<HTMLDivElement, GlassSurfaceProps>(
     ref
   ) => {
     const variantStyles = {
-      subtle: "bg-sx-glass-subtle backdrop-blur-md border border-sx-border-subtle",
-      default: "bg-sx-glass backdrop-blur-xl border border-sx-border",
-      strong: "bg-sx-glass-strong backdrop-blur-2xl border border-sx-border",
+      subtle: "bg-sx-glass-subtle backdrop-blur-sm border border-sx-border-subtle",
+      default: "bg-sx-glass backdrop-blur-md border border-sx-border",
+      strong: "bg-sx-glass-strong backdrop-blur-lg border border-sx-border",
     };
 
     const elevationStyles = {

@@ -11,21 +11,21 @@ export const AtmosphericBackground: React.FC = () => {
       {/* Base Obsidian Foundation */}
       <div className="absolute inset-0 bg-[#05070A]" />
 
-      {/* Ambient spatial haze in upper command/world zone */}
+      {/* Ambient spatial haze in upper command/world zone (Zero-cost GPU gradient without blur filter) */}
       <div
-        className="absolute top-[-10%] left-1/2 -translate-x-1/2 w-[1200px] h-[700px] rounded-full blur-[140px] opacity-[0.14]"
+        className="absolute inset-0 pointer-events-none"
         style={{
           background:
-            "radial-gradient(circle, rgba(56, 189, 248, 0.85) 0%, rgba(14, 116, 144, 0.4) 50%, transparent 80%)",
+            "radial-gradient(ellipse 900px 500px at 50% -5%, rgba(56, 189, 248, 0.13) 0%, rgba(14, 116, 144, 0.06) 40%, rgba(5, 7, 10, 0) 75%)",
         }}
       />
 
-      {/* Depth anchor in lower world stage */}
+      {/* Depth anchor in lower world stage (Zero-cost GPU gradient without blur filter) */}
       <div
-        className="absolute bottom-[-15%] left-1/2 -translate-x-1/2 w-[1400px] h-[500px] rounded-full blur-[160px] opacity-[0.10]"
+        className="absolute inset-0 pointer-events-none"
         style={{
           background:
-            "radial-gradient(circle, rgba(212, 175, 55, 0.6) 0%, rgba(30, 41, 59, 0.5) 60%, transparent 80%)",
+            "radial-gradient(ellipse 1000px 450px at 50% 105%, rgba(212, 175, 55, 0.08) 0%, rgba(30, 41, 59, 0.04) 45%, rgba(5, 7, 10, 0) 75%)",
         }}
       />
 

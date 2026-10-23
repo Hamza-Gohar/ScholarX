@@ -107,12 +107,11 @@ export const FleetDelegationNetwork: React.FC<FleetDelegationNetworkProps> = ({
               opacity={isActive ? 0.9 : 0.3}
             />
 
-            {/* Traveling animated energy pulse towards scout */}
-            {isActive && (
+            {/* Traveling animated energy pulse towards scout (Hardware accelerated without drop-shadow filter) */}
+            {isActive && (!focusedRegion || isFocused) && (
               <motion.circle
-                r={isFocused ? "4" : "3"}
+                r={isFocused ? "3.5" : "2.5"}
                 fill={isFocused ? "#D4AF37" : "#38BDF8"}
-                filter="drop-shadow(0 0 8px #38BDF8)"
                 initial={{ opacity: 0 }}
                 animate={{
                   opacity: [0, 0.95, 0.95, 0],

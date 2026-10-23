@@ -25,10 +25,10 @@ export const Orbital3DGlobe: React.FC = () => {
     const camera = new THREE.PerspectiveCamera(45, width / height, 0.1, 1000);
     camera.position.z = 240;
 
-    const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true, powerPreference: "high-performance" });
+    const renderer = new THREE.WebGLRenderer({ antialias: false, alpha: true, powerPreference: "high-performance" });
     renderer.setSize(width, height);
-    // Cap pixel ratio at 1.5 for silky smooth, thermal-throttling-free mobile 60fps rendering
-    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 1.5));
+    // Cap pixel ratio at 1.25 to prevent mobile GPU thermal throttling and battery drain
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 1.25));
     container.innerHTML = "";
     container.appendChild(renderer.domElement);
 
@@ -190,10 +190,19 @@ export const Orbital3DGlobe: React.FC = () => {
     window.addEventListener("touchend", onTouchEnd);
     window.addEventListener("touchcancel", onTouchEnd);
 
-    // Animation Loop
+    // Animation Loop with automatic battery saving pause
     let animId: number;
+    let isTabVisible = document.visibilityState === "visible";
+
+    const onVisibilityChange = () => {
+      isTabVisible = document.visibilityState === "visible";
+    };
+    document.addEventListener("visibilitychange", onVisibilityChange);
+
     const animate = () => {
       animId = requestAnimationFrame(animate);
+      if (!isTabVisible) return; // Zero-cost sleep when tab is in background
+
       if (!isDragging) {
         globeGroup.rotation.y += 0.0015; // gentle ambient orbit
       }
@@ -213,6 +222,7 @@ export const Orbital3DGlobe: React.FC = () => {
 
     return () => {
       cancelAnimationFrame(animId);
+      document.removeEventListener("visibilitychange", onVisibilityChange);
       container.removeEventListener("mousedown", onMouseDown);
       window.removeEventListener("mousemove", onMouseMove);
       window.removeEventListener("mouseup", onMouseUp);
