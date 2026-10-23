@@ -109,7 +109,13 @@ Thumbs.db
 # Tooling & Agent Caches
 .impeccable/config.local.json
 
-# Presentation Test Artifacts (24MB transient outputs)
-exhibition_slides/test_*.pptx
-exhibition_slides/renders/test/
+# Presentation Decks & Root Exhibition Slides
+/exhibition_slides/
+
+# Root Diagrams & Verification Files
+/google986c103b998befc7.html
+/scholarships_database_viewer.html
+/agent_workflow_flowchart.excalidraw.json
+/scholarx_architecture.excalidraw.json
+
 
