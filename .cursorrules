@@ -2,19 +2,21 @@
 # Single source of truth: .context/00_QUICKSTART.md
 
 - Project: ScholarX (Autonomous Scholarship Intelligence Network for Pakistani Students)
+- Scale: 510 Deep Dossier scholarships across 5 regions (Europe 161, Asia 131, Americas 105, MENA 73, Oceania 40)
 - Backend: FastAPI (port 8000), Python 3.12, LangGraph 10-node DAG, SQLite WAL (data/scholarx_sessions.db)
-- Frontend: Next.js 15.1.0 (port 3000), React 19, Tailwind CSS, Zustand v5, Command Theatre
+- Frontend: Next.js 15.1.0 (port 3000), React 19, Tailwind CSS, Zustand v5, Command Theatre, Node:sqlite support
 - Invariants:
   1. Workflow-First: Deterministic Python workflows for all math, scoring, and rankings. No LLM arithmetic.
   2. Pakistan Costs: All expenses in PKR using benchmarks from data/pakistan_costs.json.
   3. Key Management: Always route through backend.utils.api_keys.get_key_manager() (30 keys rotator).
   4. Local-First: Zero external Docker containers required. SQLite WAL is the sole database.
-  5. Gemini SDK: Always use `from google import genai` and `genai.Client()`. Never import `google.generativeai`.
-  6. Typography: 6-scale typography with strict 10px minimum monospace floor. Sub-10px text is prohibited.
+  5. Offline Resilience: Academic field matching & typo tolerance must work 100% offline via field_matching.py.
+  6. Gemini SDK: Always use `from google import genai` and `genai.Client()`. Never import `google.generativeai`.
+  7. Typography: 6-scale typography with strict 10px minimum monospace floor. Sub-10px text is prohibited.
 - Quick Commands:
   - Primer: python scripts/context.py primer
   - Status: python scripts/context.py status
-  - Fast Tests: .venv/bin/pytest backend/tests/test_schemas.py backend/tests/test_api_keys.py
+  - Fast Tests: .venv/bin/pytest backend/tests/test_offline_typo_retrieval.py backend/tests/test_schemas.py backend/tests/test_api_keys.py
   - Full Test: make test
   - Doctor: .venv/bin/python scripts/doctor.py
 - Deep Context:

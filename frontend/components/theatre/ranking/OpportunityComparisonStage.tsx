@@ -13,6 +13,8 @@ export interface OpportunityComparisonStageProps {
   onSelectOpportunity?: (id: string) => void;
   selectedField?: string;
   targetDegree?: string;
+  isUnder70?: boolean;
+  candidatePercentage?: number;
   className?: string;
 }
 
@@ -56,6 +58,8 @@ export const OpportunityComparisonStage: React.FC<OpportunityComparisonStageProp
   onSelectOpportunity,
   selectedField,
   targetDegree,
+  isUnder70 = false,
+  candidatePercentage = 0,
   className = "",
 }) => {
   const [inspectedOppId, setInspectedOppId] = useState<string | null>(null);
@@ -69,33 +73,44 @@ export const OpportunityComparisonStage: React.FC<OpportunityComparisonStageProp
     return 15;
   }, [targetDegree, opportunities]);
 
-  // Filter strictly for compositeScore > 50; if preliminary, show available opportunities with calibrated fallback
+  // Filter strictly for compositeScore > 50 unless isUnder70 is true (audited ineligible + need-based opportunities must remain visible)
   const sorted = useMemo(() => {
     if (!opportunities || opportunities.length === 0) return [];
-    const withScores = opportunities.filter((opp) => (opp.compositeScore ?? 0) > 50);
-    const validPool = withScores.length > 0 ? withScores : opportunities;
+    const validPool = isUnder70
+      ? opportunities
+      : (opportunities.filter((opp) => (opp.compositeScore ?? 0) > 50).length > 0
+          ? opportunities.filter((opp) => (opp.compositeScore ?? 0) > 50)
+          : opportunities);
     return validPool
       .slice(0, limit)
       .sort((a, b) => (b.compositeScore ?? 75) - (a.compositeScore ?? 75))
-      .map((opp, idx) => ({
-        ...opp,
-        compositeScore: opp.compositeScore ?? Math.max(65, 88 - idx * 2.5),
-        rank: idx + 1,
-      }));
-  }, [opportunities, limit]);
+      .map((opp, idx) => {
+        const isNeedBased = /dsu|need[\s\-]based|regional grant|type[\s\-]b/i.test(opp.name);
+        const fallbackScore = isUnder70 && !isNeedBased ? 38.0 : Math.max(65, 88 - idx * 2.5);
+        return {
+          ...opp,
+          compositeScore: opp.compositeScore ?? fallbackScore,
+          rank: idx + 1,
+        };
+      });
+  }, [opportunities, limit, isUnder70]);
 
   return (
     <div className={`w-full max-w-[1240px] mx-auto pointer-events-auto ${className}`}>
       {/* Stage Header */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between mb-2.5 px-1 gap-1">
         <div className="flex items-center space-x-2">
-          <div className="w-2 h-2 rounded-full bg-sx-gold animate-pulse shrink-0" />
+          <div className={`w-2 h-2 rounded-full ${isUnder70 ? "bg-amber-400" : "bg-sx-gold"} animate-pulse shrink-0`} />
           <span className="text-[10px] sm:text-[11px] font-mono text-sx-text-tertiary uppercase tracking-wider">
-            CANDIDATE RANKING // {sorted.length} HIGH-MATCH SCHOLARSHIPS (MATCH &gt; 50)
+            {isUnder70
+              ? `ACADEMIC EVALUATION // ${sorted.length} SCHOLARSHIPS AUDITED (MERIT CUTOFF 70.0% ENFORCED)`
+              : `CANDIDATE RANKING // ${sorted.length} HIGH-MATCH SCHOLARSHIPS (MATCH > 50)`}
           </span>
         </div>
         <div className="text-[9px] sm:text-[10px] font-mono text-sx-text-secondary">
-          RANKED VIA 8 PAKISTAN-ADJUSTED READINESS & IMPACT CRITERIA
+          {isUnder70
+            ? `ACADEMIC MARKS (${candidatePercentage.toFixed(1)}%) < 70%: MERIT QUOTAS INELIGIBLE • NEED-BASED UNLOCKED`
+            : "RANKED VIA 8 PAKISTAN-ADJUSTED READINESS & IMPACT CRITERIA"}
         </div>
       </div>
 
@@ -119,85 +134,129 @@ export const OpportunityComparisonStage: React.FC<OpportunityComparisonStageProp
         {sorted.map((opp) => {
           const isSelected = opp.id === selectedId;
           const isInspected = opp.id === inspectedOppId;
+          const isNeedBased = /dsu|need[\s\-]based|regional grant|type[\s\-]b/i.test(opp.name);
+          const isOppIneligible = isUnder70 && !isNeedBased;
 
           return (
             <motion.div
-              key={opp.id}
-              initial={false}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.2 }}
-              onClick={() => {
-                onSelectOpportunity?.(opp.id);
-                setInspectedOppId(isInspected ? null : opp.id);
-              }}
-              className={`relative rounded-xl p-3.5 sm:p-4 border transition-all duration-200 cursor-pointer flex flex-col justify-between ${
-                isSelected
-                  ? "bg-black/90 border-sx-gold/60 shadow-[0_0_24px_rgba(212,175,55,0.2)] ring-1 ring-sx-gold/40"
-                  : "bg-black/70 border-white/[0.08] hover:border-white/[0.2] hover:bg-black/80"
-              }`}
-            >
-              {/* Top Row: Rank & Country */}
-              <div>
-                <div className="flex items-center justify-between mb-2">
-                  <div className="flex items-center space-x-1.5">
-                    <CountryFlagLogo country={opp.hostCountry} name={opp.name} size="sm" />
-                    <span className="text-xs font-mono font-bold text-white/90 uppercase">
-                      {opp.hostCountry}
-                    </span>
-                  </div>
+                key={opp.id}
+                initial={false}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.2 }}
+                onClick={() => {
+                  onSelectOpportunity?.(opp.id);
+                  setInspectedOppId(isInspected ? null : opp.id);
+                }}
+                className={`relative rounded-xl p-3.5 sm:p-4 border transition-all duration-200 cursor-pointer flex flex-col justify-between ${
+                  isOppIneligible
+                    ? isSelected
+                      ? "bg-red-950/25 border-red-500/70 shadow-[0_0_24px_rgba(239,68,68,0.22)] ring-1 ring-red-500/50"
+                      : "bg-black/80 border-red-500/30 hover:border-red-500/50 hover:bg-black/90"
+                    : isUnder70 && isNeedBased
+                    ? isSelected
+                      ? "bg-emerald-950/25 border-emerald-500/70 shadow-[0_0_24px_rgba(16,185,129,0.25)] ring-1 ring-emerald-500/50"
+                      : "bg-black/80 border-emerald-500/40 hover:border-emerald-500/60 hover:bg-black/90"
+                    : isSelected
+                    ? "bg-black/90 border-sx-gold/60 shadow-[0_0_24px_rgba(212,175,55,0.2)] ring-1 ring-sx-gold/40"
+                    : "bg-black/70 border-white/[0.08] hover:border-white/[0.2] hover:bg-black/80"
+                }`}
+              >
+                {/* Top Row: Rank & Country */}
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <div className="flex items-center space-x-1.5">
+                      <CountryFlagLogo country={opp.hostCountry} name={opp.name} size="sm" />
+                      <span className="text-xs font-mono font-bold text-white/90 uppercase">
+                        {opp.hostCountry}
+                      </span>
+                    </div>
 
-                  <div
-                    className={`px-2 py-0.5 rounded text-[10px] font-mono font-bold ${
-                      opp.rank === 1
-                        ? "bg-sx-gold/20 text-sx-gold border border-sx-gold/40"
-                        : "bg-white/[0.06] text-white/70 border border-white/[0.08]"
-                    }`}
-                  >
-                    #{opp.rank} RANK
-                  </div>
-                </div>
-
-                {/* Scholarship Name */}
-                <h4 className="text-xs font-sans font-bold text-white mb-1 leading-snug line-clamp-2">
-                  {opp.shortName || opp.name || "Scholarship Opportunity"}
-                </h4>
-
-                {/* Degree & Verified Field Metadata */}
-                <div className="flex items-center gap-1.5 text-[10px] font-mono text-sx-text-tertiary mb-3 overflow-hidden">
-                  <span className="text-white/80 font-medium truncate max-w-[130px]" title={opp.degreeLevel}>
-                    {getCleanDegreeDisplay(opp.degreeLevel, targetDegree)}
-                  </span>
-                  <span className="text-white/20 shrink-0">•</span>
-                  <span
-                    className="inline-flex items-center gap-1 text-sx-ice font-semibold bg-white/[0.04] px-1.5 py-0.5 rounded border border-white/[0.08] truncate max-w-[160px]"
-                    title={opp.fieldOfStudy || "Academic Field"}
-                  >
-                    <ShieldCheck className="w-3 h-3 text-emerald-400 shrink-0" />
-                    <span className="truncate">{getCleanFieldDisplay(opp.fieldOfStudy, selectedField)}</span>
-                  </span>
-                </div>
-
-                {/* Composite Score Progress */}
-                <div className="bg-white/[0.03] p-2.5 rounded-lg border border-white/[0.06] mb-3">
-                  <div className="flex items-baseline justify-between mb-1">
-                    <span className="text-[10px] font-mono text-sx-text-secondary">Composite Score</span>
-                    <span className="text-base font-mono font-bold text-sx-gold">
-                      {(opp.compositeScore ?? 85.0).toFixed(1)}
-                    </span>
-                  </div>
-                  <div className="w-full h-1.5 bg-white/[0.08] rounded-full overflow-hidden">
                     <div
-                      className={`h-full rounded-full transition-all duration-700 ${
-                        opp.rank === 1
-                          ? "bg-sx-gold"
-                          : opp.rank === 2
-                          ? "bg-sx-ice"
-                          : "bg-white/40"
+                      className={`px-2 py-0.5 rounded text-[10px] font-mono font-bold ${
+                        isOppIneligible
+                          ? "bg-red-500/20 text-red-300 border border-red-500/40"
+                          : isUnder70 && isNeedBased
+                          ? "bg-emerald-500/20 text-emerald-300 border border-emerald-500/40"
+                          : opp.rank === 1
+                          ? "bg-sx-gold/20 text-sx-gold border border-sx-gold/40"
+                          : "bg-white/[0.06] text-white/70 border border-white/[0.08]"
                       }`}
-                      style={{ width: `${Math.min(100, Math.max(0, opp.compositeScore ?? 85))}%` }}
-                    />
+                    >
+                      {isOppIneligible
+                        ? "INELIGIBLE (<70%)"
+                        : isUnder70 && isNeedBased
+                        ? "NEED-BASED ELIGIBLE"
+                        : `#${opp.rank} RANK`}
+                    </div>
                   </div>
-                </div>
+
+                  {/* Scholarship Name */}
+                  <h4 className="text-xs font-sans font-bold text-white mb-1 leading-snug line-clamp-2">
+                    {opp.shortName || opp.name || "Scholarship Opportunity"}
+                  </h4>
+
+                  {/* Degree & Verified Field Metadata */}
+                  <div className="flex items-center gap-1.5 text-[10px] font-mono text-sx-text-tertiary mb-3 overflow-hidden">
+                    <span className="text-white/80 font-medium truncate max-w-[130px]" title={opp.degreeLevel}>
+                      {getCleanDegreeDisplay(opp.degreeLevel, targetDegree)}
+                    </span>
+                    <span className="text-white/20 shrink-0">•</span>
+                    <span
+                      className="inline-flex items-center gap-1 text-sx-ice font-semibold bg-white/[0.04] px-1.5 py-0.5 rounded border border-white/[0.08] truncate max-w-[160px]"
+                      title={opp.fieldOfStudy || "Academic Field"}
+                    >
+                      <ShieldCheck className="w-3 h-3 text-emerald-400 shrink-0" />
+                      <span className="truncate">{getCleanFieldDisplay(opp.fieldOfStudy, selectedField)}</span>
+                    </span>
+                  </div>
+
+                  {/* Composite Score Progress */}
+                  <div className={`p-2.5 rounded-lg border mb-3 ${
+                    isOppIneligible
+                      ? "bg-red-500/[0.04] border-red-500/25"
+                      : isUnder70 && isNeedBased
+                      ? "bg-emerald-500/[0.04] border-emerald-500/25"
+                      : "bg-white/[0.03] border-white/[0.06]"
+                  }`}>
+                    <div className="flex items-baseline justify-between mb-1">
+                      <span className="text-[10px] font-mono text-sx-text-secondary">
+                        {isOppIneligible ? "Eligibility Standing" : isUnder70 && isNeedBased ? "Need-Based Match" : "Composite Score"}
+                      </span>
+                      <span className={`text-base font-mono font-bold ${
+                        isOppIneligible ? "text-red-400" : isUnder70 && isNeedBased ? "text-emerald-400" : "text-sx-gold"
+                      }`}>
+                        {isOppIneligible ? "INELIGIBLE" : (opp.compositeScore ?? 85.0).toFixed(1)}
+                      </span>
+                    </div>
+                    <div className="w-full h-1.5 bg-white/[0.08] rounded-full overflow-hidden">
+                      <div
+                        className={`h-full rounded-full transition-all duration-700 ${
+                          isOppIneligible
+                            ? "bg-red-500/60"
+                            : isUnder70 && isNeedBased
+                            ? "bg-emerald-400"
+                            : opp.rank === 1
+                            ? "bg-sx-gold"
+                            : opp.rank === 2
+                            ? "bg-sx-ice"
+                            : "bg-white/40"
+                        }`}
+                        style={{ width: `${isOppIneligible ? 30 : Math.min(100, Math.max(0, opp.compositeScore ?? 85))}%` }}
+                      />
+                    </div>
+                    {isOppIneligible && (
+                      <div className="text-[9px] font-mono text-red-400/90 mt-1 flex items-center justify-between">
+                        <span>Strict Merit Cutoff: &ge; 70.0%</span>
+                        <span className="font-bold">Not Qualified</span>
+                      </div>
+                    )}
+                    {isUnder70 && isNeedBased && (
+                      <div className="text-[9px] font-mono text-emerald-400/90 mt-1 flex items-center justify-between">
+                        <span>Income-based Grant (DSU)</span>
+                        <span className="font-bold">Eligible</span>
+                      </div>
+                    )}
+                  </div>
 
                 {/* Key Decisive Factors */}
                 <div className="space-y-1.5 text-[10px] font-mono">

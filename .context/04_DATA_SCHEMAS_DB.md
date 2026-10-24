@@ -87,17 +87,27 @@ CREATE TABLE IF NOT EXISTS search_queries_cache (
 
 ---
 
-## 2. 310 Deep Dossier Seed Database
+## 2. 510 Deep Dossier Seed Database
 
-ScholarX includes **310 fully researched international scholarship dossiers**:
+ScholarX includes **510 fully researched international scholarship dossiers** (with 512 records in `scholarships_database.db`):
 
 | Region | Count | Flagship Examples |
 |:---|:---:|:---|
-| **Europe** | 101 | Stipendium Hungaricum (400 HEC bilateral seats), DAAD EPOS/Helmut-Schmidt, Erasmus Mundus, Italian DSU, Swedish Institute SISGP, Swiss Government Excellence |
-| **Asia** | 81 | Chinese Government CSC (Type A Bilateral & Type B University), MEXT Embassy & University Track (Japan), GKS/KGSP (South Korea), Turkiye Burslari |
-| **Americas** | 65 | Fulbright Foreign Student Program (USEFP Pakistan), Global UGRAD, Vanier Canada Graduate Scholarships, OAS Academic Scholarship |
-| **MENA** | 43 | KAUST Fellowship (Saudi Arabia, $30k stipend + villa), Islamic Development Bank (IsDB), Qatar University Scholarships, Khalifa University |
-| **Oceania** | 20 | Australia Awards Scholarships (DFAT Pakistan priority), Melbourne Research Scholarship, Manaaki New Zealand Scholarship |
+| **Europe** | 161 | Stipendium Hungaricum (400 HEC bilateral seats), DAAD EPOS/Helmut-Schmidt, Erasmus Mundus, Italian DSU, Swedish Institute SISGP, Swiss Government Excellence |
+| **Asia** | 131 | Chinese Government CSC (Type A Bilateral & Type B University), MEXT Embassy & University Track (Japan), GKS/KGSP (South Korea), Turkiye Burslari |
+| **Americas** | 105 | Fulbright Foreign Student Program (USEFP Pakistan), Global UGRAD, Vanier Canada Graduate Scholarships, OAS Academic Scholarship |
+| **MENA** | 73 | KAUST Fellowship (Saudi Arabia, $30k stipend + villa), Islamic Development Bank (IsDB), Qatar University Scholarships, Khalifa University |
+| **Oceania** | 40 | Australia Awards Scholarships (DFAT Pakistan priority), Melbourne Research Scholarship, Manaaki New Zealand Scholarship |
+
+---
+
+## 3. Standalone Database & Interactive Viewer Assets
+
+ScholarX bundles direct export and standalone exploration tools in repository root:
+- **`scholarships_database.db`**: Portable SQLite database with 512 indexed scholarships.
+- **`scholarships_database.csv`**: Full tabular CSV export (170 KB) for spreadsheet and data science analysis.
+- **`scholarships_database_viewer.html`**: Standalone zero-dependency HTML5/JS viewer (367 KB) featuring real-time client-side search, regional filters, and deep dossier inspection without requiring a running server.
+- **`frontend/lib/db/databaseBundle.ts` & `sqliteClient.ts`**: Portable SQLite access using Node 22 built-in `node:sqlite`, supporting local dev, Next.js API routes, and Vercel serverless deployments.
 
 ---
 

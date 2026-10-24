@@ -6,6 +6,16 @@
 
 ## Session History & Milestones
 
+### 2026-10-24: 510 Scholarship Expansion, Node:SQLite Client, & Offline Typo Resilience
+- **Context**: The database expanded from 310 to 510 deep dossiers, Next.js added Node 22 `node:sqlite` serverless client support, offline typo-resilient field matching was built, and standalone database viewing assets were generated.
+- **Action Taken**:
+  - Expanded regional dossiers across Europe (161), Asia (131), Americas (105), MENA (73), and Oceania (40).
+  - Implemented `field_matching.py` with deterministic fuzzy matching for student typos (e.g., `compter scince` -> `Computer Science`).
+  - Added test suite `test_offline_typo_retrieval.py` (all tests passing offline).
+  - Integrated `node:sqlite` in `frontend/lib/db/sqliteClient.ts` and `databaseBundle.ts` for instant zero-proxy database queries.
+  - Exported standalone assets `scholarships_database.db`, `.csv`, and `scholarships_database_viewer.html`.
+  - Updated entire context system (`.context/`, `AGENTS.md`, `CLAUDE.md`, `CONTEXT.md`, `.cursorrules`, `.gemini/rules/`, `project.yaml`) with new metrics and ADR-013/ADR-014.
+
 ### 2026-10-20: Creation of Universal Multi-Agent Context System
 - **Context**: The ScholarX codebase had expanded to 310 Deep Dossiers, Next.js 15 Command Theatre, and 10-node LangGraph backend. The original `Agents.md` (73KB blueprint from September 2) was outdated and too heavy for fresh context windows.
 - **Action Taken**:
@@ -40,6 +50,3 @@
   - Elevated `JudgeControlBar` as the sole controller (ADR-009).
   - Enforced 6-scale semantic typography with strict 10px minimum floor (ADR-012).
   - Removed redundant phase buttons and debug bars to maximize 1920×1080 stage immersion.
-
-### [2026-10-20 21:07:48] Agent Work Record
-- Universal Multi-Agent Context System fully implemented and verified with 28/28 checks passing.

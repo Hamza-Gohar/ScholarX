@@ -17,16 +17,16 @@ Pakistani students miss out on hundreds of fully funded international scholarshi
 ## 2. Current System Posture (October 2026)
 
 - **Overall Status**: ✅ **100% Complete & Exhibition Verified** (Phase 10 delivery complete).
-- **Scholarships Database**: **310 Deep Dossier scholarships** across 5 continental regions (Europe 101, Asia 81, Americas 65, MENA 43, Oceania 20) with 11-dimension research dossiers.
-- **Backend**: FastAPI (Python 3.12, port 8000) compiling a **10-node LangGraph StateGraph pipeline** + async SSE real-time event streaming.
-- **Frontend**: Next.js 15.1.0 (port 3000, App router) featuring the **Command Theatre** (1920×1080 spatial stage, D3-geo map, curved Bezier flight packets, obsidian glass aesthetic, and collapsible `JudgeControlBar`).
-- **Database**: Single-file local SQLite with WAL mode (`data/scholarx_sessions.db`). Zero external Docker dependencies required (ADR-001).
+- **Scholarships Database**: **510 Deep Dossier scholarships** across 5 continental regions (Europe 161, Asia 131, Americas 105, MENA 73, Oceania 40) with 11-dimension research dossiers. Standalone viewer in `scholarships_database_viewer.html` and `scholarships_database.db` (512 records).
+- **Backend**: FastAPI (Python 3.12, port 8000) compiling a **10-node LangGraph StateGraph pipeline**, offline typo-resilient field matching, and async SSE real-time event streaming.
+- **Frontend**: Next.js 15.1.0 (port 3000, App router) featuring the **Command Theatre** (1920×1080 spatial stage, D3-geo map, curved Bezier flight packets, obsidian glass aesthetic, collapsible `JudgeControlBar`), plus hybrid serverless SQLite (`node:sqlite` via `sqliteClient.ts`).
+- **Database**: Single-file local SQLite with WAL mode (`data/scholarx_sessions.db`). Zero external Docker dependencies required (ADR-001). Portable to Vercel/serverless via `databaseBundle.ts`.
 - **API Key Pool**: 30 keys (13 Groq, 3 Gemini, 7 Tavily, 6 Firecrawl, 1 Jina) with automatic per-request round-robin rotation, 60s cooldown, and health tracking.
-- **Test Suite**: 135 test cases across 43 test modules in `backend/tests/`.
+- **Test Suite**: 135+ test cases across 44 test modules in `backend/tests/` (including offline typo & fuzzy matching).
 
 ---
 
-## 3. The 6 Non-Negotiable Invariants
+## 3. The 7 Non-Negotiable Invariants
 
 When working on ScholarX, **NEVER** violate these architectural rules:
 
@@ -37,8 +37,9 @@ When working on ScholarX, **NEVER** violate these architectural rules:
 2. **Pakistan-Localized Reality**:
    - All expenses must be converted to **PKR**.
    - Pakistani education boards (BISE, Cambridge O/A Levels, IBCC equivalence, HEC recognized universities) and tests (HEC HAT, USAT, NTS GAT) are first-class concepts.
-3. **Local-First / Zero-Docker Exhibition Standard (ADR-001)**:
+3. **Local-First & Offline Resilient (ADR-001, ADR-013, ADR-014)**:
    - SQLite WAL is the sole production database. Do NOT require Docker, PostgreSQL, or Redis containers for standard local execution.
+   - System must function 100% offline with fuzzy field matching resilient to spelling mistakes and typos without requiring external LLM calls.
 4. **Key Management Protocol (ADR-005, ADR-006)**:
    - Never hardcode or call API providers directly without `backend.utils.api_keys.get_key_manager()`. All external LLM, search, and scrape calls must rotate per-request.
 5. **Modern SDK Usage (ISS-006)**:
@@ -46,6 +47,8 @@ When working on ScholarX, **NEVER** violate these architectural rules:
 6. **Exhibition Visual Standards (ADR-009, ADR-012)**:
    - Obsidian dark glassmorphism theme with semantic accents (`emerald` success, `cyan` discovery, `gold` costs/bilateral, `amber` deadlines, `rose` skeptic, `purple` ranking).
    - Strict 6-scale typography: `DISPLAY` (24-32px), `LARGE` (18-20px), `MEDIUM` (14-15px), `BODY` (13-14px), `LABEL` (11-12px mono), `MICRO` (10px mono floor). **Sub-10px text is strictly prohibited.**
+7. **Hybrid Serverless & Node:SQLite Portability**:
+   - Frontend components can resolve and filter scholarships directly using Node 22 built-in `node:sqlite` (`frontend/lib/db/sqliteClient.ts`) or fall back to JSON/API. Single source of truth is always preserved.
 
 ---
 

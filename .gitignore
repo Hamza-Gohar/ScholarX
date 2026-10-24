@@ -110,6 +110,7 @@ Thumbs.db
 
 # Tooling & Agent Caches
 .impeccable/config.local.json
+.agents/
 
 # Presentation Decks & Root Exhibition Slides
 /exhibition_slides/

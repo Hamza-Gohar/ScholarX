@@ -229,6 +229,7 @@ def cmd_validate(args):
     # Check core frontend paths
     check("Frontend Page: frontend/app/page.tsx", (PROJECT_ROOT / "frontend" / "app" / "page.tsx").exists())
     check("Frontend Store: frontend/lib/store.ts", (PROJECT_ROOT / "frontend" / "lib" / "store.ts").exists())
+    check("Frontend SQLite Client: frontend/lib/db/sqliteClient.ts", (PROJECT_ROOT / "frontend" / "lib" / "db" / "sqliteClient.ts").exists())
     check("Judge Control Bar: frontend/components/theatre/JudgeControlBar.tsx", (PROJECT_ROOT / "frontend" / "components" / "theatre" / "JudgeControlBar.tsx").exists())
 
     # Check database and benchmarks
@@ -240,11 +241,13 @@ def cmd_validate(args):
             cur = conn.cursor()
             cur.execute("SELECT count(*) FROM scholarships_cache")
             count = cur.fetchone()[0]
-            check(f"Database Seed: 310 Scholarships ({count} found)", count >= 310)
+            check(f"Database Seed: 510 Scholarships ({count} found)", count >= 500)
             conn.close()
         except Exception as e:
             check("Database Seed Query", False, str(e))
 
+    check("Standalone DB: scholarships_database.db", (PROJECT_ROOT / "scholarships_database.db").exists())
+    check("Offline Typo Test: backend/tests/test_offline_typo_retrieval.py", (PROJECT_ROOT / "backend" / "tests" / "test_offline_typo_retrieval.py").exists())
     check("Benchmark: data/pakistan_costs.json", (PROJECT_ROOT / "data" / "pakistan_costs.json").exists())
     check("Benchmark: data/pakistan_education.json", (PROJECT_ROOT / "data" / "pakistan_education.json").exists())
 

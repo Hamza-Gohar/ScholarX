@@ -514,6 +514,28 @@ export class DemoEventPlayer {
 
     const cand1Any = cand1 as any;
     const cand1Seats = cand1Any.pakistan_requirements?.pakistan_quota_seats || cand1Any.pakistan_requirements?.bilateral_quota_seats;
+    const isUnder70Candidate = Number(targetProfileObj.academic?.percentage || targetProfileObj.academic?.gpa_percentage || 80) < 70;
+    const cand1IsNeedBased = /dsu|need[\s\-]based|regional grant|type[\s\-]b/i.test(cand1.name);
+
+    if (isUnder70Candidate) {
+      events.push(
+        makeEvt(
+          "DIMENSION_EVALUATED",
+          "eligibility",
+          "Eligibility Investigator",
+          "WORKFLOW",
+          "ELIGIBILITY",
+          {
+            dimension: "Academic Merit Cutoff (< 70%)",
+            verdict: cand1IsNeedBased ? "PASS" : "DEFICIT",
+            notes: cand1IsNeedBased
+              ? `Need-based / income-driven grant: ${cand1.name} exempts strict 70% cutoff. Candidate eligible under socioeconomic criteria.`
+              : `Strict merit cutoff (>= 70.0%) not met for competitive merit programs. Enforcing polite advisory and prioritizing need-based grants.`,
+          },
+          cand1IsNeedBased ? "INFO" : "WARNING"
+        )
+      );
+    }
 
     events.push(
       makeEvt(
@@ -670,17 +692,24 @@ export class DemoEventPlayer {
         anyCandidate.pakistan_requirements?.bilateral_quota_seats;
       const hasBilateral = Boolean(seats || anyCandidate.pakistan_requirements?.hec_managed);
 
-      const fEligibility = Math.min(98, Math.max(65, Math.round(studentGpaNum * 0.95 + 10 - i * 2)));
+      const isNeedBased = /dsu|need[\s\-]based|regional grant|type[\s\-]b/i.test(c.name);
+      const isOppIneligible = studentGpaNum < 70 && !isNeedBased;
+
+      const fEligibility = isOppIneligible
+        ? 15
+        : Math.min(98, Math.max(65, Math.round(studentGpaNum * 0.95 + 10 - i * 2)));
       const isFull = anyCandidate.funding_type === "FULL" || anyCandidate.funding?.funding_type === "FULL";
       const fFunding = isFull ? Math.max(75, 96 - i * 2) : 78;
       const fBilateral = hasBilateral ? 96 : 74;
-      const fAcademicFit = Math.min(96, Math.max(70, Math.round(studentGpaNum * 0.92 + 12 - i * 3)));
+      const fAcademicFit = isOppIneligible
+        ? 30
+        : Math.min(96, Math.max(70, Math.round(studentGpaNum * 0.92 + 12 - i * 3)));
       const fDocReadiness = hasIeltsBool ? 90 : 76;
       const fDeadline = Math.max(68, 88 - i * 2);
       const fVerification = 95;
       const fCompetition = hasBilateral ? 78 : 70;
 
-      const totalCalcScore = Math.round(
+      let totalCalcScore = Math.round(
         (0.25 * fEligibility +
           0.25 * fFunding +
           0.10 * fBilateral +
@@ -690,6 +719,10 @@ export class DemoEventPlayer {
           0.05 * fVerification +
           0.05 * fCompetition) * 10
       ) / 10;
+
+      if (isOppIneligible) {
+        totalCalcScore = Math.min(38.0, totalCalcScore);
+      }
 
       const matchDeg = (c.eligibility?.degree_levels || []).find((d: string) => d.toLowerCase().includes(studentDegree.toLowerCase()));
       const finalDegree = matchDeg || studentDegree || (c.eligibility?.degree_levels || [])[0] || "Degree Programme";
@@ -729,13 +762,13 @@ export class DemoEventPlayer {
         "WORKFLOW",
         "RANKING",
         {
-          top_scholarship: cand1.name,
-          top_score: 92.4,
-          rank_1: `${cand1.name} (92.4)`,
-          rank_2: `${cand2.name} (88.6)`,
-          rank_3: `${cand3.name} (84.8)`,
-          rank_4: `${cand4.name} (81.0)`,
-          primary_selected: cand1.scholarship_id,
+          top_scholarship: rankedResultsPayload[0]?.name || cand1.name,
+          top_score: rankedResultsPayload[0]?.overall_match_score || 88.0,
+          rank_1: `${rankedResultsPayload[0]?.name || cand1.name} (${(rankedResultsPayload[0]?.overall_match_score ?? 88).toFixed(1)})`,
+          rank_2: `${rankedResultsPayload[1]?.name || cand2.name} (${(rankedResultsPayload[1]?.overall_match_score ?? 84).toFixed(1)})`,
+          rank_3: `${rankedResultsPayload[2]?.name || cand3.name} (${(rankedResultsPayload[2]?.overall_match_score ?? 80).toFixed(1)})`,
+          rank_4: `${rankedResultsPayload[3]?.name || cand4.name} (${(rankedResultsPayload[3]?.overall_match_score ?? 76).toFixed(1)})`,
+          primary_selected: rankedResultsPayload[0]?.scholarship_id || cand1.scholarship_id,
           ranked_results: rankedResultsPayload,
         },
         "SUCCESS"

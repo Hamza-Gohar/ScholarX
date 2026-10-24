@@ -62,6 +62,16 @@
 - **Status**: Accepted
 - **Decision**: Standardize all theatre typography on 6 scales: `DISPLAY` (24-32px), `LARGE` (18-20px), `MEDIUM` (14-15px), `BODY` (13-14px), `LABEL` (11-12px mono), `MICRO` (10px mono floor). Sub-10px text is strictly prohibited to guarantee 3-meter presentation legibility.
 
+### ADR-013: Hybrid Serverless SQLite & Node 22 Built-in Engine
+- **Status**: Accepted
+- **Decision**: Provide direct SQLite querying from Next.js server components and API routes using Node 22 built-in `node:sqlite` (`frontend/lib/db/sqliteClient.ts` and `databaseBundle.ts`), with read-only multi-candidate path resolution and `/tmp` copy for serverless writes.
+- **Rationale**: Eliminates backend proxy round-trip latency for instant scholarship queries while retaining complete offline portability for Vercel lambdas and static environments.
+
+### ADR-014: Typo-Resilient Offline Academic Field Matching
+- **Status**: Accepted
+- **Decision**: Implement deterministic fuzzy matching and faculty taxonomies in `backend/workflows/field_matching.py` that handle student spelling mistakes (e.g., `compter scince`, `machne lerning`) offline without requiring external Groq/LLM calls.
+- **Rationale**: Students commonly misspell academic specializations. The system must never reject eligible students due to typographical errors even when running fully offline.
+
 ---
 
 ## 2. Inviolable Invariants for AI Agents
@@ -78,3 +88,5 @@
    - Preserve the 10px minimum mono floor for presentation legibility.
 6. **Always Convert Financial Metrics to Pakistani Rupees (PKR)**:
    - Provide local currency context alongside PKR, but PKR is the primary benchmark.
+7. **Ensure 100% Offline Resilience for Querying & Field Matching**:
+   - Misspelled queries and academic fields must resolve via `field_matching.py` without requiring online LLM availability.

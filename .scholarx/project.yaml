@@ -2,18 +2,18 @@
 # ScholarX — Project Intelligence Manifest
 # Single source of truth for the entire project.
 # Machine-readable by any AI agent or development tool.
-# Last Updated: 2026-10-20
+# Last Updated: 2026-10-24
 # ============================================================
 
 name: ScholarX
-version: "2.0.0"
+version: "2.1.0"
 description: >
   Autonomous multi-agent AI scholarship discovery, verification,
   and application planning system built exclusively for Pakistani students.
-  Covers 5 global regions with 310 verified Deep Dossier scholarships.
-status: "Phase 10 Locked & Verified (Full Stack Operational: FastAPI + Next.js 15 Command Theatre)"
+  Covers 5 global regions with 510 verified Deep Dossier scholarships.
+status: "Phase 10 Locked & Verified (Full Stack Operational: FastAPI + Next.js 15 Command Theatre + Node:sqlite Serverless Portability)"
 target_audience: "Pakistani students seeking fully-funded international scholarships"
-deployment: "Local-first exhibition platform (localhost:8000 & localhost:3000)"
+deployment: "Local-first exhibition platform (localhost:8000 & localhost:3000) + Vercel serverless portable"
 
 # ── Tech Stack ──────────────────────────────────────────────
 tech_stack:
@@ -23,19 +23,22 @@ tech_stack:
     orchestration: LangGraph
     database: "SQLite (aiosqlite, WAL mode)"
     session_db_path: "data/scholarx_sessions.db"
+    standalone_db_path: "scholarships_database.db"
     llm_primary: "Groq (qwen/qwen3.8-27b) — 13 keys"
     llm_fallback: "Gemini (gemini-flash-latest) — 3 keys"
     search: "Tavily — 7 keys"
     scraping: "Firecrawl (6 keys) + Jina Reader (1 key)"
     key_rotation: "Per-request round-robin across 30 total keys"
     validation: "Pydantic v2"
-    testing: "Pytest + pytest-asyncio (135 tests)"
+    testing: "Pytest + pytest-asyncio (135+ tests across 44 modules)"
   frontend:
     framework: "Next.js 15.1.0 (App Router)"
     ui_library: "React 19"
     styling: "Tailwind CSS (Obsidian Dark Glassmorphism)"
     state_management: "Zustand v5"
     streaming: "Server-Sent Events (native EventSource)"
+    database_client: "Node:sqlite built-in engine (sqliteClient.ts & databaseBundle.ts)"
+    client_engines: "pakistanCostEngine.ts, deadlineEngine.ts, dossierResolver.ts"
     visualization: "D3-geo Spatial Canvas (1920x1080 stage floor) + Bezier Packet Dynamics"
     controls: "Unified JudgeControlBar (ADR-009)"
     typography: "6-scale semantic typography, 10px monospace minimum floor (ADR-012)"
@@ -72,7 +75,7 @@ architecture:
       files: "backend/workflows/scouts/"
     - name: EligibilityInvestigator
       type: workflow
-      purpose: "15-dimension deterministic eligibility comparison"
+      purpose: "15-dimension deterministic eligibility comparison + field_matching.py typo resilience"
       file: "backend/workflows/eligibility.py"
     - name: TrueCostAnalyzer
       type: workflow
@@ -93,19 +96,23 @@ architecture:
 
 # ── Data ────────────────────────────────────────────────────
 data:
-  scholarships_total: 310
+  scholarships_total: 510
   regions:
-    europe: 101
-    asia: 81
-    americas: 65
-    mena: 43
-    oceania: 20
+    europe: 161
+    asia: 131
+    americas: 105
+    mena: 73
+    oceania: 40
   scholarship_data_dir: "data/scholarships/"
   student_profiles: 6
   profile_data_dir: "data/profiles/"
   reference_data:
     - "data/pakistan_costs.json — PKR expense benchmarks"
     - "data/pakistan_education.json — BISE boards, grading scales, degree tiers"
+  standalone_assets:
+    - "scholarships_database.db — Portable SQLite database (512 records)"
+    - "scholarships_database.csv — Tabular export"
+    - "scholarships_database_viewer.html — Zero-dependency interactive viewer"
 
 # ── Entry Points ────────────────────────────────────────────
 entry_points:
@@ -124,7 +131,7 @@ commands:
   start_all: "npm run dev"
   start_backend: "make backend"
   start_frontend: "make frontend"
-  run_fast_tests: ".venv/bin/pytest backend/tests/test_schemas.py backend/tests/test_api_keys.py -v"
+  run_fast_tests: ".venv/bin/pytest backend/tests/test_offline_typo_retrieval.py backend/tests/test_schemas.py backend/tests/test_api_keys.py -v"
   run_all_tests: "make test"
   system_doctor: ".venv/bin/python scripts/doctor.py"
 
@@ -146,9 +153,9 @@ context_system:
     - ".context/01_ARCHITECTURE.md — System Topology & Dual Execution Modes"
     - ".context/02_BACKEND_LANGGRAPH.md — 10-Node StateGraph & Agents"
     - ".context/03_FRONTEND_THEATRE.md — Command Theatre & Spatial Stage"
-    - ".context/04_DATA_SCHEMAS_DB.md — SQLite WAL & 310 Deep Dossiers"
+    - ".context/04_DATA_SCHEMAS_DB.md — SQLite WAL & 510 Deep Dossiers"
     - ".context/05_API_SSE_EVENTS.md — REST Endpoints & 34+ SSE Events"
-    - ".context/06_DECISIONS_INVARIANTS.md — Consolidated ADRs (001-012)"
+    - ".context/06_DECISIONS_INVARIANTS.md — Consolidated ADRs (001-014)"
     - ".context/07_DEVELOPER_PLAYBOOK.md — Recipes & Troubleshooting"
     - ".context/08_ACTIVE_STATE.md — Active State & Tracked Gaps"
     - ".context/CURRENT_TASK.md — Live Agent Task Scratchpad"

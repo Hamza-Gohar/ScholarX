@@ -238,4 +238,36 @@ def test_ranking_engine_caps_by_degree_level(sample_student):
     assert ranked_bachelor[-1].rank == 15
 
 
+def test_ineligible_candidate_scoring_and_filtering(sample_student, high_match_scholarship):
+    engine = RankingEngine()
+    ineligible_elig = EligibilityResult(
+        scholarship_id=high_match_scholarship.scholarship_id,
+        scholarship_name=high_match_scholarship.name,
+        is_eligible=False,
+        eligibility_score=25.0,
+        blocking_issues=["Academic score 67.5% below cutoff 70.0%"],
+    )
+    cost = CostAnalysisResult(funding_score=100.0, total_out_of_pocket_pkr=100000, is_within_budget=True)
+    deadline = DeadlineAnalysisResult(
+        deadline_date="2027-01-15",
+        days_remaining=120,
+        prep_days_needed_pakistan=20,
+        slack_days=100,
+        is_feasible=True,
+        deadline_score=100.0,
+    )
+    evidence = EvidenceTrail(scholarship_id=high_match_scholarship.scholarship_id, confidence_score=0.95)
 
+    score_res = engine.calculate_composite_score(
+        high_match_scholarship, ineligible_elig, cost, deadline, evidence, sample_student
+    )
+
+    # Ineligible composite score must be penalized below 40.0 and not recommended
+    assert score_res.overall_match_score <= 38.0
+    assert score_res.is_recommended is False
+    assert len(score_res.blocking_reasons) > 0
+
+    # In rank_opportunities, candidates with score <= 50.0 should be filtered out
+    candidates = [(high_match_scholarship, ineligible_elig, cost, deadline, evidence)]
+    ranked = engine.rank_opportunities(candidates, sample_student)
+    assert len(ranked) == 0

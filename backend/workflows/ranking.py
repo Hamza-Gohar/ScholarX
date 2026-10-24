@@ -106,6 +106,8 @@ class RankingEngine:
         )
 
         final_match_score = round(max(0.0, min(100.0, composite)), 1)
+        if not eligibility.is_eligible:
+            final_match_score = round(min(38.0, composite * 0.4), 1)
         is_recommended = eligibility.is_eligible and cost.is_within_budget and deadline.is_feasible
 
         # Compile advantages

@@ -89,6 +89,7 @@ The graph is compiled linearly in `backend/graph/builder.py` using sequential ed
    - Tool chain: Tavily search → Jina Reader markdown extraction → Firecrawl deep scraper fallback.
 2. **EligibilityInvestigator (`backend/workflows/eligibility.py`)**:
    - 15 criteria checked: degree level, minimum GPA, age limit, citizenship, field of study, IELTS/TOEFL waiver status, HEC HAT/USAT requirement, work experience, etc.
+   - Powered by **`field_matching.py`**: Deterministic academic taxonomy engine with typo and misspelling resilience (`test_offline_typo_retrieval.py`). Maps misspelled queries (e.g. `compter scince`, `machne lerning`) to canonical faculty taxonomies without requiring external LLM calls.
 3. **TrueCostAnalyzer (`backend/workflows/cost_analyzer.py`)**:
    - 4-phase expense waterfall based on `data/pakistan_costs.json`:
      - Phase 1: Pre-Application (IELTS PKR 75.6k, HEC attestation PKR 10k, IBCC PKR 7.5k, Passport PKR 5.5k)
@@ -98,7 +99,7 @@ The graph is compiled linearly in `backend/graph/builder.py` using sequential ed
 4. **DeadlineIntelligence (`backend/workflows/deadline.py`)**:
    - Calculates exact calendar runway and subtracts Pakistani administrative lead times (HEC attestation 21-28 days, passport renewal 14 days, visa appointment 60 days).
 5. **SynthesisWorkflow (`backend/workflows/synthesis.py`)**:
-   - Compiles multidimensional audit results into complete DNA cards.
+   - Compiles multidimensional audit results across all 510 seeded opportunities into complete DNA cards.
 6. **RankingEngine (`backend/workflows/ranking.py`)**:
    - Deterministic 8-factor composite arithmetic formula (see §5).
 

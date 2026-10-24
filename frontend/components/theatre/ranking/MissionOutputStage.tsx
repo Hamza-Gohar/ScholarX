@@ -29,10 +29,12 @@ import {
   Building2,
   Calendar,
   Layers,
-  AlertCircle
+  AlertCircle,
+  AlertTriangle
 } from "lucide-react";
 import { sound } from "@/lib/sound-fx";
 import { getDegreeScholarshipLimit } from "@/lib/utils/degreeLimit";
+import { IneligiblePoliteModal } from "@/components/common/IneligiblePoliteModal";
 
 export interface MissionOutputStageProps {
   opportunities: InvestigatedOpportunity[];
@@ -63,6 +65,31 @@ export const MissionOutputStage: React.FC<MissionOutputStageProps> = ({
 }) => {
   const [activeTab, setActiveTab] = useState<OutputViewTab>("RANKED");
 
+  // Determine candidate academic percentage and evaluate 70.0% merit cutoff
+  const candidatePercentage = Number(
+    studentProfile?.academic?.gpa_percentage ??
+    studentProfile?.academic?.percentage ??
+    studentProfile?.academic?.ibcc_equivalence_percentage ??
+    (studentProfile?.academic?.gpa_4_scale ? (studentProfile.academic.gpa_4_scale / 4.0) * 100 : 0)
+  );
+  const isUnder70 = candidatePercentage > 0 && candidatePercentage < 70.0;
+
+  // Ineligibility modal trigger state
+  const [showIneligibleModal, setShowIneligibleModal] = useState<boolean>(false);
+  const [modalSeen, setModalSeen] = useState<boolean>(false);
+
+  // Automatically trigger polite ineligibility modal on mount when candidate is below 70%
+  React.useEffect(() => {
+    if (isUnder70 && !modalSeen) {
+      const timer = setTimeout(() => {
+        sound.playSkepticAlert();
+        setShowIneligibleModal(true);
+        setModalSeen(true);
+      }, 700);
+      return () => clearTimeout(timer);
+    }
+  }, [isUnder70, modalSeen]);
+
   const rawTargetDegree =
     studentProfile?.preferences?.target_degree_level ||
     studentProfile?.preferences?.targetDegreeLevel ||
@@ -70,20 +97,27 @@ export const MissionOutputStage: React.FC<MissionOutputStageProps> = ({
     primaryOpportunity?.degreeLevel;
   const limit = getDegreeScholarshipLimit(rawTargetDegree);
 
-  // Filter strictly for compositeScore > 50, degree-specific max; fallback to available if preliminary
+  // Filter strictly for compositeScore > 50 unless isUnder70 is true (audited ineligible + need-based opportunities must remain visible)
   const qualifiedOpportunities = useMemo(() => {
     if (!opportunities || opportunities.length === 0) return [];
-    const withScores = opportunities.filter((opp) => (opp.compositeScore ?? 0) > 50);
-    const validPool = withScores.length > 0 ? withScores : opportunities;
+    const validPool = isUnder70
+      ? opportunities
+      : (opportunities.filter((opp) => (opp.compositeScore ?? 0) > 50).length > 0
+          ? opportunities.filter((opp) => (opp.compositeScore ?? 0) > 50)
+          : opportunities);
     return validPool
       .slice(0, limit)
       .sort((a, b) => (b.compositeScore ?? 75) - (a.compositeScore ?? 75))
-      .map((opp, idx) => ({
-        ...opp,
-        compositeScore: opp.compositeScore ?? Math.max(65, 88 - idx * 2.5),
-        rank: idx + 1,
-      }));
-  }, [opportunities, limit]);
+      .map((opp, idx) => {
+        const isNeedBased = /dsu|need[\s\-]based|regional grant|type[\s\-]b/i.test(opp.name);
+        const fallbackScore = isUnder70 && !isNeedBased ? 38.0 : Math.max(65, 88 - idx * 2.5);
+        return {
+          ...opp,
+          compositeScore: opp.compositeScore ?? fallbackScore,
+          rank: idx + 1,
+        };
+      });
+  }, [opportunities, limit, isUnder70]);
 
   const activeOpp = (primaryOpportunity && (primaryOpportunity.compositeScore ?? 0) > 0)
     ? primaryOpportunity
@@ -141,7 +175,12 @@ export const MissionOutputStage: React.FC<MissionOutputStageProps> = ({
             </div>
             <div>
               <div className="flex items-center space-x-2 text-[10px] font-mono tracking-wider uppercase mb-0.5">
-                {totalCount > 0 ? (
+                {isUnder70 ? (
+                  <span className="px-2 py-0.5 rounded bg-amber-500/20 text-amber-300 font-bold border border-amber-500/30 flex items-center gap-1">
+                    <AlertTriangle className="w-3 h-3 text-amber-400" />
+                    INELIGIBLE FOR MERIT SCHOLARSHIPS (&lt; 70% MARKS)
+                  </span>
+                ) : totalCount > 0 ? (
                   <span className="px-2 py-0.5 rounded bg-emerald-500/20 text-emerald-400 font-bold border border-emerald-500/30 flex items-center gap-1">
                     <CheckCircle2 className="w-3 h-3" />
                     MISSION ACCOMPLISHED
@@ -153,8 +192,12 @@ export const MissionOutputStage: React.FC<MissionOutputStageProps> = ({
                   </span>
                 )}
                 <span className="text-white/40">&bull;</span>
-                <span className={totalCount > 0 ? "text-sx-gold font-bold" : "text-amber-400 font-bold"}>
-                  {totalCount > 0 ? `${totalCount} HIGH-MATCH SCHOLARSHIPS (SCORE > 50)` : "0 QUALIFYING SCHOLARSHIPS FOUND"}
+                <span className={isUnder70 ? "text-amber-400 font-bold" : totalCount > 0 ? "text-sx-gold font-bold" : "text-amber-400 font-bold"}>
+                  {isUnder70
+                    ? `ACADEMIC MARKS (${candidatePercentage.toFixed(1)}%) BELOW 70.0% MERIT THRESHOLD`
+                    : totalCount > 0
+                    ? `${totalCount} HIGH-MATCH SCHOLARSHIPS (SCORE > 50)`
+                    : "0 QUALIFYING SCHOLARSHIPS FOUND"}
                 </span>
                 <span className="text-white/40">&bull;</span>
                 <span className="text-sx-ice">
@@ -163,8 +206,12 @@ export const MissionOutputStage: React.FC<MissionOutputStageProps> = ({
               </div>
 
               <div className="text-sm sm:text-base font-sans font-bold text-white flex items-center gap-2">
-                <span>{totalCount > 0 ? "Top Recommendation:" : "Status Notice:"}</span>
-                {totalCount > 0 && activeOpp ? (
+                <span>{isUnder70 ? "Standing Notice:" : totalCount > 0 ? "Top Recommendation:" : "Status Notice:"}</span>
+                {isUnder70 ? (
+                  <span className="text-amber-300 font-medium flex items-center gap-1.5">
+                    <span>Ineligible for strict merit quotas ({candidatePercentage.toFixed(1)}% &lt; 70.0%) &bull; Need-Based Grants (Italian DSU) Unlocked</span>
+                  </span>
+                ) : totalCount > 0 && activeOpp ? (
                   <span className="text-sx-gold font-extrabold flex items-center gap-1.5">
                     <CountryFlagLogo country={activeOpp?.hostCountry} name={activeOpp?.name} size="sm" />
                     <span>{activeOpp?.name}</span>
@@ -174,7 +221,7 @@ export const MissionOutputStage: React.FC<MissionOutputStageProps> = ({
                     GPA or language requirements not met for target regions
                   </span>
                 )}
-                {activeOpp && (
+                {activeOpp && !isUnder70 && (
                   <span className="text-xs font-mono px-2 py-0.5 rounded bg-sx-gold/15 text-sx-gold border border-sx-gold/30 font-bold">
                     {(activeOpp.compositeScore ?? 88.5).toFixed(1)} / 100 PTS
                   </span>
@@ -266,6 +313,41 @@ export const MissionOutputStage: React.FC<MissionOutputStageProps> = ({
               .join(" ") || "The ranking engine applied your academic, funding, language, region, and Pakistan-specific constraints."}
           </div>
         )}
+
+        {/* Real-time Ineligibility Banner on Screen (< 70% Marks) */}
+        {isUnder70 && (
+          <div className="mt-3 p-4 rounded-xl bg-amber-500/10 border border-amber-500/35 text-amber-200 animate-in fade-in duration-300">
+            <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
+              <div className="flex items-start space-x-3">
+                <div className="p-2 rounded-lg bg-amber-500/20 border border-amber-500/40 text-amber-400 shrink-0 mt-0.5">
+                  <AlertTriangle className="w-5 h-5" />
+                </div>
+                <div>
+                  <div className="font-mono text-xs font-bold text-amber-300 uppercase tracking-wide flex items-center gap-2">
+                    <span>ACADEMIC STANDING ADVISORY // MERIT CUTOFF (70.0%) NOT MET</span>
+                    <span className="px-2 py-0.5 rounded bg-red-500/20 text-red-300 border border-red-500/40 text-[9px] font-bold">
+                      INELIGIBLE FOR MERIT AWARDS
+                    </span>
+                  </div>
+                  <div className="text-xs text-zinc-300 mt-1 leading-relaxed">
+                    Assalam-o-Alaikum & Welcome. Your recorded academic standing of <strong className="text-amber-300 font-mono">{candidatePercentage.toFixed(1)}%</strong> is below the official <strong>70% minimum threshold</strong> required for competitive merit scholarships (such as Stipendium Hungaricum, Chevening, and Hubert Humphrey). ScholarX has automatically highlighted alternative need-based grants (e.g. <strong>Italian Regional DSU Grants</strong>) and foundation pathways where previous marks are not a barrier.
+                  </div>
+                </div>
+              </div>
+              <button
+                type="button"
+                onClick={() => {
+                  sound.playClick();
+                  setShowIneligibleModal(true);
+                }}
+                className="px-3.5 py-2 rounded-lg bg-amber-500 hover:bg-amber-400 text-black font-mono text-xs font-bold shrink-0 transition-all shadow-[0_0_15px_rgba(245,158,11,0.25)] flex items-center space-x-1.5 cursor-pointer"
+              >
+                <span>View Polite Advisory</span>
+                <Sparkles className="w-3.5 h-3.5" />
+              </button>
+            </div>
+          </div>
+        )}
       </div>
 
       {/* 2. INTERACTIVE TAB NAVIGATION */}
@@ -341,6 +423,8 @@ export const MissionOutputStage: React.FC<MissionOutputStageProps> = ({
                 dossier.field
               }
               targetDegree={targetDegree}
+              isUnder70={isUnder70}
+              candidatePercentage={candidatePercentage}
               onSelectOpportunity={(id) => {
                 onSelectOpportunity(id);
               }}
@@ -352,8 +436,12 @@ export const MissionOutputStage: React.FC<MissionOutputStageProps> = ({
                 <span className="text-sx-gold font-bold">Selected:</span>
                 <span className="text-white font-medium">{activeOpp?.name || "None (Profile Ineligible)"}</span>
                 <span className="text-zinc-500">&bull;</span>
-                <span className="text-sx-ice">
-                  {totalCount > 0 ? "Click any card to select & update the roadmap & factors" : "Adjust academic/language metrics or regions to qualify"}
+                <span className={isUnder70 ? "text-amber-300 font-semibold" : "text-sx-ice"}>
+                  {isUnder70
+                    ? "Academic standing < 70%: Standard merit quotas blocked; prioritize Need-Based Italian DSU or preparatory pathways."
+                    : totalCount > 0
+                    ? "Click any card to select & update the roadmap & factors"
+                    : "Adjust academic/language metrics or regions to qualify"}
                 </span>
               </div>
               <button
@@ -406,6 +494,19 @@ export const MissionOutputStage: React.FC<MissionOutputStageProps> = ({
           </div>
         )}
       </div>
+
+      {/* Polite Ineligibility Modal Pop-up (< 70% Marks) */}
+      <IneligiblePoliteModal
+        isOpen={showIneligibleModal}
+        percentage={candidatePercentage}
+        gpa4Scale={studentProfile?.academic?.gpa_4_scale}
+        onClose={() => setShowIneligibleModal(false)}
+        onProceedAnyway={() => setShowIneligibleModal(false)}
+        onAdjustMarks={() => {
+          setShowIneligibleModal(false);
+          onNewMission();
+        }}
+      />
     </div>
   );
 };

@@ -295,16 +295,25 @@ export function searchScholarshipsForProfile(profile: any, limit: number = 25): 
       score += 10;
     }
 
-    // 6. GPA Cutoff Compatibility
-    const minGpaPct = s.eligibility?.min_gpa_percentage;
-    const minGpa4 = s.eligibility?.min_gpa_4_scale;
+    // 6. GPA Cutoff Compatibility (70.0% Merit Cutoff)
+    const minGpaPct = s.eligibility?.min_gpa_percentage ?? 70.0;
+    const minGpa4 = s.eligibility?.min_gpa_4_scale ?? 2.8;
+    const isNeedBased = /dsu|need[\s\-]based|regional grant|type[\s\-]b/i.test(s.name);
 
-    if (minGpaPct && studentGpa < minGpaPct) {
-      score -= 20;
-    } else if (minGpa4 && studentGpa4 < minGpa4) {
-      score -= 20;
+    if (studentGpa < 70.0) {
+      if (isNeedBased) {
+        score += 60; // Strongly prioritize need-based grant pathways when candidate is under 70%
+      } else {
+        score -= 50; // Heavily penalize strict merit programs where standard cutoff is 70%
+      }
     } else {
-      score += 10;
+      if (minGpaPct && studentGpa < minGpaPct) {
+        score -= 20;
+      } else if (minGpa4 && studentGpa4 < minGpa4) {
+        score -= 20;
+      } else {
+        score += 10;
+      }
     }
 
     // 7. Language Compatibility

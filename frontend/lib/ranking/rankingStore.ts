@@ -1003,8 +1003,23 @@ export function buildDynamicInvestigatedOpportunity(
     (profile?.language?.english_proficiency_test && !/none|not available/i.test(profile.language.english_proficiency_test))
   );
 
-  const minGpa = Number(scholarship.eligibility?.min_gpa_percentage || 65);
-  const fEligibility = Math.min(99, Math.max(68, Math.round(82 + (studentGpa - minGpa) * 0.6)));
+  const isNeedBased = /dsu|need[\s\-]based|regional grant|type[\s\-]b/i.test(oppName);
+  const isUnder70 = studentGpa > 0 && studentGpa < 70.0;
+
+  let fEligibility: number;
+  let eligRationale: string;
+
+  if (isUnder70 && !isNeedBased) {
+    fEligibility = 15;
+    eligRationale = `Ineligible: Candidate marks (${studentGpa.toFixed(1)}%) fall below the mandatory 70.0% merit cutoff for ${oppName}. Strict merit nomination requires >= 70.0%.`;
+  } else if (isUnder70 && isNeedBased) {
+    fEligibility = 95;
+    eligRationale = `Need-based grant evaluates household economic standing (ISEE Parificato); 70.0% academic merit cutoff is waived.`;
+  } else {
+    const minGpa = Number(scholarship.eligibility?.min_gpa_percentage || 65);
+    fEligibility = Math.min(99, Math.max(68, Math.round(82 + (studentGpa - minGpa) * 0.6)));
+    eligRationale = `Academic criteria for ${degreeLevel} evaluated against candidate marks (${studentGpa}%); Pakistani citizenship verified.`;
+  }
 
   const isFullFunding =
     scholarship.funding_type === "FULL" ||
@@ -1037,7 +1052,7 @@ export function buildDynamicInvestigatedOpportunity(
   const sFieldLower = studentField.toLowerCase();
   const isDirectMatch = efStr.includes(sFieldLower) || descStr.includes(sFieldLower);
   const isUniversalField = efStr.includes("all fields") || efStr.includes("all disciplines") || eligibleFields.length > 5;
-  const fAcademicFit = isDirectMatch ? 98 : isUniversalField ? 92 : 84;
+  const fAcademicFit = (isUnder70 && !isNeedBased) ? 40 : (isDirectMatch ? 98 : isUniversalField ? 92 : 84);
 
   const fDocReadiness = hasIelts ? 92 : (scholarship.language?.english_test_required === false ? 88 : 76);
 
@@ -1053,7 +1068,7 @@ export function buildDynamicInvestigatedOpportunity(
   const scoring = computeScoringFactors({
     ELIGIBILITY_MATCH: {
       score: fEligibility,
-      rationale: `Academic criteria for ${degreeLevel} evaluated against candidate marks (${studentGpa}%); Pakistani citizenship verified.`,
+      rationale: eligRationale,
       anchor: `${oppName} Eligibility Annex §2.1`,
     },
     TRUE_FUNDING: {
@@ -1111,7 +1126,7 @@ export function buildDynamicInvestigatedOpportunity(
     ? `${bilateralSeats ? `${bilateralSeats} Dedicated Quota Seats for Pakistan` : "Bilateral Quota for Pakistan"}`
     : "Open International Merit Competition";
 
-  const compositeScore =
+  const rawComposite =
     typeof scholarship.compositeScore === "number"
       ? scholarship.compositeScore
       : typeof scholarship.final_score === "number"
@@ -1119,6 +1134,10 @@ export function buildDynamicInvestigatedOpportunity(
       : typeof scholarship.overall_match_score === "number"
       ? Math.round(scholarship.overall_match_score * 10) / 10
       : scoring.totalScore;
+
+  const compositeScore = (isUnder70 && !isNeedBased)
+    ? Math.min(42.0, Math.round(rawComposite * 0.42 * 10) / 10)
+    : rawComposite;
 
   return {
     id: scholarship.id || scholarship.scholarship_id || `opp-${rank}`,
@@ -1137,10 +1156,12 @@ export function buildDynamicInvestigatedOpportunity(
     compositeScore,
     rank,
     eligibilitySummary: {
-      dimensionsMatched: 14,
+      dimensionsMatched: (isUnder70 && !isNeedBased) ? 10 : 14,
       totalDimensions: 15,
-      statusText: "PASS (Criteria Verified)",
-      criticalRequirement: hasBilateral ? "HEC Attestation & Registration" : "Standard Academic Admission",
+      statusText: (isUnder70 && !isNeedBased) ? "INELIGIBLE (Marks < 70% Cutoff)" : "PASS (Criteria Verified)",
+      criticalRequirement: (isUnder70 && !isNeedBased)
+        ? "Ineligible for Merit Award (< 70.0% cutoff); Target Need-Based DSU Grants"
+        : (hasBilateral ? "HEC Attestation & Registration" : "Standard Academic Admission"),
     },
     fundingSummary: {
       coverageType: scholarship.coverageType || (isFullFunding ? "Full Tuition + Housing + Living Allowance" : "Partial Scholarship / Subsidy"),

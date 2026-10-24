@@ -28,6 +28,11 @@ frontend/
 │   └── ui/                         → Reusable UI buttons, modals, badges
 └── lib/
     ├── store.ts                    → Central Zustand state store
+    ├── db/sqliteClient.ts          → Node:sqlite direct database queries (Vercel & local)
+    ├── db/databaseBundle.ts        → Resolves SQLite database paths across environments
+    ├── cost/pakistanCostEngine.ts  → Client-side PKR expense waterfall engine
+    ├── deadline/deadlineEngine.ts  → Client-side deadline runway calculations
+    ├── dossier/dossierResolver.ts  → Client-side deep dossier hydration
     ├── presentation-queue.ts       → SSE burst coalescing & presentation pacing
     ├── simulation-engine.ts        → 12-stage deterministic replay engine (Demo mode)
     ├── api.ts                      → Type-safe API client with Next.js rewrites

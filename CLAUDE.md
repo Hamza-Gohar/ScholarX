@@ -11,13 +11,13 @@
 # High-density system primer (~1,500 tokens)
 python scripts/context.py primer
 
-# Real-time telemetry (DB counts, keys, ports, active task)
+# Real-time telemetry (DB counts: 510 scholarships, keys: 30, ports, active task)
 python scripts/context.py status
 
 # Full system doctor (48 environment checks)
 python scripts/doctor.py
 
-# Self-healing context verification
+# Self-healing context verification (29+ checks)
 python scripts/context.py validate
 ```
 
@@ -37,13 +37,13 @@ make frontend
 
 ### Testing
 ```bash
-# Fast unit tests (schemas + API keys, ~0.2s)
-.venv/bin/pytest backend/tests/test_schemas.py backend/tests/test_api_keys.py
+# Fast unit tests (schemas + API keys + offline typo matching, ~1.0s)
+.venv/bin/pytest backend/tests/test_offline_typo_retrieval.py backend/tests/test_schemas.py backend/tests/test_api_keys.py
 
 # Security remediation test suite
 .venv/bin/pytest backend/tests/test_security_audit_remediation.py
 
-# Full test suite
+# Full test suite (44 test modules)
 make test
 ```
 
@@ -60,15 +60,20 @@ make test
 - All costs must be calculated and displayed in **Pakistani Rupees (PKR)** using `data/pakistan_costs.json`.
 - Pakistan-specific educational credentials (BISE Matric/FSc, Cambridge O/A-Levels, IBCC equivalence, HEC recognized degrees) and testing standards (HEC HAT, USAT) are first-class concepts.
 
-### 3. API Key Management (ADR-005, ADR-006)
+### 3. Offline Resilience & Typo Handling (ADR-014)
+- Student academic queries and specializations must resolve deterministically via `backend/workflows/field_matching.py` with zero tolerance for spelling failures even when completely offline.
+- Interactive standalone browser viewer is bundled in `scholarships_database_viewer.html` and portable SQLite in `scholarships_database.db` (512 opportunities).
+
+### 4. API Key Management (ADR-005, ADR-006)
 - Never call external LLM or search APIs directly.
 - Always retrieve rotating keys via `backend.utils.api_keys.get_key_manager()`. All 30 keys rotate on a per-request basis with 60s cooldowns on HTTP 429s.
 
-### 4. Database & Storage (ADR-001)
-- The system uses local single-file SQLite (`aiosqlite`) with Write-Ahead Logging (`data/scholarx_sessions.db`).
+### 5. Database & Storage (ADR-001, ADR-013)
+- The system uses local single-file SQLite (`aiosqlite`) with Write-Ahead Logging (`data/scholarx_sessions.db`) containing 510 seeded scholarships.
+- The Next.js frontend has built-in serverless SQLite support via Node 22 `node:sqlite` (`frontend/lib/db/sqliteClient.ts` & `databaseBundle.ts`).
 - Do not add Docker or external PostgreSQL/Redis dependencies for standard local execution.
 
-### 5. Frontend Conventions (ADR-009, ADR-012)
+### 6. Frontend Conventions (ADR-009, ADR-012)
 - **Stack**: Next.js 15.1.0 (App Router), React 19, Tailwind CSS, Zustand v5.
 - **Theme**: Obsidian dark glassmorphism.
 - **Typography Floor**: 6-scale semantic typography. Minimum font size is 10px monospace (`text-[10px] font-mono`). Sub-10px text is strictly prohibited.
@@ -83,9 +88,9 @@ Whenever you need specialized context, inspect these files:
 - [`.context/01_ARCHITECTURE.md`](.context/01_ARCHITECTURE.md) — System Topology & Dual Execution Modes
 - [`.context/02_BACKEND_LANGGRAPH.md`](.context/02_BACKEND_LANGGRAPH.md) — 10-Node LangGraph StateGraph & 4 Agents
 - [`.context/03_FRONTEND_THEATRE.md`](.context/03_FRONTEND_THEATRE.md) — Command Theatre, D3-Geo Stage, Zustand Store
-- [`.context/04_DATA_SCHEMAS_DB.md`](.context/04_DATA_SCHEMAS_DB.md) — SQLite Tables, 310 Deep Dossiers, Pakistan Benchmarks
+- [`.context/04_DATA_SCHEMAS_DB.md`](.context/04_DATA_SCHEMAS_DB.md) — SQLite Tables, 510 Deep Dossiers, Pakistan Benchmarks
 - [`.context/05_API_SSE_EVENTS.md`](.context/05_API_SSE_EVENTS.md) — REST Endpoints & 34+ SSE Event Types Catalog
-- [`.context/06_DECISIONS_INVARIANTS.md`](.context/06_DECISIONS_INVARIANTS.md) — Consolidated ADRs (001-012) & Invariants
+- [`.context/06_DECISIONS_INVARIANTS.md`](.context/06_DECISIONS_INVARIANTS.md) — Consolidated ADRs (001-014) & Invariants
 - [`.context/07_DEVELOPER_PLAYBOOK.md`](.context/07_DEVELOPER_PLAYBOOK.md) — Common Developer Recipes & Troubleshooting
 - [`.context/08_ACTIVE_STATE.md`](.context/08_ACTIVE_STATE.md) — Verified Features, Current Posture, Technical Debt
 - [`.context/CURRENT_TASK.md`](.context/CURRENT_TASK.md) — Active Agent Task Scratchpad
